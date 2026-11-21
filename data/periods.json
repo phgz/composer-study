@@ -1,5 +1,5 @@
 {
- "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 15 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself.",
+ "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 16 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself.",
  "composers": {
   "Ludwig van Beethoven": {
    "source": "the three periods as drawn since Wilhelm von Lenz (1852): early to the Heiligenstadt crisis (1802), middle 1803 to 1814, late from 1815; opus numbers follow composition for the most part, the early works published late taken out by their dates of composition",
@@ -1358,7 +1358,7 @@
    ]
   },
   "Franz Abt": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1367,7 +1367,7 @@
    ]
   },
   "Adolphe Adam": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1376,7 +1376,7 @@
    ]
   },
   "Stephen Adams": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1385,7 +1385,7 @@
    ]
   },
   "Dionisio Aguado": {
-   "source": "31 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "31 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1394,7 +1394,7 @@
    ]
   },
   "Isaac Albéniz": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1403,7 +1403,7 @@
    ]
   },
   "Charles-Valentin Alkan": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1412,7 +1412,7 @@
    ]
   },
   "Gregorio Allegri": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1421,7 +1421,7 @@
    ]
   },
   "Alexander Alyabyev": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1430,7 +1430,7 @@
    ]
   },
   "Andrea Amendola": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1439,7 +1439,7 @@
    ]
   },
   "Johann André": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1448,7 +1448,7 @@
    ]
   },
   "Jean-Baptiste Arban": {
-   "source": "50 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "50 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1457,7 +1457,7 @@
    ]
   },
   "Thoinot Arbeau": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1466,7 +1466,7 @@
    ]
   },
   "Alexander Archangelsky": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1475,7 +1475,7 @@
    ]
   },
   "Attilio Ariosti": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1484,7 +1484,7 @@
    ]
   },
   "Thomas Arne": {
-   "source": "12 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1493,7 +1493,7 @@
    ]
   },
   "Joseph Ascher": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1502,7 +1502,7 @@
    ]
   },
   "J. L. Macbeth Bain": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1511,7 +1511,7 @@
    ]
   },
   "Thomas Baltzar": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1520,7 +1520,7 @@
    ]
   },
   "Adriano Banchieri": {
-   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "6 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1529,7 +1529,7 @@
    ]
   },
   "John Banister": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1538,7 +1538,7 @@
    ]
   },
   "Emanuele Barbella": {
-   "source": "14 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "14 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1547,7 +1547,7 @@
    ]
   },
   "Franz Behr": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1556,7 +1556,7 @@
    ]
   },
   "Georg Benda": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1565,7 +1565,7 @@
    ]
   },
   "Peter Benoit": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1574,7 +1574,7 @@
    ]
   },
   "Henry Bishop": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1583,7 +1583,7 @@
    ]
   },
   "Benjamin Blake": {
-   "source": "14 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "14 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1592,7 +1592,7 @@
    ]
   },
   "Philip Paul Bliss": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1601,7 +1601,7 @@
    ]
   },
   "Joseph Bodin de Boismortier": {
-   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "19 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1610,7 +1610,7 @@
    ]
   },
   "Dmitry Bortniansky": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1619,7 +1619,7 @@
    ]
   },
   "William Batchelder Bradbury": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1628,7 +1628,7 @@
    ]
   },
   "Max Bruch": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1637,7 +1637,7 @@
    ]
   },
   "Anton Bruckner": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1646,7 +1646,7 @@
    ]
   },
   "Friedrich Burgmüller": {
-   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "19 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1655,7 +1655,7 @@
    ]
   },
   "Matteo Carcassi": {
-   "source": "58 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "58 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1664,7 +1664,7 @@
    ]
   },
   "Henry Carey": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1673,7 +1673,7 @@
    ]
   },
   "Ferdinando Carulli": {
-   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "9 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1682,7 +1682,7 @@
    ]
   },
   "Domenico Caudioso": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1691,7 +1691,7 @@
    ]
   },
   "Ernesto Cavallini": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1700,7 +1700,7 @@
    ]
   },
   "Carlo Cecere": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1709,7 +1709,7 @@
    ]
   },
   "Giovanni Ceresini": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1718,7 +1718,7 @@
    ]
   },
   "Emmanuel Chabrier": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1727,7 +1727,7 @@
    ]
   },
   "Marc-Antoine Charpentier": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1736,7 +1736,7 @@
    ]
   },
   "Charlotte Alington Barnard": {
-   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "6 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1745,7 +1745,7 @@
    ]
   },
   "Muzio Clementi": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1754,7 +1754,7 @@
    ]
   },
   "Gioacchino Cocchi": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1763,7 +1763,7 @@
    ]
   },
   "Peter Cornelius": {
-   "source": "34 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "33 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1772,7 +1772,7 @@
    ]
   },
   "Napoléon Coste": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1781,7 +1781,7 @@
    ]
   },
   "William Croft": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1790,7 +1790,7 @@
    ]
   },
   "Arcangelo Crotti": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1799,7 +1799,7 @@
    ]
   },
   "Johann Crüger": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1808,7 +1808,7 @@
    ]
   },
   "Carl Czerny": {
-   "source": "29 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "29 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1817,7 +1817,7 @@
    ]
   },
   "Jean-François Dandrieu": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1826,7 +1826,7 @@
    ]
   },
   "François Devienne": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1835,7 +1835,7 @@
    ]
   },
   "Anton Diabelli": {
-   "source": "48 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "48 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1844,7 +1844,7 @@
    ]
   },
   "Charles J. Dickinson": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1853,7 +1853,7 @@
    ]
   },
   "William Howard Doane": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1862,7 +1862,7 @@
    ]
   },
   "Gaetano Donizetti": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1871,7 +1871,7 @@
    ]
   },
   "Paul Dukas": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1880,7 +1880,7 @@
    ]
   },
   "Jan Ladislav Dussek": {
-   "source": "18 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "18 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1889,7 +1889,7 @@
    ]
   },
   "Florimond van Duyse": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1898,7 +1898,7 @@
    ]
   },
   "John Bacchus Dykes": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1907,7 +1907,7 @@
    ]
   },
   "James Ellor": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1916,7 +1916,7 @@
    ]
   },
   "George Job Elvey": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1925,7 +1925,7 @@
    ]
   },
   "Michel Farinel": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1934,7 +1934,7 @@
    ]
   },
   "John Field": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1943,7 +1943,7 @@
    ]
   },
   "Johann Caspar Ferdinand Fischer": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1952,7 +1952,7 @@
    ]
   },
   "Stephen Foster": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1961,7 +1961,7 @@
    ]
   },
   "Robert Franz": {
-   "source": "50 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "50 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1970,7 +1970,7 @@
    ]
   },
   "Frederick II of Prussia": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1979,7 +1979,7 @@
    ]
   },
   "Johann Jakob Froberger": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1988,7 +1988,7 @@
    ]
   },
   "Robert Fuchs": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -1997,7 +1997,7 @@
    ]
   },
   "Gaspare Gabellone": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2006,7 +2006,7 @@
    ]
   },
   "Vincenzo Galilei": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2015,7 +2015,7 @@
    ]
   },
   "Giovanni Giacomo Gastoldi": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2024,7 +2024,7 @@
    ]
   },
   "Henry John Gauntlett": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2033,7 +2033,7 @@
    ]
   },
   "Giovanni Battista Gervasio": {
-   "source": "18 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "18 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2042,7 +2042,7 @@
    ]
   },
   "Carlo Gesualdo": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2051,7 +2051,7 @@
    ]
   },
   "Felice Giardini": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2060,7 +2060,7 @@
    ]
   },
   "Orlando Gibbons": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2069,7 +2069,7 @@
    ]
   },
   "Eugène Gigout": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2078,7 +2078,7 @@
    ]
   },
   "Giuseppe Giordani": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2087,7 +2087,7 @@
    ]
   },
   "Mauro Giuliani": {
-   "source": "105 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "105 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2096,7 +2096,7 @@
    ]
   },
   "Giuseppe Giuliano": {
-   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "9 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2105,7 +2105,7 @@
    ]
   },
   "Alexander Glazunov": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2114,7 +2114,7 @@
    ]
   },
   "Charles William Glover": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2123,7 +2123,7 @@
    ]
   },
   "Louis Gobbaerts": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2132,7 +2132,7 @@
    ]
   },
   "John Goss": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2141,7 +2141,7 @@
    ]
   },
   "François-Joseph Gossec": {
-   "source": "8 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2150,7 +2150,7 @@
    ]
   },
   "Louis Moreau Gottschalk": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2159,7 +2159,7 @@
    ]
   },
   "Charles Gounod": {
-   "source": "15 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "15 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2168,7 +2168,7 @@
    ]
   },
   "Alessandro Grandi": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2177,7 +2177,7 @@
    ]
   },
   "Henry Wellington Greatorex": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2186,7 +2186,7 @@
    ]
   },
   "Matthias Greiter": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2195,7 +2195,7 @@
    ]
   },
   "Nicolas de Grigny": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2204,7 +2204,7 @@
    ]
   },
   "Franz Xaver Gruber": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2213,7 +2213,7 @@
    ]
   },
   "Robert Browne Hall": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2222,7 +2222,7 @@
    ]
   },
   "Charles-Louis Hanon": {
-   "source": "20 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "20 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2231,7 +2231,7 @@
    ]
   },
   "Johann Adolph Hasse": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2240,7 +2240,7 @@
    ]
   },
   "Thomas Hastings": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2249,7 +2249,7 @@
    ]
   },
   "John Hatton": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2258,7 +2258,7 @@
    ]
   },
   "Peter Heise": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2267,7 +2267,7 @@
    ]
   },
   "Eugen Hildach": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2276,7 +2276,7 @@
    ]
   },
   "Felix Horetzky": {
-   "source": "60 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "60 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2285,7 +2285,7 @@
    ]
   },
   "Charles Edward Horsley": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2294,7 +2294,7 @@
    ]
   },
   "John Hughes": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2303,7 +2303,7 @@
    ]
   },
   "Semen Hulak-Artemovsky": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2312,7 +2312,7 @@
    ]
   },
   "John Hullah": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2321,7 +2321,7 @@
    ]
   },
   "Engelbert Humperdinck": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2330,7 +2330,7 @@
    ]
   },
   "Charles Hunter": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2339,7 +2339,7 @@
    ]
   },
   "Jeremiah Ingalls": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2348,7 +2348,7 @@
    ]
   },
   "Mikhail Ippolitov-Ivanov": {
-   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "19 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2357,7 +2357,7 @@
    ]
   },
   "James James": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2366,7 +2366,7 @@
    ]
   },
   "Clément Janequin": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2375,7 +2375,7 @@
    ]
   },
   "Jean Japart": {
-   "source": "26 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "22 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2384,7 +2384,7 @@
    ]
   },
   "Thomas Jarman": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2393,7 +2393,7 @@
    ]
   },
   "John Jeffreys": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2402,7 +2402,7 @@
    ]
   },
   "William Herbert Jude": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2411,7 +2411,7 @@
    ]
   },
   "Franz Joseph Keyper": {
-   "source": "20 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "20 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2420,7 +2420,7 @@
    ]
   },
   "George Frederick Kiallmark": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2429,7 +2429,7 @@
    ]
   },
   "Phoebe Palmer Knapp": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2438,7 +2438,7 @@
    ]
   },
   "František Max Kníže": {
-   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "19 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2447,7 +2447,7 @@
    ]
   },
   "Conrad Kocher": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2456,7 +2456,7 @@
    ]
   },
   "Georg Kopprasch": {
-   "source": "66 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "66 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2465,7 +2465,7 @@
    ]
   },
   "Alexander Kopylov": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2474,7 +2474,7 @@
    ]
   },
   "Joseph Küffner": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2483,7 +2483,7 @@
    ]
   },
   "Friedrich Kuhlau": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2492,7 +2492,7 @@
    ]
   },
   "August Kühnel": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2501,7 +2501,7 @@
    ]
   },
   "Franz Lachner": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2510,7 +2510,7 @@
    ]
   },
   "Édouard Lalo": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2519,7 +2519,7 @@
    ]
   },
   "Ferdinand Laub": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2528,7 +2528,7 @@
    ]
   },
   "Leonardo Leo": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2537,7 +2537,7 @@
    ]
   },
   "Jean-Baptiste Loeillet": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2546,7 +2546,7 @@
    ]
   },
   "Antonio Lotti": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2555,7 +2555,7 @@
    ]
   },
   "Robert Lowry": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2564,7 +2564,7 @@
    ]
   },
   "Martin Luther": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2573,7 +2573,7 @@
    ]
   },
   "John Major": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2582,7 +2582,7 @@
    ]
   },
   "Francesco Mancini": {
-   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "9 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2591,7 +2591,7 @@
    ]
   },
   "Arthur Henry Mann": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2600,7 +2600,7 @@
    ]
   },
   "Benedetto Marcello": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2609,7 +2609,7 @@
    ]
   },
   "Luca Marenzio": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2618,7 +2618,7 @@
    ]
   },
   "Simeon Butler Marsh": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2627,7 +2627,7 @@
    ]
   },
   "Giovanni Battista Martini": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2636,7 +2636,7 @@
    ]
   },
   "Lowell Mason": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2645,7 +2645,7 @@
    ]
   },
   "Wenzel Thomas Matiegka": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2654,7 +2654,7 @@
    ]
   },
   "Étienne-Nicolas Méhul": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2663,7 +2663,7 @@
    ]
   },
   "Saverio Mercadante": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2672,7 +2672,7 @@
    ]
   },
   "Johann Kaspar Mertz": {
-   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "9 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2681,7 +2681,7 @@
    ]
   },
   "Arthur Henry Messiter": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2690,7 +2690,7 @@
    ]
   },
   "Luis de Milán": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2699,7 +2699,7 @@
    ]
   },
   "William Henry Monk": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2708,7 +2708,7 @@
    ]
   },
   "Philippe de Monte": {
-   "source": "29 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "29 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2717,7 +2717,7 @@
    ]
   },
   "Thomas Moore": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2726,7 +2726,7 @@
    ]
   },
   "Charles Moreland": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2735,7 +2735,7 @@
    ]
   },
   "August Eberhard Müller": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2744,7 +2744,7 @@
    ]
   },
   "Georg Muffat": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2753,7 +2753,7 @@
    ]
   },
   "John W. Mullen": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2762,7 +2762,7 @@
    ]
   },
   "James Ramsey Murray": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2771,7 +2771,7 @@
    ]
   },
   "Juozas Naujalis": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2780,7 +2780,7 @@
    ]
   },
   "August Neithardt": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2789,7 +2789,7 @@
    ]
   },
   "Georg Neumark": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2798,7 +2798,7 @@
    ]
   },
   "Philipp Nicolai": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2807,7 +2807,7 @@
    ]
   },
   "Albert Lister Peace": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2816,7 +2816,7 @@
    ]
   },
   "Alfred Humphries Pease": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2825,7 +2825,7 @@
    ]
   },
   "Dora Pejačević": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2834,7 +2834,7 @@
    ]
   },
   "Johann Christoph Pezel": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2843,7 +2843,7 @@
    ]
   },
   "Ignaz Pleyel": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2852,7 +2852,7 @@
    ]
   },
   "Nicola Porpora": {
-   "source": "89 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "89 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2861,7 +2861,7 @@
    ]
   },
   "Mr. Powlwheel": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2870,7 +2870,7 @@
    ]
   },
   "Giovanni Priuli": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2879,7 +2879,7 @@
    ]
   },
   "Johann Joachim Quantz": {
-   "source": "13 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "13 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2888,7 +2888,7 @@
    ]
   },
   "Mr. Reddings": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2897,7 +2897,7 @@
    ]
   },
   "Lewis Henry Redner": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2906,7 +2906,7 @@
    ]
   },
   "Max Reger": {
-   "source": "32 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "32 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2915,7 +2915,7 @@
    ]
   },
   "Oskar Rieding": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2924,7 +2924,7 @@
    ]
   },
   "Ferdinand Ries": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2933,7 +2933,7 @@
    ]
   },
   "Christian Ritter": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2942,7 +2942,7 @@
    ]
   },
   "François Roberday": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2951,7 +2951,7 @@
    ]
   },
   "Alessandro Rolla": {
-   "source": "8 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2960,7 +2960,7 @@
    ]
   },
   "George Frederick Root": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2969,7 +2969,7 @@
    ]
   },
   "Claude Joseph Rouget de Lisle": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2978,7 +2978,7 @@
    ]
   },
   "Joseph-Nicolas-Pancrace Royer": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2987,7 +2987,7 @@
    ]
   },
   "Ernst Rudorff": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -2996,7 +2996,7 @@
    ]
   },
   "Giovanni Felice Sances": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3005,7 +3005,7 @@
    ]
   },
   "Gaspar Sanz": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3014,7 +3014,7 @@
    ]
   },
   "Heinrich Scheidemann": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3023,7 +3023,7 @@
    ]
   },
   "Johann Heinrich Schmelzer": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3032,7 +3032,7 @@
    ]
   },
   "Johann Schop": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3041,7 +3041,7 @@
    ]
   },
   "Gustav Schreck": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3050,7 +3050,7 @@
    ]
   },
   "Johann Abraham Peter Schulz": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3059,7 +3059,7 @@
    ]
   },
   "Clara H. Fiske Scott": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3068,7 +3068,7 @@
    ]
   },
   "William Fiske Sherwin": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3077,7 +3077,7 @@
    ]
   },
   "Friedrich Silcher": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3086,7 +3086,7 @@
    ]
   },
   "Hans Sitt": {
-   "source": "20 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "20 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3095,7 +3095,7 @@
    ]
   },
   "William Smallwood": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3104,7 +3104,7 @@
    ]
   },
   "Henry Smart": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3113,7 +3113,7 @@
    ]
   },
   "Fernando Sor": {
-   "source": "82 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "82 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3122,7 +3122,7 @@
    ]
   },
   "Daniel Speer": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3131,7 +3131,7 @@
    ]
   },
   "Louis Spohr": {
-   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "6 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3140,7 +3140,7 @@
    ]
   },
   "John Stainer": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3149,7 +3149,7 @@
    ]
   },
   "Alexei Stanchinsky": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3158,7 +3158,7 @@
    ]
   },
   "Kyrylo Stetsenko": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3167,7 +3167,7 @@
    ]
   },
   "Franz Strauss": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3176,7 +3176,7 @@
    ]
   },
   "Johann Strauss II": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3185,7 +3185,7 @@
    ]
   },
   "Arthur Sullivan": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3194,7 +3194,7 @@
    ]
   },
   "Hermann Suter": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3203,7 +3203,7 @@
    ]
   },
   "Georg Philipp Telemann": {
-   "source": "29 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "29 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3212,7 +3212,7 @@
    ]
   },
   "Melchior Teschner": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3221,7 +3221,7 @@
    ]
   },
   "Maria Tiddeman": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3230,7 +3230,7 @@
    ]
   },
   "Jean Titelouze": {
-   "source": "23 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "23 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3239,7 +3239,7 @@
    ]
   },
   "Lizzie Estabrook Tourjée": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3248,7 +3248,7 @@
    ]
   },
   "Daniel Brink Towner": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3257,7 +3257,7 @@
    ]
   },
   "Tom Turpin": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3266,7 +3266,7 @@
    ]
   },
   "Vito Ugolino": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3275,7 +3275,7 @@
    ]
   },
   "Nicola Vaccai": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3284,7 +3284,7 @@
    ]
   },
   "Giovanni Valentini": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3293,7 +3293,7 @@
    ]
   },
   "Lazaro Valvasensi": {
-   "source": "20 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "20 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3302,7 +3302,7 @@
    ]
   },
   "A. Veliumov": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3311,7 +3311,7 @@
    ]
   },
   "Giuseppe Verdi": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3320,7 +3320,7 @@
    ]
   },
   "Tomás Luis de Victoria": {
-   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "6 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3329,7 +3329,7 @@
    ]
   },
   "Paul Vidal": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3338,7 +3338,7 @@
    ]
   },
   "Leonardo Vinci": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3347,7 +3347,7 @@
    ]
   },
   "Filippo Vitali": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3356,7 +3356,7 @@
    ]
   },
   "Robert Volkmann": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3365,7 +3365,7 @@
    ]
   },
   "John Francis Wade": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3374,7 +3374,7 @@
    ]
   },
   "Johann Baptist Wanhal": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3383,7 +3383,7 @@
    ]
   },
   "Matthias Weckmann": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3392,7 +3392,7 @@
    ]
   },
   "Thomas Weelkes": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3401,7 +3401,7 @@
    ]
   },
   "Charles-Marie Widor": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3410,7 +3410,7 @@
    ]
   },
   "Robert Williams": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3419,7 +3419,7 @@
    ]
   },
   "Robert H. Williams": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3428,7 +3428,7 @@
    ]
   },
   "Richard Storrs Willis": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3437,7 +3437,7 @@
    ]
   },
   "Christian Friedrich Witt": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3446,7 +3446,7 @@
    ]
   },
   "John Wyeth": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3455,7 +3455,7 @@
    ]
   },
   "Jane Bingham Abbott": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3464,7 +3464,7 @@
    ]
   },
   "Harriett Abrams": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3473,7 +3473,7 @@
    ]
   },
   "Granville Bantock": {
-   "source": "5 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3482,7 +3482,7 @@
    ]
   },
   "Joseph Barnby": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3491,7 +3491,7 @@
    ]
   },
   "Ethel Barns": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3500,7 +3500,7 @@
    ]
   },
   "Amy Beach": {
-   "source": "13 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "13 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3509,7 +3509,7 @@
    ]
   },
   "Hector Berlioz": {
-   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3518,7 +3518,7 @@
    ]
   },
   "Jane Bianchi Lacy": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3527,7 +3527,7 @@
    ]
   },
   "Mel Bonis": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3536,7 +3536,7 @@
    ]
   },
   "Harold Boulton": {
-   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3545,7 +3545,7 @@
    ]
   },
   "Frank Bridge": {
-   "source": "23 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "23 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3554,7 +3554,7 @@
    ]
   },
   "Augusta Browne": {
-   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3563,7 +3563,7 @@
    ]
   },
   "Harry Burleigh": {
-   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3572,7 +3572,7 @@
    ]
   },
   "George Butterworth": {
-   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3581,7 +3581,7 @@
    ]
   },
   "Alfred Cellier": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3590,7 +3590,7 @@
    ]
   },
   "Cécile Chaminade": {
-   "source": "35 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "35 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3599,7 +3599,7 @@
    ]
   },
   "Ernest Chausson": {
-   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3608,7 +3608,7 @@
    ]
   },
   "Samuel Coleridge-Taylor": {
-   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3617,7 +3617,7 @@
    ]
   },
   "Frederick Corder": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3626,7 +3626,7 @@
    ]
   },
   "Frederic Hymen Cowen": {
-   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3635,7 +3635,7 @@
    ]
   },
   "Walford Davies": {
-   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3644,7 +3644,7 @@
    ]
   },
   "Ellen Dickson": {
-   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3653,7 +3653,7 @@
    ]
   },
   "Stefano Donaudy": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3662,7 +3662,7 @@
    ]
   },
   "Pauline Duchambge": {
-   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3671,7 +3671,7 @@
    ]
   },
   "Clara Mathilda Faisst": {
-   "source": "30 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "30 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3680,7 +3680,7 @@
    ]
   },
   "Evelyn Faltis": {
-   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3689,7 +3689,7 @@
    ]
   },
   "Louise Farrenc": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3698,7 +3698,7 @@
    ]
   },
   "Gabrielle Ferrari": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3707,7 +3707,7 @@
    ]
   },
   "Ange Flégier": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3716,7 +3716,7 @@
    ]
   },
   "Eleanor Everest Freer": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3725,7 +3725,7 @@
    ]
   },
   "Virginia Gabriel": {
-   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3734,7 +3734,7 @@
    ]
   },
   "Sophie Gail": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3743,7 +3743,7 @@
    ]
   },
   "Elisabetta de Gambarini": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3752,7 +3752,7 @@
    ]
   },
   "Edward German": {
-   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3761,7 +3761,7 @@
    ]
   },
   "Chiquinha Gonzaga": {
-   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3770,7 +3770,7 @@
    ]
   },
   "Clémence de Grandval": {
-   "source": "13 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "13 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3779,7 +3779,7 @@
    ]
   },
   "Louisa Gray": {
-   "source": "7 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "7 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3788,7 +3788,7 @@
    ]
   },
   "Luise Greger": {
-   "source": "9 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "9 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3797,7 +3797,7 @@
    ]
   },
   "Jane Mary Guest": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3806,7 +3806,7 @@
    ]
   },
   "Ivor Gurney": {
-   "source": "6 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "6 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3815,7 +3815,7 @@
    ]
   },
   "Reynaldo Hahn": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3824,7 +3824,7 @@
    ]
   },
   "Guy d'Hardelot": {
-   "source": "9 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "9 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3833,7 +3833,7 @@
    ]
   },
   "Faustina Hasse Hodges": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3842,7 +3842,7 @@
    ]
   },
   "Augusta Holmès": {
-   "source": "73 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "73 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3851,7 +3851,7 @@
    ]
   },
   "Helen Hopekirk": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3860,7 +3860,7 @@
    ]
   },
   "Amy Elsie Horrocks": {
-   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3869,7 +3869,7 @@
    ]
   },
   "Charles Ives": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3878,7 +3878,7 @@
    ]
   },
   "Carrie Jacobs-Bond": {
-   "source": "5 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3887,7 +3887,7 @@
    ]
   },
   "Marie Jaëll": {
-   "source": "17 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "17 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3896,7 +3896,7 @@
    ]
   },
   "Johanna Kinkel": {
-   "source": "45 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "45 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3905,7 +3905,7 @@
    ]
   },
   "Mathilde Kralik": {
-   "source": "18 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "18 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3914,7 +3914,7 @@
    ]
   },
   "Josephine Lang": {
-   "source": "52 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "52 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3923,7 +3923,7 @@
    ]
   },
   "Luise Adolpha Le Beau": {
-   "source": "7 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "7 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3932,7 +3932,7 @@
    ]
   },
   "Amelia Lehmann": {
-   "source": "5 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3941,7 +3941,7 @@
    ]
   },
   "Liza Lehmann": {
-   "source": "29 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "29 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3950,7 +3950,7 @@
    ]
   },
   "Ruggero Leoncavallo": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3959,7 +3959,7 @@
    ]
   },
   "Liliʻuokalani": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3968,7 +3968,7 @@
    ]
   },
   "Maria Lindsay": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3977,7 +3977,7 @@
    ]
   },
   "Alexander Mackenzie": {
-   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3986,7 +3986,7 @@
    ]
   },
   "Florence Ashton Marshall": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3995,7 +3995,7 @@
    ]
   },
   "Jules Massenet": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4004,7 +4004,7 @@
    ]
   },
   "Ann Mounsey Bartholomew": {
-   "source": "7 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "7 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4013,7 +4013,7 @@
    ]
   },
   "Helena Munktell": {
-   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4022,7 +4022,7 @@
    ]
   },
   "Laura Netzel": {
-   "source": "7 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "7 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4031,7 +4031,7 @@
    ]
   },
   "Fernando Obradors": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4040,7 +4040,7 @@
    ]
   },
   "Émile Paladilhe": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4049,7 +4049,7 @@
    ]
   },
   "Maria Theresia von Paradis": {
-   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4058,7 +4058,7 @@
    ]
   },
   "Walter Parratt": {
-   "source": "13 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "13 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4067,7 +4067,7 @@
    ]
   },
   "Hubert Parry": {
-   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4076,7 +4076,7 @@
    ]
   },
   "Elizabeth Phillips": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4085,7 +4085,7 @@
    ]
   },
   "Elizabeth Philp": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4094,7 +4094,7 @@
    ]
   },
   "Poldowski (Irène Régine Wieniawski)": {
-   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4103,7 +4103,7 @@
    ]
   },
   "Loïsa Puget": {
-   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4112,7 +4112,7 @@
    ]
   },
   "Roger Quilter": {
-   "source": "11 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "11 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4121,7 +4121,7 @@
    ]
   },
   "Louise Reichardt": {
-   "source": "43 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "43 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4130,7 +4130,7 @@
    ]
   },
   "Cyril Rootham": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4139,7 +4139,7 @@
    ]
   },
   "Corona Schröter": {
-   "source": "25 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "25 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4148,7 +4148,7 @@
    ]
   },
   "Clara Schumann": {
-   "source": "22 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "22 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4157,7 +4157,7 @@
    ]
   },
   "William Shield": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4166,7 +4166,7 @@
    ]
   },
   "Ethel Smyth": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4175,7 +4175,7 @@
    ]
   },
   "Arthur Somervell": {
-   "source": "10 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "10 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4184,7 +4184,7 @@
    ]
   },
   "Charles Villiers Stanford": {
-   "source": "25 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "25 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4193,7 +4193,7 @@
    ]
   },
   "Alice Tegnér": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4202,7 +4202,7 @@
    ]
   },
   "Pauline Thys": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4211,7 +4211,7 @@
    ]
   },
   "Francesco Paolo Tosti": {
-   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4220,7 +4220,7 @@
    ]
   },
   "Pauline Viardot": {
-   "source": "21 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "21 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4229,7 +4229,7 @@
    ]
   },
   "Peter Warlock": {
-   "source": "22 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "22 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4238,7 +4238,7 @@
    ]
   },
   "Harold White": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4247,7 +4247,7 @@
    ]
   },
   "Maude Valérie White": {
-   "source": "6 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "6 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4256,7 +4256,7 @@
    ]
   },
   "Hugo Wolf": {
-   "source": "31 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "31 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4265,7 +4265,7 @@
    ]
   },
   "Charles Wood": {
-   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 song in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4274,7 +4274,7 @@
    ]
   },
   "Alexander von Zemlinsky": {
-   "source": "11 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "11 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4283,7 +4283,7 @@
    ]
   },
   "Emilie Zumsteeg": {
-   "source": "11 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "11 songs in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4292,7 +4292,7 @@
    ]
   },
   "Elfrida Andrée": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4301,7 +4301,7 @@
    ]
   },
   "Juan Crisóstomo de Arriaga": {
-   "source": "12 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4310,7 +4310,7 @@
    ]
   },
   "Luigi Boccherini": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4319,7 +4319,7 @@
    ]
   },
   "Ferruccio Busoni": {
-   "source": "8 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4328,7 +4328,7 @@
    ]
   },
   "Teresa Carreño": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4337,7 +4337,7 @@
    ]
   },
   "Luigi Cherubini": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4346,7 +4346,7 @@
    ]
   },
   "Jean Cras": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4355,7 +4355,7 @@
    ]
   },
   "Carl Ditters von Dittersdorf": {
-   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "9 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4364,7 +4364,7 @@
    ]
   },
   "Mikhail Glinka": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4373,7 +4373,7 @@
    ]
   },
   "Théodore Gouvy": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4382,7 +4382,7 @@
    ]
   },
   "Franz Anton Hoffmeister": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4391,7 +4391,7 @@
    ]
   },
   "Vincent d'Indy": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4400,7 +4400,7 @@
    ]
   },
   "Johann Wenzel Kalliwoda": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4409,7 +4409,7 @@
    ]
   },
   "Charles Koechlin": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4418,7 +4418,7 @@
    ]
   },
   "Halina Krzyżanowska": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4427,7 +4427,7 @@
    ]
   },
   "Amanda Maier": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4436,7 +4436,7 @@
    ]
   },
   "Ernest John Moeran": {
-   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "3 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4445,7 +4445,7 @@
    ]
   },
   "Johanna Müller-Hermann": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4454,7 +4454,7 @@
    ]
   },
   "George Onslow": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4463,7 +4463,7 @@
    ]
   },
   "Joseph Bologne, Chevalier de Saint-Georges": {
-   "source": "12 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "12 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4472,7 +4472,7 @@
    ]
   },
   "Erwin Schulhoff": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4481,7 +4481,7 @@
    ]
   },
   "Wilhelm Stenhammar": {
-   "source": "8 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "8 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4490,7 +4490,7 @@
    ]
   },
   "Josef Suk": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4499,7 +4499,7 @@
    ]
   },
   "Henri Vieuxtemps": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4508,7 +4508,7 @@
    ]
   },
   "Giovanni Battista Viotti": {
-   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "6 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4517,7 +4517,7 @@
    ]
   },
   "Alexander Agricola": {
-   "source": "11 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "11 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4526,7 +4526,7 @@
    ]
   },
   "Gilles Binchois": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4535,7 +4535,7 @@
    ]
   },
   "Antoine Brumel": {
-   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "6 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4544,7 +4544,7 @@
    ]
   },
   "Antoine Busnoys": {
-   "source": "66 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "66 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4553,7 +4553,7 @@
    ]
   },
   "Loyset Compère": {
-   "source": "27 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "27 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4562,7 +4562,7 @@
    ]
   },
   "Ludwig Daser": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4571,7 +4571,7 @@
    ]
   },
   "Guillaume Du Fay": {
-   "source": "35 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "35 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4580,7 +4580,7 @@
    ]
   },
   "Walter Frye": {
-   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4589,7 +4589,7 @@
    ]
   },
   "Antoine de Févin": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4598,7 +4598,7 @@
    ]
   },
   "Gaspar van Weerbeke": {
-   "source": "95 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "95 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4607,7 +4607,7 @@
    ]
   },
   "Heinrich Isaac": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4616,7 +4616,7 @@
    ]
   },
   "Johannes Martini": {
-   "source": "119 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "119 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4625,7 +4625,7 @@
    ]
   },
   "Jacob Obrecht": {
-   "source": "15 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "15 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4634,7 +4634,7 @@
    ]
   },
   "Johannes Ockeghem": {
-   "source": "96 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "96 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4643,7 +4643,7 @@
    ]
   },
   "Marbrianus de Orto": {
-   "source": "43 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "43 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4652,7 +4652,7 @@
    ]
   },
   "Matthaeus Pipelare": {
-   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "5 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4661,7 +4661,7 @@
    ]
   },
   "Johannes Regis": {
-   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "4 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4670,7 +4670,7 @@
    ]
   },
   "Pierre de La Rue": {
-   "source": "172 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "172 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4679,7 +4679,7 @@
    ]
   },
   "Johannes Tinctoris": {
-   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "19 works in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4688,7 +4688,7 @@
    ]
   },
   "Mily Balakirev": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4697,7 +4697,7 @@
    ]
   },
   "Sergei Prokofiev": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4706,7 +4706,7 @@
    ]
   },
   "J. Rosamond Johnson": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4715,7 +4715,7 @@
    ]
   },
   "D. Luca": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -4724,7 +4724,7 @@
    ]
   },
   "Vicente Lusitano": {
-   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
