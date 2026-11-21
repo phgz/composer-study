@@ -36,3 +36,9 @@ def test_every_line_has_its_reason():
         for p in entry['periods']:
             assert p.get('name') and p.get('why'), (name, p)
             if p.get('years'): assert p['years'][0] <= p['years'][1], (name, p)
+
+
+def test_a_version_named_in_the_title():
+    assert P.period_of(w('Franz Liszt', ['S 270'], 'sonetti di Petrarca, S.270b, Pace non trovo (OpenScore)'))[0] == 'late'
+    assert P.period_of(w('Claudio Monteverdi', label='Beatus vir (SV 268) (Mutopia)'))[0] == 'Venice'
+    assert P.period_of(w('Claudio Monteverdi', label='Dixit Dominus (SV 206) (Mutopia)'))[0] is None

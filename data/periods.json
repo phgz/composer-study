@@ -381,10 +381,8 @@
       1822,
       1847
      ],
-     "S": [
-      270
-     ],
-     "why": "the Petrarch sonnets in their first version (1842-46)"
+     "why": "the Petrarch sonnets in their first version (S. 270a, 1842-46)",
+     "label": "S\\.270a"
     },
     {
      "name": "Weimar",
@@ -415,7 +413,8 @@
      "S": [
       145
      ],
-     "why": "from 1862: the two concert studies (1862-63)"
+     "why": "from 1862: the two concert studies (1862-63) and the second version of the Petrarch sonnets (S. 270b, revised in the 1860s, published 1883); a key S 270 alone does not say which version, so the version is read from the title",
+     "label": "S\\.270b"
     }
    ]
   },
@@ -516,8 +515,8 @@
       1613,
       1643
      ],
-     "label": "(?i)sesto libro|settimo libro|ottavo libro|guerrier|amoros|sestina|maddalena|\\bSV 2[0-9]{2}\\b",
-     "why": "from the sixth book (1614, with the Sestina) to the eighth (1638), the Musiche per la Maddalena (1617) and the sacred works of the Selva morale (1641)"
+     "label": "(?i)sesto libro|settimo libro|ottavo libro|guerrier|amoros|sestina|maddalena|\\bSV 2(?:5[2-9]|[6-8][0-9])\\b",
+     "why": "from the sixth book (1614, with the Sestina) to the eighth (1638), the Musiche per la Maddalena (1617) and the sacred works of the Selva morale (SV 252-288, 1641); the Vespers of 1610 (SV 206) are not placed"
     }
    ]
   },
