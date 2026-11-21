@@ -34,7 +34,15 @@ An editor's copy for MIDI writes its repeats out, so repeated sections count twi
 ## 4. Each work once, each composer in proportion
 
 - A work held by two collections counts once (`replaces` in the catalogue). A movement kept from another collection (`also_in`) counts once too.
-- Bach has 1,025 works in version 9, Hildegard 5. The narrow units fall back to the composer, then the period, then everything, where a unit has little to go on. Those shared levels weigh composers equally, or every fallback drifts toward Bach.
+- The narrow units fall back to the composer, then the period, then everything, where a unit has little to go on. Those shared levels weigh by works: each work's counts are scaled to weigh one, whatever its length.
+- No composer weighs more than a tenth of a shared level. Bach has 1,025 of the 2,022 Baroque works in version 14, half the level; held at a tenth, the fallbacks do not drift toward him. What a capped composer gives up is shared among the others by their works. Weighing each composer equally (the rule before 21 November 2026) would make one song of Ethel Smyth's weigh as much as Brahms's 137 works.
+- The cap and the version it was applied to are recorded with each model.
+
+## 4a. Who is counted
+
+The shared levels count every composer before 1950 whose scores score-reader's pinned collections hold, drawn or not (Philip, 21 November 2026). That includes the sheet's Set aside composers and composers not on the sheet at all (most of OpenScore Lieder's 107, the Josquin Research Project's others, Mutopia's). A baseline made only of the canon's distinctive composers would make the distinctive look normal: Albinoni and Telemann are the background against which Vivaldi stands out. Their profiles may also show what a composer the sheet set aside for want of knowing her music has of her own.
+
+Not counted: composers after 1950 (under copyright, nearly absent from open collections, and present elsewhere mostly as users' transcriptions and arrangements); anonymous and traditional pieces, which have no composer to weigh (they may enter the "everything" level later, saying so).
 
 ## 5. What may be trained on
 
