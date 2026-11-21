@@ -25,6 +25,7 @@ A work read from such a copy is left out of the counts by default. Where that le
 - An organ file read with `registration` (16' copies removed) is kept; check a few against a typeset copy before trusting their bass.
 - An editor's part already dropped by score-reader (`drop_parts`) stays out.
 - Verovio's MIDI of kern files: whether it plays ornaments out is to be checked before training on kern.
+- CPDL's second archive (Palestrina and Landini, catalogue version 14) marks an edition that is transposed (`transposed`: a motet in high clefs written a fourth or fifth lower) or halves the note values (`halved`). Intervals, scale degrees and rhythm proportions are kept. Absolute pitch and register are not counted for a transposed work; a halved work's lengths are doubled before lengths are counted.
 
 ## 3. Repeats counted once
 
@@ -38,5 +39,5 @@ An editor's copy for MIDI writes its repeats out, so repeated sections count twi
 ## 5. What may be trained on
 
 - "Measure only" (works still under copyright, read but not reproduced): may be counted, for the ear and the profiles; not trained on for continuations without Philip's say.
-- Collections whose licence forbids commercial use (ASAP: CC BY-NC-SA 4.0): a model trained on them inherits the question. Fine while the project is private; to be looked at before anything is published.
+- Collections whose licence forbids commercial use (ASAP: CC BY-NC-SA 4.0; some CPDL editions, CC BY-NC, named in each work's `licence`): a model trained on them inherits the question. Fine while the project is private; to be looked at before anything is published.
 - The quotation check (score-reader `check`) filters every continuation, whatever it was trained on.

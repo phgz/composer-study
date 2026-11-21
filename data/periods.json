@@ -1156,7 +1156,7 @@
    ]
   },
   "Élisabeth Jacquet de La Guerre": {
-   "source": "3 works",
+   "source": "4 works",
    "periods": [
     {
      "name": "all",
@@ -1210,7 +1210,7 @@
    ]
   },
   "Hildegard von Bingen": {
-   "source": "5 chants",
+   "source": "7 chants",
    "periods": [
     {
      "name": "all",
@@ -1332,6 +1332,24 @@
   },
   "Bedřich Smetana": {
    "source": "one quartet",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Pierluigi da Palestrina": {
+   "source": "one period: his style is held to be one from the first book of Masses (1554) to his death (1594); CPDL dates most works only by their first printing, many after his death",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Francesco Landini": {
+   "source": "6 works",
    "periods": [
     {
      "name": "all",
