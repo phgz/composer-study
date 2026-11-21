@@ -1,5 +1,5 @@
 {
- "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide.",
+ "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 15 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself.",
  "composers": {
   "Ludwig van Beethoven": {
    "source": "the three periods as drawn since Wilhelm von Lenz (1852): early to the Heiligenstadt crisis (1802), middle 1803 to 1814, late from 1815; opus numbers follow composition for the most part, the early works published late taken out by their dates of composition",
@@ -1350,6 +1350,3381 @@
   },
   "Francesco Landini": {
    "source": "6 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Abt": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adolphe Adam": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stephen Adams": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Dionisio Aguado": {
+   "source": "31 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Isaac Albéniz": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles-Valentin Alkan": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gregorio Allegri": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexander Alyabyev": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Andrea Amendola": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann André": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean-Baptiste Arban": {
+   "source": "50 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Thoinot Arbeau": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexander Archangelsky": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Attilio Ariosti": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Thomas Arne": {
+   "source": "12 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Joseph Ascher": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "J. L. Macbeth Bain": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Thomas Baltzar": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adriano Banchieri": {
+   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Banister": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Emanuele Barbella": {
+   "source": "14 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Behr": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Georg Benda": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Peter Benoit": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henry Bishop": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Benjamin Blake": {
+   "source": "14 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Philip Paul Bliss": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Joseph Bodin de Boismortier": {
+   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Dmitry Bortniansky": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Batchelder Bradbury": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Max Bruch": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Anton Bruckner": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Friedrich Burgmüller": {
+   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Matteo Carcassi": {
+   "source": "58 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henry Carey": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ferdinando Carulli": {
+   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Domenico Caudioso": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ernesto Cavallini": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carlo Cecere": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Ceresini": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Emmanuel Chabrier": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Marc-Antoine Charpentier": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charlotte Alington Barnard": {
+   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Muzio Clementi": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gioacchino Cocchi": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Peter Cornelius": {
+   "source": "34 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Napoléon Coste": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Croft": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Arcangelo Crotti": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Crüger": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Czerny": {
+   "source": "29 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean-François Dandrieu": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "François Devienne": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Anton Diabelli": {
+   "source": "48 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles J. Dickinson": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Howard Doane": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gaetano Donizetti": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Paul Dukas": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Ladislav Dussek": {
+   "source": "18 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Florimond van Duyse": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Bacchus Dykes": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "James Ellor": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "George Job Elvey": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Michel Farinel": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Field": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Caspar Ferdinand Fischer": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stephen Foster": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert Franz": {
+   "source": "50 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Frederick II of Prussia": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Jakob Froberger": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert Fuchs": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gaspare Gabellone": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Vincenzo Galilei": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Giacomo Gastoldi": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henry John Gauntlett": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Battista Gervasio": {
+   "source": "18 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carlo Gesualdo": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Felice Giardini": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Orlando Gibbons": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Eugène Gigout": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giuseppe Giordani": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mauro Giuliani": {
+   "source": "105 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giuseppe Giuliano": {
+   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexander Glazunov": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles William Glover": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Louis Gobbaerts": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Goss": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "François-Joseph Gossec": {
+   "source": "8 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Louis Moreau Gottschalk": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles Gounod": {
+   "source": "15 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alessandro Grandi": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henry Wellington Greatorex": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Matthias Greiter": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Nicolas de Grigny": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Xaver Gruber": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert Browne Hall": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles-Louis Hanon": {
+   "source": "20 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Adolph Hasse": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Thomas Hastings": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Hatton": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Peter Heise": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Eugen Hildach": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Felix Horetzky": {
+   "source": "60 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles Edward Horsley": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Hughes": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Semen Hulak-Artemovsky": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Hullah": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Engelbert Humperdinck": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles Hunter": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jeremiah Ingalls": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mikhail Ippolitov-Ivanov": {
+   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "James James": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Clément Janequin": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean Japart": {
+   "source": "26 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Thomas Jarman": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Jeffreys": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Herbert Jude": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Joseph Keyper": {
+   "source": "20 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "George Frederick Kiallmark": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Phoebe Palmer Knapp": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "František Max Kníže": {
+   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Conrad Kocher": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Georg Kopprasch": {
+   "source": "66 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexander Kopylov": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Joseph Küffner": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Friedrich Kuhlau": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "August Kühnel": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Lachner": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Édouard Lalo": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ferdinand Laub": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Leonardo Leo": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean-Baptiste Loeillet": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antonio Lotti": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert Lowry": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Martin Luther": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Major": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Francesco Mancini": {
+   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Arthur Henry Mann": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Benedetto Marcello": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Luca Marenzio": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Simeon Butler Marsh": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Battista Martini": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Lowell Mason": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wenzel Thomas Matiegka": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Étienne-Nicolas Méhul": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Saverio Mercadante": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Kaspar Mertz": {
+   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Arthur Henry Messiter": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Luis de Milán": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Henry Monk": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Philippe de Monte": {
+   "source": "29 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Thomas Moore": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles Moreland": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "August Eberhard Müller": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Georg Muffat": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John W. Mullen": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "James Ramsey Murray": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Juozas Naujalis": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "August Neithardt": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Georg Neumark": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Philipp Nicolai": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Albert Lister Peace": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alfred Humphries Pease": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Dora Pejačević": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Christoph Pezel": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ignaz Pleyel": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Nicola Porpora": {
+   "source": "89 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mr. Powlwheel": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Priuli": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Joachim Quantz": {
+   "source": "13 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mr. Reddings": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Lewis Henry Redner": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Max Reger": {
+   "source": "32 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Oskar Rieding": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ferdinand Ries": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Christian Ritter": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "François Roberday": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alessandro Rolla": {
+   "source": "8 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "George Frederick Root": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Claude Joseph Rouget de Lisle": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Joseph-Nicolas-Pancrace Royer": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ernst Rudorff": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Felice Sances": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gaspar Sanz": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Heinrich Scheidemann": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Heinrich Schmelzer": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Schop": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gustav Schreck": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Abraham Peter Schulz": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Clara H. Fiske Scott": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Fiske Sherwin": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Friedrich Silcher": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Hans Sitt": {
+   "source": "20 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Smallwood": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henry Smart": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Fernando Sor": {
+   "source": "82 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Daniel Speer": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Louis Spohr": {
+   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Stainer": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexei Stanchinsky": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Kyrylo Stetsenko": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Strauss": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Strauss II": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Arthur Sullivan": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Hermann Suter": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Georg Philipp Telemann": {
+   "source": "29 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Melchior Teschner": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maria Tiddeman": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean Titelouze": {
+   "source": "23 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Lizzie Estabrook Tourjée": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Daniel Brink Towner": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tom Turpin": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Vito Ugolino": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Nicola Vaccai": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Valentini": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Lazaro Valvasensi": {
+   "source": "20 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "A. Veliumov": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giuseppe Verdi": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tomás Luis de Victoria": {
+   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Paul Vidal": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Leonardo Vinci": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Filippo Vitali": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert Volkmann": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Francis Wade": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Baptist Wanhal": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Matthias Weckmann": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Thomas Weelkes": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles-Marie Widor": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert Williams": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert H. Williams": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Richard Storrs Willis": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Christian Friedrich Witt": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Wyeth": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jane Bingham Abbott": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Harriett Abrams": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Granville Bantock": {
+   "source": "5 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Joseph Barnby": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ethel Barns": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Amy Beach": {
+   "source": "13 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Hector Berlioz": {
+   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jane Bianchi Lacy": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mel Bonis": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Harold Boulton": {
+   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Frank Bridge": {
+   "source": "23 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Augusta Browne": {
+   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Harry Burleigh": {
+   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "George Butterworth": {
+   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alfred Cellier": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Cécile Chaminade": {
+   "source": "35 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ernest Chausson": {
+   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Samuel Coleridge-Taylor": {
+   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Frederick Corder": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Frederic Hymen Cowen": {
+   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Walford Davies": {
+   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ellen Dickson": {
+   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stefano Donaudy": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pauline Duchambge": {
+   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Clara Mathilda Faisst": {
+   "source": "30 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Evelyn Faltis": {
+   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Louise Farrenc": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gabrielle Ferrari": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ange Flégier": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Eleanor Everest Freer": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Virginia Gabriel": {
+   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Sophie Gail": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Elisabetta de Gambarini": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Edward German": {
+   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Chiquinha Gonzaga": {
+   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Clémence de Grandval": {
+   "source": "13 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Louisa Gray": {
+   "source": "7 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Luise Greger": {
+   "source": "9 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jane Mary Guest": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ivor Gurney": {
+   "source": "6 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Reynaldo Hahn": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Guy d'Hardelot": {
+   "source": "9 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Faustina Hasse Hodges": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Augusta Holmès": {
+   "source": "73 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Helen Hopekirk": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Amy Elsie Horrocks": {
+   "source": "4 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles Ives": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carrie Jacobs-Bond": {
+   "source": "5 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Marie Jaëll": {
+   "source": "17 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johanna Kinkel": {
+   "source": "45 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mathilde Kralik": {
+   "source": "18 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Josephine Lang": {
+   "source": "52 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Luise Adolpha Le Beau": {
+   "source": "7 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Amelia Lehmann": {
+   "source": "5 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Liza Lehmann": {
+   "source": "29 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ruggero Leoncavallo": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Liliʻuokalani": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maria Lindsay": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexander Mackenzie": {
+   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Florence Ashton Marshall": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jules Massenet": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ann Mounsey Bartholomew": {
+   "source": "7 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Helena Munktell": {
+   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Laura Netzel": {
+   "source": "7 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Fernando Obradors": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Émile Paladilhe": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maria Theresia von Paradis": {
+   "source": "12 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Walter Parratt": {
+   "source": "13 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Hubert Parry": {
+   "source": "8 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Elizabeth Phillips": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Elizabeth Philp": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Poldowski (Irène Régine Wieniawski)": {
+   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Loïsa Puget": {
+   "source": "3 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Roger Quilter": {
+   "source": "11 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Louise Reichardt": {
+   "source": "43 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Cyril Rootham": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Corona Schröter": {
+   "source": "25 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Clara Schumann": {
+   "source": "22 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Shield": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ethel Smyth": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Arthur Somervell": {
+   "source": "10 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles Villiers Stanford": {
+   "source": "25 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alice Tegnér": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pauline Thys": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Francesco Paolo Tosti": {
+   "source": "2 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pauline Viardot": {
+   "source": "21 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Peter Warlock": {
+   "source": "22 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Harold White": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maude Valérie White": {
+   "source": "6 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Hugo Wolf": {
+   "source": "31 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles Wood": {
+   "source": "1 song in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexander von Zemlinsky": {
+   "source": "11 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Emilie Zumsteeg": {
+   "source": "11 songs in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Elfrida Andrée": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Juan Crisóstomo de Arriaga": {
+   "source": "12 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Luigi Boccherini": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ferruccio Busoni": {
+   "source": "8 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Teresa Carreño": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Luigi Cherubini": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean Cras": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Ditters von Dittersdorf": {
+   "source": "9 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mikhail Glinka": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Théodore Gouvy": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Anton Hoffmeister": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Vincent d'Indy": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Wenzel Kalliwoda": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Charles Koechlin": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Halina Krzyżanowska": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Amanda Maier": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ernest John Moeran": {
+   "source": "3 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johanna Müller-Hermann": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "George Onslow": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Joseph Bologne, Chevalier de Saint-Georges": {
+   "source": "12 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Erwin Schulhoff": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wilhelm Stenhammar": {
+   "source": "8 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Josef Suk": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henri Vieuxtemps": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Battista Viotti": {
+   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexander Agricola": {
+   "source": "11 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gilles Binchois": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antoine Brumel": {
+   "source": "6 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antoine Busnoys": {
+   "source": "66 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Loyset Compère": {
+   "source": "27 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ludwig Daser": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Guillaume Du Fay": {
+   "source": "35 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Walter Frye": {
+   "source": "2 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antoine de Févin": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gaspar van Weerbeke": {
+   "source": "95 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Heinrich Isaac": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johannes Martini": {
+   "source": "119 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jacob Obrecht": {
+   "source": "15 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johannes Ockeghem": {
+   "source": "96 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Marbrianus de Orto": {
+   "source": "43 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Matthaeus Pipelare": {
+   "source": "5 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johannes Regis": {
+   "source": "4 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pierre de La Rue": {
+   "source": "172 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johannes Tinctoris": {
+   "source": "19 works in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mily Balakirev": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Sergei Prokofiev": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "J. Rosamond Johnson": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "D. Luca": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Vicente Lusitano": {
+   "source": "1 work in catalogue version 15; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",

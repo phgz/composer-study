@@ -1,0 +1,1781 @@
+{
+ "note": "Each composer's shared period: the level a narrow unit falls back to after the composer (TRAINING.md, section 4), and where the cap of a tenth is counted. The sheet's period (the Composer Pool Sieve's Period column) where the sheet has the composer; otherwise by the year of birth, with the sheet's boundaries read from its own composers: before 1570, Before 1600; to 1709, Baroque; to 1779, Classical; to 1859, Romantic; to 1899, 1890 to 1950 (Monteverdi, born 1567, is before 1600; Pergolesi, 1710, Baroque; C. P. E. Bach, 1714, Classical; Field, 1782, Romantic; Debussy, 1862, 1890 to 1950). A composer known only by the year of a dated work is taken as born thirty years before it. Years of birth are the collections' own where they give one (OpenScore's composer list, Mutopia's composer pages and headers, the Josquin Research Project's records), else the standard ones. Written on 21 November 2026 for score-reader's catalogue version 15; a judgment table: a composer the rule places wrongly is corrected here, with the reason.",
+ "composers": {
+  "A. Veliumov": {
+   "era": "Romantic",
+   "why": "a 19th-century composer (his edition gives no years)"
+  },
+  "Adolphe Adam": {
+   "era": "Romantic",
+   "why": "born 1803"
+  },
+  "Adriano Banchieri": {
+   "era": "Before 1600",
+   "why": "born 1568"
+  },
+  "Alban Berg": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Albert Lister Peace": {
+   "era": "Romantic",
+   "why": "born 1844"
+  },
+  "Alessandro Grandi": {
+   "era": "Baroque",
+   "why": "born 1586"
+  },
+  "Alessandro Rolla": {
+   "era": "Classical",
+   "why": "born 1757"
+  },
+  "Alexander Agricola": {
+   "era": "Before 1600",
+   "why": "born 1446"
+  },
+  "Alexander Alyabyev": {
+   "era": "Romantic",
+   "why": "born 1787"
+  },
+  "Alexander Archangelsky": {
+   "era": "Romantic",
+   "why": "born 1846"
+  },
+  "Alexander Borodin": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Alexander Glazunov": {
+   "era": "1890 to 1950",
+   "why": "born 1865"
+  },
+  "Alexander Kopylov": {
+   "era": "Romantic",
+   "why": "born 1854"
+  },
+  "Alexander Mackenzie": {
+   "era": "Romantic",
+   "why": "born 1847"
+  },
+  "Alexander Scriabin": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Alexander von Zemlinsky": {
+   "era": "1890 to 1950",
+   "why": "born 1871"
+  },
+  "Alexei Stanchinsky": {
+   "era": "1890 to 1950",
+   "why": "born 1888"
+  },
+  "Alfred Cellier": {
+   "era": "Romantic",
+   "why": "born 1844"
+  },
+  "Alfred Humphries Pease": {
+   "era": "Romantic",
+   "why": "born 1838"
+  },
+  "Alice Tegnér": {
+   "era": "1890 to 1950",
+   "why": "born 1864"
+  },
+  "Amanda Maier": {
+   "era": "Romantic",
+   "why": "born 1853"
+  },
+  "Amelia Lehmann": {
+   "era": "Romantic",
+   "why": "born 1838"
+  },
+  "Amy Beach": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Amy Elsie Horrocks": {
+   "era": "1890 to 1950",
+   "why": "born 1867"
+  },
+  "Andrea Amendola": {
+   "era": "Baroque",
+   "why": "active by 1715 (born about 1685)"
+  },
+  "Ange Flégier": {
+   "era": "Romantic",
+   "why": "born 1846"
+  },
+  "Ann Mounsey Bartholomew": {
+   "era": "Romantic",
+   "why": "born 1811"
+  },
+  "Antoine Brumel": {
+   "era": "Before 1600",
+   "why": "born 1460"
+  },
+  "Antoine Busnoys": {
+   "era": "Before 1600",
+   "why": "born 1430"
+  },
+  "Antoine de Févin": {
+   "era": "Before 1600",
+   "why": "born 1470"
+  },
+  "Anton Bruckner": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Anton Diabelli": {
+   "era": "Romantic",
+   "why": "born 1781"
+  },
+  "Anton Webern": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Antonio Lotti": {
+   "era": "Baroque",
+   "why": "born 1667"
+  },
+  "Antonio Vivaldi": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Antonín Dvořák": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Arcangelo Corelli": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Arcangelo Crotti": {
+   "era": "Baroque",
+   "why": "active by 1608 (born about 1578)"
+  },
+  "Arnold Schoenberg": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Arthur Henry Mann": {
+   "era": "Romantic",
+   "why": "born 1850"
+  },
+  "Arthur Henry Messiter": {
+   "era": "Romantic",
+   "why": "born 1834"
+  },
+  "Arthur Somervell": {
+   "era": "1890 to 1950",
+   "why": "born 1863"
+  },
+  "Arthur Sullivan": {
+   "era": "Romantic",
+   "why": "born 1842"
+  },
+  "Attilio Ariosti": {
+   "era": "Baroque",
+   "why": "born 1666"
+  },
+  "August Eberhard Müller": {
+   "era": "Classical",
+   "why": "born 1767"
+  },
+  "August Kühnel": {
+   "era": "Baroque",
+   "why": "born 1645"
+  },
+  "August Neithardt": {
+   "era": "Romantic",
+   "why": "born 1793"
+  },
+  "Augusta Browne": {
+   "era": "Romantic",
+   "why": "born 1820"
+  },
+  "Augusta Holmès": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Bedřich Smetana": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Benedetto Marcello": {
+   "era": "Baroque",
+   "why": "born 1686"
+  },
+  "Benjamin Blake": {
+   "era": "Classical",
+   "why": "born 1751"
+  },
+  "Béla Bartók": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Camille Saint-Saëns": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Carl Czerny": {
+   "era": "Romantic",
+   "why": "born 1791"
+  },
+  "Carl Ditters von Dittersdorf": {
+   "era": "Classical",
+   "why": "born 1739"
+  },
+  "Carl Nielsen": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Carl Philipp Emanuel Bach": {
+   "era": "Classical",
+   "why": "the sheet's period"
+  },
+  "Carlo Cecere": {
+   "era": "Baroque",
+   "why": "born 1706"
+  },
+  "Carlo Gesualdo": {
+   "era": "Before 1600",
+   "why": "born 1566"
+  },
+  "Carrie Jacobs-Bond": {
+   "era": "1890 to 1950",
+   "why": "born 1862"
+  },
+  "Charles Edward Horsley": {
+   "era": "Romantic",
+   "why": "born 1822"
+  },
+  "Charles Gounod": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Charles Hunter": {
+   "era": "1890 to 1950",
+   "why": "born 1876"
+  },
+  "Charles Ives": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Charles J. Dickinson": {
+   "era": "Romantic",
+   "why": "born 1822"
+  },
+  "Charles Koechlin": {
+   "era": "1890 to 1950",
+   "why": "born 1867"
+  },
+  "Charles Moreland": {
+   "era": "Romantic",
+   "why": "active by 1885 (born about 1855)"
+  },
+  "Charles Villiers Stanford": {
+   "era": "Romantic",
+   "why": "born 1852"
+  },
+  "Charles William Glover": {
+   "era": "Romantic",
+   "why": "born 1797"
+  },
+  "Charles Wood": {
+   "era": "1890 to 1950",
+   "why": "born 1866"
+  },
+  "Charles-Louis Hanon": {
+   "era": "Romantic",
+   "why": "born 1819"
+  },
+  "Charles-Marie Widor": {
+   "era": "Romantic",
+   "why": "born 1844"
+  },
+  "Charles-Valentin Alkan": {
+   "era": "Romantic",
+   "why": "born 1813"
+  },
+  "Charlotte Alington Barnard": {
+   "era": "Romantic",
+   "why": "born 1830"
+  },
+  "Chiquinha Gonzaga": {
+   "era": "Romantic",
+   "why": "born 1847"
+  },
+  "Christian Friedrich Witt": {
+   "era": "Baroque",
+   "why": "born 1660"
+  },
+  "Christian Ritter": {
+   "era": "Baroque",
+   "why": "born 1645"
+  },
+  "Clara H. Fiske Scott": {
+   "era": "Romantic",
+   "why": "born 1841"
+  },
+  "Clara Mathilda Faisst": {
+   "era": "1890 to 1950",
+   "why": "born 1872"
+  },
+  "Clara Schumann": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Claude Debussy": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Claude Joseph Rouget de Lisle": {
+   "era": "Classical",
+   "why": "born 1760"
+  },
+  "Claudio Monteverdi": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "Clémence de Grandval": {
+   "era": "Romantic",
+   "why": "born 1828"
+  },
+  "Clément Janequin": {
+   "era": "Before 1600",
+   "why": "born 1485"
+  },
+  "Conrad Kocher": {
+   "era": "Romantic",
+   "why": "born 1786"
+  },
+  "Corona Schröter": {
+   "era": "Classical",
+   "why": "born 1751"
+  },
+  "Cyril Rootham": {
+   "era": "1890 to 1950",
+   "why": "born 1875"
+  },
+  "Cécile Chaminade": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "César Franck": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "D. Luca": {
+   "era": "Before 1600",
+   "why": "active by 1420 (born about 1390)"
+  },
+  "Daniel Brink Towner": {
+   "era": "Romantic",
+   "why": "born 1833"
+  },
+  "Daniel Speer": {
+   "era": "Baroque",
+   "why": "born 1636"
+  },
+  "Dietrich Buxtehude": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Dionisio Aguado": {
+   "era": "Romantic",
+   "why": "born 1784"
+  },
+  "Dmitry Bortniansky": {
+   "era": "Classical",
+   "why": "born 1751"
+  },
+  "Domenico Caudioso": {
+   "era": "Classical",
+   "why": "active by 1760 (born about 1730)"
+  },
+  "Domenico Scarlatti": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Dora Pejačević": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Edvard Grieg": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Edward Elgar": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Edward German": {
+   "era": "1890 to 1950",
+   "why": "born 1862"
+  },
+  "Eleanor Everest Freer": {
+   "era": "1890 to 1950",
+   "why": "born 1864"
+  },
+  "Elfrida Andrée": {
+   "era": "Romantic",
+   "why": "born 1841"
+  },
+  "Elisabetta de Gambarini": {
+   "era": "Classical",
+   "why": "born 1730"
+  },
+  "Elizabeth Phillips": {
+   "era": "Romantic",
+   "why": "born 1822"
+  },
+  "Elizabeth Philp": {
+   "era": "Romantic",
+   "why": "born 1827"
+  },
+  "Ellen Dickson": {
+   "era": "Romantic",
+   "why": "born 1819"
+  },
+  "Emanuele Barbella": {
+   "era": "Classical",
+   "why": "born 1718"
+  },
+  "Emilie Mayer": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Emilie Zumsteeg": {
+   "era": "Romantic",
+   "why": "born 1796"
+  },
+  "Emmanuel Chabrier": {
+   "era": "Romantic",
+   "why": "born 1841"
+  },
+  "Engelbert Humperdinck": {
+   "era": "Romantic",
+   "why": "born 1854"
+  },
+  "Erik Satie": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Ernest Chausson": {
+   "era": "Romantic",
+   "why": "born 1855"
+  },
+  "Ernest John Moeran": {
+   "era": "1890 to 1950",
+   "why": "born 1894"
+  },
+  "Ernesto Cavallini": {
+   "era": "Romantic",
+   "why": "born 1807"
+  },
+  "Ernst Rudorff": {
+   "era": "Romantic",
+   "why": "born 1840"
+  },
+  "Erwin Schulhoff": {
+   "era": "1890 to 1950",
+   "why": "born 1894"
+  },
+  "Ethel Barns": {
+   "era": "1890 to 1950",
+   "why": "born 1874"
+  },
+  "Ethel Smyth": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Eugen Hildach": {
+   "era": "Romantic",
+   "why": "born 1849"
+  },
+  "Eugène Gigout": {
+   "era": "Romantic",
+   "why": "born 1844"
+  },
+  "Evelyn Faltis": {
+   "era": "1890 to 1950",
+   "why": "born 1887"
+  },
+  "Fanny Mendelssohn": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Faustina Hasse Hodges": {
+   "era": "Romantic",
+   "why": "born 1823"
+  },
+  "Felice Giardini": {
+   "era": "Classical",
+   "why": "born 1716"
+  },
+  "Felix Horetzky": {
+   "era": "Romantic",
+   "why": "born 1796"
+  },
+  "Felix Mendelssohn": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Ferdinand Laub": {
+   "era": "Romantic",
+   "why": "born 1832"
+  },
+  "Ferdinand Ries": {
+   "era": "Romantic",
+   "why": "born 1784"
+  },
+  "Ferdinando Carulli": {
+   "era": "Classical",
+   "why": "born 1770"
+  },
+  "Fernando Obradors": {
+   "era": "1890 to 1950",
+   "why": "born 1897"
+  },
+  "Fernando Sor": {
+   "era": "Classical",
+   "why": "born 1778"
+  },
+  "Ferruccio Busoni": {
+   "era": "1890 to 1950",
+   "why": "born 1866"
+  },
+  "Filippo Vitali": {
+   "era": "Baroque",
+   "why": "born 1599"
+  },
+  "Florence Ashton Marshall": {
+   "era": "Romantic",
+   "why": "born 1843"
+  },
+  "Florimond van Duyse": {
+   "era": "Romantic",
+   "why": "born 1843"
+  },
+  "Francesco Landini": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "Francesco Mancini": {
+   "era": "Baroque",
+   "why": "born 1672"
+  },
+  "Francesco Paolo Tosti": {
+   "era": "Romantic",
+   "why": "born 1846"
+  },
+  "Francisco Tárrega": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Frank Bridge": {
+   "era": "1890 to 1950",
+   "why": "born 1879"
+  },
+  "František Max Kníže": {
+   "era": "Romantic",
+   "why": "born 1784"
+  },
+  "Franz Abt": {
+   "era": "Romantic",
+   "why": "born 1819"
+  },
+  "Franz Anton Hoffmeister": {
+   "era": "Classical",
+   "why": "born 1754"
+  },
+  "Franz Behr": {
+   "era": "Romantic",
+   "why": "born 1837"
+  },
+  "Franz Joseph Haydn": {
+   "era": "Classical",
+   "why": "the sheet's period"
+  },
+  "Franz Joseph Keyper": {
+   "era": "Classical",
+   "why": "born 1756"
+  },
+  "Franz Lachner": {
+   "era": "Romantic",
+   "why": "born 1803"
+  },
+  "Franz Liszt": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Franz Schubert": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Franz Strauss": {
+   "era": "Romantic",
+   "why": "born 1822"
+  },
+  "Franz Xaver Gruber": {
+   "era": "Romantic",
+   "why": "born 1787"
+  },
+  "François Couperin": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "François Devienne": {
+   "era": "Classical",
+   "why": "born 1759"
+  },
+  "François Roberday": {
+   "era": "Baroque",
+   "why": "born 1624"
+  },
+  "François-Joseph Gossec": {
+   "era": "Classical",
+   "why": "born 1734"
+  },
+  "Frederic Hymen Cowen": {
+   "era": "Romantic",
+   "why": "born 1852"
+  },
+  "Frederick Corder": {
+   "era": "Romantic",
+   "why": "born 1852"
+  },
+  "Frederick Delius": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Frederick II of Prussia": {
+   "era": "Classical",
+   "why": "born 1712"
+  },
+  "Friedrich Burgmüller": {
+   "era": "Romantic",
+   "why": "born 1806"
+  },
+  "Friedrich Kuhlau": {
+   "era": "Romantic",
+   "why": "born 1786"
+  },
+  "Friedrich Silcher": {
+   "era": "Romantic",
+   "why": "born 1789"
+  },
+  "Frédéric Chopin": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Gabriel Fauré": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Gabrielle Ferrari": {
+   "era": "Romantic",
+   "why": "born 1851"
+  },
+  "Gaetano Donizetti": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Gaspar Sanz": {
+   "era": "Baroque",
+   "why": "born 1640"
+  },
+  "Gaspar van Weerbeke": {
+   "era": "Before 1600",
+   "why": "born 1445"
+  },
+  "Gaspare Gabellone": {
+   "era": "Classical",
+   "why": "born 1727"
+  },
+  "Georg Benda": {
+   "era": "Classical",
+   "why": "born 1722"
+  },
+  "Georg Kopprasch": {
+   "era": "Romantic",
+   "why": "born 1800"
+  },
+  "Georg Muffat": {
+   "era": "Baroque",
+   "why": "born 1653"
+  },
+  "Georg Neumark": {
+   "era": "Baroque",
+   "why": "born 1621"
+  },
+  "Georg Philipp Telemann": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "George Butterworth": {
+   "era": "1890 to 1950",
+   "why": "born 1885"
+  },
+  "George Frederick Kiallmark": {
+   "era": "Romantic",
+   "why": "born 1804"
+  },
+  "George Frederick Root": {
+   "era": "Romantic",
+   "why": "born 1820"
+  },
+  "George Frideric Handel": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "George Job Elvey": {
+   "era": "Romantic",
+   "why": "born 1816"
+  },
+  "George Onslow": {
+   "era": "Romantic",
+   "why": "born 1784"
+  },
+  "Georges Bizet": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Gilles Binchois": {
+   "era": "Before 1600",
+   "why": "born 1400"
+  },
+  "Gioacchino Cocchi": {
+   "era": "Classical",
+   "why": "born 1712"
+  },
+  "Gioachino Rossini": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Giovanni Battista Gervasio": {
+   "era": "Classical",
+   "why": "born 1725"
+  },
+  "Giovanni Battista Martini": {
+   "era": "Baroque",
+   "why": "born 1706"
+  },
+  "Giovanni Battista Pergolesi": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Giovanni Battista Viotti": {
+   "era": "Classical",
+   "why": "born 1755"
+  },
+  "Giovanni Ceresini": {
+   "era": "Baroque",
+   "why": "born 1584"
+  },
+  "Giovanni Felice Sances": {
+   "era": "Baroque",
+   "why": "born 1600"
+  },
+  "Giovanni Giacomo Gastoldi": {
+   "era": "Before 1600",
+   "why": "born 1556"
+  },
+  "Giovanni Pierluigi da Palestrina": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "Giovanni Priuli": {
+   "era": "Baroque",
+   "why": "born 1575"
+  },
+  "Giovanni Valentini": {
+   "era": "Baroque",
+   "why": "born 1582"
+  },
+  "Giuseppe Giordani": {
+   "era": "Classical",
+   "why": "born 1751"
+  },
+  "Giuseppe Giuliano": {
+   "era": "Classical",
+   "why": "active by 1760 (born about 1730)"
+  },
+  "Giuseppe Verdi": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Granville Bantock": {
+   "era": "1890 to 1950",
+   "why": "born 1868"
+  },
+  "Gregorio Allegri": {
+   "era": "Baroque",
+   "why": "born 1582"
+  },
+  "Guillaume Du Fay": {
+   "era": "Before 1600",
+   "why": "born 1397"
+  },
+  "Guillaume de Machaut": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "Gustav Holst": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Gustav Mahler": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Gustav Schreck": {
+   "era": "Romantic",
+   "why": "born 1849"
+  },
+  "Guy d'Hardelot": {
+   "era": "Romantic",
+   "why": "born 1858"
+  },
+  "Halina Krzyżanowska": {
+   "era": "1890 to 1950",
+   "why": "born 1867"
+  },
+  "Hans Sitt": {
+   "era": "Romantic",
+   "why": "born 1850"
+  },
+  "Harold Boulton": {
+   "era": "Romantic",
+   "why": "born 1859"
+  },
+  "Harold White": {
+   "era": "1890 to 1950",
+   "why": "born 1872"
+  },
+  "Harriett Abrams": {
+   "era": "Classical",
+   "why": "born 1758"
+  },
+  "Harry Burleigh": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Hector Berlioz": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Heinrich Isaac": {
+   "era": "Before 1600",
+   "why": "born 1450"
+  },
+  "Heinrich Scheidemann": {
+   "era": "Baroque",
+   "why": "born 1595"
+  },
+  "Helen Hopekirk": {
+   "era": "Romantic",
+   "why": "born 1856"
+  },
+  "Helena Munktell": {
+   "era": "Romantic",
+   "why": "born 1852"
+  },
+  "Henri Vieuxtemps": {
+   "era": "Romantic",
+   "why": "born 1820"
+  },
+  "Henry Bishop": {
+   "era": "Romantic",
+   "why": "born 1786"
+  },
+  "Henry Carey": {
+   "era": "Baroque",
+   "why": "born 1687"
+  },
+  "Henry John Gauntlett": {
+   "era": "Romantic",
+   "why": "born 1805"
+  },
+  "Henry Purcell": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Henry Smart": {
+   "era": "Romantic",
+   "why": "born 1813"
+  },
+  "Henry Wellington Greatorex": {
+   "era": "Romantic",
+   "why": "born 1816"
+  },
+  "Hermann Suter": {
+   "era": "1890 to 1950",
+   "why": "born 1870"
+  },
+  "Hildegard von Bingen": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "Hubert Parry": {
+   "era": "Romantic",
+   "why": "born 1848"
+  },
+  "Hugo Wolf": {
+   "era": "1890 to 1950",
+   "why": "born 1860"
+  },
+  "Ignaz Pleyel": {
+   "era": "Classical",
+   "why": "born 1757"
+  },
+  "Isaac Albéniz": {
+   "era": "1890 to 1950",
+   "why": "born 1860"
+  },
+  "Ivor Gurney": {
+   "era": "1890 to 1950",
+   "why": "born 1890"
+  },
+  "J. L. Macbeth Bain": {
+   "era": "Romantic",
+   "why": "born 1840"
+  },
+  "J. Rosamond Johnson": {
+   "era": "1890 to 1950",
+   "why": "born 1873"
+  },
+  "Jacob Obrecht": {
+   "era": "Before 1600",
+   "why": "born 1457"
+  },
+  "James Ellor": {
+   "era": "Romantic",
+   "why": "born 1819"
+  },
+  "James James": {
+   "era": "Romantic",
+   "why": "born 1833"
+  },
+  "James Ramsey Murray": {
+   "era": "Romantic",
+   "why": "born 1841"
+  },
+  "Jan Ladislav Dussek": {
+   "era": "Classical",
+   "why": "born 1760"
+  },
+  "Jane Bianchi Lacy": {
+   "era": "Classical",
+   "why": "born 1776"
+  },
+  "Jane Bingham Abbott": {
+   "era": "Romantic",
+   "why": "born 1851"
+  },
+  "Jane Mary Guest": {
+   "era": "Classical",
+   "why": "born 1762"
+  },
+  "Jean Cras": {
+   "era": "1890 to 1950",
+   "why": "born 1879"
+  },
+  "Jean Japart": {
+   "era": "Before 1600",
+   "why": "active by 1474 (born about 1444)"
+  },
+  "Jean Titelouze": {
+   "era": "Before 1600",
+   "why": "born 1563"
+  },
+  "Jean-Baptiste Arban": {
+   "era": "Romantic",
+   "why": "born 1825"
+  },
+  "Jean-Baptiste Loeillet": {
+   "era": "Baroque",
+   "why": "born 1680"
+  },
+  "Jean-Baptiste Lully": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Jean-François Dandrieu": {
+   "era": "Baroque",
+   "why": "born 1682"
+  },
+  "Jean-Philippe Rameau": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Jeremiah Ingalls": {
+   "era": "Classical",
+   "why": "born 1764"
+  },
+  "Johann Abraham Peter Schulz": {
+   "era": "Classical",
+   "why": "born 1747"
+  },
+  "Johann Adolph Hasse": {
+   "era": "Baroque",
+   "why": "born 1699"
+  },
+  "Johann André": {
+   "era": "Classical",
+   "why": "born 1741"
+  },
+  "Johann Baptist Wanhal": {
+   "era": "Classical",
+   "why": "born 1739"
+  },
+  "Johann Caspar Ferdinand Fischer": {
+   "era": "Baroque",
+   "why": "born 1656"
+  },
+  "Johann Christoph Pezel": {
+   "era": "Baroque",
+   "why": "born 1639"
+  },
+  "Johann Crüger": {
+   "era": "Baroque",
+   "why": "born 1598"
+  },
+  "Johann Heinrich Schmelzer": {
+   "era": "Baroque",
+   "why": "born 1623"
+  },
+  "Johann Jakob Froberger": {
+   "era": "Baroque",
+   "why": "born 1616"
+  },
+  "Johann Joachim Quantz": {
+   "era": "Baroque",
+   "why": "born 1697"
+  },
+  "Johann Kaspar Mertz": {
+   "era": "Romantic",
+   "why": "born 1806"
+  },
+  "Johann Pachelbel": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Johann Schop": {
+   "era": "Baroque",
+   "why": "born 1590"
+  },
+  "Johann Sebastian Bach": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Johann Strauss II": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Johann Wenzel Kalliwoda": {
+   "era": "Romantic",
+   "why": "born 1801"
+  },
+  "Johanna Kinkel": {
+   "era": "Romantic",
+   "why": "born 1810"
+  },
+  "Johanna Müller-Hermann": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Johannes Brahms": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Johannes Martini": {
+   "era": "Before 1600",
+   "why": "born 1440"
+  },
+  "Johannes Ockeghem": {
+   "era": "Before 1600",
+   "why": "born 1410"
+  },
+  "Johannes Regis": {
+   "era": "Before 1600",
+   "why": "born 1425"
+  },
+  "Johannes Tinctoris": {
+   "era": "Before 1600",
+   "why": "born 1435"
+  },
+  "John Bacchus Dykes": {
+   "era": "Romantic",
+   "why": "born 1823"
+  },
+  "John Banister": {
+   "era": "Baroque",
+   "why": "born 1624"
+  },
+  "John Dowland": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "John Field": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "John Francis Wade": {
+   "era": "Classical",
+   "why": "born 1711"
+  },
+  "John Goss": {
+   "era": "Romantic",
+   "why": "born 1800"
+  },
+  "John Hatton": {
+   "era": "Classical",
+   "why": "active by 1793 (born about 1763)"
+  },
+  "John Hughes": {
+   "era": "1890 to 1950",
+   "why": "born 1873"
+  },
+  "John Hullah": {
+   "era": "Romantic",
+   "why": "born 1812"
+  },
+  "John Jeffreys": {
+   "era": "Classical",
+   "why": "born 1718"
+  },
+  "John Major": {
+   "era": "Romantic",
+   "why": "active by 1860 (born about 1830)"
+  },
+  "John Philip Sousa": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "John Stainer": {
+   "era": "Romantic",
+   "why": "born 1840"
+  },
+  "John W. Mullen": {
+   "era": "Romantic",
+   "why": "active by 1885 (born about 1855)"
+  },
+  "John Wyeth": {
+   "era": "Classical",
+   "why": "born 1770"
+  },
+  "Josef Suk": {
+   "era": "1890 to 1950",
+   "why": "born 1874"
+  },
+  "Joseph Ascher": {
+   "era": "Romantic",
+   "why": "born 1829"
+  },
+  "Joseph Barnby": {
+   "era": "Romantic",
+   "why": "born 1838"
+  },
+  "Joseph Bodin de Boismortier": {
+   "era": "Baroque",
+   "why": "born 1689"
+  },
+  "Joseph Bologne, Chevalier de Saint-Georges": {
+   "era": "Classical",
+   "why": "the sheet's period"
+  },
+  "Joseph Küffner": {
+   "era": "Classical",
+   "why": "born 1776"
+  },
+  "Joseph-Nicolas-Pancrace Royer": {
+   "era": "Baroque",
+   "why": "born 1705"
+  },
+  "Josephine Lang": {
+   "era": "Romantic",
+   "why": "born 1815"
+  },
+  "Josquin Des Prez": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "Juan Crisóstomo de Arriaga": {
+   "era": "Romantic",
+   "why": "born 1806"
+  },
+  "Jules Massenet": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Juozas Naujalis": {
+   "era": "1890 to 1950",
+   "why": "born 1869"
+  },
+  "Kyrylo Stetsenko": {
+   "era": "1890 to 1950",
+   "why": "born 1882"
+  },
+  "Laura Netzel": {
+   "era": "Romantic",
+   "why": "born 1839"
+  },
+  "Lazaro Valvasensi": {
+   "era": "Baroque",
+   "why": "born 1585"
+  },
+  "Leonardo Leo": {
+   "era": "Baroque",
+   "why": "born 1694"
+  },
+  "Leonardo Vinci": {
+   "era": "Baroque",
+   "why": "born 1690"
+  },
+  "Leoš Janáček": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Lewis Henry Redner": {
+   "era": "Romantic",
+   "why": "born 1830"
+  },
+  "Lili Boulanger": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Liliʻuokalani": {
+   "era": "Romantic",
+   "why": "born 1838"
+  },
+  "Liza Lehmann": {
+   "era": "1890 to 1950",
+   "why": "born 1862"
+  },
+  "Lizzie Estabrook Tourjée": {
+   "era": "Romantic",
+   "why": "born 1858"
+  },
+  "Louis Gobbaerts": {
+   "era": "Romantic",
+   "why": "born 1835"
+  },
+  "Louis Moreau Gottschalk": {
+   "era": "Romantic",
+   "why": "born 1829"
+  },
+  "Louis Spohr": {
+   "era": "Romantic",
+   "why": "born 1784"
+  },
+  "Louisa Gray": {
+   "era": "Romantic",
+   "why": "born 1830"
+  },
+  "Louise Farrenc": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Louise Reichardt": {
+   "era": "Classical",
+   "why": "born 1779"
+  },
+  "Lowell Mason": {
+   "era": "Romantic",
+   "why": "born 1792"
+  },
+  "Loyset Compère": {
+   "era": "Before 1600",
+   "why": "born 1445"
+  },
+  "Loïsa Puget": {
+   "era": "Romantic",
+   "why": "born 1810"
+  },
+  "Luca Marenzio": {
+   "era": "Before 1600",
+   "why": "born 1553"
+  },
+  "Ludwig Daser": {
+   "era": "Before 1600",
+   "why": "born 1525"
+  },
+  "Ludwig van Beethoven": {
+   "era": "Classical",
+   "why": "the sheet's period"
+  },
+  "Luigi Boccherini": {
+   "era": "Classical",
+   "why": "the sheet's period"
+  },
+  "Luigi Cherubini": {
+   "era": "Classical",
+   "why": "born 1760"
+  },
+  "Luis de Milán": {
+   "era": "Before 1600",
+   "why": "born 1500"
+  },
+  "Luise Adolpha Le Beau": {
+   "era": "Romantic",
+   "why": "born 1850"
+  },
+  "Luise Greger": {
+   "era": "1890 to 1950",
+   "why": "born 1862"
+  },
+  "Manuel de Falla": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Marbrianus de Orto": {
+   "era": "Before 1600",
+   "why": "born 1460"
+  },
+  "Marc-Antoine Charpentier": {
+   "era": "Baroque",
+   "why": "born 1643"
+  },
+  "Maria Lindsay": {
+   "era": "Romantic",
+   "why": "born 1827"
+  },
+  "Maria Theresia von Paradis": {
+   "era": "Classical",
+   "why": "born 1759"
+  },
+  "Maria Tiddeman": {
+   "era": "Romantic",
+   "why": "born 1837"
+  },
+  "Marie Jaëll": {
+   "era": "Romantic",
+   "why": "born 1846"
+  },
+  "Martin Luther": {
+   "era": "Before 1600",
+   "why": "born 1483"
+  },
+  "Mathilde Kralik": {
+   "era": "Romantic",
+   "why": "born 1857"
+  },
+  "Matteo Carcassi": {
+   "era": "Romantic",
+   "why": "born 1792"
+  },
+  "Matthaeus Pipelare": {
+   "era": "Before 1600",
+   "why": "born 1450"
+  },
+  "Matthias Greiter": {
+   "era": "Before 1600",
+   "why": "born 1495"
+  },
+  "Matthias Weckmann": {
+   "era": "Baroque",
+   "why": "born 1621"
+  },
+  "Maude Valérie White": {
+   "era": "Romantic",
+   "why": "born 1855"
+  },
+  "Maurice Ravel": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Mauro Giuliani": {
+   "era": "Romantic",
+   "why": "born 1781"
+  },
+  "Max Bruch": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Max Reger": {
+   "era": "1890 to 1950",
+   "why": "born 1873"
+  },
+  "Mel Bonis": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Melchior Teschner": {
+   "era": "Baroque",
+   "why": "born 1584"
+  },
+  "Michel Farinel": {
+   "era": "Baroque",
+   "why": "born 1649"
+  },
+  "Mikhail Glinka": {
+   "era": "Romantic",
+   "why": "born 1804"
+  },
+  "Mikhail Ippolitov-Ivanov": {
+   "era": "Romantic",
+   "why": "born 1859"
+  },
+  "Mily Balakirev": {
+   "era": "Romantic",
+   "why": "born 1837"
+  },
+  "Modest Mussorgsky": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Mr. Powlwheel": {
+   "era": "Baroque",
+   "why": "active by 1685 (born about 1655)"
+  },
+  "Mr. Reddings": {
+   "era": "Baroque",
+   "why": "active by 1685 (born about 1655)"
+  },
+  "Muzio Clementi": {
+   "era": "Classical",
+   "why": "born 1752"
+  },
+  "Napoléon Coste": {
+   "era": "Romantic",
+   "why": "born 1805"
+  },
+  "Niccolò Paganini": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Nicola Porpora": {
+   "era": "Baroque",
+   "why": "born 1686"
+  },
+  "Nicola Vaccai": {
+   "era": "Romantic",
+   "why": "born 1790"
+  },
+  "Nicolas de Grigny": {
+   "era": "Baroque",
+   "why": "born 1672"
+  },
+  "Nikolai Rimsky-Korsakov": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Orlando Gibbons": {
+   "era": "Baroque",
+   "why": "born 1583"
+  },
+  "Orlando di Lasso": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "Oskar Rieding": {
+   "era": "Romantic",
+   "why": "born 1840"
+  },
+  "Paul Dukas": {
+   "era": "1890 to 1950",
+   "why": "born 1865"
+  },
+  "Paul Vidal": {
+   "era": "1890 to 1950",
+   "why": "born 1863"
+  },
+  "Pauline Duchambge": {
+   "era": "Classical",
+   "why": "born 1776"
+  },
+  "Pauline Thys": {
+   "era": "Romantic",
+   "why": "born 1835"
+  },
+  "Pauline Viardot": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Peter Benoit": {
+   "era": "Romantic",
+   "why": "born 1834"
+  },
+  "Peter Cornelius": {
+   "era": "Romantic",
+   "why": "born 1824"
+  },
+  "Peter Heise": {
+   "era": "Romantic",
+   "why": "born 1830"
+  },
+  "Peter Warlock": {
+   "era": "1890 to 1950",
+   "why": "born 1894"
+  },
+  "Philip Paul Bliss": {
+   "era": "Romantic",
+   "why": "born 1838"
+  },
+  "Philipp Nicolai": {
+   "era": "Before 1600",
+   "why": "born 1556"
+  },
+  "Philippe de Monte": {
+   "era": "Before 1600",
+   "why": "born 1521"
+  },
+  "Phoebe Palmer Knapp": {
+   "era": "Romantic",
+   "why": "born 1839"
+  },
+  "Pierre de La Rue": {
+   "era": "Before 1600",
+   "why": "born 1452"
+  },
+  "Piotr Ilyich Tchaikovsky": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Poldowski (Irène Régine Wieniawski)": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Reynaldo Hahn": {
+   "era": "1890 to 1950",
+   "why": "born 1874"
+  },
+  "Richard Storrs Willis": {
+   "era": "Romantic",
+   "why": "born 1819"
+  },
+  "Richard Strauss": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Richard Wagner": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Robert Browne Hall": {
+   "era": "Romantic",
+   "why": "born 1858"
+  },
+  "Robert Franz": {
+   "era": "Romantic",
+   "why": "born 1815"
+  },
+  "Robert Fuchs": {
+   "era": "Romantic",
+   "why": "born 1847"
+  },
+  "Robert H. Williams": {
+   "era": "Romantic",
+   "why": "born 1805"
+  },
+  "Robert Lowry": {
+   "era": "Romantic",
+   "why": "born 1826"
+  },
+  "Robert Schumann": {
+   "era": "Romantic",
+   "why": "the sheet's period"
+  },
+  "Robert Volkmann": {
+   "era": "Romantic",
+   "why": "born 1815"
+  },
+  "Robert Williams": {
+   "era": "Romantic",
+   "why": "born 1782"
+  },
+  "Roger Quilter": {
+   "era": "1890 to 1950",
+   "why": "born 1877"
+  },
+  "Ruggero Leoncavallo": {
+   "era": "Romantic",
+   "why": "born 1857"
+  },
+  "Samuel Coleridge-Taylor": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Saverio Mercadante": {
+   "era": "Romantic",
+   "why": "born 1795"
+  },
+  "Scott Joplin": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Semen Hulak-Artemovsky": {
+   "era": "Romantic",
+   "why": "born 1813"
+  },
+  "Sergei Prokofiev": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Sergei Rachmaninoff": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Simeon Butler Marsh": {
+   "era": "Romantic",
+   "why": "born 1798"
+  },
+  "Sophie Gail": {
+   "era": "Classical",
+   "why": "born 1775"
+  },
+  "Stefano Donaudy": {
+   "era": "1890 to 1950",
+   "why": "born 1879"
+  },
+  "Stephen Adams": {
+   "era": "Romantic",
+   "why": "born 1844"
+  },
+  "Stephen Foster": {
+   "era": "Romantic",
+   "why": "born 1826"
+  },
+  "Teresa Carreño": {
+   "era": "Romantic",
+   "why": "born 1853"
+  },
+  "Thoinot Arbeau": {
+   "era": "Before 1600",
+   "why": "born 1519"
+  },
+  "Thomas Arne": {
+   "era": "Classical",
+   "why": "born 1710"
+  },
+  "Thomas Baltzar": {
+   "era": "Baroque",
+   "why": "born 1631"
+  },
+  "Thomas Hastings": {
+   "era": "Romantic",
+   "why": "born 1784"
+  },
+  "Thomas Jarman": {
+   "era": "Classical",
+   "why": "born 1776"
+  },
+  "Thomas Moore": {
+   "era": "Classical",
+   "why": "born 1779"
+  },
+  "Thomas Tallis": {
+   "era": "Before 1600",
+   "why": "the sheet's period"
+  },
+  "Thomas Weelkes": {
+   "era": "Baroque",
+   "why": "born 1576"
+  },
+  "Théodore Gouvy": {
+   "era": "Romantic",
+   "why": "born 1819"
+  },
+  "Tom Turpin": {
+   "era": "1890 to 1950",
+   "why": "born 1873"
+  },
+  "Tomás Luis de Victoria": {
+   "era": "Before 1600",
+   "why": "born 1548"
+  },
+  "Vicente Lusitano": {
+   "era": "Before 1600",
+   "why": "born 1520"
+  },
+  "Vincent d'Indy": {
+   "era": "Romantic",
+   "why": "born 1851"
+  },
+  "Vincenzo Galilei": {
+   "era": "Before 1600",
+   "why": "born 1520"
+  },
+  "Virginia Gabriel": {
+   "era": "Romantic",
+   "why": "born 1825"
+  },
+  "Vito Ugolino": {
+   "era": "Classical",
+   "why": "active by 1760 (born about 1730)"
+  },
+  "Walford Davies": {
+   "era": "1890 to 1950",
+   "why": "born 1869"
+  },
+  "Walter Frye": {
+   "era": "Before 1600",
+   "why": "active by 1450 (born about 1420)"
+  },
+  "Walter Parratt": {
+   "era": "Romantic",
+   "why": "born 1841"
+  },
+  "Wenzel Thomas Matiegka": {
+   "era": "Classical",
+   "why": "born 1773"
+  },
+  "Wilhelm Stenhammar": {
+   "era": "1890 to 1950",
+   "why": "born 1871"
+  },
+  "William Batchelder Bradbury": {
+   "era": "Romantic",
+   "why": "born 1816"
+  },
+  "William Croft": {
+   "era": "Baroque",
+   "why": "born 1678"
+  },
+  "William Fiske Sherwin": {
+   "era": "Romantic",
+   "why": "born 1826"
+  },
+  "William Henry Monk": {
+   "era": "Romantic",
+   "why": "born 1823"
+  },
+  "William Herbert Jude": {
+   "era": "Romantic",
+   "why": "born 1851"
+  },
+  "William Howard Doane": {
+   "era": "Romantic",
+   "why": "born 1832"
+  },
+  "William Shield": {
+   "era": "Classical",
+   "why": "born 1748"
+  },
+  "William Smallwood": {
+   "era": "Romantic",
+   "why": "born 1831"
+  },
+  "Wolfgang Amadeus Mozart": {
+   "era": "Classical",
+   "why": "the sheet's period"
+  },
+  "Édouard Lalo": {
+   "era": "Romantic",
+   "why": "born 1823"
+  },
+  "Élisabeth Jacquet de La Guerre": {
+   "era": "Baroque",
+   "why": "the sheet's period"
+  },
+  "Émile Paladilhe": {
+   "era": "Romantic",
+   "why": "born 1844"
+  },
+  "Étienne-Nicolas Méhul": {
+   "era": "Classical",
+   "why": "born 1763"
+  }
+ }
+}
