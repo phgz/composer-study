@@ -25,7 +25,7 @@ A work read from such a copy is left out of the counts by default. Where that le
 - An organ file read with `registration` (16' copies removed) is kept; check a few against a typeset copy before trusting their bass.
 - An editor's part already dropped by score-reader (`drop_parts`) stays out.
 - Verovio's MIDI of kern files: whether it plays ornaments out is to be checked before training on kern.
-- CPDL's second archive (Palestrina and Landini, catalogue version 11) marks an edition that is transposed (`transposed`: a motet in high clefs written a fourth or fifth lower) or halves the note values (`halved`). Intervals, scale degrees and rhythm proportions are kept. Absolute pitch and register are not counted for a transposed work; a halved work's lengths are doubled before lengths are counted.
+- CPDL's second archive (Palestrina and Landini, catalogue version 14) marks an edition that is transposed (`transposed`: a motet in high clefs written a fourth or fifth lower) or halves the note values (`halved`). Intervals, scale degrees and rhythm proportions are kept. Absolute pitch and register are not counted for a transposed work; a halved work's lengths are doubled before lengths are counted.
 
 ## 3. Repeats counted once
 
