@@ -1,0 +1,1343 @@
+{
+ "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide.",
+ "composers": {
+  "Ludwig van Beethoven": {
+   "source": "the three periods as drawn since Wilhelm von Lenz (1852): early to the Heiligenstadt crisis (1802), middle 1803 to 1814, late from 1815; opus numbers follow composition for the most part, the early works published late taken out by their dates of composition",
+   "periods": [
+    {
+     "name": "early",
+     "years": [
+      1782,
+      1802
+     ],
+     "op": [
+      [
+       1,
+       52
+      ],
+      65,
+      66,
+      71,
+      "81b",
+      87,
+      103,
+      116,
+      129
+     ],
+     "why": "to 1802; op. 65, 66, 71, 81b, 87, 103, 116 and 129 were written by 1802 and published later"
+    },
+    {
+     "name": "middle",
+     "years": [
+      1803,
+      1814
+     ],
+     "op": [
+      [
+       53,
+       97
+      ],
+      113,
+      117,
+      118,
+      136,
+      138
+     ],
+     "why": "1803 (the Eroica, the Waldstein, op. 53) to 1814; op. 113, 117, 118, 136 and 138 date from 1807 to 1814"
+    },
+    {
+     "name": "late",
+     "years": [
+      1815,
+      1827
+     ],
+     "op": [
+      [
+       98,
+       137
+      ]
+     ],
+     "why": "from 1815 (op. 98, An die ferne Geliebte, 1816; the cello sonatas op. 102, 1815) to the last quartets"
+    }
+   ]
+  },
+  "Wolfgang Amadeus Mozart": {
+   "source": "Köchel numbers follow the order of composition; the usual division by his years: childhood and youth, the Salzburg years from 1773, Vienna from 1781",
+   "periods": [
+    {
+     "name": "youth",
+     "years": [
+      1761,
+      1772
+     ],
+     "K": [
+      [
+       1,
+       182
+      ]
+     ],
+     "why": "to 1773, the journeys of the child and the young man"
+    },
+    {
+     "name": "Salzburg",
+     "years": [
+      1773,
+      1780
+     ],
+     "K": [
+      [
+       183,
+       365
+      ]
+     ],
+     "why": "from the Symphony K. 183 (1773) to 1780"
+    },
+    {
+     "name": "Vienna",
+     "years": [
+      1781,
+      1791
+     ],
+     "K": [
+      [
+       366,
+       626
+      ]
+     ],
+     "why": "from Idomeneo, K. 366 (1780-81), to the Requiem"
+    }
+   ]
+  },
+  "Franz Joseph Haydn": {
+   "source": "the usual division: the early works, the Sturm und Drang years (about 1766-1773), the mature works to 1790, then London and the late works; the quartets by opus, the symphonies by the groups whose dates are certain",
+   "periods": [
+    {
+     "name": "early",
+     "years": [
+      1750,
+      1765
+     ],
+     "op": [
+      1,
+      2
+     ],
+     "why": "the first quartets, op. 1 and op. 2 (1757-62)"
+    },
+    {
+     "name": "Sturm und Drang",
+     "years": [
+      1766,
+      1773
+     ],
+     "op": [
+      9,
+      17,
+      20
+     ],
+     "Hob": [
+      "I:26",
+      "I:39",
+      "I:44",
+      "I:45",
+      "I:49",
+      "I:52"
+     ],
+     "why": "the quartets op. 9, 17 and 20 (1769-72) and the minor-key symphonies of those years"
+    },
+    {
+     "name": "mature",
+     "years": [
+      1774,
+      1790
+     ],
+     "op": [
+      33,
+      42,
+      50,
+      54,
+      55,
+      64
+     ],
+     "Hob": [
+      [
+       "I:82",
+       "I:92"
+      ]
+     ],
+     "why": "the quartets from op. 33 (1781) to op. 64 (1790); the Paris symphonies and nos. 88-92"
+    },
+    {
+     "name": "London and late",
+     "years": [
+      1791,
+      1803
+     ],
+     "op": [
+      71,
+      74,
+      76,
+      77,
+      103
+     ],
+     "Hob": [
+      [
+       "I:93",
+       "I:104"
+      ]
+     ],
+     "why": "the London symphonies (1791-95) and the last quartets"
+    }
+   ]
+  },
+  "Franz Schubert": {
+   "source": "Deutsch numbers follow the order of composition; the late works are usually counted from the Unfinished Symphony (D 759, 1822)",
+   "periods": [
+    {
+     "name": "before 1822",
+     "years": [
+      1810,
+      1821
+     ],
+     "D": [
+      [
+       1,
+       758
+      ]
+     ],
+     "why": "the songs and works of his first ten years"
+    },
+    {
+     "name": "late",
+     "years": [
+      1822,
+      1828
+     ],
+     "D": [
+      [
+       759,
+       998
+      ]
+     ],
+     "why": "from the Unfinished Symphony (D 759, 1822) to 1828"
+    }
+   ]
+  },
+  "Frédéric Chopin": {
+   "source": "Warsaw to 1830, Paris from 1831, and the late works from 1843; opus numbers follow publication, which for op. 1-65 follows composition closely; the posthumous op. 66-74 are mostly early",
+   "periods": [
+    {
+     "name": "Warsaw",
+     "years": [
+      1817,
+      1830
+     ],
+     "op": [
+      [
+       1,
+       14
+      ],
+      21,
+      [
+       66,
+       74
+      ]
+     ],
+     "why": "to his leaving Poland (1830): op. 1-14, the F minor concerto op. 21, and the posthumous op. 66-74, mostly written then"
+    },
+    {
+     "name": "Paris",
+     "years": [
+      1831,
+      1842
+     ],
+     "op": [
+      [
+       15,
+       54
+      ]
+     ],
+     "why": "1831 to 1842"
+    },
+    {
+     "name": "late",
+     "years": [
+      1843,
+      1849
+     ],
+     "op": [
+      [
+       55,
+       65
+      ]
+     ],
+     "why": "from the Nocturnes op. 55 (1843) to the Cello Sonata op. 65 and the last mazurkas"
+    }
+   ]
+  },
+  "Johannes Brahms": {
+   "source": "opus numbers follow composition; the early works to 1860, the late works from the Clarinet Trio (1891)",
+   "periods": [
+    {
+     "name": "early",
+     "years": [
+      1851,
+      1860
+     ],
+     "op": [
+      [
+       1,
+       18
+      ]
+     ],
+     "why": "the sonatas, the Ballades and the first concerto, to the First Sextet (op. 18, 1860)"
+    },
+    {
+     "name": "middle",
+     "years": [
+      1861,
+      1890
+     ],
+     "op": [
+      [
+       19,
+       113
+      ]
+     ],
+     "why": "1861 to 1890"
+    },
+    {
+     "name": "late",
+     "years": [
+      1891,
+      1896
+     ],
+     "op": [
+      [
+       114,
+       122
+      ]
+     ],
+     "why": "the clarinet works, the piano pieces op. 116-119, the Four Serious Songs and the chorale preludes"
+    }
+   ]
+  },
+  "Robert Schumann": {
+   "source": "the piano years to 1839, the song year 1840 and the years of symphony and chamber music to 1849, and Düsseldorf from 1850; opus numbers follow composition with the exceptions listed",
+   "periods": [
+    {
+     "name": "piano years",
+     "years": [
+      1829,
+      1839
+     ],
+     "op": [
+      [
+       1,
+       23
+      ],
+      26,
+      28,
+      32
+     ],
+     "why": "the piano cycles, op. 1 to 23, with op. 26, 28 and 32 (1838-39)"
+    },
+    {
+     "name": "1840 to 1849",
+     "years": [
+      1840,
+      1849
+     ],
+     "op": [
+      [
+       24,
+       96
+      ],
+      124
+     ],
+     "why": "from the song year to 1849; op. 124 gathers pieces of 1832-45"
+    },
+    {
+     "name": "late",
+     "years": [
+      1850,
+      1854
+     ],
+     "op": [
+      [
+       97,
+       148
+      ]
+     ],
+     "why": "Düsseldorf, from the Rhenish Symphony (op. 97, 1850)"
+    }
+   ]
+  },
+  "Franz Liszt": {
+   "source": "the virtuoso years to 1847, Weimar 1848-1861, Rome and the late years from 1861; S numbers do not follow composition, so each work is placed by the year of the version the catalogue reads",
+   "periods": [
+    {
+     "name": "virtuoso years",
+     "years": [
+      1822,
+      1847
+     ],
+     "why": "the Petrarch sonnets in their first version (S. 270a, 1842-46)",
+     "label": "S\\.270a"
+    },
+    {
+     "name": "Weimar",
+     "years": [
+      1848,
+      1861
+     ],
+     "S": [
+      139,
+      141,
+      160,
+      161,
+      162,
+      171,
+      172,
+      178,
+      244,
+      514
+     ],
+     "why": "the final versions of the Transcendental and Paganini studies (1851), the Années Suisse and Italie as published (1855, 1858) and Venezia e Napoli (1859), the Second Ballade and the Sonata (1853), the Consolations (1849-50), the Hungarian Rhapsodies (1846-53), the First Mephisto Waltz (1859-61)"
+    },
+    {
+     "name": "late",
+     "years": [
+      1862,
+      1886
+     ],
+     "S": [
+      145
+     ],
+     "why": "from 1862: the two concert studies (1862-63) and the second version of the Petrarch sonnets (S. 270b, revised in the 1860s, published 1883); a key S 270 alone does not say which version, so the version is read from the title",
+     "label": "S\\.270b"
+    }
+   ]
+  },
+  "Johann Sebastian Bach": {
+   "source": "Weimar 1708-1717, Köthen 1717-1723, Leipzig 1723-1750; BWV numbers follow kind, not date, so only the works whose place is certain are placed",
+   "periods": [
+    {
+     "name": "Weimar",
+     "years": [
+      1708,
+      1717
+     ],
+     "BWV": [
+      [
+       599,
+       644
+      ]
+     ],
+     "why": "the Orgelbüchlein"
+    },
+    {
+     "name": "Köthen",
+     "years": [
+      1717,
+      1723
+     ],
+     "BWV": [
+      [
+       772,
+       801
+      ],
+      [
+       846,
+       869
+      ],
+      [
+       1001,
+       1012
+      ],
+      [
+       1046,
+       1051
+      ]
+     ],
+     "why": "the Inventions and Sinfonias (1720-23), the first book of the Well-Tempered Clavier (1722), the solo violin and cello works (about 1720) and the Brandenburg Concertos (1721)"
+    },
+    {
+     "name": "Leipzig",
+     "years": [
+      1723,
+      1750
+     ],
+     "BWV": [
+      [
+       250,
+       438
+      ],
+      [
+       825,
+       830
+      ],
+      [
+       870,
+       893
+      ],
+      988,
+      1079,
+      1080
+     ],
+     "why": "the four-part chorales (most from his Leipzig cantatas and Passions), the Partitas (1726-31), the second book of the Well-Tempered Clavier (1742), the Goldberg Variations (1741), the Musical Offering (1747) and the Art of Fugue"
+    }
+   ]
+  },
+  "Claudio Monteverdi": {
+   "source": "Cremona and early Mantua (books 1-3, 1587-92), Mantua and the seconda pratica (books 4-5, 1603-05), Venice from 1613",
+   "periods": [
+    {
+     "name": "early",
+     "years": [
+      1582,
+      1592
+     ],
+     "label": "(?i)primo libro|secondo libro|terzo libro",
+     "why": "the first three books of madrigals"
+    },
+    {
+     "name": "seconda pratica",
+     "years": [
+      1593,
+      1612
+     ],
+     "label": "(?i)quarto libro|quinto libro",
+     "why": "the fourth and fifth books (1603, 1605), which Artusi attacked and Monteverdi defended"
+    },
+    {
+     "name": "Venice",
+     "years": [
+      1613,
+      1643
+     ],
+     "label": "(?i)sesto libro|settimo libro|ottavo libro|guerrier|amoros|sestina|maddalena|\\bSV 2(?:5[2-9]|[6-8][0-9])\\b",
+     "why": "from the sixth book (1614, with the Sestina) to the eighth (1638), the Musiche per la Maddalena (1617) and the sacred works of the Selva morale (SV 252-288, 1641); the Vespers of 1610 (SV 206) are not placed"
+    }
+   ]
+  },
+  "Arnold Schoenberg": {
+   "source": "tonal to 1908, free atonality 1908-1920, twelve-tone from 1921",
+   "periods": [
+    {
+     "name": "tonal",
+     "years": [
+      1893,
+      1907
+     ],
+     "op": [
+      [
+       1,
+       10
+      ]
+     ],
+     "why": "to the Second String Quartet (op. 10, 1907-08), which ends beyond tonality"
+    },
+    {
+     "name": "atonal",
+     "years": [
+      1908,
+      1920
+     ],
+     "op": [
+      [
+       11,
+       22
+      ]
+     ],
+     "why": "from the Three Piano Pieces op. 11 (1909)"
+    },
+    {
+     "name": "twelve-tone",
+     "years": [
+      1921,
+      1951
+     ],
+     "op": [
+      [
+       23,
+       50
+      ]
+     ],
+     "why": "from the Five Piano Pieces op. 23 (1920-23)"
+    }
+   ]
+  },
+  "Anton Webern": {
+   "source": "tonal works, free atonality, and the twelve-tone works from op. 17 (1924)",
+   "periods": [
+    {
+     "name": "tonal",
+     "years": [
+      1899,
+      1908
+     ],
+     "op": [
+      1,
+      2
+     ],
+     "why": "the Passacaglia op. 1 and the choral canon op. 2 (1908)"
+    },
+    {
+     "name": "atonal",
+     "years": [
+      1908,
+      1923
+     ],
+     "op": [
+      [
+       3,
+       16
+      ]
+     ],
+     "why": "from the George songs op. 3 to the canons op. 16"
+    },
+    {
+     "name": "twelve-tone",
+     "years": [
+      1924,
+      1945
+     ],
+     "op": [
+      [
+       17,
+       31
+      ]
+     ],
+     "why": "from the songs op. 17 (1924)"
+    }
+   ]
+  },
+  "Alban Berg": {
+   "source": "the tonal early works, free atonality from op. 3, the twelve-tone works from the Lyric Suite (1926)",
+   "periods": [
+    {
+     "name": "early",
+     "years": [
+      1901,
+      1909
+     ],
+     "op": [
+      1,
+      2
+     ],
+     "why": "the Piano Sonata and the songs op. 2"
+    },
+    {
+     "name": "atonal",
+     "years": [
+      1910,
+      1925
+     ],
+     "op": [
+      [
+       3,
+       7
+      ]
+     ],
+     "why": "from the String Quartet op. 3 (1910) to Wozzeck"
+    },
+    {
+     "name": "twelve-tone",
+     "years": [
+      1926,
+      1935
+     ],
+     "why": "from the Lyric Suite (1925-26)"
+    }
+   ]
+  },
+  "Alexander Scriabin": {
+   "source": "the early works in Chopin's line to op. 29, the middle works from the Fourth Sonata (op. 30, 1903), the late works from op. 58 (1910)",
+   "periods": [
+    {
+     "name": "early",
+     "years": [
+      1885,
+      1902
+     ],
+     "op": [
+      [
+       1,
+       29
+      ]
+     ],
+     "why": "to the Second Symphony (op. 29, 1901)"
+    },
+    {
+     "name": "middle",
+     "years": [
+      1903,
+      1909
+     ],
+     "op": [
+      [
+       30,
+       57
+      ]
+     ],
+     "why": "from the Fourth Sonata (op. 30, 1903) to the Poem of Ecstasy's years"
+    },
+    {
+     "name": "late",
+     "years": [
+      1910,
+      1915
+     ],
+     "op": [
+      [
+       58,
+       74
+      ]
+     ],
+     "why": "from op. 58 (1910) and Prometheus (op. 60) to the last preludes"
+    }
+   ]
+  },
+  "Sergei Rachmaninoff": {
+   "source": "Russia to 1917, exile from 1918",
+   "periods": [
+    {
+     "name": "Russia",
+     "years": [
+      1887,
+      1917
+     ],
+     "op": [
+      [
+       1,
+       39
+      ]
+     ],
+     "why": "to the Études-tableaux op. 39 (1916-17)"
+    },
+    {
+     "name": "exile",
+     "years": [
+      1918,
+      1943
+     ],
+     "op": [
+      [
+       40,
+       45
+      ]
+     ],
+     "why": "the six works written after he left Russia"
+    }
+   ]
+  },
+  "Antonín Dvořák": {
+   "source": "the American years 1892-1895 are certain by opus; the opus numbers before them were assigned partly out of order by his publisher, so no earlier division is drawn by number",
+   "periods": [
+    {
+     "name": "before America",
+     "years": [
+      1855,
+      1891
+     ],
+     "op": [
+      [
+       1,
+       94
+      ]
+     ],
+     "why": "before September 1892; the opus numbers of this range are not all in order, but all fall before America"
+    },
+    {
+     "name": "America",
+     "years": [
+      1892,
+      1895
+     ],
+     "op": [
+      [
+       95,
+       104
+      ]
+     ],
+     "why": "from the New World Symphony (op. 95) to the Cello Concerto (op. 104)"
+    },
+    {
+     "name": "late",
+     "years": [
+      1896,
+      1904
+     ],
+     "op": [
+      [
+       105,
+       117
+      ]
+     ],
+     "why": "after his return: the last quartets, the symphonic poems and the operas"
+    }
+   ]
+  },
+  "Gabriel Fauré": {
+   "source": "the three periods usually drawn: to about 1885, 1885-1906, from 1906; by opus number only roughly",
+   "periods": [
+    {
+     "name": "early",
+     "years": [
+      1861,
+      1884
+     ],
+     "op": [
+      [
+       1,
+       49
+      ]
+     ],
+     "why": "to about 1885"
+    },
+    {
+     "name": "middle",
+     "years": [
+      1885,
+      1905
+     ],
+     "op": [
+      [
+       50,
+       94
+      ]
+     ],
+     "why": "from the Pavane (op. 50, 1887) and the Requiem's years to 1906"
+    },
+    {
+     "name": "late",
+     "years": [
+      1906,
+      1924
+     ],
+     "op": [
+      [
+       95,
+       121
+      ]
+     ],
+     "why": "from La chanson d'Ève (op. 95, 1906-10) to the String Quartet"
+    }
+   ]
+  },
+  "Claude Debussy": {
+   "source": "the early works to 1892, the mature works from the Prélude à l'après-midi d'un faune (1894), the late works from 1913; placed by the year a source states",
+   "periods": [
+    {
+     "name": "early",
+     "years": [
+      1879,
+      1892
+     ],
+     "why": "to 1892"
+    },
+    {
+     "name": "mature",
+     "years": [
+      1893,
+      1912
+     ],
+     "why": "1893 to 1912"
+    },
+    {
+     "name": "late",
+     "years": [
+      1913,
+      1918
+     ],
+     "why": "the Études, the three sonatas and the late piano and stage works"
+    }
+   ]
+  },
+  "George Frideric Handel": {
+   "source": "Hamburg and Italy to 1710, London from 1711; HWV numbers follow kind, not date",
+   "periods": [
+    {
+     "name": "Hamburg and Italy",
+     "years": [
+      1703,
+      1710
+     ],
+     "why": "to 1710"
+    },
+    {
+     "name": "London",
+     "years": [
+      1711,
+      1759
+     ],
+     "why": "from Rinaldo (1711)"
+    }
+   ]
+  },
+  "Richard Wagner": {
+   "source": "the romantic operas to Lohengrin (1848), the music dramas from Das Rheingold (1853-54); every work the catalogue holds is of the second",
+   "periods": [
+    {
+     "name": "romantic operas",
+     "years": [
+      1832,
+      1848
+     ],
+     "label": "(?i)rienzi|holländer|hollander|tannhäuser|tannhauser|lohengrin",
+     "why": "Rienzi, Der fliegende Holländer, Tannhäuser, Lohengrin"
+    },
+    {
+     "name": "music dramas",
+     "years": [
+      1853,
+      1882
+     ],
+     "label": "(?i)rheingold|walküre|siegfried|götterdämmerung|tristan|meistersinger|parsifal|wesendonck",
+     "why": "from Das Rheingold; the Wesendonck songs (1857-58) are studies for Tristan"
+    }
+   ]
+  },
+  "Gustav Mahler": {
+   "source": "the Wunderhorn years to 1900, the Rückert years from 1901",
+   "periods": [
+    {
+     "name": "Wunderhorn years",
+     "years": [
+      1880,
+      1900
+     ],
+     "label": "(?i)fahrenden gesellen|wunderhorn",
+     "why": "the Songs of a Wayfarer (1884-85) and the Wunderhorn songs (1887-1901)"
+    },
+    {
+     "name": "middle",
+     "years": [
+      1901,
+      1907
+     ],
+     "label": "(?i)kindertotenlieder|rückert|ruckert",
+     "why": "the Kindertotenlieder (1901-04) and the Rückert songs (1901-02)"
+    },
+    {
+     "name": "late",
+     "years": [
+      1908,
+      1911
+     ],
+     "label": "(?i)lied von der erde",
+     "why": "Das Lied von der Erde and the last symphonies"
+    }
+   ]
+  },
+  "Piotr Ilyich Tchaikovsky": {
+   "source": "no division the catalogue's 28 works would separate usefully",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Felix Mendelssohn": {
+   "source": "his style was formed by about 1825 and changed little; no usual division",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Edward Elgar": {
+   "source": "16 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Edvard Grieg": {
+   "source": "no usual division",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Nielsen": {
+   "source": "18 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Béla Bartók": {
+   "source": "23 works; no division drawn by number here",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maurice Ravel": {
+   "source": "11 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Richard Strauss": {
+   "source": "8 works, all songs",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Nikolai Rimsky-Korsakov": {
+   "source": "7 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Modest Mussorgsky": {
+   "source": "17 works, most of them the numbers of Pictures at an Exhibition (1874)",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alexander Borodin": {
+   "source": "8 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Leoš Janáček": {
+   "source": "8 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gustav Holst": {
+   "source": "4 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Erik Satie": {
+   "source": "no division the catalogue's works would separate usefully",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Georges Bizet": {
+   "source": "28 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gioachino Rossini": {
+   "source": "21 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Scott Joplin": {
+   "source": "his rags, 1899-1917",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Emilie Mayer": {
+   "source": "30 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Philipp Emanuel Bach": {
+   "source": "Berlin and Hamburg; Wq numbers follow kind, not date, and no year is stated for most",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Domenico Scarlatti": {
+   "source": "Kirkpatrick's order follows the copying of the Venice and Parma manuscripts (1752-57), not composition",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antonio Vivaldi": {
+   "source": "RV numbers follow kind; the opus numbers are dates of publication",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Arcangelo Corelli": {
+   "source": "six opus numbers, 1681-1714, each of one kind: the kind separates them",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean-Philippe Rameau": {
+   "source": "108 works, most of them numbers of the operas and the harpsichord books",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Pachelbel": {
+   "source": "no usual division",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Dietrich Buxtehude": {
+   "source": "17 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Élisabeth Jacquet de La Guerre": {
+   "source": "3 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henry Purcell": {
+   "source": "6 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Dowland": {
+   "source": "the lute songs and lute pieces, 1597-1612",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Thomas Tallis": {
+   "source": "the Latin works before the Reformation and the English works after it are separated by kind and language, not here",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Josquin Des Prez": {
+   "source": "his chronology is disputed",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Guillaume de Machaut": {
+   "source": "13 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Hildegard von Bingen": {
+   "source": "5 chants",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Manuel de Falla": {
+   "source": "no work in the catalogue",
+   "periods": []
+  },
+  "François Couperin": {
+   "source": "the harpsichord books (1713-1730) and the concerts (1722-24)",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Battista Pergolesi": {
+   "source": "the Stabat Mater (1736)",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean-Baptiste Lully": {
+   "source": "15 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "John Philip Sousa": {
+   "source": "the marches, 1886-1908",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Francisco Tárrega": {
+   "source": "3 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Niccolò Paganini": {
+   "source": "6 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Orlando di Lasso": {
+   "source": "1 work",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "César Franck": {
+   "source": "2 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Camille Saint-Saëns": {
+   "source": "1 work",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Fanny Mendelssohn": {
+   "source": "the songs and the quartet",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Lili Boulanger": {
+   "source": "16 songs, 1911-1918",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Frederick Delius": {
+   "source": "10 works",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Bedřich Smetana": {
+   "source": "one quartet",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  }
+ }
+}
