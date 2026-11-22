@@ -16,7 +16,8 @@ What is measured, each labelled work weighing one:
   inversions           the share of chords over a bass that is not their root
   keys a 10 bars       how often the key changes (a label in another local key than the one before)
   away from home       the share of chords in a key other than the movement's own
-  cadences a 10 bars   DCML's works only (When in Rome marks none); and of them the shares perfect, half, and deceptive or evaded
+  cadences a 10 bars   DCML's works only, in the corpora that mark them (When in Rome marks none, nor do some of DCML's corpora);
+                       and of them the shares perfect, half, and deceptive or evaded
   changes              DCML's works only: the share of chords labelled with notes in place of theirs or added (V(4), vi(2):
                        suspensions, retardations, appoggiaturas the analysts heard as part of the harmony)
   non-chord tones      the share of the melody's notes that are not in the chord sounding at their onset (the chord's own
@@ -117,8 +118,15 @@ def token(h):
     return s + (f"/{h['relativeroot']}" if h['relativeroot'] else '')
 
 
-def measure(work, melody):
-    """a labelled work's harmony measures (dict), or None; `melody`: its melody [(onset, dur, midi, bar, beat), ...]"""
+def cadence_collections(works):
+    """the collections whose analysts mark cadences: some of DCML's corpora mark none (the ABC, Winterreise, Koželuch's sonatas,
+    Mendelssohn's quartets, the Kleine geistliche Konzerte...), and a work there has no cadences measured, rather than none found"""
+    return {w.collection for w in works if w.harmony and any(h.get('cadence') for h in w.harmony)}
+
+
+def measure(work, melody, cadences=True):
+    """a labelled work's harmony measures (dict), or None; `melody`: its melody [(onset, dur, midi, bar, beat), ...];
+    `cadences`: whether its analysts mark cadences (cadence_collections)"""
     hs = work.harmony or []; ch = chords(work)
     if len(ch) < 8: return None
     bars = [h['bar'] for h in hs if h.get('bar') is not None]
@@ -136,7 +144,7 @@ def measure(work, melody):
     out['away from home'] = sum(1 for k in keys if k not in ('I', 'i')) / n
     if all(h.get('by') == 'DCML' for h in hs):
         cad = collections.Counter(h['cadence'].split('.')[0] for h in hs if h.get('cadence'))
-        out['cadences a 10 bars'] = 10 * sum(cad.values()) / nbars
+        if cadences: out['cadences a 10 bars'] = 10 * sum(cad.values()) / nbars
         tot = sum(cad.values())
         if tot: out['perfect cadences'] = cad['PAC'] / tot; out['half cadences'] = cad['HC'] / tot; out['deceptive or evaded'] = (cad['DC'] + cad['EC']) / tot
         out['changes'] = share(lambda h: '(' in (h.get('chord') or ''))

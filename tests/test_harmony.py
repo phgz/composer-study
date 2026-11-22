@@ -99,3 +99,12 @@ def test_a_chord_held_while_its_seventh_enters_is_one_chord_and_dcmls_cadential_
     toks = [t for _, t, _ in HM.runs(work(0, 'X', labs, [60] * 20))]
     assert toks == ['I', 'I64', 'V7', 'I', 'IV', 'V', 'I']
     assert ('I64', 'V7', 'I') in HM.progressions(work(0, 'X', labs, [60] * 20))
+
+
+def test_a_corpus_that_marks_no_cadences_has_none_measured():
+    labs = [label(2 * k, 'V' if k % 2 else 'I') for k in range(16)]
+    marked = work(0, 'X', labs[:-1] + [dict(labs[-1], cadence='PAC')], [60] * 32, collection='dcml/a')
+    unmarked = work(1, 'Y', labs, [60] * 32, collection='dcml/b')
+    assert HM.cadence_collections([marked, unmarked]) == {'dcml/a'}
+    assert 'cadences a 10 bars' not in HM.measure(unmarked, unmarked.lines['p'], cadences=False)
+    assert HM.measure(marked, marked.lines['p'])['perfect cadences'] == 1.0

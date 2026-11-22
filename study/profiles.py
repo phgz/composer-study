@@ -156,6 +156,7 @@ def build(works, facts, surprise=None, log=print):
     periods = PD.table(); eras = R.table()
     era = lambda c: (eras.get(c) or {}).get('era')
     per_work, figs, members, by_id, per_harm, progs = {}, {}, collections.defaultdict(list), {}, {}, {}
+    marked = HM.cadence_collections(works)
     for k, w in enumerate(works):
         us = units_of(w, facts, periods)
         if not us: continue
@@ -165,7 +166,7 @@ def build(works, facts, surprise=None, log=print):
         if surprise and w.id in surprise: mw['surprise, pitch'], mw['surprise, rhythm'] = surprise[w.id][:2]
         per_work[w.id] = mw; figs[w.id] = figures(w, forces); by_id[w.id] = w
         if w.harmony:                                                      # the analysts' labels: the harmony
-            hm = HM.measure(w, top_line(w, forces))
+            hm = HM.measure(w, top_line(w, forces), cadences=w.collection in marked)
             if hm is not None: per_harm[w.id] = hm; progs[w.id] = HM.progressions(w)
         for u in us: members[u].append(w)
         if log and k % 4000 == 0: log(f'  {k} of {len(works)} works measured')
