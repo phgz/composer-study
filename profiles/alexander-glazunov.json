@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Alexander Glazunov",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.6008837399367087,
+   "repeats": 0.048302616122589605,
+   "leaps": 0.18635013486004312,
+   "move": 3.2255638694223228,
+   "rising": 0.5088935938093708,
+   "leap answered": 0.20669864298752685,
+   "range": 21.25,
+   "register": 72.25,
+   "even": 0.4575481471943329,
+   "long-short": 0.11051935709329111,
+   "rhythm variety": 2.1601407000433226,
+   "surprise, pitch": 2.259317290266707,
+   "surprise, rhythm": 0.9954165836133744,
+   "density": 3.5589607694577916,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ }
+]

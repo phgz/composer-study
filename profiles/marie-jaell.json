@@ -1,0 +1,276 @@
+[
+ {
+  "composer": "Marie Jaëll",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 17,
+  "values": {
+   "steps": 0.39802229402604206,
+   "repeats": 0.34148482184830925,
+   "leaps": 0.12625056320826697,
+   "move": 2.8721038567378288,
+   "rising": 0.5050871505792464,
+   "leap answered": 0.24518248623209526,
+   "range": 13.420588235294117,
+   "register": 68.52941176470588,
+   "even": 0.33962719021508836,
+   "long-short": 0.12769748678463222,
+   "rhythm variety": 3.0466303381459046,
+   "surprise, pitch": 2.9507016983846563,
+   "surprise, rhythm": 2.2809181697066734,
+   "density": 5.583570533768123,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.34148482184830925,
+    "others": 0.23405829316953958,
+    "auc": 0.779323983147055
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.0466303381459046,
+    "others": 2.5253836124393962,
+    "auc": 0.8335130947775309
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.9507016983846563,
+    "others": 2.424835789432545,
+    "auc": 0.7818078958759915
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.2809181697066734,
+    "others": 1.6245028384757276,
+    "auc": 0.8558231763166857
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 9.9,
+    "works": 9,
+    "per_1000": 5.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/4_Mélodies/2_Éternel_amour/lc5837811.mxl",
+      "label": "Mélodies, Éternel amour (OpenScore)",
+      "bar": 16,
+      "notes": "Ab4 Ab4 A4 A4"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/La_mer/4_Baisers_perdus/lc6156587.mxl",
+      "label": "La mer, Baisers perdus (OpenScore)",
+      "bar": 36,
+      "notes": "E5 E5 F5 F5"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/La_mer/5_En_ramant/lc6157272.mxl",
+      "label": "La mer, En ramant (OpenScore)",
+      "bar": 29,
+      "notes": "F#4 F#4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 7.5,
+    "works": 5,
+    "per_1000": 2.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/6_Vœu/lc5906774.mxl",
+      "label": "Les Orientales, Vœu (OpenScore)",
+      "bar": 54,
+      "notes": "Ab4 Ab4 G4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/3_Clair_de_lune/lc6217099.mxl",
+      "label": "Les Orientales, Clair de lune (OpenScore)",
+      "bar": 43,
+      "notes": "C#5 C#5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/7_Le_voile/lc6218315.mxl",
+      "label": "Les Orientales, Le voile (OpenScore)",
+      "bar": 28,
+      "notes": "Eb5 Eb5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.1,
+    "works": 5,
+    "per_1000": 2.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/1_Rêverie/lc6214351.mxl",
+      "label": "Les Orientales, Rêverie (OpenScore)",
+      "bar": 35,
+      "notes": "D5 C#5 C#5 C5"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/7_Le_voile/lc6218315.mxl",
+      "label": "Les Orientales, Le voile (OpenScore)",
+      "bar": 27,
+      "notes": "E5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/6_Vœu/lc5906774.mxl",
+      "label": "Les Orientales, Vœu (OpenScore)",
+      "bar": 54,
+      "notes": "A4 Ab4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.8,
+    "works": 7,
+    "per_1000": 3.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/1_Rêverie/lc6214351.mxl",
+      "label": "Les Orientales, Rêverie (OpenScore)",
+      "bar": 61,
+      "notes": "B4 B4 B4 C5"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/4_Mélodies/2_Éternel_amour/lc5837811.mxl",
+      "label": "Mélodies, Éternel amour (OpenScore)",
+      "bar": 16,
+      "notes": "Ab4 Ab4 Ab4 A4"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/La_mer/4_Baisers_perdus/lc6156587.mxl",
+      "label": "La mer, Baisers perdus (OpenScore)",
+      "bar": 36,
+      "notes": "E5 E5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.3,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/4_Mélodies/2_Éternel_amour/lc5837811.mxl",
+      "label": "Mélodies, Éternel amour (OpenScore)",
+      "bar": 8,
+      "notes": "F#4 Ab4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/La_mer/3_Les_papillons/lc6155444.mxl",
+      "label": "La mer, Les papillons (OpenScore)",
+      "bar": 14,
+      "notes": "A4 B4 B4 C#5"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/6_Vœu/lc5906774.mxl",
+      "label": "Les Orientales, Vœu (OpenScore)",
+      "bar": 29,
+      "notes": "Ab4 Bb4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.2,
+    "works": 6,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/1_Rêverie/lc6214351.mxl",
+      "label": "Les Orientales, Rêverie (OpenScore)",
+      "bar": 31,
+      "notes": "G4 G4 Ab4 G4"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/La_mer/3_Les_papillons/lc6155444.mxl",
+      "label": "La mer, Les papillons (OpenScore)",
+      "bar": 28,
+      "notes": "C#5 C#5 D5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Jaëll,_Marie/Les_Orientales/6_Vœu/lc5906774.mxl",
+      "label": "Les Orientales, Vœu (OpenScore)",
+      "bar": 52,
+      "notes": "C5 C5 C#5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1071,
+   "composers": 97
+  }
+ }
+]

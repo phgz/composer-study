@@ -1,0 +1,333 @@
+[
+ {
+  "composer": "Bartłomiej Pękiel",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 38,
+  "values": {
+   "steps": 0.6248457071753426,
+   "repeats": 0.19734013789677818,
+   "leaps": 0.08864943242191453,
+   "move": 2.337112125121232,
+   "rising": 0.47883361754818554,
+   "leap answered": 0.47957053301607233,
+   "range": 9.106578947368419,
+   "register": 64.57894736842105,
+   "even": 0.37009346998226667,
+   "long-short": 0.1402372088338255,
+   "rhythm variety": 2.7914491016808367,
+   "surprise, pitch": 2.6477434626184118,
+   "surprise, rhythm": 2.2872147008296695,
+   "density": 2.134980562741756,
+   "lines": 4.7894736842105265
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6248457071753426,
+    "others": 0.49292496129444185,
+    "auc": 0.7747891249129278
+   },
+   {
+    "measure": "move",
+    "value": 2.337112125121232,
+    "others": 2.8056082002683165,
+    "auc": 0.23815290775996692
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.47957053301607233,
+    "others": 0.3014228670001349,
+    "auc": 0.7936139814622082
+   },
+   {
+    "measure": "even",
+    "value": 0.37009346998226667,
+    "others": 0.5213572647614846,
+    "auc": 0.24991694349148474
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.7914491016808367,
+    "others": 2.209946973925574,
+    "auc": 0.7920485586679905
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.2872147008296695,
+    "others": 1.759559978711164,
+    "auc": 0.8514755376850367
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.8,
+    "works": 24,
+    "per_1000": 4.0,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-10--002-001_pekiel-bartlomiej--missa-paschalis-kyrie.krn",
+      "label": "Missa Paschalis, Kyrie, movement 1 (PL-Kk Kk.I.10, kern)",
+      "bar": 6,
+      "notes": "D4 C#4 B3 C#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-10--008-002_pekiel-bartlomiej--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.10, kern)",
+      "bar": 2,
+      "notes": "C4 B3 A3 B3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-10--008-004_pekiel-bartlomiej--missa-sanctus.krn",
+      "label": "Missa, Sanctus, movement 4 (PL-Kk Kk.I.10, kern)",
+      "bar": 14,
+      "notes": "C4 B3 A3 B3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 14,
+    "per_1000": 2.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--033-002_pekiel-bartlomiej--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 5,
+      "notes": "F4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--051-003_pekiel-bartlomiej--missa-brevis-credo.krn",
+      "label": "Missa Brevis, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 68,
+      "notes": "F4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-10--008-002_pekiel-bartlomiej--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.10, kern)",
+      "bar": 67,
+      "notes": "C4 D4 C#4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 20,
+    "per_1000": 4.3,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--051-003_pekiel-bartlomiej--missa-brevis-credo.krn",
+      "label": "Missa Brevis, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 42,
+      "notes": "D4 E4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--036-006_pekiel-bartlomiej--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 6 (PL-Kk Kk.I.7, kern)",
+      "bar": 22,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-10--008-001_pekiel-bartlomiej--missa-kyrie.krn",
+      "label": "Missa, Kyrie, movement 1 (PL-Kk Kk.I.10, kern)",
+      "bar": 25,
+      "notes": "E3 F#3 G3 F#3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.2,
+    "works": 12,
+    "per_1000": 3.6,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-109--001-004_pekiel-bartlomiej--missa-paschalis-sanctus.krn",
+      "label": "Missa Paschalis, Sanctus, movement 4 (PL-Kk Kk.I.109, kern)",
+      "bar": 13,
+      "notes": "E4 E4 E4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-10--002-003_pekiel-bartlomiej--missa-paschalis-patrem.krn",
+      "label": "Missa Paschalis, Patrem, movement 3 (PL-Kk Kk.I.10, kern)",
+      "bar": 15,
+      "notes": "B3 B3 B3 B3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--051-003_pekiel-bartlomiej--missa-brevis-credo.krn",
+      "label": "Missa Brevis, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 27,
+      "notes": "F4 F4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.1,
+    "works": 17,
+    "per_1000": 3.5,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-10--002-003_pekiel-bartlomiej--missa-paschalis-patrem.krn",
+      "label": "Missa Paschalis, Patrem, movement 3 (PL-Kk Kk.I.10, kern)",
+      "bar": 4,
+      "notes": "E4 Eb4 E4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--052-003_pekiel-bartlomiej--missa-secunda-credo.krn",
+      "label": "Missa secunda, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 18,
+      "notes": "C4 B3 C4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--033-002_pekiel-bartlomiej--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 28,
+      "notes": "A4 Ab4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 14,
+    "per_1000": 2.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--033-001_pekiel-bartlomiej--missa-kyrie.krn",
+      "label": "Missa, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 25,
+      "notes": "C4 A3 B3 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--051-006_pekiel-bartlomiej--missa-brevis-agnus-dei.krn",
+      "label": "Missa Brevis, Agnus Dei, movement 6 (PL-Kk Kk.I.2, kern)",
+      "bar": 21,
+      "notes": "F4 D4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--051-003_pekiel-bartlomiej--missa-brevis-credo.krn",
+      "label": "Missa Brevis, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 179,
+      "notes": "F4 D4 E4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 158,
+   "composers": 20
+  }
+ },
+ {
+  "composer": "Bartłomiej Pękiel",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.6075021099065211,
+   "repeats": 0.21140177517374217,
+   "leaps": 0.09124673902182279,
+   "move": 2.28262321318526,
+   "rising": 0.4744462867436338,
+   "leap answered": 0.5248258312774442,
+   "range": 8.833333333333334,
+   "register": 65.33333333333333,
+   "even": 0.3656562433579385,
+   "long-short": 0.1302963913572728,
+   "rhythm variety": 2.818485200587562,
+   "surprise, pitch": 2.7146104166862774,
+   "surprise, rhythm": 2.336322572959256,
+   "density": 1.6709313296243655,
+   "lines": 4.166666666666667
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.7146104166862774,
+    "others": 2.8133074687277855,
+    "auc": 0.22580645161290325
+   },
+   {
+    "measure": "density",
+    "value": 1.6709313296243655,
+    "others": 1.169920232635062,
+    "auc": 0.8172043010752689
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 31,
+   "composers": 3
+  }
+ }
+]

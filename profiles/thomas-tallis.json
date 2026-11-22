@@ -1,0 +1,796 @@
+[
+ {
+  "composer": "Thomas Tallis",
+  "kind": "anthem",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 11,
+  "values": {
+   "steps": 0.5165705439429993,
+   "repeats": 0.24241979866422927,
+   "leaps": 0.11753163242356844,
+   "move": 2.554412323676844,
+   "rising": 0.4123550374686888,
+   "leap answered": 0.393981018981019,
+   "range": 9.627272727272727,
+   "register": 69.0909090909091,
+   "even": 0.40392699860667186,
+   "long-short": 0.1408136612482122,
+   "rhythm variety": 2.5211381161641073,
+   "surprise, pitch": 2.7381886152751815,
+   "surprise, rhythm": 1.9405593680027342,
+   "density": 2.8785218200761644,
+   "lines": 4.181818181818182
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5165705439429993,
+    "others": 0.6296434571958964,
+    "auc": 0.14645473436591716
+   },
+   {
+    "measure": "repeats",
+    "value": 0.24241979866422927,
+    "others": 0.16394046927156358,
+    "auc": 0.7913153155152166
+   },
+   {
+    "measure": "rising",
+    "value": 0.4123550374686888,
+    "others": 0.4630716107622907,
+    "auc": 0.16992708978279972
+   },
+   {
+    "measure": "density",
+    "value": 2.8785218200761644,
+    "others": 1.6491162588696344,
+    "auc": 0.9024862362754706
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/205_ThisIsMyCommandment.mxl",
+      "label": "This is my commandment (CPDL)",
+      "bar": 27,
+      "notes": "F4 E4 E4 D4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/207_VerilyTallis.mxl",
+      "label": "Verily, verily I say unto you (CPDL)",
+      "bar": 24,
+      "notes": "C5 B4 B4 A4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/184_Blessed_are_those_Tallis.mxl",
+      "label": "Blessed are those that be undefiled (CPDL)",
+      "bar": 30,
+      "notes": "F5 E5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 3.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/202_Ws-tall-rem.mxl",
+      "label": "Remember not, O Lord God (CPDL)",
+      "bar": 11,
+      "notes": "Bb4 Bb4 Bb4 Ab4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/188_Tallis_Hear_the_Voice.mxl",
+      "label": "Hear the voice and prayer (CPDL)",
+      "bar": 4,
+      "notes": "F4 F4 F4 Eb4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/205_ThisIsMyCommandment.mxl",
+      "label": "This is my commandment (CPDL)",
+      "bar": 16,
+      "notes": "A4 A4 A4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 1809,
+   "composers": 39
+  }
+ },
+ {
+  "composer": "Thomas Tallis",
+  "kind": "hymn",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 17,
+  "values": {
+   "steps": 0.5524190057931125,
+   "repeats": 0.2535987658646208,
+   "leaps": 0.07113120900544598,
+   "move": 2.250355269914059,
+   "rising": 0.45982300281663097,
+   "leap answered": 0.35950937950937956,
+   "range": 8.391176470588235,
+   "register": 68.3529411764706,
+   "even": 0.44409499565109845,
+   "long-short": 0.15324441823733514,
+   "rhythm variety": 1.9989138728079543,
+   "surprise, pitch": 2.4732835626775036,
+   "surprise, rhythm": 1.3833109876862553,
+   "density": 1.895987266549525,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5524190057931125,
+    "others": 0.6747468623816202,
+    "auc": 0.19063180827886714
+   },
+   {
+    "measure": "repeats",
+    "value": 0.2535987658646208,
+    "others": 0.11744186760646368,
+    "auc": 0.7968409586056645
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3833109876862553,
+    "others": 1.9803344506315794,
+    "auc": 0.24074074074074073
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 8.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/169_ComeHolyGhost.mxl",
+      "label": "Come Holy Ghost, eternal God (CPDL)",
+      "bar": 3,
+      "notes": "D5 C#5 B4 B4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/174_Tallis_Second_tune.mxl",
+      "label": "Let God arise (CPDL)",
+      "bar": 3,
+      "notes": "F4 E4 D4 D4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/177_AMNS_152_Talliss_Ordinal_Harmony.mxl",
+      "label": "O Holy Spirit, Lord of grace (CPDL)",
+      "bar": 3,
+      "notes": "D5 C#5 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 7.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/172_Tallis_eigth_tune.mxl",
+      "label": "God grant with grace (CPDL)",
+      "bar": 7,
+      "notes": "B4 A4 A4 G4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/169_ComeHolyGhost.mxl",
+      "label": "Come Holy Ghost, eternal God (CPDL)",
+      "bar": 3,
+      "notes": "C#5 B4 B4 A4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/177_AMNS_152_Talliss_Ordinal_Harmony.mxl",
+      "label": "O Holy Spirit, Lord of grace (CPDL)",
+      "bar": 3,
+      "notes": "C#5 B4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 6.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/174_Tallis_Second_tune.mxl",
+      "label": "Let God arise (CPDL)",
+      "bar": 2,
+      "notes": "D4 D4 C#4 D4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/172_Tallis_eigth_tune.mxl",
+      "label": "God grant with grace (CPDL)",
+      "bar": 2,
+      "notes": "G4 G4 F#4 G4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/176_Tallis_Fourth_tune.mxl",
+      "label": "O come in one (CPDL)",
+      "bar": 3,
+      "notes": "F4 F4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 6.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/142_TALL-JES.mxl",
+      "label": "Jesu salvator saeculi (CPDL)",
+      "bar": 27,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/173_TheGodOfLoveTallisOSATB.mxl",
+      "label": "The God of love my Shepherd is (CPDL)",
+      "bar": 4,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/157_TALL-QUO.mxl",
+      "label": "Quod chorus vatum (CPDL)",
+      "bar": 49,
+      "notes": "G4 G4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 6.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/169_ComeHolyGhost.mxl",
+      "label": "Come Holy Ghost, eternal God (CPDL)",
+      "bar": 1,
+      "notes": "G4 A4 A4 B4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/172_Tallis_eigth_tune.mxl",
+      "label": "God grant with grace (CPDL)",
+      "bar": 3,
+      "notes": "G4 A4 A4 B4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/177_AMNS_152_Talliss_Ordinal_Harmony.mxl",
+      "label": "O Holy Spirit, Lord of grace (CPDL)",
+      "bar": 1,
+      "notes": "G4 A4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 6.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/172_Tallis_eigth_tune.mxl",
+      "label": "God grant with grace (CPDL)",
+      "bar": 6,
+      "notes": "B4 B4 A4 A4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/169_ComeHolyGhost.mxl",
+      "label": "Come Holy Ghost, eternal God (CPDL)",
+      "bar": 2,
+      "notes": "B4 B4 A4 A4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/177_AMNS_152_Talliss_Ordinal_Harmony.mxl",
+      "label": "O Holy Spirit, Lord of grace (CPDL)",
+      "bar": 2,
+      "notes": "B4 B4 A4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 54,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Thomas Tallis",
+  "kind": "magnificat",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.5709984507655559,
+   "repeats": 0.22114057928699138,
+   "leaps": 0.12411295525804213,
+   "move": 2.4593219517251295,
+   "rising": 0.44593418461342993,
+   "leap answered": 0.35098333627745393,
+   "range": 10.9,
+   "register": 69.66666666666667,
+   "even": 0.3441161907905595,
+   "long-short": 0.1482147769158827,
+   "rhythm variety": 2.898704455206479,
+   "surprise, pitch": 2.541092608765476,
+   "surprise, rhythm": 2.105216746362089,
+   "density": 2.3301510184361445,
+   "lines": 4.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 47,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Thomas Tallis",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.6318094329117953,
+   "repeats": 0.1465608844349002,
+   "leaps": 0.11715581006919588,
+   "move": 2.3782321853751056,
+   "rising": 0.35267131010052744,
+   "leap answered": 0.5278571428571429,
+   "range": 10.0,
+   "register": 68.66666666666667,
+   "even": 0.3513072286041506,
+   "long-short": 0.16410646362046502,
+   "rhythm variety": 2.731578521195546,
+   "surprise, pitch": 2.18902312490925,
+   "surprise, rhythm": 2.095359195367671,
+   "density": 1.7081202651515153,
+   "lines": 4.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 593,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Thomas Tallis",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 22,
+  "values": {
+   "steps": 0.5821059901791078,
+   "repeats": 0.1567593634786268,
+   "leaps": 0.13170248943052162,
+   "move": 2.6188286809202395,
+   "rising": 0.4458895901583489,
+   "leap answered": 0.3640061482310636,
+   "range": 10.604545454545452,
+   "register": 69.22727272727273,
+   "even": 0.38098059964753334,
+   "long-short": 0.15729459709344296,
+   "rhythm variety": 2.741604125634925,
+   "surprise, pitch": 2.622149121580433,
+   "surprise, rhythm": 2.0198064840196577,
+   "density": 2.270119017292928,
+   "lines": 5.2727272727272725
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.13170248943052162,
+    "others": 0.07185650100727274,
+    "auc": 0.7986482524155621
+   },
+   {
+    "measure": "move",
+    "value": 2.6188286809202395,
+    "others": 2.258607745901093,
+    "auc": 0.7727722416338909
+   },
+   {
+    "measure": "density",
+    "value": 2.270119017292928,
+    "others": 1.4161040183552844,
+    "auc": 0.8213237496256365
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 7.0,
+    "works": 4,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/161_Tallis-salve_intemerata.mxl",
+      "label": "Salve intemerata (CPDL)",
+      "bar": 39,
+      "notes": "D5 C#5 B4 B4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/140_03-tallis--in_manus_tuas_domine----0-score.mxl",
+      "label": "In manus tuas Domine (CPDL)",
+      "bar": 23,
+      "notes": "Bb4 A4 G4 G4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/156_O_salutaris_hostia_Tallis.mxl",
+      "label": "O salutaris hostia (CPDL)",
+      "bar": 2,
+      "notes": "F5 E5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 6.7,
+    "works": 5,
+    "per_1000": 2.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/141_In_pace_Tallis.mxl",
+      "label": "In pace in idipsum (CPDL)",
+      "bar": 9,
+      "notes": "G4 F4 F4 E4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/140_03-tallis--in_manus_tuas_domine----0-score.mxl",
+      "label": "In manus tuas Domine (CPDL)",
+      "bar": 23,
+      "notes": "A4 G4 G4 F#4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/161_Tallis-salve_intemerata.mxl",
+      "label": "Salve intemerata (CPDL)",
+      "bar": 46,
+      "notes": "C#5 B4 B4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/161_Tallis-salve_intemerata.mxl",
+      "label": "Salve intemerata (CPDL)",
+      "bar": 77,
+      "notes": "F#5 E5 D5 B4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/156_O_salutaris_hostia_Tallis.mxl",
+      "label": "O salutaris hostia (CPDL)",
+      "bar": 25,
+      "notes": "E5 D5 C5 A4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/133_13-tallis--derelinquat_impius_viam_suam----0-score.mxl",
+      "label": "Derelinquit impius (CPDL)",
+      "bar": 52,
+      "notes": "B4 A4 G4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 6.1,
+    "works": 8,
+    "per_1000": 4.6,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/161_Tallis-salve_intemerata.mxl",
+      "label": "Salve intemerata (CPDL)",
+      "bar": 92,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/165_27-tallis--suscipe_quaeso_domine----0-score.mxl",
+      "label": "Suscipe quaeso Domine - Si enim iniquitates (CPDL)",
+      "bar": 22,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/139_26-tallis--in_jejunio_et_fletu----0-score.mxl",
+      "label": "In jejunio et fletu (CPDL)",
+      "bar": 15,
+      "notes": "D4 C4 Bb3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.0,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/141_In_pace_Tallis.mxl",
+      "label": "In pace in idipsum (CPDL)",
+      "bar": 48,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/163_16-tallis--sermone_blando_angelus----0-score.mxl",
+      "label": "Sermone blando (CPDL)",
+      "bar": 9,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/161_Tallis-salve_intemerata.mxl",
+      "label": "Salve intemerata (CPDL)",
+      "bar": 200,
+      "notes": "C#5 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 6.0,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "cpdl:Thomas_Tallis/128_02-tallis--absterge_domine----0-score.mxl",
+      "label": "Absterge Domine (CPDL)",
+      "bar": 89,
+      "notes": "D4 G4 G4 F4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/154_09-o_sacrum_convivium---0-score.mxl",
+      "label": "O sacrum convivium (CPDL)",
+      "bar": 30,
+      "notes": "G4 C5 C5 Bb4"
+     },
+     {
+      "work": "cpdl:Thomas_Tallis/156_O_salutaris_hostia_Tallis.mxl",
+      "label": "O salutaris hostia (CPDL)",
+      "bar": 19,
+      "notes": "D5 G5 G5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 600,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Thomas Tallis",
+  "kind": "partsong",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.578828686023278,
+   "repeats": 0.256875043693006,
+   "leaps": 0.04235823550164449,
+   "move": 2.0486559139784943,
+   "rising": 0.44311665037471487,
+   "leap answered": 0.375,
+   "range": 8.0,
+   "register": 69.0,
+   "even": 0.4487850531887616,
+   "long-short": 0.17486460333068002,
+   "rhythm variety": 2.3658172222903047,
+   "surprise, pitch": 2.671940759736366,
+   "surprise, rhythm": 1.842571324837804,
+   "density": 3.2198809018942605,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 70,
+   "composers": 2
+  }
+ },
+ {
+  "composer": "Thomas Tallis",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.5692244293963012,
+   "repeats": 0.2033460160692115,
+   "leaps": 0.10725049718232696,
+   "move": 2.4240137743282526,
+   "rising": 0.4444847476550934,
+   "leap answered": 0.46536531279178334,
+   "range": 10.45,
+   "register": 71.25,
+   "even": 0.375940970155656,
+   "long-short": 0.16066515394019334,
+   "rhythm variety": 2.8553359869235475,
+   "surprise, pitch": 2.625696184144971,
+   "surprise, rhythm": 2.1038832373405865,
+   "density": 2.584111172653571,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 278,
+   "composers": 19
+  }
+ }
+]

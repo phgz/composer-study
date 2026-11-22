@@ -1,0 +1,374 @@
+[
+ {
+  "composer": "Georg Philipp Telemann",
+  "kind": "concerto",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5142628631455447,
+   "repeats": 0.09865178272999502,
+   "leaps": 0.1577144767088901,
+   "move": 3.414239838791261,
+   "rising": 0.50843467802613,
+   "leap answered": 0.2322637537691301,
+   "range": 17.333333333333332,
+   "register": 74.66666666666667,
+   "even": 0.6563751650825954,
+   "long-short": 0.06763460997207128,
+   "rhythm variety": 1.8615321376893366,
+   "surprise, pitch": 2.2191563649579322,
+   "surprise, rhythm": 1.0535348882700517,
+   "density": 10.526055967318209,
+   "lines": 7.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 248,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Georg Philipp Telemann",
+  "kind": "concerto",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.5313985342560272,
+   "repeats": 0.22875056722814333,
+   "leaps": 0.12531217966292174,
+   "move": 2.7140609526180333,
+   "rising": 0.49669565871574706,
+   "leap answered": 0.40006848142441365,
+   "range": 15.075,
+   "register": 75.1875,
+   "even": 0.526420822638687,
+   "long-short": 0.14690423874918193,
+   "rhythm variety": 1.746990239925698,
+   "surprise, pitch": 2.772389879036883,
+   "surprise, rhythm": 1.359790130523232,
+   "density": 4.869071287840772,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.22875056722814333,
+    "others": 0.10718384552303772,
+    "auc": 0.7926466318234613
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     5,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 7.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#2",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 2 (Mutopia)",
+      "bar": 10,
+      "notes": "C#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_G/Concerto_a_4_G-lys#2",
+      "label": "Concerto in G major for four violins (TWV 40:201), movement 2 (Mutopia)",
+      "bar": 11,
+      "notes": "E5 A5 A5 A5"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#4",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 4 (Mutopia)",
+      "bar": 14,
+      "notes": "Ab5 C#6 C#6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 4,
+    "per_1000": 10.0,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#4",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 4 (Mutopia)",
+      "bar": 2,
+      "notes": "A5 A5 A5 G5"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#2",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 2 (Mutopia)",
+      "bar": 9,
+      "notes": "Ab4 Ab4 Ab4 F#4"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_G/Concerto_a_4_G-lys#1",
+      "label": "Concerto in G major for four violins (TWV 40:201), movement 1 (Mutopia)",
+      "bar": 18,
+      "notes": "C#5 C#5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 5,
+    "per_1000": 7.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#4",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 4 (Mutopia)",
+      "bar": 5,
+      "notes": "B4 A4 A4 A4"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#2",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 2 (Mutopia)",
+      "bar": 4,
+      "notes": "B4 A4 A4 A4"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_G/Concerto_a_4_G-lys#1",
+      "label": "Concerto in G major for four violins (TWV 40:201), movement 1 (Mutopia)",
+      "bar": 18,
+      "notes": "C#5 B4 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 5.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#4",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 4 (Mutopia)",
+      "bar": 2,
+      "notes": "A5 A5 G5 F#5"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_G/Concerto_a_4_G-lys#2",
+      "label": "Concerto in G major for four violins (TWV 40:201), movement 2 (Mutopia)",
+      "bar": 11,
+      "notes": "A5 A5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 4.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#4",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 4 (Mutopia)",
+      "bar": 4,
+      "notes": "D4 D4 D4 A4"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#2",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 2 (Mutopia)",
+      "bar": 6,
+      "notes": "D5 D5 D5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 5,
+    "per_1000": 10.9,
+    "others_per_1000": 2.1,
+    "at": [
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_D/Concerto_a_4_D-lys#2",
+      "label": "Concerto in D major for four violins (TWV 40:202), movement 2 (Mutopia)",
+      "bar": 2,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_G/Concerto_a_4_G-lys#4",
+      "label": "Concerto in G major for four violins (TWV 40:201), movement 4 (Mutopia)",
+      "bar": 1,
+      "notes": "D4 D4 D4 D4"
+     },
+     {
+      "work": "mutopia:TelemannGP/Concerto_a_4_G/Concerto_a_4_G-lys#1",
+      "label": "Concerto in G major for four violins (TWV 40:201), movement 1 (Mutopia)",
+      "bar": 17,
+      "notes": "C#5 C#5 C#5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 248,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Georg Philipp Telemann",
+  "kind": "duet",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.5212695958943706,
+   "repeats": 0.1454403448629485,
+   "leaps": 0.17102429152763174,
+   "move": 3.027679310355983,
+   "rising": 0.48108018855652557,
+   "leap answered": 0.1816315628815629,
+   "range": 14.5,
+   "register": 75.25,
+   "even": 0.6632763560415151,
+   "long-short": 0.06393676821629182,
+   "rhythm variety": 1.7864017942075914,
+   "surprise, pitch": 2.5756189803039997,
+   "surprise, rhythm": 1.238727317854158,
+   "density": 3.29671875,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 51,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Georg Philipp Telemann",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.6277090945209387,
+   "repeats": 0.046236913804798864,
+   "leaps": 0.2012584322449747,
+   "move": 3.140627607017769,
+   "rising": 0.49936815943654145,
+   "leap answered": 0.30382955569495707,
+   "range": 16.5,
+   "register": 78.5,
+   "even": 0.7433482075000544,
+   "long-short": 0.05946487380481909,
+   "rhythm variety": 1.48528551249975,
+   "surprise, pitch": 2.7448640270344784,
+   "surprise, rhythm": 1.176091263428824,
+   "density": 4.989257092938167,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 482,
+   "composers": 15
+  }
+ },
+ {
+  "composer": "Georg Philipp Telemann",
+  "kind": "sonata",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.39298641173641174,
+   "repeats": 0.1138590576090576,
+   "leaps": 0.2965751840751841,
+   "move": 4.086908914068441,
+   "rising": 0.47726001099524723,
+   "leap answered": 0.0979246816450583,
+   "range": 17.875,
+   "register": 75.25,
+   "even": 0.6669370591984867,
+   "long-short": 0.10145998927758075,
+   "rhythm variety": 1.2906331501324348,
+   "surprise, pitch": 2.6467195422471654,
+   "surprise, rhythm": 1.0415887723992623,
+   "density": 6.799532168547121,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 482,
+   "composers": 15
+  }
+ }
+]

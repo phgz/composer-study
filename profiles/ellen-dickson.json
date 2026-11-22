@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Ellen Dickson",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4420529413035038,
+   "repeats": 0.2596970601199839,
+   "leaps": 0.14920042706168696,
+   "move": 3.0006935114153093,
+   "rising": 0.48595213296973255,
+   "leap answered": 0.2455755029284441,
+   "range": 13.0,
+   "register": 66.0,
+   "even": 0.3077346182512591,
+   "long-short": 0.3077969677524631,
+   "rhythm variety": 2.794692495515893,
+   "surprise, pitch": 1.4698793381071642,
+   "surprise, rhythm": 1.6770101017020846,
+   "density": 5.088660508369168,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1084,
+   "composers": 97
+  }
+ }
+]

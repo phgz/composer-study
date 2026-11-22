@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Juan Crisóstomo de Arriaga",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.5354848384112977,
+   "repeats": 0.14608932001152602,
+   "leaps": 0.15974591406474653,
+   "move": 3.2382688825675596,
+   "rising": 0.47406607169602055,
+   "leap answered": 0.2756367931982984,
+   "range": 23.3,
+   "register": 75.91666666666667,
+   "even": 0.561388034615047,
+   "long-short": 0.09829396939949657,
+   "rhythm variety": 2.2949870170933035,
+   "surprise, pitch": 2.5888314781264907,
+   "surprise, rhythm": 1.4581977429605724,
+   "density": 4.62456879161382,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -8,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.1_in_D_minor/sq13744399.mxl#1",
+      "label": "String Quartet No.1 in D minor, movement 1 (OpenScore)",
+      "bar": 130,
+      "notes": "C4 Eb4 G3 C4"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.2_in_A_major/sq34038344.mxl#1",
+      "label": "String Quartet No.2 in A major, movement 1 (OpenScore)",
+      "bar": 25,
+      "notes": "B5 D6 F#5 B5"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.1_in_D_minor/sq13744399.mxl#4",
+      "label": "String Quartet No.1 in D minor, movement 4: arco Adagio (OpenScore)",
+      "bar": 45,
+      "notes": "D5 F5 A4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.0,
+    "works": 6,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.1_in_D_minor/sq13744399.mxl#2",
+      "label": "String Quartet No.1 in D minor, movement 2: Adagio con espressione (OpenScore)",
+      "bar": 39,
+      "notes": "F5 F5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.1_in_D_minor/sq13744399.mxl#4",
+      "label": "String Quartet No.1 in D minor, movement 4: arco Adagio (OpenScore)",
+      "bar": 75,
+      "notes": "Bb4 Bb4 A4 G4"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.1_in_D_minor/sq13744399.mxl#1",
+      "label": "String Quartet No.1 in D minor, movement 1 (OpenScore)",
+      "bar": 127,
+      "notes": "Ab5 Ab5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 8,
+    "per_1000": 2.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.1_in_D_minor/sq13744399.mxl#1",
+      "label": "String Quartet No.1 in D minor, movement 1 (OpenScore)",
+      "bar": 42,
+      "notes": "C4 D4 E4 F4"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.3_in_E-flat_Major/sq7383977.mxl#2",
+      "label": "String Quartet No.3 in E-flat Major, movement 2: Pastorale Andantino (OpenScore)",
+      "bar": 19,
+      "notes": "D4 E4 F#4 G4"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.2_in_A_major/sq34038344.mxl#2",
+      "label": "String Quartet No.2 in A major, movement 2: Theme and Variations Andante Dolce Tema (OpenScore)",
+      "bar": 83,
+      "notes": "D6 E6 F#6 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.3_in_E-flat_Major/sq7383977.mxl#1",
+      "label": "String Quartet No.3 in E-flat Major, movement 1 (OpenScore)",
+      "bar": 38,
+      "notes": "F5 C5 B4 C5"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.2_in_A_major/sq34038344.mxl#2",
+      "label": "String Quartet No.2 in A major, movement 2: Theme and Variations Andante Dolce Tema (OpenScore)",
+      "bar": 66,
+      "notes": "D6 A5 Ab5 A5"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.2_in_A_major/sq34038344.mxl#4",
+      "label": "String Quartet No.2 in A major, movement 4: Andante (OpenScore)",
+      "bar": 236,
+      "notes": "A5 E5 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     11,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.1_in_D_minor/sq13744399.mxl#2",
+      "label": "String Quartet No.1 in D minor, movement 2: Adagio con espressione (OpenScore)",
+      "bar": 29,
+      "notes": "E5 D5 C#6 D6"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.1_in_D_minor/sq13744399.mxl#1",
+      "label": "String Quartet No.1 in D minor, movement 1 (OpenScore)",
+      "bar": 179,
+      "notes": "G4 F4 E5 F5"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.2_in_A_major/sq34038344.mxl#1",
+      "label": "String Quartet No.2 in A major, movement 1 (OpenScore)",
+      "bar": 85,
+      "notes": "F#4 E4 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.3_in_E-flat_Major/sq7383977.mxl#3",
+      "label": "String Quartet No.3 in E-flat Major, movement 3: Allegro (OpenScore)",
+      "bar": 90,
+      "notes": "E5 E5 F#5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.2_in_A_major/sq34038344.mxl#4",
+      "label": "String Quartet No.2 in A major, movement 4: Andante (OpenScore)",
+      "bar": 1,
+      "notes": "A4 A4 B4 B4"
+     },
+     {
+      "work": "openscore-quartets:Arriaga,_Juan_Crisóstomo_de/String_Quartet_No.3_in_E-flat_Major/sq7383977.mxl#4",
+      "label": "String Quartet No.3 in E-flat Major, movement 4: N.B. In the IMSLP edition used for this  (OpenScore)",
+      "bar": 9,
+      "notes": "Eb5 Eb5 F5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 247,
+   "composers": 32
+  }
+ }
+]

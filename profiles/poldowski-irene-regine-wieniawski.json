@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Poldowski (Irène Régine Wieniawski)",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.404628157569334,
+   "repeats": 0.2943932167461579,
+   "leaps": 0.1548754636989931,
+   "move": 3.0876068376068377,
+   "rising": 0.5016869095816464,
+   "leap answered": 0.20952380952380953,
+   "range": 10.25,
+   "register": 69.66666666666667,
+   "even": 0.4548049989226459,
+   "long-short": 0.09076163487928195,
+   "rhythm variety": 2.7126666019365095,
+   "surprise, pitch": 2.8513014167756565,
+   "surprise, rhythm": 2.1447304839790995,
+   "density": 6.086456117383953,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1085,
+   "composers": 97
+  }
+ }
+]

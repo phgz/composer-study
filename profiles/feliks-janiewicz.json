@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Feliks Janiewicz",
+  "kind": "rondo",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.47649705813630394,
+   "repeats": 0.05553741603017803,
+   "leaps": 0.15220096298048458,
+   "move": 3.0758973530744456,
+   "rising": 0.4778849881801656,
+   "leap answered": 0.17072914792828445,
+   "range": 18.333333333333332,
+   "register": 76.66666666666667,
+   "even": 0.7644243533219566,
+   "long-short": 0.08249094922919264,
+   "rhythm variety": 1.2582264286199143,
+   "surprise, pitch": 1.9042122913568769,
+   "surprise, rhythm": 0.7545287634665566,
+   "density": 6.257776379867256,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 69,
+   "composers": 16
+  }
+ }
+]

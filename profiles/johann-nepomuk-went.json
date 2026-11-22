@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Johann Nepomuk Went",
+  "kind": "suite",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.6158913275995195,
+   "repeats": 0.11858357660012445,
+   "leaps": 0.11309036364075638,
+   "move": 2.522186101333615,
+   "rising": 0.44785147865444364,
+   "leap answered": 0.2821014154976583,
+   "range": 14.512500000000003,
+   "register": 72.25,
+   "even": 0.6809213349410014,
+   "long-short": 0.034437606981653414,
+   "rhythm variety": 1.7163796842004317,
+   "surprise, pitch": 1.661265008905755,
+   "surprise, rhythm": 1.190778180724313,
+   "density": 4.282630800807743,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 247,
+   "composers": 18
+  }
+ }
+]

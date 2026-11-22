@@ -1,0 +1,164 @@
+[
+ {
+  "composer": "Giovanni Battista Pergolesi",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.5684133503532016,
+   "repeats": 0.18239346585409294,
+   "leaps": 0.14429753305648876,
+   "move": 2.806990746014492,
+   "rising": 0.4166721415671232,
+   "leap answered": 0.40257575757575764,
+   "range": 11.15,
+   "register": 69.8,
+   "even": 0.4395291017028026,
+   "long-short": 0.11600804276446286,
+   "rhythm variety": 2.626976303299617,
+   "surprise, pitch": 2.705916354381234,
+   "surprise, rhythm": 1.9038710378250188,
+   "density": 6.937778921517802,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 6.8,
+    "works": 2,
+    "per_1000": 7.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/pergolesi_stabat_mater:notes/02. Cujus animam gementem.notes.tsv",
+      "label": "Stabat Mater, P. 77, movement 2: Cujus animam gementem (DCML)",
+      "bar": 78,
+      "notes": "F#5 F5 Eb5 D5"
+     },
+     {
+      "work": "dcml/pergolesi_stabat_mater:notes/07. Eja, Mater fons amois.notes.tsv",
+      "label": "Stabat Mater, P. 77, movement 7: Eja mater fons amoris (DCML)",
+      "bar": 14,
+      "notes": "Eb4 D4 C4 B3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 4,
+    "per_1000": 8.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/pergolesi_stabat_mater:notes/02. Cujus animam gementem.notes.tsv",
+      "label": "Stabat Mater, P. 77, movement 2: Cujus animam gementem (DCML)",
+      "bar": 51,
+      "notes": "C#5 C5 Bb4 Ab4"
+     },
+     {
+      "work": "dcml/pergolesi_stabat_mater:notes/07. Eja, Mater fons amois.notes.tsv",
+      "label": "Stabat Mater, P. 77, movement 7: Eja mater fons amoris (DCML)",
+      "bar": 48,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "dcml/pergolesi_stabat_mater:notes/10. Fac ut portem Christi mortem.notes.tsv",
+      "label": "Stabat Mater, P. 77, movement 10: Fac ut portem Christi mortem (DCML)",
+      "bar": 20,
+      "notes": "G4 F#4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.0,
+    "works": 2,
+    "per_1000": 7.0,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "dcml/pergolesi_stabat_mater:notes/02. Cujus animam gementem.notes.tsv",
+      "label": "Stabat Mater, P. 77, movement 2: Cujus animam gementem (DCML)",
+      "bar": 36,
+      "notes": "Bb4 C5 C#5 C5"
+     },
+     {
+      "work": "dcml/pergolesi_stabat_mater:notes/04. Quae moerebat et dolebat.notes.tsv",
+      "label": "Stabat Mater, P. 77, movement 4: Quæ mœrebat et dolebat (DCML)",
+      "bar": 46,
+      "notes": "C5 D5 Eb5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 2109,
+   "composers": 214
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 2.4584785075833557,
+    "tonic and dominant": 0.6250877498230731,
+    "sevenths": 0.2581806246528267,
+    "diminished sevenths": 0.04740577129559004,
+    "applied chords": 0.08306642892886813,
+    "augmented sixths": 0.002868589743589744,
+    "Neapolitan": 0.0011210762331838565,
+    "mixture": 0.0034158613865555064,
+    "inversions": 0.4349890969364537,
+    "keys a 10 bars": 0.40777072667946646,
+    "away from home": 0.31530703075530336,
+    "changes": 0.17181972656914235,
+    "non-chord tones": 0.22161708444424078,
+    "struck dissonance": 0.48151419082125607,
+    "resolved by step": 0.7914855072463769,
+    "suspensions": 0.013851201491554556
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "period",
+    "works": 838,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 471
+   }
+  }
+ }
+]

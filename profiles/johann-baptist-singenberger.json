@@ -1,0 +1,91 @@
+[
+ {
+  "composer": "Johann Baptist Singenberger",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.5944575274653023,
+   "repeats": 0.22384078042256683,
+   "leaps": 0.08972432150379353,
+   "move": 2.399472077620416,
+   "rising": 0.4507299049160294,
+   "leap answered": 0.5854166666666667,
+   "range": 8.799999999999999,
+   "register": 70.875,
+   "even": 0.5088027223874159,
+   "long-short": 0.08081196229930407,
+   "rhythm variety": 2.063641928333865,
+   "surprise, pitch": 2.7540793694777497,
+   "surprise, rhythm": 1.8747001188810513,
+   "density": 2.2613497020326117,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5944575274653023,
+    "others": 0.4659835368082809,
+    "auc": 0.8783360537796839
+   },
+   {
+    "measure": "leaps",
+    "value": 0.08972432150379353,
+    "others": 0.14455840876524187,
+    "auc": 0.1821487655864374
+   },
+   {
+    "measure": "move",
+    "value": 2.399472077620416,
+    "others": 2.984896897016969,
+    "auc": 0.09187734281351073
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.5854166666666667,
+    "others": 0.39430060341746853,
+    "auc": 0.7994127468397831
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 542,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Johann Baptist Singenberger",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.6558605866028188,
+   "repeats": 0.20063575846619872,
+   "leaps": 0.08593622462861185,
+   "move": 2.3043470418470418,
+   "rising": 0.5098665223665223,
+   "leap answered": 0.5416666666666666,
+   "range": 8.183333333333332,
+   "register": 71.66666666666667,
+   "even": 0.42668053593922967,
+   "long-short": 0.09797877619574762,
+   "rhythm variety": 2.4778033393257366,
+   "surprise, pitch": 2.771998183062142,
+   "surprise, rhythm": 2.050988267030602,
+   "density": 1.8293319579781742,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 542,
+   "composers": 37
+  }
+ }
+]

@@ -1,0 +1,240 @@
+[
+ {
+  "composer": "Franz Xaver Pokorný",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.3531313193676976,
+   "repeats": 0.3197810028903803,
+   "leaps": 0.1737270554262407,
+   "move": 3.6423939166640396,
+   "rising": 0.43917874925311023,
+   "leap answered": 0.16637179300425972,
+   "range": 18.142857142857142,
+   "register": 74.92857142857143,
+   "even": 0.624661475700837,
+   "long-short": 0.08526182015223331,
+   "rhythm variety": 1.938860710592072,
+   "surprise, pitch": 2.4066289552556013,
+   "surprise, rhythm": 1.3365565781579665,
+   "density": 9.11244770367204,
+   "lines": 7.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.1737270554262407,
+    "others": 0.10061829819890937,
+    "auc": 0.7738721269578922
+   },
+   {
+    "measure": "move",
+    "value": 3.6423939166640396,
+    "others": 2.639649325903474,
+    "auc": 0.8279045825357664
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -4,
+     0,
+     4
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-003_pokorny-franz-xaver--litania-virgo-potens.krn",
+      "label": "Litania, Virgo potens, movement 3 (PL-SA 43/A I 43, kern)",
+      "bar": 3,
+      "notes": "F#5 D5 D5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-005_pokorny-franz-xaver--litania-salus-infirmorum.krn",
+      "label": "Litania, Salus infirmorum, movement 5 (PL-SA 43/A I 43, kern)",
+      "bar": 8,
+      "notes": "A5 F5 F5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -3,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-005_pokorny-franz-xaver--litania-salus-infirmorum.krn",
+      "label": "Litania, Salus infirmorum, movement 5 (PL-SA 43/A I 43, kern)",
+      "bar": 1,
+      "notes": "G5 G5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-003_pokorny-franz-xaver--litania-virgo-potens.krn",
+      "label": "Litania, Virgo potens, movement 3 (PL-SA 43/A I 43, kern)",
+      "bar": 40,
+      "notes": "E5 E5 C#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 3.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-004_pokorny-franz-xaver--litania-rosa-mystica.krn",
+      "label": "Litania, Rosa mystica, movement 4 (PL-SA 43/A I 43, kern)",
+      "bar": 1,
+      "notes": "G4 A4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-003_pokorny-franz-xaver--litania-virgo-potens.krn",
+      "label": "Litania, Virgo potens, movement 3 (PL-SA 43/A I 43, kern)",
+      "bar": 25,
+      "notes": "D5 E5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 4,
+    "per_1000": 5.8,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-003_pokorny-franz-xaver--litania-virgo-potens.krn",
+      "label": "Litania, Virgo potens, movement 3 (PL-SA 43/A I 43, kern)",
+      "bar": 10,
+      "notes": "D5 E5 F#5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-001_pokorny-franz-xaver--litania-kyrie-eleison.krn",
+      "label": "Litania, Kyrie eleison, movement 1 (PL-SA 43/A I 43, kern)",
+      "bar": 1,
+      "notes": "G4 A4 B4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-002_pokorny-franz-xaver--litania-mater-christi.krn",
+      "label": "Litania, Mater Christi, movement 2 (PL-SA 43/A I 43, kern)",
+      "bar": 49,
+      "notes": "A4 B4 C#5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     0,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 2.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-003_pokorny-franz-xaver--litania-virgo-potens.krn",
+      "label": "Litania, Virgo potens, movement 3 (PL-SA 43/A I 43, kern)",
+      "bar": 40,
+      "notes": "E5 C#5 C#5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-005_pokorny-franz-xaver--litania-salus-infirmorum.krn",
+      "label": "Litania, Salus infirmorum, movement 5 (PL-SA 43/A I 43, kern)",
+      "bar": 8,
+      "notes": "A5 F#5 F#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-002_pokorny-franz-xaver--litania-mater-christi.krn",
+      "label": "Litania, Mater Christi, movement 2 (PL-SA 43/A I 43, kern)",
+      "bar": 33,
+      "notes": "E5 D5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-004_pokorny-franz-xaver--litania-rosa-mystica.krn",
+      "label": "Litania, Rosa mystica, movement 4 (PL-SA 43/A I 43, kern)",
+      "bar": 5,
+      "notes": "C5 Bb4 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--43-a-i-43--001-001_pokorny-franz-xaver--litania-kyrie-eleison.krn",
+      "label": "Litania, Kyrie eleison, movement 1 (PL-SA 43/A I 43, kern)",
+      "bar": 4,
+      "notes": "E5 D5 D5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 640,
+   "composers": 34
+  }
+ }
+]

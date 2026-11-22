@@ -1,0 +1,59 @@
+[
+ {
+  "composer": "Walford Davies",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.3159029436746828,
+   "repeats": 0.37119916918829965,
+   "leaps": 0.1133646546690025,
+   "move": 3.15298084913023,
+   "rising": 0.49163089877099164,
+   "leap answered": 0.20327380952380952,
+   "range": 10.225,
+   "register": 69.125,
+   "even": 0.4156158161955082,
+   "long-short": 0.11054661328447185,
+   "rhythm variety": 2.5699470468128585,
+   "surprise, pitch": 2.5192182711181976,
+   "surprise, rhythm": 2.0955061494637652,
+   "density": 7.022310578284697,
+   "lines": 6.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3159029436746828,
+    "others": 0.4442739058631457,
+    "auc": 0.1690199335548173
+   },
+   {
+    "measure": "repeats",
+    "value": 0.37119916918829965,
+    "others": 0.19456659660077807,
+    "auc": 0.839078073089701
+   },
+   {
+    "measure": "leaps",
+    "value": 0.1133646546690025,
+    "others": 0.1793698242482169,
+    "auc": 0.2443936877076412
+   },
+   {
+    "measure": "range",
+    "value": 10.225,
+    "others": 12.763122923588039,
+    "auc": 0.19684385382059802
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 301,
+   "composers": 37
+  }
+ }
+]

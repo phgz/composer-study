@@ -1,0 +1,952 @@
+[
+ {
+  "composer": "Claude Debussy",
+  "kind": "air",
+  "forces": "voice and keyboard",
+  "period": "any period",
+  "era": "1890 to 1950",
+  "works": 6,
+  "values": {
+   "steps": 0.3606038970946209,
+   "repeats": 0.3108013213476141,
+   "leaps": 0.13552534904928923,
+   "move": 3.0145831284077076,
+   "rising": 0.46019363504969907,
+   "leap answered": 0.23104628214922332,
+   "range": 15.674999999999997,
+   "register": 69.25,
+   "even": 0.5304589654289901,
+   "long-short": 0.09309274273109613,
+   "rhythm variety": 2.5157513966984197,
+   "surprise, pitch": 3.113809325842473,
+   "surprise, rhythm": 2.0589291037195476,
+   "density": 6.562416975771074,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3606038970946209,
+    "others": 0.5464410799163829,
+    "auc": 0.12474494713584532
+   },
+   {
+    "measure": "repeats",
+    "value": 0.3108013213476141,
+    "others": 0.1449196056590857,
+    "auc": 0.9043347865415129
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.113809325842473,
+    "others": 2.5078607504652877,
+    "auc": 0.8959280513664606
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.0589291037195476,
+    "others": 1.533926223779911,
+    "auc": 0.7891098358467904
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 6.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/1_C’est_l’extase_langoureuse/lc5060910.mxl",
+      "label": "Ariettes Oubliées, C’est l’extase langoureuse (OpenScore)",
+      "bar": 26,
+      "notes": "D5 C#5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/2_Il_pleure_dans_mon_coeur/lc5060918.mxl",
+      "label": "Ariettes Oubliées, Il pleure dans mon coeur (OpenScore)",
+      "bar": 59,
+      "notes": "G5 F#5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 5,
+    "per_1000": 12.6,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/4_Paysages_belges._Chevaux_de_bois/lc5060932.mxl",
+      "label": "Ariettes Oubliées, Paysages belges. Chevaux de bois (OpenScore)",
+      "bar": 10,
+      "notes": "C#5 C#5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/1_C’est_l’extase_langoureuse/lc5060910.mxl",
+      "label": "Ariettes Oubliées, C’est l’extase langoureuse (OpenScore)",
+      "bar": 11,
+      "notes": "Ab4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/6_Aquarelles_II._Spleen/lc5060943.mxl",
+      "label": "Ariettes Oubliées, Aquarelles II. Spleen (OpenScore)",
+      "bar": 7,
+      "notes": "E4 E4 E4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 154,
+   "composers": 40
+  }
+ },
+ {
+  "composer": "Claude Debussy",
+  "kind": "character piece",
+  "forces": "keyboard",
+  "period": "any period",
+  "era": "1890 to 1950",
+  "works": 25,
+  "values": {
+   "steps": 0.3662102719344931,
+   "repeats": 0.12140302491970281,
+   "leaps": 0.28208615614116295,
+   "move": 4.593774407578182,
+   "rising": 0.4884129918618791,
+   "leap answered": 0.15589993262892782,
+   "range": 25.91,
+   "register": 71.36,
+   "even": 0.5712566041342947,
+   "long-short": 0.09057978569639145,
+   "rhythm variety": 2.173449361229922,
+   "surprise, pitch": 2.267303832501261,
+   "surprise, rhythm": 1.4611280363850807,
+   "density": 4.715110590498742,
+   "lines": 2.12
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 9,
+    "per_1000": 3.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l106_isle.tsv",
+      "label": "l106_isle (DCML)",
+      "bar": 1,
+      "notes": "C#5 Eb5 C#5 Eb5"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-04_childrens_snow.tsv",
+      "label": "IV. The Snow is Dancing (DCML)",
+      "bar": 40,
+      "notes": "Bb3 C4 Bb3 C4"
+     },
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l000_etude.tsv",
+      "label": "Etude Retrouve (DCML)",
+      "bar": 3,
+      "notes": "Eb3 F3 Eb3 F3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 7,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l106_isle.tsv",
+      "label": "l106_isle (DCML)",
+      "bar": 19,
+      "notes": "B3 C#4 Eb4 C#4"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-01_childrens_doctor.tsv",
+      "label": "<font face=\"Times New Roman\"/>Doctor Gradus ad Parnassum (DCML)",
+      "bar": 7,
+      "notes": "C4 D4 E4 D4"
+     },
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l000_etude.tsv",
+      "label": "Etude Retrouve (DCML)",
+      "bar": 5,
+      "notes": "C#5 Eb5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 6,
+    "per_1000": 1.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l000_etude.tsv",
+      "label": "Etude Retrouve (DCML)",
+      "bar": 3,
+      "notes": "C3 Eb3 F3 Eb3"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-01_childrens_doctor.tsv",
+      "label": "<font face=\"Times New Roman\"/>Doctor Gradus ad Parnassum (DCML)",
+      "bar": 4,
+      "notes": "E4 G4 A4 G4"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-03_childrens_serenade.tsv",
+      "label": "Serenade for the Doll (DCML)",
+      "bar": 115,
+      "notes": "Ab4 B4 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 7,
+    "per_1000": 2.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-04_childrens_snow.tsv",
+      "label": "IV. The Snow is Dancing (DCML)",
+      "bar": 34,
+      "notes": "Bb5 Bb5 Bb5 Bb5"
+     },
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l105_masques.tsv",
+      "label": "Masques (DCML)",
+      "bar": 17,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l132_berceuse.tsv",
+      "label": "Claude Debussy Berceuse Héroïque (DCML)",
+      "bar": 21,
+      "notes": "F4 F4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     4,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 5,
+    "per_1000": 1.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l106_isle.tsv",
+      "label": "l106_isle (DCML)",
+      "bar": 154,
+      "notes": "Bb5 Ab5 C6 Bb5"
+     },
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l121_plus.tsv",
+      "label": "La plus que lente (DCML)",
+      "bar": 27,
+      "notes": "Ab5 F#5 Bb5 Ab5"
+     },
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l009_danse.tsv",
+      "label": "Danse Bohemian (DCML)",
+      "bar": 45,
+      "notes": "Ab5 F#5 Bb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     4,
+     -8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-01_childrens_doctor.tsv",
+      "label": "<font face=\"Times New Roman\"/>Doctor Gradus ad Parnassum (DCML)",
+      "bar": 55,
+      "notes": "C3 E3 Ab3 C3"
+     },
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l106_isle.tsv",
+      "label": "l106_isle (DCML)",
+      "bar": 247,
+      "notes": "B5 Eb6 G6 B5"
+     },
+     {
+      "work": "dcml/debussy_other_piano_pieces:notes/l082_nocturne.tsv",
+      "label": "Nocturne (DCML)",
+      "bar": 52,
+      "notes": "F5 A5 C#6 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 70,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Claude Debussy",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "any period",
+  "era": "1890 to 1950",
+  "works": 20,
+  "values": {
+   "steps": 0.3418778435958042,
+   "repeats": 0.312082340243333,
+   "leaps": 0.1373359842838664,
+   "move": 3.2025132683782878,
+   "rising": 0.5080268358653475,
+   "leap answered": 0.23140470112067665,
+   "range": 15.0125,
+   "register": 68.975,
+   "even": 0.5512524001210419,
+   "long-short": 0.07249851874493095,
+   "rhythm variety": 2.3894312253971464,
+   "surprise, pitch": 3.085029002494763,
+   "surprise, rhythm": 2.018796240639777,
+   "density": 6.6162877826297635,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3418778435958042,
+    "others": 0.44797149143508275,
+    "auc": 0.23649806949806948
+   },
+   {
+    "measure": "repeats",
+    "value": 0.312082340243333,
+    "others": 0.1911620614623184,
+    "auc": 0.7571994851994852
+   },
+   {
+    "measure": "leaps",
+    "value": 0.1373359842838664,
+    "others": 0.18039556177639782,
+    "auc": 0.23843436293436282
+   },
+   {
+    "measure": "even",
+    "value": 0.5512524001210419,
+    "others": 0.3916262366785266,
+    "auc": 0.8233359073359072
+   },
+   {
+    "measure": "long-short",
+    "value": 0.07249851874493095,
+    "others": 0.15588759974433383,
+    "auc": 0.2029658944658944
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 13,
+    "per_1000": 10.0,
+    "others_per_1000": 1.9,
+    "at": [
+     {
+      "work": "openscore-lieder:Debussy,_Claude/_/Mandoline/lc29748596.mxl",
+      "label": "Mandoline (OpenScore)",
+      "bar": 2,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Trois_Chansons_de_Bilitis/1_La_flûte_de_Pan/lc5079442.mxl",
+      "label": "Trois Chansons de Bilitis, La flûte de Pan (OpenScore)",
+      "bar": 4,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Cinq_Poëmes_de_Baudelaire/1_Le_Balcon/lc5060949.mxl",
+      "label": "Cinq Poëmes de Baudelaire, Le Balcon (OpenScore)",
+      "bar": 21,
+      "notes": "D4 D4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 17,
+    "per_1000": 10.3,
+    "others_per_1000": 2.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/4_Paysages_belges._Chevaux_de_bois/lc5060932.mxl",
+      "label": "Ariettes Oubliées, Paysages belges. Chevaux de bois (OpenScore)",
+      "bar": 10,
+      "notes": "C#5 C#5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Cinq_Poëmes_de_Baudelaire/1_Le_Balcon/lc5060949.mxl",
+      "label": "Cinq Poëmes de Baudelaire, Le Balcon (OpenScore)",
+      "bar": 21,
+      "notes": "D4 D4 D4 D4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/1_C’est_l’extase_langoureuse/lc5060910.mxl",
+      "label": "Ariettes Oubliées, C’est l’extase langoureuse (OpenScore)",
+      "bar": 11,
+      "notes": "Ab4 Ab4 Ab4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 9,
+    "per_1000": 4.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Debussy,_Claude/3_Chansons_de_France/02_La_Grotte_Auprès_de_cette_grotte_sombre/lc8832018.mxl",
+      "label": "Chansons de France, La Grotte Auprès de cette grotte sombre (OpenScore)",
+      "bar": 10,
+      "notes": "C4 C4 C4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Cinq_Poëmes_de_Baudelaire/3_Le_Jet_d’Eau/lc5060972.mxl",
+      "label": "Cinq Poëmes de Baudelaire, Le Jet d’Eau (OpenScore)",
+      "bar": 71,
+      "notes": "A4 A4 A4 C5"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/2_Romances/1_L’âme_évaporée/lc7163829.mxl",
+      "label": "Romances, L’âme évaporée (OpenScore)",
+      "bar": 3,
+      "notes": "E4 E4 E4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 8,
+    "per_1000": 3.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/1_C’est_l’extase_langoureuse/lc5060910.mxl",
+      "label": "Ariettes Oubliées, C’est l’extase langoureuse (OpenScore)",
+      "bar": 17,
+      "notes": "D4 D4 D4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Cinq_Poëmes_de_Baudelaire/2_Harmonie_du_Soir/lc5060961.mxl",
+      "label": "Cinq Poëmes de Baudelaire, Harmonie du Soir (OpenScore)",
+      "bar": 38,
+      "notes": "G4 G4 G4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Cinq_Poëmes_de_Baudelaire/4_Recueillement/lc5060975.mxl",
+      "label": "Cinq Poëmes de Baudelaire, Recueillement (OpenScore)",
+      "bar": 12,
+      "notes": "G4 G4 G4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     -1,
+     0
+    ],
+    "z": 5.0,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Trois_Chansons_de_Bilitis/1_La_flûte_de_Pan/lc5079442.mxl",
+      "label": "Trois Chansons de Bilitis, La flûte de Pan (OpenScore)",
+      "bar": 5,
+      "notes": "Ab4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Trois_Chansons_de_Bilitis/2_La_Chevelure/lc5079450.mxl",
+      "label": "Trois Chansons de Bilitis, La Chevelure (OpenScore)",
+      "bar": 10,
+      "notes": "Ab4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Trois_Chansons_de_Bilitis/3_Le_Tombeau_des_Naïades/lc5079459.mxl",
+      "label": "Trois Chansons de Bilitis, Le Tombeau des Naïades (OpenScore)",
+      "bar": 23,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 2.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Trois_Chansons_de_Bilitis/2_La_Chevelure/lc5079450.mxl",
+      "label": "Trois Chansons de Bilitis, La Chevelure (OpenScore)",
+      "bar": 7,
+      "notes": "F#4 F#4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/3_L’ombre_des_arbres/lc5060924.mxl",
+      "label": "Ariettes Oubliées, L’ombre des arbres (OpenScore)",
+      "bar": 5,
+      "notes": "F4 F4 E4 E4"
+     },
+     {
+      "work": "openscore-lieder:Debussy,_Claude/Ariettes_Oubliées/5_Aquarelles_I._Green/lc5060938.mxl",
+      "label": "Ariettes Oubliées, Aquarelles I. Green (OpenScore)",
+      "bar": 50,
+      "notes": "F#4 F#4 F4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 289,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Claude Debussy",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "any period",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.40404507671185674,
+   "repeats": 0.09499568305784657,
+   "leaps": 0.18464687255919296,
+   "move": 3.6026544661987363,
+   "rising": 0.48072815869097263,
+   "leap answered": 0.2079005962764795,
+   "range": 23.0,
+   "register": 74.75,
+   "even": 0.6412836583915311,
+   "long-short": 0.06396160861391043,
+   "rhythm variety": 1.9796089688305787,
+   "surprise, pitch": 2.005696168086888,
+   "surprise, rhythm": 1.1505451330214722,
+   "density": 6.14522750514836,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Claude Debussy",
+  "kind": "suite",
+  "forces": "keyboard",
+  "period": "any period",
+  "era": "1890 to 1950",
+  "works": 6,
+  "values": {
+   "steps": 0.41837331408920414,
+   "repeats": 0.16717141774292985,
+   "leaps": 0.2343604552407708,
+   "move": 4.304413611514472,
+   "rising": 0.49098831424179573,
+   "leap answered": 0.2342673799775333,
+   "range": 24.3,
+   "register": 68.16666666666667,
+   "even": 0.5884092491559371,
+   "long-short": 0.09525861682002884,
+   "rhythm variety": 1.9966475757437003,
+   "surprise, pitch": 2.2580592637847126,
+   "surprise, rhythm": 1.3986781649133322,
+   "density": 3.7233266893020254,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 4.304413611514472,
+    "others": 2.9923527812076034,
+    "auc": 0.8392308975012207
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -7,
+     3,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-01_childrens_doctor.tsv",
+      "label": "<font face=\"Times New Roman\"/>Doctor Gradus ad Parnassum (DCML)",
+      "bar": 4,
+      "notes": "B4 E4 G4 B4"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-03_childrens_serenade.tsv",
+      "label": "Serenade for the Doll (DCML)",
+      "bar": 71,
+      "notes": "Bb4 Eb4 F#4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 3.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-01_childrens_doctor.tsv",
+      "label": "<font face=\"Times New Roman\"/>Doctor Gradus ad Parnassum (DCML)",
+      "bar": 4,
+      "notes": "E4 G4 A4 G4"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-03_childrens_serenade.tsv",
+      "label": "Serenade for the Doll (DCML)",
+      "bar": 115,
+      "notes": "Ab4 B4 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-03_childrens_serenade.tsv",
+      "label": "Serenade for the Doll (DCML)",
+      "bar": 53,
+      "notes": "G4 G4 A4 A4"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-02_childrens_jimbos.tsv",
+      "label": "<font face=\"Times New Roman\"/>Jimbo's Lullaby (DCML)",
+      "bar": 22,
+      "notes": "C4 C4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-02_childrens_jimbos.tsv",
+      "label": "<font face=\"Times New Roman\"/>Jimbo's Lullaby (DCML)",
+      "bar": 35,
+      "notes": "F#4 F4 F4 F4"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-03_childrens_serenade.tsv",
+      "label": "Serenade for the Doll (DCML)",
+      "bar": 39,
+      "notes": "Ab4 G4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-03_childrens_serenade.tsv",
+      "label": "Serenade for the Doll (DCML)",
+      "bar": 4,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-02_childrens_jimbos.tsv",
+      "label": "<font face=\"Times New Roman\"/>Jimbo's Lullaby (DCML)",
+      "bar": 11,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "dcml/debussy_childrens_corner:notes/l113-05_childrens_little.tsv",
+      "label": "<font face=\"Times New Roman\"/>The Little Shepherd (DCML)",
+      "bar": 2,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 241,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Claude Debussy",
+  "kind": "suite",
+  "forces": "keyboard",
+  "period": "early",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5014506818800104,
+   "repeats": 0.06835067645385783,
+   "leaps": 0.24015595808528467,
+   "move": 4.00739091244785,
+   "rising": 0.4963235295120222,
+   "leap answered": 0.15493767858902355,
+   "range": 25.69999999999999,
+   "register": 73.75,
+   "even": 0.6194762526196221,
+   "long-short": 0.061574889286070966,
+   "rhythm variety": 2.105390945387541,
+   "surprise, pitch": 2.5420858247712177,
+   "surprise, rhythm": 1.7038392097410382,
+   "density": 5.16235954414003,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 241,
+   "composers": 18
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 2.5079083281684813,
+    "tonic and dominant": 0.34371166450660406,
+    "sevenths": 0.4728680364665758,
+    "diminished sevenths": 0.01456916863150905,
+    "applied chords": 0.20243055777928712,
+    "augmented sixths": 0.0035211267605633804,
+    "Neapolitan": 0.014055645347494804,
+    "mixture": 0.03079887485737688,
+    "inversions": 0.4564264573119383,
+    "keys a 10 bars": 0.21246798975672215,
+    "away from home": 0.1291727493917275,
+    "cadences a 10 bars": 0.743686523376801,
+    "perfect cadences": 0.24285714285714283,
+    "half cadences": 0.26785714285714285,
+    "deceptive or evaded": 0.14285714285714285,
+    "changes": 0.2247767888492456,
+    "non-chord tones": 0.24811179399645583,
+    "struck dissonance": 0.19712383345106457,
+    "resolved by step": 0.6501115779719898,
+    "suspensions": 0.018321644349088735
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 45,
+    "composers": 4,
+    "progressions_by": "DCML",
+    "progressions_works": 45
+   }
+  }
+ }
+]

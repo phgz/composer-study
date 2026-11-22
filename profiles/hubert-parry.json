@@ -1,0 +1,41 @@
+[
+ {
+  "composer": "Hubert Parry",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.42012295276760003,
+   "repeats": 0.1331323026043834,
+   "leaps": 0.22817908123682681,
+   "move": 3.3322096288726577,
+   "rising": 0.5000565928536737,
+   "leap answered": 0.28746643212982825,
+   "range": 12.224999999999998,
+   "register": 70.0,
+   "even": 0.3756557517783725,
+   "long-short": 0.19869987224347563,
+   "rhythm variety": 2.7917895124324072,
+   "surprise, pitch": 2.777311313335291,
+   "surprise, rhythm": 1.9341895126389197,
+   "density": 5.5463541761903485,
+   "lines": 3.375
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.22817908123682681,
+    "others": 0.15300457959866115,
+    "auc": 0.765973843827289
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1080,
+   "composers": 97
+  }
+ }
+]

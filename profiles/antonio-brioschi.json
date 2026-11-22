@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Antonio Brioschi",
+  "kind": "suite",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.621643853621126,
+   "repeats": 0.18130622496547222,
+   "leaps": 0.08892766995851598,
+   "move": 2.403351037015081,
+   "rising": 0.43327439801173917,
+   "leap answered": 0.3445636777438248,
+   "range": 12.6125,
+   "register": 74.25,
+   "even": 0.6116689227842376,
+   "long-short": 0.11038659433786552,
+   "rhythm variety": 1.946756559771972,
+   "surprise, pitch": 1.8774893629274185,
+   "surprise, rhythm": 1.1987025807763798,
+   "density": 8.592953875651501,
+   "lines": 6.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 195,
+   "composers": 3
+  }
+ }
+]

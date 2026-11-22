@@ -1,0 +1,204 @@
+[
+ {
+  "composer": "Maude Valérie White",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.5773599908190702,
+   "repeats": 0.0954992364838912,
+   "leaps": 0.15747683688860156,
+   "move": 2.952466029112186,
+   "rising": 0.43600153454927976,
+   "leap answered": 0.32571853527735883,
+   "range": 12.774999999999999,
+   "register": 68.5,
+   "even": 0.11063101902983537,
+   "long-short": 0.15347842147429544,
+   "rhythm variety": 2.8732386486767894,
+   "surprise, pitch": 1.6062259689044123,
+   "surprise, rhythm": 1.5361294857672003,
+   "density": 6.4717948810189965,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.0954992364838912,
+    "others": 0.2351651465714136,
+    "auc": 0.18426953112016495
+   },
+   {
+    "measure": "even",
+    "value": 0.11063101902983537,
+    "others": 0.39735567739125155,
+    "auc": 0.06125656002697216
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 1.6062259689044123,
+    "others": 2.4295955496483654,
+    "auc": 0.11526608387477504
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     4,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.7,
+    "works": 2,
+    "per_1000": 10.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/_/A_Farewell_Song/lc6230776.mxl",
+      "label": "A Farewell Song (OpenScore)",
+      "bar": 11,
+      "notes": "A4 G4 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/3_Little_Songs/2_A_Memory/lc6202530.mxl",
+      "label": "Little Songs, A Memory (OpenScore)",
+      "bar": 3,
+      "notes": "F4 Eb4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     4
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 9.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/_/A_Farewell_Song/lc6230776.mxl",
+      "label": "A Farewell Song (OpenScore)",
+      "bar": 8,
+      "notes": "A4 G4 F4 A4"
+     },
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/3_Little_Songs/2_A_Memory/lc6202530.mxl",
+      "label": "Little Songs, A Memory (OpenScore)",
+      "bar": 8,
+      "notes": "C5 Bb4 Ab4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 9.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/3_Little_Songs/3_Let_Us_Forget/lc6202660.mxl",
+      "label": "Little Songs, Let Us Forget (OpenScore)",
+      "bar": 3,
+      "notes": "C5 Bb4 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/3_Little_Songs/2_A_Memory/lc6202530.mxl",
+      "label": "Little Songs, A Memory (OpenScore)",
+      "bar": 13,
+      "notes": "Bb4 Ab4 Bb4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 10.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/3_Little_Songs/1_When_the_Swallows_Homeward_Fly/lc6202466.mxl",
+      "label": "Little Songs, When the Swallows Homeward Fly (OpenScore)",
+      "bar": 2,
+      "notes": "C5 D5 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/3_Little_Songs/3_Let_Us_Forget/lc6202660.mxl",
+      "label": "Little Songs, Let Us Forget (OpenScore)",
+      "bar": 3,
+      "notes": "Bb4 C5 Bb4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 9.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/3_Little_Songs/2_A_Memory/lc6202530.mxl",
+      "label": "Little Songs, A Memory (OpenScore)",
+      "bar": 3,
+      "notes": "Eb4 G4 F4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:White,_Maude_Valérie/_/To_Mary/lc6202745.mxl",
+      "label": "To Mary (OpenScore)",
+      "bar": 14,
+      "notes": "F4 A4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1082,
+   "composers": 97
+  }
+ }
+]

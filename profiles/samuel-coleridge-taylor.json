@@ -1,0 +1,73 @@
+[
+ {
+  "composer": "Samuel Coleridge-Taylor",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.5452317191745815,
+   "repeats": 0.16206741342022635,
+   "leaps": 0.15603478664798137,
+   "move": 2.9502221519278025,
+   "rising": 0.4947859433794899,
+   "leap answered": 0.3913785866910867,
+   "range": 12.76875,
+   "register": 70.4375,
+   "even": 0.29924949219795627,
+   "long-short": 0.18749396316388972,
+   "rhythm variety": 2.9183924585501932,
+   "surprise, pitch": 2.3682628407277315,
+   "surprise, rhythm": 2.0027792394175226,
+   "density": 5.909909375262458,
+   "lines": 3.25
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5452317191745815,
+    "others": 0.43817878890633777,
+    "auc": 0.7753322259136213
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 301,
+   "composers": 37
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "When in Rome": 7
+   },
+   "values": {
+    "chords a bar": 1.402974124592991,
+    "tonic and dominant": 0.5357596112349452,
+    "sevenths": 0.37882896907819824,
+    "diminished sevenths": 0.0805643696830747,
+    "applied chords": 0.11331790426086417,
+    "augmented sixths": 0.024675324675324677,
+    "Neapolitan": 0.002976190476190476,
+    "mixture": 0.04544127934415704,
+    "inversions": 0.3957985916105135,
+    "keys a 10 bars": 1.5677931256661193,
+    "away from home": 0.3731499615492421,
+    "non-chord tones": 0.25279940415422975,
+    "struck dissonance": 0.24520939889603488,
+    "resolved by step": 0.6461561671815128,
+    "suspensions": 0.006061555231792393
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "period",
+    "works": 58,
+    "composers": 7,
+    "progressions_by": "both",
+    "progressions_works": 58
+   }
+  }
+ }
+]

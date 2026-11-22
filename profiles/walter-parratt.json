@@ -1,0 +1,351 @@
+[
+ {
+  "composer": "Walter Parratt",
+  "kind": "chorale",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 13,
+  "values": {
+   "steps": 0.4704000896393826,
+   "repeats": 0.16984370555516495,
+   "leaps": 0.17691585592168432,
+   "move": 3.1076451635969686,
+   "rising": 0.48254537468770015,
+   "leap answered": 0.2537470793917451,
+   "range": 12.569230769230769,
+   "register": 71.46153846153847,
+   "even": 0.36348918682229014,
+   "long-short": 0.19469310218282412,
+   "rhythm variety": 2.8566533079158045,
+   "surprise, pitch": 2.773634937291573,
+   "surprise, rhythm": 1.94030425909252,
+   "density": 6.1974999790097955,
+   "lines": 6.846153846153846
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.4704000896393826,
+    "others": 0.661216595149493,
+    "auc": 0.11353194003623003
+   },
+   {
+    "measure": "leaps",
+    "value": 0.17691585592168432,
+    "others": 0.09675096795434807,
+    "auc": 0.829035126742865
+   },
+   {
+    "measure": "move",
+    "value": 3.1076451635969686,
+    "others": 2.345945271292865,
+    "auc": 0.9692455906519917
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.2537470793917451,
+    "others": 0.4787399222600958,
+    "auc": 0.20722416010698835
+   },
+   {
+    "measure": "even",
+    "value": 0.36348918682229014,
+    "others": 0.571733733156109,
+    "auc": 0.12416629605621256
+   },
+   {
+    "measure": "long-short",
+    "value": 0.19469310218282412,
+    "others": 0.048589458432132866,
+    "auc": 0.9460500963425991
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.8566533079158045,
+    "others": 1.7150074102728343,
+    "auc": 0.9860678820325439
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.94030425909252,
+    "others": 1.593106247622576,
+    "auc": 0.7596709649837737
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 3.1,
+    "works": 6,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/05_The_seaboards_are_her_mantle’s_hem/lc6683352.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, The seaboards are her mantle’s hem (OpenScore)",
+      "bar": 11,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/08_A_Century’s_Penultimate/lc6550942.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, A Century’s Penultimate (OpenScore)",
+      "bar": 4,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/12_Flora’s_Queen/lc6688667.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, Flora’s Queen (OpenScore)",
+      "bar": 32,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 352,
+   "composers": 2
+  }
+ },
+ {
+  "composer": "Walter Parratt",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 13,
+  "values": {
+   "steps": 0.4704000896393826,
+   "repeats": 0.16984370555516495,
+   "leaps": 0.17691585592168432,
+   "move": 3.1076451635969686,
+   "rising": 0.48254537468770015,
+   "leap answered": 0.2537470793917451,
+   "range": 12.569230769230769,
+   "register": 71.46153846153847,
+   "even": 0.36348918682229014,
+   "long-short": 0.19469310218282412,
+   "rhythm variety": 2.8566533079158045,
+   "surprise, pitch": 2.773634937291573,
+   "surprise, rhythm": 1.94030425909252,
+   "density": 6.1974999790097955,
+   "lines": 6.846153846153846
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     5,
+     -3
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/01_With_wisdom,_goodness,_grace/lc6679725.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, With wisdom, goodness, grace (OpenScore)",
+      "bar": 48,
+      "notes": "B4 A4 D5 B4"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/08_A_Century’s_Penultimate/lc6550942.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, A Century’s Penultimate (OpenScore)",
+      "bar": 8,
+      "notes": "E5 D5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     5,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     1
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/05_The_seaboards_are_her_mantle’s_hem/lc6683352.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, The seaboards are her mantle’s hem (OpenScore)",
+      "bar": 10,
+      "notes": "C5 C5 F5 F5"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/12_Flora’s_Queen/lc6688667.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, Flora’s Queen (OpenScore)",
+      "bar": 31,
+      "notes": "G4 G4 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/04_For_all_the_wonder_of_thy_regal_day/lc6683117.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, For all the wonder of thy regal day (OpenScore)",
+      "bar": 28,
+      "notes": "G4 G4 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 5.1,
+    "works": 4,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/05_The_seaboards_are_her_mantle’s_hem/lc6683352.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, The seaboards are her mantle’s hem (OpenScore)",
+      "bar": 10,
+      "notes": "C5 F5 F5 F5"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/12_Flora’s_Queen/lc6688667.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, Flora’s Queen (OpenScore)",
+      "bar": 31,
+      "notes": "G4 C5 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/04_For_all_the_wonder_of_thy_regal_day/lc6683117.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, For all the wonder of thy regal day (OpenScore)",
+      "bar": 28,
+      "notes": "G4 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     5,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/11_A_thousand_years,_by_sea_and_land/lc6688176.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, A thousand years, by sea and land (OpenScore)",
+      "bar": 1,
+      "notes": "Ab4 F#4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/03_Hark!_The_world_is_full_of_thy_praise/lc6682890.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, Hark! The world is full of thy praise (OpenScore)",
+      "bar": 65,
+      "notes": "B4 A4 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/04_For_all_the_wonder_of_thy_regal_day/lc6683117.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, For all the wonder of thy regal day (OpenScore)",
+      "bar": 27,
+      "notes": "E4 D4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 1.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/12_Flora’s_Queen/lc6688667.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, Flora’s Queen (OpenScore)",
+      "bar": 61,
+      "notes": "C5 A4 Bb4 G4"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/05_The_seaboards_are_her_mantle’s_hem/lc6683352.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, The seaboards are her mantle’s hem (OpenScore)",
+      "bar": 21,
+      "notes": "E5 C#5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/09_With_still_increasing_blessings/lc6685238.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, With still increasing blessings (OpenScore)",
+      "bar": 6,
+      "notes": "B4 C#5 A4 B4"
+     },
+     {
+      "work": "openscore-lieder:Parratt,_Walter/Choral_Songs_in_Honour_of_Her_Majesty_Queen_Victoria/12_Flora’s_Queen/lc6688667.mxl",
+      "label": "Choral Songs in Honour of Her Majesty Queen Victoria, Flora’s Queen (OpenScore)",
+      "bar": 137,
+      "notes": "D5 E5 C5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1075,
+   "composers": 97
+  }
+ }
+]

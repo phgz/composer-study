@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Loïsa Puget",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4837223389067347,
+   "repeats": 0.14795124303324822,
+   "leaps": 0.22750537091947395,
+   "move": 3.40429983757306,
+   "rising": 0.4660512580821064,
+   "leap answered": 0.30732555800022066,
+   "range": 12.333333333333334,
+   "register": 71.33333333333333,
+   "even": 0.5552437150408752,
+   "long-short": 0.049411764705882356,
+   "rhythm variety": 1.8307447191424402,
+   "surprise, pitch": 1.6047952457150887,
+   "surprise, rhythm": 1.131124759302726,
+   "density": 3.622197414636487,
+   "lines": 2.6666666666666665
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1085,
+   "composers": 97
+  }
+ }
+]

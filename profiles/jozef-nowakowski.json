@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Józef Nowakowski",
+  "kind": "etude",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.40272568418439764,
+   "repeats": 0.05866868938954258,
+   "leaps": 0.27440062904480855,
+   "move": 4.006708336419456,
+   "rising": 0.49410581783924945,
+   "leap answered": 0.22030332764142688,
+   "range": 23.75,
+   "register": 71.33333333333333,
+   "even": 0.7282099913919898,
+   "long-short": 0.01704182679599016,
+   "rhythm variety": 0.8380035107031016,
+   "surprise, pitch": 2.3815655645689557,
+   "surprise, rhythm": 0.4419858987991842,
+   "density": 8.096619510549246,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 56,
+   "composers": 5
+  }
+ }
+]

@@ -1,0 +1,267 @@
+[
+ {
+  "composer": "Wilhelm Troschel",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5492073314474305,
+   "repeats": 0.07008292425881243,
+   "leaps": 0.2614580039936767,
+   "move": 3.617978695294461,
+   "rising": 0.45444386490093197,
+   "leap answered": 0.328072334722199,
+   "range": 20.909999999999997,
+   "register": 76.8,
+   "even": 0.4999109765714733,
+   "long-short": 0.09413246034242079,
+   "rhythm variety": 2.2748250809653894,
+   "surprise, pitch": 2.1682843465289388,
+   "surprise, rhythm": 1.3993145541354344,
+   "density": 7.623878412156605,
+   "lines": 2.6
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.2614580039936767,
+    "others": 0.17763155543761583,
+    "auc": 0.7707026042762349
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2291_troschel-wilhelm--polka.krn",
+      "label": "Polka (PL-Wtm R 2291, kern)",
+      "bar": 7,
+      "notes": "C#5 Eb5 E5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2290_troschel-wilhelm--polka.krn",
+      "label": "Polka (PL-Wtm R 2290, kern)",
+      "bar": 24,
+      "notes": "F#6 Ab6 A6 B6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     0,
+     -2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2290_troschel-wilhelm--polka.krn",
+      "label": "Polka (PL-Wtm R 2290, kern)",
+      "bar": 6,
+      "notes": "E6 Eb6 Eb6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2188_troschel-wilhelm--mazurek-b-dur.krn",
+      "label": "Mazurek B-dur (PL-Wtm R 2188, kern)",
+      "bar": 8,
+      "notes": "Eb5 D5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     5,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2291_troschel-wilhelm--polka.krn",
+      "label": "Polka (PL-Wtm R 2291, kern)",
+      "bar": 59,
+      "notes": "A5 C#6 F#6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2628_troschel-wilhelm--valse.krn",
+      "label": "Valse: Moderato (PL-Wtm R 2628, kern)",
+      "bar": 28,
+      "notes": "C#5 F5 Bb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2291_troschel-wilhelm--polka.krn",
+      "label": "Polka (PL-Wtm R 2291, kern)",
+      "bar": 3,
+      "notes": "Ab3 Ab3 Ab3 Ab3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2628_troschel-wilhelm--valse.krn",
+      "label": "Valse: Moderato (PL-Wtm R 2628, kern)",
+      "bar": 6,
+      "notes": "A6 A6 A6 A6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2291_troschel-wilhelm--polka.krn",
+      "label": "Polka (PL-Wtm R 2291, kern)",
+      "bar": 5,
+      "notes": "Eb5 E5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2188_troschel-wilhelm--mazurek-b-dur.krn",
+      "label": "Mazurek B-dur (PL-Wtm R 2188, kern)",
+      "bar": 18,
+      "notes": "C5 C#5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2291_troschel-wilhelm--polka.krn",
+      "label": "Polka (PL-Wtm R 2291, kern)",
+      "bar": 19,
+      "notes": "G5 A5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2188_troschel-wilhelm--mazurek-b-dur.krn",
+      "label": "Mazurek B-dur (PL-Wtm R 2188, kern)",
+      "bar": 18,
+      "notes": "C#5 Eb5 C#5 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 430,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Wilhelm Troschel",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5127815757769604,
+   "repeats": 0.2716021367318962,
+   "leaps": 0.09130281844774184,
+   "move": 2.385004709151544,
+   "rising": 0.4677756661559451,
+   "leap answered": 0.2929679144385027,
+   "range": 9.47,
+   "register": 69.4,
+   "even": 0.43198968300227475,
+   "long-short": 0.09782035336066686,
+   "rhythm variety": 2.3890227295272353,
+   "surprise, pitch": 2.73708097225107,
+   "surprise, rhythm": 1.7425858498333926,
+   "density": 3.320851613560803,
+   "lines": 2.4
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.09130281844774184,
+    "others": 0.1444395626020466,
+    "auc": 0.1990891141468191
+   },
+   {
+    "measure": "move",
+    "value": 2.385004709151544,
+    "others": 2.983426229005059,
+    "auc": 0.15218928601616372
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 547,
+   "composers": 37
+  }
+ }
+]

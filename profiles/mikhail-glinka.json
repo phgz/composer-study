@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Mikhail Glinka",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.6066588230902028,
+   "repeats": 0.11497042654542124,
+   "leaps": 0.16901457532481326,
+   "move": 3.169695842205855,
+   "rising": 0.46475471478916863,
+   "leap answered": 0.24412549907708359,
+   "range": 20.3125,
+   "register": 72.75,
+   "even": 0.5412009357694576,
+   "long-short": 0.1091484399352939,
+   "rhythm variety": 2.3667852022901656,
+   "surprise, pitch": 2.6768915275588103,
+   "surprise, rhythm": 1.7011507010454405,
+   "density": 4.774164371879243,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

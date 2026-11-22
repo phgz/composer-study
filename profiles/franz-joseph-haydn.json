@@ -1,0 +1,3568 @@
+[
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "dance",
+  "forces": null,
+  "period": "any period",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.6288299887147148,
+   "repeats": 0.14327479342300947,
+   "leaps": 0.13843321140955211,
+   "move": 2.9155629190312102,
+   "rising": 0.46642776893372545,
+   "leap answered": 0.3013888888888889,
+   "range": 15.149999999999999,
+   "register": 74.25,
+   "even": 0.47189908156596505,
+   "long-short": 0.09784611814630585,
+   "rhythm variety": 2.650210103257372,
+   "surprise, pitch": 1.9274971334012971,
+   "surprise, rhythm": 1.5900157158534143,
+   "density": 3.7626981280372673,
+   "lines": 4.25
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 123,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "mature",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.5986687928696623,
+   "repeats": 0.0974794165789671,
+   "leaps": 0.11892912677674301,
+   "move": 2.750472598725874,
+   "rising": 0.40754078527004295,
+   "leap answered": 0.5299145299145299,
+   "range": 17.033333333333328,
+   "register": 72.66666666666667,
+   "even": 0.5291486291486291,
+   "long-short": 0.11915069057926202,
+   "rhythm variety": 2.3339932123168756,
+   "surprise, pitch": 2.636023536557506,
+   "surprise, rhythm": 1.3442435300354794,
+   "density": 2.864193499204978,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 24,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "dance",
+  "forces": "string quartet",
+  "period": "London and late",
+  "era": "Classical",
+  "works": 15,
+  "values": {
+   "steps": 0.5007386798959212,
+   "repeats": 0.08124863866288683,
+   "leaps": 0.2037613140120519,
+   "move": 3.496469032524758,
+   "rising": 0.4953065981090792,
+   "leap answered": 0.2538139902240758,
+   "range": 20.90666666666666,
+   "register": 73.3,
+   "even": 0.6430445116942054,
+   "long-short": 0.04978886639360013,
+   "rhythm variety": 1.711016513793606,
+   "surprise, pitch": 2.704616573579119,
+   "surprise, rhythm": 1.2136977485913931,
+   "density": 3.1515885231923266,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4953065981090792,
+    "others": 0.41676380702382254,
+    "auc": 0.7771604937374778
+   },
+   {
+    "measure": "long-short",
+    "value": 0.04978886639360013,
+    "others": 0.09525551401223101,
+    "auc": 0.16234567905977418
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.711016513793606,
+    "others": 2.1672498039989074,
+    "auc": 0.23456790132080146
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.704616573579119,
+    "others": 2.3214033806350973,
+    "auc": 0.7808641974825734
+   },
+   {
+    "measure": "density",
+    "value": 3.1515885231923266,
+    "others": 3.986023341207044,
+    "auc": 0.1858024691530492
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 11,
+    "per_1000": 6.7,
+    "others_per_1000": 2.0,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op77n1-03.krn",
+      "label": "String Quartet in G Major, movement 3: Menuetto: Presto (kern)",
+      "bar": 1,
+      "notes": "A3 B3 C4 D4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_major,_Hob.III73,_Op.74_No.2/sq10307350.mxl#3",
+      "label": "String Quartet in F major, Hob.III73, Op.74 No.2, movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 33,
+      "notes": "D5 E5 F5 G5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III80,_Op.76_No.6/sq22779031.mxl#3",
+      "label": "String Quartet in E-flat major, Hob.III80, Op.76 No.6, movement 3: Menuetto Presto (OpenScore)",
+      "bar": 13,
+      "notes": "F4 G4 Ab4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 23,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "dance",
+  "forces": "string quartet",
+  "period": "Sturm und Drang",
+  "era": "Classical",
+  "works": 17,
+  "values": {
+   "steps": 0.5093821728809984,
+   "repeats": 0.1382809948325618,
+   "leaps": 0.18394510752115006,
+   "move": 3.250020414956133,
+   "rising": 0.4560007424463107,
+   "leap answered": 0.3104444654015328,
+   "range": 20.34705882352941,
+   "register": 71.8529411764706,
+   "even": 0.6027369941561384,
+   "long-short": 0.059856315316565226,
+   "rhythm variety": 1.9377244254268529,
+   "surprise, pitch": 2.669710263551041,
+   "surprise, rhythm": 1.413230363707669,
+   "density": 2.8585973277009624,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.669710263551041,
+    "others": 2.3214033806350973,
+    "auc": 0.7766884530989315
+   },
+   {
+    "measure": "density",
+    "value": 2.8585973277009624,
+    "others": 3.986023341207044,
+    "auc": 0.07952069718906074
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.3,
+    "works": 5,
+    "per_1000": 4.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op17n1-02.krn",
+      "label": "String Quartet in E Major, movement 2: Menuetto (kern)",
+      "bar": 10,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III19,_Op.9_No.1/sq9961690.mxl#2",
+      "label": "String Quartet in C major, Hob.III19, Op.9 No.1, movement 2: Menuetto Poco Allegretto (OpenScore)",
+      "bar": 35,
+      "notes": "C4 C4 C4 C4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_minor,_Hob.III35,_Op.20_No.5/sq8807040.mxl#2",
+      "label": "String Quartet in F minor, Hob.III35, Op.20 No.5, movement 2: Menuetto (OpenScore)",
+      "bar": 5,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 23,
+   "composers": 5
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "When in Rome": 3
+   },
+   "values": {
+    "chords a bar": 1.4321042941732598,
+    "tonic and dominant": 0.5264342774146695,
+    "sevenths": 0.23957879448075525,
+    "diminished sevenths": 0.05232389251997096,
+    "applied chords": 0.18830791575889616,
+    "augmented sixths": 0.012273057371096588,
+    "Neapolitan": 0.0024691358024691358,
+    "mixture": 0.0,
+    "inversions": 0.377923021060276,
+    "keys a 10 bars": 0.2542668059909439,
+    "away from home": 0.2638344226579521,
+    "non-chord tones": 0.1283351026185421,
+    "struck dissonance": 0.048500881834215165,
+    "resolved by step": 0.3853615520282187,
+    "suspensions": 0.00582684595423449
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 76,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 76
+   }
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "dance",
+  "forces": "string quartet",
+  "period": "early",
+  "era": "Classical",
+  "works": 17,
+  "values": {
+   "steps": 0.5467979856108284,
+   "repeats": 0.09860512309505357,
+   "leaps": 0.20465218653435824,
+   "move": 3.4129153836275137,
+   "rising": 0.42251243747623424,
+   "leap answered": 0.2929319364187403,
+   "range": 18.235294117647054,
+   "register": 73.55882352941177,
+   "even": 0.535423203370609,
+   "long-short": 0.13039730921957934,
+   "rhythm variety": 2.3299253172196726,
+   "surprise, pitch": 2.7062875735417844,
+   "surprise, rhythm": 1.7035608930073076,
+   "density": 3.480844005589156,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.7062875735417844,
+    "others": 2.3214033806350973,
+    "auc": 0.7913943354381767
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7035608930073076,
+    "others": 1.1719725127980858,
+    "auc": 0.8997821350473391
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 23,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "dance",
+  "forces": "string quartet",
+  "period": "mature",
+  "era": "Classical",
+  "works": 17,
+  "values": {
+   "steps": 0.49308530435588077,
+   "repeats": 0.1581097150368217,
+   "leaps": 0.1680172884185326,
+   "move": 3.145963022018095,
+   "rising": 0.4797904694783372,
+   "leap answered": 0.28582856450866645,
+   "range": 22.826470588235296,
+   "register": 75.82352941176471,
+   "even": 0.623271289857137,
+   "long-short": 0.05721750513987443,
+   "rhythm variety": 1.8849215695318842,
+   "surprise, pitch": 2.619449123091022,
+   "surprise, rhythm": 1.2845612543777538,
+   "density": 3.1391535714989347,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4797904694783372,
+    "others": 0.41676380702382254,
+    "auc": 0.7685185184287341
+   },
+   {
+    "measure": "density",
+    "value": 3.1391535714989347,
+    "others": 3.986023341207044,
+    "auc": 0.12527233119425005
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 7,
+    "per_1000": 3.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op54n2-03.krn",
+      "label": "String Quartet in C Major, movement 3: Menuetto: Allegretto (kern)",
+      "bar": 51,
+      "notes": "G5 G5 G5 F5"
+     },
+     {
+      "work": "kern/haydn-quartets:op55n1-03.krn",
+      "label": "String Quartet in A Major, movement 3: Menuetto (kern)",
+      "bar": 33,
+      "notes": "C#7 C#7 C#7 B6"
+     },
+     {
+      "work": "kern/haydn-quartets:op64n1-02.krn",
+      "label": "String Quartet in C Major, movement 2: Menuetto: Allegro ma non troppo (kern)",
+      "bar": 47,
+      "notes": "G5 G5 G5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 23,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "fugue",
+  "forces": "string quartet",
+  "period": "Sturm und Drang",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5486031525869058,
+   "repeats": 0.1091567578569895,
+   "leaps": 0.2356996724031989,
+   "move": 3.6536438384284002,
+   "rising": 0.45910864735643514,
+   "leap answered": 0.21935980116345605,
+   "range": 20.5,
+   "register": 74.0,
+   "even": 0.5729114759658763,
+   "long-short": 0.03486860253320875,
+   "rhythm variety": 2.1974093892028908,
+   "surprise, pitch": 2.7569650078217744,
+   "surprise, rhythm": 1.6877413092262756,
+   "density": 3.7920442413454416,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 133,
+   "composers": 23
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "mass",
+  "forces": null,
+  "period": "any period",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.4256242123983173,
+   "repeats": 0.38105747384687844,
+   "leaps": 0.12225444575410117,
+   "move": 2.711944397376349,
+   "rising": 0.4273717188605756,
+   "leap answered": 0.29873312961548254,
+   "range": 10.678571428571429,
+   "register": 72.14285714285714,
+   "even": 0.4420058812090831,
+   "long-short": 0.08340487555269892,
+   "rhythm variety": 2.283613852729195,
+   "surprise, pitch": 2.480862918501795,
+   "surprise, rhythm": 1.6115612966737085,
+   "density": 7.944808022280734,
+   "lines": 7.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.38105747384687844,
+    "others": 0.24744882848723151,
+    "auc": 0.809382932325935
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 6.5,
+    "works": 2,
+    "per_1000": 7.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--22-a-i-22--001-001_haydn-joseph--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-SA 22/A I 22, kern)",
+      "bar": 9,
+      "notes": "Bb4 A4 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--22-a-i-22--001-005_haydn-joseph--requiem-benedictus.krn",
+      "label": "Requiem, Benedictus, movement 5 (PL-SA 22/A I 22, kern)",
+      "bar": 72,
+      "notes": "Eb5 D5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 7.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--22-a-i-22--001-002_haydn-joseph--requiem-dies-irae.krn",
+      "label": "Requiem, Dies irae, movement 2 (PL-SA 22/A I 22, kern)",
+      "bar": 40,
+      "notes": "Eb5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--22-a-i-22--001-003_haydn-joseph--requiem-offertorium.krn",
+      "label": "Requiem, Offertorium, movement 3 (PL-SA 22/A I 22, kern)",
+      "bar": 20,
+      "notes": "Eb5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--22-a-i-22--001-007_haydn-joseph--requiem-lux-aeterna.krn",
+      "label": "Requiem, Lux aeterna, movement 7 (PL-SA 22/A I 22, kern)",
+      "bar": 9,
+      "notes": "C#5 C#5 C#5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 640,
+   "composers": 34
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "minuet",
+  "forces": null,
+  "period": "any period",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.6288299887147148,
+   "repeats": 0.14327479342300947,
+   "leaps": 0.13843321140955211,
+   "move": 2.9155629190312102,
+   "rising": 0.46642776893372545,
+   "leap answered": 0.3013888888888889,
+   "range": 15.149999999999999,
+   "register": 74.25,
+   "even": 0.47189908156596505,
+   "long-short": 0.09784611814630585,
+   "rhythm variety": 2.650210103257372,
+   "surprise, pitch": 1.9274971334012971,
+   "surprise, rhythm": 1.5900157158534143,
+   "density": 3.7626981280372673,
+   "lines": 4.25
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 68,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "minuet",
+  "forces": "keyboard",
+  "period": "mature",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.5986687928696623,
+   "repeats": 0.0974794165789671,
+   "leaps": 0.11892912677674301,
+   "move": 2.750472598725874,
+   "rising": 0.40754078527004295,
+   "leap answered": 0.5299145299145299,
+   "range": 17.033333333333328,
+   "register": 72.66666666666667,
+   "even": 0.5291486291486291,
+   "long-short": 0.11915069057926202,
+   "rhythm variety": 2.3339932123168756,
+   "surprise, pitch": 2.636023536557506,
+   "surprise, rhythm": 1.3442435300354794,
+   "density": 2.864193499204978,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 68,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "minuet",
+  "forces": "string quartet",
+  "period": "London and late",
+  "era": "Classical",
+  "works": 15,
+  "values": {
+   "steps": 0.5007386798959212,
+   "repeats": 0.08124863866288683,
+   "leaps": 0.2037613140120519,
+   "move": 3.496469032524758,
+   "rising": 0.4953065981090792,
+   "leap answered": 0.2538139902240758,
+   "range": 20.90666666666666,
+   "register": 73.3,
+   "even": 0.6430445116942054,
+   "long-short": 0.04978886639360013,
+   "rhythm variety": 1.711016513793606,
+   "surprise, pitch": 2.704616573579119,
+   "surprise, rhythm": 1.2136977485913931,
+   "density": 3.1515885231923266,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4953065981090792,
+    "others": 0.41676380702382254,
+    "auc": 0.7771604937374778
+   },
+   {
+    "measure": "long-short",
+    "value": 0.04978886639360013,
+    "others": 0.09525551401223101,
+    "auc": 0.16234567905977418
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.711016513793606,
+    "others": 2.1672498039989074,
+    "auc": 0.23456790132080146
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.704616573579119,
+    "others": 2.3214033806350973,
+    "auc": 0.7808641974825734
+   },
+   {
+    "measure": "density",
+    "value": 3.1515885231923266,
+    "others": 3.986023341207044,
+    "auc": 0.1858024691530492
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 11,
+    "per_1000": 6.7,
+    "others_per_1000": 2.0,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op77n1-03.krn",
+      "label": "String Quartet in G Major, movement 3: Menuetto: Presto (kern)",
+      "bar": 1,
+      "notes": "A3 B3 C4 D4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_major,_Hob.III73,_Op.74_No.2/sq10307350.mxl#3",
+      "label": "String Quartet in F major, Hob.III73, Op.74 No.2, movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 33,
+      "notes": "D5 E5 F5 G5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III80,_Op.76_No.6/sq22779031.mxl#3",
+      "label": "String Quartet in E-flat major, Hob.III80, Op.76 No.6, movement 3: Menuetto Presto (OpenScore)",
+      "bar": 13,
+      "notes": "F4 G4 Ab4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 23,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "minuet",
+  "forces": "string quartet",
+  "period": "Sturm und Drang",
+  "era": "Classical",
+  "works": 17,
+  "values": {
+   "steps": 0.5093821728809984,
+   "repeats": 0.1382809948325618,
+   "leaps": 0.18394510752115006,
+   "move": 3.250020414956133,
+   "rising": 0.4560007424463107,
+   "leap answered": 0.3104444654015328,
+   "range": 20.34705882352941,
+   "register": 71.8529411764706,
+   "even": 0.6027369941561384,
+   "long-short": 0.059856315316565226,
+   "rhythm variety": 1.9377244254268529,
+   "surprise, pitch": 2.669710263551041,
+   "surprise, rhythm": 1.413230363707669,
+   "density": 2.8585973277009624,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.669710263551041,
+    "others": 2.3214033806350973,
+    "auc": 0.7766884530989315
+   },
+   {
+    "measure": "density",
+    "value": 2.8585973277009624,
+    "others": 3.986023341207044,
+    "auc": 0.07952069718906074
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.3,
+    "works": 5,
+    "per_1000": 4.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op17n1-02.krn",
+      "label": "String Quartet in E Major, movement 2: Menuetto (kern)",
+      "bar": 10,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III19,_Op.9_No.1/sq9961690.mxl#2",
+      "label": "String Quartet in C major, Hob.III19, Op.9 No.1, movement 2: Menuetto Poco Allegretto (OpenScore)",
+      "bar": 35,
+      "notes": "C4 C4 C4 C4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_minor,_Hob.III35,_Op.20_No.5/sq8807040.mxl#2",
+      "label": "String Quartet in F minor, Hob.III35, Op.20 No.5, movement 2: Menuetto (OpenScore)",
+      "bar": 5,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 23,
+   "composers": 5
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "When in Rome": 3
+   },
+   "values": {
+    "chords a bar": 1.4321042941732598,
+    "tonic and dominant": 0.5264342774146695,
+    "sevenths": 0.23957879448075525,
+    "diminished sevenths": 0.05232389251997096,
+    "applied chords": 0.18830791575889616,
+    "augmented sixths": 0.012273057371096588,
+    "Neapolitan": 0.0024691358024691358,
+    "mixture": 0.0,
+    "inversions": 0.377923021060276,
+    "keys a 10 bars": 0.2542668059909439,
+    "away from home": 0.2638344226579521,
+    "non-chord tones": 0.1283351026185421,
+    "struck dissonance": 0.048500881834215165,
+    "resolved by step": 0.3853615520282187,
+    "suspensions": 0.00582684595423449
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 76,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 76
+   }
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "minuet",
+  "forces": "string quartet",
+  "period": "early",
+  "era": "Classical",
+  "works": 17,
+  "values": {
+   "steps": 0.5467979856108284,
+   "repeats": 0.09860512309505357,
+   "leaps": 0.20465218653435824,
+   "move": 3.4129153836275137,
+   "rising": 0.42251243747623424,
+   "leap answered": 0.2929319364187403,
+   "range": 18.235294117647054,
+   "register": 73.55882352941177,
+   "even": 0.535423203370609,
+   "long-short": 0.13039730921957934,
+   "rhythm variety": 2.3299253172196726,
+   "surprise, pitch": 2.7062875735417844,
+   "surprise, rhythm": 1.7035608930073076,
+   "density": 3.480844005589156,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.7062875735417844,
+    "others": 2.3214033806350973,
+    "auc": 0.7913943354381767
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7035608930073076,
+    "others": 1.1719725127980858,
+    "auc": 0.8997821350473391
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 23,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "minuet",
+  "forces": "string quartet",
+  "period": "mature",
+  "era": "Classical",
+  "works": 17,
+  "values": {
+   "steps": 0.49308530435588077,
+   "repeats": 0.1581097150368217,
+   "leaps": 0.1680172884185326,
+   "move": 3.145963022018095,
+   "rising": 0.4797904694783372,
+   "leap answered": 0.28582856450866645,
+   "range": 22.826470588235296,
+   "register": 75.82352941176471,
+   "even": 0.623271289857137,
+   "long-short": 0.05721750513987443,
+   "rhythm variety": 1.8849215695318842,
+   "surprise, pitch": 2.619449123091022,
+   "surprise, rhythm": 1.2845612543777538,
+   "density": 3.1391535714989347,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4797904694783372,
+    "others": 0.41676380702382254,
+    "auc": 0.7685185184287341
+   },
+   {
+    "measure": "density",
+    "value": 3.1391535714989347,
+    "others": 3.986023341207044,
+    "auc": 0.12527233119425005
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 7,
+    "per_1000": 3.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op54n2-03.krn",
+      "label": "String Quartet in C Major, movement 3: Menuetto: Allegretto (kern)",
+      "bar": 51,
+      "notes": "G5 G5 G5 F5"
+     },
+     {
+      "work": "kern/haydn-quartets:op55n1-03.krn",
+      "label": "String Quartet in A Major, movement 3: Menuetto (kern)",
+      "bar": 33,
+      "notes": "C#7 C#7 C#7 B6"
+     },
+     {
+      "work": "kern/haydn-quartets:op64n1-02.krn",
+      "label": "String Quartet in C Major, movement 2: Menuetto: Allegro ma non troppo (kern)",
+      "bar": 47,
+      "notes": "G5 G5 G5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 23,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "scherzo",
+  "forces": "string quartet",
+  "period": "mature",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5378520607506967,
+   "repeats": 0.14220215542946874,
+   "leaps": 0.13756043722769,
+   "move": 2.911919028466677,
+   "rising": 0.497220237572962,
+   "leap answered": 0.32512135151670035,
+   "range": 19.516666666666666,
+   "register": 73.91666666666667,
+   "even": 0.610802215710842,
+   "long-short": 0.04763561017917937,
+   "rhythm variety": 1.8165009279123845,
+   "surprise, pitch": 2.472770694217063,
+   "surprise, rhythm": 1.2249619584561913,
+   "density": 3.029353799769145,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.13756043722769,
+    "others": 0.23214653872333574,
+    "auc": 0.22881192873287373
+   },
+   {
+    "measure": "move",
+    "value": 2.911919028466677,
+    "others": 3.7938846507493444,
+    "auc": 0.19800384791010128
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 5.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op33n3-02.krn",
+      "label": "String Quartet in C Major, movement 2: Scherzo: Allegretto (kern)",
+      "bar": 1,
+      "notes": "C4 D4 C4 B3"
+     },
+     {
+      "work": "kern/haydn-quartets:op33n6-03.krn",
+      "label": "String Quartet in D Major, movement 3: Scherzo: Allegretto (kern)",
+      "bar": 10,
+      "notes": "G5 A5 G5 F#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 61,
+   "composers": 31
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "London and late",
+  "era": "Classical",
+  "works": 5,
+  "values": {
+   "steps": 0.48958720262293187,
+   "repeats": 0.0818759973885872,
+   "leaps": 0.24013055419134047,
+   "move": 3.665094637180161,
+   "rising": 0.4649685237930245,
+   "leap answered": 0.24673828671923456,
+   "range": 26.679999999999996,
+   "register": 72.8,
+   "even": 0.6917195829318079,
+   "long-short": 0.06465550536119039,
+   "rhythm variety": 1.6635630509647918,
+   "surprise, pitch": 2.465826365902628,
+   "surprise, rhythm": 1.262040150241683,
+   "density": 4.9302067685892705,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 26.679999999999996,
+    "others": 22.29577922077922,
+    "auc": 0.7717532467532469
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.4,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata61-1.krn",
+      "label": "Sonata No. 61 in D major, movement 1: Andante. (kern)",
+      "bar": 2,
+      "notes": "A4 F#4 A4 G4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata62-1.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 1: Allegro. (kern)",
+      "bar": 47,
+      "notes": "C6 A5 C6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     6,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata62-1.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 1: Allegro. (kern)",
+      "bar": 14,
+      "notes": "F5 Bb4 E5 Bb4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata62-3.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 3: Finale: Presto. (kern)",
+      "bar": 91,
+      "notes": "Bb4 Eb4 A4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     10,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata62-1.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 1: Allegro. (kern)",
+      "bar": 24,
+      "notes": "A4 G5 F5 Eb5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata62-3.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 3: Finale: Presto. (kern)",
+      "bar": 131,
+      "notes": "G4 F5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -10,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata61-1.krn",
+      "label": "Sonata No. 61 in D major, movement 1: Andante. (kern)",
+      "bar": 30,
+      "notes": "F#5 C#6 Eb5 E5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata61-2.krn",
+      "label": "Sonata No. 61 in D major, movement 2: Finale: Presto. (kern)",
+      "bar": 99,
+      "notes": "E4 B4 C#4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     10,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata62-1.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 1: Allegro. (kern)",
+      "bar": 24,
+      "notes": "Bb4 A4 G5 F5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata62-3.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 3: Finale: Presto. (kern)",
+      "bar": 131,
+      "notes": "Ab4 G4 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     10
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata62-1.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 1: Allegro. (kern)",
+      "bar": 24,
+      "notes": "C5 Bb4 A4 G5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata62-3.krn",
+      "label": "Sonata No. 62 in E-flat major, movement 3: Finale: Presto. (kern)",
+      "bar": 131,
+      "notes": "Bb4 Ab4 G4 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 308,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "early",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5843923619445391,
+   "repeats": 0.08954167547255158,
+   "leaps": 0.1925253020346048,
+   "move": 3.2246585409032016,
+   "rising": 0.44221640185790845,
+   "leap answered": 0.27237128541985234,
+   "range": 19.025,
+   "register": 73.0,
+   "even": 0.6269888671920146,
+   "long-short": 0.07276841773438472,
+   "rhythm variety": 1.9860422488575669,
+   "surprise, pitch": 2.5718667209037758,
+   "surprise, rhythm": 1.3388060196618152,
+   "density": 5.070350315695677,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 6.6,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata16-1.krn",
+      "label": "Sonata No. 16 in D major, movement 1: Allegro moderato. (kern)",
+      "bar": 35,
+      "notes": "C#5 B4 A4 B4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata16-2.krn",
+      "label": "Sonata No. 16 in D major, movement 2: MENUETTO. (kern)",
+      "bar": 7,
+      "notes": "C#4 B3 A3 B3"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata29-3.krn",
+      "label": "Sonata No. 29 in E-flat major, movement 3: Finale: Allegro di molto. (kern)",
+      "bar": 133,
+      "notes": "G5 F5 Eb5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -1
+    ],
+    "z": 6.6,
+    "works": 2,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata16-1.krn",
+      "label": "Sonata No. 16 in D major, movement 1: Allegro moderato. (kern)",
+      "bar": 27,
+      "notes": "B4 A4 Ab4 F#4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata29-3.krn",
+      "label": "Sonata No. 29 in E-flat major, movement 3: Finale: Allegro di molto. (kern)",
+      "bar": 41,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -1
+    ],
+    "z": 6.4,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata16-1.krn",
+      "label": "Sonata No. 16 in D major, movement 1: Allegro moderato. (kern)",
+      "bar": 35,
+      "notes": "D5 C#5 B4 A4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata16-2.krn",
+      "label": "Sonata No. 16 in D major, movement 2: MENUETTO. (kern)",
+      "bar": 7,
+      "notes": "D4 C#4 B3 A3"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata29-3.krn",
+      "label": "Sonata No. 29 in E-flat major, movement 3: Finale: Allegro di molto. (kern)",
+      "bar": 133,
+      "notes": "Ab5 G5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 6.3,
+    "works": 2,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata16-1.krn",
+      "label": "Sonata No. 16 in D major, movement 1: Allegro moderato. (kern)",
+      "bar": 27,
+      "notes": "A4 Ab4 F#4 Ab4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata29-3.krn",
+      "label": "Sonata No. 29 in E-flat major, movement 3: Finale: Allegro di molto. (kern)",
+      "bar": 41,
+      "notes": "Bb4 A4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     -1
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata15-1.krn",
+      "label": "Sonata No. 15 in E major, movement 1: Moderato. (kern)",
+      "bar": 21,
+      "notes": "F#4 E4 Eb4 E4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata13-1.krn",
+      "label": "Sonata No. 13 in G major, movement 1: Allgero. (kern)",
+      "bar": 2,
+      "notes": "A4 G4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata16-1.krn",
+      "label": "Sonata No. 16 in D major, movement 1: Allegro moderato. (kern)",
+      "bar": 3,
+      "notes": "D4 A4 A4 G4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata13-1.krn",
+      "label": "Sonata No. 13 in G major, movement 1: Allgero. (kern)",
+      "bar": 5,
+      "notes": "D5 A5 A5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 308,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "mature",
+  "era": "Classical",
+  "works": 13,
+  "values": {
+   "steps": 0.5136310572365648,
+   "repeats": 0.08731959601202323,
+   "leaps": 0.2148779642734941,
+   "move": 3.4145706884439573,
+   "rising": 0.43340476640021003,
+   "leap answered": 0.27930624946608673,
+   "range": 20.46153846153846,
+   "register": 73.15384615384616,
+   "even": 0.6532804612418365,
+   "long-short": 0.06716792668824924,
+   "rhythm variety": 1.87317059126585,
+   "surprise, pitch": 2.6150622960895995,
+   "surprise, rhythm": 1.3100516070090082,
+   "density": 3.9811391315321405,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata50-1.krn",
+      "label": "Sonata No. 50 in D major, movement 1: Allegro con brio. (kern)",
+      "bar": 27,
+      "notes": "Ab5 A5 D6 B5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata42-3.krn",
+      "label": "Sonata No. 42 in G major, movement 3: Presto. (kern)",
+      "bar": 5,
+      "notes": "Eb5 E5 A5 F#5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata52-3.krn",
+      "label": "Sonata No. 52 in G major, movement 3: Prestissimo. (kern)",
+      "bar": 26,
+      "notes": "Eb5 E5 A5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -4,
+     5
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata42-3.krn",
+      "label": "Sonata No. 42 in G major, movement 3: Presto. (kern)",
+      "bar": 20,
+      "notes": "C5 B4 G4 C5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata34-1.krn",
+      "label": "Sonata No. 34 in D major, movement 1: Allegro. (kern)",
+      "bar": 16,
+      "notes": "G4 F#4 D4 G4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata52-3.krn",
+      "label": "Sonata No. 52 in G major, movement 3: Prestissimo. (kern)",
+      "bar": 58,
+      "notes": "E5 Eb5 B4 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata42-3.krn",
+      "label": "Sonata No. 42 in G major, movement 3: Presto. (kern)",
+      "bar": 9,
+      "notes": "Ab4 E4 D4 C#4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata34-1.krn",
+      "label": "Sonata No. 34 in D major, movement 1: Allegro. (kern)",
+      "bar": 26,
+      "notes": "C#4 A3 G3 F#3"
+     },
+     {
+      "work": "mutopia:HaydnFJ/HOB-XVI-27/hob-xvi-27-i-allegro-con-brio",
+      "label": "Sonate I, I - Allegro con brio (Hob. XVI:27) (Mutopia)",
+      "bar": 86,
+      "notes": "F#5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata50-1.krn",
+      "label": "Sonata No. 50 in D major, movement 1: Allegro con brio. (kern)",
+      "bar": 13,
+      "notes": "C#5 D5 A5 D5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata42-3.krn",
+      "label": "Sonata No. 42 in G major, movement 3: Presto. (kern)",
+      "bar": 126,
+      "notes": "Ab4 A4 E5 A4"
+     },
+     {
+      "work": "mutopia:HaydnFJ/HOB-XVI-28/hob-xvi-28-iii-presto",
+      "label": "Sonate II, III - Presto (Hob. XVI:28) (Mutopia)",
+      "bar": 108,
+      "notes": "A4 Bb4 F5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     10,
+     -10,
+     12
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata50-1.krn",
+      "label": "Sonata No. 50 in D major, movement 1: Allegro con brio. (kern)",
+      "bar": 9,
+      "notes": "A3 G4 A3 A4"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata52-3.krn",
+      "label": "Sonata No. 52 in G major, movement 3: Prestissimo. (kern)",
+      "bar": 25,
+      "notes": "A4 G5 A4 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/haydn-sonatas:sonata50-1.krn",
+      "label": "Sonata No. 50 in D major, movement 1: Allegro con brio. (kern)",
+      "bar": 37,
+      "notes": "Ab5 A5 F#5 F#5"
+     },
+     {
+      "work": "kern/haydn-sonatas:sonata51-3.krn",
+      "label": "Sonata No. 51 in E-flat major, movement 3: Finale: Allegro. (kern)",
+      "bar": 29,
+      "notes": "C5 C#5 Bb4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 308,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "sonata",
+  "forces": "string quartet",
+  "period": "mature",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.4805545912631402,
+   "repeats": 0.1909661817746772,
+   "leaps": 0.133269635554126,
+   "move": 2.940603873379464,
+   "rising": 0.46229780581404595,
+   "leap answered": 0.36952861952861954,
+   "range": 19.816666666666666,
+   "register": 72.33333333333333,
+   "even": 0.5406864385070959,
+   "long-short": 0.1056880110959471,
+   "rhythm variety": 2.4555761482049108,
+   "surprise, pitch": 2.7667292378929056,
+   "surprise, rhythm": 1.7496916061109775,
+   "density": 4.6749336475089835,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 357,
+   "composers": 15
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "London and late",
+  "era": "Classical",
+  "works": 8,
+  "values": {
+   "steps": 0.5297996191471366,
+   "repeats": 0.09535821448963128,
+   "leaps": 0.1744736292933408,
+   "move": 2.9114045135007833,
+   "rising": 0.47044353404348627,
+   "leap answered": 0.35140316803065397,
+   "range": 11.66875,
+   "register": 69.625,
+   "even": 0.4540393784816561,
+   "long-short": 0.11859097276327431,
+   "rhythm variety": 2.514704919658352,
+   "surprise, pitch": 2.1347751135809063,
+   "surprise, rhythm": 1.5252041866127484,
+   "density": 6.591686950470972,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.1744736292933408,
+    "others": 0.12339685095096838,
+    "auc": 0.8451296134985158
+   },
+   {
+    "measure": "rising",
+    "value": 0.47044353404348627,
+    "others": 0.42759115064459513,
+    "auc": 0.7599205469327419
+   },
+   {
+    "measure": "density",
+    "value": 6.591686950470972,
+    "others": 4.459578049075224,
+    "auc": 0.809243670737573
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 4.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/04_Sailor’s_Song,_Hob.XXVIa31/lc6456450.mxl",
+      "label": "Canzonets, Sailor’s Song, Hob.XXVIa31 (OpenScore)",
+      "bar": 13,
+      "notes": "A4 Ab4 A4 B4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/06_A_Pastoral_Song,_Hob.XXVIa27/lc6465778.mxl",
+      "label": "Canzonets, A Pastoral Song, Hob.XXVIa27 (OpenScore)",
+      "bar": 11,
+      "notes": "A4 Ab4 A4 B4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/10_Recollection,_Hob.XXVIa26/lc6474604.mxl",
+      "label": "Canzonets, Recollection, Hob.XXVIa26 (OpenScore)",
+      "bar": 32,
+      "notes": "Eb5 D5 Eb5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/01_Despair,_Hob.XXVIa28/lc6454673.mxl",
+      "label": "Canzonets, Despair, Hob.XXVIa28 (OpenScore)",
+      "bar": 22,
+      "notes": "B4 E5 Eb5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/07_The_Mermaid’s_Song,_Hob.XXVIa25/lc6472842.mxl",
+      "label": "Canzonets, The Mermaid’s Song, Hob.XXVIa25 (OpenScore)",
+      "bar": 23,
+      "notes": "G4 C5 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/05_Sympathy,_Hob.XXVIa33/lc6456501.mxl",
+      "label": "Canzonets, Sympathy, Hob.XXVIa33 (OpenScore)",
+      "bar": 22,
+      "notes": "B4 E5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/01_Despair,_Hob.XXVIa28/lc6454673.mxl",
+      "label": "Canzonets, Despair, Hob.XXVIa28 (OpenScore)",
+      "bar": 10,
+      "notes": "F#4 Ab4 A4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/07_The_Mermaid’s_Song,_Hob.XXVIa25/lc6472842.mxl",
+      "label": "Canzonets, The Mermaid’s Song, Hob.XXVIa25 (OpenScore)",
+      "bar": 26,
+      "notes": "D4 E4 F4 E4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/05_Sympathy,_Hob.XXVIa33/lc6456501.mxl",
+      "label": "Canzonets, Sympathy, Hob.XXVIa33 (OpenScore)",
+      "bar": 20,
+      "notes": "C#5 Eb5 E5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/07_The_Mermaid’s_Song,_Hob.XXVIa25/lc6472842.mxl",
+      "label": "Canzonets, The Mermaid’s Song, Hob.XXVIa25 (OpenScore)",
+      "bar": 65,
+      "notes": "G4 F#4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/10_Recollection,_Hob.XXVIa26/lc6474604.mxl",
+      "label": "Canzonets, Recollection, Hob.XXVIa26 (OpenScore)",
+      "bar": 45,
+      "notes": "C5 B4 C5 D5"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/05_Sympathy,_Hob.XXVIa33/lc6456501.mxl",
+      "label": "Canzonets, Sympathy, Hob.XXVIa33 (OpenScore)",
+      "bar": 23,
+      "notes": "C#5 C5 C#5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 4.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/07_The_Mermaid’s_Song,_Hob.XXVIa25/lc6472842.mxl",
+      "label": "Canzonets, The Mermaid’s Song, Hob.XXVIa25 (OpenScore)",
+      "bar": 22,
+      "notes": "G4 F4 E4 F4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/02_Fidelity,_Hob.XXVIa30/lc6454809.mxl",
+      "label": "Canzonets, Fidelity, Hob.XXVIa30 (OpenScore)",
+      "bar": 62,
+      "notes": "G4 F4 E4 F4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/10_Recollection,_Hob.XXVIa26/lc6474604.mxl",
+      "label": "Canzonets, Recollection, Hob.XXVIa26 (OpenScore)",
+      "bar": 41,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 5.4,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/01_Despair,_Hob.XXVIa28/lc6454673.mxl",
+      "label": "Canzonets, Despair, Hob.XXVIa28 (OpenScore)",
+      "bar": 10,
+      "notes": "E4 F#4 Ab4 A4"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/02_Fidelity,_Hob.XXVIa30/lc6454809.mxl",
+      "label": "Canzonets, Fidelity, Hob.XXVIa30 (OpenScore)",
+      "bar": 37,
+      "notes": "Ab4 Bb4 C5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Haydn,_Joseph/10_Canzonets/10_Recollection,_Hob.XXVIa26/lc6474604.mxl",
+      "label": "Canzonets, Recollection, Hob.XXVIa26 (OpenScore)",
+      "bar": 45,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 128,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "London and late",
+  "era": "Classical",
+  "works": 55,
+  "values": {
+   "steps": 0.5445709403282532,
+   "repeats": 0.09113709087626032,
+   "leaps": 0.17078201800703416,
+   "move": 3.200162463766276,
+   "rising": 0.4825023726285357,
+   "leap answered": 0.3066154115463336,
+   "range": 22.14727272727272,
+   "register": 74.44545454545455,
+   "even": 0.6776114602956694,
+   "long-short": 0.06653379791903281,
+   "rhythm variety": 1.7188624576857965,
+   "surprise, pitch": 2.6039460466550364,
+   "surprise, rhythm": 1.2061875865977099,
+   "density": 4.823496782240309,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 28,
+    "per_1000": 2.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op71n1-01.krn",
+      "label": "String Quartet in B-flat Major, movement 1: Allegro (kern)",
+      "bar": 9,
+      "notes": "Eb6 C6 A5 Bb5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#4",
+      "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 4 (OpenScore)",
+      "bar": 22,
+      "notes": "F5 D5 B4 C5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III77,_Op.76_No.3/sq20428156.mxl#4",
+      "label": "String Quartet in C major, Hob.III77, Op.76 No.3, movement 4: Finale Presto (OpenScore)",
+      "bar": 67,
+      "notes": "Ab4 F4 D4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 21,
+    "per_1000": 1.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III78,_Op.76_No.4/sq17317312.mxl#2",
+      "label": "String Quartet in B-flat major, Hob.III78, Op.76 No.4, movement 2: Adagio (OpenScore)",
+      "bar": 7,
+      "notes": "D4 Eb4 G4 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_major,_Hob.III73,_Op.74_No.2/sq10307350.mxl#1",
+      "label": "String Quartet in F major, Hob.III73, Op.74 No.2, movement 1 (OpenScore)",
+      "bar": 5,
+      "notes": "B3 C4 E4 G4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_major,_Hob.III75,_Op.76_No.1/sq15049456.mxl#4",
+      "label": "String Quartet in G major, Hob.III75, Op.76 No.1, movement 4: Allegro ma non troppo arco (OpenScore)",
+      "bar": 154,
+      "notes": "F#4 G4 B4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 14,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op71n1-01.krn",
+      "label": "String Quartet in B-flat Major, movement 1: Allegro (kern)",
+      "bar": 51,
+      "notes": "C6 A5 F5 E5"
+     },
+     {
+      "work": "kern/haydn-quartets:op71n1-04.krn",
+      "label": "String Quartet in B-flat Major, movement 4: Vivace (kern)",
+      "bar": 55,
+      "notes": "C5 A4 F4 E4"
+     },
+     {
+      "work": "kern/haydn-quartets:op71n2-01.krn",
+      "label": "String Quartet in D Major, movement 1: Adagio---Allegro (kern)",
+      "bar": 14,
+      "notes": "D6 B5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -6,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 16,
+    "per_1000": 1.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III78,_Op.76_No.4/sq17317312.mxl#2",
+      "label": "String Quartet in B-flat major, Hob.III78, Op.76 No.4, movement 2: Adagio (OpenScore)",
+      "bar": 26,
+      "notes": "B4 C5 F#4 G4"
+     },
+     {
+      "work": "kern/haydn-quartets:op71n2-04.krn",
+      "label": "String Quartet in D Major, movement 4: Finale: Allegretto---Vivace (kern)",
+      "bar": 25,
+      "notes": "A5 Bb5 E5 F5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_major,_Hob.III73,_Op.74_No.2/sq10307350.mxl#2",
+      "label": "String Quartet in F major, Hob.III73, Op.74 No.2, movement 2: Andante grazioso m.v. (OpenScore)",
+      "bar": 6,
+      "notes": "E5 F5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     4,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 13,
+    "per_1000": 0.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III77,_Op.76_No.3/sq20428156.mxl#2",
+      "label": "String Quartet in C major, Hob.III77, Op.76 No.3, movement 2: Poco adagio; cantabile (OpenScore)",
+      "bar": 24,
+      "notes": "F#5 A5 C#6 D6"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III78,_Op.76_No.4/sq17317312.mxl#2",
+      "label": "String Quartet in B-flat major, Hob.III78, Op.76 No.4, movement 2: Adagio (OpenScore)",
+      "bar": 8,
+      "notes": "G4 Bb4 D5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_major,_Hob.III75,_Op.76_No.1/sq15049456.mxl#3",
+      "label": "String Quartet in G major, Hob.III75, Op.76 No.1, movement 3: Menuetto arco Presto (OpenScore)",
+      "bar": 41,
+      "notes": "B4 D5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.0,
+    "works": 13,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op71n3-01.krn",
+      "label": "String Quartet in E-flat Major, movement 1: Vivace (kern)",
+      "bar": 5,
+      "notes": "C5 A4 Bb4 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_major,_Hob.III73,_Op.74_No.2/sq10307350.mxl#4",
+      "label": "String Quartet in F major, Hob.III73, Op.74 No.2, movement 4: Finale Presto (OpenScore)",
+      "bar": 7,
+      "notes": "D6 B5 C6 C6"
+     },
+     {
+      "work": "kern/haydn-quartets:op71n1-04.krn",
+      "label": "String Quartet in B-flat Major, movement 4: Vivace (kern)",
+      "bar": 67,
+      "notes": "G5 E5 F5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 212,
+   "composers": 10
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "When in Rome": 7
+   },
+   "values": {
+    "chords a bar": 1.5308101074717428,
+    "tonic and dominant": 0.651611049410841,
+    "sevenths": 0.3401971513800227,
+    "diminished sevenths": 0.0630237227482581,
+    "applied chords": 0.10419577768410568,
+    "augmented sixths": 0.015179664413644321,
+    "Neapolitan": 0.0,
+    "mixture": 0.0035272651201710753,
+    "inversions": 0.47621903145208583,
+    "keys a 10 bars": 0.9230495298094227,
+    "away from home": 0.43769569438538874,
+    "non-chord tones": 0.23250884779641684,
+    "struck dissonance": 0.14793805602408375,
+    "resolved by step": 0.7126916555902637,
+    "suspensions": 0.005288276946891014
+   },
+   "traits": [
+    {
+     "measure": "augmented sixths",
+     "value": 0.015179664413644321,
+     "others": 0.007130937186917219,
+     "auc": 0.7650375939849624
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V7",
+      "I",
+      "IV64"
+     ],
+     "z": 4.6,
+     "works": 4,
+     "per_1000": 5.9,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#4",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore)",
+       "bar": 22
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#2",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore)",
+       "bar": 37
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#1",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore)",
+       "bar": 60
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V65/IV",
+      "IV"
+     ],
+     "z": 4.3,
+     "works": 3,
+     "per_1000": 6.8,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#2",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore)",
+       "bar": 7
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#1",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore)",
+       "bar": 62
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#4",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore)",
+       "bar": 47
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii",
+      "viio",
+      "I"
+     ],
+     "z": 3.9,
+     "works": 3,
+     "per_1000": 4.2,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#1",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore)",
+       "bar": 3
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#4",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 4 (OpenScore)",
+       "bar": 39
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#1",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore)",
+       "bar": 79
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65/IV",
+      "IV",
+      "I64"
+     ],
+     "z": 3.9,
+     "works": 3,
+     "per_1000": 4.2,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#2",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore)",
+       "bar": 48
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#4",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore)",
+       "bar": 47
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#1",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore)",
+       "bar": 125
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "IV64",
+      "viio"
+     ],
+     "z": 3.7,
+     "works": 2,
+     "per_1000": 4.2,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#1",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore)",
+       "bar": 61
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#4",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 4 (OpenScore)",
+       "bar": 69
+      }
+     ]
+    },
+    {
+     "chords": [
+      "#viio43",
+      "i6",
+      "#viio43"
+     ],
+     "z": 3.6,
+     "works": 2,
+     "per_1000": 4.2,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#1",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore)",
+       "bar": 161
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#4",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore)",
+       "bar": 7
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 76,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 76
+   }
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "Sturm und Drang",
+  "era": "Classical",
+  "works": 69,
+  "values": {
+   "steps": 0.5040450574877835,
+   "repeats": 0.11937925466306053,
+   "leaps": 0.20708211138449964,
+   "move": 3.5159625607358382,
+   "rising": 0.4514257590785449,
+   "leap answered": 0.26615070665547325,
+   "range": 21.578260869565216,
+   "register": 73.26811594202898,
+   "even": 0.6499630692994494,
+   "long-short": 0.0613746096346942,
+   "rhythm variety": 1.9300609728071274,
+   "surprise, pitch": 2.686833544191163,
+   "surprise, rhythm": 1.4289008947425597,
+   "density": 4.8726783209121765,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 22,
+    "per_1000": 1.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III23,_Op.9_No.5/sq9647458.mxl#4",
+      "label": "String Quartet in B-flat major, Hob.III23, Op.9 No.5, movement 4: Presto (OpenScore)",
+      "bar": 64,
+      "notes": "C5 Bb4 A4 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_major,_Hob.III21,_Op.9_No.3/sq10381459.mxl#4",
+      "label": "String Quartet in G major, Hob.III21, Op.9 No.3, movement 4: Finale Presto (OpenScore)",
+      "bar": 37,
+      "notes": "B5 A5 Ab5 A5"
+     },
+     {
+      "work": "kern/haydn-quartets:op17n1-03.krn",
+      "label": "String Quartet in E Major, movement 3: Adagio (kern)",
+      "bar": 1,
+      "notes": "F#4 E4 Eb4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.1,
+    "works": 10,
+    "per_1000": 0.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op17n6-01.krn",
+      "label": "String Quartet in D Major, movement 1: Presto (kern)",
+      "bar": 70,
+      "notes": "A4 B4 Ab4 A4"
+     },
+     {
+      "work": "kern/haydn-quartets:op17n5-01.krn",
+      "label": "String Quartet in G Major, movement 1: Moderato (kern)",
+      "bar": 18,
+      "notes": "A5 B5 Ab5 A5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_A_major,_Hob.III24,_Op.9_No.6/sq9146376.mxl#1",
+      "label": "String Quartet in A major, Hob.III24, Op.9 No.6, movement 1 (OpenScore)",
+      "bar": 40,
+      "notes": "E5 F#5 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.0,
+    "works": 11,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III23,_Op.9_No.5/sq9647458.mxl#4",
+      "label": "String Quartet in B-flat major, Hob.III23, Op.9 No.5, movement 4: Presto (OpenScore)",
+      "bar": 64,
+      "notes": "Bb4 A4 Bb4 A4"
+     },
+     {
+      "work": "kern/haydn-quartets:op17n1-03.krn",
+      "label": "String Quartet in E Major, movement 3: Adagio (kern)",
+      "bar": 1,
+      "notes": "E4 Eb4 E4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III33,_Op.20_No.3/sq8455808.mxl#1",
+      "label": "String Quartet in G minor, Hob.III33, Op.20 No.3, movement 1 (OpenScore)",
+      "bar": 16,
+      "notes": "Eb5 D5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     7,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.7,
+    "works": 9,
+    "per_1000": 0.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III19,_Op.9_No.1/sq9961690.mxl#4",
+      "label": "String Quartet in C major, Hob.III19, Op.9 No.1, movement 4: Finale Presto (OpenScore)",
+      "bar": 35,
+      "notes": "C#4 D4 A4 G4"
+     },
+     {
+      "work": "kern/haydn-quartets:op17n3-04.krn",
+      "label": "String Quartet in E-flat Major, movement 4: Allegro di molto (kern)",
+      "bar": 22,
+      "notes": "E4 F4 C5 Bb4"
+     },
+     {
+      "work": "kern/haydn-quartets:op17n5-03.krn",
+      "label": "String Quartet in G Major, movement 3: Adagio (kern)",
+      "bar": 42,
+      "notes": "E4 F4 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -5,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 6,
+    "per_1000": 0.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III19,_Op.9_No.1/sq9961690.mxl#1",
+      "label": "String Quartet in C major, Hob.III19, Op.9 No.1, movement 1 (OpenScore)",
+      "bar": 26,
+      "notes": "C6 E6 B5 C6"
+     },
+     {
+      "work": "kern/haydn-quartets:op17n5-01.krn",
+      "label": "String Quartet in G Major, movement 1: Moderato (kern)",
+      "bar": 10,
+      "notes": "G5 B5 F#5 G5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_major,_Hob.III21,_Op.9_No.3/sq10381459.mxl#3",
+      "label": "String Quartet in G major, Hob.III21, Op.9 No.3, movement 3: Largo (OpenScore)",
+      "bar": 25,
+      "notes": "C4 E4 B3 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 7,
+    "per_1000": 0.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_D_minor,_Hob.III22,_Op.9_No.4/sq10414906.mxl#3",
+      "label": "String Quartet in D minor, Hob.III22, Op.9 No.4, movement 3: Adagio cantabile (OpenScore)",
+      "bar": 16,
+      "notes": "F6 D6 Bb5 G5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III23,_Op.9_No.5/sq9647458.mxl#4",
+      "label": "String Quartet in B-flat major, Hob.III23, Op.9 No.5, movement 4: Presto (OpenScore)",
+      "bar": 50,
+      "notes": "C7 A6 F6 D6"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#2",
+      "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 2: Adagio (OpenScore)",
+      "bar": 56,
+      "notes": "F5 D5 Bb4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 212,
+   "composers": 10
+  },
+  "harmony": {
+   "works": 14,
+   "by": {
+    "When in Rome": 14
+   },
+   "values": {
+    "chords a bar": 1.8031474811535333,
+    "tonic and dominant": 0.5035192132910414,
+    "sevenths": 0.2880480905498329,
+    "diminished sevenths": 0.05283585705820271,
+    "applied chords": 0.20438508295803817,
+    "augmented sixths": 0.003641677004449876,
+    "Neapolitan": 0.004850959929779243,
+    "mixture": 0.001207755829604569,
+    "inversions": 0.39433525984046497,
+    "keys a 10 bars": 0.3250095381201472,
+    "away from home": 0.2986629793571414,
+    "non-chord tones": 0.23109730012079432,
+    "struck dissonance": 0.08969507836903813,
+    "resolved by step": 0.641630879062369,
+    "suspensions": 0.0069449564503256305
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.5035192132910414,
+     "others": 0.6184400562957164,
+     "auc": 0.14849624060150377
+    },
+    {
+     "measure": "mixture",
+     "value": 0.001207755829604569,
+     "others": 0.013396015822594497,
+     "auc": 0.17011278195488724
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.08969507836903813,
+     "others": 0.2225843879669923,
+     "auc": 0.11184210526315788
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "IV64",
+      "I"
+     ],
+     "z": 4.5,
+     "works": 3,
+     "per_1000": 4.2,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III31,_Op.20_No.1/sq8075304.mxl#3",
+       "label": "String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 3: Affetuoso e sostenuto mezza voce (OpenScore)",
+       "bar": 6
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III31,_Op.20_No.1/sq8075304.mxl#4",
+       "label": "String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 4: Finale Presto (OpenScore)",
+       "bar": 48
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III33,_Op.20_No.3/sq8455808.mxl#3",
+       "label": "String Quartet in G minor, Hob.III33, Op.20 No.3, movement 3: Poco Adagio mezza voce (OpenScore)",
+       "bar": 35
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V64",
+      "V7/V",
+      "V64"
+     ],
+     "z": 3.8,
+     "works": 3,
+     "per_1000": 2.8,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III33,_Op.20_No.3/sq8455808.mxl#3",
+       "label": "String Quartet in G minor, Hob.III33, Op.20 No.3, movement 3: Poco Adagio mezza voce (OpenScore)",
+       "bar": 19
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_minor,_Hob.III35,_Op.20_No.5/sq8807040.mxl#3",
+       "label": "String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore)",
+       "bar": 32
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III31,_Op.20_No.1/sq8075304.mxl#4",
+       "label": "String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 4: Finale Presto (OpenScore)",
+       "bar": 28
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7/V",
+      "V",
+      "I"
+     ],
+     "z": 3.6,
+     "works": 6,
+     "per_1000": 3.2,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_minor,_Hob.III35,_Op.20_No.5/sq8807040.mxl#3",
+       "label": "String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore)",
+       "bar": 39
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_A_major,_Hob.III36,_Op.20_No.6/sq8796660.mxl#2",
+       "label": "String Quartet in A major, Hob.III36, Op.20 No.6, movement 2: Cantabile Adagio mezza voce (OpenScore)",
+       "bar": 25
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#1",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore)",
+       "bar": 29
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "viio"
+     ],
+     "z": 3.4,
+     "works": 4,
+     "per_1000": 2.8,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#1",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore)",
+       "bar": 43
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_A_major,_Hob.III36,_Op.20_No.6/sq8796660.mxl#2",
+       "label": "String Quartet in A major, Hob.III36, Op.20 No.6, movement 2: Cantabile Adagio mezza voce (OpenScore)",
+       "bar": 28
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#4",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 4: Fuga a 4 Soggetti Allegro sempre sotto v (OpenScore)",
+       "bar": 31
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "V/V",
+      "V"
+     ],
+     "z": 3.4,
+     "works": 2,
+     "per_1000": 2.3,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#1",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore)",
+       "bar": 8
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_D_major,_Hob.III34,_Op.20_No.4/sq8509238.mxl#3",
+       "label": "String Quartet in D major, Hob.III34, Op.20 No.4, movement 3: Menuetto Allegretto alla zingarese (OpenScore)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V/V",
+      "V",
+      "V/V"
+     ],
+     "z": 3.4,
+     "works": 3,
+     "per_1000": 2.3,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#1",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore)",
+       "bar": 32
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_minor,_Hob.III35,_Op.20_No.5/sq8807040.mxl#3",
+       "label": "String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore)",
+       "bar": 21
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_D_major,_Hob.III34,_Op.20_No.4/sq8509238.mxl#3",
+       "label": "String Quartet in D major, Hob.III34, Op.20 No.4, movement 3: Menuetto Allegretto alla zingarese (OpenScore)",
+       "bar": 6
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 76,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 76
+   }
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "early",
+  "era": "Classical",
+  "works": 53,
+  "values": {
+   "steps": 0.4809989767125114,
+   "repeats": 0.11111507013360386,
+   "leaps": 0.22708616185968947,
+   "move": 3.7544811257033714,
+   "rising": 0.43186322453657794,
+   "leap answered": 0.2298986779723268,
+   "range": 20.316981132075465,
+   "register": 74.23584905660377,
+   "even": 0.5880204556012117,
+   "long-short": 0.07914787878031264,
+   "rhythm variety": 2.162690409038458,
+   "surprise, pitch": 2.7236153723532235,
+   "surprise, rhythm": 1.518630442802987,
+   "density": 5.598294565065669,
+   "lines": 4.018867924528302
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.22708616185968947,
+    "others": 0.16772880697212608,
+    "auc": 0.7552061495457721
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 27,
+    "per_1000": 4.7,
+    "others_per_1000": 1.9,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III5,_Op.1_No.5/sq8556926.mxl#3",
+      "label": "String Quartet in B-flat major, Hob.III5, Op.1 No.5, movement 3: Allegro molto (OpenScore)",
+      "bar": 2,
+      "notes": "Bb5 A5 G5 F5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E_major,_Hob.III8,_Op.2_No.2/sq26380840.mxl#5",
+      "label": "String Quartet in E major, Hob.III8, Op.2 No.2, movement 5: Presto (OpenScore)",
+      "bar": 6,
+      "notes": "A5 Ab5 F#5 E5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_major,_Hob.III4,_Op.1_No.4/sq8807667.mxl#3",
+      "label": "String Quartet in G major, Hob.III4, Op.1 No.4, movement 3: Adagio (OpenScore)",
+      "bar": 4,
+      "notes": "C6 B5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.2,
+    "works": 17,
+    "per_1000": 1.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E_major,_Hob.III8,_Op.2_No.2/sq26380840.mxl#1",
+      "label": "String Quartet in E major, Hob.III8, Op.2 No.2, movement 1 (OpenScore)",
+      "bar": 35,
+      "notes": "E5 Eb5 C#5 B4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III12,_Op.2_No.6/sq34642829.mxl#1",
+      "label": "String Quartet in B-flat major, Hob.III12, Op.2 No.6, movement 1 (OpenScore)",
+      "bar": 39,
+      "notes": "Eb5 D5 C5 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III12,_Op.2_No.6/sq34642829.mxl#2",
+      "label": "String Quartet in B-flat major, Hob.III12, Op.2 No.6, movement 2: Menuetto (OpenScore)",
+      "bar": 44,
+      "notes": "Eb4 D4 C4 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 5.2,
+    "works": 5,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_major,_Hob.III4,_Op.1_No.4/sq8807667.mxl#1",
+      "label": "String Quartet in G major, Hob.III4, Op.1 No.4, movement 1 (OpenScore)",
+      "bar": 51,
+      "notes": "E5 F#5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_A_major,_Hob.III7,_Op.2_No.1/sq25463992.mxl#5",
+      "label": "String Quartet in A major, Hob.III7, Op.2 No.1, movement 5: Allegro molto (OpenScore)",
+      "bar": 6,
+      "notes": "B3 C#4 D4 C#4"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_A_major,_Hob.III7,_Op.2_No.1/sq25463992.mxl#2",
+      "label": "String Quartet in A major, Hob.III7, Op.2 No.1, movement 2: Menuetto (OpenScore)",
+      "bar": 4,
+      "notes": "B4 C#5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 8,
+    "per_1000": 1.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III9,_Op.2_No.3/sq26595778.mxl#4",
+      "label": "String Quartet in E-flat major, Hob.III9, Op.2 No.3, movement 4: pizz. (OpenScore)",
+      "bar": 76,
+      "notes": "Ab4 G4 Bb4 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E_major,_Hob.III8,_Op.2_No.2/sq26380840.mxl#3",
+      "label": "String Quartet in E major, Hob.III8, Op.2 No.2, movement 3: Adagio (OpenScore)",
+      "bar": 9,
+      "notes": "A4 Ab4 B4 E5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III5,_Op.1_No.5/sq8556926.mxl#3",
+      "label": "String Quartet in B-flat major, Hob.III5, Op.1 No.5, movement 3: Allegro molto (OpenScore)",
+      "bar": 9,
+      "notes": "Eb5 D5 F5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 5,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_D_major,_Hob.III3,_Op.1_No.3/sq8806746.mxl#5",
+      "label": "String Quartet in D major, Hob.III3, Op.1 No.3, movement 5: Presto (OpenScore)",
+      "bar": 3,
+      "notes": "A4 F#4 D4 B4"
+     },
+     {
+      "work": "kern/haydn-quartets:op01n0-05.krn",
+      "label": "String Quartet in E-flat Major, movement 5: Presto (kern)",
+      "bar": 14,
+      "notes": "C5 A4 F4 D5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_A_major,_Hob.III7,_Op.2_No.1/sq25463992.mxl#1",
+      "label": "String Quartet in A major, Hob.III7, Op.2 No.1, movement 1 (OpenScore)",
+      "bar": 12,
+      "notes": "B4 Ab4 E4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 9,
+    "per_1000": 1.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major,_Hob.III5,_Op.1_No.5/sq8556926.mxl#3",
+      "label": "String Quartet in B-flat major, Hob.III5, Op.1 No.5, movement 3: Allegro molto (OpenScore)",
+      "bar": 10,
+      "notes": "Bb5 F5 Eb5 D5"
+     },
+     {
+      "work": "kern/haydn-quartets:op01n1-03.krn",
+      "label": "String Quartet in B-flat major, movement 3: Adagio (kern)",
+      "bar": 17,
+      "notes": "Bb5 F5 Eb5 D5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B-flat_major_(“La_Chasse”),_Hob._III1,_Op.1_No.1/sq8461409.mxl#3",
+      "label": "String Quartet in B-flat major (“La Chasse”), Hob. III1, Op.1 No.1, movement 3: Adagio (OpenScore)",
+      "bar": 17,
+      "notes": "Bb5 F5 Eb5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 212,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "mature",
+  "era": "Classical",
+  "works": 104,
+  "values": {
+   "steps": 0.5144176307495882,
+   "repeats": 0.1496730370597204,
+   "leaps": 0.15553026565738245,
+   "move": 3.1061153280299063,
+   "rising": 0.4728367504620047,
+   "leap answered": 0.27917960825737786,
+   "range": 21.551442307692305,
+   "register": 74.96634615384616,
+   "even": 0.6463256121753443,
+   "long-short": 0.0629461342608774,
+   "rhythm variety": 1.8933509967276956,
+   "surprise, pitch": 2.5825169268766635,
+   "surprise, rhythm": 1.3071808443819026,
+   "density": 5.134055140859175,
+   "lines": 4.009615384615385
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 44,
+    "per_1000": 1.8,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III64,_Op.64_No.6/sq7300376.mxl#1",
+      "label": "String Quartet in E-flat major, Hob.III64, Op.64 No.6, movement 1 (OpenScore)",
+      "bar": 21,
+      "notes": "Bb4 G4 E4 F4"
+     },
+     {
+      "work": "kern/haydn-quartets:op33n6-04.krn",
+      "label": "String Quartet in D Major, movement 4: Finale: Allegretto (kern)",
+      "bar": 15,
+      "notes": "G5 E5 C#5 D5"
+     },
+     {
+      "work": "kern/haydn-quartets:op50n4-01.krn",
+      "label": "String Quartet in F-sharp Minor, movement 1: Allegro spirito (kern)",
+      "bar": 21,
+      "notes": "A5 F#5 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 20,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op33n4-04.krn",
+      "label": "String Quartet in B-flat Major, movement 4: Presto (kern)",
+      "bar": 3,
+      "notes": "Bb5 G5 Eb5 D5"
+     },
+     {
+      "work": "kern/haydn-quartets:op50n3-01.krn",
+      "label": "String Quartet in E-flat Major, movement 1: Allegro con brio (kern)",
+      "bar": 5,
+      "notes": "F5 D5 Bb4 A4"
+     },
+     {
+      "work": "kern/haydn-quartets:op50n1-01.krn",
+      "label": "String Quartet in B-flat Major, movement 1: Allegro (kern)",
+      "bar": 45,
+      "notes": "C6 A5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 21,
+    "per_1000": 0.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op33n4-01.krn",
+      "label": "String Quartet in B-flat Major, movement 1: Allegro moderato (kern)",
+      "bar": 18,
+      "notes": "C#6 D6 Eb6 E6"
+     },
+     {
+      "work": "kern/haydn-quartets:op50n2-01.krn",
+      "label": "String Quartet in C Major, movement 1: Vivace (kern)",
+      "bar": 2,
+      "notes": "B4 C5 C#5 D5"
+     },
+     {
+      "work": "kern/haydn-quartets:op54n1-01.krn",
+      "label": "String Quartet in G Major, movement 1: Vivace assai (kern)",
+      "bar": 4,
+      "notes": "G4 Ab4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.7,
+    "works": 27,
+    "per_1000": 1.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op50n6-04.krn",
+      "label": "String Quartet in D Major, movement 4: Finale: Allegro con spirito (kern)",
+      "bar": 53,
+      "notes": "F#5 E5 F#5 E5"
+     },
+     {
+      "work": "kern/haydn-quartets:op55n3-01.krn",
+      "label": "String Quartet in B-flat Major, movement 1: Vivace assai (kern)",
+      "bar": 42,
+      "notes": "G4 F4 G4 F4"
+     },
+     {
+      "work": "kern/haydn-quartets:op50n2-01.krn",
+      "label": "String Quartet in C Major, movement 1: Vivace (kern)",
+      "bar": 7,
+      "notes": "D5 C5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 24,
+    "per_1000": 0.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op54n3-04.krn",
+      "label": "String Quartet in E Major, movement 4: Finale: Presto (kern)",
+      "bar": 54,
+      "notes": "F#6 F#6 F#6 Eb6"
+     },
+     {
+      "work": "kern/haydn-quartets:op50n6-04.krn",
+      "label": "String Quartet in D Major, movement 4: Finale: Allegro con spirito (kern)",
+      "bar": 110,
+      "notes": "E5 E5 E5 C#5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/Die_Worte_des_Erlösers_am_Kreuze,_Hob.III50–56,_Op.51/sq19815031.mxl#7",
+      "label": "Die Worte des Erlösers am Kreuze, Hob.III50–56, Op.51, movement 7: Lento (OpenScore)",
+      "bar": 26,
+      "notes": "C#6 C#6 C#6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 29,
+    "per_1000": 1.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/haydn-quartets:op50n2-04.krn",
+      "label": "String Quartet in C Major, movement 4: Finale: Vivace assai (kern)",
+      "bar": 60,
+      "notes": "D6 C#6 C6 B5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_major,_Hob.III66,_Op.64,_No.4/sq7249986.mxl#4",
+      "label": "String Quartet in G major, Hob.III66, Op.64, No.4, movement 4: Finale Presto (OpenScore)",
+      "bar": 49,
+      "notes": "A5 Ab5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_B_minor,_Hob.III68,_Op.64_No.2/sq7114183.mxl#1",
+      "label": "String Quartet in B minor, Hob.III68, Op.64 No.2, movement 1 (OpenScore)",
+      "bar": 15,
+      "notes": "A5 Ab5 G5 F#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 212,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "suite",
+  "forces": null,
+  "period": "any period",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.3987954914269974,
+   "repeats": 0.3048658059777387,
+   "leaps": 0.07840350858479228,
+   "move": 2.8125571981692628,
+   "rising": 0.46387868207454186,
+   "leap answered": 0.19376456876456877,
+   "range": 11.037499999999994,
+   "register": 76.0,
+   "even": 0.547691597844932,
+   "long-short": 0.09663183461793667,
+   "rhythm variety": 2.2864866731059745,
+   "surprise, pitch": 1.6711969719287398,
+   "surprise, rhythm": 1.3151059698303222,
+   "density": 5.987598751797357,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 247,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Franz Joseph Haydn",
+  "kind": "symphony",
+  "forces": "orchestra",
+  "period": "London and late",
+  "era": "Classical",
+  "works": 23,
+  "values": {
+   "steps": 0.49453642194971686,
+   "repeats": 0.16783876611318438,
+   "leaps": 0.17136182045083667,
+   "move": 3.20943988622592,
+   "rising": 0.46314781725762727,
+   "leap answered": 0.26421108138122956,
+   "range": 16.37173913043478,
+   "register": 80.3695652173913,
+   "even": 0.6068542818054345,
+   "long-short": 0.09048833249111966,
+   "rhythm variety": 2.044001389927215,
+   "surprise, pitch": 2.2181575138303837,
+   "surprise, rhythm": 1.3206412245029806,
+   "density": 10.600458354242436,
+   "lines": 17.347826086956523
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2181575138303837,
+    "others": 2.532773168554692,
+    "auc": 0.24347826086956517
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.3,
+    "works": 8,
+    "per_1000": 2.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/haydn-symphonies:sym104c.krn",
+      "label": "London Symphonies, Symphonie Nr. 104, movement Movement 3. (kern)",
+      "bar": 49,
+      "notes": "C#6 D6 C#6 D6"
+     },
+     {
+      "work": "kern/haydn-symphonies:sym099a.krn",
+      "label": "London Symphonies, Symphonie Nr. 99, movement Movement 1. (kern)",
+      "bar": 81,
+      "notes": "A5 Bb5 A5 Bb5"
+     },
+     {
+      "work": "kern/haydn-symphonies:sym100a.krn",
+      "label": "London Symphonies, Symphonie Nr. 100, movement Movement 1. (kern)",
+      "bar": 55,
+      "notes": "C#6 D6 C#6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 10,
+    "per_1000": 2.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/haydn-symphonies:sym104a.krn",
+      "label": "London Symphonies, Symphonie Nr. 104, movement Movement 1. (kern)",
+      "bar": 37,
+      "notes": "D5 C#5 D5 C#5"
+     },
+     {
+      "work": "kern/haydn-symphonies:sym102d.krn",
+      "label": "London Symphonies, Symphonie Nr. 102, movement Movement 4. (kern)",
+      "bar": 65,
+      "notes": "C5 B4 C5 B4"
+     },
+     {
+      "work": "kern/haydn-symphonies:sym101d.krn",
+      "label": "London Symphonies, Symphonie Nr. 101, movement Movement 4. (kern)",
+      "bar": 41,
+      "notes": "D6 C#6 D6 C#6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 35,
+   "composers": 7
+  }
+ }
+]

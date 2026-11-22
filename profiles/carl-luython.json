@@ -1,0 +1,276 @@
+[
+ {
+  "composer": "Carl Luython",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 8,
+  "values": {
+   "steps": 0.6813444278149969,
+   "repeats": 0.11934009814622427,
+   "leaps": 0.10630313665914569,
+   "move": 2.3707307978394536,
+   "rising": 0.42540275286804774,
+   "leap answered": 0.4665144291889143,
+   "range": 11.068750000000001,
+   "register": 65.25,
+   "even": 0.2828152974594227,
+   "long-short": 0.16510739465787372,
+   "rhythm variety": 3.0219478773652257,
+   "surprise, pitch": 2.76740175826081,
+   "surprise, rhythm": 2.345163431796233,
+   "density": 1.4166695799540943,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.42540275286804774,
+    "others": 0.4522158119960856,
+    "auc": 0.24439579299545217
+   },
+   {
+    "measure": "even",
+    "value": 0.2828152974594227,
+    "others": 0.34635684727782345,
+    "auc": 0.22984788131152548
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.0219478773652257,
+    "others": 2.8266491723737235,
+    "auc": 0.7818230668103573
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.76740175826081,
+    "others": 2.5315539752157754,
+    "auc": 0.7546550209580758
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 6.5,
+    "works": 4,
+    "per_1000": 4.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--046-004_luython-carl--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 12,
+      "notes": "F4 F4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-004_luython-carl--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 2,
+      "notes": "F4 F4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-002_luython-carl--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 5,
+      "notes": "F4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.2,
+    "works": 8,
+    "per_1000": 15.0,
+    "others_per_1000": 2.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-002_luython-carl--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 37,
+      "notes": "B4 A4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-004_luython-carl--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 6,
+      "notes": "E4 D4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--046-003_luython-carl--missa-sanctus.krn",
+      "label": "Missa, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 2,
+      "notes": "F#4 E4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 5.8,
+    "works": 7,
+    "per_1000": 8.8,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--046-004_luython-carl--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 12,
+      "notes": "F4 E4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-002_luython-carl--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 5,
+      "notes": "F4 E4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-003_luython-carl--missa-sanctus.krn",
+      "label": "Missa, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 15,
+      "notes": "C5 B4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.8,
+    "works": 7,
+    "per_1000": 10.6,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--046-004_luython-carl--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 12,
+      "notes": "E4 D4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-002_luython-carl--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 5,
+      "notes": "E4 D4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--046-001_luython-carl--missa-kyrie.krn",
+      "label": "Missa, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 19,
+      "notes": "A3 G3 A3 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.1,
+    "works": 6,
+    "per_1000": 11.5,
+    "others_per_1000": 2.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-004_luython-carl--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 7,
+      "notes": "A4 Ab4 F#4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-002_luython-carl--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 37,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--046-004_luython-carl--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 15,
+      "notes": "D4 C#4 B3 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 5,
+    "per_1000": 6.2,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-002_luython-carl--missa-et-in-terra.krn",
+      "label": "Missa, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 19,
+      "notes": "F4 E4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-001_luython-carl--missa-kyrie.krn",
+      "label": "Missa, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 23,
+      "notes": "F4 E4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--045-004_luython-carl--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 6,
+      "notes": "F4 E4 D4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 687,
+   "composers": 38
+  }
+ }
+]

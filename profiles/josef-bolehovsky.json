@@ -1,0 +1,239 @@
+[
+ {
+  "composer": "Josef Bolehovský",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 21,
+  "values": {
+   "steps": 0.5107455949886747,
+   "repeats": 0.2684931500801252,
+   "leaps": 0.12311092755598374,
+   "move": 2.850190183407478,
+   "rising": 0.4617682340060339,
+   "leap answered": 0.39277587135449143,
+   "range": 13.435714285714285,
+   "register": 76.52380952380952,
+   "even": 0.5746405395847735,
+   "long-short": 0.0558284113852222,
+   "rhythm variety": 2.198259614166517,
+   "surprise, pitch": 2.319901455944389,
+   "surprise, rhythm": 1.716122860446381,
+   "density": 9.515882665196738,
+   "lines": 9.857142857142858
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-007_bolehovsky-josef--missa-pastoralis-in-d-agnus-dei.krn",
+      "label": "Missa Pastoralis in D, Agnus Dei, movement 7 (PL-CZ III-33, kern)",
+      "bar": 46,
+      "notes": "F#5 E5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-001_bolehovsky-josef--missa-pastoralis-in-d-kyrie.krn",
+      "label": "Missa Pastoralis in D, Kyrie, movement 1 (PL-CZ III-33, kern)",
+      "bar": 8,
+      "notes": "F#5 E5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-004_bolehovsky-josef--missa-pastoralis-in-d-credo.krn",
+      "label": "Missa Pastoralis in D, Credo, movement 4 (PL-CZ III-33, kern)",
+      "bar": 49,
+      "notes": "F#5 E5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-31--001-006_bolehovsky-josef--litaniae-regina-angelorum.krn",
+      "label": "Litaniae, Regina angelorum, movement 6 (PL-CZ III-31, kern)",
+      "bar": 2,
+      "notes": "D6 A5 D6 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-32--001-003_bolehovsky-josef--missa-ex-d-credo.krn",
+      "label": "Missa ex D, Credo, movement 3 (PL-CZ III-32, kern)",
+      "bar": 14,
+      "notes": "E5 B4 E5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-006_bolehovsky-josef--missa-pastoralis-in-d-benedictus.krn",
+      "label": "Missa Pastoralis in D, Benedictus, movement 6 (PL-CZ III-33, kern)",
+      "bar": 4,
+      "notes": "E5 D5 E5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-32--001-003_bolehovsky-josef--missa-ex-d-credo.krn",
+      "label": "Missa ex D, Credo, movement 3 (PL-CZ III-32, kern)",
+      "bar": 24,
+      "notes": "F#5 E5 F#5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-007_bolehovsky-josef--missa-pastoralis-in-d-agnus-dei.krn",
+      "label": "Missa Pastoralis in D, Agnus Dei, movement 7 (PL-CZ III-33, kern)",
+      "bar": 47,
+      "notes": "E5 F#5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-001_bolehovsky-josef--missa-pastoralis-in-d-kyrie.krn",
+      "label": "Missa Pastoralis in D, Kyrie, movement 1 (PL-CZ III-33, kern)",
+      "bar": 9,
+      "notes": "E5 F#5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-004_bolehovsky-josef--missa-pastoralis-in-d-credo.krn",
+      "label": "Missa Pastoralis in D, Credo, movement 4 (PL-CZ III-33, kern)",
+      "bar": 50,
+      "notes": "E5 F#5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-32--001-005_bolehovsky-josef--missa-ex-d-benedictus.krn",
+      "label": "Missa ex D, Benedictus, movement 5 (PL-CZ III-32, kern)",
+      "bar": 12,
+      "notes": "D6 C6 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-31--001-004_bolehovsky-josef--litaniae-rosa-mystica.krn",
+      "label": "Litaniae, Rosa mystica, movement 4 (PL-CZ III-31, kern)",
+      "bar": 20,
+      "notes": "E5 D5 C#5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-32--001-003_bolehovsky-josef--missa-ex-d-credo.krn",
+      "label": "Missa ex D, Credo, movement 3 (PL-CZ III-32, kern)",
+      "bar": 47,
+      "notes": "E5 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.6,
+    "works": 4,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-007_bolehovsky-josef--missa-pastoralis-in-d-agnus-dei.krn",
+      "label": "Missa Pastoralis in D, Agnus Dei, movement 7 (PL-CZ III-33, kern)",
+      "bar": 55,
+      "notes": "E5 F#5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-004_bolehovsky-josef--missa-pastoralis-in-d-credo.krn",
+      "label": "Missa Pastoralis in D, Credo, movement 4 (PL-CZ III-33, kern)",
+      "bar": 7,
+      "notes": "A5 B5 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-33--001-001_bolehovsky-josef--missa-pastoralis-in-d-kyrie.krn",
+      "label": "Missa Pastoralis in D, Kyrie, movement 1 (PL-CZ III-33, kern)",
+      "bar": 17,
+      "notes": "E5 F#5 F#5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 626,
+   "composers": 34
+  }
+ }
+]

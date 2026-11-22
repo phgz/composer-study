@@ -1,0 +1,239 @@
+[
+ {
+  "composer": "Clara Mathilda Faisst",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 30,
+  "values": {
+   "steps": 0.40898620579359063,
+   "repeats": 0.2293354492600687,
+   "leaps": 0.19364789569285654,
+   "move": 3.300292965681112,
+   "rising": 0.5423552402524264,
+   "leap answered": 0.23320656939284393,
+   "range": 12.68,
+   "register": 70.1,
+   "even": 0.3344469565336398,
+   "long-short": 0.17076183752381668,
+   "rhythm variety": 2.7673773226218907,
+   "surprise, pitch": 3.0397196352065268,
+   "surprise, rhythm": 1.9570464416234314,
+   "density": 6.263846019277675,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/2_Kriegslieder/2_Reiterlied/lc6569855.mxl",
+      "label": "Kriegslieder, Reiterlied (OpenScore)",
+      "bar": 14,
+      "notes": "Ab4 Ab4 A4 A4"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/5_Lieder,_Op.3/5_In_der_Mondnacht/lc6260168.mxl",
+      "label": "Lieder, Op.3, In der Mondnacht (OpenScore)",
+      "bar": 42,
+      "notes": "B4 B4 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/5_Lieder,_Op.3/3_Letzter_Wunsch/lc6260167.mxl",
+      "label": "Lieder, Op.3, Letzter Wunsch (OpenScore)",
+      "bar": 30,
+      "notes": "F4 F4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     5,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/4_Lieder,_Op.11/02_Riport_a_me_(Piemontesisches_Lied)/lc6258930.mxl",
+      "label": "Lieder, Op.11, Riport a me (Piemontesisches Lied) (OpenScore)",
+      "bar": 21,
+      "notes": "A4 B4 E5 E5"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/5_Lieder,_Op.3/5_In_der_Mondnacht/lc6260168.mxl",
+      "label": "Lieder, Op.3, In der Mondnacht (OpenScore)",
+      "bar": 6,
+      "notes": "A4 B4 E5 E5"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/2_Lieder,_Op.8/1_Die_Insel_der_Vergessenheit/lc6164267.mxl",
+      "label": "Lieder, Op.8, Die Insel der Vergessenheit (OpenScore)",
+      "bar": 5,
+      "notes": "A4 B4 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/5_Lieder,_Op.4/5_Lied_aus_Bosnien/lc6179338.mxl",
+      "label": "Lieder, Op.4, Lied aus Bosnien (OpenScore)",
+      "bar": 20,
+      "notes": "E5 E5 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/4_Lieder,_Op.1/4_Ingeborgs-Lied_aus_dem_fliegenden_Holländer/lc6260379.mxl",
+      "label": "Lieder, Op.1, Ingeborgs-Lied aus dem fliegenden Holländer (OpenScore)",
+      "bar": 2,
+      "notes": "G4 G4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/2_Kriegslieder/1_Unsern_Getreuen/lc6569865.mxl",
+      "label": "Kriegslieder, Unsern Getreuen (OpenScore)",
+      "bar": 1,
+      "notes": "Ab4 Bb4 C5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/4_Lieder,_Op.11/01_Wanderlied/lc6258870.mxl",
+      "label": "Lieder, Op.11, Wanderlied (OpenScore)",
+      "bar": 17,
+      "notes": "C#5 Eb5 F5 F#5"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/5_Lieder,_Op.4/5_Lied_aus_Bosnien/lc6179338.mxl",
+      "label": "Lieder, Op.4, Lied aus Bosnien (OpenScore)",
+      "bar": 26,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     3,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 3.6,
+    "works": 2,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/2_Kriegslieder/2_Reiterlied/lc6569855.mxl",
+      "label": "Kriegslieder, Reiterlied (OpenScore)",
+      "bar": 3,
+      "notes": "D4 D4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/4_Lieder,_Op.1/4_Ingeborgs-Lied_aus_dem_fliegenden_Holländer/lc6260379.mxl",
+      "label": "Lieder, Op.1, Ingeborgs-Lied aus dem fliegenden Holländer (OpenScore)",
+      "bar": 1,
+      "notes": "C5 C5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/2_Kriegslieder/1_Unsern_Getreuen/lc6569865.mxl",
+      "label": "Kriegslieder, Unsern Getreuen (OpenScore)",
+      "bar": 1,
+      "notes": "Ab4 Ab4 Bb4 C5"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/5_Lieder,_Op.6/4_Jugend/lc6259569.mxl",
+      "label": "Lieder, Op.6, Jugend (OpenScore)",
+      "bar": 9,
+      "notes": "F4 F4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Faisst,_Clara_Mathilda/4_Lieder,_Op.11/01_Wanderlied/lc6258870.mxl",
+      "label": "Lieder, Op.11, Wanderlied (OpenScore)",
+      "bar": 17,
+      "notes": "C#5 C#5 Eb5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 279,
+   "composers": 37
+  }
+ }
+]

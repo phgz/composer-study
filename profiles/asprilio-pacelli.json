@@ -1,0 +1,276 @@
+[
+ {
+  "composer": "Asprilio Pacelli",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.6097395474805841,
+   "repeats": 0.13037264968437803,
+   "leaps": 0.1479801967971229,
+   "move": 2.694366370331706,
+   "rising": 0.510800922096052,
+   "leap answered": 0.36752525252525253,
+   "range": 10.4,
+   "register": 63.2,
+   "even": 0.3882488978847404,
+   "long-short": 0.1265006127122113,
+   "rhythm variety": 2.7866427468457897,
+   "surprise, pitch": 2.8667704359103596,
+   "surprise, rhythm": 2.3371122798976343,
+   "density": 1.3361297657470455,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.13037264968437803,
+    "others": 0.26378557419367554,
+    "auc": 0.21998378207318098
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.7866427468457897,
+    "others": 2.2482071668032355,
+    "auc": 0.7666346579466066
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8667704359103596,
+    "others": 2.531236879738498,
+    "auc": 0.7692421869086197
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.3371122798976343,
+    "others": 1.7905987045203429,
+    "auc": 0.8851244588496334
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-003_pacelli-asprilio--missa-ave-maris-stella-credo.krn",
+      "label": "Missa Ave Maris Stella, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 72,
+      "notes": "D4 C4 B3 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-001_pacelli-asprilio--missa-ave-maris-stella-kyrie.krn",
+      "label": "Missa Ave Maris Stella, Kyrie, movement 1 (PL-Kk Kk.I.2, kern)",
+      "bar": 23,
+      "notes": "G4 F4 E4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-004_pacelli-asprilio--missa-ave-maris-stella-sanctus.krn",
+      "label": "Missa Ave Maris Stella, Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 23,
+      "notes": "D4 C4 B3 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 4.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-003_pacelli-asprilio--missa-ave-maris-stella-credo.krn",
+      "label": "Missa Ave Maris Stella, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 5,
+      "notes": "F4 G4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-002_pacelli-asprilio--missa-ave-maris-stella-gloria.krn",
+      "label": "Missa Ave Maris Stella, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 4,
+      "notes": "F4 G4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-001_pacelli-asprilio--missa-ave-maris-stella-kyrie.krn",
+      "label": "Missa Ave Maris Stella, Kyrie, movement 1 (PL-Kk Kk.I.2, kern)",
+      "bar": 52,
+      "notes": "F4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 4.8,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-003_pacelli-asprilio--missa-ave-maris-stella-credo.krn",
+      "label": "Missa Ave Maris Stella, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 10,
+      "notes": "E4 F4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-002_pacelli-asprilio--missa-ave-maris-stella-gloria.krn",
+      "label": "Missa Ave Maris Stella, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 41,
+      "notes": "E4 F4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-001_pacelli-asprilio--missa-ave-maris-stella-kyrie.krn",
+      "label": "Missa Ave Maris Stella, Kyrie, movement 1 (PL-Kk Kk.I.2, kern)",
+      "bar": 52,
+      "notes": "E4 F4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 4.8,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-003_pacelli-asprilio--missa-ave-maris-stella-credo.krn",
+      "label": "Missa Ave Maris Stella, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 6,
+      "notes": "G4 F4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-002_pacelli-asprilio--missa-ave-maris-stella-gloria.krn",
+      "label": "Missa Ave Maris Stella, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 41,
+      "notes": "G4 F4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-001_pacelli-asprilio--missa-ave-maris-stella-kyrie.krn",
+      "label": "Missa Ave Maris Stella, Kyrie, movement 1 (PL-Kk Kk.I.2, kern)",
+      "bar": 7,
+      "notes": "G4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-002_pacelli-asprilio--missa-ave-maris-stella-gloria.krn",
+      "label": "Missa Ave Maris Stella, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 15,
+      "notes": "E4 D4 E4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-004_pacelli-asprilio--missa-ave-maris-stella-sanctus.krn",
+      "label": "Missa Ave Maris Stella, Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 9,
+      "notes": "B3 A3 B3 C#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-003_pacelli-asprilio--missa-ave-maris-stella-credo.krn",
+      "label": "Missa Ave Maris Stella, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 207,
+      "notes": "D4 C4 D4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.4,
+    "works": 4,
+    "per_1000": 4.2,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-003_pacelli-asprilio--missa-ave-maris-stella-credo.krn",
+      "label": "Missa Ave Maris Stella, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 19,
+      "notes": "F4 E4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-002_pacelli-asprilio--missa-ave-maris-stella-gloria.krn",
+      "label": "Missa Ave Maris Stella, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 43,
+      "notes": "F4 E4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--011-004_pacelli-asprilio--missa-ave-maris-stella-sanctus.krn",
+      "label": "Missa Ave Maris Stella, Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 9,
+      "notes": "C4 B3 A3 B3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 197,
+   "composers": 20
+  }
+ }
+]

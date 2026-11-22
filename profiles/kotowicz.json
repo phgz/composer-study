@@ -1,0 +1,47 @@
+[
+ {
+  "composer": "Kotowicz",
+  "kind": "oratorio",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 6,
+  "values": {
+   "steps": 0.4977556260389087,
+   "repeats": 0.23697477199750774,
+   "leaps": 0.13833552846739783,
+   "move": 3.2096918380748725,
+   "rising": 0.4800423472741311,
+   "leap answered": 0.27666611298643967,
+   "range": 15.433333333333332,
+   "register": 75.5,
+   "even": 0.6458024502546268,
+   "long-short": 0.041280938055971994,
+   "rhythm variety": 1.8908206149073095,
+   "surprise, pitch": 2.5233409434105254,
+   "surprise, rhythm": 1.5464690342371892,
+   "density": 9.528261856862624,
+   "lines": 7.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.4977556260389087,
+    "others": 0.630851435182732,
+    "auc": 0.2242254273637667
+   },
+   {
+    "measure": "rising",
+    "value": 0.4800423472741311,
+    "others": 0.4441675645427456,
+    "auc": 0.7780448717293881
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 46,
+   "composers": 5
+  }
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "composer": "Ippolito Sabino",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.6082479883439684,
+   "repeats": 0.22765649750587008,
+   "leaps": 0.08966446796955772,
+   "move": 2.282497404708176,
+   "rising": 0.48432003354210806,
+   "leap answered": 0.3781755878530072,
+   "range": 9.68,
+   "register": 56.0,
+   "even": 0.3627741986128267,
+   "long-short": 0.10209638786020572,
+   "rhythm variety": 2.6815030317768294,
+   "surprise, pitch": 2.645326689091241,
+   "surprise, rhythm": 2.136060803319099,
+   "density": 1.0558136716862385,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.22765649750587008,
+    "others": 0.12640533643849328,
+    "auc": 0.7647466177284594
+   },
+   {
+    "measure": "register",
+    "value": 56.0,
+    "others": 68.20275470679196,
+    "auc": 0.0005646939626914608
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.6815030317768294,
+    "others": 2.8775947145654333,
+    "auc": 0.2229733494925974
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.1,
+    "works": 4,
+    "per_1000": 7.2,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-005_sabino-ippolito--missa-brevis-agnus-dei.krn",
+      "label": "Missa brevis, Agnus Dei, movement 5 (PL-Kk Kk.I.6, kern)",
+      "bar": 7,
+      "notes": "F3 E3 D3 C3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-003_sabino-ippolito--missa-brevis-patrem.krn",
+      "label": "Missa brevis, Patrem, movement 3 (PL-Kk Kk.I.6, kern)",
+      "bar": 4,
+      "notes": "Bb3 A3 G3 F3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-004_sabino-ippolito--missa-brevis-sanctus.krn",
+      "label": "Missa brevis, Sanctus, movement 4 (PL-Kk Kk.I.6, kern)",
+      "bar": 3,
+      "notes": "Bb3 A3 G3 F3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 5.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-003_sabino-ippolito--missa-brevis-patrem.krn",
+      "label": "Missa brevis, Patrem, movement 3 (PL-Kk Kk.I.6, kern)",
+      "bar": 4,
+      "notes": "G3 C4 Bb3 A3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-004_sabino-ippolito--missa-brevis-sanctus.krn",
+      "label": "Missa brevis, Sanctus, movement 4 (PL-Kk Kk.I.6, kern)",
+      "bar": 55,
+      "notes": "G3 C4 Bb3 A3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-005_sabino-ippolito--missa-brevis-agnus-dei.krn",
+      "label": "Missa brevis, Agnus Dei, movement 5 (PL-Kk Kk.I.6, kern)",
+      "bar": 14,
+      "notes": "D3 G3 F3 E3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 5.1,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-003_sabino-ippolito--missa-brevis-patrem.krn",
+      "label": "Missa brevis, Patrem, movement 3 (PL-Kk Kk.I.6, kern)",
+      "bar": 19,
+      "notes": "C4 C4 C4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-002_sabino-ippolito--missa-brevis-et-in-terra.krn",
+      "label": "Missa brevis, Et in terra, movement 2 (PL-Kk Kk.I.6, kern)",
+      "bar": 10,
+      "notes": "C4 C4 C4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.7,
+    "works": 5,
+    "per_1000": 6.2,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-003_sabino-ippolito--missa-brevis-patrem.krn",
+      "label": "Missa brevis, Patrem, movement 3 (PL-Kk Kk.I.6, kern)",
+      "bar": 50,
+      "notes": "B3 C4 B3 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-005_sabino-ippolito--missa-brevis-agnus-dei.krn",
+      "label": "Missa brevis, Agnus Dei, movement 5 (PL-Kk Kk.I.6, kern)",
+      "bar": 10,
+      "notes": "E3 F3 E3 F3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-002_sabino-ippolito--missa-brevis-et-in-terra.krn",
+      "label": "Missa brevis, Et in terra, movement 2 (PL-Kk Kk.I.6, kern)",
+      "bar": 48,
+      "notes": "B3 C4 B3 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.6,
+    "works": 2,
+    "per_1000": 6.2,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-003_sabino-ippolito--missa-brevis-patrem.krn",
+      "label": "Missa brevis, Patrem, movement 3 (PL-Kk Kk.I.6, kern)",
+      "bar": 6,
+      "notes": "Bb3 A3 Bb3 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-6--025-004_sabino-ippolito--missa-brevis-sanctus.krn",
+      "label": "Missa brevis, Sanctus, movement 4 (PL-Kk Kk.I.6, kern)",
+      "bar": 49,
+      "notes": "F3 E3 F3 G3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 591,
+   "composers": 27
+  }
+ }
+]

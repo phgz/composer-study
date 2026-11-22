@@ -1,0 +1,66 @@
+[
+ {
+  "composer": "Tadeusz Kościuszko",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.4932221111672105,
+   "repeats": 0.1459068178254378,
+   "leaps": 0.11384660290662194,
+   "move": 2.843267059808008,
+   "rising": 0.48311323843382037,
+   "leap answered": 0.07021103896103896,
+   "range": 12.75,
+   "register": 76.0,
+   "even": 0.7028420432791445,
+   "long-short": 0.07923959428760614,
+   "rhythm variety": 1.6858431861366288,
+   "surprise, pitch": 1.8098351319600743,
+   "surprise, rhythm": 1.1386296546342887,
+   "density": 6.141059006397432,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 193,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Tadeusz Kościuszko",
+  "kind": "polonaise",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.5321939414865943,
+   "repeats": 0.16318353874982877,
+   "leaps": 0.08443193976399765,
+   "move": 2.689740695128626,
+   "rising": 0.46466380509124766,
+   "leap answered": 0.09361471861471861,
+   "range": 11.333333333333334,
+   "register": 75.0,
+   "even": 0.6807124679619362,
+   "long-short": 0.09399778072846321,
+   "rhythm variety": 1.7899216173089592,
+   "surprise, pitch": 1.8762152181373164,
+   "surprise, rhythm": 1.2172791116051929,
+   "density": 5.766813651949772,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 24,
+   "composers": 8
+  }
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "composer": "Emilie Zumsteeg",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 11,
+  "values": {
+   "steps": 0.5386466481460629,
+   "repeats": 0.1811338868306448,
+   "leaps": 0.15882299927120785,
+   "move": 2.987305505036082,
+   "rising": 0.41676461399191916,
+   "leap answered": 0.44410302616044234,
+   "range": 11.718181818181819,
+   "register": 68.81818181818181,
+   "even": 0.49072304834938313,
+   "long-short": 0.143252748068049,
+   "rhythm variety": 2.3304931773628366,
+   "surprise, pitch": 2.961637579927195,
+   "surprise, rhythm": 1.9400689316072464,
+   "density": 5.153764398821251,
+   "lines": 2.5454545454545454
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.961637579927195,
+    "others": 2.4257560730781353,
+    "auc": 0.7954735587200304
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 4,
+    "per_1000": 7.0,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "openscore-lieder:Zumsteeg,_Emilie/6_Lieder,_Op.4/3_Religion/lc6162644.mxl",
+      "label": "Lieder, Op.4, Religion (OpenScore)",
+      "bar": 3,
+      "notes": "D5 C5 Bb4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Zumsteeg,_Emilie/5_Lieder/2_Der_Geburtstag/lc6158825.mxl",
+      "label": "Lieder, Der Geburtstag (OpenScore)",
+      "bar": 3,
+      "notes": "B4 A4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Zumsteeg,_Emilie/5_Lieder/1_Des_Kaufmanns_Liebeswerbung/lc6158642.mxl",
+      "label": "Lieder, Des Kaufmanns Liebeswerbung (OpenScore)",
+      "bar": 1,
+      "notes": "C#5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 5,
+    "per_1000": 11.2,
+    "others_per_1000": 2.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Zumsteeg,_Emilie/6_Lieder,_Op.4/2_Morgenfreude/lc6160298.mxl",
+      "label": "Lieder, Op.4, Morgenfreude (OpenScore)",
+      "bar": 2,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:Zumsteeg,_Emilie/6_Lieder,_Op.4/3_Religion/lc6162644.mxl",
+      "label": "Lieder, Op.4, Religion (OpenScore)",
+      "bar": 3,
+      "notes": "Bb4 Ab4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Zumsteeg,_Emilie/5_Lieder/5_Sehnsucht_der_Liebe/lc6163298.mxl",
+      "label": "Lieder, Sehnsucht der Liebe (OpenScore)",
+      "bar": 19,
+      "notes": "B4 A4 Ab4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1077,
+   "composers": 97
+  }
+ }
+]

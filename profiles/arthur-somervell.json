@@ -1,0 +1,108 @@
+[
+ {
+  "composer": "Arthur Somervell",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 10,
+  "values": {
+   "steps": 0.42471723578340626,
+   "repeats": 0.20985192535006672,
+   "leaps": 0.19867418435733442,
+   "move": 3.2304381246430816,
+   "rising": 0.5025121616984043,
+   "leap answered": 0.20515480302956585,
+   "range": 11.209999999999999,
+   "register": 68.4,
+   "even": 0.2940423591175948,
+   "long-short": 0.2758202563295035,
+   "rhythm variety": 2.839037469625972,
+   "surprise, pitch": 2.3879792197060974,
+   "surprise, rhythm": 1.8265159824973192,
+   "density": 6.178011300325037,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.2758202563295035,
+    "others": 0.146350339039961,
+    "auc": 0.8595700123915739
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     3,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 4.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Somervell,_Arthur/A_Shropshire_Lad/01_Loveliest_of_Trees,_the_Cherry_now/lc6210838.mxl",
+      "label": "A Shropshire Lad, Loveliest of Trees, the Cherry now (OpenScore)",
+      "bar": 6,
+      "notes": "F#4 F#4 A4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Somervell,_Arthur/A_Shropshire_Lad/09_Into_my_Heart_an_Air_that_kills/lc6221731.mxl",
+      "label": "A Shropshire Lad, Into my Heart an Air that kills (OpenScore)",
+      "bar": 16,
+      "notes": "F4 F4 Ab4 G4"
+     },
+     {
+      "work": "openscore-lieder:Somervell,_Arthur/A_Shropshire_Lad/07_White_in_the_moon_the_long_road_lies/lc6221611.mxl",
+      "label": "A Shropshire Lad, White in the moon the long road lies (OpenScore)",
+      "bar": 23,
+      "notes": "A4 A4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 4.9,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Somervell,_Arthur/A_Shropshire_Lad/04_In_Summer-time_on_Bredon/lc6211877.mxl",
+      "label": "A Shropshire Lad, In Summer-time on Bredon (OpenScore)",
+      "bar": 20,
+      "notes": "D5 E5 C5 D5"
+     },
+     {
+      "work": "openscore-lieder:Somervell,_Arthur/A_Shropshire_Lad/10_The_Lads_in_their_hundreds/lc6222828.mxl",
+      "label": "A Shropshire Lad, The Lads in their hundreds (OpenScore)",
+      "bar": 4,
+      "notes": "Bb4 C5 Ab4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 299,
+   "composers": 37
+  }
+ }
+]

@@ -1,0 +1,233 @@
+[
+ {
+  "composer": "Peter Cornelius",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 33,
+  "values": {
+   "steps": 0.4193718986081303,
+   "repeats": 0.23428461809015533,
+   "leaps": 0.17484081830634304,
+   "move": 2.9559093008655934,
+   "rising": 0.44590338062236035,
+   "leap answered": 0.3225150873927927,
+   "range": 10.263636363636362,
+   "register": 69.34848484848484,
+   "even": 0.37562672451970874,
+   "long-short": 0.20300419421502078,
+   "rhythm variety": 2.6093002642267416,
+   "surprise, pitch": 2.7399513789068117,
+   "surprise, rhythm": 1.6870572257361014,
+   "density": 6.176276554255096,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     5,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Trauer_und_Trost,_Op.3/2_Angedenken/lc5043586.mxl",
+      "label": "Trauer und Trost, Op.3, Angedenken (OpenScore)",
+      "bar": 13,
+      "notes": "F4 Eb4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Trauer_und_Trost,_Op.3/1_Trauer/lc5043594.mxl",
+      "label": "Trauer und Trost, Op.3, Trauer (OpenScore)",
+      "bar": 10,
+      "notes": "A4 G4 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Weihnachtslieder,_Op.8/5_Christus_der_Kinderfreund/lc7019213.mxl",
+      "label": "Weihnachtslieder, Op.8, Christus der Kinderfreund (OpenScore)",
+      "bar": 9,
+      "notes": "G4 F4 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 5,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/6_Lieder,_Op.5/1_Botschaft/lc5051346.mxl",
+      "label": "Lieder, Op.5, Botschaft (OpenScore)",
+      "bar": 18,
+      "notes": "G4 F#4 G4 C5"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/An_Bertha,_Op.15/4_Dein_Bildnis/lc5820797.mxl",
+      "label": "An Bertha, Op.15, Dein Bildnis (OpenScore)",
+      "bar": 23,
+      "notes": "D5 C#5 D5 G5"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/6_Lieder,_Op.5/6_Auftrag/lc5051359.mxl",
+      "label": "Lieder, Op.5, Auftrag (OpenScore)",
+      "bar": 9,
+      "notes": "E4 Eb4 E4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     -3
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Liebeslieder,_Op.4/3_Möcht’_im_Walde_mit_dir_geh’n/lc5062141.mxl",
+      "label": "Liebeslieder, Op.4, Möcht’ im Walde mit dir geh’n (OpenScore)",
+      "bar": 4,
+      "notes": "Bb4 Eb5 Eb5 C5"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/6_Lieder,_Op.5/1_Botschaft/lc5051346.mxl",
+      "label": "Lieder, Op.5, Botschaft (OpenScore)",
+      "bar": 18,
+      "notes": "G4 C5 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Liebeslieder,_Op.4/2_Komm,_wir_wandeln_zusammen/lc5062139.mxl",
+      "label": "Liebeslieder, Op.4, Komm, wir wandeln zusammen (OpenScore)",
+      "bar": 5,
+      "notes": "Bb4 Ab4 Ab4 F4"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/6_Lieder,_Op.5/2_Auf_ein_schlummerndes_Kind/lc5051349.mxl",
+      "label": "Lieder, Op.5, Auf ein schlummerndes Kind (OpenScore)",
+      "bar": 3,
+      "notes": "C5 Bb4 Bb4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Weihnachtslieder,_Op.8/6_Christkind/lc7019290.mxl",
+      "label": "Weihnachtslieder, Op.8, Christkind (OpenScore)",
+      "bar": 3,
+      "notes": "C5 G4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/An_Bertha,_Op.15/3_In_der_Ferne/lc5062159.mxl",
+      "label": "An Bertha, Op.15, In der Ferne (OpenScore)",
+      "bar": 20,
+      "notes": "E5 B4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 2.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Liebeslieder,_Op.4/3_Möcht’_im_Walde_mit_dir_geh’n/lc5062141.mxl",
+      "label": "Liebeslieder, Op.4, Möcht’ im Walde mit dir geh’n (OpenScore)",
+      "bar": 11,
+      "notes": "D5 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Liebeslieder,_Op.4/2_Komm,_wir_wandeln_zusammen/lc5062139.mxl",
+      "label": "Liebeslieder, Op.4, Komm, wir wandeln zusammen (OpenScore)",
+      "bar": 5,
+      "notes": "Eb5 Eb5 C#5 C5"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/6_Lieder,_Op.5/1_Botschaft/lc5051346.mxl",
+      "label": "Lieder, Op.5, Botschaft (OpenScore)",
+      "bar": 23,
+      "notes": "Ab4 Ab4 F#4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1055,
+   "composers": 97
+  }
+ }
+]

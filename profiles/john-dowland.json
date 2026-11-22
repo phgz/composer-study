@@ -1,0 +1,750 @@
+[
+ {
+  "composer": "John Dowland",
+  "kind": "hymn",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 8,
+  "values": {
+   "steps": 0.6272402785631905,
+   "repeats": 0.14960574635508353,
+   "leaps": 0.11760209551581624,
+   "move": 2.4261137795653207,
+   "rising": 0.4297401847600697,
+   "leap answered": 0.6103084415584416,
+   "range": 8.65625,
+   "register": 70.625,
+   "even": 0.3756245958082687,
+   "long-short": 0.11728856786339309,
+   "rhythm variety": 2.465541589587702,
+   "surprise, pitch": 2.9068523101399433,
+   "surprise, rhythm": 1.978700121271308,
+   "density": 3.1500580572210937,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4297401847600697,
+    "others": 0.48044940561858046,
+    "auc": 0.19033224401263824
+   },
+   {
+    "measure": "register",
+    "value": 70.625,
+    "others": 67.85375817063183,
+    "auc": 0.7760280500690171
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.9068523101399433,
+    "others": 2.391187651719207,
+    "auc": 0.8346949891188264
+   },
+   {
+    "measure": "density",
+    "value": 3.1500580572210937,
+    "others": 1.4656859744869626,
+    "auc": 0.9561955337737414
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 63,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "lute song",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.5664696854425094,
+   "repeats": 0.1840597696282063,
+   "leaps": 0.14392351874615422,
+   "move": 2.7463646647470177,
+   "rising": 0.4714555052790347,
+   "leap answered": 0.5033333333333333,
+   "range": 9.599999999999998,
+   "register": 69.2,
+   "even": 0.26401555418239286,
+   "long-short": 0.22799805589191746,
+   "rhythm variety": 3.119595973845426,
+   "surprise, pitch": 3.04969332798706,
+   "surprise, rhythm": 2.556572985129754,
+   "density": 1.8859653756165422,
+   "lines": 3.8
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "lute song",
+  "forces": "voice and lute",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 31,
+  "values": {
+   "steps": 0.5824707585976993,
+   "repeats": 0.17704839566096287,
+   "leaps": 0.11466960946459763,
+   "move": 2.467560416724506,
+   "rising": 0.4560729125022778,
+   "leap answered": 0.3967016982321,
+   "range": 9.596774193548388,
+   "register": 65.91935483870968,
+   "even": 0.3234083498472275,
+   "long-short": 0.2096974347822298,
+   "rhythm variety": 2.816284015188881,
+   "surprise, pitch": 2.845482803640047,
+   "surprise, rhythm": 2.132210186028387,
+   "density": 2.1269282540811543,
+   "lines": 3.838709677419355
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "lute song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.6010988216583533,
+   "repeats": 0.16800404829032023,
+   "leaps": 0.08479722402949469,
+   "move": 2.368083513931776,
+   "rising": 0.47980409954846764,
+   "leap answered": 0.31547619047619047,
+   "range": 8.433333333333328,
+   "register": 70.66666666666667,
+   "even": 0.3504770423375074,
+   "long-short": 0.1742695289206917,
+   "rhythm variety": 2.8031746540484757,
+   "surprise, pitch": 2.7034120916687923,
+   "surprise, rhythm": 2.2758465587646586,
+   "density": 2.240714920434483,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 1834,
+   "composers": 39
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "madrigal",
+  "forces": "voice and lute",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 9,
+  "values": {
+   "steps": 0.5657433411463917,
+   "repeats": 0.22920044575688825,
+   "leaps": 0.09561031209622113,
+   "move": 2.4140143673095387,
+   "rising": 0.4670940974681922,
+   "leap answered": 0.47257495590828924,
+   "range": 9.033333333333333,
+   "register": 70.44444444444444,
+   "even": 0.3998707628635669,
+   "long-short": 0.21301766667577693,
+   "rhythm variety": 2.5980841882923325,
+   "surprise, pitch": 2.704302016150734,
+   "surprise, rhythm": 2.13134856131449,
+   "density": 2.062001299996322,
+   "lines": 3.888888888888889
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.21301766667577693,
+    "others": 0.12152952758893609,
+    "auc": 0.8613446569115225
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 288,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "madrigal",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 18,
+  "values": {
+   "steps": 0.5836739480551945,
+   "repeats": 0.1857622466298648,
+   "leaps": 0.11062568358168855,
+   "move": 2.4201216413937585,
+   "rising": 0.4412890337479611,
+   "leap answered": 0.5882353757353758,
+   "range": 9.077777777777776,
+   "register": 70.77777777777777,
+   "even": 0.3197481116031251,
+   "long-short": 0.20444433677724486,
+   "rhythm variety": 2.8252323061237137,
+   "surprise, pitch": 2.89097321991012,
+   "surprise, rhythm": 2.1971778222329466,
+   "density": 2.265142623730574,
+   "lines": 3.6666666666666665
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.5882353757353758,
+    "others": 0.3524674789753104,
+    "auc": 0.7996789359018461
+   },
+   {
+    "measure": "range",
+    "value": 9.077777777777776,
+    "others": 10.930132438940486,
+    "auc": 0.2217396705270802
+   },
+   {
+    "measure": "even",
+    "value": 0.3197481116031251,
+    "others": 0.3963525088629823,
+    "auc": 0.22929136566907463
+   },
+   {
+    "measure": "long-short",
+    "value": 0.20444433677724486,
+    "others": 0.11508125770703156,
+    "auc": 0.815414898903031
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.8,
+    "works": 5,
+    "per_1000": 6.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/035_Time_s_eldest_son_Dowland.mxl",
+      "label": "Time's eldest son, Old Age, the heir of Ease (CPDL)",
+      "bar": 13,
+      "notes": "B4 B4 A4 A4"
+     },
+     {
+      "work": "cpdl:John_Dowland/053_Flow_not_so_fast_Dowland.mxl",
+      "label": "Flow not so fast ye fountains (CPDL)",
+      "bar": 5,
+      "notes": "F5 F5 Eb5 Eb5"
+     },
+     {
+      "work": "cpdl:John_Dowland/100_Humour_say_what_Dowland.mxl",
+      "label": "Humor say what makst thou heere (CPDL)",
+      "bar": 30,
+      "notes": "E5 E5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 5.7,
+    "works": 6,
+    "per_1000": 6.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/034_Then_sit_thee_down_Dowland.mxl",
+      "label": "Then sit thee down and say thy 'Nunc dimittis' (CPDL)",
+      "bar": 11,
+      "notes": "C5 B4 B4 A4"
+     },
+     {
+      "work": "cpdl:John_Dowland/077_A_shepherd_in_a_shade_Dowland.mxl",
+      "label": "A shepherd in a shade his plaining made (CPDL)",
+      "bar": 34,
+      "notes": "Bb4 A4 A4 G4"
+     },
+     {
+      "work": "cpdl:John_Dowland/037_All_ye_whom_love_or_fortune.mxl",
+      "label": "All ye, whom love or fortune hath betrayed (CPDL)",
+      "bar": 23,
+      "notes": "C5 B4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 4.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/028_Die_not_before_thy_day.mxl",
+      "label": "Die not before thy day (CPDL)",
+      "bar": 6,
+      "notes": "Bb4 A4 A4 G4"
+     },
+     {
+      "work": "cpdl:John_Dowland/056_I_must_complain.mxl",
+      "label": "I must complain, yet do enjoy (CPDL)",
+      "bar": 31,
+      "notes": "Bb4 A4 A4 G4"
+     },
+     {
+      "work": "cpdl:John_Dowland/057_If_flood_of_tears.mxl",
+      "label": "If fluds of teares could clense my follies past (CPDL)",
+      "bar": 18,
+      "notes": "C5 B4 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 197,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "partsong",
+  "forces": "voice and lute",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 7,
+  "values": {
+   "steps": 0.6041143077382424,
+   "repeats": 0.18982570292771136,
+   "leaps": 0.09884433348552162,
+   "move": 2.311667617953254,
+   "rising": 0.4692659067610251,
+   "leap answered": 0.46946778711484594,
+   "range": 8.385714285714284,
+   "register": 68.28571428571429,
+   "even": 0.40660852905154715,
+   "long-short": 0.1641745911233682,
+   "rhythm variety": 2.518104676909386,
+   "surprise, pitch": 2.5680721590993634,
+   "surprise, rhythm": 1.9792325778561026,
+   "density": 2.84913213894628,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.18982570292771136,
+    "others": 0.10232407551538845,
+    "auc": 0.9134808853118713
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 71,
+   "composers": 2
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.5664696854425094,
+   "repeats": 0.1840597696282063,
+   "leaps": 0.14392351874615422,
+   "move": 2.7463646647470177,
+   "rising": 0.4714555052790347,
+   "leap answered": 0.5033333333333333,
+   "range": 9.599999999999998,
+   "register": 69.2,
+   "even": 0.26401555418239286,
+   "long-short": 0.22799805589191746,
+   "rhythm variety": 3.119595973845426,
+   "surprise, pitch": 3.04969332798706,
+   "surprise, rhythm": 2.556572985129754,
+   "density": 1.8859653756165422,
+   "lines": 3.8
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.22799805589191746,
+    "others": 0.1462422775076496,
+    "auc": 0.8128641964560327
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.119595973845426,
+    "others": 2.6711474380332096,
+    "auc": 0.8557277312615327
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.04969332798706,
+    "others": 2.5172284650216774,
+    "auc": 0.8885581711847685
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.556572985129754,
+    "others": 2.0480979520493507,
+    "auc": 0.9434401083384175
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 284,
+   "composers": 22
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "song",
+  "forces": "voice and lute",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 31,
+  "values": {
+   "steps": 0.5824707585976993,
+   "repeats": 0.17704839566096287,
+   "leaps": 0.11466960946459763,
+   "move": 2.467560416724506,
+   "rising": 0.4560729125022778,
+   "leap answered": 0.3967016982321,
+   "range": 9.596774193548388,
+   "register": 65.91935483870968,
+   "even": 0.3234083498472275,
+   "long-short": 0.2096974347822298,
+   "rhythm variety": 2.816284015188881,
+   "surprise, pitch": 2.845482803640047,
+   "surprise, rhythm": 2.132210186028387,
+   "density": 2.1269282540811543,
+   "lines": 3.838709677419355
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.2096974347822298,
+    "others": 0.1462422775076496,
+    "auc": 0.8155739184877631
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.845482803640047,
+    "others": 2.5172284650216774,
+    "auc": 0.7527861487605703
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 5.0,
+    "works": 5,
+    "per_1000": 3.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/069_CPDLNow__O_Now.mxl",
+      "label": "Now, O now, I needs must part (CPDL)",
+      "bar": 13,
+      "notes": "D5 C5 C5 B4"
+     },
+     {
+      "work": "cpdl:John_Dowland/058_If_my_complaints_Dowland.mxl",
+      "label": "If my complaints could passions move (CPDL)",
+      "bar": 5,
+      "notes": "C5 Bb4 Bb4 A4"
+     },
+     {
+      "work": "cpdl:John_Dowland/059_DOWL-IFT.mxl",
+      "label": "If that a sinner's sighs be Angels' food (CPDL)",
+      "bar": 23,
+      "notes": "A3 G3 G3 F#3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 2.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/058_If_my_complaints_Dowland.mxl",
+      "label": "If my complaints could passions move (CPDL)",
+      "bar": 6,
+      "notes": "Bb4 Bb4 A4 G4"
+     },
+     {
+      "work": "cpdl:John_Dowland/069_CPDLNow__O_Now.mxl",
+      "label": "Now, O now, I needs must part (CPDL)",
+      "bar": 13,
+      "notes": "C5 C5 B4 A4"
+     },
+     {
+      "work": "cpdl:John_Dowland/062_DOWL-LO1.mxl",
+      "label": "Love stood amazed at sweet beauty's pain (CPDL)",
+      "bar": 9,
+      "notes": "F4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 5,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/071_DOWL-OHW.mxl",
+      "label": "Oh what hath overwrought my all amazed thought (CPDL)",
+      "bar": 8,
+      "notes": "D4 E4 F4 D4"
+     },
+     {
+      "work": "cpdl:John_Dowland/078_Sleep__wayward_thoughts_Dowland.mxl",
+      "label": "Sleep wayward thoughts (CPDL)",
+      "bar": 25,
+      "notes": "B4 C#5 D5 B4"
+     },
+     {
+      "work": "cpdl:John_Dowland/045_Dowland-Come_Heavy_Sleep.mxl",
+      "label": "Come heavy sleep (CPDL)",
+      "bar": 18,
+      "notes": "B4 C#5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/078_Sleep__wayward_thoughts_Dowland.mxl",
+      "label": "Sleep wayward thoughts (CPDL)",
+      "bar": 1,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "cpdl:John_Dowland/033_Br-681.mxl",
+      "label": "Sorrow, sorrow, stay, lend true repentant tears (CPDL)",
+      "bar": 26,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "cpdl:John_Dowland/040_Burst_forth_my_tears_Dowland.mxl",
+      "label": "Burst forth my tears (CPDL)",
+      "bar": 10,
+      "notes": "D4 D4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 2.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/044_Come_away__sweet_love_Dowland.mxl",
+      "label": "Come away, come sweet love (CPDL)",
+      "bar": 15,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "cpdl:John_Dowland/058_If_my_complaints_Dowland.mxl",
+      "label": "If my complaints could passions move (CPDL)",
+      "bar": 33,
+      "notes": "F5 Eb5 D5 Eb5"
+     },
+     {
+      "work": "cpdl:John_Dowland/122_John_Dowland-Thou_mighty_God_a_4.mxl",
+      "label": "Thou mighty God - When David's life by Saul - When the poor Cripple (CPDL)",
+      "bar": 29,
+      "notes": "G4 F4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 8,
+    "per_1000": 3.9,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "cpdl:John_Dowland/058_If_my_complaints_Dowland.mxl",
+      "label": "If my complaints could passions move (CPDL)",
+      "bar": 7,
+      "notes": "G4 G4 F#4 G4"
+     },
+     {
+      "work": "cpdl:John_Dowland/063_DOWL-LOV.mxl",
+      "label": "Love those beams that breed (CPDL)",
+      "bar": 7,
+      "notes": "D4 D4 C#4 D4"
+     },
+     {
+      "work": "cpdl:John_Dowland/066_DOWL-MYH.mxl",
+      "label": "My heart and tongue were twins (CPDL)",
+      "bar": 26,
+      "notes": "D4 D4 C#4 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 284,
+   "composers": 22
+  }
+ },
+ {
+  "composer": "John Dowland",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.575824116243765,
+   "repeats": 0.17957446478916875,
+   "leaps": 0.09931220373640673,
+   "move": 2.4427293021154988,
+   "rising": 0.4659136807219568,
+   "leap answered": 0.23660714285714285,
+   "range": 8.774999999999995,
+   "register": 70.75,
+   "even": 0.3421260744360574,
+   "long-short": 0.24045824425149437,
+   "rhythm variety": 2.747799792939367,
+   "surprise, pitch": 2.763784166930051,
+   "surprise, rhythm": 2.240992846737155,
+   "density": 2.115632344172016,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 278,
+   "composers": 19
+  }
+ }
+]

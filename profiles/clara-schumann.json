@@ -1,0 +1,308 @@
+[
+ {
+  "composer": "Clara Schumann",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 17,
+  "values": {
+   "steps": 0.42289244710478696,
+   "repeats": 0.3001552414464035,
+   "leaps": 0.16099895502772532,
+   "move": 2.9542619562342542,
+   "rising": 0.47075596528379776,
+   "leap answered": 0.3214743263690157,
+   "range": 11.052941176470586,
+   "register": 70.73529411764706,
+   "even": 0.3339533639172496,
+   "long-short": 0.1513288960601638,
+   "rhythm variety": 2.7292942163247105,
+   "surprise, pitch": 2.75130071374222,
+   "surprise, rhythm": 1.8363054560146947,
+   "density": 6.338164678661223,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.9,
+    "works": 2,
+    "per_1000": 3.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/11_Warum_willst_du_And’re_fragen/lc5197231.mxl",
+      "label": "Lieder, Op.12, Warum willst du And’re fragen (OpenScore)",
+      "bar": 9,
+      "notes": "Bb4 C5 C5 C#5"
+     },
+     {
+      "work": "dcml/c_schumann_lieder:notes/op13no6 Die stille Lotosblume.notes.tsv",
+      "label": "6 Lieder mit Begleitung des Pianoforte, op.13, movement 6: Die stille Lotosblume (DCML)",
+      "bar": 3,
+      "notes": "Bb4 C5 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.0,
+    "works": 3,
+    "per_1000": 3.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Schumann,_Clara/_/Lorelei/lc4919673.mxl",
+      "label": "Lorelei (OpenScore)",
+      "bar": 11,
+      "notes": "A4 A4 Bb4 Bb4"
+     },
+     {
+      "work": "dcml/c_schumann_lieder:notes/op23no4 Auf einem grunen Hugel.notes.tsv",
+      "label": "6 Lieder aus Jucunde, Op. 23, movement 4: Auf einem grünen Hügel (DCML)",
+      "bar": 4,
+      "notes": "B4 B4 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/11_Warum_willst_du_And’re_fragen/lc5197231.mxl",
+      "label": "Lieder, Op.12, Warum willst du And’re fragen (OpenScore)",
+      "bar": 11,
+      "notes": "C#5 C#5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 3.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/11_Warum_willst_du_And’re_fragen/lc5197231.mxl",
+      "label": "Lieder, Op.12, Warum willst du And’re fragen (OpenScore)",
+      "bar": 5,
+      "notes": "C#5 C#5 C#5 C5"
+     },
+     {
+      "work": "openscore-lieder:Schumann,_Clara/_/Die_gute_Nacht/lc5000388.mxl",
+      "label": "Die gute Nacht (OpenScore)",
+      "bar": 7,
+      "notes": "G4 G4 G4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/04_Liebst_du_um_Schönheit/lc5000397.mxl",
+      "label": "Lieder, Op.12, Liebst du um Schönheit (OpenScore)",
+      "bar": 31,
+      "notes": "C#5 C#5 C#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 3.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/02_Er_ist_gekommen_in_Sturm_und_Regen/lc5187781.mxl",
+      "label": "Lieder, Op.12, Er ist gekommen in Sturm und Regen (OpenScore)",
+      "bar": 29,
+      "notes": "C#5 C#5 C5 C5"
+     },
+     {
+      "work": "dcml/c_schumann_lieder:notes/op23no1 Was weinst du Blumlein.notes.tsv",
+      "label": "6 Lieder aus Jucunde, Op. 23, movement 1: Was weinst du, Blümlein? (DCML)",
+      "bar": 13,
+      "notes": "E5 E5 Eb5 Eb5"
+     },
+     {
+      "work": "dcml/c_schumann_lieder:notes/op23no6 O Lust o Lust.notes.tsv",
+      "label": "6 Lieder aus Jucunde, Op. 23, movement 6: O Lust, o Lust (DCML)",
+      "bar": 12,
+      "notes": "Bb4 Bb4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 3.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/02_Er_ist_gekommen_in_Sturm_und_Regen/lc5187781.mxl",
+      "label": "Lieder, Op.12, Er ist gekommen in Sturm und Regen (OpenScore)",
+      "bar": 14,
+      "notes": "Bb4 C5 Eb5 C#5"
+     },
+     {
+      "work": "dcml/c_schumann_lieder:notes/op13no4 Der Mond kommt still gegangen.notes.tsv",
+      "label": "6 Lieder mit Begleitung des Pianoforte, op.13, movement 4: Der Mond kommt still gegangen (DCML)",
+      "bar": 6,
+      "notes": "Bb4 C5 Eb5 C#5"
+     },
+     {
+      "work": "dcml/c_schumann_lieder:notes/op13no5 Ich hab in deinem Auge.notes.tsv",
+      "label": "6 Lieder mit Begleitung des Pianoforte, op.13, movement 5: Ich hab' in Deinem Auge (DCML)",
+      "bar": 23,
+      "notes": "C5 D5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 3.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/02_Er_ist_gekommen_in_Sturm_und_Regen/lc5187781.mxl",
+      "label": "Lieder, Op.12, Er ist gekommen in Sturm und Regen (OpenScore)",
+      "bar": 6,
+      "notes": "C5 C#5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Schumann,_Clara/_/Lorelei/lc4919673.mxl",
+      "label": "Lorelei (OpenScore)",
+      "bar": 3,
+      "notes": "C5 C#5 C#5 C#5"
+     },
+     {
+      "work": "dcml/c_schumann_lieder:notes/op13no2 Sie liebten sich beide.notes.tsv",
+      "label": "6 Lieder mit Begleitung des Pianoforte, op.13, movement 2: Sie liebten sich beide (DCML)",
+      "bar": 10,
+      "notes": "D4 Eb4 Eb4 Eb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1071,
+   "composers": 97
+  },
+  "harmony": {
+   "works": 14,
+   "by": {
+    "When in Rome": 2,
+    "DCML": 12
+   },
+   "values": {
+    "chords a bar": 2.562430519780507,
+    "tonic and dominant": 0.5068202457436396,
+    "sevenths": 0.413172267510698,
+    "diminished sevenths": 0.09523627814995685,
+    "applied chords": 0.22378787679498466,
+    "augmented sixths": 0.0011844085238580653,
+    "Neapolitan": 0.0007680491551459294,
+    "mixture": 0.020392439327046038,
+    "inversions": 0.4711521725495991,
+    "keys a 10 bars": 0.21217834960070986,
+    "away from home": 0.07689454591706059,
+    "cadences a 10 bars": 1.3049788177092039,
+    "perfect cadences": 0.4076388888888889,
+    "half cadences": 0.43333333333333335,
+    "deceptive or evaded": 0.027777777777777776,
+    "changes": 0.15500803832686455,
+    "non-chord tones": 0.13728851021568436,
+    "struck dissonance": 0.5647208746289014,
+    "resolved by step": 0.666974060870382,
+    "suspensions": 0.005765384404624911
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 2.562430519780507,
+     "others": 1.9232109765088594,
+     "auc": 0.7561376616430768
+    },
+    {
+     "measure": "inversions",
+     "value": 0.4711521725495991,
+     "others": 0.34129007832113045,
+     "auc": 0.7617106469543292
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.21217834960070986,
+     "others": 0.575098190068798,
+     "auc": 0.1978009259259259
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.5647208746289014,
+     "others": 0.32463276032654215,
+     "auc": 0.8127580658100256
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 137,
+    "composers": 18,
+    "progressions_by": "DCML",
+    "progressions_works": 41
+   }
+  }
+ }
+]

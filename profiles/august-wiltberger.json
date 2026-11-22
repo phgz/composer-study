@@ -1,0 +1,59 @@
+[
+ {
+  "composer": "August Wiltberger",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5814733805565547,
+   "repeats": 0.26411455379652804,
+   "leaps": 0.053843870110625594,
+   "move": 2.093804640422399,
+   "rising": 0.5208298491171082,
+   "leap answered": 0.43516483516483523,
+   "range": 9.700000000000001,
+   "register": 66.0,
+   "even": 0.388368833330205,
+   "long-short": 0.10969081091903324,
+   "rhythm variety": 2.4324311644432877,
+   "surprise, pitch": 2.8707087652761083,
+   "surprise, rhythm": 1.9247106630385045,
+   "density": 2.683406088162353,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5814733805565547,
+    "others": 0.46674690047581213,
+    "auc": 0.8671313830470154
+   },
+   {
+    "measure": "leaps",
+    "value": 0.053843870110625594,
+    "others": 0.14453235007028675,
+    "auc": 0.055428193078849684
+   },
+   {
+    "measure": "move",
+    "value": 2.093804640422399,
+    "others": 2.983992827415799,
+    "auc": 0.030557251801180567
+   },
+   {
+    "measure": "rising",
+    "value": 0.5208298491171082,
+    "others": 0.46223635006979386,
+    "auc": 0.8462035420921911
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 548,
+   "composers": 37
+  }
+ }
+]

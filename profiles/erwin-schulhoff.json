@@ -1,0 +1,238 @@
+[
+ {
+  "composer": "Erwin Schulhoff",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5963190071049354,
+   "repeats": 0.09698212336341466,
+   "leaps": 0.07014682018329803,
+   "move": 2.513663499619173,
+   "rising": 0.47511336222524236,
+   "leap answered": 0.2550782550782551,
+   "range": 20.412499999999994,
+   "register": 68.0,
+   "even": 0.8410928878692587,
+   "long-short": 0.006902914662472106,
+   "rhythm variety": 0.9776888696479566,
+   "surprise, pitch": 1.59150465716695,
+   "surprise, rhythm": 0.5688270901061467,
+   "density": 9.991249308509554,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Erwin Schulhoff",
+  "kind": "suite",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 6,
+  "values": {
+   "steps": 0.4649381405391319,
+   "repeats": 0.052560684186085706,
+   "leaps": 0.23155452127091172,
+   "move": 3.473142719892879,
+   "rising": 0.4729930318326006,
+   "leap answered": 0.29965799897081163,
+   "range": 20.61666666666666,
+   "register": 73.66666666666667,
+   "even": 0.45109534625803555,
+   "long-short": 0.13554875387410478,
+   "rhythm variety": 2.570386883397789,
+   "surprise, pitch": 2.3956990274453767,
+   "surprise, rhythm": 1.7220120107001817,
+   "density": 5.89655583734752,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.052560684186085706,
+    "others": 0.14338852207196856,
+    "auc": 0.2474691359537803
+   },
+   {
+    "measure": "long-short",
+    "value": 0.13554875387410478,
+    "others": 0.07067064413027589,
+    "auc": 0.7985635634646001
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 6.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_4_tango.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 4: Tango (DCML)",
+      "bar": 6,
+      "notes": "F4 F#4 G4 Ab4"
+     },
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_6_fox-trot.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 6: Fox-trot (DCML)",
+      "bar": 20,
+      "notes": "B4 C5 C#5 D5"
+     },
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_3_waltz.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 3: Waltz (DCML)",
+      "bar": 3,
+      "notes": "A4 Bb4 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 4.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_3_waltz.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 3: Waltz (DCML)",
+      "bar": 21,
+      "notes": "F5 E5 Eb5 D5"
+     },
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_6_fox-trot.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 6: Fox-trot (DCML)",
+      "bar": 31,
+      "notes": "D6 C#6 C6 B5"
+     },
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_2_strait.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 2: Strait (DCML)",
+      "bar": 26,
+      "notes": "C4 B3 Bb3 A3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 245,
+   "composers": 18
+  },
+  "harmony": {
+   "works": 6,
+   "by": {
+    "DCML": 6
+   },
+   "values": {
+    "chords a bar": 1.7708118978346974,
+    "tonic and dominant": 0.21615909939788072,
+    "sevenths": 0.8927887031645448,
+    "diminished sevenths": 0.005248020319737039,
+    "applied chords": 0.6281919852076087,
+    "augmented sixths": 0.012454734423002864,
+    "Neapolitan": 0.007059614522635589,
+    "mixture": 0.032537554354535175,
+    "inversions": 0.20348183353474428,
+    "keys a 10 bars": 0.0,
+    "away from home": 0.0,
+    "cadences a 10 bars": 1.3203480889323942,
+    "perfect cadences": 0.11574074074074074,
+    "half cadences": 0.7533068783068783,
+    "deceptive or evaded": 0.05158730158730159,
+    "changes": 0.7788690852047008,
+    "non-chord tones": 0.5659231373580974,
+    "struck dissonance": 0.20297120283204104,
+    "resolved by step": 0.25259016732379636,
+    "suspensions": 0.008167402139755553
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.21615909939788072,
+     "others": 0.40605310632935987,
+     "auc": 0.1789321789657764
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.8927887031645448,
+     "others": 0.4466139633014082,
+     "auc": 0.9880952381026296
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.005248020319737039,
+     "others": 0.026673246339516295,
+     "auc": 0.24134199131914502
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.6281919852076087,
+     "others": 0.21376121801572734,
+     "auc": 0.9823232323067694
+    },
+    {
+     "measure": "inversions",
+     "value": 0.20348183353474428,
+     "others": 0.35189412192335284,
+     "auc": 0.22222222227026658
+    },
+    {
+     "measure": "half cadences",
+     "value": 0.7533068783068783,
+     "others": 0.27599263200980695,
+     "auc": 0.9097421203432438
+    },
+    {
+     "measure": "changes",
+     "value": 0.7788690852047008,
+     "others": 0.38198266080267934,
+     "auc": 0.9325396825396824
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.5659231373580974,
+     "others": 0.2980092527962527,
+     "auc": 0.9051226551155995
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 43,
+    "composers": 4,
+    "progressions_by": "DCML",
+    "progressions_works": 43
+   }
+  }
+ }
+]

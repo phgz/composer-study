@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Carlo Cecere",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5749473974096603,
+   "repeats": 0.1338994251887203,
+   "leaps": 0.15632183908045974,
+   "move": 3.3609949744827077,
+   "rising": 0.4443501744674236,
+   "leap answered": 0.19261224088810294,
+   "range": 16.066666666666645,
+   "register": 75.66666666666667,
+   "even": 0.7508044879806822,
+   "long-short": 0.08480242809662214,
+   "rhythm variety": 1.5647823194320047,
+   "surprise, pitch": 2.3901244462622793,
+   "surprise, rhythm": 1.1416066552009578,
+   "density": 10.685550228526068,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 84,
+   "composers": 6
+  }
+ }
+]

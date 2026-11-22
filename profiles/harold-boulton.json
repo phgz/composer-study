@@ -1,0 +1,221 @@
+[
+ {
+  "composer": "Harold Boulton",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.5045391262544233,
+   "repeats": 0.14110699040211352,
+   "leaps": 0.1835475756986845,
+   "move": 3.059659481889495,
+   "rising": 0.47771771679827624,
+   "leap answered": 0.31926191364440987,
+   "range": 11.704166666666666,
+   "register": 70.04166666666667,
+   "even": 0.363445756046888,
+   "long-short": 0.1675338968589752,
+   "rhythm variety": 2.821667259477358,
+   "surprise, pitch": 2.4481895386148476,
+   "surprise, rhythm": 1.7668586052458783,
+   "density": 5.596051322439223,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     3
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/07_A_Song_of_the_South/lc6407509.mxl",
+      "label": "New Songs, A Song of the South (OpenScore)",
+      "bar": 3,
+      "notes": "C#5 C5 Bb4 C#5"
+     },
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/06_Robin_Sly/lc6405594.mxl",
+      "label": "New Songs, Robin Sly (OpenScore)",
+      "bar": 22,
+      "notes": "C5 B4 A4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/03_Love’s_Journey/lc6404150.mxl",
+      "label": "New Songs, Love’s Journey (OpenScore)",
+      "bar": 17,
+      "notes": "Bb4 D5 Bb4 A4"
+     },
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/09_A_Pretty_Maid/lc6412767.mxl",
+      "label": "New Songs, A Pretty Maid (OpenScore)",
+      "bar": 23,
+      "notes": "D5 F#5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/01_Constancy/lc6403636.mxl",
+      "label": "New Songs, Constancy (OpenScore)",
+      "bar": 22,
+      "notes": "C#5 C#5 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/04_Truant_Wings/lc6404394.mxl",
+      "label": "New Songs, Truant Wings (OpenScore)",
+      "bar": 25,
+      "notes": "C5 C5 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 2.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/04_Truant_Wings/lc6404394.mxl",
+      "label": "New Songs, Truant Wings (OpenScore)",
+      "bar": 11,
+      "notes": "C#5 B4 Bb4 B4"
+     },
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/02_Cradle_Song/lc6403758.mxl",
+      "label": "New Songs, Cradle Song (OpenScore)",
+      "bar": 20,
+      "notes": "G4 F4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/11_To_Welcome_You/lc6414608.mxl",
+      "label": "New Songs, To Welcome You (OpenScore)",
+      "bar": 3,
+      "notes": "G4 Eb4 F4 G4"
+     },
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/09_A_Pretty_Maid/lc6412767.mxl",
+      "label": "New Songs, A Pretty Maid (OpenScore)",
+      "bar": 12,
+      "notes": "C#5 A4 B4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 5,
+    "per_1000": 3.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/02_Cradle_Song/lc6403758.mxl",
+      "label": "New Songs, Cradle Song (OpenScore)",
+      "bar": 21,
+      "notes": "G4 E4 D4 C4"
+     },
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/10_For_Ever_Mine/lc6416048.mxl",
+      "label": "New Songs, For Ever Mine (OpenScore)",
+      "bar": 31,
+      "notes": "Eb5 C5 Bb4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Boulton,_Harold/12_New_Songs/09_A_Pretty_Maid/lc6412767.mxl",
+      "label": "New Songs, A Pretty Maid (OpenScore)",
+      "bar": 66,
+      "notes": "Eb5 C5 Bb4 Ab4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1076,
+   "composers": 97
+  }
+ }
+]

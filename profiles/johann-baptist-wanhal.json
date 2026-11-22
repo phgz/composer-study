@@ -1,0 +1,246 @@
+[
+ {
+  "composer": "Johann Baptist Wanhal",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 8,
+  "values": {
+   "steps": 0.4309427624152363,
+   "repeats": 0.23349381688886678,
+   "leaps": 0.18843169217159061,
+   "move": 3.4077522522838564,
+   "rising": 0.4289215228976806,
+   "leap answered": 0.2620790092497254,
+   "range": 15.024999999999999,
+   "register": 73.875,
+   "even": 0.6249952400979616,
+   "long-short": 0.04996222064867997,
+   "rhythm variety": 1.9352772678135555,
+   "surprise, pitch": 2.448633488501955,
+   "surprise, rhythm": 1.4864159943042101,
+   "density": 6.963089320913683,
+   "lines": 6.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.18843169217159061,
+    "others": 0.10029015956160915,
+    "auc": 0.7884050437670077
+   },
+   {
+    "measure": "move",
+    "value": 3.4077522522838564,
+    "others": 2.641547960890801,
+    "auc": 0.801334464578908
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 7.3,
+    "works": 5,
+    "per_1000": 5.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-005_vanhal-johann-baptist--missa-ex-a-benedictus.krn",
+      "label": "Missa ex A, Benedictus, movement 5 (PL-SA 174/A V 4, kern)",
+      "bar": 47,
+      "notes": "E5 D5 C#5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-002_vanhal-johann-baptist--missa-ex-a-gloria.krn",
+      "label": "Missa ex A, Gloria, movement 2 (PL-SA 174/A V 4, kern)",
+      "bar": 26,
+      "notes": "E5 D5 C#5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-001_vanhal-johann-baptist--missa-ex-a-kyrie.krn",
+      "label": "Missa ex A, Kyrie, movement 1 (PL-SA 174/A V 4, kern)",
+      "bar": 3,
+      "notes": "E5 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     1,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-001_vanhal-johann-baptist--missa-ex-a-kyrie.krn",
+      "label": "Missa ex A, Kyrie, movement 1 (PL-SA 174/A V 4, kern)",
+      "bar": 33,
+      "notes": "C#5 C#5 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-004_vanhal-johann-baptist--missa-ex-a-sanctus.krn",
+      "label": "Missa ex A, Sanctus, movement 4 (PL-SA 174/A V 4, kern)",
+      "bar": 19,
+      "notes": "B4 B4 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     1,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 3.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-001_vanhal-johann-baptist--missa-ex-a-kyrie.krn",
+      "label": "Missa ex A, Kyrie, movement 1 (PL-SA 174/A V 4, kern)",
+      "bar": 33,
+      "notes": "C#5 C#5 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-004_vanhal-johann-baptist--missa-ex-a-sanctus.krn",
+      "label": "Missa ex A, Sanctus, movement 4 (PL-SA 174/A V 4, kern)",
+      "bar": 19,
+      "notes": "B4 B4 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-005_vanhal-johann-baptist--missa-ex-a-benedictus.krn",
+      "label": "Missa ex A, Benedictus, movement 5 (PL-SA 174/A V 4, kern)",
+      "bar": 47,
+      "notes": "C#5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-004_vanhal-johann-baptist--missa-ex-a-sanctus.krn",
+      "label": "Missa ex A, Sanctus, movement 4 (PL-SA 174/A V 4, kern)",
+      "bar": 2,
+      "notes": "C#5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-007_vanhal-johann-baptist--missa-ex-a-agnus-dei.krn",
+      "label": "Missa ex A, Agnus Dei, movement 7 (PL-SA 174/A V 4, kern)",
+      "bar": 26,
+      "notes": "C#5 E5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-002_vanhal-johann-baptist--missa-ex-a-gloria.krn",
+      "label": "Missa ex A, Gloria, movement 2 (PL-SA 174/A V 4, kern)",
+      "bar": 26,
+      "notes": "C#5 B4 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-001_vanhal-johann-baptist--missa-ex-a-kyrie.krn",
+      "label": "Missa ex A, Kyrie, movement 1 (PL-SA 174/A V 4, kern)",
+      "bar": 51,
+      "notes": "C#5 B4 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-003_vanhal-johann-baptist--missa-ex-a-credo.krn",
+      "label": "Missa ex A, Credo, movement 3 (PL-SA 174/A V 4, kern)",
+      "bar": 43,
+      "notes": "C#5 B4 C#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-008_vanhal-johann-baptist--missa-ex-a-dona-nobis.krn",
+      "label": "Missa ex A, Dona nobis, movement 8 (PL-SA 174/A V 4, kern)",
+      "bar": 6,
+      "notes": "F#5 D5 C#5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--174-a-v-4--001-007_vanhal-johann-baptist--missa-ex-a-agnus-dei.krn",
+      "label": "Missa ex A, Agnus Dei, movement 7 (PL-SA 174/A V 4, kern)",
+      "bar": 12,
+      "notes": "C#5 A4 Ab4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 639,
+   "composers": 34
+  }
+ }
+]

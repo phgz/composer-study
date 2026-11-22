@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Klakowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 9,
+  "values": {
+   "steps": 0.4276923675264917,
+   "repeats": 0.3194784982006534,
+   "leaps": 0.08645782686595987,
+   "move": 2.6135480602296153,
+   "rising": 0.46239562606867085,
+   "leap answered": 0.26798245614035093,
+   "range": 9.066666666666668,
+   "register": 76.77777777777777,
+   "even": 0.48710528798501557,
+   "long-short": 0.0786368529471671,
+   "rhythm variety": 2.5211674506075483,
+   "surprise, pitch": 2.621967239359703,
+   "surprise, rhythm": 2.01926525405756,
+   "density": 9.334659794594288,
+   "lines": 11.222222222222221
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.08645782686595987,
+    "others": 0.14451883395178133,
+    "auc": 0.22720946144089776
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 8.1,
+    "works": 4,
+    "per_1000": 7.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-007_klakowski--missa-in-dis-benedictus.krn",
+      "label": "Missa in Dis, Benedictus, movement 7 (PL-CZ II-121, kern)",
+      "bar": 12,
+      "notes": "D5 D5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-008_klakowski--missa-in-dis-agnus-dei.krn",
+      "label": "Missa in Dis, Agnus Dei, movement 8 (PL-CZ II-121, kern)",
+      "bar": 17,
+      "notes": "Bb5 Bb5 Ab5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-003_klakowski--missa-in-dis-credo.krn",
+      "label": "Missa in Dis, Credo, movement 3 (PL-CZ II-121, kern)",
+      "bar": 26,
+      "notes": "G5 G5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 7.1,
+    "works": 4,
+    "per_1000": 5.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-007_klakowski--missa-in-dis-benedictus.krn",
+      "label": "Missa in Dis, Benedictus, movement 7 (PL-CZ II-121, kern)",
+      "bar": 13,
+      "notes": "D5 C5 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-009_klakowski--missa-in-dis-dona-nobis.krn",
+      "label": "Missa in Dis, Dona nobis, movement 9: Allegretto (PL-CZ II-121, kern)",
+      "bar": 5,
+      "notes": "G5 F5 F5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-004_klakowski--missa-in-dis-et-incarnatus.krn",
+      "label": "Missa in Dis, Et incarnatus, movement 4 (PL-CZ II-121, kern)",
+      "bar": 18,
+      "notes": "G5 F5 F5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 4.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-007_klakowski--missa-in-dis-benedictus.krn",
+      "label": "Missa in Dis, Benedictus, movement 7 (PL-CZ II-121, kern)",
+      "bar": 74,
+      "notes": "D5 F5 D5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-002_klakowski--missa-in-dis-gloria.krn",
+      "label": "Missa in Dis, Gloria, movement 2 (PL-CZ II-121, kern)",
+      "bar": 87,
+      "notes": "D5 F5 D5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-001_klakowski--missa-in-dis-kyrie.krn",
+      "label": "Missa in Dis, Kyrie, movement 1 (PL-CZ II-121, kern)",
+      "bar": 9,
+      "notes": "G5 Bb5 G5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 6,
+    "per_1000": 7.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-004_klakowski--missa-in-dis-et-incarnatus.krn",
+      "label": "Missa in Dis, Et incarnatus, movement 4 (PL-CZ II-121, kern)",
+      "bar": 7,
+      "notes": "C5 C5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-009_klakowski--missa-in-dis-dona-nobis.krn",
+      "label": "Missa in Dis, Dona nobis, movement 9: Allegretto (PL-CZ II-121, kern)",
+      "bar": 53,
+      "notes": "C5 C5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-008_klakowski--missa-in-dis-agnus-dei.krn",
+      "label": "Missa in Dis, Agnus Dei, movement 8 (PL-CZ II-121, kern)",
+      "bar": 38,
+      "notes": "F5 F5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.3,
+    "works": 3,
+    "per_1000": 4.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-003_klakowski--missa-in-dis-credo.krn",
+      "label": "Missa in Dis, Credo, movement 3 (PL-CZ II-121, kern)",
+      "bar": 25,
+      "notes": "F5 F5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-007_klakowski--missa-in-dis-benedictus.krn",
+      "label": "Missa in Dis, Benedictus, movement 7 (PL-CZ II-121, kern)",
+      "bar": 13,
+      "notes": "C5 C5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-004_klakowski--missa-in-dis-et-incarnatus.krn",
+      "label": "Missa in Dis, Et incarnatus, movement 4 (PL-CZ II-121, kern)",
+      "bar": 18,
+      "notes": "F5 F5 G5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.2,
+    "works": 3,
+    "per_1000": 4.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-003_klakowski--missa-in-dis-credo.krn",
+      "label": "Missa in Dis, Credo, movement 3 (PL-CZ II-121, kern)",
+      "bar": 25,
+      "notes": "F5 G5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-007_klakowski--missa-in-dis-benedictus.krn",
+      "label": "Missa in Dis, Benedictus, movement 7 (PL-CZ II-121, kern)",
+      "bar": 13,
+      "notes": "C5 D5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-121--001-008_klakowski--missa-in-dis-agnus-dei.krn",
+      "label": "Missa in Dis, Agnus Dei, movement 8 (PL-CZ II-121, kern)",
+      "bar": 16,
+      "notes": "Ab5 Bb5 Bb5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 544,
+   "composers": 37
+  }
+ }
+]

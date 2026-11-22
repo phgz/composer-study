@@ -1,0 +1,264 @@
+[
+ {
+  "composer": "Antoine Brumel",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 6,
+  "values": {
+   "steps": 0.6039696126223485,
+   "repeats": 0.14854548472319856,
+   "leaps": 0.11804021935657955,
+   "move": 2.6237664358516035,
+   "rising": 0.45644700987499015,
+   "leap answered": 0.3173581249668206,
+   "range": 10.333333333333334,
+   "register": 68.83333333333333,
+   "even": 0.3214653401312072,
+   "long-short": 0.14456864416225237,
+   "rhythm variety": 3.026695234758541,
+   "surprise, pitch": 2.414114415642073,
+   "surprise, rhythm": 2.219976460379666,
+   "density": 2.095946052858928,
+   "lines": 10.666666666666666
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.11804021935657955,
+    "others": 0.09049685217850242,
+    "auc": 0.7528435616421926
+   },
+   {
+    "measure": "move",
+    "value": 2.6237664358516035,
+    "others": 2.3508074231277845,
+    "auc": 0.8177853759447798
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.3173581249668206,
+    "others": 0.4882191147659474,
+    "auc": 0.14582255376153008
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     7,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 6.7,
+    "works": 4,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Bru/Bru1008c-Missa_Et_ecce_terre_motus-Credo.krn",
+      "label": "Missa Et ecce terre motus, Credo: Patrem (kern)",
+      "bar": 272,
+      "notes": "G4 D5 C5 B4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008b-Missa_Et_ecce_terre_motus-Gloria.krn",
+      "label": "Missa Et ecce terre motus, Gloria: Et in terra (kern)",
+      "bar": 89,
+      "notes": "G4 D5 C5 B4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008d-Missa_Et_ecce_terre_motus-Sanctus.krn",
+      "label": "Missa Et ecce terre motus, Sanctus (kern)",
+      "bar": 80,
+      "notes": "G4 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -7
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 6.4,
+    "works": 4,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Bru/Bru1008d-Missa_Et_ecce_terre_motus-Sanctus.krn",
+      "label": "Missa Et ecce terre motus, Sanctus (kern)",
+      "bar": 28,
+      "notes": "B4 C5 D5 G4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008a-Missa_Et_ecce_terre_motus-Kyrie.krn",
+      "label": "Missa Et ecce terre motus, Kyrie: Kyrie I (kern)",
+      "bar": 13,
+      "notes": "B4 C5 D5 G4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008c-Missa_Et_ecce_terre_motus-Credo.krn",
+      "label": "Missa Et ecce terre motus, Credo: Patrem (kern)",
+      "bar": 56,
+      "notes": "E4 F4 G4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Bru/Bru1011c-Missa_Pro_defunctis-Dies_irae-Sequence.krn",
+      "label": "Missa Pro defunctis, Dies irae (kern)",
+      "bar": 53,
+      "notes": "D4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008b-Missa_Et_ecce_terre_motus-Gloria.krn",
+      "label": "Missa Et ecce terre motus, Gloria: Et in terra (kern)",
+      "bar": 206,
+      "notes": "A4 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     1,
+     -2
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 3.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Bru/Bru1008b-Missa_Et_ecce_terre_motus-Gloria.krn",
+      "label": "Missa Et ecce terre motus, Gloria: Et in terra (kern)",
+      "bar": 37,
+      "notes": "B4 A4 G4 G4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008d-Missa_Et_ecce_terre_motus-Sanctus.krn",
+      "label": "Missa Et ecce terre motus, Sanctus (kern)",
+      "bar": 20,
+      "notes": "B4 A4 G4 G4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008a-Missa_Et_ecce_terre_motus-Kyrie.krn",
+      "label": "Missa Et ecce terre motus, Kyrie: Kyrie I (kern)",
+      "bar": 44,
+      "notes": "B4 A4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Bru/Bru1011c-Missa_Pro_defunctis-Dies_irae-Sequence.krn",
+      "label": "Missa Pro defunctis, Dies irae (kern)",
+      "bar": 68,
+      "notes": "E4 C4 D4 E4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008e-Missa_Et_ecce_terre_motus-Agnus.krn",
+      "label": "Missa Et ecce terre motus, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 39,
+      "notes": "A4 F4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008a-Missa_Et_ecce_terre_motus-Kyrie.krn",
+      "label": "Missa Et ecce terre motus, Kyrie: Kyrie I (kern)",
+      "bar": 30,
+      "notes": "B4 G4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 5.0,
+    "works": 5,
+    "per_1000": 3.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/jrp:Bru/Bru1008d-Missa_Et_ecce_terre_motus-Sanctus.krn",
+      "label": "Missa Et ecce terre motus, Sanctus (kern)",
+      "bar": 84,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008b-Missa_Et_ecce_terre_motus-Gloria.krn",
+      "label": "Missa Et ecce terre motus, Gloria: Et in terra (kern)",
+      "bar": 19,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/jrp:Bru/Bru1008a-Missa_Et_ecce_terre_motus-Kyrie.krn",
+      "label": "Missa Et ecce terre motus, Kyrie: Kyrie I (kern)",
+      "bar": 22,
+      "notes": "D5 C5 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 590,
+   "composers": 27
+  }
+ }
+]

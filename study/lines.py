@@ -18,28 +18,33 @@ import collections, csv, io, json, os, re, tarfile
 
 LEFT_OUT = ('midi_copy', 'realized')
 
-Work = collections.namedtuple('Work', 'id composer collection kind label lines final heard_again flags')
+Work = collections.namedtuple('Work', 'id composer collection kind label lines final heard_again flags notes length names harmony',
+                              defaults=(0, 0.0, None, None))
+# lines: {part: [(onset, dur, midi, bar, beat), ...]} (bar and beat where the reading has them); notes: every note of the reading;
+# length: its end, in quarters; names: {part: its name}, where the reading names its parts (a detailed reading's parts.tsv);
+# harmony: the analysts' labels (harmony.tsv: a DCML corpus's, or When in Rome's), each a dict, with `by` the analyst, where the work has them
 
 
 def skyline(notes, eps=1e-3):
-    """[(onset, dur, midi), ...] -> its sounding skyline: the highest note at each onset, less a note that begins while a higher
-    note already kept still sounds"""
+    """[(onset, dur, midi, ...), ...] -> its sounding skyline: the highest note at each onset, less a note that begins while a
+    higher note already kept still sounds. What follows the pitch in a note (its bar and beat) is kept with it."""
     top = {}
-    for on, du, m in notes:
-        on = round(float(on), 6)
-        if on not in top or m > top[on][1]: top[on] = (float(du), int(m))
+    for n in notes:
+        on = round(float(n[0]), 6)
+        if on not in top or n[2] > top[on][2]: top[on] = (on, float(n[1]), int(n[2])) + tuple(n[3:])
     out = []
-    for on, (du, m) in sorted(top.items()):
-        if out and m < out[-1][2] and out[-1][0] + out[-1][1] > on + eps: continue
-        out.append((on, du, m))
+    for on in sorted(top):
+        n = top[on]
+        if out and n[2] < out[-1][2] and out[-1][0] + out[-1][1] > on + eps: continue
+        out.append(n)
     return out
 
 
 def _lines(rows):
     """notes.tsv rows -> {part: its sounding skyline}"""
-    by = collections.defaultdict(list)
-    for r in rows: by[r['part']].append((float(r['onset']), float(r['dur']), int(r['midi'])))
-    return {p: skyline(ns) for p, ns in by.items()}
+    by = collections.defaultdict(list); num = lambda v, kind: kind(float(v)) if v not in ('', None, 'None') else None
+    for r in rows: by[r['part']].append((float(r['onset']), float(r['dur']), int(r['midi']), num(r.get('bar'), int), num(r.get('beat'), float)))
+    return {p: skyline(ns) for p, ns in by.items()}, sum(len(ns) for ns in by.values()), max((n[0] + n[1] for ns in by.values() for n in ns), default=0.0)
 
 
 def read(ready_dir, composers=None, min_notes=8, keep=()):
@@ -59,11 +64,19 @@ def read(ready_dir, composers=None, min_notes=8, keep=()):
                 flags = {k: e[k] for k in LEFT_OUT if e.get(k)}
                 if any(k not in keep for k in flags): continue
                 rows = csv.DictReader(io.StringIO(t.extractfile(f'{slug}/{e["folder"]}/notes.tsv').read().decode('utf-8')), delimiter='\t')
-                lines = {p: l for p, l in _lines(rows).items() if len(l) >= min_notes}
+                lines, n_all, length = _lines(rows); lines = {p: l for p, l in lines.items() if len(l) >= min_notes}
+                names = harmony = None
+                if 'harmony.tsv' in e.get('files', []):
+                    harmony = [dict(r, onset=float(r['onset']), dur=float(r['dur']), bar=int(float(r['bar'])) if r['bar'] not in ('', 'None') else None)
+                               for r in csv.DictReader(io.StringIO(t.extractfile(f'{slug}/{e["folder"]}/harmony.tsv').read().decode('utf-8')), delimiter='\t')]
+                    by = e.get('harmony_by') or 'DCML'
+                    for h in harmony: h['by'] = by
+                if 'parts.tsv' in e.get('files', []):
+                    names = {r['part']: r['name'] for r in csv.DictReader(io.StringIO(t.extractfile(f'{slug}/{e["folder"]}/parts.tsv').read().decode('utf-8')), delimiter='\t')}
                 if not lines: continue
-                low = min(lines.values(), key=lambda l: sum(m for _, _, m in l) / len(l))
+                low = min(lines.values(), key=lambda l: sum(n[2] for n in l) / len(l))
                 out.append(Work(e['id'], composer, e['collection'], e['kind'], e['label'], lines, low[-1][2] % 12,
-                                [tuple(x) for x in e.get('heard_again', [])], dict(flags, repeats=e.get('repeats'))))
+                                [tuple(x) for x in e.get('heard_again', [])], dict(flags, repeats=e.get('repeats')), n_all, length, names, harmony))
     return out
 
 
@@ -91,6 +104,8 @@ def capped(base, caps):
             target = cap * rest / (1 - cap * len(over))                    # each capped group's total, the others' unchanged
             for i in w:
                 if group_of(i) in over: w[i] *= target / by[group_of(i)]
+            z = sum(w.values())                                            # the whole kept at its size: where two caps cannot both be
+            for i in w: w[i] *= tot / z                                    # met, the weights turn about it, and never wear away to 0
             moved = True
         if not moved: break
     return w

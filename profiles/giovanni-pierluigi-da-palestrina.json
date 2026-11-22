@@ -1,0 +1,1467 @@
+[
+ {
+  "composer": "Giovanni Pierluigi da Palestrina",
+  "kind": "hymn",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 36,
+  "values": {
+   "steps": 0.6988557809074402,
+   "repeats": 0.11972296655573841,
+   "leaps": 0.06286210262531888,
+   "move": 2.2511494189995487,
+   "rising": 0.4811009688164006,
+   "leap answered": 0.48421734248988435,
+   "range": 10.362499999999997,
+   "register": 69.20833333333333,
+   "even": 0.4043954861118864,
+   "long-short": 0.10338883403055071,
+   "rhythm variety": 2.7501622822909244,
+   "surprise, pitch": 2.369658506074552,
+   "surprise, rhythm": 2.2230020771310475,
+   "density": 1.155254063978127,
+   "lines": 5.083333333333333
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 19,
+    "per_1000": 4.7,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina O lux beata trinitas.mxl",
+      "label": "O lux beata trinitas (CPDL)",
+      "bar": 10,
+      "notes": "G4 G4 F4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Proles de coelo.mxl",
+      "label": "Proles de caelo (CPDL)",
+      "bar": 37,
+      "notes": "C5 C5 Bb4 C5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Deus tuorum militum I.mxl",
+      "label": "Deus tuorum militum (1589 I) (CPDL)",
+      "bar": 21,
+      "notes": "A4 A4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.5,
+    "works": 21,
+    "per_1000": 4.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Veni_Creator_Spiritus_with_Gregorian_notation.mxl",
+      "label": "Veni Creator Spiritus (CPDL)",
+      "bar": 9,
+      "notes": "C#5 B4 C#5 C#5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Conditor_alme_siderum.mxl",
+      "label": "Conditor alme siderum (impares) (CPDL)",
+      "bar": 17,
+      "notes": "G4 F4 G4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Quicumque Christum.mxl",
+      "label": "Quicumque Christum quaeritis (CPDL)",
+      "bar": 59,
+      "notes": "D4 C4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 3.2,
+    "works": 16,
+    "per_1000": 3.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina O lux beata trinitas.mxl",
+      "label": "O lux beata trinitas (CPDL)",
+      "bar": 9,
+      "notes": "A4 G4 G4 F4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Lauda_Sion_4vv.mxl",
+      "label": "Lauda Sion a 4 (CPDL)",
+      "bar": 17,
+      "notes": "A4 G4 G4 F4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Deus tuorum militum I.mxl",
+      "label": "Deus tuorum militum (1589 I) (CPDL)",
+      "bar": 21,
+      "notes": "B4 A4 A4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 35,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Giovanni Pierluigi da Palestrina",
+  "kind": "madrigal",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 101,
+  "values": {
+   "steps": 0.6117837197529966,
+   "repeats": 0.19273003916539594,
+   "leaps": 0.07900074476996923,
+   "move": 2.316867438028559,
+   "rising": 0.45229709655143635,
+   "leap answered": 0.40876497504051224,
+   "range": 9.792574257425741,
+   "register": 71.16831683168317,
+   "even": 0.41418442846351705,
+   "long-short": 0.10790685236336045,
+   "rhythm variety": 2.623249519634716,
+   "surprise, pitch": 2.6529623336897465,
+   "surprise, rhythm": 2.1501925652035885,
+   "density": 1.9255864793774298,
+   "lines": 4.376237623762377
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 2.316867438028559,
+    "others": 2.5664710748510644,
+    "auc": 0.22919522721502916
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.7,
+    "works": 30,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Chiare_fresch'_e_dolc'_acque_-_Full_Score.mxl",
+      "label": "Chiare, fresche et dolci acque (CPDL)",
+      "bar": 20,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina-Amor_ben_puoi.mxl",
+      "label": "Amor ben puoi (CPDL)",
+      "bar": 2,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/14-amor_fortuna-2p_combined---0-score.mxl",
+      "label": "Amor, Fortuna (CPDL)",
+      "bar": 21,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 34,
+    "per_1000": 2.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/ws-pal-vest.mxl",
+      "label": "Vestiva i colli e le campagne (CPDL)",
+      "bar": 20,
+      "notes": "G4 G4 F#4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina-Madrigali_libro_I-16.Gitene_liete_rime.mxl",
+      "label": "Gitene liete rime (CPDL)",
+      "bar": 29,
+      "notes": "C5 C5 B4 C5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Voi_mi_ponest'_in_foco_-_Full_Score.mxl",
+      "label": "Voi mi poneste in foco (CPDL)",
+      "bar": 24,
+      "notes": "C5 C5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.5,
+    "works": 28,
+    "per_1000": 2.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/ws-pal-vest.mxl",
+      "label": "Vestiva i colli e le campagne (CPDL)",
+      "bar": 19,
+      "notes": "A4 G4 G4 F#4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina-Madrigali_libro_I-16.Gitene_liete_rime.mxl",
+      "label": "Gitene liete rime (CPDL)",
+      "bar": 28,
+      "notes": "D5 C5 C5 B4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/15-palestrina--citta_di_dio_cui_fan_tempi_e_fortezze----0-score.mxl",
+      "label": "Città di Dio cui fan tempi e fortezze (CPDL)",
+      "bar": 12,
+      "notes": "D5 C5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 31,
+    "per_1000": 2.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Novella_Aurora_Palestrina.mxl",
+      "label": "Novella Aurora (CPDL)",
+      "bar": 35,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina-Donna_gentil.mxl",
+      "label": "Donna gentil (CPDL)",
+      "bar": 13,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina-Se_l_pensier.mxl",
+      "label": "Se'l pensier che mi strugge (CPDL)",
+      "bar": 19,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 50,
+    "per_1000": 4.3,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/03-palestrina--vergine_pura----0-score.mxl",
+      "label": "Vergine pura (CPDL)",
+      "bar": 3,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Canzon_di_Giannetto-01.Da_fuoco_così_bel.mxl",
+      "label": "Da fuoco così bel (Prima stanza) (CPDL)",
+      "bar": 11,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina-Canzon_di_Gianetto-13.Fuggir_devriassi.mxl",
+      "label": "Fuggir devriassi (Tertiadecima stanza) (CPDL)",
+      "bar": 10,
+      "notes": "A4 B4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.2,
+    "works": 39,
+    "per_1000": 3.1,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina-Così_la_fama_scriva.mxl",
+      "label": "Così la fama scriva (CPDL)",
+      "bar": 2,
+      "notes": "C5 D5 E5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Con_dolc'_altier'_et_amoroso_cenno_N.mxl",
+      "label": "Con dolce, altiero et amoroso cenno (CPDL)",
+      "bar": 30,
+      "notes": "C5 D5 E5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/02-palestrina--dunque_perfido_amante----0-score.mxl",
+      "label": "Dunque perfido Amante (CPDL)",
+      "bar": 11,
+      "notes": "C5 D5 E5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Giovanni Pierluigi da Palestrina",
+  "kind": "magnificat",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 34,
+  "values": {
+   "steps": 0.6404422560167321,
+   "repeats": 0.1783490920399668,
+   "leaps": 0.057577892598415295,
+   "move": 2.230452242587316,
+   "rising": 0.47844307973281147,
+   "leap answered": 0.4729735255023641,
+   "range": 8.601470588235294,
+   "register": 70.70588235294117,
+   "even": 0.4328270434718802,
+   "long-short": 0.08699048419474768,
+   "rhythm variety": 2.596315202799494,
+   "surprise, pitch": 2.0837808506137354,
+   "surprise, rhythm": 1.8590234294814136,
+   "density": 1.7889964515740693,
+   "lines": 5.235294117647059
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.057577892598415295,
+    "others": 0.10160059101009097,
+    "auc": 0.191661279896574
+   },
+   {
+    "measure": "even",
+    "value": 0.4328270434718802,
+    "others": 0.3448906581555151,
+    "auc": 0.764490411549235
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 20,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Giovanni Pierluigi da Palestrina",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 8,
+  "values": {
+   "steps": 0.7406640785029093,
+   "repeats": 0.11407825346587509,
+   "leaps": 0.05010555265055716,
+   "move": 2.1327579048385275,
+   "rising": 0.4817434984779396,
+   "leap answered": 0.6186382245205775,
+   "range": 8.7625,
+   "register": 67.75,
+   "even": 0.3804832755905179,
+   "long-short": 0.12862253354074107,
+   "rhythm variety": 2.8564836376936875,
+   "surprise, pitch": 2.1105694512039204,
+   "surprise, rhythm": 2.11534650795448,
+   "density": 1.2322667694692526,
+   "lines": 4.125
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7406640785029093,
+    "others": 0.6489861985624182,
+    "auc": 0.8629284560021901
+   },
+   {
+    "measure": "leaps",
+    "value": 0.05010555265055716,
+    "others": 0.09357188549832528,
+    "auc": 0.1262477734965282
+   },
+   {
+    "measure": "move",
+    "value": 2.1327579048385275,
+    "others": 2.378570254948881,
+    "auc": 0.15304869247125605
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.1105694512039204,
+    "others": 2.562094540166186,
+    "auc": 0.08057872188714792
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     1,
+     -2
+    ],
+    "z": 6.0,
+    "works": 5,
+    "per_1000": 4.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-001_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-kyrie.krn",
+      "label": "Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 15,
+      "notes": "C5 D5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-003_palestrina-giovanni-pierluigi-da--missa-inviolata-sanctus.krn",
+      "label": "Missa Inviolata, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 95,
+      "notes": "F4 G4 F4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
+      "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 13,
+      "notes": "C5 D5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 5,
+    "per_1000": 4.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-003_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-sanctus.krn",
+      "label": "Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 37,
+      "notes": "F4 G4 A4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-004_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-agnus-dei.krn",
+      "label": "Missa de Sanctis Apostolis, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 41,
+      "notes": "F4 G4 A4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
+      "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 24,
+      "notes": "Bb4 C5 D5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 7,
+    "per_1000": 10.9,
+    "others_per_1000": 2.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-004_palestrina-giovanni-pierluigi-da--missa-inviolata-agnus-dei.krn",
+      "label": "Missa Inviolata, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 27,
+      "notes": "D4 E4 F4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
+      "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 32,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-001_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-kyrie.krn",
+      "label": "Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 9,
+      "notes": "G4 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 5,
+    "per_1000": 5.4,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-003_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-sanctus.krn",
+      "label": "Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 1,
+      "notes": "A4 F4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
+      "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 2,
+      "notes": "A4 F4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-001_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-kyrie.krn",
+      "label": "Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 3,
+      "notes": "A4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-001_palestrina-giovanni-pierluigi-da--missa-inviolata-kyrie.krn",
+      "label": "Missa Inviolata, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 38,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-003_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-sanctus.krn",
+      "label": "Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 48,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-002_palestrina-giovanni-pierluigi-da--missa-inviolata-et-in-terra.krn",
+      "label": "Missa Inviolata, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 22,
+      "notes": "Bb4 C5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 6,
+    "per_1000": 7.3,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-003_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-sanctus.krn",
+      "label": "Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 2,
+      "notes": "F4 G4 A4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-002_palestrina-giovanni-pierluigi-da--missa-inviolata-et-in-terra.krn",
+      "label": "Missa Inviolata, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 53,
+      "notes": "F4 G4 A4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
+      "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 2,
+      "notes": "F4 G4 A4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 580,
+   "composers": 38
+  }
+ },
+ {
+  "composer": "Giovanni Pierluigi da Palestrina",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 107,
+  "values": {
+   "steps": 0.6742531517011039,
+   "repeats": 0.13825545817787627,
+   "leaps": 0.08035616062609816,
+   "move": 2.291827774414069,
+   "rising": 0.4715733432289544,
+   "leap answered": 0.4689486033524691,
+   "range": 9.909345794392523,
+   "register": 69.79439252336448,
+   "even": 0.3730145049376958,
+   "long-short": 0.12113295310981922,
+   "rhythm variety": 2.8671093035395057,
+   "surprise, pitch": 2.452164670279407,
+   "surprise, rhythm": 2.27936144544496,
+   "density": 1.6246909759507737,
+   "lines": 5.345794392523365
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.7,
+    "works": 81,
+    "per_1000": 2.8,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Pater noster.mxl",
+      "label": "Missa Pater noster (CPDL)",
+      "bar": 17,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Regina coeli a 4.mxl",
+      "label": "Missa Regina caeli a 4 (CPDL)",
+      "bar": 131,
+      "notes": "F4 G4 A4 Bb4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Missa_Tertia_Jesu_Nostra_Redemptio_edBE.mxl",
+      "label": "Missa Jesu nostra redemptio (CPDL)",
+      "bar": 105,
+      "notes": "G4 A4 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 7.6,
+    "works": 52,
+    "per_1000": 1.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Benedictus_Dominus_Deus_Israel.mxl",
+      "label": "Benedictus Dominus Deus Israel (CPDL)",
+      "bar": 11,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Petra sancta.mxl",
+      "label": "Missa Petra sancta (CPDL)",
+      "bar": 405,
+      "notes": "E5 F5 E5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Missa_Quam_pulchra_es.mxl",
+      "label": "Missa Quam pulchra es (CPDL)",
+      "bar": 164,
+      "notes": "E5 F5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 7.3,
+    "works": 51,
+    "per_1000": 1.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Missa_Assumpta_est_Maria.mxl",
+      "label": "Missa Assumpta est Maria (CPDL)",
+      "bar": 20,
+      "notes": "A4 G4 A4 A4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Ecce sacerdos.mxl",
+      "label": "Missa Ecce sacerdos magnus (CPDL)",
+      "bar": 59,
+      "notes": "G4 F4 G4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Quem dicunt homines.mxl",
+      "label": "Missa Quem dicunt homines (CPDL)",
+      "bar": 123,
+      "notes": "G4 F4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 40,
+    "per_1000": 0.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Petra sancta.mxl",
+      "label": "Missa Petra sancta (CPDL)",
+      "bar": 57,
+      "notes": "E5 D5 E5 F5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Quem dicunt homines.mxl",
+      "label": "Missa Quem dicunt homines (CPDL)",
+      "bar": 18,
+      "notes": "B4 A4 B4 C5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_-_Missa_Ad_coenam_Agni_providi.mxl",
+      "label": "Missa Ad coenam Agni providi (CPDL)",
+      "bar": 31,
+      "notes": "B4 A4 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 41,
+    "per_1000": 0.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_-_Missa_Ad_coenam_Agni_providi.mxl",
+      "label": "Missa Ad coenam Agni providi (CPDL)",
+      "bar": 44,
+      "notes": "A4 B4 A4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Descendit angelus Domini.mxl",
+      "label": "Missa Descendit angelus Domini (CPDL)",
+      "bar": 22,
+      "notes": "C5 D5 C5 Bb4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Missa_O_admirabile_commercium.mxl",
+      "label": "Missa O admirabile commercium (CPDL)",
+      "bar": 203,
+      "notes": "D5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 6.4,
+    "works": 30,
+    "per_1000": 0.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Ecce sacerdos.mxl",
+      "label": "Missa Ecce sacerdos magnus (CPDL)",
+      "bar": 55,
+      "notes": "A4 B4 B4 A4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Missa_Regina_coeli.mxl",
+      "label": "Missa Regina caeli a 5 (CPDL)",
+      "bar": 27,
+      "notes": "G4 A4 A4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Missa Pater noster.mxl",
+      "label": "Missa Pater noster (CPDL)",
+      "bar": 174,
+      "notes": "A4 B4 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 489,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Giovanni Pierluigi da Palestrina",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 231,
+  "values": {
+   "steps": 0.651095742436128,
+   "repeats": 0.15976863554432547,
+   "leaps": 0.08303295959104282,
+   "move": 2.307198871358943,
+   "rising": 0.4682418072432102,
+   "leap answered": 0.4340130993597489,
+   "range": 9.464718614718612,
+   "register": 70.94588744588745,
+   "even": 0.3548529277752452,
+   "long-short": 0.12306448267919474,
+   "rhythm variety": 2.882034305607993,
+   "surprise, pitch": 2.5646726353837823,
+   "surprise, rhythm": 2.293295526197885,
+   "density": 1.5898421877084303,
+   "lines": 5.683982683982684
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 70.94588744588745,
+    "others": 67.6292391009575,
+    "auc": 0.7956918632146258
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.293295526197885,
+    "others": 1.9428318103543367,
+    "auc": 0.7688710382550796
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 16.2,
+    "works": 150,
+    "per_1000": 5.8,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Ego_sum_panis_vivus_5vv.mxl",
+      "label": "Ego sum panis vivus 5vv (CPDL)",
+      "bar": 7,
+      "notes": "A4 Bb4 C5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_-_Haec_dies_4vv.mxl",
+      "label": "Haec dies a 4 (CPDL)",
+      "bar": 14,
+      "notes": "B4 C5 D5 E5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Ascendo_ad_Patrem_meum.mxl",
+      "label": "Ascendo ad Patrem (CPDL)",
+      "bar": 25,
+      "notes": "B4 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 14.8,
+    "works": 136,
+    "per_1000": 5.5,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Assumpta_est_Maria_6vv.mxl",
+      "label": "Assumpta est Maria a 6 (CPDL)",
+      "bar": 12,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Congrega_Domine.mxl",
+      "label": "Congrega Domine (CPDL)",
+      "bar": 4,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/22-palestrina--exsultate_deo_adjutori_nostro----0-score.mxl",
+      "label": "Exultate Deo (CPDL)",
+      "bar": 2,
+      "notes": "G4 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 12.7,
+    "works": 127,
+    "per_1000": 4.9,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_-_Beata_es_Virgo_Maria.mxl",
+      "label": "Beata es Virgo Maria (CPDL)",
+      "bar": 9,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Tribularer_si_nescirem.mxl",
+      "label": "Tribularer si nescirem (CPDL)",
+      "bar": 6,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Sanctificavit_Dominus.mxl",
+      "label": "Sanctificavit Dominus (CPDL)",
+      "bar": 5,
+      "notes": "A4 B4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 11.8,
+    "works": 123,
+    "per_1000": 4.0,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Congrega_Domine.mxl",
+      "label": "Congrega Domine (CPDL)",
+      "bar": 61,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Unus_ex_duobus.mxl",
+      "label": "Unus ex duobus (CPDL)",
+      "bar": 17,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Gaude_Barbara_5vv.mxl",
+      "label": "Gaude Barbara a 5 (CPDL)",
+      "bar": 7,
+      "notes": "F5 E5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 11.4,
+    "works": 122,
+    "per_1000": 4.4,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Assumpta_est_Maria_6vv.mxl",
+      "label": "Assumpta est Maria a 6 (CPDL)",
+      "bar": 22,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Beatus_Laurentius_4vv.mxl",
+      "label": "Beatus Laurentius 4vv (CPDL)",
+      "bar": 57,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Congrega_Domine.mxl",
+      "label": "Congrega Domine (CPDL)",
+      "bar": 40,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 11.4,
+    "works": 99,
+    "per_1000": 3.4,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Ego_sum_panis_vivus_5vv.mxl",
+      "label": "Ego sum panis vivus 5vv (CPDL)",
+      "bar": 7,
+      "notes": "Bb4 C5 D5 C5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_-_Haec_dies_4vv.mxl",
+      "label": "Haec dies a 4 (CPDL)",
+      "bar": 18,
+      "notes": "C5 D5 E5 D5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Sicut_lilium.mxl",
+      "label": "Sicut lilium inter spinas II (CPDL)",
+      "bar": 25,
+      "notes": "C5 D5 E5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 391,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Giovanni Pierluigi da Palestrina",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 9,
+  "values": {
+   "steps": 0.6242485139842954,
+   "repeats": 0.20445746770835813,
+   "leaps": 0.07897907466644696,
+   "move": 2.279594246109066,
+   "rising": 0.4877074774512139,
+   "leap answered": 0.4451604554865424,
+   "range": 9.505555555555555,
+   "register": 67.88888888888889,
+   "even": 0.36691787892343597,
+   "long-short": 0.1258644671582482,
+   "rhythm variety": 2.8253059912175895,
+   "surprise, pitch": 2.4277628140514746,
+   "surprise, rhythm": 2.2521395350507287,
+   "density": 1.7817382402578563,
+   "lines": 4.555555555555555
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4877074774512139,
+    "others": 0.44594691024740746,
+    "auc": 0.785468239254051
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 3.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Lauda_Sion_4vv.mxl",
+      "label": "Lauda Sion a 4 (CPDL)",
+      "bar": 17,
+      "notes": "A4 G4 G4 F4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Accepit_Jesus_calicem.mxl",
+      "label": "Accepit Iesus calicem a 6 (CPDL)",
+      "bar": 87,
+      "notes": "E5 D5 D5 C5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Pange lingua.mxl",
+      "label": "Pange lingua (1589) (CPDL)",
+      "bar": 9,
+      "notes": "A4 G4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/O_salutaris_hostia_Palestrina.mxl",
+      "label": "O salutaris hostia 1 (CPDL)",
+      "bar": 32,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Ego_sum_panis_vivus_5vv.mxl",
+      "label": "Ego sum panis vivus 5vv (CPDL)",
+      "bar": 128,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Panis_angelicus_Palestrina.mxl",
+      "label": "Panis angelicus (CPDL)",
+      "bar": 15,
+      "notes": "G4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/O_salutaris_hostia_Palestrina.mxl",
+      "label": "O salutaris hostia 1 (CPDL)",
+      "bar": 31,
+      "notes": "C5 C5 D5 C5"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Accepit_Jesus_calicem.mxl",
+      "label": "Accepit Iesus calicem a 6 (CPDL)",
+      "bar": 12,
+      "notes": "D5 D5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Ego_sum_panis_vivus_5vv.mxl",
+      "label": "Ego sum panis vivus 5vv (CPDL)",
+      "bar": 6,
+      "notes": "G4 A4 F4 G4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/EgoSumPanisOSATB.mxl",
+      "label": "Ego sum panis a 4 (CPDL)",
+      "bar": 4,
+      "notes": "B4 C#5 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Dominus_Jesus_in_qua_nocte.mxl",
+      "label": "Dominus Jesus in qua nocte (CPDL)",
+      "bar": 14,
+      "notes": "E4 D4 E4 E4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Pange lingua.mxl",
+      "label": "Pange lingua (1589) (CPDL)",
+      "bar": 38,
+      "notes": "E4 D4 E4 E4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Ego_sum_panis_vivus_5vv.mxl",
+      "label": "Ego sum panis vivus 5vv (CPDL)",
+      "bar": 32,
+      "notes": "A4 G4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina Pange lingua.mxl",
+      "label": "Pange lingua (1589) (CPDL)",
+      "bar": 18,
+      "notes": "A4 B4 G4 E4"
+     },
+     {
+      "work": "cpdl-2:Giovanni_Pierluigi_da_Palestrina/Palestrina_Lauda_Sion_4vv.mxl",
+      "label": "Lauda Sion a 4 (CPDL)",
+      "bar": 8,
+      "notes": "A4 B4 G4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 273,
+   "composers": 19
+  }
+ }
+]

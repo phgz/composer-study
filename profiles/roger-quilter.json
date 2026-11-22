@@ -1,0 +1,84 @@
+[
+ {
+  "composer": "Roger Quilter",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 11,
+  "values": {
+   "steps": 0.43066500459385365,
+   "repeats": 0.08301762931621895,
+   "leaps": 0.2580338102088147,
+   "move": 3.6819494486484032,
+   "rising": 0.44994387339448916,
+   "leap answered": 0.27845369642418,
+   "range": 15.54090909090909,
+   "register": 69.54545454545455,
+   "even": 0.4350216639967529,
+   "long-short": 0.1685265609713934,
+   "rhythm variety": 2.57341214696432,
+   "surprise, pitch": 2.7338112004041353,
+   "surprise, rhythm": 1.8875991458566916,
+   "density": 5.870617100077381,
+   "lines": 2.8181818181818183
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.08301762931621895,
+    "others": 0.20340665454188042,
+    "auc": 0.20450248756218906
+   },
+   {
+    "measure": "leaps",
+    "value": 0.2580338102088147,
+    "others": 0.17468002463527216,
+    "auc": 0.7840502035278155
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 5,
+    "per_1000": 7.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Quilter,_Roger/To_Julia,_Op.8/8_Cherry_Ripe/lc30908660.mxl",
+      "label": "To Julia, Op.8, Cherry Ripe (OpenScore)",
+      "bar": 5,
+      "notes": "B4 A4 F#4 E4"
+     },
+     {
+      "work": "openscore-lieder:Quilter,_Roger/To_Julia,_Op.8/6_Julia’s_Hair/lc30908438.mxl",
+      "label": "To Julia, Op.8, Julia’s Hair (OpenScore)",
+      "bar": 6,
+      "notes": "D5 C5 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Quilter,_Roger/To_Julia,_Op.8/1_Prelude/lc29093051.mxl",
+      "label": "To Julia, Op.8, Prelude (OpenScore)",
+      "bar": 1,
+      "notes": "Ab5 F#5 Eb5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 298,
+   "composers": 37
+  }
+ }
+]

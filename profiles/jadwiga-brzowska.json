@@ -1,0 +1,152 @@
+[
+ {
+  "composer": "Jadwiga Brzowska",
+  "kind": "contredanse",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.4221190561393243,
+   "repeats": 0.1183136863358462,
+   "leaps": 0.2511025785903082,
+   "move": 4.118143815299504,
+   "rising": 0.44155789994859357,
+   "leap answered": 0.2730642138264342,
+   "range": 22.310000000000002,
+   "register": 80.3,
+   "even": 0.5964188477922004,
+   "long-short": 0.036151463178453615,
+   "rhythm variety": 1.9634148460801093,
+   "surprise, pitch": 2.1529641225736893,
+   "surprise, rhythm": 1.2378059609362346,
+   "density": 7.4379576905533185,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "Jadwiga Brzowska",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.4221190561393243,
+   "repeats": 0.1183136863358462,
+   "leaps": 0.2511025785903082,
+   "move": 4.118143815299504,
+   "rising": 0.44155789994859357,
+   "leap answered": 0.2730642138264342,
+   "range": 22.310000000000002,
+   "register": 80.3,
+   "even": 0.5964188477922004,
+   "long-short": 0.036151463178453615,
+   "rhythm variety": 1.9634148460801093,
+   "surprise, pitch": 2.1529641225736893,
+   "surprise, rhythm": 1.2378059609362346,
+   "density": 7.4379576905533185,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 4.118143815299504,
+    "others": 3.319184076073767,
+    "auc": 0.7579825885607742
+   },
+   {
+    "measure": "rising",
+    "value": 0.44155789994859357,
+    "others": 0.489649127958241,
+    "auc": 0.2220051641428738
+   },
+   {
+    "measure": "long-short",
+    "value": 0.036151463178453615,
+    "others": 0.10497985091548706,
+    "auc": 0.21512819215700324
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 4,
+    "per_1000": 6.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-110-038-cim--001-002_brzowska-jadwiga--le-diane-contredanses-composees-pour-le-piano-fig-2.krn",
+      "label": "Le Diane: Contredanses composées pour le piano, Fig. 2, movement 2 (PL-Wn Mus.III.110.038 Cim., kern)",
+      "bar": 7,
+      "notes": "C5 Bb4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-110-038-cim--001-003_brzowska-jadwiga--le-diane-contredanses-composees-pour-le-piano-fig-3.krn",
+      "label": "Le Diane: Contredanses composées pour le piano, Fig. 3, movement 3: Pesante (PL-Wn Mus.III.110.038 Cim., kern)",
+      "bar": 31,
+      "notes": "Ab5 F#5 Eb5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-110-038-cim--001-004_brzowska-jadwiga--le-diane-contredanses-composees-pour-le-piano-fig-4.krn",
+      "label": "Le Diane: Contredanses composées pour le piano, Fig. 4, movement 4 (PL-Wn Mus.III.110.038 Cim., kern)",
+      "bar": 14,
+      "notes": "F6 Eb6 C6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 6.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-110-038-cim--001-004_brzowska-jadwiga--le-diane-contredanses-composees-pour-le-piano-fig-4.krn",
+      "label": "Le Diane: Contredanses composées pour le piano, Fig. 4, movement 4 (PL-Wn Mus.III.110.038 Cim., kern)",
+      "bar": 3,
+      "notes": "C6 Bb5 C6 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-110-038-cim--001-002_brzowska-jadwiga--le-diane-contredanses-composees-pour-le-piano-fig-2.krn",
+      "label": "Le Diane: Contredanses composées pour le piano, Fig. 2, movement 2 (PL-Wn Mus.III.110.038 Cim., kern)",
+      "bar": 24,
+      "notes": "G5 F5 G5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 430,
+   "composers": 57
+  }
+ }
+]

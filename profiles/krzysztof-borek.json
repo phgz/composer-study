@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Krzysztof Borek",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 9,
+  "values": {
+   "steps": 0.6315076809245889,
+   "repeats": 0.18942137131008846,
+   "leaps": 0.06655587666041958,
+   "move": 2.2490263987421932,
+   "rising": 0.479694067518025,
+   "leap answered": 0.4792592592592593,
+   "range": 7.555555555555555,
+   "register": 63.55555555555556,
+   "even": 0.3868077115276503,
+   "long-short": 0.1344991005203341,
+   "rhythm variety": 2.6756880916739427,
+   "surprise, pitch": 2.5748360910534354,
+   "surprise, rhythm": 2.1436267388966743,
+   "density": 1.2439284915296565,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 2.6756880916739427,
+    "others": 2.836949761106302,
+    "auc": 0.23967739758448406
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 6.5,
+    "works": 4,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-003_borek-krzysztof--missa-te-deum-laudamus-patrem.krn",
+      "label": "[Missa] Te Deum laudamus, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 13,
+      "notes": "F4 F4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--012-002_borek-krzysztof--missa-et-in-terra.krn",
+      "label": "[Missa], Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 46,
+      "notes": "F4 F4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--012-003_borek-krzysztof--missa-patrem.krn",
+      "label": "[Missa], Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 101,
+      "notes": "F4 F4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.3,
+    "works": 5,
+    "per_1000": 3.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--012-003_borek-krzysztof--missa-patrem.krn",
+      "label": "[Missa], Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 46,
+      "notes": "C4 D4 C4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-002_borek-krzysztof--missa-te-deum-laudamus-et-in-terra.krn",
+      "label": "[Missa] Te Deum laudamus, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 48,
+      "notes": "C4 D4 C4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-004_borek-krzysztof--missa-te-deum-laudamus-sanctus.krn",
+      "label": "[Missa] Te Deum laudamus, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 20,
+      "notes": "F4 G4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 3.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--012-003_borek-krzysztof--missa-patrem.krn",
+      "label": "[Missa], Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 28,
+      "notes": "D4 C4 D4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-003_borek-krzysztof--missa-te-deum-laudamus-patrem.krn",
+      "label": "[Missa] Te Deum laudamus, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 8,
+      "notes": "G4 F4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-004_borek-krzysztof--missa-te-deum-laudamus-sanctus.krn",
+      "label": "[Missa] Te Deum laudamus, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 23,
+      "notes": "D4 C4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.9,
+    "works": 8,
+    "per_1000": 6.0,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-003_borek-krzysztof--missa-te-deum-laudamus-patrem.krn",
+      "label": "[Missa] Te Deum laudamus, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 42,
+      "notes": "E4 D4 E4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--012-002_borek-krzysztof--missa-et-in-terra.krn",
+      "label": "[Missa], Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 15,
+      "notes": "D4 C4 D4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-005_borek-krzysztof--missa-te-deum-laudamus-agnus-dei.krn",
+      "label": "[Missa] Te Deum laudamus, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 14,
+      "notes": "E4 D4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 2.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-003_borek-krzysztof--missa-te-deum-laudamus-patrem.krn",
+      "label": "[Missa] Te Deum laudamus, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 107,
+      "notes": "F4 D4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-005_borek-krzysztof--missa-te-deum-laudamus-agnus-dei.krn",
+      "label": "[Missa] Te Deum laudamus, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 3,
+      "notes": "F4 D4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--012-001_borek-krzysztof--missa-kyrie.krn",
+      "label": "[Missa], Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 9,
+      "notes": "F4 D4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 3.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-003_borek-krzysztof--missa-te-deum-laudamus-patrem.krn",
+      "label": "[Missa] Te Deum laudamus, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 18,
+      "notes": "D4 E4 F4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--012-002_borek-krzysztof--missa-et-in-terra.krn",
+      "label": "[Missa], Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 26,
+      "notes": "D4 E4 F4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--013-002_borek-krzysztof--missa-te-deum-laudamus-et-in-terra.krn",
+      "label": "[Missa] Te Deum laudamus, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 32,
+      "notes": "D4 E4 F4 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 686,
+   "composers": 38
+  }
+ }
+]

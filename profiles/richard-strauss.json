@@ -1,0 +1,66 @@
+[
+ {
+  "composer": "Richard Strauss",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.3718304927226353,
+   "repeats": 0.3277897555330834,
+   "leaps": 0.1491117258831395,
+   "move": 3.2077150608040914,
+   "rising": 0.5539919573785781,
+   "leap answered": 0.19595959595959594,
+   "range": 11.474999999999994,
+   "register": 71.25,
+   "even": 0.27557951565342004,
+   "long-short": 0.16877725761286055,
+   "rhythm variety": 3.1918140178534875,
+   "surprise, pitch": 3.1248493804142754,
+   "surprise, rhythm": 2.4615150893960656,
+   "density": 3.798665905315615,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 305,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Richard Strauss",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.47377158703673405,
+   "repeats": 0.10623960788187514,
+   "leaps": 0.2191894279944134,
+   "move": 3.659150429777592,
+   "rising": 0.47833432546952337,
+   "leap answered": 0.21587010960659772,
+   "range": 25.5,
+   "register": 77.0,
+   "even": 0.6612587684470475,
+   "long-short": 0.05300953774897917,
+   "rhythm variety": 1.992842414293587,
+   "surprise, pitch": 2.9061085282240917,
+   "surprise, rhythm": 1.3729639843726056,
+   "density": 4.627134982861405,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ }
+]

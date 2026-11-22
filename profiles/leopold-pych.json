@@ -1,0 +1,253 @@
+[
+ {
+  "composer": "Leopold Pych",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 14,
+  "values": {
+   "steps": 0.4831735119156776,
+   "repeats": 0.28253932057045844,
+   "leaps": 0.09690507288077924,
+   "move": 2.677517996012582,
+   "rising": 0.4371087010426024,
+   "leap answered": 0.20482610703030635,
+   "range": 11.307142857142859,
+   "register": 76.35714285714286,
+   "even": 0.43081875373278133,
+   "long-short": 0.11338027656539114,
+   "rhythm variety": 2.5478189455599636,
+   "surprise, pitch": 2.5089893466842565,
+   "surprise, rhythm": 1.9742392964594078,
+   "density": 8.024452869306867,
+   "lines": 7.214285714285714
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.7,
+    "works": 4,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-004_pych-leopold--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 4 (PL-SA 190/A V 20, kern)",
+      "bar": 19,
+      "notes": "Ab5 F#5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-009_pych-leopold--missa-in-d-dona-nobis.krn",
+      "label": "Missa in D, Dona nobis, movement 9 (PL-SA 190/A V 20, kern)",
+      "bar": 3,
+      "notes": "C#6 B5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-002_pych-leopold--missa-in-d-kyrie.krn",
+      "label": "Missa in D, Kyrie, movement 2 (PL-SA 190/A V 20, kern)",
+      "bar": 46,
+      "notes": "C#6 B5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-007_pych-leopold--missa-in-d-benedictus.krn",
+      "label": "Missa in D, Benedictus, movement 7 (PL-SA 190/A V 20, kern)",
+      "bar": 79,
+      "notes": "F#5 F#5 E5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-006_pych-leopold--missa-in-d-osanna.krn",
+      "label": "Missa in D, Osanna, movement 6 (PL-SA 190/A V 20, kern)",
+      "bar": 35,
+      "notes": "F#5 F#5 E5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-009_pych-leopold--missa-in-d-dona-nobis.krn",
+      "label": "Missa in D, Dona nobis, movement 9 (PL-SA 190/A V 20, kern)",
+      "bar": 5,
+      "notes": "C#6 B5 Ab5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-002_pych-leopold--missa-in-d-kyrie.krn",
+      "label": "Missa in D, Kyrie, movement 2 (PL-SA 190/A V 20, kern)",
+      "bar": 48,
+      "notes": "C#6 B5 Ab5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-002_pych-leopold--missa-in-d-kyrie.krn",
+      "label": "Missa in D, Kyrie, movement 2 (PL-SA 190/A V 20, kern)",
+      "bar": 12,
+      "notes": "F5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-008_pych-leopold--missa-in-d-agnus-dei.krn",
+      "label": "Missa in D, Agnus Dei, movement 8 (PL-SA 190/A V 20, kern)",
+      "bar": 21,
+      "notes": "D5 C#5 B4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-009_pych-leopold--missa-in-d-dona-nobis.krn",
+      "label": "Missa in D, Dona nobis, movement 9 (PL-SA 190/A V 20, kern)",
+      "bar": 41,
+      "notes": "Ab5 G5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-002_pych-leopold--missa-in-d-kyrie.krn",
+      "label": "Missa in D, Kyrie, movement 2 (PL-SA 190/A V 20, kern)",
+      "bar": 84,
+      "notes": "Ab5 G5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-004_pych-leopold--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 4 (PL-SA 190/A V 20, kern)",
+      "bar": 35,
+      "notes": "A5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--190-a-v-20--001-008_pych-leopold--missa-in-d-agnus-dei.krn",
+      "label": "Missa in D, Agnus Dei, movement 8 (PL-SA 190/A V 20, kern)",
+      "bar": 28,
+      "notes": "F#5 D5 C#5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 633,
+   "composers": 34
+  }
+ },
+ {
+  "composer": "Leopold Pych",
+  "kind": "oratorio",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.4017608091578026,
+   "repeats": 0.2843474388981057,
+   "leaps": 0.1918325795409096,
+   "move": 3.5412083973170687,
+   "rising": 0.4299331432102349,
+   "leap answered": 0.28444444444444444,
+   "range": 12.599999999999994,
+   "register": 77.0,
+   "even": 0.6403073192844064,
+   "long-short": 0.0585944706264264,
+   "rhythm variety": 1.9966103103616435,
+   "surprise, pitch": 3.114423801486953,
+   "surprise, rhythm": 1.6386775188925358,
+   "density": 8.41085848697055,
+   "lines": 7.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 49,
+   "composers": 5
+  }
+ }
+]

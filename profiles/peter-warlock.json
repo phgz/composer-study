@@ -1,0 +1,245 @@
+[
+ {
+  "composer": "Peter Warlock",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 22,
+  "values": {
+   "steps": 0.5110023769545416,
+   "repeats": 0.10667048294179465,
+   "leaps": 0.17818119283306147,
+   "move": 3.035541081816462,
+   "rising": 0.45578585539496735,
+   "leap answered": 0.34461172441118965,
+   "range": 11.43181818181818,
+   "register": 69.22727272727273,
+   "even": 0.3951532083563423,
+   "long-short": 0.1448505622536693,
+   "rhythm variety": 2.4871578588774472,
+   "surprise, pitch": 2.539036635822425,
+   "surprise, rhythm": 1.7868716677632244,
+   "density": 6.155323197737467,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/08_Walking_the_woods/lc6197437.mxl",
+      "label": "Songs, Walking the woods (OpenScore)",
+      "bar": 6,
+      "notes": "D5 C5 A4 C5"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/05_The_Jolly_Shepherd/lc6196859.mxl",
+      "label": "Songs, The Jolly Shepherd (OpenScore)",
+      "bar": 13,
+      "notes": "E5 D5 B4 D5"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/04_Take,_o_take_those_lips_away/lc6196804.mxl",
+      "label": "Songs, Take, o take those lips away (OpenScore)",
+      "bar": 7,
+      "notes": "B4 A4 F#4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/05_The_Jolly_Shepherd/lc6196859.mxl",
+      "label": "Songs, The Jolly Shepherd (OpenScore)",
+      "bar": 14,
+      "notes": "D5 B4 C5 A4"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/08_Walking_the_woods/lc6197437.mxl",
+      "label": "Songs, Walking the woods (OpenScore)",
+      "bar": 6,
+      "notes": "C5 A4 Bb4 G4"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/01_Whenas_the_rye_reaches_to_the_chin/lc6195130.mxl",
+      "label": "Songs, Whenas the rye reaches to the chin (OpenScore)",
+      "bar": 9,
+      "notes": "E5 C#5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Peterisms,_Set_1/3_Rutterkin/lc6447372.mxl",
+      "label": "Peterisms, Set 1, Rutterkin (OpenScore)",
+      "bar": 6,
+      "notes": "C5 Bb4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Peterisms,_Set_2/3_Lusty_Juventus/lc6447910.mxl",
+      "label": "Peterisms, Set 2, Lusty Juventus (OpenScore)",
+      "bar": 10,
+      "notes": "E5 D5 C5 D5"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/10_As_ever_I_saw/lc6198837.mxl",
+      "label": "Songs, As ever I saw (OpenScore)",
+      "bar": 12,
+      "notes": "Bb4 Ab4 F#4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/08_Walking_the_woods/lc6197437.mxl",
+      "label": "Songs, Walking the woods (OpenScore)",
+      "bar": 7,
+      "notes": "A4 Bb4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/05_The_Jolly_Shepherd/lc6196859.mxl",
+      "label": "Songs, The Jolly Shepherd (OpenScore)",
+      "bar": 15,
+      "notes": "B4 C5 A4 B4"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/01_Whenas_the_rye_reaches_to_the_chin/lc6195130.mxl",
+      "label": "Songs, Whenas the rye reaches to the chin (OpenScore)",
+      "bar": 7,
+      "notes": "F#4 G4 E4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/03_The_Countryman/lc6196782.mxl",
+      "label": "Songs, The Countryman (OpenScore)",
+      "bar": 17,
+      "notes": "D5 C5 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/09_The_First_Mercy/lc6198815.mxl",
+      "label": "Songs, The First Mercy (OpenScore)",
+      "bar": 3,
+      "notes": "D5 C5 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Songs/05_The_Jolly_Shepherd/lc6196859.mxl",
+      "label": "Songs, The Jolly Shepherd (OpenScore)",
+      "bar": 16,
+      "notes": "F#4 B4 Ab4 E4"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Peterisms,_Set_2/1_Roister_Doister/lc6447758.mxl",
+      "label": "Peterisms, Set 2, Roister Doister (OpenScore)",
+      "bar": 19,
+      "notes": "G4 C5 A4 F4"
+     },
+     {
+      "work": "openscore-lieder:Warlock,_Peter/Peterisms,_Set_1/3_Rutterkin/lc6447372.mxl",
+      "label": "Peterisms, Set 1, Rutterkin (OpenScore)",
+      "bar": 25,
+      "notes": "Ab4 C#5 Bb4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 287,
+   "composers": 37
+  }
+ }
+]

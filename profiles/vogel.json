@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Vogel",
+  "kind": "mass",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 17,
+  "values": {
+   "steps": 0.5187095176412861,
+   "repeats": 0.24749517645084065,
+   "leaps": 0.09052692867900428,
+   "move": 2.5771246650575215,
+   "rising": 0.467936029618413,
+   "leap answered": 0.3250846829386166,
+   "range": 12.276470588235293,
+   "register": 76.29411764705883,
+   "even": 0.5847912369732684,
+   "long-short": 0.05656408114135835,
+   "rhythm variety": 2.214930401917529,
+   "surprise, pitch": 2.74397065882941,
+   "surprise, rhythm": 1.896490824720966,
+   "density": 11.795353140919085,
+   "lines": 12.529411764705882
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 8,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-004_vogel--missa-solemnis-quoniam.krn",
+      "label": "Missa solemnis, Quoniam, movement 4 (PL-Kk Kk.I.477, kern)",
+      "bar": 13,
+      "notes": "E5 E5 E5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-002_vogel--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.477, kern)",
+      "bar": 23,
+      "notes": "G5 G5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-478--001-003_vogel--missa-credo.krn",
+      "label": "Missa, Credo, movement 3 (PL-Kk Kk.I.478, kern)",
+      "bar": 7,
+      "notes": "E5 E5 E5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 9,
+    "per_1000": 2.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-011_vogel--missa-solemnis-agnus.krn",
+      "label": "Missa solemnis, Agnus, movement 11 (PL-Kk Kk.I.477, kern)",
+      "bar": 78,
+      "notes": "C#5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-005_vogel--missa-solemnis-cum-sancto.krn",
+      "label": "Missa solemnis, Cum Sancto, movement 5 (PL-Kk Kk.I.477, kern)",
+      "bar": 55,
+      "notes": "C#5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-007_vogel--missa-solemnis-et-incarnatus.krn",
+      "label": "Missa solemnis, Et incarnatus, movement 7 (PL-Kk Kk.I.477, kern)",
+      "bar": 3,
+      "notes": "F#5 G5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-008_vogel--missa-solemnis-et-resurrexit.krn",
+      "label": "Missa solemnis, Et resurrexit, movement 8 (PL-Kk Kk.I.477, kern)",
+      "bar": 6,
+      "notes": "C6 B5 A5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-006_vogel--missa-solemnis-credo.krn",
+      "label": "Missa solemnis, Credo, movement 6 (PL-Kk Kk.I.477, kern)",
+      "bar": 18,
+      "notes": "C6 B5 A5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-002_vogel--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.477, kern)",
+      "bar": 29,
+      "notes": "C5 B4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 7,
+    "per_1000": 2.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-010_vogel--missa-solemnis-benedictus.krn",
+      "label": "Missa solemnis, Benedictus, movement 10 (PL-Kk Kk.I.477, kern)",
+      "bar": 48,
+      "notes": "A5 G5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-011_vogel--missa-solemnis-agnus.krn",
+      "label": "Missa solemnis, Agnus, movement 11 (PL-Kk Kk.I.477, kern)",
+      "bar": 83,
+      "notes": "B4 A4 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-006_vogel--missa-solemnis-credo.krn",
+      "label": "Missa solemnis, Credo, movement 6 (PL-Kk Kk.I.477, kern)",
+      "bar": 59,
+      "notes": "G4 F4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.2,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-478--001-002-pc0-ac0_vogel--missa-gloria-pc0-ac0.krn",
+      "label": "Missa, Gloria, movement 2 (PL-Kk Kk.I.478, kern)",
+      "bar": 71,
+      "notes": "C#5 C#5 C#5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-478--001-001-pc0_vogel--missa-kyrie-pc0.krn",
+      "label": "Missa, Kyrie, movement 1 (PL-Kk Kk.I.478, kern)",
+      "bar": 3,
+      "notes": "B4 B4 B4 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-478--001-004_vogel--missa-sanctus.krn",
+      "label": "Missa, Sanctus, movement 4 (PL-Kk Kk.I.478, kern)",
+      "bar": 56,
+      "notes": "D5 D5 D5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 10,
+    "per_1000": 3.4,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-002_vogel--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.477, kern)",
+      "bar": 35,
+      "notes": "E5 F#5 E5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-478--001-003_vogel--missa-credo.krn",
+      "label": "Missa, Credo, movement 3 (PL-Kk Kk.I.478, kern)",
+      "bar": 102,
+      "notes": "G5 A5 G5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-477--001-011_vogel--missa-solemnis-agnus.krn",
+      "label": "Missa solemnis, Agnus, movement 11 (PL-Kk Kk.I.477, kern)",
+      "bar": 61,
+      "notes": "D5 E5 D5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 105,
+   "composers": 9
+  }
+ }
+]

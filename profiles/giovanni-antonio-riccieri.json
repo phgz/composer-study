@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Giovanni Antonio Riccieri",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5941719353722368,
+   "repeats": 0.10721785943191635,
+   "leaps": 0.18249601385082825,
+   "move": 3.0485027054798386,
+   "rising": 0.4926679748954366,
+   "leap answered": 0.3606613301348908,
+   "range": 16.666666666666668,
+   "register": 72.66666666666667,
+   "even": 0.5569686116376423,
+   "long-short": 0.08978511608535249,
+   "rhythm variety": 2.293814551972775,
+   "surprise, pitch": 2.3464105195314913,
+   "surprise, rhythm": 1.5331768314123473,
+   "density": 4.9832430724496,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 84,
+   "composers": 6
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Johannes Regis",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.6667084565350847,
+   "repeats": 0.12745547513833932,
+   "leaps": 0.06955337318222235,
+   "move": 2.222296504931614,
+   "rising": 0.44751970692185006,
+   "leap answered": 0.5847601540616246,
+   "range": 9.25,
+   "register": 65.5,
+   "even": 0.36295903520007883,
+   "long-short": 0.12008992953898154,
+   "rhythm variety": 2.795639199460334,
+   "surprise, pitch": 2.590533650192682,
+   "surprise, rhythm": 2.287945782234461,
+   "density": 0.76470441571643,
+   "lines": 4.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 618,
+   "composers": 18
+  }
+ }
+]

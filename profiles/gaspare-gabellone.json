@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Gaspare Gabellone",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.5153588539831684,
+   "repeats": 0.16823073726769233,
+   "leaps": 0.16475787368245712,
+   "move": 3.1314359333359043,
+   "rising": 0.45694499780008774,
+   "leap answered": 0.1638083603025781,
+   "range": 16.0,
+   "register": 75.0,
+   "even": 0.7357447938503788,
+   "long-short": 0.06155427857602471,
+   "rhythm variety": 1.6941972082152434,
+   "surprise, pitch": 2.380752885701409,
+   "surprise, rhythm": 1.355859491894605,
+   "density": 10.126542367748762,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 322,
+   "composers": 26
+  }
+ }
+]

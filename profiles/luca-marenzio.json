@@ -1,0 +1,563 @@
+[
+ {
+  "composer": "Luca Marenzio",
+  "kind": "madrigal",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 21,
+  "values": {
+   "steps": 0.6050283295510129,
+   "repeats": 0.1765677685242208,
+   "leaps": 0.11087280330463323,
+   "move": 2.510619014000452,
+   "rising": 0.4930645481623876,
+   "leap answered": 0.38886363464889523,
+   "range": 10.304761904761905,
+   "register": 71.21428571428571,
+   "even": 0.3847485023558025,
+   "long-short": 0.11394805038032128,
+   "rhythm variety": 2.7851753336438416,
+   "surprise, pitch": 2.8413617996541625,
+   "surprise, rhythm": 2.316842197236057,
+   "density": 1.9886253885922376,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.7,
+    "works": 5,
+    "per_1000": 2.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-009_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-sento-squarciar.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Sento squarciar, movement 9 (PL-GD Ee 1638, kern)",
+      "bar": 7,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-001_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-gratia-renda-al-signor.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Gratia renda al Signor, movement 1 (PL-GD Ee 1638, kern)",
+      "bar": 32,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-006_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-padre-del-cielo.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Padre del Cielo, movement 6 (PL-GD Ee 1638, kern)",
+      "bar": 18,
+      "notes": "C5 Bb4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 5,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-018_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-ma-las-io-sento.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Ma las’io sento, movement 18 (PL-GD Ee 1638, kern)",
+      "bar": 13,
+      "notes": "E5 D5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-016_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-fallace-incerta.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Fallace incerta, movement 16 (PL-GD Ee 1638, kern)",
+      "bar": 37,
+      "notes": "E5 D5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-006_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-padre-del-cielo.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Padre del Cielo, movement 6 (PL-GD Ee 1638, kern)",
+      "bar": 13,
+      "notes": "A4 G4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 4.6,
+    "works": 6,
+    "per_1000": 2.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-001_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-gratia-renda-al-signor.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Gratia renda al Signor, movement 1 (PL-GD Ee 1638, kern)",
+      "bar": 7,
+      "notes": "G4 F#4 E4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-011_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-e-quiesto-il-legno.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, E quiesto il legno, movement 11 (PL-GD Ee 1638, kern)",
+      "bar": 9,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-012_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-o-pieta-somma.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, O pieta somma, movement 12 (PL-GD Ee 1638, kern)",
+      "bar": 23,
+      "notes": "C5 B4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.6,
+    "works": 11,
+    "per_1000": 5.6,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-007_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-deh-pria-che-l-verno.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Deh pria che’l verno, movement 7 (PL-GD Ee 1638, kern)",
+      "bar": 4,
+      "notes": "F4 E4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-016_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-fallace-incerta.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Fallace incerta, movement 16 (PL-GD Ee 1638, kern)",
+      "bar": 26,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-005_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-il-di-che-di-pallor.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Il di che di pallor, movement 5 (PL-GD Ee 1638, kern)",
+      "bar": 31,
+      "notes": "F4 E4 D4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 5,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-009_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-sento-squarciar.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Sento squarciar, movement 9 (PL-GD Ee 1638, kern)",
+      "bar": 76,
+      "notes": "F4 G4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-016_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-fallace-incerta.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Fallace incerta, movement 16 (PL-GD Ee 1638, kern)",
+      "bar": 4,
+      "notes": "Bb4 C5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-015_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-non-fu-mai-cervo.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Non fu mai cervo, movement 15 (PL-GD Ee 1638, kern)",
+      "bar": 5,
+      "notes": "Bb4 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.7,
+    "works": 15,
+    "per_1000": 8.4,
+    "others_per_1000": 3.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-001_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-gratia-renda-al-signor.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Gratia renda al Signor, movement 1 (PL-GD Ee 1638, kern)",
+      "bar": 7,
+      "notes": "F#4 E4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-007_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-deh-pria-che-l-verno.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, Deh pria che’l verno, movement 7 (PL-GD Ee 1638, kern)",
+      "bar": 5,
+      "notes": "E4 D4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--005-011_marenzio-luca--il-primo-libro-de-madrigali-spirituali-a-cinque-voci-e-quiesto-il-legno.krn",
+      "label": "Il Primo libro de madrigali spirituali a cinque voci, E quiesto il legno, movement 11 (PL-GD Ee 1638, kern)",
+      "bar": 9,
+      "notes": "B4 A4 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 264,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Luca Marenzio",
+  "kind": "madrigal",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 30,
+  "values": {
+   "steps": 0.6170124459374823,
+   "repeats": 0.16725470042119042,
+   "leaps": 0.10542447582246434,
+   "move": 2.5031251939166093,
+   "rising": 0.4721471043663271,
+   "leap answered": 0.3937852093959297,
+   "range": 10.648333333333332,
+   "register": 70.93333333333334,
+   "even": 0.3603796749912187,
+   "long-short": 0.13918610081315172,
+   "rhythm variety": 2.869775185371642,
+   "surprise, pitch": 2.7137470889999777,
+   "surprise, rhythm": 2.274710937436332,
+   "density": 1.9094139030900135,
+   "lines": 4.033333333333333
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 20,
+    "per_1000": 7.4,
+    "others_per_1000": 3.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-014_marenzio-luca--madrigali-a-quatro-voci-vezzosi-augelli.krn",
+      "label": "Madrigali a quatro voci, Vezzosi augelli, movement 14 (PL-GD Ee 1638, kern)",
+      "bar": 1,
+      "notes": "E4 F4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-025_marenzio-luca--madrigali-a-quatro-voci-vedi-ch-egli-amail-suon.krn",
+      "label": "Madrigali a quatro voci, Vedi ch’egli amail suon, movement 25 (PL-GD Ee 1638, kern)",
+      "bar": 6,
+      "notes": "A4 Bb4 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-018_marenzio-luca--madrigali-a-quatro-voci-menando-un-giorno.krn",
+      "label": "Madrigali a quatro voci, Menando un giorno, movement 18 (PL-GD Ee 1638, kern)",
+      "bar": 21,
+      "notes": "B4 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 18,
+    "per_1000": 8.1,
+    "others_per_1000": 3.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-013_marenzio-luca--madrigali-a-quatro-voci-madonna-sua-merce-pur-una-sera.krn",
+      "label": "Madrigali a quatro voci, Madonna sua merce pur una sera, movement 13 (PL-GD Ee 1638, kern)",
+      "bar": 13,
+      "notes": "D4 E4 F4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-018_marenzio-luca--madrigali-a-quatro-voci-menando-un-giorno.krn",
+      "label": "Madrigali a quatro voci, Menando un giorno, movement 18 (PL-GD Ee 1638, kern)",
+      "bar": 1,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-024_marenzio-luca--madrigali-a-quatro-voci-su-l-carro-de-la-mente.krn",
+      "label": "Madrigali a quatro voci, Su’l carro de la mente, movement 24 (PL-GD Ee 1638, kern)",
+      "bar": 16,
+      "notes": "G4 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.9,
+    "works": 13,
+    "per_1000": 3.6,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-008_marenzio-luca--madrigali-a-quatro-voci-apollo-s-ancor-viue-il-bel-desio.krn",
+      "label": "Madrigali a quatro voci, Apollo s’ancor viue il bel desio, movement 8 (PL-GD Ee 1638, kern)",
+      "bar": 12,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-023_marenzio-luca--madrigali-a-quatro-voci-ma-per-me-lasso.krn",
+      "label": "Madrigali a quatro voci, Ma per me lasso, movement 23 (PL-GD Ee 1638, kern)",
+      "bar": 29,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-013_marenzio-luca--madrigali-a-quatro-voci-madonna-sua-merce-pur-una-sera.krn",
+      "label": "Madrigali a quatro voci, Madonna sua merce pur una sera, movement 13 (PL-GD Ee 1638, kern)",
+      "bar": 29,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     2
+    ],
+    "z": 3.8,
+    "works": 6,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-023_marenzio-luca--madrigali-a-quatro-voci-ma-per-me-lasso.krn",
+      "label": "Madrigali a quatro voci, Ma per me lasso, movement 23 (PL-GD Ee 1638, kern)",
+      "bar": 29,
+      "notes": "G4 F#4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-006_marenzio-luca--madrigali-a-quatro-voci-non-al-suo-amante-piu.krn",
+      "label": "Madrigali a quatro voci, Non al suo amante piu, movement 6 (PL-GD Ee 1638, kern)",
+      "bar": 10,
+      "notes": "C5 B4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-017_marenzio-luca--madrigali-a-quatro-voci-come-doglia.krn",
+      "label": "Madrigali a quatro voci, Come doglia, movement 17 (PL-GD Ee 1638, kern)",
+      "bar": 8,
+      "notes": "G4 F#4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 6,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-028_marenzio-luca--madrigali-a-quatro-voci-corbo-maluaggio.krn",
+      "label": "Madrigali a quatro voci, Corbo maluaggio, movement 28 (PL-GD Ee 1638, kern)",
+      "bar": 26,
+      "notes": "A4 G4 G4 A4"
+     },
+     {
+      "work": "mutopia:MarenzioL/Solo_e_pensoso",
+      "label": "Solo e pensoso, Madrigale a 5 voci (Mutopia)",
+      "bar": 106,
+      "notes": "B4 A4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-005_marenzio-luca--madrigali-a-quatro-voci-candido-leggiadretto.krn",
+      "label": "Madrigali a quatro voci, Candido leggiadretto, movement 5 (PL-GD Ee 1638, kern)",
+      "bar": 28,
+      "notes": "A4 G4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 9,
+    "per_1000": 2.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-008_marenzio-luca--madrigali-a-quatro-voci-apollo-s-ancor-viue-il-bel-desio.krn",
+      "label": "Madrigali a quatro voci, Apollo s’ancor viue il bel desio, movement 8 (PL-GD Ee 1638, kern)",
+      "bar": 6,
+      "notes": "C#5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-023_marenzio-luca--madrigali-a-quatro-voci-ma-per-me-lasso.krn",
+      "label": "Madrigali a quatro voci, Ma per me lasso, movement 23 (PL-GD Ee 1638, kern)",
+      "bar": 30,
+      "notes": "F#4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-1638--003-006_marenzio-luca--madrigali-a-quatro-voci-non-al-suo-amante-piu.krn",
+      "label": "Madrigali a quatro voci, Non al suo amante piu, movement 6 (PL-GD Ee 1638, kern)",
+      "bar": 11,
+      "notes": "B4 C5 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 185,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Luca Marenzio",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 6,
+  "values": {
+   "steps": 0.5269461162146365,
+   "repeats": 0.19577586014505954,
+   "leaps": 0.17173480444469916,
+   "move": 2.817699140728553,
+   "rising": 0.48542093636211286,
+   "leap answered": 0.3765897663413192,
+   "range": 11.158333333333331,
+   "register": 66.66666666666667,
+   "even": 0.26511565926140607,
+   "long-short": 0.10345457154334171,
+   "rhythm variety": 3.0021059546220528,
+   "surprise, pitch": 2.883530943273382,
+   "surprise, rhythm": 2.4162903854195688,
+   "density": 1.3859298113789098,
+   "lines": 5.166666666666667
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5269461162146365,
+    "others": 0.6595869191022063,
+    "auc": 0.16930287314224704
+   },
+   {
+    "measure": "rising",
+    "value": 0.48542093636211286,
+    "others": 0.45070255226994876,
+    "auc": 0.7538991238546261
+   },
+   {
+    "measure": "even",
+    "value": 0.26511565926140607,
+    "others": 0.3463255522724406,
+    "auc": 0.20737951423314024
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.883530943273382,
+    "others": 2.527702157767023,
+    "auc": 0.8611402766353979
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.4162903854195688,
+    "others": 2.199907698620861,
+    "auc": 0.8582183508940923
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 687,
+   "composers": 38
+  }
+ }
+]

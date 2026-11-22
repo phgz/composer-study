@@ -1,0 +1,649 @@
+[
+ {
+  "composer": "Walenty Szlagórski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 15,
+  "values": {
+   "steps": 0.4541917137706737,
+   "repeats": 0.10124508401992566,
+   "leaps": 0.22412492444192755,
+   "move": 3.649337072409611,
+   "rising": 0.46897986114588824,
+   "leap answered": 0.35833261356553703,
+   "range": 14.976666666666661,
+   "register": 83.1,
+   "even": 0.4318990146984068,
+   "long-short": 0.16276939940545712,
+   "rhythm variety": 2.2578499708304873,
+   "surprise, pitch": 2.0227299896684623,
+   "surprise, rhythm": 1.366809741108804,
+   "density": 8.322996713079602,
+   "lines": 8.133333333333333
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     1
+    ],
+    "z": 7.3,
+    "works": 3,
+    "per_1000": 4.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-010_szlagorski-walenty--tance-mazur-4.krn",
+      "label": "Tańce, Mazur 4, movement 10 (PL-CZ II-16, kern)",
+      "bar": 7,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-001_szlagorski-walenty--tance-walz-1.krn",
+      "label": "Tańce, Walz 1, movement 1 (PL-CZ II-16, kern)",
+      "bar": 5,
+      "notes": "F#6 E6 Eb6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-007_szlagorski-walenty--tance-mazur-1.krn",
+      "label": "Tańce, Mazur 1, movement 7 (PL-CZ II-16, kern)",
+      "bar": 21,
+      "notes": "A5 G5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     7,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 2,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-008_szlagorski-walenty--tance-mazur-2.krn",
+      "label": "Tańce, Mazur 2, movement 8 (PL-CZ II-16, kern)",
+      "bar": 20,
+      "notes": "G5 E5 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-010_szlagorski-walenty--tance-mazur-4.krn",
+      "label": "Tańce, Mazur 4, movement 10 (PL-CZ II-16, kern)",
+      "bar": 7,
+      "notes": "G5 E5 B5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.7,
+    "works": 2,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-008_szlagorski-walenty--tance-mazur-2.krn",
+      "label": "Tańce, Mazur 2, movement 8 (PL-CZ II-16, kern)",
+      "bar": 20,
+      "notes": "E5 B5 A5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-010_szlagorski-walenty--tance-mazur-4.krn",
+      "label": "Tańce, Mazur 4, movement 10 (PL-CZ II-16, kern)",
+      "bar": 7,
+      "notes": "E5 B5 A5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     5,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.6,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-007_szlagorski-walenty--tance-mazur-1.krn",
+      "label": "Tańce, Mazur 1, movement 7 (PL-CZ II-16, kern)",
+      "bar": 20,
+      "notes": "G5 B5 E6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-004_szlagorski-walenty--tance-walz-4.krn",
+      "label": "Tańce, Walz 4, movement 4 (PL-CZ II-16, kern)",
+      "bar": 11,
+      "notes": "G5 B5 E6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--005_szlagorski-walenty--walc-3.krn",
+      "label": "Walc 3 (PL-CZ II-15, kern)",
+      "bar": 28,
+      "notes": "D5 F#5 B5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.5,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--006_szlagorski-walenty--walc-4.krn",
+      "label": "Walc 4 (PL-CZ II-15, kern)",
+      "bar": 2,
+      "notes": "B5 E6 D6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-004_szlagorski-walenty--tance-walz-4.krn",
+      "label": "Tańce, Walz 4, movement 4 (PL-CZ II-16, kern)",
+      "bar": 11,
+      "notes": "B5 E6 D6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.4,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-008_szlagorski-walenty--tance-mazur-2.krn",
+      "label": "Tańce, Mazur 2, movement 8 (PL-CZ II-16, kern)",
+      "bar": 16,
+      "notes": "B5 E5 F#5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-007_szlagorski-walenty--tance-mazur-1.krn",
+      "label": "Tańce, Mazur 1, movement 7 (PL-CZ II-16, kern)",
+      "bar": 22,
+      "notes": "D6 G5 A5 B5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 420,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Walenty Szlagórski",
+  "kind": "mazurka",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5166141807264999,
+   "repeats": 0.07045036667787867,
+   "leaps": 0.2049693138553911,
+   "move": 3.3115152791607785,
+   "rising": 0.5129490926805504,
+   "leap answered": 0.30549487042637724,
+   "range": 14.479999999999995,
+   "register": 82.0,
+   "even": 0.38749751610652056,
+   "long-short": 0.2782131542618015,
+   "rhythm variety": 2.5821853107324024,
+   "surprise, pitch": 1.7566857556921804,
+   "surprise, rhythm": 1.3423666777197405,
+   "density": 13.886676810855487,
+   "lines": 7.6
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 1.7566857556921804,
+    "others": 2.0875857976520495,
+    "auc": 0.24354568855114717
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     1
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-010_szlagorski-walenty--tance-mazur-4.krn",
+      "label": "Tańce, Mazur 4, movement 10 (PL-CZ II-16, kern)",
+      "bar": 7,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-007_szlagorski-walenty--tance-mazur-1.krn",
+      "label": "Tańce, Mazur 1, movement 7 (PL-CZ II-16, kern)",
+      "bar": 21,
+      "notes": "A5 G5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-008_szlagorski-walenty--tance-mazur-2.krn",
+      "label": "Tańce, Mazur 2, movement 8 (PL-CZ II-16, kern)",
+      "bar": 7,
+      "notes": "E6 D6 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-009_szlagorski-walenty--tance-mazur-3.krn",
+      "label": "Tańce, Mazur 3, movement 9 (PL-CZ II-16, kern)",
+      "bar": 31,
+      "notes": "D6 C6 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--002-dublet_szlagorski-walenty--mazur-dublet-dublet.krn",
+      "label": "Mazur [dublet] (PL-CZ II-15, kern)",
+      "bar": 5,
+      "notes": "D5 E5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-007_szlagorski-walenty--tance-mazur-1.krn",
+      "label": "Tańce, Mazur 1, movement 7 (PL-CZ II-16, kern)",
+      "bar": 17,
+      "notes": "G5 A5 B5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     12
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-008_szlagorski-walenty--tance-mazur-2.krn",
+      "label": "Tańce, Mazur 2, movement 8 (PL-CZ II-16, kern)",
+      "bar": 7,
+      "notes": "D6 B5 A5 A6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-009_szlagorski-walenty--tance-mazur-3.krn",
+      "label": "Tańce, Mazur 3, movement 9 (PL-CZ II-16, kern)",
+      "bar": 31,
+      "notes": "C6 A5 G5 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-008_szlagorski-walenty--tance-mazur-2.krn",
+      "label": "Tańce, Mazur 2, movement 8 (PL-CZ II-16, kern)",
+      "bar": 7,
+      "notes": "F#6 E6 D6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-009_szlagorski-walenty--tance-mazur-3.krn",
+      "label": "Tańce, Mazur 3, movement 9 (PL-CZ II-16, kern)",
+      "bar": 31,
+      "notes": "E6 D6 C6 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-008_szlagorski-walenty--tance-mazur-2.krn",
+      "label": "Tańce, Mazur 2, movement 8 (PL-CZ II-16, kern)",
+      "bar": 16,
+      "notes": "B5 E5 F#5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-007_szlagorski-walenty--tance-mazur-1.krn",
+      "label": "Tańce, Mazur 1, movement 7 (PL-CZ II-16, kern)",
+      "bar": 22,
+      "notes": "D6 G5 A5 B5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 132,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Walenty Szlagórski",
+  "kind": "waltz",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 10,
+  "values": {
+   "steps": 0.4229804802927607,
+   "repeats": 0.11664244269094914,
+   "leaps": 0.23370272973519582,
+   "move": 3.8182479690340267,
+   "rising": 0.44699524537855717,
+   "leap answered": 0.38475148513511687,
+   "range": 15.224999999999998,
+   "register": 83.65,
+   "even": 0.45409976399435,
+   "long-short": 0.10504752197728498,
+   "rhythm variety": 2.09568230087953,
+   "surprise, pitch": 2.1557521066566028,
+   "surprise, rhythm": 1.3790312728033358,
+   "density": 5.541156664191659,
+   "lines": 8.4
+  },
+  "traits": [
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3790312728033358,
+    "others": 1.0400240192765202,
+    "auc": 0.8536928286245227
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 6.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--006_szlagorski-walenty--walc-4.krn",
+      "label": "Walc 4 (PL-CZ II-15, kern)",
+      "bar": 2,
+      "notes": "E6 D6 C#6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-002_szlagorski-walenty--tance-walz-2.krn",
+      "label": "Tańce, Walz 2, movement 2 (PL-CZ II-16, kern)",
+      "bar": 6,
+      "notes": "E6 D6 C#6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 6.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--006_szlagorski-walenty--walc-4.krn",
+      "label": "Walc 4 (PL-CZ II-15, kern)",
+      "bar": 3,
+      "notes": "D6 C#6 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-003_szlagorski-walenty--tance-walz-3.krn",
+      "label": "Tańce, Walz 3, movement 3 (PL-CZ II-16, kern)",
+      "bar": 7,
+      "notes": "G5 F#5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 6.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--006_szlagorski-walenty--walc-4.krn",
+      "label": "Walc 4 (PL-CZ II-15, kern)",
+      "bar": 2,
+      "notes": "B5 E6 D6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-004_szlagorski-walenty--tance-walz-4.krn",
+      "label": "Tańce, Walz 4, movement 4 (PL-CZ II-16, kern)",
+      "bar": 11,
+      "notes": "B5 E6 D6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 11.9,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--006_szlagorski-walenty--walc-4.krn",
+      "label": "Walc 4 (PL-CZ II-15, kern)",
+      "bar": 3,
+      "notes": "A5 B5 C#6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--005_szlagorski-walenty--walc-3.krn",
+      "label": "Walc 3 (PL-CZ II-15, kern)",
+      "bar": 18,
+      "notes": "B5 C#6 Eb6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-004_szlagorski-walenty--tance-walz-4.krn",
+      "label": "Tańce, Walz 4, movement 4 (PL-CZ II-16, kern)",
+      "bar": 9,
+      "notes": "A5 B5 C#6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 6.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-001_szlagorski-walenty--tance-walz-1.krn",
+      "label": "Tańce, Walz 1, movement 1 (PL-CZ II-16, kern)",
+      "bar": 1,
+      "notes": "D6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-15--005_szlagorski-walenty--walc-3.krn",
+      "label": "Walc 3 (PL-CZ II-15, kern)",
+      "bar": 17,
+      "notes": "B5 B5 B5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-16--001-002_szlagorski-walenty--tance-walz-2.krn",
+      "label": "Tańce, Walz 2, movement 2 (PL-CZ II-16, kern)",
+      "bar": 9,
+      "notes": "E5 E5 E5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 66,
+   "composers": 19
+  }
+ }
+]

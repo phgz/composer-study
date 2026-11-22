@@ -1,0 +1,315 @@
+[
+ {
+  "composer": "Fanny Mendelssohn",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 35,
+  "values": {
+   "steps": 0.5450384914753225,
+   "repeats": 0.13504267107961465,
+   "leaps": 0.14926798462635418,
+   "move": 2.805057836661279,
+   "rising": 0.4189664036414204,
+   "leap answered": 0.411540644756532,
+   "range": 11.692857142857141,
+   "register": 70.85714285714286,
+   "even": 0.383229376816098,
+   "long-short": 0.13627557986371366,
+   "rhythm variety": 2.6549319425050926,
+   "surprise, pitch": 2.735148044859487,
+   "surprise, rhythm": 1.6977642496977983,
+   "density": 5.214133731054272,
+   "lines": 3.2
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 9,
+    "per_1000": 3.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/5_Lieder,_Op.10/4_Im_Herbste/lc5000459.mxl",
+      "label": "Lieder, Op.10, Im Herbste (OpenScore)",
+      "bar": 25,
+      "notes": "Bb4 A4 G4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/1_Schwanenlied/lc5100543.mxl",
+      "label": "Lieder, Op.1, Schwanenlied (OpenScore)",
+      "bar": 14,
+      "notes": "Bb4 A4 G4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/3_Lieder/2_Verlust/lc6013106.mxl",
+      "label": "Lieder, Verlust (OpenScore)",
+      "bar": 17,
+      "notes": "F5 E5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.4,
+    "works": 7,
+    "per_1000": 3.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/Gartenlieder,_Op.3/6_Im_Wald/lc6034767.mxl",
+      "label": "Gartenlieder, Op.3, Im Wald (OpenScore)",
+      "bar": 24,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/3_Warum_sind_denn_die_Rosen_so_blass/lc5004640.mxl",
+      "label": "Lieder, Op.1, Warum sind denn die Rosen so blass (OpenScore)",
+      "bar": 17,
+      "notes": "E5 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/Gartenlieder,_Op.3/1_Hörst_du_nicht_die_Bäume_rauschen/lc6022950.mxl",
+      "label": "Gartenlieder, Op.3, Hörst du nicht die Bäume rauschen (OpenScore)",
+      "bar": 22,
+      "notes": "Eb5 C#5 B4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/5_Lieder,_Op.10/5_Bergeslust/lc5000446.mxl",
+      "label": "Lieder, Op.10, Bergeslust (OpenScore)",
+      "bar": 11,
+      "notes": "D5 B4 A4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/5_Morgenständchen/lc5004650.mxl",
+      "label": "Lieder, Op.1, Morgenständchen (OpenScore)",
+      "bar": 12,
+      "notes": "E5 C#5 B4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/2_Wanderlied/lc5004632.mxl",
+      "label": "Lieder, Op.1, Wanderlied (OpenScore)",
+      "bar": 7,
+      "notes": "D5 B4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/Gartenlieder,_Op.3/1_Hörst_du_nicht_die_Bäume_rauschen/lc6022950.mxl",
+      "label": "Gartenlieder, Op.3, Hörst du nicht die Bäume rauschen (OpenScore)",
+      "bar": 9,
+      "notes": "B4 Ab4 F#4 F4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.7/6_Dein_ist_mein_Herz/lc5987993.mxl",
+      "label": "Lieder, Op.7, Dein ist mein Herz (OpenScore)",
+      "bar": 7,
+      "notes": "B4 Ab4 F#4 F4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.7/4_Du_bist_die_Ruh/lc5987937.mxl",
+      "label": "Lieder, Op.7, Du bist die Ruh (OpenScore)",
+      "bar": 9,
+      "notes": "E5 C#5 B4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/4_Mayenlied/lc5101299.mxl",
+      "label": "Lieder, Op.1, Mayenlied (OpenScore)",
+      "bar": 12,
+      "notes": "B4 C5 B4 C5"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/3_Songs/2_Italien/lc6022185.mxl",
+      "label": "Songs, Italien (OpenScore)",
+      "bar": 35,
+      "notes": "Eb4 E4 Eb4 E4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/Gartenlieder,_Op.3/5_Abendlich_schon_rauscht_der_Wald/lc6034473.mxl",
+      "label": "Gartenlieder, Op.3, Abendlich schon rauscht der Wald (OpenScore)",
+      "bar": 22,
+      "notes": "E4 F4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/1_Schwanenlied/lc5100543.mxl",
+      "label": "Lieder, Op.1, Schwanenlied (OpenScore)",
+      "bar": 14,
+      "notes": "D5 Bb4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/5_Lieder,_Op.10/4_Im_Herbste/lc5000459.mxl",
+      "label": "Lieder, Op.10, Im Herbste (OpenScore)",
+      "bar": 25,
+      "notes": "D5 Bb4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/5_Morgenständchen/lc5004650.mxl",
+      "label": "Lieder, Op.1, Morgenständchen (OpenScore)",
+      "bar": 5,
+      "notes": "Ab5 E5 Eb5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1053,
+   "composers": 97
+  },
+  "harmony": {
+   "works": 20,
+   "by": {
+    "When in Rome": 20
+   },
+   "values": {
+    "chords a bar": 1.6805346306796636,
+    "tonic and dominant": 0.575232627217836,
+    "sevenths": 0.36378954837399047,
+    "diminished sevenths": 0.06364857006058809,
+    "applied chords": 0.12477896257830327,
+    "augmented sixths": 0.01188009986603337,
+    "Neapolitan": 0.003105590062111801,
+    "mixture": 0.018789395534234775,
+    "inversions": 0.4032323281896238,
+    "keys a 10 bars": 1.2068286354933702,
+    "away from home": 0.28340348517119107,
+    "non-chord tones": 0.22815137546881642,
+    "struck dissonance": 0.24662801026699013,
+    "resolved by step": 0.7541537240173749,
+    "suspensions": 0.0044210760380683145
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 131,
+    "composers": 18,
+    "progressions_by": "When in Rome",
+    "progressions_works": 78
+   }
+  }
+ },
+ {
+  "composer": "Fanny Mendelssohn",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.5396150375940849,
+   "repeats": 0.1847757882564289,
+   "leaps": 0.14457129301831415,
+   "move": 3.067299185772305,
+   "rising": 0.3825448749012724,
+   "leap answered": 0.2777947488356611,
+   "range": 21.924999999999976,
+   "register": 75.0,
+   "even": 0.7437289311110309,
+   "long-short": 0.044230940256597275,
+   "rhythm variety": 1.5375643282183644,
+   "surprise, pitch": 2.7489581695597023,
+   "surprise, rhythm": 1.0819701247410258,
+   "density": 6.035284943477635,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

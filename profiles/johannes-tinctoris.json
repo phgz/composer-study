@@ -1,0 +1,570 @@
+[
+ {
+  "composer": "Johannes Tinctoris",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 10,
+  "values": {
+   "steps": 0.7528890868677551,
+   "repeats": 0.05442302417875881,
+   "leaps": 0.09027624277464782,
+   "move": 2.266435325179949,
+   "rising": 0.46564050084713526,
+   "leap answered": 0.4826036708076288,
+   "range": 13.11,
+   "register": 61.5,
+   "even": 0.2817207309671804,
+   "long-short": 0.1699086661458739,
+   "rhythm variety": 3.075734874558578,
+   "surprise, pitch": 2.4190830850566956,
+   "surprise, rhythm": 2.3320746177242686,
+   "density": 1.0011700849604341,
+   "lines": 3.5
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7528890868677551,
+    "others": 0.6441308538139091,
+    "auc": 0.8991224621725188
+   },
+   {
+    "measure": "repeats",
+    "value": 0.05442302417875881,
+    "others": 0.13806514334559208,
+    "auc": 0.16772538398311226
+   },
+   {
+    "measure": "range",
+    "value": 13.11,
+    "others": 10.28241199303546,
+    "auc": 0.9558969001306318
+   },
+   {
+    "measure": "register",
+    "value": 61.5,
+    "others": 67.06161641996393,
+    "auc": 0.14380926563982904
+   },
+   {
+    "measure": "even",
+    "value": 0.2817207309671804,
+    "others": 0.33787125453471745,
+    "auc": 0.20200846455421234
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1699086661458739,
+    "others": 0.12456748626718234,
+    "auc": 0.8281794241279752
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.075734874558578,
+    "others": 2.85925279315662,
+    "auc": 0.8535815981921212
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 10.4,
+    "works": 10,
+    "per_1000": 5.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 25,
+      "notes": "Bb3 A3 G3 Bb3"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1001d-Missa_Lhomme_arme-Sanctus.krn",
+      "label": "Missa L'homme armé, Sanctus (kern)",
+      "bar": 81,
+      "notes": "Bb3 A3 G3 Bb3"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1002c-Missa_Sine_nomine_I-Credo.krn",
+      "label": "Missa Sine nomine I, Credo: Patrem omnipotentem (kern)",
+      "bar": 10,
+      "notes": "Bb3 A3 G3 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     -2
+    ],
+    "z": 8.9,
+    "works": 8,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin1001d-Missa_Lhomme_arme-Sanctus.krn",
+      "label": "Missa L'homme armé, Sanctus (kern)",
+      "bar": 18,
+      "notes": "F#4 F#4 E4 F#4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1001c-Missa_Lhomme_arme-Credo.krn",
+      "label": "Missa L'homme armé, Credo: Patrem (kern)",
+      "bar": 115,
+      "notes": "C#4 C#4 B3 C#4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 145,
+      "notes": "F#4 F#4 E4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 8.5,
+    "works": 10,
+    "per_1000": 3.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin1002a-Missa_Sine_nomine_I-Kyrie.krn",
+      "label": "Missa Sine nomine I, Kyrie: Kyrie I (kern)",
+      "bar": 15,
+      "notes": "D4 C4 Eb4 D4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1001e-Missa_Lhomme_arme-Agnus.krn",
+      "label": "Missa L'homme armé, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 72,
+      "notes": "A4 G4 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1001c-Missa_Lhomme_arme-Credo.krn",
+      "label": "Missa L'homme armé, Credo: Patrem (kern)",
+      "bar": 53,
+      "notes": "A4 G4 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     1
+    ],
+    "z": 8.3,
+    "works": 8,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 41,
+      "notes": "G4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1002e-Missa_Sine_nomine_I-Agnus.krn",
+      "label": "Missa Sine nomine I, Agnus Dei: Agnus Dei I, III (kern)",
+      "bar": 2,
+      "notes": "C4 Eb4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1002c-Missa_Sine_nomine_I-Credo.krn",
+      "label": "Missa Sine nomine I, Credo: Patrem omnipotentem (kern)",
+      "bar": 2,
+      "notes": "C4 Eb4 D4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     2
+    ],
+    "z": 7.8,
+    "works": 9,
+    "per_1000": 4.6,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin1002e-Missa_Sine_nomine_I-Agnus.krn",
+      "label": "Missa Sine nomine I, Agnus Dei: Agnus Dei I, III (kern)",
+      "bar": 3,
+      "notes": "C4 Bb3 A3 G3"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 47,
+      "notes": "C4 Bb3 A3 G3"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1001d-Missa_Lhomme_arme-Sanctus.krn",
+      "label": "Missa L'homme armé, Sanctus (kern)",
+      "bar": 11,
+      "notes": "C4 Bb3 A3 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     1,
+     -2
+    ],
+    "z": 7.3,
+    "works": 7,
+    "per_1000": 2.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin1002b-Missa_Sine_nomine_I-Gloria.krn",
+      "label": "Missa Sine nomine I, Gloria: Et in terra pax (kern)",
+      "bar": 7,
+      "notes": "Eb3 F3 Eb3 D3"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1001d-Missa_Lhomme_arme-Sanctus.krn",
+      "label": "Missa L'homme armé, Sanctus (kern)",
+      "bar": 22,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin1002e-Missa_Sine_nomine_I-Agnus.krn",
+      "label": "Missa Sine nomine I, Agnus Dei: Agnus Dei I, III (kern)",
+      "bar": 20,
+      "notes": "Bb3 C4 Bb3 A3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 586,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Johannes Tinctoris",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.7953304696469569,
+   "repeats": 0.05078184994299328,
+   "leaps": 0.06921290567728017,
+   "move": 2.206835409602437,
+   "rising": 0.45221468909201107,
+   "leap answered": 0.5838636363636364,
+   "range": 12.125,
+   "register": 64.0,
+   "even": 0.24718463649669478,
+   "long-short": 0.1756950945487149,
+   "rhythm variety": 3.036536176048375,
+   "surprise, pitch": 2.4105624222707083,
+   "surprise, rhythm": 2.2495936061381547,
+   "density": 0.7140104055618374,
+   "lines": 2.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 618,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Johannes Tinctoris",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.8018704897941424,
+   "repeats": 0.0360182666691419,
+   "leaps": 0.06340101572234481,
+   "move": 2.127427014135545,
+   "rising": 0.48342290541274835,
+   "leap answered": 0.5595238095238095,
+   "range": 11.899999999999991,
+   "register": 66.8,
+   "even": 0.395344680253237,
+   "long-short": 0.16278551982135295,
+   "rhythm variety": 2.5999735012310765,
+   "surprise, pitch": 2.364922336031416,
+   "surprise, rhythm": 2.005881557571484,
+   "density": 0.8618642442127934,
+   "lines": 2.6
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.8018704897941424,
+    "others": 0.6552242381208366,
+    "auc": 0.8721720243103197
+   },
+   {
+    "measure": "repeats",
+    "value": 0.0360182666691419,
+    "others": 0.1441004663288868,
+    "auc": 0.06174466133505997
+   },
+   {
+    "measure": "density",
+    "value": 0.8618642442127934,
+    "others": 1.5685167527008854,
+    "auc": 0.20339887733853831
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 7.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin3002-Comme_femme.krn",
+      "label": "Comme femme (kern)",
+      "bar": 10,
+      "notes": "B4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin3006-Le_souvenir_I.krn",
+      "label": "Le souvenir I (kern)",
+      "bar": 3,
+      "notes": "E4 D4 C4 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 6.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin3002-Comme_femme.krn",
+      "label": "Comme femme (kern)",
+      "bar": 3,
+      "notes": "F4 G4 A4 B4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin3007-Le_souvenir_II.krn",
+      "label": "Le souvenir II (kern)",
+      "bar": 18,
+      "notes": "F4 G4 A4 B4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin3008-O_invida_fortuna.krn",
+      "label": "O invida fortuna (kern)",
+      "bar": 15,
+      "notes": "F4 G4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 7.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin3002-Comme_femme.krn",
+      "label": "Comme femme (kern)",
+      "bar": 5,
+      "notes": "E4 F4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin3006-Le_souvenir_I.krn",
+      "label": "Le souvenir I (kern)",
+      "bar": 11,
+      "notes": "A3 Bb3 C4 D4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin3010-Vostre_regart.krn",
+      "label": "Vostre regart (kern)",
+      "bar": 45,
+      "notes": "E4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 6.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin3002-Comme_femme.krn",
+      "label": "Comme femme (kern)",
+      "bar": 9,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin3006-Le_souvenir_I.krn",
+      "label": "Le souvenir I (kern)",
+      "bar": 1,
+      "notes": "F4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 2,
+    "per_1000": 7.3,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin3002-Comme_femme.krn",
+      "label": "Comme femme (kern)",
+      "bar": 10,
+      "notes": "A4 G4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin3006-Le_souvenir_I.krn",
+      "label": "Le souvenir I (kern)",
+      "bar": 3,
+      "notes": "D4 C4 Bb3 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 2,
+    "per_1000": 7.3,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/jrp:Tin/Tin3002-Comme_femme.krn",
+      "label": "Comme femme (kern)",
+      "bar": 14,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Tin/Tin3006-Le_souvenir_I.krn",
+      "label": "Le souvenir I (kern)",
+      "bar": 2,
+      "notes": "F4 E4 D4 C4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 277,
+   "composers": 19
+  }
+ }
+]

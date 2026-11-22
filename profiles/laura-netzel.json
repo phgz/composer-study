@@ -1,0 +1,53 @@
+[
+ {
+  "composer": "Laura Netzel",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.3806021057067543,
+   "repeats": 0.33134999577398433,
+   "leaps": 0.17011868711529216,
+   "move": 3.242621779181359,
+   "rising": 0.4978331689308638,
+   "leap answered": 0.22755793226381463,
+   "range": 13.514285714285714,
+   "register": 70.28571428571429,
+   "even": 0.3210209580479467,
+   "long-short": 0.19999918480306209,
+   "rhythm variety": 2.969680812012849,
+   "surprise, pitch": 3.008422054709048,
+   "surprise, rhythm": 2.199019548240633,
+   "density": 4.507076498824835,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 2.969680812012849,
+    "others": 2.527154562009766,
+    "auc": 0.7943745918520628
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.008422054709048,
+    "others": 2.426285951511444,
+    "auc": 0.8217031404105939
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.199019548240633,
+    "others": 1.6267978850534106,
+    "auc": 0.8754084883949006
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1081,
+   "composers": 97
+  }
+ }
+]

@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Max Reger",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 19,
+  "values": {
+   "steps": 0.5535071516853741,
+   "repeats": 0.09422046227400556,
+   "leaps": 0.2026083391180833,
+   "move": 3.2449759442474355,
+   "rising": 0.5072029599744546,
+   "leap answered": 0.32207120695006863,
+   "range": 24.031578947368416,
+   "register": 75.6842105263158,
+   "even": 0.5815972840275446,
+   "long-short": 0.0849554114964974,
+   "rhythm variety": 2.219591370135736,
+   "surprise, pitch": 3.348620184034157,
+   "surprise, rhythm": 1.5867312392565802,
+   "density": 7.341067816774286,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 3.348620184034157,
+    "others": 2.7319395582234636,
+    "auc": 0.8516746411483255
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 12,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.3,_Op.74/sq26401096.mxl#4",
+      "label": "String Quartet No.3, Op.74, movement 4: Allegro con spirito e vivace ( – 126) (OpenScore)",
+      "bar": 51,
+      "notes": "Bb4 A4 Ab4 G4"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.4,_Op.109/sq31320671.mxl#2",
+      "label": "String Quartet No.4, Op.109, movement 2: Quasi presto ( – 172) (OpenScore)",
+      "bar": 37,
+      "notes": "Ab5 G5 F#5 F5"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.1,_Op.54_No.1/sq8940236.mxl#4",
+      "label": "String Quartet No.1, Op.54 No.1, movement 4: Prestissimo assai ( -160) (OpenScore)",
+      "bar": 79,
+      "notes": "A4 Ab4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 14,
+    "per_1000": 1.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.3,_Op.74/sq26401096.mxl#4",
+      "label": "String Quartet No.3, Op.74, movement 4: Allegro con spirito e vivace ( – 126) (OpenScore)",
+      "bar": 38,
+      "notes": "Bb4 A4 Ab4 A4"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.2,_Op.54_No.2/sq9811948.mxl#1",
+      "label": "String Quartet No.2, Op.54 No.2, movement 1 (OpenScore)",
+      "bar": 32,
+      "notes": "Bb4 A4 Ab4 A4"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.1,_Op.54_No.1/sq8940236.mxl#2",
+      "label": "String Quartet No.1, Op.54 No.1, movement 2: Vivace assai (OpenScore)",
+      "bar": 22,
+      "notes": "F#4 F4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 15,
+    "per_1000": 2.0,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.1,_Op.54_No.1/sq8940236.mxl#4",
+      "label": "String Quartet No.1, Op.54 No.1, movement 4: Prestissimo assai ( -160) (OpenScore)",
+      "bar": 11,
+      "notes": "D4 E4 F4 F#4"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.3,_Op.74/sq26401096.mxl#3",
+      "label": "String Quartet No.3, Op.74, movement 3: Andante sostenuto, semplice con variazio (OpenScore)",
+      "bar": 42,
+      "notes": "A5 B5 C6 C#6"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.1,_Op.54_No.1/sq8940236.mxl#1",
+      "label": "String Quartet No.1, Op.54 No.1, movement 1 (OpenScore)",
+      "bar": 19,
+      "notes": "Eb5 F5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     1,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 7,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.2,_Op.54_No.2/sq9811948.mxl#3",
+      "label": "String Quartet No.2, Op.54 No.2, movement 3: Allegro vivace, con spirito ( -158) (qua (OpenScore)",
+      "bar": 8,
+      "notes": "E5 Ab5 A5 C#6"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.2,_Op.54_No.2/sq9811948.mxl#1",
+      "label": "String Quartet No.2, Op.54 No.2, movement 1 (OpenScore)",
+      "bar": 202,
+      "notes": "F#4 Bb4 B4 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.3,_Op.74/sq26401096.mxl#3",
+      "label": "String Quartet No.3, Op.74, movement 3: Andante sostenuto, semplice con variazio (OpenScore)",
+      "bar": 111,
+      "notes": "F5 A5 Bb5 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.3,
+    "works": 8,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.3,_Op.74/sq26401096.mxl#1",
+      "label": "String Quartet No.3, Op.74, movement 1 (OpenScore)",
+      "bar": 195,
+      "notes": "E5 F5 F#5 G5"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.3,_Op.74/sq26401096.mxl#4",
+      "label": "String Quartet No.3, Op.74, movement 4: Allegro con spirito e vivace ( – 126) (OpenScore)",
+      "bar": 14,
+      "notes": "F#5 G5 Ab5 A5"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.2,_Op.54_No.2/sq9811948.mxl#3",
+      "label": "String Quartet No.2, Op.54 No.2, movement 3: Allegro vivace, con spirito ( -158) (qua (OpenScore)",
+      "bar": 40,
+      "notes": "Ab5 A5 Bb5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -4,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 11,
+    "per_1000": 1.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.2,_Op.54_No.2/sq9811948.mxl#1",
+      "label": "String Quartet No.2, Op.54 No.2, movement 1 (OpenScore)",
+      "bar": 44,
+      "notes": "A5 Bb5 F#5 G5"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.1,_Op.54_No.1/sq8940236.mxl#2",
+      "label": "String Quartet No.1, Op.54 No.1, movement 2: Vivace assai (OpenScore)",
+      "bar": 7,
+      "notes": "F4 F#4 D4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Reger,_Max/String_Quartet_No.1,_Op.54_No.1/sq8940236.mxl#4",
+      "label": "String Quartet No.1, Op.54 No.1, movement 4: Prestissimo assai ( -160) (OpenScore)",
+      "bar": 102,
+      "notes": "F#5 G5 Eb5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 99,
+   "composers": 19
+  }
+ }
+]

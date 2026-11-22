@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Ludwig Daser",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.6344145622704214,
+   "repeats": 0.09408855784290333,
+   "leaps": 0.10015278029940755,
+   "move": 2.495351712418194,
+   "rising": 0.45874484307719177,
+   "leap answered": 0.35078101931140376,
+   "range": 10.629999999999995,
+   "register": 68.6,
+   "even": 0.2843972802692637,
+   "long-short": 0.14804013206796562,
+   "rhythm variety": 3.0829658240460915,
+   "surprise, pitch": 2.7198068928158063,
+   "surprise, rhythm": 2.4197970089263503,
+   "density": 1.1979296495883733,
+   "lines": 6.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 3.0829658240460915,
+    "others": 2.8602260617368542,
+    "auc": 0.8154041586752803
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     -7
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 6.4,
+    "works": 3,
+    "per_1000": 5.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Das/Das1002c-Missa_Preter_rerum_seriem-Credo.krn",
+      "label": "Missa Preter rerum seriem, Credo: Patrem (kern)",
+      "bar": 28,
+      "notes": "Bb4 C5 D5 G4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002b-Missa_Preter_rerum_seriem-Gloria.krn",
+      "label": "Missa Preter rerum seriem, Gloria: Et in terra (kern)",
+      "bar": 24,
+      "notes": "F4 G4 A4 D4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002d-Missa_Preter_rerum_seriem-Sanctus.krn",
+      "label": "Missa Preter rerum seriem, Sanctus (kern)",
+      "bar": 113,
+      "notes": "F4 G4 A4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     5,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 6.3,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Das/Das1002c-Missa_Preter_rerum_seriem-Credo.krn",
+      "label": "Missa Preter rerum seriem, Credo: Patrem (kern)",
+      "bar": 70,
+      "notes": "D4 D4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002b-Missa_Preter_rerum_seriem-Gloria.krn",
+      "label": "Missa Preter rerum seriem, Gloria: Et in terra (kern)",
+      "bar": 59,
+      "notes": "D4 D4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002d-Missa_Preter_rerum_seriem-Sanctus.krn",
+      "label": "Missa Preter rerum seriem, Sanctus (kern)",
+      "bar": 45,
+      "notes": "D4 D4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 5.0,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/jrp:Das/Das1002c-Missa_Preter_rerum_seriem-Credo.krn",
+      "label": "Missa Preter rerum seriem, Credo: Patrem (kern)",
+      "bar": 130,
+      "notes": "D4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002a-Missa_Preter_rerum_seriem-Kyrie.krn",
+      "label": "Missa Preter rerum seriem, Kyrie: Kyrie I (kern)",
+      "bar": 24,
+      "notes": "A4 D5 C#5 D5"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002b-Missa_Preter_rerum_seriem-Gloria.krn",
+      "label": "Missa Preter rerum seriem, Gloria: Et in terra (kern)",
+      "bar": 144,
+      "notes": "F4 Bb4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Das/Das1002c-Missa_Preter_rerum_seriem-Credo.krn",
+      "label": "Missa Preter rerum seriem, Credo: Patrem (kern)",
+      "bar": 235,
+      "notes": "A4 Bb4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002b-Missa_Preter_rerum_seriem-Gloria.krn",
+      "label": "Missa Preter rerum seriem, Gloria: Et in terra (kern)",
+      "bar": 135,
+      "notes": "A4 Bb4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002a-Missa_Preter_rerum_seriem-Kyrie.krn",
+      "label": "Missa Preter rerum seriem, Kyrie: Kyrie I (kern)",
+      "bar": 71,
+      "notes": "A4 Bb4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Das/Das1002c-Missa_Preter_rerum_seriem-Credo.krn",
+      "label": "Missa Preter rerum seriem, Credo: Patrem (kern)",
+      "bar": 112,
+      "notes": "A4 G4 F4 A4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002a-Missa_Preter_rerum_seriem-Kyrie.krn",
+      "label": "Missa Preter rerum seriem, Kyrie: Kyrie I (kern)",
+      "bar": 74,
+      "notes": "A4 G4 F4 A4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002d-Missa_Preter_rerum_seriem-Sanctus.krn",
+      "label": "Missa Preter rerum seriem, Sanctus (kern)",
+      "bar": 52,
+      "notes": "A4 G4 F4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Das/Das1002d-Missa_Preter_rerum_seriem-Sanctus.krn",
+      "label": "Missa Preter rerum seriem, Sanctus (kern)",
+      "bar": 147,
+      "notes": "G4 A4 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002c-Missa_Preter_rerum_seriem-Credo.krn",
+      "label": "Missa Preter rerum seriem, Credo: Patrem (kern)",
+      "bar": 3,
+      "notes": "C5 D5 Eb5 D5"
+     },
+     {
+      "work": "kern/jrp:Das/Das1002b-Missa_Preter_rerum_seriem-Gloria.krn",
+      "label": "Missa Preter rerum seriem, Gloria: Et in terra (kern)",
+      "bar": 21,
+      "notes": "C5 D5 Eb5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 591,
+   "composers": 27
+  }
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "composer": "Franciszek Walczyński",
+  "kind": "prelude",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 52,
+  "values": {
+   "steps": 0.7384434605400207,
+   "repeats": 0.046498637199475674,
+   "leaps": 0.09569676934393832,
+   "move": 2.3055990443757013,
+   "rising": 0.41793139058622025,
+   "leap answered": 0.6252301587301587,
+   "range": 12.379807692307692,
+   "register": 68.92307692307692,
+   "even": 0.5731422048851059,
+   "long-short": 0.0730167500455482,
+   "rhythm variety": 1.8381460415422917,
+   "surprise, pitch": 2.700575332345134,
+   "surprise, rhythm": 1.6916905226303833,
+   "density": 2.6232654162954296,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7384434605400207,
+    "others": 0.4828915568750712,
+    "auc": 0.8231797093862687
+   },
+   {
+    "measure": "leaps",
+    "value": 0.09569676934393832,
+    "others": 0.24211698545326554,
+    "auc": 0.2329517421577427
+   },
+   {
+    "measure": "move",
+    "value": 2.3055990443757013,
+    "others": 3.8743796072718624,
+    "auc": 0.18657777484380056
+   },
+   {
+    "measure": "rising",
+    "value": 0.41793139058622025,
+    "others": 0.5003937131787467,
+    "auc": 0.23408669086358028
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.6916905226303833,
+    "others": 1.0781077575657816,
+    "auc": 0.8157408272277483
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 17,
+    "per_1000": 13.6,
+    "others_per_1000": 3.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-029_walczynski-franciszek--praeludia-organi-op-5-29-moderato.krn",
+      "label": "Praeludia organi op. 5, 29. Moderato: 29.Moderato. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 5,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-011_walczynski-franciszek--praeludia-organi-op-5-11-andantino.krn",
+      "label": "Praeludia organi op. 5, 11. Andantino: 11. Andantino. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 2,
+      "notes": "E4 Eb4 C#4 B3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-015_walczynski-franciszek--praeludia-organi-op-5-15-andante.krn",
+      "label": "Praeludia organi op. 5, 15. Andante: 15. Andante. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 1,
+      "notes": "F5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 6,
+    "per_1000": 4.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-020_walczynski-franciszek--praeludia-organi-op-5-20-lento.krn",
+      "label": "Praeludia organi op. 5, 20. Lento: 20. Lento. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 12,
+      "notes": "E4 D4 Eb4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-027_walczynski-franciszek--praeludia-organi-op-5-27-allegro.krn",
+      "label": "Praeludia organi op. 5, 27. Allegro: 27. Allegro. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 3,
+      "notes": "C#5 B4 C5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-017_walczynski-franciszek--praeludia-organi-op-5-17-largo.krn",
+      "label": "Praeludia organi op. 5, 17. Largo: 17. Largo. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 2,
+      "notes": "A4 G4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.0,
+    "works": 9,
+    "per_1000": 6.0,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-012_walczynski-franciszek--praeludia-organi-op-5-12-allegretto.krn",
+      "label": "Praeludia organi op. 5, 12. Allegretto: 12. Allegretto. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 10,
+      "notes": "F#5 E5 Eb5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-047_walczynski-franciszek--praeludia-organi-op-5-47-allegro-moderato.krn",
+      "label": "Praeludia organi op. 5, 47. Allegro moderato: 47. Allegro moderato. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 3,
+      "notes": "G4 F4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-027_walczynski-franciszek--praeludia-organi-op-5-27-allegro.krn",
+      "label": "Praeludia organi op. 5, 27. Allegro: 27. Allegro. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 1,
+      "notes": "F5 Eb5 D5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 6,
+    "per_1000": 3.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-020_walczynski-franciszek--praeludia-organi-op-5-20-lento.krn",
+      "label": "Praeludia organi op. 5, 20. Lento: 20. Lento. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 13,
+      "notes": "Eb4 E4 D4 C#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-017_walczynski-franciszek--praeludia-organi-op-5-17-largo.krn",
+      "label": "Praeludia organi op. 5, 17. Largo: 17. Largo. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 3,
+      "notes": "Ab4 A4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-022_walczynski-franciszek--praeludia-organi-op-5-22-andante.krn",
+      "label": "Praeludia organi op. 5, 22. Andante: 22. Andante. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 6,
+      "notes": "Eb5 E5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 6,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-017_walczynski-franciszek--praeludia-organi-op-5-17-largo.krn",
+      "label": "Praeludia organi op. 5, 17. Largo: 17. Largo. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 2,
+      "notes": "B4 A4 G4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-020_walczynski-franciszek--praeludia-organi-op-5-20-lento.krn",
+      "label": "Praeludia organi op. 5, 20. Lento: 20. Lento. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 12,
+      "notes": "F#4 E4 D4 Eb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-025_walczynski-franciszek--praeludia-organi-op-5-25.krn",
+      "label": "Praeludia organi op. 5, 25. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 2,
+      "notes": "Eb4 C#4 B3 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 6,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-001_walczynski-franciszek--praeludia-organi-op-5-1-moderato.krn",
+      "label": "Praeludia organi op. 5, 1. Moderato (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 16,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-010_walczynski-franciszek--praeludia-organi-op-5-10-allegretto.krn",
+      "label": "Praeludia organi op. 5, 10. Allegretto: 10. Allegretto. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 3,
+      "notes": "A4 Ab4 F#4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-159--001-011_walczynski-franciszek--praeludia-organi-op-5-11-andantino.krn",
+      "label": "Praeludia organi op. 5, 11. Andantino: 11. Andantino. (PL-KOZmzk mzk/m/159, kern)",
+      "bar": 8,
+      "notes": "E4 Eb4 C#4 B3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 111,
+   "composers": 12
+  }
+ }
+]

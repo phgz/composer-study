@@ -1,0 +1,126 @@
+[
+ {
+  "composer": "Marco Scacchi",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.4123933922404226,
+   "repeats": 0.3150626963963235,
+   "leaps": 0.10208832509965984,
+   "move": 2.8257737863124373,
+   "rising": 0.4478521089138795,
+   "leap answered": 0.34614718614718615,
+   "range": 12.2,
+   "register": 74.0,
+   "even": 0.28806109127247337,
+   "long-short": 0.11249895993798434,
+   "rhythm variety": 2.7582029075304964,
+   "surprise, pitch": 3.05147159349782,
+   "surprise, rhythm": 2.082721795926932,
+   "density": 7.0714523386010155,
+   "lines": 20.2
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.28806109127247337,
+    "others": 0.5165243253937559,
+    "auc": 0.08930943839033015
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.7582029075304964,
+    "others": 2.2426103435034865,
+    "auc": 0.7616842959376324
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.05147159349782,
+    "others": 2.520762808730548,
+    "auc": 0.9135396160877676
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.4,
+    "works": 4,
+    "per_1000": 8.9,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-b/kern/d-b--mus-ms-19600-1--001-003_scacchi-marco--missa-omnium-tonorum-pro-electione-regis-poloniae-casimiri-patrem.krn",
+      "label": "Missa omnium tonorum pro electione Regis Poloniae Casimiri, Patrem, movement 3 (D-B Mus.ms. 19600/1, kern)",
+      "bar": 33,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:d-b/kern/d-b--mus-ms-19600-1--001-006_scacchi-marco--missa-omnium-tonorum-pro-electione-regis-poloniae-casimiri-agnus-dei.krn",
+      "label": "Missa omnium tonorum pro electione Regis Poloniae Casimiri, Agnus Dei, movement 6 (D-B Mus.ms. 19600/1, kern)",
+      "bar": 7,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:d-b/kern/d-b--mus-ms-19600-1--001-005_scacchi-marco--missa-omnium-tonorum-pro-electione-regis-poloniae-casimiri-benedictus.krn",
+      "label": "Missa omnium tonorum pro electione Regis Poloniae Casimiri, Benedictus, movement 5 (D-B Mus.ms. 19600/1, kern)",
+      "bar": 9,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 3.2,
+    "works": 3,
+    "per_1000": 5.6,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-b/kern/d-b--mus-ms-19600-1--001-003_scacchi-marco--missa-omnium-tonorum-pro-electione-regis-poloniae-casimiri-patrem.krn",
+      "label": "Missa omnium tonorum pro electione Regis Poloniae Casimiri, Patrem, movement 3 (D-B Mus.ms. 19600/1, kern)",
+      "bar": 6,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:d-b/kern/d-b--mus-ms-19600-1--001-006_scacchi-marco--missa-omnium-tonorum-pro-electione-regis-poloniae-casimiri-agnus-dei.krn",
+      "label": "Missa omnium tonorum pro electione Regis Poloniae Casimiri, Agnus Dei, movement 6 (D-B Mus.ms. 19600/1, kern)",
+      "bar": 4,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:d-b/kern/d-b--mus-ms-19600-1--001-004_scacchi-marco--missa-omnium-tonorum-pro-electione-regis-poloniae-casimiri-sanctus.krn",
+      "label": "Missa omnium tonorum pro electione Regis Poloniae Casimiri, Sanctus, movement 4 (D-B Mus.ms. 19600/1, kern)",
+      "bar": 8,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 196,
+   "composers": 20
+  }
+ }
+]

@@ -1,0 +1,239 @@
+[
+ {
+  "composer": "Jacek Szczurowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 19,
+  "values": {
+   "steps": 0.4106304073420775,
+   "repeats": 0.3389424013746927,
+   "leaps": 0.12275675584255187,
+   "move": 2.998734265783204,
+   "rising": 0.4408440724598692,
+   "leap answered": 0.2597649079681198,
+   "range": 12.052631578947368,
+   "register": 75.3157894736842,
+   "even": 0.46502357728575366,
+   "long-short": 0.1751202960735295,
+   "rhythm variety": 2.2234657974037586,
+   "surprise, pitch": 2.217433262911458,
+   "surprise, rhythm": 1.4825973150359004,
+   "density": 8.882817046778705,
+   "lines": 6.2631578947368425
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 7.1,
+    "works": 4,
+    "per_1000": 3.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-013_szczurowski-jacek--msza-swiateczna-agnus-dei.krn",
+      "label": "Msza świąteczna, Agnus Dei, movement 13 (PL-SA 172/A V 2, kern)",
+      "bar": 5,
+      "notes": "F5 F5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-008_szczurowski-jacek--msza-swiateczna-et-incarnatus.krn",
+      "label": "Msza świąteczna, Et Incarnatus, movement 8 (PL-SA 172/A V 2, kern)",
+      "bar": 19,
+      "notes": "Bb4 Bb4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-004_szczurowski-jacek--msza-swiateczna-laudamus.krn",
+      "label": "Msza świąteczna, Laudamus, movement 4 (PL-SA 172/A V 2, kern)",
+      "bar": 18,
+      "notes": "C5 C5 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 6.3,
+    "works": 5,
+    "per_1000": 3.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-009_szczurowski-jacek--msza-swiateczna-ressurexit.krn",
+      "label": "Msza świąteczna, Ressurexit, movement 9 (PL-SA 172/A V 2, kern)",
+      "bar": 35,
+      "notes": "G4 G4 F#4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-003_szczurowski-jacek--msza-swiateczna-et-in-terra.krn",
+      "label": "Msza świąteczna, Et in terra, movement 3 (PL-SA 172/A V 2, kern)",
+      "bar": 11,
+      "notes": "F5 F5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-011_szczurowski-jacek--msza-swiateczna-osanna.krn",
+      "label": "Msza świąteczna, Osanna, movement 11 (PL-SA 172/A V 2, kern)",
+      "bar": 88,
+      "notes": "D5 D5 C#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-011_szczurowski-jacek--msza-swiateczna-osanna.krn",
+      "label": "Msza świąteczna, Osanna, movement 11 (PL-SA 172/A V 2, kern)",
+      "bar": 53,
+      "notes": "E5 D5 A4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-002_szczurowski-jacek--msza-swiateczna-christe.krn",
+      "label": "Msza świąteczna, Christe, movement 2 (PL-SA 172/A V 2, kern)",
+      "bar": 18,
+      "notes": "E5 D5 A4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-009_szczurowski-jacek--msza-swiateczna-ressurexit.krn",
+      "label": "Msza świąteczna, Ressurexit, movement 9 (PL-SA 172/A V 2, kern)",
+      "bar": 79,
+      "notes": "E5 D5 A4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     4
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-011_szczurowski-jacek--msza-swiateczna-osanna.krn",
+      "label": "Msza świąteczna, Osanna, movement 11 (PL-SA 172/A V 2, kern)",
+      "bar": 54,
+      "notes": "D5 A4 D5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-006_szczurowski-jacek--msza-swiateczna-quoniam.krn",
+      "label": "Msza świąteczna, Quoniam, movement 6 (PL-SA 172/A V 2, kern)",
+      "bar": 20,
+      "notes": "D5 A4 D5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.6,
+    "works": 8,
+    "per_1000": 6.6,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-013_szczurowski-jacek--msza-swiateczna-agnus-dei.krn",
+      "label": "Msza świąteczna, Agnus Dei, movement 13 (PL-SA 172/A V 2, kern)",
+      "bar": 1,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--173-a-v-3--001-001_szczurowski-jacek--missa-ex-d-kyrie.krn",
+      "label": "Missa ex D, Kyrie, movement 1 (PL-SA 173/A V 3, kern)",
+      "bar": 72,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-001_szczurowski-jacek--msza-swiateczna-kyrie.krn",
+      "label": "Msza świąteczna, Kyrie, movement 1 (PL-SA 172/A V 2, kern)",
+      "bar": 1,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     5
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-006_szczurowski-jacek--msza-swiateczna-quoniam.krn",
+      "label": "Msza świąteczna, Quoniam, movement 6 (PL-SA 172/A V 2, kern)",
+      "bar": 23,
+      "notes": "A4 D5 A4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--172-a-v-2--001-012_szczurowski-jacek--msza-swiateczna-benedictus.krn",
+      "label": "Msza świąteczna, Benedictus, movement 12 (PL-SA 172/A V 2, kern)",
+      "bar": 16,
+      "notes": "D5 G5 D5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 628,
+   "composers": 34
+  }
+ }
+]

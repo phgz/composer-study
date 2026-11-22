@@ -1,0 +1,245 @@
+[
+ {
+  "composer": "Cristóbal de Morales",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.6915641932710049,
+   "repeats": 0.10277512536597762,
+   "leaps": 0.07065173365164411,
+   "move": 2.3912736413883335,
+   "rising": 0.4474987288443442,
+   "leap answered": 0.5747814313346228,
+   "range": 10.78,
+   "register": 61.2,
+   "even": 0.3649120085716876,
+   "long-short": 0.15925570450747703,
+   "rhythm variety": 2.865250390116208,
+   "surprise, pitch": 2.484106196260765,
+   "surprise, rhythm": 2.2701046464186243,
+   "density": 1.125090453882621,
+   "lines": 4.2
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.8,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-002_morales-cristobal-de--missa-ave-maria-et-in-terra.krn",
+      "label": "[Missa] Ave Maria, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 15,
+      "notes": "D4 C4 C4 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-003_morales-cristobal-de--missa-ave-maria-patrem.krn",
+      "label": "[Missa] Ave Maria, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 60,
+      "notes": "E4 D4 D4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-001_morales-cristobal-de--missa-ave-maria-kyrie.krn",
+      "label": "[Missa] Ave Maria, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 16,
+      "notes": "D4 C4 C4 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 4.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-003_morales-cristobal-de--missa-ave-maria-patrem.krn",
+      "label": "[Missa] Ave Maria, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 14,
+      "notes": "D4 E4 F4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-002_morales-cristobal-de--missa-ave-maria-et-in-terra.krn",
+      "label": "[Missa] Ave Maria, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 17,
+      "notes": "D4 E4 F4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-005_morales-cristobal-de--missa-ave-maria-agnus-dei.krn",
+      "label": "[Missa] Ave Maria, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 9,
+      "notes": "D4 E4 F4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.1,
+    "works": 5,
+    "per_1000": 6.5,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-003_morales-cristobal-de--missa-ave-maria-patrem.krn",
+      "label": "[Missa] Ave Maria, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 7,
+      "notes": "G4 F4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-002_morales-cristobal-de--missa-ave-maria-et-in-terra.krn",
+      "label": "[Missa] Ave Maria, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 16,
+      "notes": "C4 Bb3 A3 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-005_morales-cristobal-de--missa-ave-maria-agnus-dei.krn",
+      "label": "[Missa] Ave Maria, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 48,
+      "notes": "C4 Bb3 A3 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-004_morales-cristobal-de--missa-ave-maria-sanctus.krn",
+      "label": "[Missa] Ave Maria, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 64,
+      "notes": "C4 Bb3 G3 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-003_morales-cristobal-de--missa-ave-maria-patrem.krn",
+      "label": "[Missa] Ave Maria, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 24,
+      "notes": "G4 F4 D4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-002_morales-cristobal-de--missa-ave-maria-et-in-terra.krn",
+      "label": "[Missa] Ave Maria, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 20,
+      "notes": "F4 E4 D4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-003_morales-cristobal-de--missa-ave-maria-patrem.krn",
+      "label": "[Missa] Ave Maria, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 50,
+      "notes": "F4 E4 D4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-001_morales-cristobal-de--missa-ave-maria-kyrie.krn",
+      "label": "[Missa] Ave Maria, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 27,
+      "notes": "F4 E4 D4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-002_morales-cristobal-de--missa-ave-maria-et-in-terra.krn",
+      "label": "[Missa] Ave Maria, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 71,
+      "notes": "D4 D4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-003_morales-cristobal-de--missa-ave-maria-patrem.krn",
+      "label": "[Missa] Ave Maria, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 137,
+      "notes": "F4 F4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--006-005_morales-cristobal-de--missa-ave-maria-agnus-dei.krn",
+      "label": "[Missa] Ave Maria, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 109,
+      "notes": "F4 F4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 690,
+   "composers": 38
+  }
+ }
+]

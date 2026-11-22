@@ -1,0 +1,140 @@
+[
+ {
+  "composer": "Carl Maria von Weber",
+  "kind": "partsong",
+  "forces": "voices",
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.4119783717776491,
+   "repeats": 0.2968392861728872,
+   "leaps": 0.11325468560314005,
+   "move": 2.977791940215253,
+   "rising": 0.4480626336928652,
+   "leap answered": 0.13823260073260074,
+   "range": 9.808333333333332,
+   "register": 65.83333333333333,
+   "even": 0.39485088491827786,
+   "long-short": 0.1609996752897825,
+   "rhythm variety": 2.342470481042323,
+   "surprise, pitch": 2.3210535519798214,
+   "surprise, rhythm": 1.439443998630579,
+   "density": 5.985993881043252,
+   "lines": 4.833333333333333
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.4119783717776491,
+    "others": 0.5797298681555857,
+    "auc": 0.20833333333333334
+   },
+   {
+    "measure": "repeats",
+    "value": 0.2968392861728872,
+    "others": 0.1295368424893375,
+    "auc": 0.7847222222222222
+   },
+   {
+    "measure": "move",
+    "value": 2.977791940215253,
+    "others": 2.6880744115376296,
+    "auc": 0.7552083333333334
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.13823260073260074,
+    "others": 0.38671165443665784,
+    "auc": 0.15538194444444445
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.342470481042323,
+    "others": 2.7669553959791675,
+    "auc": 0.22916666666666666
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.439443998630579,
+    "others": 2.023460460083745,
+    "auc": 0.13194444444444445
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 14.8,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "cpdl-3:Carl_Maria_von_Weber/Weber_Schwertlied2.mxl",
+      "label": "Schwertlied (CPDL)",
+      "bar": 10,
+      "notes": "D4 D4 D4 D4"
+     },
+     {
+      "work": "cpdl-3:Carl_Maria_von_Weber/Weber_LutzowsWildeJagd2.mxl",
+      "label": "Lützows wilde Jagd (CPDL)",
+      "bar": 23,
+      "notes": "Bb3 Bb3 Bb3 Bb3"
+     },
+     {
+      "work": "cpdl-3:Carl_Maria_von_Weber/Nh_WeberCM_Grablied_BläserQ.mxl",
+      "label": "Grablied (Hope and Faith) (CPDL)",
+      "bar": 11,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 96,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Carl Maria von Weber",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.510509384698593,
+   "repeats": 0.19938803628377352,
+   "leaps": 0.12230729814866574,
+   "move": 2.655764846188923,
+   "rising": 0.4757523939808481,
+   "leap answered": 0.19766542980828694,
+   "range": 10.0,
+   "register": 63.0,
+   "even": 0.4352562244932794,
+   "long-short": 0.22538609889547173,
+   "rhythm variety": 2.5937131928076793,
+   "surprise, pitch": 1.7025058401416586,
+   "surprise, rhythm": 1.5775892713183521,
+   "density": 4.8376585332802815,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 1207,
+   "composers": 115
+  }
+ }
+]

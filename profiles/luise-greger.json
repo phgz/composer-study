@@ -1,0 +1,53 @@
+[
+ {
+  "composer": "Luise Greger",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 9,
+  "values": {
+   "steps": 0.35081213525235455,
+   "repeats": 0.22434866557099198,
+   "leaps": 0.24216019603639496,
+   "move": 3.642293713584486,
+   "rising": 0.5021910764439041,
+   "leap answered": 0.28204256669729816,
+   "range": 13.183333333333334,
+   "register": 68.94444444444444,
+   "even": 0.38981603003369336,
+   "long-short": 0.1969655396807222,
+   "rhythm variety": 2.395870469946166,
+   "surprise, pitch": 3.235393052291339,
+   "surprise, rhythm": 1.5657428580030712,
+   "density": 5.025654703074093,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.24216019603639496,
+    "others": 0.17572597523912584,
+    "auc": 0.7601851851851851
+   },
+   {
+    "measure": "move",
+    "value": 3.642293713584486,
+    "others": 3.2037074933844885,
+    "auc": 0.7659259259259259
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.235393052291339,
+    "others": 2.750237246066498,
+    "auc": 0.7844444444444444
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 300,
+   "composers": 37
+  }
+ }
+]

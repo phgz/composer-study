@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Carl Ditters von Dittersdorf",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Classical",
+  "works": 9,
+  "values": {
+   "steps": 0.5931435685031337,
+   "repeats": 0.17046483878822982,
+   "leaps": 0.11064502426914152,
+   "move": 2.8188410207007193,
+   "rising": 0.4494850304558324,
+   "leap answered": 0.2701083172307479,
+   "range": 20.711111111111112,
+   "register": 76.22222222222223,
+   "even": 0.6377741601583652,
+   "long-short": 0.06455440525859002,
+   "rhythm variety": 1.9733911792545618,
+   "surprise, pitch": 2.2102239749151824,
+   "surprise, rhythm": 1.2612475626504454,
+   "density": 5.901595645077281,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.11064502426914152,
+    "others": 0.17280966119801439,
+    "auc": 0.1873222949749158
+   },
+   {
+    "measure": "move",
+    "value": 2.8188410207007193,
+    "others": 3.30032148275456,
+    "auc": 0.23961539352872935
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2102239749151824,
+    "others": 2.5811310519166497,
+    "auc": 0.16082830743570348
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 8.1,
+    "works": 7,
+    "per_1000": 4.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_G_major,_Kr.193/sq35678303.mxl#1",
+      "label": "String Quartet in G major, Kr.193, movement 1 (OpenScore)",
+      "bar": 67,
+      "notes": "D6 E6 D6 C#6"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_D_major,_Kr.191/sq27449398.mxl#3",
+      "label": "String Quartet in D major, Kr.191, movement 3: Finale Allegro (OpenScore)",
+      "bar": 2,
+      "notes": "G5 A5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_B-flat_major,_Kr.192/sq19626475.mxl#3",
+      "label": "String Quartet in B-flat major, Kr.192, movement 3: Thema con Variazioni Andante (OpenScore)",
+      "bar": 34,
+      "notes": "Bb4 C5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 7.7,
+    "works": 4,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_B-flat_major,_Kr.192/sq19626475.mxl#3",
+      "label": "String Quartet in B-flat major, Kr.192, movement 3: Thema con Variazioni Andante (OpenScore)",
+      "bar": 33,
+      "notes": "A4 Bb4 C5 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_G_major,_Kr.193/sq35678303.mxl#3",
+      "label": "String Quartet in G major, Kr.193, movement 3: Finale arco Presto (OpenScore)",
+      "bar": 17,
+      "notes": "Bb5 B5 C#6 B5"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_D_major,_Kr.191/sq27449398.mxl#1",
+      "label": "String Quartet in D major, Kr.191, movement 1 (OpenScore)",
+      "bar": 9,
+      "notes": "C#5 D5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.4,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_D_major,_Kr.191/sq27449398.mxl#3",
+      "label": "String Quartet in D major, Kr.191, movement 3: Finale Allegro (OpenScore)",
+      "bar": 6,
+      "notes": "D5 G5 A5 G5"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_B-flat_major,_Kr.192/sq19626475.mxl#3",
+      "label": "String Quartet in B-flat major, Kr.192, movement 3: Thema con Variazioni Andante (OpenScore)",
+      "bar": 85,
+      "notes": "G5 C6 D6 C6"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_G_major,_Kr.193/sq35678303.mxl#1",
+      "label": "String Quartet in G major, Kr.193, movement 1 (OpenScore)",
+      "bar": 38,
+      "notes": "A4 D5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.9,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_B-flat_major,_Kr.192/sq19626475.mxl#1",
+      "label": "String Quartet in B-flat major, Kr.192, movement 1 (OpenScore)",
+      "bar": 1,
+      "notes": "Eb5 Eb5 D5 C5"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_G_major,_Kr.193/sq35678303.mxl#1",
+      "label": "String Quartet in G major, Kr.193, movement 1 (OpenScore)",
+      "bar": 29,
+      "notes": "G5 G5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.8,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_G_major,_Kr.193/sq35678303.mxl#1",
+      "label": "String Quartet in G major, Kr.193, movement 1 (OpenScore)",
+      "bar": 103,
+      "notes": "B5 B5 A5 A5"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_B-flat_major,_Kr.192/sq19626475.mxl#1",
+      "label": "String Quartet in B-flat major, Kr.192, movement 1 (OpenScore)",
+      "bar": 31,
+      "notes": "D5 D5 C5 C5"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_G_major,_Kr.193/sq35678303.mxl#2",
+      "label": "String Quartet in G major, Kr.193, movement 2 (OpenScore)",
+      "bar": 243,
+      "notes": "G4 G4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     -2
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_B-flat_major,_Kr.192/sq19626475.mxl#3",
+      "label": "String Quartet in B-flat major, Kr.192, movement 3: Thema con Variazioni Andante (OpenScore)",
+      "bar": 6,
+      "notes": "C5 A4 G4 F4"
+     },
+     {
+      "work": "openscore-quartets:Dittersdorf,_Carl_Ditters_von/String_Quartet_in_D_major,_Kr.191/sq27449398.mxl#2",
+      "label": "String Quartet in D major, Kr.191, movement 2: Menuetto Moderato poco  (OpenScore)",
+      "bar": 8,
+      "notes": "E5 C#5 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 484,
+   "composers": 10
+  }
+ }
+]

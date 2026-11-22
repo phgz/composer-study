@@ -1,0 +1,173 @@
+[
+ {
+  "composer": "Christlieb Siegmund Binder",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5620868696501833,
+   "repeats": 0.24057805611124664,
+   "leaps": 0.07671966868509249,
+   "move": 2.3945070402082673,
+   "rising": 0.4136270597512359,
+   "leap answered": 0.5545640958757209,
+   "range": 12.075000000000001,
+   "register": 73.16666666666667,
+   "even": 0.5287468798679783,
+   "long-short": 0.07733231887352374,
+   "rhythm variety": 2.246028180378181,
+   "surprise, pitch": 2.456929183004199,
+   "surprise, rhythm": 1.7843463142574512,
+   "density": 8.239877262249587,
+   "lines": 5.666666666666667
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-003_binder-christlieb-siegmund--missa-ex-c-credo.krn",
+      "label": "Missa ex C, Credo, movement 3 (PL-SA 3/A I 3, kern)",
+      "bar": 20,
+      "notes": "D5 C5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-005_binder-christlieb-siegmund--missa-ex-c-benedictus.krn",
+      "label": "Missa ex C, Benedictus, movement 5 (PL-SA 3/A I 3, kern)",
+      "bar": 37,
+      "notes": "E5 D5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-004_binder-christlieb-siegmund--missa-ex-c-sanctus.krn",
+      "label": "Missa ex C, Sanctus, movement 4 (PL-SA 3/A I 3, kern)",
+      "bar": 13,
+      "notes": "D5 C5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 5.1,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-003_binder-christlieb-siegmund--missa-ex-c-credo.krn",
+      "label": "Missa ex C, Credo, movement 3 (PL-SA 3/A I 3, kern)",
+      "bar": 50,
+      "notes": "G4 A4 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-005_binder-christlieb-siegmund--missa-ex-c-benedictus.krn",
+      "label": "Missa ex C, Benedictus, movement 5 (PL-SA 3/A I 3, kern)",
+      "bar": 15,
+      "notes": "E5 F#5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-002_binder-christlieb-siegmund--missa-ex-c-gloria.krn",
+      "label": "Missa ex C, Gloria, movement 2 (PL-SA 3/A I 3, kern)",
+      "bar": 68,
+      "notes": "D4 E4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-002_binder-christlieb-siegmund--missa-ex-c-gloria.krn",
+      "label": "Missa ex C, Gloria, movement 2 (PL-SA 3/A I 3, kern)",
+      "bar": 14,
+      "notes": "A5 C6 C6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-005_binder-christlieb-siegmund--missa-ex-c-benedictus.krn",
+      "label": "Missa ex C, Benedictus, movement 5 (PL-SA 3/A I 3, kern)",
+      "bar": 21,
+      "notes": "E5 G5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-005_binder-christlieb-siegmund--missa-ex-c-benedictus.krn",
+      "label": "Missa ex C, Benedictus, movement 5 (PL-SA 3/A I 3, kern)",
+      "bar": 24,
+      "notes": "B5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-002_binder-christlieb-siegmund--missa-ex-c-gloria.krn",
+      "label": "Missa ex C, Gloria, movement 2 (PL-SA 3/A I 3, kern)",
+      "bar": 42,
+      "notes": "B4 A4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--3-a-i-3--001-003_binder-christlieb-siegmund--missa-ex-c-credo.krn",
+      "label": "Missa ex C, Credo, movement 3 (PL-SA 3/A I 3, kern)",
+      "bar": 47,
+      "notes": "D5 C5 Bb4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 641,
+   "composers": 34
+  }
+ }
+]

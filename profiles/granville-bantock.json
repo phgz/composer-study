@@ -1,0 +1,114 @@
+[
+ {
+  "composer": "Granville Bantock",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 5,
+  "values": {
+   "steps": 0.3326092927894721,
+   "repeats": 0.274156924955477,
+   "leaps": 0.15447296932394647,
+   "move": 3.2149268378938993,
+   "rising": 0.5276838034654555,
+   "leap answered": 0.20004273504273504,
+   "range": 12.229999999999999,
+   "register": 68.0,
+   "even": 0.46083460595888315,
+   "long-short": 0.10215902753594619,
+   "rhythm variety": 2.6137843521381794,
+   "surprise, pitch": 2.7800617562153986,
+   "surprise, rhythm": 2.2148404423259054,
+   "density": 4.436825870677131,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3326092927894721,
+    "others": 0.4427323116784768,
+    "auc": 0.24539473684210528
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 9.2,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "openscore-lieder:Bantock,_Granville/5_Songs_from_the_Chinese_Poets,_1st_Series/4_The_Celestial_Weaver/lc6211559.mxl",
+      "label": "Songs from the Chinese Poets, 1st Series, The Celestial Weaver (OpenScore)",
+      "bar": 5,
+      "notes": "E4 E4 E4 E4"
+     },
+     {
+      "work": "openscore-lieder:Bantock,_Granville/5_Songs_from_the_Chinese_Poets,_1st_Series/2_The_Ghost_Road/lc6211549.mxl",
+      "label": "Songs from the Chinese Poets, 1st Series, The Ghost Road (OpenScore)",
+      "bar": 59,
+      "notes": "E4 E4 E4 E4"
+     },
+     {
+      "work": "openscore-lieder:Bantock,_Granville/5_Songs_from_the_Chinese_Poets,_1st_Series/3_Under_the_Moon/lc6211555.mxl",
+      "label": "Songs from the Chinese Poets, 1st Series, Under the Moon (OpenScore)",
+      "bar": 6,
+      "notes": "E4 E4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.0,
+    "works": 3,
+    "per_1000": 14.7,
+    "others_per_1000": 2.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Bantock,_Granville/5_Songs_from_the_Chinese_Poets,_1st_Series/2_The_Ghost_Road/lc6211549.mxl",
+      "label": "Songs from the Chinese Poets, 1st Series, The Ghost Road (OpenScore)",
+      "bar": 10,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "openscore-lieder:Bantock,_Granville/5_Songs_from_the_Chinese_Poets,_1st_Series/4_The_Celestial_Weaver/lc6211559.mxl",
+      "label": "Songs from the Chinese Poets, 1st Series, The Celestial Weaver (OpenScore)",
+      "bar": 5,
+      "notes": "E4 E4 E4 E4"
+     },
+     {
+      "work": "openscore-lieder:Bantock,_Granville/5_Songs_from_the_Chinese_Poets,_1st_Series/3_Under_the_Moon/lc6211555.mxl",
+      "label": "Songs from the Chinese Poets, 1st Series, Under the Moon (OpenScore)",
+      "bar": 7,
+      "notes": "E4 E4 E4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 304,
+   "composers": 37
+  }
+ }
+]

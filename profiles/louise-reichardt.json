@@ -1,0 +1,372 @@
+[
+ {
+  "composer": "Louise Reichardt",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 41,
+  "values": {
+   "steps": 0.49488755407855717,
+   "repeats": 0.22512569625188203,
+   "leaps": 0.14565608306366634,
+   "move": 2.814117158050199,
+   "rising": 0.46473894656804177,
+   "leap answered": 0.33574127689712985,
+   "range": 10.568292682926828,
+   "register": 69.67073170731707,
+   "even": 0.45887094556344593,
+   "long-short": 0.15106711223361463,
+   "rhythm variety": 2.2759559100117293,
+   "surprise, pitch": 2.933495789959155,
+   "surprise, rhythm": 1.7490388079255574,
+   "density": 5.4791597837385915,
+   "lines": 3.048780487804878
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.933495789959155,
+    "others": 2.4766817184463528,
+    "auc": 0.7983779200403076
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 9,
+    "per_1000": 3.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/06_Notturno/lc5100188.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Notturno (OpenScore)",
+      "bar": 9,
+      "notes": "B4 A4 A4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/05_Poesia_di_Metastasio_(I)/lc5100080.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Poesia di Metastasio (I) (OpenScore)",
+      "bar": 15,
+      "notes": "Eb5 C#5 C#5 C5"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/08_Poesie_von_Tieck/lc5002096.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Poesie von Tieck (OpenScore)",
+      "bar": 23,
+      "notes": "E5 D5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 10,
+    "per_1000": 4.2,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge/11_Daphne_am_Bach/lc5087973.mxl",
+      "label": "Gesänge, Daphne am Bach (OpenScore)",
+      "bar": 2,
+      "notes": "Bb4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/11_Aus_Tiecks_Genoveva/lc5002111.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Aus Tiecks Genoveva (OpenScore)",
+      "bar": 8,
+      "notes": "Bb4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/05_Poesia_di_Metastasio_(I)/lc5100080.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Poesia di Metastasio (I) (OpenScore)",
+      "bar": 27,
+      "notes": "C5 Bb4 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 8,
+    "per_1000": 5.8,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/07_Poesia_di_Metastasio_(II)/lc5101789.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Poesia di Metastasio (II) (OpenScore)",
+      "bar": 11,
+      "notes": "Eb5 D5 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/04_Wachtelwacht/lc5001994.mxl",
+      "label": "Gesänge, Op.3, Wachtelwacht (OpenScore)",
+      "bar": 7,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/2_Frühlingslied/lc5002052.mxl",
+      "label": "Lieder von Novalis, Op.4, Frühlingslied (OpenScore)",
+      "bar": 8,
+      "notes": "F5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.2,
+    "works": 4,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge/08_Ein_recht_Gemüth/lc5001930.mxl",
+      "label": "Gesänge, Ein recht Gemüth (OpenScore)",
+      "bar": 1,
+      "notes": "Bb4 C5 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/11_An_Maria_(aus_Novalis_geistlichen_Liedern)/lc5002026.mxl",
+      "label": "Gesänge, Op.3, An Maria (aus Novalis geistlichen Liedern) (OpenScore)",
+      "bar": 1,
+      "notes": "Ab4 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/10_Ida_(aus_Ariels_Offenbarungen)/lc5002108.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Ida (aus Ariels Offenbarungen) (OpenScore)",
+      "bar": 5,
+      "notes": "Ab4 Bb4 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 5,
+    "per_1000": 2.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/10_Der_Mond/lc5061932.mxl",
+      "label": "Gesänge, Op.3, Der Mond (OpenScore)",
+      "bar": 5,
+      "notes": "A4 Ab4 Ab4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/07_Poesia_di_Metastasio_(II)/lc5101789.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Poesia di Metastasio (II) (OpenScore)",
+      "bar": 21,
+      "notes": "Bb4 A4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge/11_Daphne_am_Bach/lc5087973.mxl",
+      "label": "Gesänge, Daphne am Bach (OpenScore)",
+      "bar": 4,
+      "notes": "C#5 C5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.1,
+    "works": 6,
+    "per_1000": 3.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese/lc5046362.mxl",
+      "label": "Gesänge, Op.3, Die Wiese (OpenScore)",
+      "bar": 3,
+      "notes": "B4 B4 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/05_Poesia_di_Metastasio_(I)/lc5100080.mxl",
+      "label": "Deutsche und Italiänische Romantische Gesänge, Poesia di Metastasio (I) (OpenScore)",
+      "bar": 31,
+      "notes": "C5 C5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge/12_Aus_Novalis_Hymnen_an_die_Nacht/lc5001945.mxl",
+      "label": "Gesänge, Aus Novalis Hymnen an die Nacht (OpenScore)",
+      "bar": 26,
+      "notes": "Eb4 Eb4 E4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 97,
+   "composers": 18
+  },
+  "harmony": {
+   "works": 28,
+   "by": {
+    "When in Rome": 28
+   },
+   "values": {
+    "chords a bar": 1.4982027927855903,
+    "tonic and dominant": 0.7866147632139776,
+    "sevenths": 0.3218257026772063,
+    "diminished sevenths": 0.01759191338570504,
+    "applied chords": 0.0708223715771751,
+    "augmented sixths": 0.008099393603595285,
+    "Neapolitan": 0.0027472527472527475,
+    "mixture": 0.0007002801120448179,
+    "inversions": 0.26482316950307255,
+    "keys a 10 bars": 0.336168965794203,
+    "away from home": 0.08784566578074181,
+    "non-chord tones": 0.16166728984005638,
+    "struck dissonance": 0.258720522396993,
+    "resolved by step": 0.8317063641695995,
+    "suspensions": 0.0009652509652509653
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.7866147632139776,
+     "others": 0.6022452209674557,
+     "auc": 0.8331826401446654
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.01759191338570504,
+     "others": 0.040377960327873254,
+     "auc": 0.23933092224231464
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.0708223715771751,
+     "others": 0.15368789230785032,
+     "auc": 0.19828869047619044
+    },
+    {
+     "measure": "inversions",
+     "value": 0.26482316950307255,
+     "others": 0.4055602936775612,
+     "auc": 0.15736889692585893
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "V7",
+      "I"
+     ],
+     "z": 7.2,
+     "works": 19,
+     "per_1000": 87.3,
+     "others_per_1000": 11.6,
+     "at": [
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/12_Duettino/lc5062143.mxl",
+       "label": "Gesänge, Op.3, Duettino (OpenScore)",
+       "bar": 9
+      },
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge/02_Der_Sänger_geht/lc5002130.mxl",
+       "label": "Gesänge, Der Sänger geht (OpenScore)",
+       "bar": 2
+      },
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/01_Frühlingsblumen/lc5001965.mxl",
+       "label": "Gesänge, Op.3, Frühlingsblumen (OpenScore)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "V7"
+     ],
+     "z": 5.6,
+     "works": 11,
+     "per_1000": 63.3,
+     "others_per_1000": 10.0,
+     "at": [
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/12_Duettino/lc5062143.mxl",
+       "label": "Gesänge, Op.3, Duettino (OpenScore)",
+       "bar": 8
+      },
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge/02_Der_Sänger_geht/lc5002130.mxl",
+       "label": "Gesänge, Der Sänger geht (OpenScore)",
+       "bar": 3
+      },
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/01_Frühlingsblumen/lc5001965.mxl",
+       "label": "Gesänge, Op.3, Frühlingsblumen (OpenScore)",
+       "bar": 7
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "period",
+    "works": 395,
+    "composers": 9,
+    "progressions_by": "When in Rome",
+    "progressions_works": 48
+   }
+  }
+ }
+]

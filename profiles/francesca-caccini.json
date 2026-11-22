@@ -1,0 +1,388 @@
+[
+ {
+  "composer": "Francesca Caccini",
+  "kind": "air",
+  "forces": "voices and instruments",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 7,
+  "values": {
+   "steps": 0.7378992597556356,
+   "repeats": 0.1684044975141369,
+   "leaps": 0.04487561957392196,
+   "move": 1.9947829209953662,
+   "rising": 0.5397121835243379,
+   "leap answered": 0.5,
+   "range": 8.549999999999999,
+   "register": 70.42857142857143,
+   "even": 0.3660047001445584,
+   "long-short": 0.2509017636812075,
+   "rhythm variety": 2.7588399492582534,
+   "surprise, pitch": 2.484032151279504,
+   "surprise, rhythm": 2.177850993453841,
+   "density": 1.8238883358221334,
+   "lines": 2.5714285714285716
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7378992597556356,
+    "others": 0.5276338938293872,
+    "auc": 0.8781724250984946
+   },
+   {
+    "measure": "leaps",
+    "value": 0.04487561957392196,
+    "others": 0.1747172783643914,
+    "auc": 0.0630099894083784
+   },
+   {
+    "measure": "move",
+    "value": 1.9947829209953662,
+    "others": 3.202158873865648,
+    "auc": 0.015638535020210793
+   },
+   {
+    "measure": "rising",
+    "value": 0.5397121835243379,
+    "others": 0.4670344870636128,
+    "auc": 0.8839228415889446
+   },
+   {
+    "measure": "even",
+    "value": 0.3660047001445584,
+    "others": 0.5794277897939842,
+    "auc": 0.16425733324341163
+   },
+   {
+    "measure": "long-short",
+    "value": 0.2509017636812075,
+    "others": 0.09002115969779642,
+    "auc": 0.90442355286153
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.7588399492582534,
+    "others": 2.0809000325594047,
+    "auc": 0.8346512811866068
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.177850993453841,
+    "others": 1.5243905511612228,
+    "auc": 0.8834369099882695
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 5,
+    "per_1000": 17.8,
+    "others_per_1000": 4.0,
+    "at": [
+     {
+      "work": "cpdl-3:Francesca_Caccini/Non_so_se_quel_sorriso.mxl",
+      "label": "Non sò se quel sorriso (CPDL)",
+      "bar": 2,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Tra_le_gemme.mxl",
+      "label": "Tra le gemme (CPDL)",
+      "bar": 2,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Se_muove_a.mxl",
+      "label": "Se muove a giurar fede (CPDL)",
+      "bar": 13,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 153,
+   "composers": 40
+  }
+ },
+ {
+  "composer": "Francesca Caccini",
+  "kind": "madrigal",
+  "forces": "voices and instruments",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 11,
+  "values": {
+   "steps": 0.6397212653971238,
+   "repeats": 0.19117672074518108,
+   "leaps": 0.07677059861844322,
+   "move": 2.190242124175867,
+   "rising": 0.593747594476951,
+   "leap answered": 0.4767676767676767,
+   "range": 8.931818181818182,
+   "register": 69.54545454545455,
+   "even": 0.37237124091698365,
+   "long-short": 0.1899905532058279,
+   "rhythm variety": 2.9188294636678322,
+   "surprise, pitch": 2.7342071543854676,
+   "surprise, rhythm": 2.222234687130742,
+   "density": 1.7284400259459318,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 2.190242124175867,
+    "others": 2.432213296413674,
+    "auc": 0.21580812147847694
+   },
+   {
+    "measure": "rising",
+    "value": 0.593747594476951,
+    "others": 0.48558499064067295,
+    "auc": 0.966560638516055
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1899905532058279,
+    "others": 0.12326068361368588,
+    "auc": 0.8678487626900616
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 6.1,
+    "works": 6,
+    "per_1000": 4.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Che_fai_misero.mxl",
+      "label": "Che fai misero core (CPDL)",
+      "bar": 17,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Nel_Cammino.mxl",
+      "label": "Nel cammino aspro (CPDL)",
+      "bar": 14,
+      "notes": "E4 F#4 G4 A4"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Ferma_Signore.mxl",
+      "label": "Ferma Signore attesta (CPDL)",
+      "bar": 54,
+      "notes": "A4 B4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 10,
+    "per_1000": 14.3,
+    "others_per_1000": 3.2,
+    "at": [
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Ferma_Signore.mxl",
+      "label": "Ferma Signore attesta (CPDL)",
+      "bar": 8,
+      "notes": "E4 F4 G4 A4"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Questa_e_colei.mxl",
+      "label": "Questa e colei (CPDL)",
+      "bar": 16,
+      "notes": "E4 F4 G4 A4"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Cosi_dicea.mxl",
+      "label": "Cosi dicea (CPDL)",
+      "bar": 4,
+      "notes": "A4 Bb4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -5,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 5,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Maria,_dolce_Maria.mxl",
+      "label": "Maria, dolce Maria (CPDL)",
+      "bar": 20,
+      "notes": "G4 A4 E4 F4"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Ferma_Signore.mxl",
+      "label": "Ferma Signore attesta (CPDL)",
+      "bar": 34,
+      "notes": "G4 A4 E4 F4"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Nel_Cammino.mxl",
+      "label": "Nel cammino aspro (CPDL)",
+      "bar": 48,
+      "notes": "G4 A4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -3
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.3,
+    "works": 5,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Pieta_mercede.mxl",
+      "label": "Pieta mercede aita (CPDL)",
+      "bar": 3,
+      "notes": "A4 Bb4 C5 A4"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Che_fai_misero.mxl",
+      "label": "Che fai misero core (CPDL)",
+      "bar": 10,
+      "notes": "C#5 D5 E5 C#5"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Ferma_Signore.mxl",
+      "label": "Ferma Signore attesta (CPDL)",
+      "bar": 23,
+      "notes": "B4 C5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.3,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Senti_l'ira_del_Ciel.mxl",
+      "label": "Senti l'ira del ciel (CPDL)",
+      "bar": 9,
+      "notes": "C#5 D5 E5 D5"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Che_fai_misero.mxl",
+      "label": "Che fai misero core (CPDL)",
+      "bar": 22,
+      "notes": "C#5 D5 E5 D5"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Ferma_Signore.mxl",
+      "label": "Ferma Signore attesta (CPDL)",
+      "bar": 47,
+      "notes": "B4 C5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Ferma_Signore.mxl",
+      "label": "Ferma Signore attesta (CPDL)",
+      "bar": 29,
+      "notes": "C#5 C#5 D5 E5"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Pieta_mercede.mxl",
+      "label": "Pieta mercede aita (CPDL)",
+      "bar": 2,
+      "notes": "A4 A4 Bb4 C5"
+     },
+     {
+      "work": "cpdl-3:Francesca_Caccini/Fr.Caccini-Questa_e_colei.mxl",
+      "label": "Questa e colei (CPDL)",
+      "bar": 12,
+      "notes": "A4 A4 Bb4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 304,
+   "composers": 10
+  }
+ }
+]

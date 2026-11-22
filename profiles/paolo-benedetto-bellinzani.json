@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Paolo Benedetto Bellinzani",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.5424031697388317,
+   "repeats": 0.2564194186848897,
+   "leaps": 0.11091086365205019,
+   "move": 2.4437795040801946,
+   "rising": 0.4894245847720045,
+   "leap answered": 0.44454887218045114,
+   "range": 9.75,
+   "register": 69.0,
+   "even": 0.4430056249615412,
+   "long-short": 0.11994756508058467,
+   "rhythm variety": 2.5612650568749045,
+   "surprise, pitch": 2.8321141912442496,
+   "surprise, rhythm": 2.1417124950362267,
+   "density": 1.7851882951369493,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 198,
+   "composers": 20
+  }
+ }
+]

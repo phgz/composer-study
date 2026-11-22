@@ -1,0 +1,222 @@
+[
+ {
+  "composer": "Vincenzo Righini",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.4560185565813548,
+   "repeats": 0.2871818266813938,
+   "leaps": 0.1070000774748815,
+   "move": 2.7820245349931376,
+   "rising": 0.46945641544825967,
+   "leap answered": 0.30759610237044144,
+   "range": 13.0,
+   "register": 77.33333333333333,
+   "even": 0.4770163550518869,
+   "long-short": 0.11591553684228771,
+   "rhythm variety": 2.6328498942861294,
+   "surprise, pitch": 2.629975858948351,
+   "surprise, rhythm": 1.9260536985897831,
+   "density": 7.281038092565861,
+   "lines": 11.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 2.6328498942861294,
+    "others": 2.2015668700105158,
+    "auc": 0.7502314399894701
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 4.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-002_righini-vincenzo--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.472, kern)",
+      "bar": 6,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-004_righini-vincenzo--missa-solemnis-sanctus.krn",
+      "label": "Missa solemnis, Sanctus, movement 4 (PL-Kk Kk.I.472, kern)",
+      "bar": 1,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-006_righini-vincenzo--missa-solemnis-dona.krn",
+      "label": "Missa Solemnis, Dona, movement 6 (PL-Kk Kk.I.472, kern)",
+      "bar": 22,
+      "notes": "E5 E5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-002_righini-vincenzo--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.472, kern)",
+      "bar": 1,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-004_righini-vincenzo--missa-solemnis-sanctus.krn",
+      "label": "Missa solemnis, Sanctus, movement 4 (PL-Kk Kk.I.472, kern)",
+      "bar": 1,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-003_righini-vincenzo--missa-solemnis-credo.krn",
+      "label": "Missa solemnis, Credo, movement 3 (PL-Kk Kk.I.472, kern)",
+      "bar": 261,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -1,
+     -2
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-002_righini-vincenzo--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.472, kern)",
+      "bar": 8,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-006_righini-vincenzo--missa-solemnis-dona.krn",
+      "label": "Missa Solemnis, Dona, movement 6 (PL-Kk Kk.I.472, kern)",
+      "bar": 22,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-001_righini-vincenzo--missa-solemnis-kyrie.krn",
+      "label": "Missa solemnis, Kyrie, movement 1 (PL-Kk Kk.I.472, kern)",
+      "bar": 172,
+      "notes": "F5 F5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 3.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-002_righini-vincenzo--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.472, kern)",
+      "bar": 81,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-003_righini-vincenzo--missa-solemnis-credo.krn",
+      "label": "Missa solemnis, Credo, movement 3 (PL-Kk Kk.I.472, kern)",
+      "bar": 261,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-006_righini-vincenzo--missa-solemnis-dona.krn",
+      "label": "Missa Solemnis, Dona, movement 6 (PL-Kk Kk.I.472, kern)",
+      "bar": 26,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 2.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-003_righini-vincenzo--missa-solemnis-credo.krn",
+      "label": "Missa solemnis, Credo, movement 3 (PL-Kk Kk.I.472, kern)",
+      "bar": 33,
+      "notes": "A5 Ab5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-005-pc0_righini-vincenzo--missa-solemnis-agnus-pc0.krn",
+      "label": "Missa solemnis, Agnus, movement 5 (PL-Kk Kk.I.472, kern)",
+      "bar": 8,
+      "notes": "G5 F#5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-472--001-006_righini-vincenzo--missa-solemnis-dona.krn",
+      "label": "Missa Solemnis, Dona, movement 6 (PL-Kk Kk.I.472, kern)",
+      "bar": 31,
+      "notes": "E5 Eb5 D5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 641,
+   "composers": 34
+  }
+ }
+]

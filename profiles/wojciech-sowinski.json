@@ -1,0 +1,1060 @@
+[
+ {
+  "composer": "Wojciech Sowiński",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.29039405213761255,
+   "repeats": 0.0818230299288042,
+   "leaps": 0.37122916926097077,
+   "move": 5.1151526781258125,
+   "rising": 0.5145403457428422,
+   "leap answered": 0.12628146683202837,
+   "range": 31.15833333333333,
+   "register": 73.33333333333333,
+   "even": 0.7399156606915409,
+   "long-short": 0.0320503149290906,
+   "rhythm variety": 1.265272777759723,
+   "surprise, pitch": 2.469105657640863,
+   "surprise, rhythm": 0.6708502980688142,
+   "density": 7.41877684820534,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     7,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 1,
+      "notes": "F#3 C#4 Bb3 F#3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-003_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-cadence-brisee.krn",
+      "label": "Grandes Études de concert op. 60, Étude de cadence brisée, movement 3 (PL-Wnifc 3111/n, kern)",
+      "bar": 105,
+      "notes": "Bb5 F6 D6 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 48,
+      "notes": "Eb4 Bb4 G4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 2.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 1,
+      "notes": "Bb3 C#4 Bb3 F#3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 21,
+      "notes": "D5 F5 D5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-003_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-cadence-brisee.krn",
+      "label": "Grandes Études de concert op. 60, Étude de cadence brisée, movement 3 (PL-Wnifc 3111/n, kern)",
+      "bar": 46,
+      "notes": "A2 C3 A2 F2"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -7,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 4,
+      "notes": "C#4 Ab4 C#4 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension.krn",
+      "label": "Grandes Études de concert op. 60, Étude d’extension, movement 1 (PL-Wnifc 3111/n, kern)",
+      "bar": 39,
+      "notes": "Eb5 Bb5 Eb5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 11,
+      "notes": "C5 G5 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension.krn",
+      "label": "Grandes Études de concert op. 60, Étude d’extension, movement 1 (PL-Wnifc 3111/n, kern)",
+      "bar": 2,
+      "notes": "Bb4 Eb5 Bb5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 98,
+      "notes": "G4 C5 G5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 36,
+      "notes": "Eb4 Ab4 Eb5 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 4,
+      "notes": "Bb3 C#4 Ab4 C#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension.krn",
+      "label": "Grandes Études de concert op. 60, Étude d’extension, movement 1 (PL-Wnifc 3111/n, kern)",
+      "bar": 39,
+      "notes": "C5 Eb5 Bb5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 11,
+      "notes": "A4 C5 G5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     3,
+     6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 4,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 13,
+      "notes": "D4 F4 Ab4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension.krn",
+      "label": "Grandes Études de concert op. 60, Étude d’extension, movement 1 (PL-Wnifc 3111/n, kern)",
+      "bar": 40,
+      "notes": "G4 Bb4 C#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-002_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-notes-doubles.krn",
+      "label": "Grandes Études de concert op. 60, Étude de notes doubles, movement 2 (PL-Wnifc 3111/n, kern)",
+      "bar": 120,
+      "notes": "B5 D6 F6 B6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 28,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Wojciech Sowiński",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.39217481237643587,
+   "repeats": 0.44466265165401064,
+   "leaps": 0.0800415217147346,
+   "move": 2.5763422337065744,
+   "rising": 0.5123456790123457,
+   "leap answered": 0.3143581081081081,
+   "range": 11.199999999999998,
+   "register": 71.33333333333333,
+   "even": 0.29573688224151923,
+   "long-short": 0.299214998127694,
+   "rhythm variety": 2.7833384233533174,
+   "surprise, pitch": 1.7665877558230327,
+   "surprise, rhythm": 1.5081395341609742,
+   "density": 5.268758746509202,
+   "lines": 3.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 432,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Wojciech Sowiński",
+  "kind": "etude",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.29039405213761255,
+   "repeats": 0.0818230299288042,
+   "leaps": 0.37122916926097077,
+   "move": 5.1151526781258125,
+   "rising": 0.5145403457428422,
+   "leap answered": 0.12628146683202837,
+   "range": 31.15833333333333,
+   "register": 73.33333333333333,
+   "even": 0.7399156606915409,
+   "long-short": 0.0320503149290906,
+   "rhythm variety": 1.265272777759723,
+   "surprise, pitch": 2.469105657640863,
+   "surprise, rhythm": 0.6708502980688142,
+   "density": 7.41877684820534,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 4,
+      "notes": "Bb3 C#4 Ab4 C#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension.krn",
+      "label": "Grandes Études de concert op. 60, Étude d’extension, movement 1 (PL-Wnifc 3111/n, kern)",
+      "bar": 39,
+      "notes": "C5 Eb5 Bb5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 11,
+      "notes": "A4 C5 G5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -7,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 4,
+      "notes": "C#4 Ab4 C#4 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension.krn",
+      "label": "Grandes Études de concert op. 60, Étude d’extension, movement 1 (PL-Wnifc 3111/n, kern)",
+      "bar": 39,
+      "notes": "Eb5 Bb5 Eb5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 11,
+      "notes": "C5 G5 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     5,
+     4
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-003_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-cadence-brisee.krn",
+      "label": "Grandes Études de concert op. 60, Étude de cadence brisée, movement 3 (PL-Wnifc 3111/n, kern)",
+      "bar": 66,
+      "notes": "F4 F4 Bb4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 24,
+      "notes": "F4 F4 Bb4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -7,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 20,
+      "notes": "C#4 Bb3 Eb3 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension.krn",
+      "label": "Grandes Études de concert op. 60, Étude d’extension, movement 1 (PL-Wnifc 3111/n, kern)",
+      "bar": 42,
+      "notes": "Ab5 F5 Bb4 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     4,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-003_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-cadence-brisee.krn",
+      "label": "Grandes Études de concert op. 60, Étude de cadence brisée, movement 3 (PL-Wnifc 3111/n, kern)",
+      "bar": 1,
+      "notes": "F4 Bb4 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-004_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-de-style-lie.krn",
+      "label": "Grandes Études de concert op. 60, Étude de style lié, movement 4 (PL-Wnifc 3111/n, kern)",
+      "bar": 12,
+      "notes": "F4 Bb4 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 26,
+      "notes": "C#3 F#3 Bb3 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     7,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-005_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-pour-la-main-gauche-seule.krn",
+      "label": "Grandes Études de concert op. 60, Étude pour la main gauche seule, movement 5 (PL-Wnifc 3111/n, kern)",
+      "bar": 20,
+      "notes": "Bb3 Eb3 Bb3 C#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3111-n--001-001_sowinski-wojciech--grandes-etudes-de-concert-op-60-etude-d-extension.krn",
+      "label": "Grandes Études de concert op. 60, Étude d’extension, movement 1 (PL-Wnifc 3111/n, kern)",
+      "bar": 42,
+      "notes": "F5 Bb4 F5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 221,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Wojciech Sowiński",
+  "kind": "march",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.39217481237643587,
+   "repeats": 0.44466265165401064,
+   "leaps": 0.0800415217147346,
+   "move": 2.5763422337065744,
+   "rising": 0.5123456790123457,
+   "leap answered": 0.3143581081081081,
+   "range": 11.199999999999998,
+   "register": 71.33333333333333,
+   "even": 0.29573688224151923,
+   "long-short": 0.299214998127694,
+   "rhythm variety": 2.7833384233533174,
+   "surprise, pitch": 1.7665877558230327,
+   "surprise, rhythm": 1.5081395341609742,
+   "density": 5.268758746509202,
+   "lines": 3.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 48,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Wojciech Sowiński",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 16,
+  "values": {
+   "steps": 0.4220732178559171,
+   "repeats": 0.17898420783602453,
+   "leaps": 0.21767957186743014,
+   "move": 3.5631885541689625,
+   "rising": 0.48240830284146635,
+   "leap answered": 0.22909671315793742,
+   "range": 16.015625,
+   "register": 77.28125,
+   "even": 0.4772279959078437,
+   "long-short": 0.08258759675856008,
+   "rhythm variety": 2.4853046024561607,
+   "surprise, pitch": 3.0539834347780133,
+   "surprise, rhythm": 2.0153898905734025,
+   "density": 8.747542417390576,
+   "lines": 14.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.21767957186743014,
+    "others": 0.14299194969411214,
+    "auc": 0.8322935498158843
+   },
+   {
+    "measure": "move",
+    "value": 3.5631885541689625,
+    "others": 2.9708776509953103,
+    "auc": 0.8121638555368963
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.22909671315793742,
+    "others": 0.39768785352345776,
+    "auc": 0.17172636925074797
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.0539834347780133,
+    "others": 2.8148618315013576,
+    "auc": 0.8172465067000075
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-003_sowinski-wojciech--messe-breve-credo.krn",
+      "label": "Messe Breve, Credo, movement 3 (PL-Wn Mus.57, kern)",
+      "bar": 2,
+      "notes": "G4 A4 F4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-002_sowinski-wojciech--messe-breve-gloria.krn",
+      "label": "Messe Breve, Gloria, movement 2 (PL-Wn Mus.57, kern)",
+      "bar": 69,
+      "notes": "C5 D5 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-286--001-005_sowinski-wojciech--messe-des-bords-de-la-mer-op-83-et-resurrexit.krn",
+      "label": "Messe des bords de la Mer op. 83, Et resurrexit, movement 5 (PL-Wn Mus.286, kern)",
+      "bar": 24,
+      "notes": "D6 E6 C6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 4,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-001_sowinski-wojciech--messe-breve-kyrie.krn",
+      "label": "Messe Breve, Kyrie, movement 1 (PL-Wn Mus.57, kern)",
+      "bar": 11,
+      "notes": "A4 C5 A4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-286--001-008_sowinski-wojciech--messe-des-bords-de-la-mer-op-83-agnus-dei.krn",
+      "label": "Messe des bords de la Mer op. 83, Agnus Dei, movement 8: Andante sostenuto (PL-Wn Mus.286, kern)",
+      "bar": 4,
+      "notes": "E6 G6 E6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-286--001-005_sowinski-wojciech--messe-des-bords-de-la-mer-op-83-et-resurrexit.krn",
+      "label": "Messe des bords de la Mer op. 83, Et resurrexit, movement 5 (PL-Wn Mus.286, kern)",
+      "bar": 16,
+      "notes": "B5 D6 B5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.8,
+    "works": 5,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-002_sowinski-wojciech--messe-breve-gloria.krn",
+      "label": "Messe Breve, Gloria, movement 2 (PL-Wn Mus.57, kern)",
+      "bar": 49,
+      "notes": "F4 G4 Ab4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-006_sowinski-wojciech--messe-breve-agnus-dei.krn",
+      "label": "Messe Breve, Agnus Dei, movement 6: Andante (PL-Wn Mus.57, kern)",
+      "bar": 26,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-003_sowinski-wojciech--messe-breve-credo.krn",
+      "label": "Messe Breve, Credo, movement 3 (PL-Wn Mus.57, kern)",
+      "bar": 2,
+      "notes": "G4 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-006_sowinski-wojciech--messe-breve-agnus-dei.krn",
+      "label": "Messe Breve, Agnus Dei, movement 6: Andante (PL-Wn Mus.57, kern)",
+      "bar": 9,
+      "notes": "A4 G4 A4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-001_sowinski-wojciech--messe-breve-kyrie.krn",
+      "label": "Messe Breve, Kyrie, movement 1 (PL-Wn Mus.57, kern)",
+      "bar": 15,
+      "notes": "C5 Bb4 C5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-003_sowinski-wojciech--messe-breve-credo.krn",
+      "label": "Messe Breve, Credo, movement 3 (PL-Wn Mus.57, kern)",
+      "bar": 39,
+      "notes": "C5 Bb4 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     5,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-286--001-002_sowinski-wojciech--messe-des-bords-de-la-mer-op-83-gloria.krn",
+      "label": "Messe des bords de la Mer op. 83, Gloria, movement 2 (PL-Wn Mus.286, kern)",
+      "bar": 51,
+      "notes": "C6 Bb5 Eb6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-003_sowinski-wojciech--messe-breve-credo.krn",
+      "label": "Messe Breve, Credo, movement 3 (PL-Wn Mus.57, kern)",
+      "bar": 139,
+      "notes": "E5 D5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-004_sowinski-wojciech--messe-breve-sanctus.krn",
+      "label": "Messe Breve, Sanctus, movement 4: Allegro non troppo (PL-Wn Mus.57, kern)",
+      "bar": 21,
+      "notes": "A4 G4 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     12,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-002_sowinski-wojciech--messe-breve-gloria.krn",
+      "label": "Messe Breve, Gloria, movement 2 (PL-Wn Mus.57, kern)",
+      "bar": 26,
+      "notes": "F4 F5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-57--001-006_sowinski-wojciech--messe-breve-agnus-dei.krn",
+      "label": "Messe Breve, Agnus Dei, movement 6: Andante (PL-Wn Mus.57, kern)",
+      "bar": 19,
+      "notes": "F4 F5 Eb5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 537,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Wojciech Sowiński",
+  "kind": "oratorio",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.3900290502821875,
+   "repeats": 0.2980831710534907,
+   "leaps": 0.20326454506870975,
+   "move": 4.1097380014358516,
+   "rising": 0.47699459551366274,
+   "leap answered": 0.20365588215904545,
+   "range": 18.75,
+   "register": 72.75,
+   "even": 0.46947973804467297,
+   "long-short": 0.14484064850536707,
+   "rhythm variety": 2.435817116099331,
+   "surprise, pitch": 2.7192623346811606,
+   "surprise, rhythm": 1.7910429313102563,
+   "density": 6.639987356816848,
+   "lines": 6.125
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3900290502821875,
+    "others": 0.6514313845113437,
+    "auc": 0.12500000000000003
+   },
+   {
+    "measure": "repeats",
+    "value": 0.2980831710534907,
+    "others": 0.13887928156944263,
+    "auc": 0.8589015151333251
+   },
+   {
+    "measure": "move",
+    "value": 4.1097380014358516,
+    "others": 2.663995739092058,
+    "auc": 0.8268229166871301
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.20365588215904545,
+    "others": 0.44733320671352683,
+    "auc": 0.16571969700001343
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.435817116099331,
+    "others": 1.774392181469483,
+    "auc": 0.7703598485121332
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7910429313102563,
+    "others": 1.3961780377490645,
+    "auc": 0.7949810605484593
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.3,
+    "works": 5,
+    "per_1000": 4.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-022_sowinski-wojciech--swiety-wojciech-meczennik-no-20-mysliwcy-recitativo-i-chor.krn",
+      "label": "Święty Wojciech męczennik, No. 20. Myśliwcy. Recitativo i chór, movement 22: Moderato. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 41,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-020_sowinski-wojciech--swiety-wojciech-meczennik-no-18-meczenstwo-recitativo-i-arja.krn",
+      "label": "Święty Wojciech męczennik, No. 18. Męczeństwo. Recitativo i arja, movement 20: Allo. agitato. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 29,
+      "notes": "Eb4 Eb4 Eb4 Eb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-019_sowinski-wojciech--swiety-wojciech-meczennik-no-17-kwintet-z-chorem.krn",
+      "label": "Święty Wojciech męczennik, No. 17. Kwintet z chórem, movement 19: Più mosso. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 43,
+      "notes": "G4 G4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.3,
+    "works": 7,
+    "per_1000": 4.9,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-019_sowinski-wojciech--swiety-wojciech-meczennik-no-17-kwintet-z-chorem.krn",
+      "label": "Święty Wojciech męczennik, No. 17. Kwintet z chórem, movement 19: Più mosso. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 50,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-022_sowinski-wojciech--swiety-wojciech-meczennik-no-20-mysliwcy-recitativo-i-chor.krn",
+      "label": "Święty Wojciech męczennik, No. 20. Myśliwcy. Recitativo i chór, movement 22: Moderato. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 41,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-020_sowinski-wojciech--swiety-wojciech-meczennik-no-18-meczenstwo-recitativo-i-arja.krn",
+      "label": "Święty Wojciech męczennik, No. 18. Męczeństwo. Recitativo i arja, movement 20: Allo. agitato. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 30,
+      "notes": "Eb4 Eb4 Eb4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -12,
+     12,
+     -12
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 4,
+    "per_1000": 3.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-019_sowinski-wojciech--swiety-wojciech-meczennik-no-17-kwintet-z-chorem.krn",
+      "label": "Święty Wojciech męczennik, No. 17. Kwintet z chórem, movement 19: Più mosso. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 231,
+      "notes": "C6 C5 C6 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-021_sowinski-wojciech--swiety-wojciech-meczennik-no-19-chor-pogan.krn",
+      "label": "Święty Wojciech męczennik, No. 19. Chór pogan, movement 21: Allegretto. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 108,
+      "notes": "F6 F5 F6 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-022_sowinski-wojciech--swiety-wojciech-meczennik-no-20-mysliwcy-recitativo-i-chor.krn",
+      "label": "Święty Wojciech męczennik, No. 20. Myśliwcy. Recitativo i chór, movement 22: Moderato. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 21,
+      "notes": "Bb4 Bb3 Bb4 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     12,
+     -12,
+     12
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 4,
+    "per_1000": 3.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-019_sowinski-wojciech--swiety-wojciech-meczennik-no-17-kwintet-z-chorem.krn",
+      "label": "Święty Wojciech męczennik, No. 17. Kwintet z chórem, movement 19: Più mosso. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 231,
+      "notes": "C5 C6 C5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-021_sowinski-wojciech--swiety-wojciech-meczennik-no-19-chor-pogan.krn",
+      "label": "Święty Wojciech męczennik, No. 19. Chór pogan, movement 21: Allegretto. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 108,
+      "notes": "F5 F6 F5 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-65-947-cim--001-022_sowinski-wojciech--swiety-wojciech-meczennik-no-20-mysliwcy-recitativo-i-chor.krn",
+      "label": "Święty Wojciech męczennik, No. 20. Myśliwcy. Recitativo i chór, movement 22: Moderato. (PL-Wn Mus.III.65.947 Cim., kern)",
+      "bar": 21,
+      "notes": "Bb3 Bb4 Bb3 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 44,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Wojciech Sowiński",
+  "kind": "recitative",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.3013336426777313,
+   "repeats": 0.38936686328218945,
+   "leaps": 0.2220623923406607,
+   "move": 4.976912365295285,
+   "rising": 0.5483246561154468,
+   "leap answered": 0.11906803207112805,
+   "range": 22.049999999999994,
+   "register": 72.33333333333333,
+   "even": 0.423825003469185,
+   "long-short": 0.1549587668926212,
+   "rhythm variety": 2.5745668911080695,
+   "surprise, pitch": 2.641425200412065,
+   "surprise, rhythm": 1.7628502263360364,
+   "density": 5.095847237913134,
+   "lines": 4.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ }
+]

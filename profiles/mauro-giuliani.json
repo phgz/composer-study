@@ -1,0 +1,468 @@
+[
+ {
+  "composer": "Mauro Giuliani",
+  "kind": "etude",
+  "forces": "plucked",
+  "period": "all",
+  "era": "Romantic",
+  "works": 47,
+  "values": {
+   "steps": 0.24575131831775945,
+   "repeats": 0.063418976826577,
+   "leaps": 0.4222804362022723,
+   "move": 5.63820473550546,
+   "rising": 0.5229869248683812,
+   "leap answered": 0.07607416662982822,
+   "range": 20.08723404255319,
+   "register": 59.47872340425532,
+   "even": 0.8343186362190876,
+   "long-short": 0.0348564455440951,
+   "rhythm variety": 0.8730065096336161,
+   "surprise, pitch": 2.39589130869391,
+   "surprise, rhythm": 0.6385017384840534,
+   "density": 3.7953609639276764,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 59.47872340425532,
+    "others": 62.333333333333336,
+    "auc": 0.21099290780141844
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     4,
+     -4,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 16,
+    "per_1000": 4.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No12",
+      "label": "24 Studies for the Guitar, No. 12 (Op. 100) (Mutopia)",
+      "bar": 4,
+      "notes": "G3 B3 G3 D3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No14",
+      "label": "24 Studies for the Guitar, No. 14 (Op. 100) (Mutopia)",
+      "bar": 1,
+      "notes": "D4 F#4 D4 A3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No2",
+      "label": "24 Studies for the Guitar, No. 2 (Op. 100) (Mutopia)",
+      "bar": 5,
+      "notes": "C4 E4 C4 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     4,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 16,
+    "per_1000": 4.1,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No12",
+      "label": "24 Studies for the Guitar, No. 12 (Op. 100) (Mutopia)",
+      "bar": 4,
+      "notes": "D3 G3 B3 G3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No15",
+      "label": "24 Studies for the Guitar, No. 15 (Op. 100) (Mutopia)",
+      "bar": 10,
+      "notes": "E3 A3 C#4 A3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No2",
+      "label": "24 Studies for the Guitar, No. 2 (Op. 100) (Mutopia)",
+      "bar": 5,
+      "notes": "G3 C4 E4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 13,
+    "per_1000": 3.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No14",
+      "label": "24 Studies for the Guitar, No. 14 (Op. 100) (Mutopia)",
+      "bar": 1,
+      "notes": "B3 E4 B3 Ab3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No5",
+      "label": "24 Studies for the Guitar, No. 5 (Op. 100) (Mutopia)",
+      "bar": 1,
+      "notes": "B3 E4 B3 Ab3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O100/GiulianiOp100No12",
+      "label": "24 Studies for the Guitar, No. 12 (Op. 100) (Mutopia)",
+      "bar": 3,
+      "notes": "A3 D4 A3 F#3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 24,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "Mauro Giuliani",
+  "kind": "sonata",
+  "forces": "plucked",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4150008572057035,
+   "repeats": 0.08057783257065387,
+   "leaps": 0.32013121087763485,
+   "move": 4.847146170346757,
+   "rising": 0.49251517229770053,
+   "leap answered": 0.16255574587816776,
+   "range": 21.81666666666668,
+   "register": 61.5,
+   "even": 0.743603366655916,
+   "long-short": 0.060069433087004374,
+   "rhythm variety": 1.5369708709818495,
+   "surprise, pitch": 2.690645209746934,
+   "surprise, rhythm": 1.1593126409850276,
+   "density": 4.938168009587215,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Mauro Giuliani",
+  "kind": "variations",
+  "forces": "plucked",
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.429410400541967,
+   "repeats": 0.03253633423177901,
+   "leaps": 0.3457927118856149,
+   "move": 5.083787470392784,
+   "rising": 0.4629441655671394,
+   "leap answered": 0.13083175300454483,
+   "range": 19.307142857142853,
+   "register": 64.14285714285714,
+   "even": 0.8764339082741114,
+   "long-short": 0.01825071708786897,
+   "rhythm variety": 0.7935453796956422,
+   "surprise, pitch": 2.2189756021520033,
+   "surprise, rhythm": 0.6600482281399243,
+   "density": 3.488818260820812,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.03253633423177901,
+    "others": 0.08445932174780303,
+    "auc": 0.16688854753370883
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.13083175300454483,
+    "others": 0.2722720504682787,
+    "auc": 0.20885816692268305
+   },
+   {
+    "measure": "even",
+    "value": 0.8764339082741114,
+    "others": 0.6575771885702901,
+    "auc": 0.9854924048472437
+   },
+   {
+    "measure": "long-short",
+    "value": 0.01825071708786897,
+    "others": 0.06511671937543781,
+    "auc": 0.1870626386755419
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 0.7935453796956422,
+    "others": 1.8805809814167613,
+    "auc": 0.014507595152756445
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2189756021520033,
+    "others": 2.622010068428339,
+    "auc": 0.22850315753541556
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.6600482281399243,
+    "others": 1.2234943526224047,
+    "auc": 0.07922853729305342
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 17.4,
+    "others_per_1000": 3.0,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#3",
+      "label": "Six Variations for Guitar (Op. 38), movement 3 (Mutopia)",
+      "bar": 1,
+      "notes": "A4 Ab4 F#4 E4"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#4",
+      "label": "Six Variations for Guitar (Op. 38), movement 4 (Mutopia)",
+      "bar": 3,
+      "notes": "D4 C#4 B3 A3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#2",
+      "label": "Six Variations for Guitar (Op. 38), movement 2 (Mutopia)",
+      "bar": 3,
+      "notes": "A4 Ab4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 5,
+    "per_1000": 16.3,
+    "others_per_1000": 3.1,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#4",
+      "label": "Six Variations for Guitar (Op. 38), movement 4 (Mutopia)",
+      "bar": 1,
+      "notes": "F#4 E4 D4 C#4"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#3",
+      "label": "Six Variations for Guitar (Op. 38), movement 3 (Mutopia)",
+      "bar": 1,
+      "notes": "F#4 E4 D4 C#4"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#2",
+      "label": "Six Variations for Guitar (Op. 38), movement 2 (Mutopia)",
+      "bar": 1,
+      "notes": "C#5 B4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#3",
+      "label": "Six Variations for Guitar (Op. 38), movement 3 (Mutopia)",
+      "bar": 1,
+      "notes": "C#4 E4 A4 Ab4"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#7",
+      "label": "Six Variations for Guitar (Op. 38), movement 7 (Mutopia)",
+      "bar": 18,
+      "notes": "C#4 E4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 5.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#7",
+      "label": "Six Variations for Guitar (Op. 38), movement 7 (Mutopia)",
+      "bar": 18,
+      "notes": "C#4 B3 A3 Ab3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#3",
+      "label": "Six Variations for Guitar (Op. 38), movement 3 (Mutopia)",
+      "bar": 4,
+      "notes": "Ab4 F#4 E4 Eb4"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#4",
+      "label": "Six Variations for Guitar (Op. 38), movement 4 (Mutopia)",
+      "bar": 10,
+      "notes": "Ab4 F#4 E4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 12.0,
+    "others_per_1000": 2.0,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#4",
+      "label": "Six Variations for Guitar (Op. 38), movement 4 (Mutopia)",
+      "bar": 1,
+      "notes": "C#3 D3 E3 F#3"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#2",
+      "label": "Six Variations for Guitar (Op. 38), movement 2 (Mutopia)",
+      "bar": 1,
+      "notes": "Ab4 A4 B4 C#5"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#5",
+      "label": "Six Variations for Guitar (Op. 38), movement 5 (Mutopia)",
+      "bar": 15,
+      "notes": "Eb4 E4 F#4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 5.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#7",
+      "label": "Six Variations for Guitar (Op. 38), movement 7 (Mutopia)",
+      "bar": 18,
+      "notes": "F#4 Ab4 F#4 E4"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#3",
+      "label": "Six Variations for Guitar (Op. 38), movement 3 (Mutopia)",
+      "bar": 4,
+      "notes": "F#4 Ab4 F#4 E4"
+     },
+     {
+      "work": "mutopia:GiulianiM/O38/SixVariations#4",
+      "label": "Six Variations for Guitar (Op. 38), movement 4 (Mutopia)",
+      "bar": 10,
+      "notes": "F#4 Ab4 F#4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 25,
+   "composers": 13
+  }
+ }
+]

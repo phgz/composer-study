@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "August Kühnel",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.5548637353459299,
+   "repeats": 0.21485906790079862,
+   "leaps": 0.12388443250565175,
+   "move": 2.4789071995947363,
+   "rising": 0.4272495850852387,
+   "leap answered": 0.27601010101010104,
+   "range": 11.237499999999997,
+   "register": 65.25,
+   "even": 0.15236496485386608,
+   "long-short": 0.3148399926008139,
+   "rhythm variety": 2.4948412453977147,
+   "surprise, pitch": 2.571396020500287,
+   "surprise, rhythm": 1.0257853266498904,
+   "density": 2.541824494949495,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 486,
+   "composers": 15
+  }
+ }
+]

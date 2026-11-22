@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Józef Władysław Krogulski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 18,
+  "values": {
+   "steps": 0.5336349936013903,
+   "repeats": 0.20844703535317344,
+   "leaps": 0.11663557001895598,
+   "move": 2.6519424017257123,
+   "rising": 0.4370717664679391,
+   "leap answered": 0.41991850091274646,
+   "range": 10.52222222222222,
+   "register": 73.0,
+   "even": 0.4896001550899089,
+   "long-short": 0.10013697067788715,
+   "rhythm variety": 2.3223956988368775,
+   "surprise, pitch": 2.2355655050285557,
+   "surprise, rhythm": 1.5978295989546432,
+   "density": 5.018594751910255,
+   "lines": 5.611111111111111
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2355655050285557,
+    "others": 2.826475633140318,
+    "auc": 0.07965389583458286
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.6,
+    "works": 4,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-005_krogulski-jozef-wladyslaw--msza-c-offertorium.krn",
+      "label": "Msza C, Offertorium, movement 5 (PL-CZ III-370, kern)",
+      "bar": 16,
+      "notes": "B4 C5 D5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-001_krogulski-jozef-wladyslaw--msza-c-kyrie.krn",
+      "label": "Msza C, Kyrie, movement 1 (PL-CZ III-370, kern)",
+      "bar": 9,
+      "notes": "B4 C5 D5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-995--001-007_krogulski-jozef-wladyslaw--msza-pasterska-benedictus.krn",
+      "label": "Msza pasterska, Benedictus, movement 7: Andante molto (PL-Wtm R 995, kern)",
+      "bar": 46,
+      "notes": "Eb5 E5 F#5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.4,
+    "works": 5,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-003_krogulski-jozef-wladyslaw--msza-c-andante-przed-ewangelia.krn",
+      "label": "Msza C, Andante przed Ewangelią, movement 3 (PL-CZ III-370, kern)",
+      "bar": 11,
+      "notes": "B4 A4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-007_krogulski-jozef-wladyslaw--msza-c-benedictus.krn",
+      "label": "Msza C, Benedictus, movement 7 (PL-CZ III-370, kern)",
+      "bar": 15,
+      "notes": "C#5 B4 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-009_krogulski-jozef-wladyslaw--msza-c-na-benedykcyia.krn",
+      "label": "Msza C, Na Benedykcyią, movement 9 (PL-CZ III-370, kern)",
+      "bar": 11,
+      "notes": "B4 A4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.4,
+    "works": 5,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-995--001-002_krogulski-jozef-wladyslaw--msza-pasterska-gloria.krn",
+      "label": "Msza pasterska, Gloria, movement 2: Allegro. (PL-Wtm R 995, kern)",
+      "bar": 3,
+      "notes": "F5 E5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-995--001-007_krogulski-jozef-wladyslaw--msza-pasterska-benedictus.krn",
+      "label": "Msza pasterska, Benedictus, movement 7: Andante molto (PL-Wtm R 995, kern)",
+      "bar": 8,
+      "notes": "E5 Eb5 C#5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-007_krogulski-jozef-wladyslaw--msza-c-benedictus.krn",
+      "label": "Msza C, Benedictus, movement 7 (PL-CZ III-370, kern)",
+      "bar": 18,
+      "notes": "D5 C#5 B4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 4,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-995--001-001_krogulski-jozef-wladyslaw--msza-pasterska-kyrie.krn",
+      "label": "Msza pasterska, Kyrie, movement 1: Allegretto. (PL-Wtm R 995, kern)",
+      "bar": 2,
+      "notes": "G5 G5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-995--001-003_krogulski-jozef-wladyslaw--msza-pasterska-graduale.krn",
+      "label": "Msza pasterska, Graduale, movement 3: Allegretto. (PL-Wtm R 995, kern)",
+      "bar": 5,
+      "notes": "C5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-004_krogulski-jozef-wladyslaw--msza-c-credo.krn",
+      "label": "Msza C, Credo, movement 4 (PL-CZ III-370, kern)",
+      "bar": 16,
+      "notes": "C5 C5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-003_krogulski-jozef-wladyslaw--msza-c-andante-przed-ewangelia.krn",
+      "label": "Msza C, Andante przed Ewangelią, movement 3 (PL-CZ III-370, kern)",
+      "bar": 21,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-009_krogulski-jozef-wladyslaw--msza-c-na-benedykcyia.krn",
+      "label": "Msza C, Na Benedykcyią, movement 9 (PL-CZ III-370, kern)",
+      "bar": 22,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-995--001-006_krogulski-jozef-wladyslaw--msza-pasterska-sanctus.krn",
+      "label": "Msza pasterska, Sanctus, movement 6: Andante (PL-Wtm R 995, kern)",
+      "bar": 5,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-001_krogulski-jozef-wladyslaw--msza-c-kyrie.krn",
+      "label": "Msza C, Kyrie, movement 1 (PL-CZ III-370, kern)",
+      "bar": 18,
+      "notes": "G5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-370--001-009_krogulski-jozef-wladyslaw--msza-c-na-benedykcyia.krn",
+      "label": "Msza C, Na Benedykcyią, movement 9 (PL-CZ III-370, kern)",
+      "bar": 7,
+      "notes": "G5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-995--001-006_krogulski-jozef-wladyslaw--msza-pasterska-sanctus.krn",
+      "label": "Msza pasterska, Sanctus, movement 6: Andante (PL-Wtm R 995, kern)",
+      "bar": 5,
+      "notes": "D5 C5 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 535,
+   "composers": 37
+  }
+ }
+]

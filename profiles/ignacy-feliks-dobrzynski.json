@@ -1,0 +1,550 @@
+[
+ {
+  "composer": "Ignacy Feliks Dobrzyński",
+  "kind": "string quartet",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.6019042768762521,
+   "repeats": 0.0563843517590649,
+   "leaps": 0.1703704716634884,
+   "move": 3.160565162676526,
+   "rising": 0.4563608755225721,
+   "leap answered": 0.39610830519771356,
+   "range": 23.093749999999996,
+   "register": 75.0,
+   "even": 0.597002263090845,
+   "long-short": 0.10574998637620714,
+   "rhythm variety": 2.1087200772517223,
+   "surprise, pitch": 2.5451541106724673,
+   "surprise, rhythm": 1.4799734878349287,
+   "density": 5.181695062583762,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6019042768762521,
+    "others": 0.5062205126427908,
+    "auc": 0.7782205964614461
+   },
+   {
+    "measure": "repeats",
+    "value": 0.0563843517590649,
+    "others": 0.13530906069917767,
+    "auc": 0.14108740839909806
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 4,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-001_dobrzynski-ignacy-feliks--quartetto-op-7-allegro-espressivo.krn",
+      "label": "Quartetto op. 7, Allegro espressivo, movement 1: Allo espreſsivo e moderato. (PL-Wtm R 1140/1, kern)",
+      "bar": 100,
+      "notes": "C#5 D5 C5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1141-1--001-004_dobrzynski-ignacy-feliks--quartetto-op-8-finale.krn",
+      "label": "Quartetto op. 8, Finale, movement 4 (PL-Wtm R 1141/1, kern)",
+      "bar": 57,
+      "notes": "F#5 G5 F5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-004_dobrzynski-ignacy-feliks--quartetto-op-7-finale.krn",
+      "label": "Quartetto op. 7, Finale, movement 4: Presto Finale (PL-Wtm R 1140/1, kern)",
+      "bar": 228,
+      "notes": "F#5 G5 F5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     9,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-002_dobrzynski-ignacy-feliks--quartetto-op-7-scherzo.krn",
+      "label": "Quartetto op. 7, Scherzo, movement 2: Allo vivace ma non troppo presto (PL-Wtm R 1140/1, kern)",
+      "bar": 5,
+      "notes": "B5 G5 E6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-001_dobrzynski-ignacy-feliks--quartetto-op-7-allegro-espressivo.krn",
+      "label": "Quartetto op. 7, Allegro espressivo, movement 1: Allo espreſsivo e moderato. (PL-Wtm R 1140/1, kern)",
+      "bar": 32,
+      "notes": "B4 G4 E5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1141-1--001-001_dobrzynski-ignacy-feliks--quartetto-op-8-allegro.krn",
+      "label": "Quartetto op. 8, Allegro, movement 1 (PL-Wtm R 1141/1, kern)",
+      "bar": 27,
+      "notes": "A4 F4 D5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.5,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-001_dobrzynski-ignacy-feliks--quartetto-op-7-allegro-espressivo.krn",
+      "label": "Quartetto op. 7, Allegro espressivo, movement 1: Allo espreſsivo e moderato. (PL-Wtm R 1140/1, kern)",
+      "bar": 9,
+      "notes": "G5 F#5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-004_dobrzynski-ignacy-feliks--quartetto-op-7-finale.krn",
+      "label": "Quartetto op. 7, Finale, movement 4: Presto Finale (PL-Wtm R 1140/1, kern)",
+      "bar": 188,
+      "notes": "C6 B5 A5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1141-1--001-001_dobrzynski-ignacy-feliks--quartetto-op-8-allegro.krn",
+      "label": "Quartetto op. 8, Allegro, movement 1 (PL-Wtm R 1141/1, kern)",
+      "bar": 132,
+      "notes": "Bb5 A5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -6,
+     1,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-001_dobrzynski-ignacy-feliks--quartetto-op-7-allegro-espressivo.krn",
+      "label": "Quartetto op. 7, Allegro espressivo, movement 1: Allo espreſsivo e moderato. (PL-Wtm R 1140/1, kern)",
+      "bar": 41,
+      "notes": "E5 Bb4 B4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-003_dobrzynski-ignacy-feliks--quartetto-op-7-adagio.krn",
+      "label": "Quartetto op. 7, Adagio, movement 3 (PL-Wtm R 1140/1, kern)",
+      "bar": 19,
+      "notes": "A5 Eb5 E5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-002_dobrzynski-ignacy-feliks--quartetto-op-7-scherzo.krn",
+      "label": "Quartetto op. 7, Scherzo, movement 2: Allo vivace ma non troppo presto (PL-Wtm R 1140/1, kern)",
+      "bar": 155,
+      "notes": "A5 Eb5 E5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-001_dobrzynski-ignacy-feliks--quartetto-op-7-allegro-espressivo.krn",
+      "label": "Quartetto op. 7, Allegro espressivo, movement 1: Allo espreſsivo e moderato. (PL-Wtm R 1140/1, kern)",
+      "bar": 40,
+      "notes": "G5 A5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1141-1--001-002_dobrzynski-ignacy-feliks--quartetto-op-8-andante-con-variazioni.krn",
+      "label": "Quartetto op. 8, Andante con variazioni, movement 2 (PL-Wtm R 1141/1, kern)",
+      "bar": 14,
+      "notes": "Bb4 C5 A4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1141-1--001-003_dobrzynski-ignacy-feliks--quartetto-op-8-minuetto-alla-masovienne.krn",
+      "label": "Quartetto op. 8, Minuetto alla masovienne, movement 3 (PL-Wtm R 1141/1, kern)",
+      "bar": 72,
+      "notes": "G4 A4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     1,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-001_dobrzynski-ignacy-feliks--quartetto-op-7-allegro-espressivo.krn",
+      "label": "Quartetto op. 7, Allegro espressivo, movement 1: Allo espreſsivo e moderato. (PL-Wtm R 1140/1, kern)",
+      "bar": 41,
+      "notes": "G5 Eb5 E5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-002_dobrzynski-ignacy-feliks--quartetto-op-7-scherzo.krn",
+      "label": "Quartetto op. 7, Scherzo, movement 2: Allo vivace ma non troppo presto (PL-Wtm R 1140/1, kern)",
+      "bar": 68,
+      "notes": "Eb6 B5 C6 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1140-1--001-003_dobrzynski-ignacy-feliks--quartetto-op-7-adagio.krn",
+      "label": "Quartetto op. 7, Adagio, movement 3 (PL-Wtm R 1140/1, kern)",
+      "bar": 27,
+      "notes": "C6 Ab5 A5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 272,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Ignacy Feliks Dobrzyński",
+  "kind": "variations",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 9,
+  "values": {
+   "steps": 0.6267843846885217,
+   "repeats": 0.055221660429338175,
+   "leaps": 0.15832025284050266,
+   "move": 2.9623586974172595,
+   "rising": 0.5086359268579752,
+   "leap answered": 0.296442984809795,
+   "range": 14.733333333333329,
+   "register": 74.33333333333333,
+   "even": 0.6940366383320944,
+   "long-short": 0.025142832112612104,
+   "rhythm variety": 1.4140302779230827,
+   "surprise, pitch": 2.17913093672884,
+   "surprise, rhythm": 1.173005286565722,
+   "density": 3.9858449719594304,
+   "lines": 3.7777777777777777
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6267843846885217,
+    "others": 0.4998852385468469,
+    "auc": 0.7590557590557592
+   },
+   {
+    "measure": "repeats",
+    "value": 0.055221660429338175,
+    "others": 0.08382590791853585,
+    "auc": 0.2471283860172749
+   },
+   {
+    "measure": "leaps",
+    "value": 0.15832025284050266,
+    "others": 0.24790820288623996,
+    "auc": 0.1966829466829467
+   },
+   {
+    "measure": "move",
+    "value": 2.9623586974172595,
+    "others": 3.9414450587403818,
+    "auc": 0.22520689187355858
+   },
+   {
+    "measure": "long-short",
+    "value": 0.025142832112612104,
+    "others": 0.06545137328531447,
+    "auc": 0.1997015330348664
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.17913093672884,
+    "others": 2.5654012443339154,
+    "auc": 0.24638221860444087
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 7,
+    "per_1000": 11.7,
+    "others_per_1000": 2.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-003_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-piu-vivace.krn",
+      "label": "Studium na temat oryginalny op. 62, Piu vivace, movement 3 (PL-Wtm R 1143/1, kern)",
+      "bar": 7,
+      "notes": "Ab4 A4 B4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1141-1--001-002_dobrzynski-ignacy-feliks--quartetto-op-8-andante-con-variazioni.krn",
+      "label": "Quartetto op. 8, Andante con variazioni, movement 2 (PL-Wtm R 1141/1, kern)",
+      "bar": 37,
+      "notes": "E5 F5 G5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-004_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-messo-vivo.krn",
+      "label": "Studium na temat oryginalny op. 62, Messo vivo, movement 4 (PL-Wtm R 1143/1, kern)",
+      "bar": 1,
+      "notes": "Ab4 A4 B4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.0,
+    "works": 6,
+    "per_1000": 7.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-004_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-messo-vivo.krn",
+      "label": "Studium na temat oryginalny op. 62, Messo vivo, movement 4 (PL-Wtm R 1143/1, kern)",
+      "bar": 2,
+      "notes": "B4 C#5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1141-1--001-002_dobrzynski-ignacy-feliks--quartetto-op-8-andante-con-variazioni.krn",
+      "label": "Quartetto op. 8, Andante con variazioni, movement 2 (PL-Wtm R 1141/1, kern)",
+      "bar": 3,
+      "notes": "G5 A5 Bb5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-008_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-grandioso.krn",
+      "label": "Studium na temat oryginalny op. 62, Grandioso, movement 8 (PL-Wtm R 1143/1, kern)",
+      "bar": 2,
+      "notes": "B4 C#5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 3.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-005_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-piu-animato.krn",
+      "label": "Studium na temat oryginalny op. 62, Piu animato, movement 5 (PL-Wtm R 1143/1, kern)",
+      "bar": 5,
+      "notes": "A5 B5 C#6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-004_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-messo-vivo.krn",
+      "label": "Studium na temat oryginalny op. 62, Messo vivo, movement 4 (PL-Wtm R 1143/1, kern)",
+      "bar": 13,
+      "notes": "E4 F#4 Ab4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-007_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-stesso-tempo.krn",
+      "label": "Studium na temat oryginalny op. 62, Stesso tempo, movement 7 (PL-Wtm R 1143/1, kern)",
+      "bar": 13,
+      "notes": "E4 F#4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 5,
+    "per_1000": 7.1,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-004_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-messo-vivo.krn",
+      "label": "Studium na temat oryginalny op. 62, Messo vivo, movement 4 (PL-Wtm R 1143/1, kern)",
+      "bar": 1,
+      "notes": "F#4 Ab4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-008_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-grandioso.krn",
+      "label": "Studium na temat oryginalny op. 62, Grandioso, movement 8 (PL-Wtm R 1143/1, kern)",
+      "bar": 1,
+      "notes": "F#4 Ab4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-005_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-piu-animato.krn",
+      "label": "Studium na temat oryginalny op. 62, Piu animato, movement 5 (PL-Wtm R 1143/1, kern)",
+      "bar": 1,
+      "notes": "F#5 Ab5 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.7,
+    "works": 5,
+    "per_1000": 3.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-004_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-messo-vivo.krn",
+      "label": "Studium na temat oryginalny op. 62, Messo vivo, movement 4 (PL-Wtm R 1143/1, kern)",
+      "bar": 10,
+      "notes": "F4 F#4 Ab4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-008_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-grandioso.krn",
+      "label": "Studium na temat oryginalny op. 62, Grandioso, movement 8 (PL-Wtm R 1143/1, kern)",
+      "bar": 6,
+      "notes": "F4 F#4 Ab4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-005_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-piu-animato.krn",
+      "label": "Studium na temat oryginalny op. 62, Piu animato, movement 5 (PL-Wtm R 1143/1, kern)",
+      "bar": 10,
+      "notes": "F5 F#5 Ab5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 7,
+    "per_1000": 7.8,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1141-1--001-002_dobrzynski-ignacy-feliks--quartetto-op-8-andante-con-variazioni.krn",
+      "label": "Quartetto op. 8, Andante con variazioni, movement 2 (PL-Wtm R 1141/1, kern)",
+      "bar": 20,
+      "notes": "Bb5 A5 Bb5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-003_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-piu-vivace.krn",
+      "label": "Studium na temat oryginalny op. 62, Piu vivace, movement 3 (PL-Wtm R 1143/1, kern)",
+      "bar": 5,
+      "notes": "D5 C#5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1143-1--001-004_dobrzynski-ignacy-feliks--studium-na-temat-oryginalny-op-62-messo-vivo.krn",
+      "label": "Studium na temat oryginalny op. 62, Messo vivo, movement 4 (PL-Wtm R 1143/1, kern)",
+      "bar": 9,
+      "notes": "F#4 F4 F#4 Ab4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 23,
+   "composers": 13
+  }
+ }
+]

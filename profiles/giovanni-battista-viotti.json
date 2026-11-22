@@ -1,0 +1,234 @@
+[
+ {
+  "composer": "Giovanni Battista Viotti",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5376798094356358,
+   "repeats": 0.11995003278727845,
+   "leaps": 0.1423541830763859,
+   "move": 3.079786127885986,
+   "rising": 0.4608700161587058,
+   "leap answered": 0.24876652930027052,
+   "range": 21.5,
+   "register": 73.83333333333333,
+   "even": 0.6919187227157257,
+   "long-short": 0.07704854204250278,
+   "rhythm variety": 1.8486472552491555,
+   "surprise, pitch": 2.6413008249647434,
+   "surprise, rhythm": 1.3760969800168097,
+   "density": 6.699032124117617,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "density",
+    "value": 6.699032124117617,
+    "others": 5.190628897148924,
+    "auc": 0.7570318523064373
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     4,
+     -2,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 2,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_E_minor,_W_2a.2/sq11246134.mxl#1",
+      "label": "String Quartet in E minor, W 2a.2, movement 1 (OpenScore)",
+      "bar": 72,
+      "notes": "E5 Ab5 F#5 Bb5"
+     },
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_G_minor,_W_2a.1/sq11572051.mxl#3",
+      "label": "String Quartet in G minor, W 2a.1, movement 3: Allegretto (OpenScore)",
+      "bar": 122,
+      "notes": "C6 E6 D6 F#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_E_minor,_W_2a.2/sq11246134.mxl#3",
+      "label": "String Quartet in E minor, W 2a.2, movement 3: Allegro agitato (OpenScore)",
+      "bar": 177,
+      "notes": "B5 F#6 Eb6 B5"
+     },
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_G_minor,_W_2a.1/sq11572051.mxl#3",
+      "label": "String Quartet in G minor, W 2a.1, movement 3: Allegretto (OpenScore)",
+      "bar": 210,
+      "notes": "G3 D4 B3 G3"
+     },
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_E_minor,_W_2a.2/sq11246134.mxl#1",
+      "label": "String Quartet in E minor, W 2a.2, movement 1 (OpenScore)",
+      "bar": 50,
+      "notes": "F#5 C#6 Bb5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_G_minor,_W_2a.1/sq11572051.mxl#1",
+      "label": "String Quartet in G minor, W 2a.1, movement 1 (OpenScore)",
+      "bar": 102,
+      "notes": "C5 F4 G4 A4"
+     },
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_G_minor,_W_2a.1/sq11572051.mxl#3",
+      "label": "String Quartet in G minor, W 2a.1, movement 3: Allegretto (OpenScore)",
+      "bar": 96,
+      "notes": "D6 G5 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     0,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_E_minor,_W_2a.2/sq11246134.mxl#3",
+      "label": "String Quartet in E minor, W 2a.2, movement 3: Allegro agitato (OpenScore)",
+      "bar": 96,
+      "notes": "B5 G5 G5 E5"
+     },
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_G_minor,_W_2a.1/sq11572051.mxl#1",
+      "label": "String Quartet in G minor, W 2a.1, movement 1 (OpenScore)",
+      "bar": 35,
+      "notes": "D6 Bb5 Bb5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -12,
+     12,
+     -11
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_G_minor,_W_2a.1/sq11572051.mxl#3",
+      "label": "String Quartet in G minor, W 2a.1, movement 3: Allegretto (OpenScore)",
+      "bar": 63,
+      "notes": "D6 D5 D6 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_G_minor,_W_2a.1/sq11572051.mxl#1",
+      "label": "String Quartet in G minor, W 2a.1, movement 1 (OpenScore)",
+      "bar": 184,
+      "notes": "D5 D4 D5 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_E_minor,_W_2a.2/sq11246134.mxl#1",
+      "label": "String Quartet in E minor, W 2a.2, movement 1 (OpenScore)",
+      "bar": 245,
+      "notes": "Eb6 F#6 A6 F#6"
+     },
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_E_minor,_W_2a.2/sq11246134.mxl#3",
+      "label": "String Quartet in E minor, W 2a.2, movement 3: Allegro agitato (OpenScore)",
+      "bar": 94,
+      "notes": "F#4 A4 C5 A4"
+     },
+     {
+      "work": "openscore-quartets:Viotti,_Giovanni_Battista/String_Quartet_in_G_minor,_W_2a.1/sq11572051.mxl#3",
+      "label": "String Quartet in G minor, W 2a.1, movement 3: Allegretto (OpenScore)",
+      "bar": 72,
+      "notes": "A4 C5 Eb5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 487,
+   "composers": 10
+  }
+ }
+]

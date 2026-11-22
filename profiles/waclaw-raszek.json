@@ -1,0 +1,308 @@
+[
+ {
+  "composer": "Wacław Raszek",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4375243000002864,
+   "repeats": 0.24012917926044586,
+   "leaps": 0.11556656090865976,
+   "move": 2.930783820257504,
+   "rising": 0.4836725598976052,
+   "leap answered": 0.16339869281045752,
+   "range": 13.883333333333335,
+   "register": 73.0,
+   "even": 0.5494978479196556,
+   "long-short": 0.050416372511064046,
+   "rhythm variety": 2.330078868514542,
+   "surprise, pitch": 2.4538610126152363,
+   "surprise, rhythm": 1.7835606495497676,
+   "density": 5.8288474252430875,
+   "lines": 7.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 31,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Wacław Raszek",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 109,
+  "values": {
+   "steps": 0.4672669853169827,
+   "repeats": 0.33202726924855014,
+   "leaps": 0.08269313951832981,
+   "move": 2.5122864185104676,
+   "rising": 0.47197689602883386,
+   "leap answered": 0.3189320987696621,
+   "range": 10.258715596330276,
+   "register": 77.96330275229357,
+   "even": 0.6067838464525103,
+   "long-short": 0.06309590102942823,
+   "rhythm variety": 2.0164493929703164,
+   "surprise, pitch": 2.5132735913160786,
+   "surprise, rhythm": 1.7012227367221902,
+   "density": 10.768301456840245,
+   "lines": 11.394495412844037
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.08269313951832981,
+    "others": 0.1450723838819089,
+    "auc": 0.15300704929269865
+   },
+   {
+    "measure": "move",
+    "value": 2.5122864185104676,
+    "others": 2.9860170668979777,
+    "auc": 0.2057677804849754
+   },
+   {
+    "measure": "even",
+    "value": 0.6067838464525103,
+    "others": 0.45157631850601465,
+    "auc": 0.7971674077671628
+   },
+   {
+    "measure": "long-short",
+    "value": 0.06309590102942823,
+    "others": 0.11274830362743823,
+    "auc": 0.24565278403129726
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 11.5,
+    "works": 43,
+    "per_1000": 4.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-470--001-004_raszek-waclaw--missa-toni-c-sanctus.krn",
+      "label": "Missa toni C, Sanctus, movement 4 (PL-Kk Kk.I.470, kern)",
+      "bar": 96,
+      "notes": "G5 G5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-563--001-002_raszek-waclaw--missa-ex-dis-gloria.krn",
+      "label": "Missa ex Dis, Gloria, movement 2 (PL-CZ III-563, kern)",
+      "bar": 30,
+      "notes": "Eb5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-554--001-007_raszek-waclaw--missa-ex-c-credo.krn",
+      "label": "Missa ex C, Credo, movement 7: Allegro (PL-CZ III-554, kern)",
+      "bar": 11,
+      "notes": "G5 G5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 11.0,
+    "works": 38,
+    "per_1000": 4.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-558--001-002_raszek-waclaw--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-CZ III-558, kern)",
+      "bar": 56,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--12a--001-013_raszek-waclaw--missa-solemnis-ex-g-dona-nobis.krn",
+      "label": "Missa Solemnis ex G, Dona nobis, movement 13 (PL-STAb 12a, kern)",
+      "bar": 20,
+      "notes": "B5 B5 B5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-554--001-005_raszek-waclaw--missa-ex-c-quoniam.krn",
+      "label": "Missa ex C, Quoniam, movement 5 (PL-CZ III-554, kern)",
+      "bar": 12,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 10.7,
+    "works": 45,
+    "per_1000": 5.0,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--12a--001-013_raszek-waclaw--missa-solemnis-ex-g-dona-nobis.krn",
+      "label": "Missa Solemnis ex G, Dona nobis, movement 13 (PL-STAb 12a, kern)",
+      "bar": 17,
+      "notes": "B5 B5 B5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-558--001-012_raszek-waclaw--missa-in-c-dona-nobis.krn",
+      "label": "Missa in C, Dona nobis, movement 12 (PL-CZ III-558, kern)",
+      "bar": 20,
+      "notes": "C6 C6 C6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-558--001-002_raszek-waclaw--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-CZ III-558, kern)",
+      "bar": 56,
+      "notes": "G5 G5 G5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 10.4,
+    "works": 38,
+    "per_1000": 3.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-563--001-001_raszek-waclaw--missa-ex-dis-kyrie.krn",
+      "label": "Missa ex Dis, Kyrie, movement 1: allo (PL-CZ III-563, kern)",
+      "bar": 27,
+      "notes": "Ab5 G5 Ab5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-624--001-002_raszek-waclaw--missa-in-f-gloria.krn",
+      "label": "Missa in F, Gloria, movement 2 (PL-CZ III-624, kern)",
+      "bar": 13,
+      "notes": "F5 E5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-563--001-005_raszek-waclaw--missa-ex-dis-et-resurrexit.krn",
+      "label": "Missa ex Dis, Et resurrexit, movement 5 (PL-CZ III-563, kern)",
+      "bar": 8,
+      "notes": "Eb5 D5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 10.1,
+    "works": 36,
+    "per_1000": 3.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-554--001-009_raszek-waclaw--missa-ex-c-et-resurrexit.krn",
+      "label": "Missa ex C, Et resurrexit, movement 9: allo (PL-CZ III-554, kern)",
+      "bar": 3,
+      "notes": "C6 B5 C6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-563--001-001_raszek-waclaw--missa-ex-dis-kyrie.krn",
+      "label": "Missa ex Dis, Kyrie, movement 1: allo (PL-CZ III-563, kern)",
+      "bar": 21,
+      "notes": "Bb4 A4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-554--001-007_raszek-waclaw--missa-ex-c-credo.krn",
+      "label": "Missa ex C, Credo, movement 7: Allegro (PL-CZ III-554, kern)",
+      "bar": 2,
+      "notes": "C6 B5 C6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 10.1,
+    "works": 42,
+    "per_1000": 4.6,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-563--001-005_raszek-waclaw--missa-ex-dis-et-resurrexit.krn",
+      "label": "Missa ex Dis, Et resurrexit, movement 5 (PL-CZ III-563, kern)",
+      "bar": 8,
+      "notes": "F5 Eb5 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-563--001-001_raszek-waclaw--missa-ex-dis-kyrie.krn",
+      "label": "Missa ex Dis, Kyrie, movement 1: allo (PL-CZ III-563, kern)",
+      "bar": 27,
+      "notes": "Bb5 Ab5 G5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-563--001-010_raszek-waclaw--missa-ex-dis-dona-nobis.krn",
+      "label": "Missa ex Dis, Dona nobis, movement 10 (PL-CZ III-563, kern)",
+      "bar": 20,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 444,
+   "composers": 37
+  }
+ }
+]

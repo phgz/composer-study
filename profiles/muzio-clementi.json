@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Muzio Clementi",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.4786715090894657,
+   "repeats": 0.12909224418512344,
+   "leaps": 0.22592482337064382,
+   "move": 3.5917108556993775,
+   "rising": 0.43337058817690094,
+   "leap answered": 0.22371967654986524,
+   "range": 18.666666666666668,
+   "register": 71.33333333333333,
+   "even": 0.7500231675728365,
+   "long-short": 0.03532008830022075,
+   "rhythm variety": 1.368511303632835,
+   "surprise, pitch": 2.2987043378001535,
+   "surprise, rhythm": 1.0310629574175976,
+   "density": 3.662674686376325,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 331,
+   "composers": 9
+  }
+ }
+]

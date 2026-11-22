@@ -1,0 +1,521 @@
+[
+ {
+  "composer": "Tadeusz Joteyko",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5095012220904281,
+   "repeats": 0.1060762850738319,
+   "leaps": 0.18807418235941875,
+   "move": 3.322271006985737,
+   "rising": 0.4910464053642879,
+   "leap answered": 0.2285851623047672,
+   "range": 20.35,
+   "register": 74.0,
+   "even": 0.437273538922068,
+   "long-short": 0.19821495156262206,
+   "rhythm variety": 2.599072240861876,
+   "surprise, pitch": 2.700014951348848,
+   "surprise, rhythm": 1.388974603920756,
+   "density": 4.121684335695968,
+   "lines": 2.25
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 91,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Tadeusz Joteyko",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 12,
+  "values": {
+   "steps": 0.603819790796332,
+   "repeats": 0.06609585525874312,
+   "leaps": 0.151761954290378,
+   "move": 2.9616144766170134,
+   "rising": 0.47375337889037966,
+   "leap answered": 0.259810355549248,
+   "range": 19.575,
+   "register": 74.54166666666667,
+   "even": 0.5877182380178604,
+   "long-short": 0.08756330435847454,
+   "rhythm variety": 1.9678988988094355,
+   "surprise, pitch": 2.4910817436347608,
+   "surprise, rhythm": 1.2850387245440145,
+   "density": 4.416540069968199,
+   "lines": 2.0833333333333335
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 7.5,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-2--001-003_joteyko-tadeusz--sonatine-g-dur-op-18-no-2-iii-alla-polacca.krn",
+      "label": "Sonatine G-dur Op. 18 No. 2, III. Alla Polacca, movement 3 (PL-Wtm III.41.637-2, kern)",
+      "bar": 9,
+      "notes": "A5 A5 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-4--001-003_joteyko-tadeusz--sonatine-h-moll-op-19-no-2-iii-rondo-alla-mazurka.krn",
+      "label": "Sonatine h-moll Op. 19 No. 2, III. Rondo alla Mazurka, movement 3 (PL-Wtm III.41.637-4, kern)",
+      "bar": 42,
+      "notes": "A4 A4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 6.8,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-1--001-001_joteyko-tadeusz--sonatine-c-dur-op-18-no-1-i-allegro-assai.krn",
+      "label": "Sonatine C-dur Op. 18 No. 1, I. Allegro assai, movement 1 (PL-Wtm III.41.637-1, kern)",
+      "bar": 14,
+      "notes": "A4 B4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-2--001-001_joteyko-tadeusz--sonatine-g-dur-op-18-no-2-i-allegro-risoluto.krn",
+      "label": "Sonatine G-dur Op. 18 No. 2, I. Allegro risoluto, movement 1 (PL-Wtm III.41.637-2, kern)",
+      "bar": 17,
+      "notes": "E5 F#5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-3--001-002_joteyko-tadeusz--sonatine-f-dur-op-18-no-3-ii-noel.krn",
+      "label": "Sonatine F-dur Op. 18 No. 3, II. Noël, movement 2 (PL-Wtm III.41.637-3, kern)",
+      "bar": 4,
+      "notes": "C5 D5 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-1--001-001_joteyko-tadeusz--sonatine-c-dur-op-18-no-1-i-allegro-assai.krn",
+      "label": "Sonatine C-dur Op. 18 No. 1, I. Allegro assai, movement 1 (PL-Wtm III.41.637-1, kern)",
+      "bar": 16,
+      "notes": "A4 F#4 G4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-3--001-002_joteyko-tadeusz--sonatine-f-dur-op-18-no-3-ii-noel.krn",
+      "label": "Sonatine F-dur Op. 18 No. 3, II. Noël, movement 2 (PL-Wtm III.41.637-3, kern)",
+      "bar": 8,
+      "notes": "C5 A4 Bb4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-1--001-003_joteyko-tadeusz--sonatine-c-dur-op-18-no-1-iii-rondo-alla-cracoviana.krn",
+      "label": "Sonatine C-dur Op. 18 No. 1, III. Rondo alla Cracoviana, movement 3 (PL-Wtm III.41.637-1, kern)",
+      "bar": 68,
+      "notes": "D5 B4 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-3--001-002_joteyko-tadeusz--sonatine-f-dur-op-18-no-3-ii-noel.krn",
+      "label": "Sonatine F-dur Op. 18 No. 3, II. Noël, movement 2 (PL-Wtm III.41.637-3, kern)",
+      "bar": 14,
+      "notes": "A4 Bb4 C5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-2--001-001_joteyko-tadeusz--sonatine-g-dur-op-18-no-2-i-allegro-risoluto.krn",
+      "label": "Sonatine G-dur Op. 18 No. 2, I. Allegro risoluto, movement 1 (PL-Wtm III.41.637-2, kern)",
+      "bar": 22,
+      "notes": "C#5 D5 E5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-3--001-003_joteyko-tadeusz--sonatine-f-dur-op-18-no-3-iii-la-fete-au-village.krn",
+      "label": "Sonatine F-dur Op. 18 No. 3, III. La féte au village, movement 3 (PL-Wtm III.41.637-3, kern)",
+      "bar": 128,
+      "notes": "E4 F4 G4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-3--001-002_joteyko-tadeusz--sonatine-f-dur-op-18-no-3-ii-noel.krn",
+      "label": "Sonatine F-dur Op. 18 No. 3, II. Noël, movement 2 (PL-Wtm III.41.637-3, kern)",
+      "bar": 18,
+      "notes": "Bb4 C5 D5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-2--001-001_joteyko-tadeusz--sonatine-g-dur-op-18-no-2-i-allegro-risoluto.krn",
+      "label": "Sonatine G-dur Op. 18 No. 2, I. Allegro risoluto, movement 1 (PL-Wtm III.41.637-2, kern)",
+      "bar": 17,
+      "notes": "D5 E5 F#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-1--001-003_joteyko-tadeusz--sonatine-c-dur-op-18-no-1-iii-rondo-alla-cracoviana.krn",
+      "label": "Sonatine C-dur Op. 18 No. 1, III. Rondo alla Cracoviana, movement 3 (PL-Wtm III.41.637-1, kern)",
+      "bar": 77,
+      "notes": "C5 D5 E5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-2--001-003_joteyko-tadeusz--sonatine-g-dur-op-18-no-2-iii-alla-polacca.krn",
+      "label": "Sonatine G-dur Op. 18 No. 2, III. Alla Polacca, movement 3 (PL-Wtm III.41.637-2, kern)",
+      "bar": 8,
+      "notes": "Eb5 E5 F#5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-1--001-001_joteyko-tadeusz--sonatine-c-dur-op-18-no-1-i-allegro-assai.krn",
+      "label": "Sonatine C-dur Op. 18 No. 1, I. Allegro assai, movement 1 (PL-Wtm III.41.637-1, kern)",
+      "bar": 7,
+      "notes": "C#5 D5 E5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-4--001-003_joteyko-tadeusz--sonatine-h-moll-op-19-no-2-iii-rondo-alla-mazurka.krn",
+      "label": "Sonatine h-moll Op. 19 No. 2, III. Rondo alla Mazurka, movement 3 (PL-Wtm III.41.637-4, kern)",
+      "bar": 23,
+      "notes": "C#5 D5 E5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 931,
+   "composers": 45
+  }
+ },
+ {
+  "composer": "Tadeusz Joteyko",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 14,
+  "values": {
+   "steps": 0.42718745243106976,
+   "repeats": 0.27693586051802455,
+   "leaps": 0.12578861952648726,
+   "move": 3.1894245187953643,
+   "rising": 0.5055681808971654,
+   "leap answered": 0.22856958711052794,
+   "range": 15.34642857142857,
+   "register": 72.17857142857143,
+   "even": 0.5170957155862149,
+   "long-short": 0.09194351792589928,
+   "rhythm variety": 2.2818272013107648,
+   "surprise, pitch": 2.5017915595303464,
+   "surprise, rhythm": 1.4328577939710858,
+   "density": 5.929680539083962,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.27693586051802455,
+    "others": 0.1196732378075178,
+    "auc": 0.7893922215350787
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 3.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n48093_joteyko-tadeusz--przed-noca-op-2-no-5-ponad-szczytami.krn",
+      "label": "Przed nocą Op. 2 No. 5/Ponad szczytami: Grave. (PL-Wumfc N48093, kern)",
+      "bar": 9,
+      "notes": "C#5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n48032_joteyko-tadeusz--wiosna-op-2-no-1-juz-okwitl-wonny-bez.krn",
+      "label": "Wiosna Op. 2 No. 1/Już okwitł wonny bez: Allegro animato. (PL-Wumfc N48032, kern)",
+      "bar": 4,
+      "notes": "C5 C5 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2197-sp-10910_joteyko-tadeusz--szum-drzew-op-44-no-2-przyplynal-ku-mnie.krn",
+      "label": "Szum drzew Op. 44 No. 2/Przypłynął ku mnie (PL-Wtm 2197 śp 10910, kern)",
+      "bar": 19,
+      "notes": "D5 D5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-635_joteyko-tadeusz--melodies-alsaciennes-op-26.krn",
+      "label": "Melodies Alsaciennes op. 26 (PL-Wtm III.41.635, kern)",
+      "bar": 147,
+      "notes": "A4 A4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-29-276-75_joteyko-tadeusz--noc-taka-jasna-op-3-no-1.krn",
+      "label": "Noc taka jasna Op. 3 No. 1: Andantino. (PL-Wtm A.29.276/75, kern)",
+      "bar": 20,
+      "notes": "D5 D5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-29-279-75_joteyko-tadeusz--mow-do-mnie-op-2-no-2.krn",
+      "label": "Mów do mnie Op. 2 No. 2 (PL-Wtm A.29.279/75, kern)",
+      "bar": 15,
+      "notes": "B4 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 3.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n48032_joteyko-tadeusz--wiosna-op-2-no-1-juz-okwitl-wonny-bez.krn",
+      "label": "Wiosna Op. 2 No. 1/Już okwitł wonny bez: Allegro animato. (PL-Wumfc N48032, kern)",
+      "bar": 16,
+      "notes": "G5 G5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-29-276-75_joteyko-tadeusz--noc-taka-jasna-op-3-no-1.krn",
+      "label": "Noc taka jasna Op. 3 No. 1: Andantino. (PL-Wtm A.29.276/75, kern)",
+      "bar": 10,
+      "notes": "D5 D5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-635_joteyko-tadeusz--melodies-alsaciennes-op-26.krn",
+      "label": "Melodies Alsaciennes op. 26 (PL-Wtm III.41.635, kern)",
+      "bar": 282,
+      "notes": "E6 E6 E6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-29-277-75_joteyko-tadeusz--wstan-piesni-op-3-no-2.krn",
+      "label": "Wstań pieśni Op. 3 No. 2 (PL-Wtm A.29.277/75, kern)",
+      "bar": 15,
+      "notes": "C#5 C#5 C5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n48032_joteyko-tadeusz--wiosna-op-2-no-1-juz-okwitl-wonny-bez.krn",
+      "label": "Wiosna Op. 2 No. 1/Już okwitł wonny bez: Allegro animato. (PL-Wumfc N48032, kern)",
+      "bar": 9,
+      "notes": "Ab4 Ab4 G4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-29-279-75_joteyko-tadeusz--mow-do-mnie-op-2-no-2.krn",
+      "label": "Mów do mnie Op. 2 No. 2 (PL-Wtm A.29.279/75, kern)",
+      "bar": 13,
+      "notes": "Bb4 Bb4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-635_joteyko-tadeusz--melodies-alsaciennes-op-26.krn",
+      "label": "Melodies Alsaciennes op. 26 (PL-Wtm III.41.635, kern)",
+      "bar": 40,
+      "notes": "D5 D5 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-29-277-75_joteyko-tadeusz--wstan-piesni-op-3-no-2.krn",
+      "label": "Wstań pieśni Op. 3 No. 2 (PL-Wtm A.29.277/75, kern)",
+      "bar": 18,
+      "notes": "F5 F5 Eb5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-635_joteyko-tadeusz--melodies-alsaciennes-op-26.krn",
+      "label": "Melodies Alsaciennes op. 26 (PL-Wtm III.41.635, kern)",
+      "bar": 197,
+      "notes": "F5 E5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-41-637-1--001-002_joteyko-tadeusz--sonatine-c-dur-op-18-no-1-ii-chanson-polonaise.krn",
+      "label": "Sonatine C-dur Op. 18 No. 1, II. Chanson polonaise, movement 2 (PL-Wtm III.41.637-1, kern)",
+      "bar": 11,
+      "notes": "Bb4 A4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 398,
+   "composers": 45
+  }
+ }
+]

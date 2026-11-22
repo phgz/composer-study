@@ -1,0 +1,270 @@
+[
+ {
+  "composer": "Cyryl Goetz-Gieczyński",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.4280575699071288,
+   "repeats": 0.22143971568468876,
+   "leaps": 0.1533612881489439,
+   "move": 3.170558222129112,
+   "rising": 0.5166562980948483,
+   "leap answered": 0.23967537400177122,
+   "range": 14.375,
+   "register": 82.875,
+   "even": 0.5684345030778934,
+   "long-short": 0.06479817435647589,
+   "rhythm variety": 2.3412831330132207,
+   "surprise, pitch": 2.580261017267908,
+   "surprise, rhythm": 1.7858531549203587,
+   "density": 13.261704605701054,
+   "lines": 14.875
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5166562980948483,
+    "others": 0.4621369157273752,
+    "auc": 0.8519092889681124
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.23967537400177122,
+    "others": 0.3971041311044072,
+    "auc": 0.14682688195895444
+   },
+   {
+    "measure": "even",
+    "value": 0.5684345030778934,
+    "others": 0.45433171895696445,
+    "auc": 0.750309344570003
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.580261017267908,
+    "others": 2.820493849614508,
+    "auc": 0.18428847523626282
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.0,
+    "works": 6,
+    "per_1000": 5.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-280--001-002_goetz-gieczynski-cyryl--missa-nepomuceno-in-c-gloria.krn",
+      "label": "Missa Nepomuceno in C, Gloria, movement 2 (PL-CZ III-280, kern)",
+      "bar": 29,
+      "notes": "F5 G5 A5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-003_goetz-gieczynski-cyryl--missa-ceciliae-in-d-credo.krn",
+      "label": "Missa Ceciliae in D, Credo, movement 3 (PL-CZ III-281, kern)",
+      "bar": 101,
+      "notes": "G5 A5 B5 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-004_goetz-gieczynski-cyryl--missa-ceciliae-in-d-sanctus-a.krn",
+      "label": "Missa Ceciliae in D, Sanctus - a, movement 4 (PL-CZ III-281, kern)",
+      "bar": 25,
+      "notes": "G5 A5 B5 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.9,
+    "works": 6,
+    "per_1000": 4.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-004_goetz-gieczynski-cyryl--missa-ceciliae-in-d-sanctus-a.krn",
+      "label": "Missa Ceciliae in D, Sanctus - a, movement 4 (PL-CZ III-281, kern)",
+      "bar": 117,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-280--001-004_goetz-gieczynski-cyryl--missa-nepomuceno-in-c-sanctus.krn",
+      "label": "Missa Nepomuceno in C, Sanctus, movement 4 (PL-CZ III-280, kern)",
+      "bar": 52,
+      "notes": "G5 F5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-280--001-002_goetz-gieczynski-cyryl--missa-nepomuceno-in-c-gloria.krn",
+      "label": "Missa Nepomuceno in C, Gloria, movement 2 (PL-CZ III-280, kern)",
+      "bar": 17,
+      "notes": "D6 C6 B5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 5,
+    "per_1000": 4.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-004_goetz-gieczynski-cyryl--missa-ceciliae-in-d-sanctus-a.krn",
+      "label": "Missa Ceciliae in D, Sanctus - a, movement 4 (PL-CZ III-281, kern)",
+      "bar": 7,
+      "notes": "D6 E6 D6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-280--001-001_goetz-gieczynski-cyryl--missa-nepomuceno-in-c-kyrie.krn",
+      "label": "Missa Nepomuceno in C, Kyrie, movement 1 (PL-CZ III-280, kern)",
+      "bar": 111,
+      "notes": "C6 D6 C6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-280--001-002_goetz-gieczynski-cyryl--missa-nepomuceno-in-c-gloria.krn",
+      "label": "Missa Nepomuceno in C, Gloria, movement 2 (PL-CZ III-280, kern)",
+      "bar": 74,
+      "notes": "C6 D6 C6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-001_goetz-gieczynski-cyryl--missa-ceciliae-in-d-kyrie-a.krn",
+      "label": "Missa Ceciliae in D, Kyrie - a, movement 1 (PL-CZ III-281, kern)",
+      "bar": 48,
+      "notes": "D6 C#6 D6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-280--001-005_goetz-gieczynski-cyryl--missa-nepomuceno-in-c-agnus.krn",
+      "label": "Missa Nepomuceno in C, Agnus, movement 5 (PL-CZ III-280, kern)",
+      "bar": 148,
+      "notes": "C6 B5 C6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-004_goetz-gieczynski-cyryl--missa-ceciliae-in-d-sanctus-a.krn",
+      "label": "Missa Ceciliae in D, Sanctus - a, movement 4 (PL-CZ III-281, kern)",
+      "bar": 137,
+      "notes": "C6 B5 C6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 3.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-001_goetz-gieczynski-cyryl--missa-ceciliae-in-d-kyrie-a.krn",
+      "label": "Missa Ceciliae in D, Kyrie - a, movement 1 (PL-CZ III-281, kern)",
+      "bar": 32,
+      "notes": "F#5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-280--001-005_goetz-gieczynski-cyryl--missa-nepomuceno-in-c-agnus.krn",
+      "label": "Missa Nepomuceno in C, Agnus, movement 5 (PL-CZ III-280, kern)",
+      "bar": 8,
+      "notes": "C#6 D6 C#6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-003_goetz-gieczynski-cyryl--missa-ceciliae-in-d-credo.krn",
+      "label": "Missa Ceciliae in D, Credo, movement 3 (PL-CZ III-281, kern)",
+      "bar": 163,
+      "notes": "C#6 D6 C#6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-001_goetz-gieczynski-cyryl--missa-ceciliae-in-d-kyrie-a.krn",
+      "label": "Missa Ceciliae in D, Kyrie - a, movement 1 (PL-CZ III-281, kern)",
+      "bar": 7,
+      "notes": "A4 C#5 E5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-281--001-003_goetz-gieczynski-cyryl--missa-ceciliae-in-d-credo.krn",
+      "label": "Missa Ceciliae in D, Credo, movement 3 (PL-CZ III-281, kern)",
+      "bar": 118,
+      "notes": "A5 C#6 E6 C#6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 545,
+   "composers": 37
+  }
+ }
+]

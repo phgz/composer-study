@@ -1,0 +1,814 @@
+[
+ {
+  "composer": "Scott Joplin",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 46,
+  "values": {
+   "steps": 0.4677299303145549,
+   "repeats": 0.09000861929128132,
+   "leaps": 0.22920967512708976,
+   "move": 3.5431987265109335,
+   "rising": 0.5118262150577407,
+   "leap answered": 0.27179543074464535,
+   "range": 19.83152173913043,
+   "register": 75.3695652173913,
+   "even": 0.5120592612081845,
+   "long-short": 0.047223246551784614,
+   "rhythm variety": 2.163012035121628,
+   "surprise, pitch": 2.313768682261329,
+   "surprise, rhythm": 1.3778306813628358,
+   "density": 7.279188308355161,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 22,
+    "per_1000": 2.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/joplin:figleaf.krn",
+      "label": "Fig Leaf Rag: Slow March Tempo [quarter]=100 (kern)",
+      "bar": 6,
+      "notes": "F#4 G4 Ab4 A4"
+     },
+     {
+      "work": "kern/joplin:solace.krn",
+      "label": "Solace, A Mexican Serenade: Very slow march time (kern)",
+      "bar": 5,
+      "notes": "Ab4 A4 Bb4 B4"
+     },
+     {
+      "work": "kern/joplin:peacherine.krn",
+      "label": "Peacherine Rag: Not too fast. (kern)",
+      "bar": 4,
+      "notes": "G4 Ab4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 18,
+    "per_1000": 1.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/joplin:something.krn",
+      "label": "Something Doing: Intro. Not fast. (kern)",
+      "bar": 24,
+      "notes": "C4 D4 Eb4 E4"
+     },
+     {
+      "work": "kern/joplin:eugenia.krn",
+      "label": "Eugenia: Slow March Tempo [quarter]=72 (kern)",
+      "bar": 5,
+      "notes": "Bb4 C5 C#5 D5"
+     },
+     {
+      "work": "kern/joplin:paragon.krn",
+      "label": "The Paragon Rag: Slow March Time (kern)",
+      "bar": 7,
+      "notes": "G4 A4 Bb4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     4,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 14,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/joplin:favorite.krn",
+      "label": "The Favorite: Slow March Tempo. (kern)",
+      "bar": 9,
+      "notes": "F4 Bb4 D5 F5"
+     },
+     {
+      "work": "kern/joplin:figleaf.krn",
+      "label": "Fig Leaf Rag: Slow March Tempo [quarter]=100 (kern)",
+      "bar": 5,
+      "notes": "F4 Bb4 D5 F5"
+     },
+     {
+      "work": "kern/joplin:bethena.krn",
+      "label": "Bethena: Valse Tempo (kern)",
+      "bar": 120,
+      "notes": "A4 D5 F#5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 15,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/joplin:searchlight.krn",
+      "label": "Search-Light Rag (kern)",
+      "bar": 56,
+      "notes": "Bb5 C6 C#6 D6"
+     },
+     {
+      "work": "kern/joplin:entertainer.krn",
+      "label": "The Entertainer (kern)",
+      "bar": 6,
+      "notes": "C6 D6 Eb6 E6"
+     },
+     {
+      "work": "kern/joplin:something.krn",
+      "label": "Something Doing: Intro. Not fast. (kern)",
+      "bar": 73,
+      "notes": "Bb4 C5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 13,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/joplin:roseleaf.krn",
+      "label": "Rose Leaf Rag: Slow March tempo (kern)",
+      "bar": 5,
+      "notes": "A4 G4 F#4 F4"
+     },
+     {
+      "work": "kern/joplin:pineapple.krn",
+      "label": "Pine Apple Rag: Slow March tempo. [quarter]=100 (kern)",
+      "bar": 55,
+      "notes": "Bb4 Ab4 G4 F#4"
+     },
+     {
+      "work": "kern/joplin:stoptime.krn",
+      "label": "Stoptime Rag: Fast or slow. (kern)",
+      "bar": 27,
+      "notes": "G5 F5 E5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 49,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Scott Joplin",
+  "kind": "march",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 25,
+  "values": {
+   "steps": 0.46979567924804855,
+   "repeats": 0.08843641517829028,
+   "leaps": 0.23218189056541244,
+   "move": 3.5225220766951253,
+   "rising": 0.5190373743152086,
+   "leap answered": 0.26099825602805926,
+   "range": 20.083999999999996,
+   "register": 75.42,
+   "even": 0.5206953027166343,
+   "long-short": 0.051898590825976705,
+   "rhythm variety": 2.1422946402422225,
+   "surprise, pitch": 2.320188137499767,
+   "surprise, rhythm": 1.3743189776101223,
+   "density": 7.631307386595257,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.08843641517829028,
+    "others": 0.20394954941224824,
+    "auc": 0.20039890888450085
+   },
+   {
+    "measure": "leaps",
+    "value": 0.23218189056541244,
+    "others": 0.16080050988198225,
+    "auc": 0.7923657193368686
+   },
+   {
+    "measure": "long-short",
+    "value": 0.051898590825976705,
+    "others": 0.17323133478351252,
+    "auc": 0.16779681245113437
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.1422946402422225,
+    "others": 2.4970177335564143,
+    "auc": 0.2324766171456694
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 13,
+    "per_1000": 3.4,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/joplin:combination.krn",
+      "label": "Combination March: Andante. (kern)",
+      "bar": 1,
+      "notes": "D5 Eb5 E5 F5"
+     },
+     {
+      "work": "kern/joplin:pineapple.krn",
+      "label": "Pine Apple Rag: Slow March tempo. [quarter]=100 (kern)",
+      "bar": 22,
+      "notes": "E4 F4 F#4 G4"
+     },
+     {
+      "work": "kern/joplin:paragon.krn",
+      "label": "The Paragon Rag: Slow March Time (kern)",
+      "bar": 66,
+      "notes": "E4 F4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 11,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/joplin:figleaf.krn",
+      "label": "Fig Leaf Rag: Slow March Tempo [quarter]=100 (kern)",
+      "bar": 6,
+      "notes": "F#4 G4 Ab4 A4"
+     },
+     {
+      "work": "kern/joplin:solace.krn",
+      "label": "Solace, A Mexican Serenade: Very slow march time (kern)",
+      "bar": 5,
+      "notes": "Ab4 A4 Bb4 B4"
+     },
+     {
+      "work": "kern/joplin:felicity.krn",
+      "label": "Felicity Rag: Tempo di Marcia (kern)",
+      "bar": 1,
+      "notes": "F#3 G3 Ab3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 12,
+    "per_1000": 2.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/joplin:eugenia.krn",
+      "label": "Eugenia: Slow March Tempo [quarter]=72 (kern)",
+      "bar": 5,
+      "notes": "Bb4 C5 C#5 D5"
+     },
+     {
+      "work": "kern/joplin:paragon.krn",
+      "label": "The Paragon Rag: Slow March Time (kern)",
+      "bar": 7,
+      "notes": "G4 A4 Bb4 B4"
+     },
+     {
+      "work": "kern/joplin:heliotrope.krn",
+      "label": "Heliotrope Bouquet: Slow March Tempo. (kern)",
+      "bar": 18,
+      "notes": "G4 A4 Bb4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 11,
+    "per_1000": 2.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/joplin:paragon.krn",
+      "label": "The Paragon Rag: Slow March Time (kern)",
+      "bar": 66,
+      "notes": "F4 F#4 G4 A4"
+     },
+     {
+      "work": "kern/joplin:pineapple.krn",
+      "label": "Pine Apple Rag: Slow March tempo. [quarter]=100 (kern)",
+      "bar": 7,
+      "notes": "C#5 D5 Eb5 F5"
+     },
+     {
+      "work": "kern/joplin:reflection.krn",
+      "label": "Reflection Rag: Slow March Tempo. (kern)",
+      "bar": 17,
+      "notes": "Eb4 E4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 6,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/joplin:pineapple.krn",
+      "label": "Pine Apple Rag: Slow March tempo. [quarter]=100 (kern)",
+      "bar": 1,
+      "notes": "Eb4 D4 C#4 D4"
+     },
+     {
+      "work": "kern/joplin:nonpareil.krn",
+      "label": "The Nonpareil: Slow march tempo. (kern)",
+      "bar": 35,
+      "notes": "Eb6 D6 C#6 D6"
+     },
+     {
+      "work": "kern/joplin:cascades.krn",
+      "label": "The Cascades: Tempo di Marcia (kern)",
+      "bar": 60,
+      "notes": "Ab4 G4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.4,
+    "works": 7,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/joplin:felicity.krn",
+      "label": "Felicity Rag: Tempo di Marcia (kern)",
+      "bar": 1,
+      "notes": "G3 Ab3 A3 A3"
+     },
+     {
+      "work": "kern/joplin:gladiolus.krn",
+      "label": "Gladiolus Rag: Slow march tempo. (kern)",
+      "bar": 27,
+      "notes": "Bb5 B5 C6 C6"
+     },
+     {
+      "work": "kern/joplin:solace.krn",
+      "label": "Solace, A Mexican Serenade: Very slow march time (kern)",
+      "bar": 32,
+      "notes": "A5 Bb5 B5 B5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 66,
+   "composers": 30
+  }
+ },
+ {
+  "composer": "Scott Joplin",
+  "kind": "rag",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 46,
+  "values": {
+   "steps": 0.4677299303145549,
+   "repeats": 0.09000861929128132,
+   "leaps": 0.22920967512708976,
+   "move": 3.5431987265109335,
+   "rising": 0.5118262150577407,
+   "leap answered": 0.27179543074464535,
+   "range": 19.83152173913043,
+   "register": 75.3695652173913,
+   "even": 0.5120592612081845,
+   "long-short": 0.047223246551784614,
+   "rhythm variety": 2.163012035121628,
+   "surprise, pitch": 2.313768682261329,
+   "surprise, rhythm": 1.3778306813628358,
+   "density": 7.279188308355161,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.27179543074464535,
+    "others": 0.16077510745236565,
+    "auc": 0.7785475394171048
+   },
+   {
+    "measure": "register",
+    "value": 75.3695652173913,
+    "others": 71.65425531914893,
+    "auc": 0.7837650323774283
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 24,
+    "per_1000": 2.5,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/joplin:eugenia.krn",
+      "label": "Eugenia: Slow March Tempo [quarter]=72 (kern)",
+      "bar": 4,
+      "notes": "F4 G4 A4 Bb4"
+     },
+     {
+      "work": "kern/joplin:bethena.krn",
+      "label": "Bethena: Valse Tempo (kern)",
+      "bar": 29,
+      "notes": "F5 G5 A5 Bb5"
+     },
+     {
+      "work": "kern/joplin:heliotrope.krn",
+      "label": "Heliotrope Bouquet: Slow March Tempo. (kern)",
+      "bar": 26,
+      "notes": "D5 E5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 14,
+    "per_1000": 1.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/joplin:breeze.krn",
+      "label": "A Breeze from Alabama: Not fast. (kern)",
+      "bar": 27,
+      "notes": "A5 G5 F5 E5"
+     },
+     {
+      "work": "kern/joplin:searchlight.krn",
+      "label": "Search-Light Rag (kern)",
+      "bar": 12,
+      "notes": "G5 F5 Eb5 D5"
+     },
+     {
+      "work": "kern/joplin:augustan.krn",
+      "label": "Augustan Club Waltz: Moderato (kern)",
+      "bar": 78,
+      "notes": "G5 F5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 15,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/joplin:searchlight.krn",
+      "label": "Search-Light Rag (kern)",
+      "bar": 56,
+      "notes": "Bb5 C6 C#6 D6"
+     },
+     {
+      "work": "kern/joplin:entertainer.krn",
+      "label": "The Entertainer (kern)",
+      "bar": 6,
+      "notes": "C6 D6 Eb6 E6"
+     },
+     {
+      "work": "kern/joplin:something.krn",
+      "label": "Something Doing: Intro. Not fast. (kern)",
+      "bar": 73,
+      "notes": "Bb4 C5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 14,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/joplin:cleopha.krn",
+      "label": "Cleopha: Tempo di Marcia. (kern)",
+      "bar": 6,
+      "notes": "C6 B5 C6 D6"
+     },
+     {
+      "work": "kern/joplin:something.krn",
+      "label": "Something Doing: Intro. Not fast. (kern)",
+      "bar": 55,
+      "notes": "F5 E5 F5 G5"
+     },
+     {
+      "work": "kern/joplin:breeze.krn",
+      "label": "A Breeze from Alabama: Not fast. (kern)",
+      "bar": 1,
+      "notes": "A4 Ab4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 18,
+    "per_1000": 1.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/joplin:something.krn",
+      "label": "Something Doing: Intro. Not fast. (kern)",
+      "bar": 24,
+      "notes": "C4 D4 Eb4 E4"
+     },
+     {
+      "work": "kern/joplin:eugenia.krn",
+      "label": "Eugenia: Slow March Tempo [quarter]=72 (kern)",
+      "bar": 5,
+      "notes": "Bb4 C5 C#5 D5"
+     },
+     {
+      "work": "kern/joplin:paragon.krn",
+      "label": "The Paragon Rag: Slow March Time (kern)",
+      "bar": 7,
+      "notes": "G4 A4 Bb4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 21,
+    "per_1000": 2.2,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/joplin:figleaf.krn",
+      "label": "Fig Leaf Rag: Slow March Tempo [quarter]=100 (kern)",
+      "bar": 72,
+      "notes": "Bb5 A5 Bb5 C6"
+     },
+     {
+      "work": "kern/joplin:breeze.krn",
+      "label": "A Breeze from Alabama: Not fast. (kern)",
+      "bar": 21,
+      "notes": "C5 B4 C5 D5"
+     },
+     {
+      "work": "kern/joplin:eugenia.krn",
+      "label": "Eugenia: Slow March Tempo [quarter]=72 (kern)",
+      "bar": 73,
+      "notes": "Eb5 D5 Eb5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 94,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Scott Joplin",
+  "kind": "waltz",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 5,
+  "values": {
+   "steps": 0.39099570978302306,
+   "repeats": 0.15411103335215603,
+   "leaps": 0.2332654424227972,
+   "move": 3.8946873586393975,
+   "rising": 0.4993116451597043,
+   "leap answered": 0.19049457128484482,
+   "range": 21.079999999999995,
+   "register": 74.8,
+   "even": 0.49442535642204016,
+   "long-short": 0.04768492470644525,
+   "rhythm variety": 2.218303438182476,
+   "surprise, pitch": 2.3113128911892966,
+   "surprise, rhythm": 1.3062963642883985,
+   "density": 3.9902082469008335,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     4,
+     5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/joplin:augustan.krn",
+      "label": "Augustan Club Waltz: Moderato (kern)",
+      "bar": 76,
+      "notes": "G4 Bb4 D5 G5"
+     },
+     {
+      "work": "kern/joplin:harmony.krn",
+      "label": "Harmony Club Waltz: Andante (kern)",
+      "bar": 72,
+      "notes": "G4 Bb4 D5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 102,
+   "composers": 36
+  }
+ }
+]

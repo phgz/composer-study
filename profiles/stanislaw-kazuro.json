@@ -1,0 +1,290 @@
+[
+ {
+  "composer": "Stanisław Kazuro",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5412981588700714,
+   "repeats": 0.016212819438625892,
+   "leaps": 0.2450696960646946,
+   "move": 3.3738749707426394,
+   "rising": 0.4924453460648272,
+   "leap answered": 0.16257906843013226,
+   "range": 17.037499999999994,
+   "register": 73.25,
+   "even": 0.5807200498776586,
+   "long-short": 0.05146780303030303,
+   "rhythm variety": 2.104064284777012,
+   "surprise, pitch": 1.952174352863289,
+   "surprise, rhythm": 1.313562436402086,
+   "density": 5.830901147683653,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 91,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Stanisław Kazuro",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 25,
+  "values": {
+   "steps": 0.5470742422936206,
+   "repeats": 0.060460787065829295,
+   "leaps": 0.19299229523714484,
+   "move": 3.1648594364523994,
+   "rising": 0.49382202459063107,
+   "leap answered": 0.2623025414445513,
+   "range": 17.465999999999998,
+   "register": 71.28,
+   "even": 0.561836472360375,
+   "long-short": 0.07199477054926418,
+   "rhythm variety": 2.047307519756645,
+   "surprise, pitch": 2.1436709043114557,
+   "surprise, rhythm": 1.3612205745379675,
+   "density": 5.809560387926485,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.1436709043114557,
+    "others": 2.744919419926585,
+    "auc": 0.2066219540753702
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.4,
+    "works": 14,
+    "per_1000": 9.1,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-017_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-krakowiak.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Krakowiak, movement 17 (PL-Wtm A-43.196/99, kern)",
+      "bar": 6,
+      "notes": "C#6 B5 A5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-009_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-spij-haniu.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Śpij, Haniu, movement 9 (PL-Wtm A-43.196/99, kern)",
+      "bar": 2,
+      "notes": "A5 G5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-015_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-gwiazdka.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Gwiazdka, movement 15 (PL-Wtm A-43.196/99, kern)",
+      "bar": 9,
+      "notes": "B4 A4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.7,
+    "works": 10,
+    "per_1000": 7.5,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-017_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-krakowiak.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Krakowiak, movement 17 (PL-Wtm A-43.196/99, kern)",
+      "bar": 6,
+      "notes": "E6 Eb6 C#6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-002_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-prosie.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Prosię, movement 2: Tempo di mazurka. (PL-Wtm A-43.196/99, kern)",
+      "bar": 7,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-009_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-spij-haniu.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Śpij, Haniu, movement 9 (PL-Wtm A-43.196/99, kern)",
+      "bar": 1,
+      "notes": "C6 B5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.4,
+    "works": 9,
+    "per_1000": 6.5,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-017_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-krakowiak.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Krakowiak, movement 17 (PL-Wtm A-43.196/99, kern)",
+      "bar": 6,
+      "notes": "B5 A5 Ab5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-009_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-spij-haniu.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Śpij, Haniu, movement 9 (PL-Wtm A-43.196/99, kern)",
+      "bar": 2,
+      "notes": "G5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-002_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-prosie.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Prosię, movement 2: Tempo di mazurka. (PL-Wtm A-43.196/99, kern)",
+      "bar": 6,
+      "notes": "G5 F5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 5,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-018_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-zaby.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Żaby, movement 18 (PL-Wtm A-43.196/99, kern)",
+      "bar": 3,
+      "notes": "C5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-022_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-jesienia.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Jesienią, movement 22 (PL-Wtm A-43.196/99, kern)",
+      "bar": 8,
+      "notes": "C6 E6 D6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-020_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-jesien.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Jesień, movement 20 (PL-Wtm A-43.196/99, kern)",
+      "bar": 4,
+      "notes": "F4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 9,
+    "per_1000": 6.5,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-001_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-zuczek.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Żuczek, movement 1: Con moto. (PL-Wtm A-43.196/99, kern)",
+      "bar": 3,
+      "notes": "B3 C4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-004_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-marsz.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Marsz, movement 4: Tempo di marcia. (PL-Wtm A-43.196/99, kern)",
+      "bar": 12,
+      "notes": "E4 F4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-005_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-wedrowka-slonka.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Wędrówka słonka, movement 5: Andantino tranquillo. (PL-Wtm A-43.196/99, kern)",
+      "bar": 4,
+      "notes": "E4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-001_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-zuczek.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Żuczek, movement 1: Con moto. (PL-Wtm A-43.196/99, kern)",
+      "bar": 4,
+      "notes": "G4 A4 B4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-016_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-luks.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, Luks, movement 16 (PL-Wtm A-43.196/99, kern)",
+      "bar": 12,
+      "notes": "F#4 Ab4 Bb4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-196-99--001-024_kazuro-stanislaw--25-piesni-dzieciecych-z-fortepianem-op-49-a-kiedy-przyjdzie-wiosenka.krn",
+      "label": "25 Pieśni dziecięcych z fortepianem, op. 49, A kiedy przyjdzie wiosenka, movement 24 (PL-Wtm A-43.196/99, kern)",
+      "bar": 5,
+      "notes": "F4 G4 A4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 387,
+   "composers": 45
+  }
+ }
+]

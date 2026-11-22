@@ -1,0 +1,143 @@
+[
+ {
+  "composer": "Kaspar",
+  "kind": "mass",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 6,
+  "values": {
+   "steps": 0.5211244675094175,
+   "repeats": 0.29144666958844206,
+   "leaps": 0.0738708745145404,
+   "move": 2.3850806304918937,
+   "rising": 0.48998653102749,
+   "leap answered": 0.35928571428571426,
+   "range": 11.0,
+   "register": 71.33333333333333,
+   "even": 0.5395974358945796,
+   "long-short": 0.04996088862263117,
+   "rhythm variety": 2.2067201503113147,
+   "surprise, pitch": 2.584910198270896,
+   "surprise, rhythm": 1.8410858096774663,
+   "density": 2.324233805469577,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 5.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-002_kaspar--missa-gloria.krn",
+      "label": "Missa, Gloria, movement 2 (PL-Kk Kk.I.397, kern)",
+      "bar": 5,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-003_kaspar--missa-credo.krn",
+      "label": "Missa, Credo, movement 3 (PL-Kk Kk.I.397, kern)",
+      "bar": 1,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-001_kaspar--missa-kyrie.krn",
+      "label": "Missa, Kyrie, movement 1 (PL-Kk Kk.I.397, kern)",
+      "bar": 85,
+      "notes": "F5 F5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 4,
+    "per_1000": 5.6,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-005_kaspar--missa-benedictus.krn",
+      "label": "Missa, Benedictus, movement 5 (PL-Kk Kk.I.397, kern)",
+      "bar": 8,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-004_kaspar--missa-sanctus.krn",
+      "label": "Missa, Sanctus, movement 4 (PL-Kk Kk.I.397, kern)",
+      "bar": 6,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-003_kaspar--missa-credo.krn",
+      "label": "Missa, Credo, movement 3 (PL-Kk Kk.I.397, kern)",
+      "bar": 41,
+      "notes": "G4 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 4.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-006_kaspar--missa-agnus-dei.krn",
+      "label": "Missa, Agnus Dei, movement 6 (PL-Kk Kk.I.397, kern)",
+      "bar": 12,
+      "notes": "A4 A4 Ab4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-004_kaspar--missa-sanctus.krn",
+      "label": "Missa, Sanctus, movement 4 (PL-Kk Kk.I.397, kern)",
+      "bar": 18,
+      "notes": "F5 F5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-397--001-003_kaspar--missa-credo.krn",
+      "label": "Missa, Credo, movement 3 (PL-Kk Kk.I.397, kern)",
+      "bar": 26,
+      "notes": "F4 F4 E4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 116,
+   "composers": 9
+  }
+ }
+]

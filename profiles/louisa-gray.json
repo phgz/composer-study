@@ -1,0 +1,240 @@
+[
+ {
+  "composer": "Louisa Gray",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.5514967440462131,
+   "repeats": 0.2231414036550259,
+   "leaps": 0.14741168498574678,
+   "move": 2.727445917735254,
+   "rising": 0.4577860122954994,
+   "leap answered": 0.5299462748752809,
+   "range": 12.714285714285714,
+   "register": 68.85714285714286,
+   "even": 0.4291532642842439,
+   "long-short": 0.1328002148627736,
+   "rhythm variety": 2.4670514576129796,
+   "surprise, pitch": 2.2194290344352967,
+   "surprise, rhythm": 1.5328597535054254,
+   "density": 4.573993088081329,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.5299462748752809,
+    "others": 0.33021183071718374,
+    "auc": 0.7869390079672082
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     5,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.0,
+    "works": 3,
+    "per_1000": 3.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Then_and_now/lc6620454.mxl",
+      "label": "Then and now (OpenScore)",
+      "bar": 23,
+      "notes": "F#4 B4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Under_the_Cliffs/lc6620590.mxl",
+      "label": "Under the Cliffs (OpenScore)",
+      "bar": 19,
+      "notes": "A4 D5 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/After_so_long/lc6617407.mxl",
+      "label": "After so long (OpenScore)",
+      "bar": 21,
+      "notes": "Ab4 C#5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 7.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Sleep_on,_and_dream_of_me/lc6620571.mxl",
+      "label": "Sleep on, and dream of me (OpenScore)",
+      "bar": 24,
+      "notes": "F#5 E5 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Then_and_now/lc6620454.mxl",
+      "label": "Then and now (OpenScore)",
+      "bar": 11,
+      "notes": "B4 A4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Under_the_Cliffs/lc6620590.mxl",
+      "label": "Under the Cliffs (OpenScore)",
+      "bar": 20,
+      "notes": "D5 C5 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 3.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Then_and_now/lc6620454.mxl",
+      "label": "Then and now (OpenScore)",
+      "bar": 12,
+      "notes": "G4 A4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Unforgotten/lc6620711.mxl",
+      "label": "Unforgotten (OpenScore)",
+      "bar": 16,
+      "notes": "Eb4 F4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 3.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Then_and_now/lc6620454.mxl",
+      "label": "Then and now (OpenScore)",
+      "bar": 22,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Under_the_Cliffs/lc6620590.mxl",
+      "label": "Under the Cliffs (OpenScore)",
+      "bar": 25,
+      "notes": "F5 Eb5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.2,
+    "works": 4,
+    "per_1000": 3.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Under_the_Cliffs/lc6620590.mxl",
+      "label": "Under the Cliffs (OpenScore)",
+      "bar": 20,
+      "notes": "C5 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/After_so_long/lc6617407.mxl",
+      "label": "After so long (OpenScore)",
+      "bar": 44,
+      "notes": "F#4 E4 E4 E4"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/Sleep_on,_and_dream_of_me/lc6620571.mxl",
+      "label": "Sleep on, and dream of me (OpenScore)",
+      "bar": 28,
+      "notes": "Ab4 F#4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 2,
+    "per_1000": 3.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/He_doesn’t_love_me/lc6617779.mxl",
+      "label": "He doesn’t love me (OpenScore)",
+      "bar": 45,
+      "notes": "F4 Eb4 Eb4 C#4"
+     },
+     {
+      "work": "openscore-lieder:Gray,_Louisa/_/After_so_long/lc6617407.mxl",
+      "label": "After so long (OpenScore)",
+      "bar": 19,
+      "notes": "Eb5 C#5 C#5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1081,
+   "composers": 97
+  }
+ }
+]

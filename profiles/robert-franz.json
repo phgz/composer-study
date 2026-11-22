@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Robert Franz",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 49,
+  "values": {
+   "steps": 0.5308045127462413,
+   "repeats": 0.17557598188843815,
+   "leaps": 0.1702601521980679,
+   "move": 2.8649444736220424,
+   "rising": 0.47895876452557756,
+   "leap answered": 0.4168306801762865,
+   "range": 11.28061224489796,
+   "register": 70.73469387755102,
+   "even": 0.379216760113967,
+   "long-short": 0.13234456008459186,
+   "rhythm variety": 2.508273295895086,
+   "surprise, pitch": 2.240836807249941,
+   "surprise, rhythm": 1.5547281415759782,
+   "density": 7.06488062666134,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.7,
+    "works": 5,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.10/4_Der_vielschönen_Fraue/lc6826157.mxl",
+      "label": "Gesänge, Op.10, Der vielschönen Fraue (OpenScore)",
+      "bar": 5,
+      "notes": "F4 G4 Ab4 G4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/12_Gesänge,_Op.1/03_Die_Lotosblume/lc5660581.mxl",
+      "label": "Gesänge, Op.1, Die Lotosblume (OpenScore)",
+      "bar": 9,
+      "notes": "Ab4 Bb4 B4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/12_Gesänge,_Op.1/01_Ihr_Auge/lc5660573.mxl",
+      "label": "Gesänge, Op.1, Ihr Auge (OpenScore)",
+      "bar": 2,
+      "notes": "B4 C#5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.5,
+    "works": 12,
+    "per_1000": 3.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Franz,_Robert/12_Gesänge,_Op.1/02_Nachtlied/lc5660578.mxl",
+      "label": "Gesänge, Op.1, Nachtlied (OpenScore)",
+      "bar": 8,
+      "notes": "Eb5 C#5 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.26/3_Vergiss_mein_nicht!/lc6804766.mxl",
+      "label": "Gesänge, Op.26, Vergiss mein nicht! (OpenScore)",
+      "bar": 2,
+      "notes": "E5 D5 C#5 B4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Lieder,_Op.25/1_Die_Lotosblume/lc6810938.mxl",
+      "label": "Lieder, Op.25, Die Lotosblume (OpenScore)",
+      "bar": 2,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.4,
+    "works": 7,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Franz,_Robert/12_Gesänge,_Op.1/01_Ihr_Auge/lc5660573.mxl",
+      "label": "Gesänge, Op.1, Ihr Auge (OpenScore)",
+      "bar": 3,
+      "notes": "C#5 E5 D5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.16/4_Abends/lc6801340.mxl",
+      "label": "Gesänge, Op.16, Abends (OpenScore)",
+      "bar": 2,
+      "notes": "F#4 A4 G4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/12_Gesänge,_Op.1/08_Für_Einen/lc5800427.mxl",
+      "label": "Gesänge, Op.1, Für Einen (OpenScore)",
+      "bar": 2,
+      "notes": "B4 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.16/1_Du_liebes_Auge/lc4928153.mxl",
+      "label": "Gesänge, Op.16, Du liebes Auge (OpenScore)",
+      "bar": 2,
+      "notes": "Ab4 C#5 C#5 B4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.26/3_Vergiss_mein_nicht!/lc6804766.mxl",
+      "label": "Gesänge, Op.26, Vergiss mein nicht! (OpenScore)",
+      "bar": 10,
+      "notes": "F#4 B4 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.14/2_Lenz/lc5117956.mxl",
+      "label": "Gesänge, Op.14, Lenz (OpenScore)",
+      "bar": 6,
+      "notes": "G4 C5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     3
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Franz,_Robert/12_Gesänge,_Op.1/01_Ihr_Auge/lc5660573.mxl",
+      "label": "Gesänge, Op.1, Ihr Auge (OpenScore)",
+      "bar": 9,
+      "notes": "F#4 F#4 F#4 A4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.26/4_Des_Müden_Abendlied/lc6805149.mxl",
+      "label": "Gesänge, Op.26, Des Müden Abendlied (OpenScore)",
+      "bar": 13,
+      "notes": "C5 C5 C5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.10/2_Stille_Sicherheit/lc6808938.mxl",
+      "label": "Gesänge, Op.10, Stille Sicherheit (OpenScore)",
+      "bar": 26,
+      "notes": "F4 F4 F4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Franz,_Robert/6_Gesänge,_Op.10/1_Für_Musik/lc6806626.mxl",
+      "label": "Gesänge, Op.10, Für Musik (OpenScore)",
+      "bar": 2,
+      "notes": "Bb4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/12_Gesänge,_Op.1/01_Ihr_Auge/lc5660573.mxl",
+      "label": "Gesänge, Op.1, Ihr Auge (OpenScore)",
+      "bar": 9,
+      "notes": "Ab4 F#4 F#4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Franz,_Robert/12_Gesänge,_Op.1/03_Die_Lotosblume/lc5660581.mxl",
+      "label": "Gesänge, Op.1, Die Lotosblume (OpenScore)",
+      "bar": 13,
+      "notes": "Bb4 Ab4 Ab4 Ab4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1039,
+   "composers": 97
+  }
+ }
+]

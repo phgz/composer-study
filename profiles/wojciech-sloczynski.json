@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Wojciech Słoczyński",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 11,
+  "values": {
+   "steps": 0.42353782228578346,
+   "repeats": 0.2724891964794167,
+   "leaps": 0.1560022671177841,
+   "move": 3.0992259432615867,
+   "rising": 0.47930189479081836,
+   "leap answered": 0.23831881284859344,
+   "range": 14.190909090909086,
+   "register": 72.5909090909091,
+   "even": 0.5527263254985393,
+   "long-short": 0.06254696895812066,
+   "rhythm variety": 2.1747174415167794,
+   "surprise, pitch": 2.836472542228226,
+   "surprise, rhythm": 1.763438786008775,
+   "density": 11.546589147294421,
+   "lines": 12.090909090909092
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.06254696895812066,
+    "others": 0.11254013496432422,
+    "auc": 0.24967429868210658
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     5,
+     4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 4,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-003_sloczynski-wojciech--msza-polska-graduale.krn",
+      "label": "Msza Polska, Graduale, movement 3 (PL-CZ III-845, kern)",
+      "bar": 2,
+      "notes": "B3 D4 G4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-004_sloczynski-wojciech--msza-polska-credo.krn",
+      "label": "Msza Polska, Credo, movement 4 (PL-CZ III-845, kern)",
+      "bar": 22,
+      "notes": "F#4 A4 D5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-011_sloczynski-wojciech--msza-polska-dona.krn",
+      "label": "Msza Polska, Dona, movement 11 (PL-CZ III-845, kern)",
+      "bar": 1,
+      "notes": "F#4 A4 D5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-002_sloczynski-wojciech--msza-polska-gloria.krn",
+      "label": "Msza Polska, Gloria, movement 2 (PL-CZ III-845, kern)",
+      "bar": 36,
+      "notes": "G4 F#4 G4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-007_sloczynski-wojciech--msza-polska-offertorium.krn",
+      "label": "Msza Polska, Offertorium, movement 7 (PL-CZ III-845, kern)",
+      "bar": 13,
+      "notes": "E5 Eb5 E5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-011_sloczynski-wojciech--msza-polska-dona.krn",
+      "label": "Msza Polska, Dona, movement 11 (PL-CZ III-845, kern)",
+      "bar": 2,
+      "notes": "D5 C#5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-002_sloczynski-wojciech--msza-polska-gloria.krn",
+      "label": "Msza Polska, Gloria, movement 2 (PL-CZ III-845, kern)",
+      "bar": 27,
+      "notes": "C#5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-006_sloczynski-wojciech--msza-polska-et-resurrexit.krn",
+      "label": "Msza Polska, Et resurrexit, movement 6 (PL-CZ III-845, kern)",
+      "bar": 6,
+      "notes": "Eb5 Eb5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-009_sloczynski-wojciech--msza-polska-benedictus.krn",
+      "label": "Msza Polska, Benedictus, movement 9 (PL-CZ III-845, kern)",
+      "bar": 27,
+      "notes": "F#4 F#4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-002_sloczynski-wojciech--msza-polska-gloria.krn",
+      "label": "Msza Polska, Gloria, movement 2 (PL-CZ III-845, kern)",
+      "bar": 109,
+      "notes": "E5 E5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-010_sloczynski-wojciech--msza-polska-agnus-dei.krn",
+      "label": "Msza Polska, Agnus Dei, movement 10 (PL-CZ III-845, kern)",
+      "bar": 66,
+      "notes": "D5 D5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-001_sloczynski-wojciech--msza-polska-kyrie.krn",
+      "label": "Msza Polska, Kyrie, movement 1 (PL-CZ III-845, kern)",
+      "bar": 23,
+      "notes": "C#5 C#5 C#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 6,
+    "per_1000": 5.8,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-002_sloczynski-wojciech--msza-polska-gloria.krn",
+      "label": "Msza Polska, Gloria, movement 2 (PL-CZ III-845, kern)",
+      "bar": 36,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-010_sloczynski-wojciech--msza-polska-agnus-dei.krn",
+      "label": "Msza Polska, Agnus Dei, movement 10 (PL-CZ III-845, kern)",
+      "bar": 57,
+      "notes": "C5 Bb4 A4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-008_sloczynski-wojciech--msza-polska-sanctus.krn",
+      "label": "Msza Polska, Sanctus, movement 8 (PL-CZ III-845, kern)",
+      "bar": 29,
+      "notes": "F#4 E4 Eb4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-002_sloczynski-wojciech--msza-polska-gloria.krn",
+      "label": "Msza Polska, Gloria, movement 2 (PL-CZ III-845, kern)",
+      "bar": 41,
+      "notes": "D5 D5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-007_sloczynski-wojciech--msza-polska-offertorium.krn",
+      "label": "Msza Polska, Offertorium, movement 7 (PL-CZ III-845, kern)",
+      "bar": 3,
+      "notes": "A4 A4 A4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-845--001-001_sloczynski-wojciech--msza-polska-kyrie.krn",
+      "label": "Msza Polska, Kyrie, movement 1 (PL-CZ III-845, kern)",
+      "bar": 44,
+      "notes": "D5 D5 D5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 542,
+   "composers": 37
+  }
+ }
+]

@@ -1,0 +1,270 @@
+[
+ {
+  "composer": "Erik Satie",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 17,
+  "values": {
+   "steps": 0.4953098971464239,
+   "repeats": 0.14228942034213768,
+   "leaps": 0.16044587398447568,
+   "move": 3.2321208936610013,
+   "rising": 0.48769951524839533,
+   "leap answered": 0.2765139707317435,
+   "range": 12.702941176470588,
+   "register": 69.38235294117646,
+   "even": 0.6275520406557745,
+   "long-short": 0.08974078866562897,
+   "rhythm variety": 1.7675502743213705,
+   "surprise, pitch": 2.660853918676469,
+   "surprise, rhythm": 1.3137539335976367,
+   "density": 5.449909293329123,
+   "lines": 2.9411764705882355
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.6275520406557745,
+    "others": 0.38875010063680876,
+    "auc": 0.8540929501571621
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.7675502743213705,
+    "others": 2.6591506204372024,
+    "auc": 0.13504265828468792
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3137539335976367,
+    "others": 1.9512066980684422,
+    "auc": 0.12925460260440055
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 6,
+    "per_1000": 4.1,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/2_Bords_de_l’Ilissus/lc6481941.mxl",
+      "label": "Socrate, Bords de l’Ilissus (OpenScore)",
+      "bar": 52,
+      "notes": "G4 A4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/3_Mort_de_Socrate/lc6482032.mxl",
+      "label": "Socrate, Mort de Socrate (OpenScore)",
+      "bar": 9,
+      "notes": "A4 B4 A4 B4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/Ludions/4_Air_du_poète/lc6994174.mxl",
+      "label": "Ludions, Air du poète (OpenScore)",
+      "bar": 3,
+      "notes": "Eb5 F5 Eb5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 6,
+    "per_1000": 4.1,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/2_Bords_de_l’Ilissus/lc6481941.mxl",
+      "label": "Socrate, Bords de l’Ilissus (OpenScore)",
+      "bar": 9,
+      "notes": "B4 A4 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/Ludions/4_Air_du_poète/lc6994174.mxl",
+      "label": "Ludions, Air du poète (OpenScore)",
+      "bar": 4,
+      "notes": "F5 Eb5 F5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/3_Mort_de_Socrate/lc6482032.mxl",
+      "label": "Socrate, Mort de Socrate (OpenScore)",
+      "bar": 9,
+      "notes": "B4 A4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/1_Portrait_de_Socrate/lc6481218.mxl",
+      "label": "Socrate, Portrait de Socrate (OpenScore)",
+      "bar": 18,
+      "notes": "E4 D4 E4 E4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/3_Mort_de_Socrate/lc6482032.mxl",
+      "label": "Socrate, Mort de Socrate (OpenScore)",
+      "bar": 12,
+      "notes": "B4 A4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/4_Petites_mélodies/2_Danseuse/lc6990723.mxl",
+      "label": "Petites mélodies, Danseuse (OpenScore)",
+      "bar": 9,
+      "notes": "F#4 E4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 2.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/3_Mort_de_Socrate/lc6482032.mxl",
+      "label": "Socrate, Mort de Socrate (OpenScore)",
+      "bar": 6,
+      "notes": "A4 A4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/2_Bords_de_l’Ilissus/lc6481941.mxl",
+      "label": "Socrate, Bords de l’Ilissus (OpenScore)",
+      "bar": 161,
+      "notes": "F#4 F#4 E4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/_/Chez_le_docteur/lc6986065.mxl",
+      "label": "Chez le docteur (OpenScore)",
+      "bar": 14,
+      "notes": "G4 G4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.0,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/3_Mort_de_Socrate/lc6482032.mxl",
+      "label": "Socrate, Mort de Socrate (OpenScore)",
+      "bar": 5,
+      "notes": "C5 B4 A4 A4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/_/La_diva_de_“L’Empire”/lc6987705.mxl",
+      "label": "La diva de “L’Empire” (OpenScore)",
+      "bar": 13,
+      "notes": "C5 B4 A4 A4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/2_Bords_de_l’Ilissus/lc6481941.mxl",
+      "label": "Socrate, Bords de l’Ilissus (OpenScore)",
+      "bar": 163,
+      "notes": "C5 B4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/3_Mort_de_Socrate/lc6482032.mxl",
+      "label": "Socrate, Mort de Socrate (OpenScore)",
+      "bar": 5,
+      "notes": "B4 A4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/Socrate/2_Bords_de_l’Ilissus/lc6481941.mxl",
+      "label": "Socrate, Bords de l’Ilissus (OpenScore)",
+      "bar": 163,
+      "notes": "B4 A4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Satie,_Erik/4_Petites_mélodies/1_Elégie/lc6988229.mxl",
+      "label": "Petites mélodies, Elégie (OpenScore)",
+      "bar": 1,
+      "notes": "D5 C5 C5 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 292,
+   "composers": 37
+  }
+ }
+]

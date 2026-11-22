@@ -1,0 +1,327 @@
+[
+ {
+  "composer": "Franciszek Lilius",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 15,
+  "values": {
+   "steps": 0.5354074037458576,
+   "repeats": 0.2635216258190464,
+   "leaps": 0.07618140850847446,
+   "move": 2.3292235266721892,
+   "rising": 0.4975739322825928,
+   "leap answered": 0.35141829817691883,
+   "range": 9.343333333333332,
+   "register": 66.9,
+   "even": 0.36078846107116297,
+   "long-short": 0.14049600532658787,
+   "rhythm variety": 2.714022962298716,
+   "surprise, pitch": 2.7539155158155215,
+   "surprise, rhythm": 2.1663359572889975,
+   "density": 1.80614176741451,
+   "lines": 6.133333333333334
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 2.3292235266721892,
+    "others": 2.802995875618665,
+    "auc": 0.23657700866500062
+   },
+   {
+    "measure": "even",
+    "value": 0.36078846107116297,
+    "others": 0.5258051046719877,
+    "auc": 0.19859204400748373
+   },
+   {
+    "measure": "long-short",
+    "value": 0.14049600532658787,
+    "others": 0.0876562078504826,
+    "auc": 0.7641101858661717
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.5,
+    "works": 5,
+    "per_1000": 2.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--021-003_lilius-franciszek--missa-a-4-voci-credo.krn",
+      "label": "Missa a 4 voci, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 58,
+      "notes": "G4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-94--001-003_lilius-franciszek--missa-brevissima-patrem.krn",
+      "label": "Missa Brevissima, Patrem, movement 3 (PL-Kk Kk.I.94, kern)",
+      "bar": 101,
+      "notes": "D5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--021-002_lilius-franciszek--missa-a-4-voci-gloria.krn",
+      "label": "Missa a 4 voci, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 23,
+      "notes": "G4 G4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 4.4,
+    "works": 5,
+    "per_1000": 2.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--021-003_lilius-franciszek--missa-a-4-voci-credo.krn",
+      "label": "Missa a 4 voci, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 140,
+      "notes": "G4 F4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-003_lilius-franciszek--missa-pro-tempore-pashali-credo.krn",
+      "label": "Missa pro tempore Pashali, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 7,
+      "notes": "E4 D4 D4 C#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-002_lilius-franciszek--missa-pro-tempore-pashali-gloria.krn",
+      "label": "Missa pro tempore Pashali, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 139,
+      "notes": "G4 F4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 2.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-94--001-003_lilius-franciszek--missa-brevissima-patrem.krn",
+      "label": "Missa Brevissima, Patrem, movement 3 (PL-Kk Kk.I.94, kern)",
+      "bar": 82,
+      "notes": "C#5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-004_lilius-franciszek--missa-pro-tempore-pashali-sanctus.krn",
+      "label": "Missa pro tempore Pashali, Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 43,
+      "notes": "C#4 C#4 D4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--021-003_lilius-franciszek--missa-a-4-voci-credo.krn",
+      "label": "Missa a 4 voci, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 162,
+      "notes": "E4 E4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 4,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-003_lilius-franciszek--missa-pro-tempore-pashali-credo.krn",
+      "label": "Missa pro tempore Pashali, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 33,
+      "notes": "E4 D4 C4 A3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-004_lilius-franciszek--missa-pro-tempore-pashali-sanctus.krn",
+      "label": "Missa pro tempore Pashali, Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 84,
+      "notes": "E4 D4 C4 A3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-94--001-002_lilius-franciszek--missa-brevissima-et-in-terra.krn",
+      "label": "Missa Brevissima, Et in terra, movement 2 (PL-Kk Kk.I.94, kern)",
+      "bar": 77,
+      "notes": "D5 C5 Bb4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.8,
+    "works": 6,
+    "per_1000": 3.9,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-002_lilius-franciszek--missa-pro-tempore-pashali-gloria.krn",
+      "label": "Missa pro tempore Pashali, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 64,
+      "notes": "G4 F#4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-003_lilius-franciszek--missa-pro-tempore-pashali-credo.krn",
+      "label": "Missa pro tempore Pashali, Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 3,
+      "notes": "D4 C#4 D4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--021-002_lilius-franciszek--missa-a-4-voci-gloria.krn",
+      "label": "Missa a 4 voci, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 20,
+      "notes": "F4 E4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.7,
+    "works": 5,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--021-004_lilius-franciszek--missa-a-4-voci-sanctus.krn",
+      "label": "Missa a 4 voci, Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 7,
+      "notes": "E4 F4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-005_lilius-franciszek--missa-pro-tempore-pashali-agnus-dei.krn",
+      "label": "Missa pro tempore Pashali, Agnus Dei, movement 5 (PL-Kk Kk.I.2, kern)",
+      "bar": 4,
+      "notes": "E4 F4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--042-002_lilius-franciszek--missa-pro-tempore-pashali-gloria.krn",
+      "label": "Missa pro tempore Pashali, Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 148,
+      "notes": "E4 F4 G4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 170,
+   "composers": 20
+  }
+ },
+ {
+  "composer": "Franciszek Lilius",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Baroque",
+  "works": 17,
+  "values": {
+   "steps": 0.6152769615722368,
+   "repeats": 0.1849263661925467,
+   "leaps": 0.10021010001471589,
+   "move": 2.379259364361553,
+   "rising": 0.4668675117589302,
+   "leap answered": 0.4529137190521417,
+   "range": 10.458823529411761,
+   "register": 59.1764705882353,
+   "even": 0.29344075932661484,
+   "long-short": 0.17340559361416766,
+   "rhythm variety": 2.891569721588418,
+   "surprise, pitch": 2.7731024320058757,
+   "surprise, rhythm": 2.2485589868355316,
+   "density": 0.9464713825536549,
+   "lines": 3.0588235294117645
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 59.1764705882353,
+    "others": 68.65,
+    "auc": 0.014705882352941176
+   },
+   {
+    "measure": "even",
+    "value": 0.29344075932661484,
+    "others": 0.4065499717751406,
+    "auc": 0.10147058823529412
+   },
+   {
+    "measure": "long-short",
+    "value": 0.17340559361416766,
+    "others": 0.1100424740388539,
+    "auc": 0.85
+   },
+   {
+    "measure": "density",
+    "value": 0.9464713825536549,
+    "others": 1.510155084301049,
+    "auc": 0.12941176470588237
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 20,
+   "composers": 3
+  }
+ }
+]

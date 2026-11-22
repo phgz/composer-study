@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Leonardo Vinci",
+  "kind": "air",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.22507052595803112,
+   "repeats": 0.31969006240809383,
+   "leaps": 0.32981921696427113,
+   "move": 5.476480607020398,
+   "rising": 0.4536138909346465,
+   "leap answered": 0.05862829736211031,
+   "range": 16.666666666666668,
+   "register": 71.66666666666667,
+   "even": 0.8611062760822944,
+   "long-short": 0.0066053331051590435,
+   "rhythm variety": 0.8970578836169943,
+   "surprise, pitch": 2.3857856724758855,
+   "surprise, rhythm": 0.7161856390979603,
+   "density": 7.751982979426589,
+   "lines": 4.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 28,
+   "composers": 5
+  }
+ }
+]

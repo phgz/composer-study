@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Mikołaj Janicki",
+  "kind": "rondo",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.4590834861039039,
+   "repeats": 0.11693524306635537,
+   "leaps": 0.2215102136406451,
+   "move": 4.270220989306818,
+   "rising": 0.4612705689544438,
+   "leap answered": 0.06448720792664892,
+   "range": 23.84999999999999,
+   "register": 76.75,
+   "even": 0.6668507554116003,
+   "long-short": 0.09647727531559162,
+   "rhythm variety": 1.9147879115519009,
+   "surprise, pitch": 2.3055546546539674,
+   "surprise, rhythm": 1.3140452882071767,
+   "density": 5.121667369178014,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 68,
+   "composers": 16
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "J. Löbmann",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.585341503072362,
+   "repeats": 0.21502695242962883,
+   "leaps": 0.10462049592915276,
+   "move": 2.4801665025349235,
+   "rising": 0.49091804354962254,
+   "leap answered": 0.47896825396825393,
+   "range": 8.524999999999999,
+   "register": 73.5,
+   "even": 0.580533085741419,
+   "long-short": 0.06575388346221679,
+   "rhythm variety": 2.001772290278297,
+   "surprise, pitch": 2.9926255229300898,
+   "surprise, rhythm": 1.8398759226435768,
+   "density": 1.1841521385301763,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 549,
+   "composers": 37
+  }
+ }
+]

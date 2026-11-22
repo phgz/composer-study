@@ -1,0 +1,393 @@
+[
+ {
+  "composer": "Edward Elgar",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 10,
+  "values": {
+   "steps": 0.475046808179064,
+   "repeats": 0.25790076285209984,
+   "leaps": 0.12371494135434735,
+   "move": 2.7626249298616137,
+   "rising": 0.4726288000234148,
+   "leap answered": 0.2713239611265927,
+   "range": 11.8,
+   "register": 68.3,
+   "even": 0.35017540216167964,
+   "long-short": 0.1701355061979059,
+   "rhythm variety": 2.7166735952564927,
+   "surprise, pitch": 2.5527444041373366,
+   "surprise, rhythm": 1.7813785090248806,
+   "density": 7.211545331185424,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 3.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Elgar,_Edward/7_Lieder/1_Like_to_the_Damask_Rose/lc6236149.mxl",
+      "label": "Lieder, Like to the Damask Rose (OpenScore)",
+      "bar": 9,
+      "notes": "C5 C5 Bb4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Elgar,_Edward/7_Lieder/2_Queen_Mary’s_Song/lc6236150.mxl",
+      "label": "Lieder, Queen Mary’s Song (OpenScore)",
+      "bar": 8,
+      "notes": "A4 A4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Elgar,_Edward/7_Lieder/4_The_Poet’s_Life/lc6236152.mxl",
+      "label": "Lieder, The Poet’s Life (OpenScore)",
+      "bar": 50,
+      "notes": "F4 F4 Eb4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Elgar,_Edward/_/Is_She_Not_Passing_Fair/lc6546527.mxl",
+      "label": "Is She Not Passing Fair (OpenScore)",
+      "bar": 6,
+      "notes": "E5 D5 C5 A4"
+     },
+     {
+      "work": "openscore-lieder:Elgar,_Edward/7_Lieder/6_Rondel/lc6236154.mxl",
+      "label": "Lieder, Rondel (OpenScore)",
+      "bar": 19,
+      "notes": "C5 Bb4 Ab4 F4"
+     },
+     {
+      "work": "openscore-lieder:Elgar,_Edward/7_Lieder/4_The_Poet’s_Life/lc6236152.mxl",
+      "label": "Lieder, The Poet’s Life (OpenScore)",
+      "bar": 15,
+      "notes": "D5 C5 Bb4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Elgar,_Edward/_/Is_She_Not_Passing_Fair/lc6546527.mxl",
+      "label": "Is She Not Passing Fair (OpenScore)",
+      "bar": 12,
+      "notes": "C5 C5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Elgar,_Edward/7_Lieder/1_Like_to_the_Damask_Rose/lc6236149.mxl",
+      "label": "Lieder, Like to the Damask Rose (OpenScore)",
+      "bar": 40,
+      "notes": "F#4 F#4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Elgar,_Edward/7_Lieder/6_Rondel/lc6236154.mxl",
+      "label": "Lieder, Rondel (OpenScore)",
+      "bar": 20,
+      "notes": "G4 G4 Ab4 Ab4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1078,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Edward Elgar",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.3373152720485157,
+   "repeats": 0.127468670233097,
+   "leaps": 0.30315762543228186,
+   "move": 4.286671042241033,
+   "rising": 0.5320160278617047,
+   "leap answered": 0.2290334385942318,
+   "range": 27.07,
+   "register": 73.1,
+   "even": 0.4659725420996089,
+   "long-short": 0.1453472052818588,
+   "rhythm variety": 2.4829455722343075,
+   "surprise, pitch": 3.1121125110237076,
+   "surprise, rhythm": 1.602975387628884,
+   "density": 5.924741123657327,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3373152720485157,
+    "others": 0.5004001201659998,
+    "auc": 0.0873728295264353
+   },
+   {
+    "measure": "leaps",
+    "value": 0.30315762543228186,
+    "others": 0.19168704531282071,
+    "auc": 0.8938750305912053
+   },
+   {
+    "measure": "move",
+    "value": 4.286671042241033,
+    "others": 3.386712623063234,
+    "auc": 0.8834223934383332
+   },
+   {
+    "measure": "rising",
+    "value": 0.5320160278617047,
+    "others": 0.47801264208269945,
+    "auc": 0.7958575854137259
+   },
+   {
+    "measure": "range",
+    "value": 27.07,
+    "others": 23.023324773329115,
+    "auc": 0.8130232534756262
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.1121125110237076,
+    "others": 2.736742557024917,
+    "auc": 0.8077802233970214
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.8,
+    "works": 2,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#2",
+      "label": "String Quartet, Op.83, movement 2: Piacevole (poco andante) (OpenScore)",
+      "bar": 62,
+      "notes": "B5 D6 B5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#3",
+      "label": "String Quartet, Op.83, movement 3 (OpenScore)",
+      "bar": 184,
+      "notes": "E5 G5 E5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     7,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 2,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#3",
+      "label": "String Quartet, Op.83, movement 3 (OpenScore)",
+      "bar": 168,
+      "notes": "E5 A4 E5 A5"
+     },
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#2",
+      "label": "String Quartet, Op.83, movement 2: Piacevole (poco andante) (OpenScore)",
+      "bar": 82,
+      "notes": "Eb5 Ab4 Eb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -7,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 2,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#2",
+      "label": "String Quartet, Op.83, movement 2: Piacevole (poco andante) (OpenScore)",
+      "bar": 82,
+      "notes": "Ab5 Eb5 Ab4 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#3",
+      "label": "String Quartet, Op.83, movement 3 (OpenScore)",
+      "bar": 204,
+      "notes": "C#6 Ab5 C#5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.7,
+    "works": 2,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#2",
+      "label": "String Quartet, Op.83, movement 2: Piacevole (poco andante) (OpenScore)",
+      "bar": 79,
+      "notes": "F5 Ab5 A5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#3",
+      "label": "String Quartet, Op.83, movement 3 (OpenScore)",
+      "bar": 201,
+      "notes": "Bb4 C#5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     4
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.7,
+    "works": 2,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#2",
+      "label": "String Quartet, Op.83, movement 2: Piacevole (poco andante) (OpenScore)",
+      "bar": 81,
+      "notes": "A5 F#5 D5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#3",
+      "label": "String Quartet, Op.83, movement 3 (OpenScore)",
+      "bar": 203,
+      "notes": "D6 B5 G5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#2",
+      "label": "String Quartet, Op.83, movement 2: Piacevole (poco andante) (OpenScore)",
+      "bar": 63,
+      "notes": "D6 B5 Ab5 B5"
+     },
+     {
+      "work": "openscore-quartets:Elgar,_Edward/String_Quartet,_Op.83/sq7362818.mxl#3",
+      "label": "String Quartet, Op.83, movement 3 (OpenScore)",
+      "bar": 185,
+      "notes": "G5 E5 C#5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 254,
+   "composers": 32
+  }
+ }
+]

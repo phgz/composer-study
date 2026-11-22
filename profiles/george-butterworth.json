@@ -1,0 +1,234 @@
+[
+ {
+  "composer": "George Butterworth",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 12,
+  "values": {
+   "steps": 0.5152946962797534,
+   "repeats": 0.15606827700361206,
+   "leaps": 0.14925652886286014,
+   "move": 3.06906234265122,
+   "rising": 0.4657743367123302,
+   "leap answered": 0.2978389434639435,
+   "range": 12.174999999999999,
+   "register": 68.66666666666667,
+   "even": 0.46286490410888587,
+   "long-short": 0.17231957991689809,
+   "rhythm variety": 2.4639485819079776,
+   "surprise, pitch": 2.271986882590049,
+   "surprise, rhythm": 1.7101779552554992,
+   "density": 3.32673929324668,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "density",
+    "value": 3.32673929324668,
+    "others": 5.777418768856245,
+    "auc": 0.11425093632958801
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     -4
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/6_Is_my_team_ploughing/lc6214848.mxl",
+      "label": "Songs from A Shropshire Lad, Is my team ploughing (OpenScore)",
+      "bar": 8,
+      "notes": "G4 G4 A4 F4"
+     },
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/4_Think_no_more,_lad/lc6214846.mxl",
+      "label": "Songs from A Shropshire Lad, Think no more, lad (OpenScore)",
+      "bar": 27,
+      "notes": "C5 C5 D5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/5_The_lads_in_their_hundreds/lc6214847.mxl",
+      "label": "Songs from A Shropshire Lad, The lads in their hundreds (OpenScore)",
+      "bar": 2,
+      "notes": "Bb4 B4 Ab4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/4_Think_no_more,_lad/lc6214846.mxl",
+      "label": "Songs from A Shropshire Lad, Think no more, lad (OpenScore)",
+      "bar": 11,
+      "notes": "Eb5 E5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 4.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Butterworth,_George/_/Love_blows_as_the_wind_blows/lc6469541.mxl",
+      "label": "Love blows as the wind blows (OpenScore)",
+      "bar": 3,
+      "notes": "G4 Eb4 D4 C4"
+     },
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/5_The_lads_in_their_hundreds/lc6214847.mxl",
+      "label": "Songs from A Shropshire Lad, The lads in their hundreds (OpenScore)",
+      "bar": 6,
+      "notes": "Eb5 B4 Bb4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/3_Look_not_in_my_eyes/lc6214845.mxl",
+      "label": "Songs from A Shropshire Lad, Look not in my eyes (OpenScore)",
+      "bar": 29,
+      "notes": "D5 Bb4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Butterworth,_George/_/Love_blows_as_the_wind_blows/lc6469541.mxl",
+      "label": "Love blows as the wind blows (OpenScore)",
+      "bar": 3,
+      "notes": "Ab4 Bb4 G4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/5_The_lads_in_their_hundreds/lc6214847.mxl",
+      "label": "Songs from A Shropshire Lad, The lads in their hundreds (OpenScore)",
+      "bar": 17,
+      "notes": "B4 C#5 Bb4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     3
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/6_Is_my_team_ploughing/lc6214848.mxl",
+      "label": "Songs from A Shropshire Lad, Is my team ploughing (OpenScore)",
+      "bar": 7,
+      "notes": "Bb4 A4 G4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/4_Think_no_more,_lad/lc6214846.mxl",
+      "label": "Songs from A Shropshire Lad, Think no more, lad (OpenScore)",
+      "bar": 9,
+      "notes": "B4 Bb4 Ab4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 4.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Butterworth,_George/6_Songs_from_A_Shropshire_Lad/5_The_lads_in_their_hundreds/lc6214847.mxl",
+      "label": "Songs from A Shropshire Lad, The lads in their hundreds (OpenScore)",
+      "bar": 4,
+      "notes": "Bb4 B4 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Butterworth,_George/_/Love_blows_as_the_wind_blows/lc6469541.mxl",
+      "label": "Love blows as the wind blows (OpenScore)",
+      "bar": 5,
+      "notes": "D4 Eb4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Butterworth,_George/Bredon_Hill_and_Other_Songs/2_Oh_Fair_Enough_are_Sky_and_Plain/lc6378337.mxl",
+      "label": "Bredon Hill and Other Songs, Oh Fair Enough are Sky and Plain (OpenScore)",
+      "bar": 25,
+      "notes": "F#4 G4 A4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 297,
+   "composers": 37
+  }
+ }
+]

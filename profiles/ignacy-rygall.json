@@ -1,0 +1,66 @@
+[
+ {
+  "composer": "Ignacy Rygall",
+  "kind": "air",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.42196212697104535,
+   "repeats": 0.40458675425821156,
+   "leaps": 0.0953841130240356,
+   "move": 3.018662956881348,
+   "rising": 0.47632731253420907,
+   "leap answered": 0.13006029285099052,
+   "range": 13.000000000000002,
+   "register": 77.33333333333333,
+   "even": 0.5177008177008177,
+   "long-short": 0.07301587301587302,
+   "rhythm variety": 2.29902553335419,
+   "surprise, pitch": 1.8857300297654358,
+   "surprise, rhythm": 1.74303615018109,
+   "density": 7.274429861161823,
+   "lines": 7.666666666666667
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 24,
+   "composers": 11
+  }
+ },
+ {
+  "composer": "Ignacy Rygall",
+  "kind": "chorus",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.17418322462007135,
+   "repeats": 0.6042102562891402,
+   "leaps": 0.16035061605311685,
+   "move": 5.097704957360673,
+   "rising": 0.42596323290069543,
+   "leap answered": 0.06443656771525624,
+   "range": 15.25,
+   "register": 78.5,
+   "even": 0.8463174222961334,
+   "long-short": 0.009419614789379504,
+   "rhythm variety": 0.9874723709367104,
+   "surprise, pitch": 1.5663449227372894,
+   "surprise, rhythm": 0.7487006111160635,
+   "density": 10.072312803966668,
+   "lines": 8.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ }
+]

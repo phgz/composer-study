@@ -1,0 +1,120 @@
+[
+ {
+  "composer": "August Freyer",
+  "kind": "prelude",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 26,
+  "values": {
+   "steps": 0.6213503242300101,
+   "repeats": 0.03282641667711253,
+   "leaps": 0.17883142098831184,
+   "move": 2.7880949089714475,
+   "rising": 0.47881872353096977,
+   "leap answered": 0.4580228192859772,
+   "range": 11.305769230769233,
+   "register": 68.98076923076923,
+   "even": 0.5190085332426795,
+   "long-short": 0.06401601362475616,
+   "rhythm variety": 1.8703857945438334,
+   "surprise, pitch": 2.960908407751567,
+   "surprise, rhythm": 1.6258675893216816,
+   "density": 2.23692349987498,
+   "lines": 1.9615384615384615
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.960908407751567,
+    "others": 2.4626278258957215,
+    "auc": 0.8065234842086166
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.6258675893216816,
+    "others": 1.082226816423303,
+    "auc": 0.780347219551733
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.2,
+    "works": 6,
+    "per_1000": 6.0,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-385--001-012_freyer-august--26-krotkich-i-latwych-preludyj-12-as-major.krn",
+      "label": "26 krótkich i łatwych preludyj, 12. As major. (PL-KOZmzk mzk/m/385, kern)",
+      "bar": 2,
+      "notes": "C5 Bb4 Ab4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-385--001-013_freyer-august--26-krotkich-i-latwych-preludyj-13-b-major.krn",
+      "label": "26 krótkich i łatwych preludyj, 13. B major. (PL-KOZmzk mzk/m/385, kern)",
+      "bar": 6,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-385--001-023_freyer-august--26-krotkich-i-latwych-preludyj-23-dis-minor.krn",
+      "label": "26 krótkich i łatwych preludyj, 23. Dis minor. (PL-KOZmzk mzk/m/385, kern)",
+      "bar": 11,
+      "notes": "Ab4 F#4 E4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 6.0,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-385--001-020_freyer-august--26-krotkich-i-latwych-preludyj-20-h-minor.krn",
+      "label": "26 krótkich i łatwych preludyj, 20. H minor. (PL-KOZmzk mzk/m/385, kern)",
+      "bar": 1,
+      "notes": "G4 F#4 E4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-385--001-015_freyer-august--26-krotkich-i-latwych-preludyj-15-d-minor.krn",
+      "label": "26 krótkich i łatwych preludyj, 15. D minor. (PL-KOZmzk mzk/m/385, kern)",
+      "bar": 14,
+      "notes": "D4 C#4 B3 C#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-385--001-026_freyer-august--26-krotkich-i-latwych-preludyj-26-b-minor.krn",
+      "label": "26 krótkich i łatwych preludyj, 26. B minor. (PL-KOZmzk mzk/m/385, kern)",
+      "bar": 5,
+      "notes": "C#5 C5 Bb4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 137,
+   "composers": 12
+  }
+ }
+]

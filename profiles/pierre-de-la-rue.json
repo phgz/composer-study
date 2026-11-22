@@ -1,0 +1,781 @@
+[
+ {
+  "composer": "Pierre de La Rue",
+  "kind": "magnificat",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.705209107429207,
+   "repeats": 0.109090852741329,
+   "leaps": 0.08705451982088093,
+   "move": 2.345641897399988,
+   "rising": 0.45750824520872924,
+   "leap answered": 0.5754346459991622,
+   "range": 10.5,
+   "register": 69.25,
+   "even": 0.3616930595437854,
+   "long-short": 0.14186262889112722,
+   "rhythm variety": 2.9156528885490682,
+   "surprise, pitch": 2.4230421818908727,
+   "surprise, rhythm": 2.3158250028530123,
+   "density": 0.9513676564106077,
+   "lines": 4.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 46,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Pierre de La Rue",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 136,
+  "values": {
+   "steps": 0.6622957441017829,
+   "repeats": 0.1281751843335856,
+   "leaps": 0.07929527873875697,
+   "move": 2.315757460554256,
+   "rising": 0.45290287746855346,
+   "leap answered": 0.48064147201060525,
+   "range": 10.369485294117647,
+   "register": 67.80147058823529,
+   "even": 0.3490830130057141,
+   "long-short": 0.1296591554877938,
+   "rhythm variety": 2.891944871184045,
+   "surprise, pitch": 2.5190871429504167,
+   "surprise, rhythm": 2.2353650401235963,
+   "density": 1.0258699701434522,
+   "lines": 4.404411764705882
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 9.6,
+    "works": 100,
+    "per_1000": 4.6,
+    "others_per_1000": 1.9,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue1009b-Missa_De_feria-Gloria.krn",
+      "label": "Missa De feria, Gloria: Et in terra pax (kern)",
+      "bar": 7,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1023c-Missa_Pascale-Credo.krn",
+      "label": "Missa Pascale, Credo: Patrem omnipotentem (kern)",
+      "bar": 29,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1002b-Missa_Almana-Gloria.krn",
+      "label": "Missa Almana, Gloria: Et in terra pax (kern)",
+      "bar": 15,
+      "notes": "F4 E4 D4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 9.4,
+    "works": 102,
+    "per_1000": 4.8,
+    "others_per_1000": 2.1,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue1009d-Missa_De_feria-Sanctus.krn",
+      "label": "Missa De feria, Sanctus (kern)",
+      "bar": 18,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1013d-Missa_De_Sancto_Job-Sanctus.krn",
+      "label": "Missa de Sancto Job, Sanctus (kern)",
+      "bar": 11,
+      "notes": "G4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1017c-Missa_Inviolata-Credo.krn",
+      "label": "Missa Inviolata, Credo: Patrem omnipotentem (kern)",
+      "bar": 22,
+      "notes": "G5 F5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 9.3,
+    "works": 67,
+    "per_1000": 2.5,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue1037-Credo_Lamour_de_moy.krn",
+      "label": "Credo L'amour de moy: Patrem omnipotentem (kern)",
+      "bar": 26,
+      "notes": "G4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1025b-Missa_Puer_natus_est_nobis-Gloria.krn",
+      "label": "Missa Puer natus est nobis, Gloria: Et in terra pax (kern)",
+      "bar": 8,
+      "notes": "G4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1003c-Missa_Assumpta_est_Maria-Credo.krn",
+      "label": "Missa Assumpta est Maria, Credo: Patrem omnipotentem (kern)",
+      "bar": 21,
+      "notes": "D4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 9.3,
+    "works": 46,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue1011c-Missa_De_sancta_cruce-Credo.krn",
+      "label": "Missa De sancta cruce, Credo: Patrem (kern)",
+      "bar": 7,
+      "notes": "D5 C#5 C#5 D5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1023d-Missa_Pascale-Sanctus.krn",
+      "label": "Missa Pascale, Sanctus (kern)",
+      "bar": 7,
+      "notes": "G4 F#4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1005c-Missa_Ave_sanctissima_Maria-Credo.krn",
+      "label": "Missa Ave sanctissima Maria, Credo: Patrem omnipotentem (kern)",
+      "bar": 159,
+      "notes": "G4 F#4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 8.4,
+    "works": 47,
+    "per_1000": 1.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue1004d-Missa_Ave_Maria-Sanctus.krn",
+      "label": "Missa Ave Maria, Sanctus (kern)",
+      "bar": 51,
+      "notes": "D5 C5 B4 E5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1018e-Missa_Ista_est_speciosa-Agnus.krn",
+      "label": "Missa Ista est speciosa, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 8,
+      "notes": "G4 F4 E4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1025d-Missa_Puer_natus_est_nobis-Sanctus.krn",
+      "label": "Missa Puer natus est nobis, Sanctus (kern)",
+      "bar": 36,
+      "notes": "C5 Bb4 A4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 8.4,
+    "works": 85,
+    "per_1000": 3.6,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue1016c-Missa_Incessament-Credo.krn",
+      "label": "Missa Incessament, Credo: Patrem omnipotentem (kern)",
+      "bar": 81,
+      "notes": "G4 F4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1021d-Missa_O_gloriosa_domina-Sanctus.krn",
+      "label": "Missa O gloriosa domina, Sanctus (kern)",
+      "bar": 53,
+      "notes": "B4 A4 B4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue1012c-Missa_De_Sancto_Antonio-Credo.krn",
+      "label": "Missa De Sancto Antonio, Credo: Patrem omnipotentem (kern)",
+      "bar": 4,
+      "notes": "B4 A4 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 460,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Pierre de La Rue",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 21,
+  "values": {
+   "steps": 0.6764979284585907,
+   "repeats": 0.11843656590957995,
+   "leaps": 0.08525273302693519,
+   "move": 2.3192415105664796,
+   "rising": 0.44915258713315837,
+   "leap answered": 0.5221212159918979,
+   "range": 10.454761904761902,
+   "register": 68.57142857142857,
+   "even": 0.355067191466156,
+   "long-short": 0.13181706215710634,
+   "rhythm variety": 2.8996750340331303,
+   "surprise, pitch": 2.5321482464624347,
+   "surprise, rhythm": 2.2731374956822203,
+   "density": 0.9944297869586578,
+   "lines": 4.190476190476191
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 7.8,
+    "works": 9,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue2009-Magnificat_Secundi_toni.krn",
+      "label": "Magnificat Secundi toni: Et exsultavit (kern)",
+      "bar": 59,
+      "notes": "F5 E5 E5 F5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2018-Quis_dabit_pacem.krn",
+      "label": "Quis dabit pacem (kern)",
+      "bar": 38,
+      "notes": "A4 Ab4 Ab4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2001-Ave_regina_celorum.krn",
+      "label": "Ave regina celorum (kern)",
+      "bar": 50,
+      "notes": "C5 B4 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 7,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue2009-Magnificat_Secundi_toni.krn",
+      "label": "Magnificat Secundi toni: Et exsultavit (kern)",
+      "bar": 37,
+      "notes": "Bb4 C5 D5 E5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2017-Pater_de_celis_deus.krn",
+      "label": "Pater de celis deus: Pater de celis, deus (kern)",
+      "bar": 13,
+      "notes": "F4 G4 A4 B4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2002-Considera_Israel.krn",
+      "label": "Considera Israel (kern)",
+      "bar": 94,
+      "notes": "F4 G4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 7.1,
+    "works": 5,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue2004-Delicta_iuventutis.krn",
+      "label": "Delicta iuventutis: Delicta juventutis (kern)",
+      "bar": 30,
+      "notes": "C5 B4 B4 C5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2018-Quis_dabit_pacem.krn",
+      "label": "Quis dabit pacem (kern)",
+      "bar": 37,
+      "notes": "A4 Ab4 Ab4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2015-O_domine_Jesu_Christe.krn",
+      "label": "O domine Jesu Christe (kern)",
+      "bar": 13,
+      "notes": "D5 C#5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 6.6,
+    "works": 7,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue2001-Ave_regina_celorum.krn",
+      "label": "Ave regina celorum (kern)",
+      "bar": 49,
+      "notes": "D5 C5 B4 B4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2009-Magnificat_Secundi_toni.krn",
+      "label": "Magnificat Secundi toni: Et exsultavit (kern)",
+      "bar": 58,
+      "notes": "G5 F5 E5 E5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2002-Considera_Israel.krn",
+      "label": "Considera Israel (kern)",
+      "bar": 76,
+      "notes": "D5 C5 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.5,
+    "works": 9,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue2007-Laudate_dominum.krn",
+      "label": "Laudate dominum (kern)",
+      "bar": 89,
+      "notes": "B4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2004-Delicta_iuventutis.krn",
+      "label": "Delicta iuventutis: Delicta juventutis (kern)",
+      "bar": 26,
+      "notes": "B4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2010-Magnificat_Quarti_toni.krn",
+      "label": "Magnificat Quarti toni: Et exsultavit (kern)",
+      "bar": 162,
+      "notes": "B4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 14,
+    "per_1000": 2.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue2009-Magnificat_Secundi_toni.krn",
+      "label": "Magnificat Secundi toni: Et exsultavit (kern)",
+      "bar": 54,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2019-Regina_celi.krn",
+      "label": "Regina celi (kern)",
+      "bar": 4,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue2005-Gaude_virgo_mater_Christi.krn",
+      "label": "Gaude virgo mater Christi (kern)",
+      "bar": 6,
+      "notes": "E5 D5 C5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 601,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Pierre de La Rue",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 14,
+  "values": {
+   "steps": 0.713633197751672,
+   "repeats": 0.12954182650164864,
+   "leaps": 0.0692987290235327,
+   "move": 2.1615231380932896,
+   "rising": 0.43963828791018084,
+   "leap answered": 0.5386347779204922,
+   "range": 9.339285714285714,
+   "register": 68.07142857142857,
+   "even": 0.3925218198451175,
+   "long-short": 0.11465827104184578,
+   "rhythm variety": 2.833215285731169,
+   "surprise, pitch": 2.4357109520386873,
+   "surprise, rhythm": 2.264126406714887,
+   "density": 1.1087503396264162,
+   "lines": 3.7857142857142856
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 10,
+    "per_1000": 9.0,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue3023-Tous_nobles_coeurs.krn",
+      "label": "Tous nobles coeurs (kern)",
+      "bar": 7,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3003-Ce_nest_pas_jeu.krn",
+      "label": "Ce n'est pas jeu (kern)",
+      "bar": 8,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3020-Pour_ung_jamais.krn",
+      "label": "Pour ung jamais (kern)",
+      "bar": 47,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 3.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue3002-Autant_en_emporte_le_vent.krn",
+      "label": "Autant en emporte le vent (kern)",
+      "bar": 4,
+      "notes": "A4 G4 F4 F4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3003-Ce_nest_pas_jeu.krn",
+      "label": "Ce n'est pas jeu (kern)",
+      "bar": 8,
+      "notes": "A4 G4 F4 F4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3024-Trop_plus_secret.krn",
+      "label": "Trop plus secret (kern)",
+      "bar": 8,
+      "notes": "E4 D4 C4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 3.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue3017-Pour_ce_que_le_suis.krn",
+      "label": "Pour ce que le suis (kern)",
+      "bar": 18,
+      "notes": "C5 Bb4 A4 D5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3024-Trop_plus_secret.krn",
+      "label": "Trop plus secret (kern)",
+      "bar": 5,
+      "notes": "G4 F4 E4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3001-A_vous_non_autre.krn",
+      "label": "A vous non autre (kern)",
+      "bar": 35,
+      "notes": "D4 C4 B3 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 4.0,
+    "works": 5,
+    "per_1000": 2.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue3011-Il_est_bien_heureux.krn",
+      "label": "Il est bien heureux (kern)",
+      "bar": 35,
+      "notes": "E5 D5 E5 E5"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3012-Il_viendra_le_jour_desire.krn",
+      "label": "Il viendra le jour désiré (kern)",
+      "bar": 10,
+      "notes": "B4 A4 B4 B4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3015-Mijn_hert_altijt_heeft_verlanghen.krn",
+      "label": "Mijn hert altijt heeft verlanghen (kern)",
+      "bar": 31,
+      "notes": "E5 D5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue3001-A_vous_non_autre.krn",
+      "label": "A vous non autre (kern)",
+      "bar": 5,
+      "notes": "D4 D4 D4 D4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3002-Autant_en_emporte_le_vent.krn",
+      "label": "Autant en emporte le vent (kern)",
+      "bar": 23,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3024-Trop_plus_secret.krn",
+      "label": "Trop plus secret (kern)",
+      "bar": 30,
+      "notes": "G4 G4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.7,
+    "works": 5,
+    "per_1000": 5.6,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/jrp:Rue/Rue3003-Ce_nest_pas_jeu.krn",
+      "label": "Ce n'est pas jeu (kern)",
+      "bar": 1,
+      "notes": "A4 G4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3020-Pour_ung_jamais.krn",
+      "label": "Pour ung jamais (kern)",
+      "bar": 6,
+      "notes": "B4 A4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Rue/Rue3018-Pourquoy_non.krn",
+      "label": "Pourquoy non (kern)",
+      "bar": 30,
+      "notes": "C4 Bb3 Ab3 Bb3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 268,
+   "composers": 19
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Giuseppe Verdi",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.42417985529534596,
+   "repeats": 0.19536403826467907,
+   "leaps": 0.18789751749510397,
+   "move": 3.394254890052542,
+   "rising": 0.4554936481259698,
+   "leap answered": 0.2870927356100556,
+   "range": 23.75,
+   "register": 73.0,
+   "even": 0.6353645069284162,
+   "long-short": 0.10855866440809539,
+   "rhythm variety": 1.8558692802091836,
+   "surprise, pitch": 2.8442407999330834,
+   "surprise, rhythm": 1.075474337491713,
+   "density": 4.6961869949155295,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

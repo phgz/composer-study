@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Halina Krzyżanowska",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.530027480593011,
+   "repeats": 0.07731040957013038,
+   "leaps": 0.1798239056550944,
+   "move": 3.3156947610613243,
+   "rising": 0.46360358271521607,
+   "leap answered": 0.3393042181370165,
+   "range": 23.049999999999997,
+   "register": 76.66666666666667,
+   "even": 0.5409520805111742,
+   "long-short": 0.12177217985117557,
+   "rhythm variety": 2.308362674788483,
+   "surprise, pitch": 3.434064600414118,
+   "surprise, rhythm": 1.7546279428232527,
+   "density": 5.066707565644408,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 115,
+   "composers": 19
+  }
+ }
+]

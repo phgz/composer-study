@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Hector Berlioz",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.3008737494583383,
+   "repeats": 0.436077900669184,
+   "leaps": 0.1363940078834404,
+   "move": 3.0070021420953097,
+   "rising": 0.48565737230333506,
+   "leap answered": 0.17872578758500368,
+   "range": 14.933333333333332,
+   "register": 71.83333333333333,
+   "even": 0.6871736891102151,
+   "long-short": 0.11285247055910981,
+   "rhythm variety": 1.480728084859315,
+   "surprise, pitch": 2.0310474494739776,
+   "surprise, rhythm": 0.8638820083495489,
+   "density": 6.272334675494984,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1085,
+   "composers": 97
+  }
+ }
+]

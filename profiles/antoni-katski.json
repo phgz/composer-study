@@ -1,0 +1,98 @@
+[
+ {
+  "composer": "Antoni Kątski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.37494643269671046,
+   "repeats": 0.21193381672444112,
+   "leaps": 0.29168200398444905,
+   "move": 5.053207113219243,
+   "rising": 0.4808501782302012,
+   "leap answered": 0.2163450573451552,
+   "range": 36.333333333333336,
+   "register": 77.66666666666667,
+   "even": 0.5894479249220186,
+   "long-short": 0.08459622388272936,
+   "rhythm variety": 1.98932869322722,
+   "surprise, pitch": 1.9303790740271172,
+   "surprise, rhythm": 0.847064178851444,
+   "density": 6.389893937265184,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 432,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Antoni Kątski",
+  "kind": "fantasia",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.42841073935759383,
+   "repeats": 0.15678999162656704,
+   "leaps": 0.2439453437373945,
+   "move": 4.295590695590696,
+   "rising": 0.49288379288379286,
+   "leap answered": 0.15910305889296147,
+   "range": 39.483333333333334,
+   "register": 81.66666666666667,
+   "even": 0.5602632693402191,
+   "long-short": 0.15174543088044123,
+   "rhythm variety": 2.105894908446724,
+   "surprise, pitch": 2.5974612763465226,
+   "surprise, rhythm": 1.4366254652573074,
+   "density": 8.72202335993049,
+   "lines": 2.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "Antoni Kątski",
+  "kind": "opera",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.42841073935759383,
+   "repeats": 0.15678999162656704,
+   "leaps": 0.2439453437373945,
+   "move": 4.295590695590696,
+   "rising": 0.49288379288379286,
+   "leap answered": 0.15910305889296147,
+   "range": 39.483333333333334,
+   "register": 81.66666666666667,
+   "even": 0.5602632693402191,
+   "long-short": 0.15174543088044123,
+   "rhythm variety": 2.105894908446724,
+   "surprise, pitch": 2.5974612763465226,
+   "surprise, rhythm": 1.4366254652573074,
+   "density": 8.72202335993049,
+   "lines": 2.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 149,
+   "composers": 7
+  }
+ }
+]

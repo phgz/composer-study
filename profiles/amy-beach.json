@@ -1,0 +1,192 @@
+[
+ {
+  "composer": "Amy Beach",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 10,
+  "values": {
+   "steps": 0.48162169294314083,
+   "repeats": 0.17376231430219083,
+   "leaps": 0.18874062389710045,
+   "move": 3.1106870954757144,
+   "rising": 0.49156237407843256,
+   "leap answered": 0.330619771617581,
+   "range": 11.625,
+   "register": 71.45,
+   "even": 0.3181732356703551,
+   "long-short": 0.14823262137742127,
+   "rhythm variety": 3.056647709980754,
+   "surprise, pitch": 2.8985035429104253,
+   "surprise, rhythm": 2.147151875621085,
+   "density": 5.937583590096883,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 71.45,
+    "others": 69.57155892082636,
+    "auc": 0.7574821810438369
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.056647709980754,
+    "others": 2.5264496387364486,
+    "auc": 0.851906400725954
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.147151875621085,
+    "others": 1.626465694061946,
+    "auc": 0.8343599920094048
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 3.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Beach,_Amy/4_Songs,_Op.51/3_Juni/lc6245973.mxl",
+      "label": "Songs, Op.51, Juni (OpenScore)",
+      "bar": 8,
+      "notes": "A4 A4 Bb4 C5"
+     },
+     {
+      "work": "openscore-lieder:Beach,_Amy/4_Songs,_Op.51/1_Ich_sagte_nicht/lc6245971.mxl",
+      "label": "Songs, Op.51, Ich sagte nicht (OpenScore)",
+      "bar": 6,
+      "notes": "F#4 F#4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 5.2,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Beach,_Amy/3_Shakespeare_Songs,_Op.37/3_Fairy_Lullaby/lc6564816.mxl",
+      "label": "Shakespeare Songs, Op.37, Fairy Lullaby (OpenScore)",
+      "bar": 34,
+      "notes": "E5 D5 E5 F5"
+     },
+     {
+      "work": "openscore-lieder:Beach,_Amy/4_Songs,_Op.51/3_Juni/lc6245973.mxl",
+      "label": "Songs, Op.51, Juni (OpenScore)",
+      "bar": 6,
+      "notes": "A4 G4 A4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Beach,_Amy/3_Browning_Songs,_Op.44/3_I_Send_My_Heart_up_to_Thee!/lc6212196.mxl",
+      "label": "Browning Songs, Op.44, I Send My Heart up to Thee! (OpenScore)",
+      "bar": 33,
+      "notes": "C5 Bb4 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 3.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Beach,_Amy/3_Browning_Songs,_Op.44/3_I_Send_My_Heart_up_to_Thee!/lc6212196.mxl",
+      "label": "Browning Songs, Op.44, I Send My Heart up to Thee! (OpenScore)",
+      "bar": 2,
+      "notes": "C5 Eb5 C#5 C5"
+     },
+     {
+      "work": "openscore-lieder:Beach,_Amy/3_Shakespeare_Songs,_Op.37/2_Take,_O_Take_those_Lips_Away/lc6564767.mxl",
+      "label": "Shakespeare Songs, Op.37, Take, O Take those Lips Away (OpenScore)",
+      "bar": 2,
+      "notes": "B4 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Beach,_Amy/4_Songs,_Op.51/4_Je_demande_à_l’oiseau/lc6245974.mxl",
+      "label": "Songs, Op.51, Je demande à l’oiseau (OpenScore)",
+      "bar": 12,
+      "notes": "D5 F5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 6.0,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Beach,_Amy/3_Shakespeare_Songs,_Op.37/1_O_Mistress_Mine/lc6564424.mxl",
+      "label": "Shakespeare Songs, Op.37, O Mistress Mine (OpenScore)",
+      "bar": 3,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:Beach,_Amy/3_Browning_Songs,_Op.44/3_I_Send_My_Heart_up_to_Thee!/lc6212196.mxl",
+      "label": "Browning Songs, Op.44, I Send My Heart up to Thee! (OpenScore)",
+      "bar": 3,
+      "notes": "Eb5 C#5 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Beach,_Amy/4_Songs,_Op.51/4_Je_demande_à_l’oiseau/lc6245974.mxl",
+      "label": "Songs, Op.51, Je demande à l’oiseau (OpenScore)",
+      "bar": 5,
+      "notes": "C#5 B4 Bb4 Ab4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1078,
+   "composers": 97
+  }
+ }
+]

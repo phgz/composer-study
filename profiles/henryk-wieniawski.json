@@ -1,0 +1,989 @@
+[
+ {
+  "composer": "Henryk Wieniawski",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.4567923382318685,
+   "repeats": 0.08626642848148341,
+   "leaps": 0.2587887333904435,
+   "move": 4.385160917485841,
+   "rising": 0.4978954725500397,
+   "leap answered": 0.1902919337808748,
+   "range": 28.65,
+   "register": 74.8125,
+   "even": 0.658555142548712,
+   "long-short": 0.08138560005654448,
+   "rhythm variety": 1.8851014302681182,
+   "surprise, pitch": 2.8301655012289304,
+   "surprise, rhythm": 1.4484124590836962,
+   "density": 5.193451194762497,
+   "lines": 2.75
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8301655012289304,
+    "others": 2.5214529954819676,
+    "auc": 0.7548076923076923
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 6,
+    "per_1000": 2.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-108-035--001-001_wieniawski-henryk--concerto-no-2-allegro-moderato.krn",
+      "label": "Concerto No. 2, Allegro moderato, movement 1 (PL-Wn Mus.III.108.035, kern)",
+      "bar": 136,
+      "notes": "G6 F6 D6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-001_wieniawski-henryk--concerto-i-op-14-allegro-moderato.krn",
+      "label": "Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern)",
+      "bar": 172,
+      "notes": "E5 D5 B4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-003_wieniawski-henryk--concerto-i-op-14-rondo.krn",
+      "label": "Concerto I op. 14, Rondo, movement 3: Allegro giojoso (PL-Wn Mus.III.80.558, kern)",
+      "bar": 129,
+      "notes": "F#6 E6 C#6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-001_wieniawski-henryk--concerto-i-op-14-allegro-moderato.krn",
+      "label": "Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern)",
+      "bar": 115,
+      "notes": "F#4 A4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-108-035--001-002_wieniawski-henryk--concerto-no-2-romance.krn",
+      "label": "Concerto No. 2, Romance, movement 2 (PL-Wn Mus.III.108.035, kern)",
+      "bar": 91,
+      "notes": "B3 D4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-108-035--001-003_wieniawski-henryk--concerto-no-2-allegro-moderato-a-la-zingara.krn",
+      "label": "Concerto No. 2, Allegro moderato a la Zingara, movement 3 (PL-Wn Mus.III.108.035, kern)",
+      "bar": 123,
+      "notes": "B3 D4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-108-035--001-003_wieniawski-henryk--concerto-no-2-allegro-moderato-a-la-zingara.krn",
+      "label": "Concerto No. 2, Allegro moderato a la Zingara, movement 3 (PL-Wn Mus.III.108.035, kern)",
+      "bar": 100,
+      "notes": "B5 D6 C#6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-108-035--001-001_wieniawski-henryk--concerto-no-2-allegro-moderato.krn",
+      "label": "Concerto No. 2, Allegro moderato, movement 1 (PL-Wn Mus.III.108.035, kern)",
+      "bar": 105,
+      "notes": "G4 Bb4 A4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-161-460_wieniawski-henryk--polonaise-de-concert-op-4.krn",
+      "label": "Polonaise de concert op. 4: Allegro maestoso. (PL-Wn Mus.III.161.460, kern)",
+      "bar": 11,
+      "notes": "C#5 E5 Eb5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -3,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-003_wieniawski-henryk--concerto-i-op-14-rondo.krn",
+      "label": "Concerto I op. 14, Rondo, movement 3: Allegro giojoso (PL-Wn Mus.III.80.558, kern)",
+      "bar": 177,
+      "notes": "C#6 A5 F#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-108-035--001-003_wieniawski-henryk--concerto-no-2-allegro-moderato-a-la-zingara.krn",
+      "label": "Concerto No. 2, Allegro moderato a la Zingara, movement 3 (PL-Wn Mus.III.108.035, kern)",
+      "bar": 39,
+      "notes": "A5 F5 D5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-001_wieniawski-henryk--concerto-i-op-14-allegro-moderato.krn",
+      "label": "Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern)",
+      "bar": 93,
+      "notes": "C#6 A5 F#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.4,
+    "works": 6,
+    "per_1000": 2.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-001_wieniawski-henryk--concerto-i-op-14-allegro-moderato.krn",
+      "label": "Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern)",
+      "bar": 81,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-003_wieniawski-henryk--concerto-i-op-14-rondo.krn",
+      "label": "Concerto I op. 14, Rondo, movement 3: Allegro giojoso (PL-Wn Mus.III.80.558, kern)",
+      "bar": 88,
+      "notes": "Ab5 F#5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-108-035--001-001_wieniawski-henryk--concerto-no-2-allegro-moderato.krn",
+      "label": "Concerto No. 2, Allegro moderato, movement 1 (PL-Wn Mus.III.108.035, kern)",
+      "bar": 72,
+      "notes": "A5 G5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 4,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-003_wieniawski-henryk--concerto-i-op-14-rondo.krn",
+      "label": "Concerto I op. 14, Rondo, movement 3: Allegro giojoso (PL-Wn Mus.III.80.558, kern)",
+      "bar": 126,
+      "notes": "B4 Bb4 C#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-80-558--001-001_wieniawski-henryk--concerto-i-op-14-allegro-moderato.krn",
+      "label": "Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern)",
+      "bar": 115,
+      "notes": "E4 Eb4 F#4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-108-035--001-003_wieniawski-henryk--concerto-no-2-allegro-moderato-a-la-zingara.krn",
+      "label": "Concerto No. 2, Allegro moderato a la Zingara, movement 3 (PL-Wn Mus.III.108.035, kern)",
+      "bar": 124,
+      "notes": "D4 C#4 E4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 26,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Henryk Wieniawski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.47967250542949397,
+   "repeats": 0.12019798774862457,
+   "leaps": 0.22067323339778896,
+   "move": 3.945749394135583,
+   "rising": 0.45595424101352705,
+   "leap answered": 0.27159763091506595,
+   "range": 25.135714285714275,
+   "register": 75.57142857142857,
+   "even": 0.34684583762190563,
+   "long-short": 0.18712253582443336,
+   "rhythm variety": 2.8150162526347495,
+   "surprise, pitch": 1.9628722887308445,
+   "surprise, rhythm": 1.4890668334540182,
+   "density": 5.01747004852061,
+   "lines": 2.857142857142857
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.45595424101352705,
+    "others": 0.4896602623962548,
+    "auc": 0.23312457685765087
+   },
+   {
+    "measure": "even",
+    "value": 0.34684583762190563,
+    "others": 0.530985955854321,
+    "auc": 0.16956208180868249
+   },
+   {
+    "measure": "long-short",
+    "value": 0.18712253582443336,
+    "others": 0.10384046167676228,
+    "auc": 0.8210425738974613
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.8150162526347495,
+    "others": 2.1916389231762414,
+    "auc": 0.8403543149337499
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 7.0,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 72,
+      "notes": "B5 A5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-162-158-cim_wieniawski-henryk--souvenir-de-posen-mazurka-op-3.krn",
+      "label": "Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \\nMAZOURKA - CARACTERISTIQUE \\npar \\nH. WIENIAWSKI. \\n Op.3 (PL-Wn Mus.III.162.158 Cim., kern)",
+      "bar": 72,
+      "notes": "B5 A5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-128-987-cim_wieniawski-henryk--2me-polonaise-brillante-op-21.krn",
+      "label": "2me polonaise brillante op. 21: Allegro moderato. (PL-Wn Mus.III.128.987 Cim., kern)",
+      "bar": 25,
+      "notes": "C#6 B5 A5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 7.0,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-15425-iii--001-002_wieniawski-henryk--deux-mazurkas-de-salon-op-12-chanson-polonaise.krn",
+      "label": "Deux Mazurkas de Salon op. 12, Chanson polonaise, movement 2: Andantino. (PL-Kj BJ Muz. 15425 III, kern)",
+      "bar": 52,
+      "notes": "B4 A4 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 71,
+      "notes": "B5 A5 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-162-158-cim_wieniawski-henryk--souvenir-de-posen-mazurka-op-3.krn",
+      "label": "Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \\nMAZOURKA - CARACTERISTIQUE \\npar \\nH. WIENIAWSKI. \\n Op.3 (PL-Wn Mus.III.162.158 Cim., kern)",
+      "bar": 80,
+      "notes": "B5 A5 B5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     1,
+     2
+    ],
+    "z": 6.3,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-15425-iii--001-002_wieniawski-henryk--deux-mazurkas-de-salon-op-12-chanson-polonaise.krn",
+      "label": "Deux Mazurkas de Salon op. 12, Chanson polonaise, movement 2: Andantino. (PL-Kj BJ Muz. 15425 III, kern)",
+      "bar": 9,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-128-987-cim_wieniawski-henryk--2me-polonaise-brillante-op-21.krn",
+      "label": "2me polonaise brillante op. 21: Allegro moderato. (PL-Wn Mus.III.128.987 Cim., kern)",
+      "bar": 25,
+      "notes": "F#4 Ab4 F#4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-161-470--001-001_wieniawski-henryk--deux-mazurkas-caracteristiques-op-19-obertass.krn",
+      "label": "Deux mazurkas caractéristiques op. 19, Obertass, movement 1 (PL-Wn Mus.III.161.470, kern)",
+      "bar": 31,
+      "notes": "C6 D6 C6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-15425-iii--001-001_wieniawski-henryk--deux-mazurkas-de-salon-op-12-sielauka.krn",
+      "label": "Deux Mazurkas de Salon op. 12, Sielauka, movement 1: SIELAUKA\\nla Champêtre. (PL-Kj BJ Muz. 15425 III, kern)",
+      "bar": 25,
+      "notes": "F7 E7 D7 C7"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-161-470--001-002_wieniawski-henryk--deux-mazurkas-caracteristiques-op-19-dudziarz.krn",
+      "label": "Deux mazurkas caractéristiques op. 19, Dudziarz, movement 2: Le Ménétrier - Mazurka. \\nII. (PL-Wn Mus.III.161.470, kern)",
+      "bar": 29,
+      "notes": "G5 F#5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-128-987-cim_wieniawski-henryk--2me-polonaise-brillante-op-21.krn",
+      "label": "2me polonaise brillante op. 21: Allegro moderato. (PL-Wn Mus.III.128.987 Cim., kern)",
+      "bar": 52,
+      "notes": "A5 Ab5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     1
+    ],
+    "z": 6.1,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-161-470--001-001_wieniawski-henryk--deux-mazurkas-caracteristiques-op-19-obertass.krn",
+      "label": "Deux mazurkas caractéristiques op. 19, Obertass, movement 1 (PL-Wn Mus.III.161.470, kern)",
+      "bar": 12,
+      "notes": "C#6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 63,
+      "notes": "C#4 D4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     0,
+     -2
+    ],
+    "z": 6.1,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-162-158-cim_wieniawski-henryk--souvenir-de-posen-mazurka-op-3.krn",
+      "label": "Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \\nMAZOURKA - CARACTERISTIQUE \\npar \\nH. WIENIAWSKI. \\n Op.3 (PL-Wn Mus.III.162.158 Cim., kern)",
+      "bar": 30,
+      "notes": "E5 E5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 73,
+      "notes": "A5 A5 B5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 427,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Henryk Wieniawski",
+  "kind": "etude",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.337913429298751,
+   "repeats": 0.1124951973791449,
+   "leaps": 0.322684510396921,
+   "move": 5.59701149163103,
+   "rising": 0.4778366234908956,
+   "leap answered": 0.14238874646954947,
+   "range": 32.125,
+   "register": 76.75,
+   "even": 0.7691953458735744,
+   "long-short": 0.025627058396827145,
+   "rhythm variety": 1.0642737009164245,
+   "surprise, pitch": 2.2293449444915905,
+   "surprise, rhythm": 0.7435438268505674,
+   "density": 4.8292600186040815,
+   "lines": 1.125
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -4,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 7,
+    "per_1000": 5.9,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-004_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-4-le-staccato.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 4. Le Staccato: Allegro giojoso. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 1,
+      "notes": "C#6 A5 E5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-003_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-3-l-etude.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 3. L’Etude: Moderato. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 15,
+      "notes": "F#5 D5 A4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-005_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-5-alla-saltarella.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 5. Alla Saltarella: Scherzando. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 26,
+      "notes": "G5 Eb5 Bb4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 6,
+    "per_1000": 5.3,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-006_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-6-prelude.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 6. Prélude: Allegro moderato. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 46,
+      "notes": "F#4 E4 C#4 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-004_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-4-le-staccato.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 4. Le Staccato: Allegro giojoso. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 1,
+      "notes": "E5 D5 B4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-003_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-3-l-etude.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 3. L’Etude: Moderato. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 4,
+      "notes": "A5 G5 E5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     11,
+     -2,
+     -9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-005_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-5-alla-saltarella.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 5. Alla Saltarella: Scherzando. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 64,
+      "notes": "Ab5 G6 F6 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-007_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-7-la-cadenza.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 7. La Cadenza: Largo. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 35,
+      "notes": "C#6 C7 Bb6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 5,
+    "per_1000": 3.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-004_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-4-le-staccato.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 4. Le Staccato: Allegro giojoso. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 1,
+      "notes": "A5 E5 C#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-005_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-5-alla-saltarella.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 5. Alla Saltarella: Scherzando. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 33,
+      "notes": "Bb4 F4 D4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-001_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-1-le-sautille.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 1. Le Sautille: Presto. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 7,
+      "notes": "Eb5 Bb4 G4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-006_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-6-prelude.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 6. Prélude: Allegro moderato. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 6,
+      "notes": "D6 F#6 E6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-007_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-7-la-cadenza.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 7. La Cadenza: Largo. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 12,
+      "notes": "C#5 F5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     10,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-007_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-7-la-cadenza.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 7. La Cadenza: Largo. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 35,
+      "notes": "Bb5 G5 F6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-123-982--001-005_wieniawski-henryk--l-ecole-moderne-etudes-caprices-pour-violon-seul-op-10-5-alla-saltarella.krn",
+      "label": "L'école moderne.Etudes-caprices pour violon seul op. 10, 5. Alla Saltarella: Scherzando. (PL-Wn Mus.III.123.982, kern)",
+      "bar": 23,
+      "notes": "Eb5 C5 Bb5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 216,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Henryk Wieniawski",
+  "kind": "mazurka",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.4839870851368633,
+   "repeats": 0.1269171700089732,
+   "leaps": 0.22148389149440914,
+   "move": 3.992540959824847,
+   "rising": 0.45944661451578156,
+   "leap answered": 0.28262617663605244,
+   "range": 24.491666666666656,
+   "register": 75.33333333333333,
+   "even": 0.29726156648636554,
+   "long-short": 0.1973891230364554,
+   "rhythm variety": 2.984903683651224,
+   "surprise, pitch": 1.996867043550257,
+   "surprise, rhythm": 1.5651676114653295,
+   "density": 4.675869326637822,
+   "lines": 2.8333333333333335
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.45944661451578156,
+    "others": 0.4957604338494151,
+    "auc": 0.20976458601274892
+   },
+   {
+    "measure": "even",
+    "value": 0.29726156648636554,
+    "others": 0.4048102053938599,
+    "auc": 0.21723884598349577
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.984903683651224,
+    "others": 2.63525411609696,
+    "auc": 0.8613282925874781
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     4,
+     -1,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -1
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 2.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 110,
+      "notes": "Bb4 D5 C#5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-15425-iii--001-002_wieniawski-henryk--deux-mazurkas-de-salon-op-12-chanson-polonaise.krn",
+      "label": "Deux Mazurkas de Salon op. 12, Chanson polonaise, movement 2: Andantino. (PL-Kj BJ Muz. 15425 III, kern)",
+      "bar": 38,
+      "notes": "Eb5 G5 F#5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-162-158-cim_wieniawski-henryk--souvenir-de-posen-mazurka-op-3.krn",
+      "label": "Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \\nMAZOURKA - CARACTERISTIQUE \\npar \\nH. WIENIAWSKI. \\n Op.3 (PL-Wn Mus.III.162.158 Cim., kern)",
+      "bar": 109,
+      "notes": "Bb4 D5 C#5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 72,
+      "notes": "G5 E5 F#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-162-158-cim_wieniawski-henryk--souvenir-de-posen-mazurka-op-3.krn",
+      "label": "Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \\nMAZOURKA - CARACTERISTIQUE \\npar \\nH. WIENIAWSKI. \\n Op.3 (PL-Wn Mus.III.162.158 Cim., kern)",
+      "bar": 72,
+      "notes": "G5 E5 F#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-15425-iii--001-001_wieniawski-henryk--deux-mazurkas-de-salon-op-12-sielauka.krn",
+      "label": "Deux Mazurkas de Salon op. 12, Sielauka, movement 1: SIELAUKA\\nla Champêtre. (PL-Kj BJ Muz. 15425 III, kern)",
+      "bar": 25,
+      "notes": "F7 E7 D7 C7"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-161-470--001-002_wieniawski-henryk--deux-mazurkas-caracteristiques-op-19-dudziarz.krn",
+      "label": "Deux mazurkas caractéristiques op. 19, Dudziarz, movement 2: Le Ménétrier - Mazurka. \\nII. (PL-Wn Mus.III.161.470, kern)",
+      "bar": 29,
+      "notes": "G5 F#5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-162-158-cim_wieniawski-henryk--souvenir-de-posen-mazurka-op-3.krn",
+      "label": "Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \\nMAZOURKA - CARACTERISTIQUE \\npar \\nH. WIENIAWSKI. \\n Op.3 (PL-Wn Mus.III.162.158 Cim., kern)",
+      "bar": 69,
+      "notes": "F#5 G5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 78,
+      "notes": "F#5 G5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 68,
+      "notes": "E5 F#5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-162-158-cim_wieniawski-henryk--souvenir-de-posen-mazurka-op-3.krn",
+      "label": "Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \\nMAZOURKA - CARACTERISTIQUE \\npar \\nH. WIENIAWSKI. \\n Op.3 (PL-Wn Mus.III.162.158 Cim., kern)",
+      "bar": 72,
+      "notes": "A5 B5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-101-528_wieniawski-henryk--1-re-mazurka.krn",
+      "label": "1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern)",
+      "bar": 73,
+      "notes": "A5 B5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-162-158-cim_wieniawski-henryk--souvenir-de-posen-mazurka-op-3.krn",
+      "label": "Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \\nMAZOURKA - CARACTERISTIQUE \\npar \\nH. WIENIAWSKI. \\n Op.3 (PL-Wn Mus.III.162.158 Cim., kern)",
+      "bar": 73,
+      "notes": "A5 B5 A5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 131,
+   "composers": 19
+  }
+ }
+]

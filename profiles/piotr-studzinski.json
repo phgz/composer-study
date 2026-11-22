@@ -1,0 +1,156 @@
+[
+ {
+  "composer": "Piotr Studziński",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.5333746619156595,
+   "repeats": 0.21414303778293792,
+   "leaps": 0.09372119202791318,
+   "move": 2.486896433188938,
+   "rising": 0.43882068552635767,
+   "leap answered": 0.22714741398951926,
+   "range": 12.25,
+   "register": 70.42857142857143,
+   "even": 0.47148689565302615,
+   "long-short": 0.1017556644104193,
+   "rhythm variety": 2.525008415009233,
+   "surprise, pitch": 2.919985835679757,
+   "surprise, rhythm": 1.9806983063606936,
+   "density": 6.23169526720821,
+   "lines": 6.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5333746619156595,
+    "others": 0.4668339243773392,
+    "auc": 0.7599904929073843
+   },
+   {
+    "measure": "leaps",
+    "value": 0.09372119202791318,
+    "others": 0.14441225941204935,
+    "auc": 0.20193789460923856
+   },
+   {
+    "measure": "move",
+    "value": 2.486896433188938,
+    "others": 2.982709203671317,
+    "auc": 0.11371188434599142
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.22714741398951926,
+    "others": 0.39722270215681427,
+    "auc": 0.16513829692346663
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-474--001-005_studzinski-piotr--quarta-missa-benedictus.krn",
+      "label": "Quarta Missa, Benedictus, movement 5 (PL-Kk Kk.I.474, kern)",
+      "bar": 25,
+      "notes": "Ab4 Ab4 Ab4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-474--001-003_studzinski-piotr--quarta-missa-credo.krn",
+      "label": "Quarta Missa, Credo, movement 3 (PL-Kk Kk.I.474, kern)",
+      "bar": 150,
+      "notes": "D5 D5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-474--001-002-dublet_studzinski-piotr--quarta-missa-gloria-dublet-dublet.krn",
+      "label": "Quarta Missa, Gloria (dublet), movement 2 (PL-Kk Kk.I.474, kern)",
+      "bar": 21,
+      "notes": "Bb4 Bb4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-474--001-003_studzinski-piotr--quarta-missa-credo.krn",
+      "label": "Quarta Missa, Credo, movement 3 (PL-Kk Kk.I.474, kern)",
+      "bar": 29,
+      "notes": "Bb4 Bb4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 4,
+    "per_1000": 4.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-474--001-003_studzinski-piotr--quarta-missa-credo.krn",
+      "label": "Quarta Missa, Credo, movement 3 (PL-Kk Kk.I.474, kern)",
+      "bar": 9,
+      "notes": "G4 F4 G4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-474--001-002-dublet_studzinski-piotr--quarta-missa-gloria-dublet-dublet.krn",
+      "label": "Quarta Missa, Gloria (dublet), movement 2 (PL-Kk Kk.I.474, kern)",
+      "bar": 19,
+      "notes": "B4 A4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-474--001-005_studzinski-piotr--quarta-missa-benedictus.krn",
+      "label": "Quarta Missa, Benedictus, movement 5 (PL-Kk Kk.I.474, kern)",
+      "bar": 43,
+      "notes": "C5 Bb4 C5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 545,
+   "composers": 37
+  }
+ }
+]

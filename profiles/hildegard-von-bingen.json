@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Hildegard von Bingen",
+  "kind": "chant",
+  "forces": "chant",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 7,
+  "values": {
+   "steps": 0.6578338995100889,
+   "repeats": 0.1575360799092738,
+   "leaps": 0.06725545371097022,
+   "move": 2.320393931085065,
+   "rising": 0.4441992908559599,
+   "leap answered": 0.4723469387755102,
+   "range": 12.464285714285714,
+   "register": 56.57142857142857,
+   "even": 1.0,
+   "long-short": 0.0,
+   "rhythm variety": 0.0,
+   "surprise, pitch": 2.3976336635383437,
+   "surprise, rhythm": 0.009940225494645391,
+   "density": 1.0,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "composer": "Hanel",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.6486647489300845,
+   "repeats": 0.10650975746250135,
+   "leaps": 0.1178952931975924,
+   "move": 2.5344862016863456,
+   "rising": 0.45207789490572825,
+   "leap answered": 0.3315734989648033,
+   "range": 10.533333333333331,
+   "register": 69.83333333333333,
+   "even": 0.5299518084213963,
+   "long-short": 0.11894738538946624,
+   "rhythm variety": 2.1681077070949977,
+   "surprise, pitch": 2.7659711725258713,
+   "surprise, rhythm": 1.7993087036159139,
+   "density": 2.703102977247991,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6486647489300845,
+    "others": 0.4663415552060198,
+    "auc": 0.9346300474428745
+   },
+   {
+    "measure": "repeats",
+    "value": 0.10650975746250135,
+    "others": 0.24636842900915368,
+    "auc": 0.14085725886095193
+   },
+   {
+    "measure": "move",
+    "value": 2.5344862016863456,
+    "others": 2.9824293797377255,
+    "auc": 0.16907005608330036
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 7.3,
+    "works": 4,
+    "per_1000": 11.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-006_hanel--missae-kirie-agnus.krn",
+      "label": "Missae Kirie, Agnus, movement 6: Adagio (PL-CZ II-87, kern)",
+      "bar": 27,
+      "notes": "G4 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-001_hanel--missae-kirie-kirie.krn",
+      "label": "Missae Kirie, Kirie, movement 1: Moderato. (PL-CZ II-87, kern)",
+      "bar": 12,
+      "notes": "G4 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-003_hanel--missae-kirie-credo.krn",
+      "label": "Missae Kirie, Credo, movement 3: Maestoso (PL-CZ II-87, kern)",
+      "bar": 33,
+      "notes": "Bb4 D5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 2,
+    "per_1000": 11.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-006_hanel--missae-kirie-agnus.krn",
+      "label": "Missae Kirie, Agnus, movement 6: Adagio (PL-CZ II-87, kern)",
+      "bar": 18,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-001_hanel--missae-kirie-kirie.krn",
+      "label": "Missae Kirie, Kirie, movement 1: Moderato. (PL-CZ II-87, kern)",
+      "bar": 3,
+      "notes": "C5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 9.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-006_hanel--missae-kirie-agnus.krn",
+      "label": "Missae Kirie, Agnus, movement 6: Adagio (PL-CZ II-87, kern)",
+      "bar": 12,
+      "notes": "A4 G4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-001_hanel--missae-kirie-kirie.krn",
+      "label": "Missae Kirie, Kirie, movement 1: Moderato. (PL-CZ II-87, kern)",
+      "bar": 6,
+      "notes": "A4 G4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 5,
+    "per_1000": 19.6,
+    "others_per_1000": 2.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-006_hanel--missae-kirie-agnus.krn",
+      "label": "Missae Kirie, Agnus, movement 6: Adagio (PL-CZ II-87, kern)",
+      "bar": 12,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-005_hanel--missae-kirie-benedictus.krn",
+      "label": "Missae Kirie, Benedictus, movement 5: Andantina (PL-CZ II-87, kern)",
+      "bar": 3,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-003_hanel--missae-kirie-credo.krn",
+      "label": "Missae Kirie, Credo, movement 3: Maestoso (PL-CZ II-87, kern)",
+      "bar": 8,
+      "notes": "Eb5 D5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 9.8,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-006_hanel--missae-kirie-agnus.krn",
+      "label": "Missae Kirie, Agnus, movement 6: Adagio (PL-CZ II-87, kern)",
+      "bar": 23,
+      "notes": "E4 D4 C#4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-001_hanel--missae-kirie-kirie.krn",
+      "label": "Missae Kirie, Kirie, movement 1: Moderato. (PL-CZ II-87, kern)",
+      "bar": 8,
+      "notes": "E4 D4 C#4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--005-002_hanel--missae-kirie-gloria.krn",
+      "label": "Missae Kirie, Gloria, movement 2: Allegro. (PL-CZ II-87, kern)",
+      "bar": 9,
+      "notes": "A4 G4 F#4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 547,
+   "composers": 37
+  }
+ }
+]

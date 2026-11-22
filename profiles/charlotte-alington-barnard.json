@@ -1,0 +1,246 @@
+[
+ {
+  "composer": "Charlotte Alington Barnard",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.3934759368601608,
+   "repeats": 0.23131522540525326,
+   "leaps": 0.185756763919963,
+   "move": 3.3670297192251297,
+   "rising": 0.44538655472026334,
+   "leap answered": 0.25298891719944355,
+   "range": 12.858333333333333,
+   "register": 69.58333333333333,
+   "even": 0.4369561163690292,
+   "long-short": 0.04200991188840548,
+   "rhythm variety": 2.019345975126599,
+   "surprise, pitch": 2.155167952402682,
+   "surprise, rhythm": 1.2398991387358154,
+   "density": 5.778245568803221,
+   "lines": 3.1666666666666665
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.04200991188840548,
+    "others": 0.15175623670451582,
+    "auc": 0.15854542156063922
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.019345975126599,
+    "others": 2.5337967833375705,
+    "auc": 0.16247349588865437
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.7,
+    "works": 2,
+    "per_1000": 5.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Milly’s_Faith/lc6622814.mxl",
+      "label": "Milly’s Faith (OpenScore)",
+      "bar": 10,
+      "notes": "A4 G4 G4 E4"
+     },
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/The_Brook/lc6586675.mxl",
+      "label": "The Brook (OpenScore)",
+      "bar": 6,
+      "notes": "Bb4 Ab4 Ab4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     9
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 3,
+    "per_1000": 5.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Five_o’clock_in_the_morning/lc6623145.mxl",
+      "label": "Five o’clock in the morning (OpenScore)",
+      "bar": 31,
+      "notes": "E4 D4 D4 B4"
+     },
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/The_Brook/lc6586675.mxl",
+      "label": "The Brook (OpenScore)",
+      "bar": 22,
+      "notes": "F4 Eb4 Eb4 C5"
+     },
+     {
+      "work": "mutopia:Claribel/oldsong",
+      "label": "I Cannot Sing the Old Songs (Mutopia)",
+      "bar": 16,
+      "notes": "E4 D4 D4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 7.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Five_o’clock_in_the_morning/lc6623145.mxl",
+      "label": "Five o’clock in the morning (OpenScore)",
+      "bar": 21,
+      "notes": "Eb4 E4 F#4 G4"
+     },
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Strangers_Yet/lc6585571.mxl",
+      "label": "Strangers Yet (OpenScore)",
+      "bar": 13,
+      "notes": "F#4 G4 A4 Bb4"
+     },
+     {
+      "work": "mutopia:Claribel/oldsong",
+      "label": "I Cannot Sing the Old Songs (Mutopia)",
+      "bar": 17,
+      "notes": "B4 C5 D5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 5.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Five_o’clock_in_the_morning/lc6623145.mxl",
+      "label": "Five o’clock in the morning (OpenScore)",
+      "bar": 22,
+      "notes": "E5 D5 E5 D5"
+     },
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/The_Brook/lc6586675.mxl",
+      "label": "The Brook (OpenScore)",
+      "bar": 21,
+      "notes": "Bb4 Ab4 Bb4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -8,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 5.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Milly’s_Faith/lc6622814.mxl",
+      "label": "Milly’s Faith (OpenScore)",
+      "bar": 27,
+      "notes": "Bb4 Bb4 D4 E4"
+     },
+     {
+      "work": "mutopia:Claribel/oldsong",
+      "label": "I Cannot Sing the Old Songs (Mutopia)",
+      "bar": 3,
+      "notes": "C5 C5 E4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 6.3,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Milly’s_Faith/lc6622814.mxl",
+      "label": "Milly’s Faith (OpenScore)",
+      "bar": 9,
+      "notes": "A4 A4 A4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Strangers_Yet/lc6585571.mxl",
+      "label": "Strangers Yet (OpenScore)",
+      "bar": 27,
+      "notes": "C5 C5 C5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Barnard,_Charlotte_Alington/_/Five_o’clock_in_the_morning/lc6623145.mxl",
+      "label": "Five o’clock in the morning (OpenScore)",
+      "bar": 45,
+      "notes": "Eb4 Eb4 Eb4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1082,
+   "composers": 97
+  }
+ }
+]

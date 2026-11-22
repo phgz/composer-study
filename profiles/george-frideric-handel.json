@@ -1,0 +1,1225 @@
+[
+ {
+  "composer": "George Frideric Handel",
+  "kind": "air",
+  "forces": "chamber",
+  "period": "Hamburg and Italy",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.41468184104627764,
+   "repeats": 0.007621422982338476,
+   "leaps": 0.489274536105522,
+   "move": 6.265751173520132,
+   "rising": 0.5115271712468132,
+   "leap answered": 0.0827889595103578,
+   "range": 18.466666666666658,
+   "register": 70.33333333333333,
+   "even": 0.7978321265266038,
+   "long-short": 0.02369013885649589,
+   "rhythm variety": 1.1731244724717105,
+   "surprise, pitch": 2.5321201228482875,
+   "surprise, rhythm": 0.9404122326210866,
+   "density": 5.41765873015873,
+   "lines": 4.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 48,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "George Frideric Handel",
+  "kind": "air",
+  "forces": "chamber",
+  "period": "London",
+  "era": "Baroque",
+  "works": 17,
+  "values": {
+   "steps": 0.5201223321307564,
+   "repeats": 0.11796477800292615,
+   "leaps": 0.23745258494166344,
+   "move": 3.8451044598420054,
+   "rising": 0.4567138640600746,
+   "leap answered": 0.2414534736552721,
+   "range": 17.641176470588235,
+   "register": 72.05882352941177,
+   "even": 0.6571707638943779,
+   "long-short": 0.054439250170491386,
+   "rhythm variety": 1.838695473843965,
+   "surprise, pitch": 2.7044692114617344,
+   "surprise, rhythm": 1.3189573725925727,
+   "density": 5.613698164676921,
+   "lines": 4.176470588235294
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.23745258494166344,
+    "others": 0.1688460214854696,
+    "auc": 0.797405731539898
+   },
+   {
+    "measure": "move",
+    "value": 3.8451044598420054,
+    "others": 2.9923450409589907,
+    "auc": 0.8481749623033134
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 5,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/HWV19/AgitatoDaFiereTempeste",
+      "label": "Agitato da fiere tempeste , Aria from Riccardo primo (HWV 19) (Mutopia)",
+      "bar": 10,
+      "notes": "A4 Bb4 C5 F4"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV22/LaGloriaSola",
+      "label": "La gloria sola , Aria from Admeto (HWV 22) (Mutopia)",
+      "bar": 34,
+      "notes": "B5 C6 D6 G5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV37/CorriVolaATuoiTrofei",
+      "label": "Corri, vola, a' tuoi trofei , Aria from Giustino (HWV 37) (Mutopia)",
+      "bar": 20,
+      "notes": "D4 Eb4 F4 Bb3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 48,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "George Frideric Handel",
+  "kind": "air",
+  "forces": "voices and instruments",
+  "period": "London",
+  "era": "Baroque",
+  "works": 10,
+  "values": {
+   "steps": 0.5525360295927588,
+   "repeats": 0.0785002279263761,
+   "leaps": 0.23981962621447295,
+   "move": 3.601064903703334,
+   "rising": 0.45678534579902036,
+   "leap answered": 0.3231244943302819,
+   "range": 16.699999999999996,
+   "register": 72.7,
+   "even": 0.4563783400221809,
+   "long-short": 0.23784073789562962,
+   "rhythm variety": 2.4049230774967953,
+   "surprise, pitch": 2.5986734026500766,
+   "surprise, rhythm": 1.5121963735028463,
+   "density": 4.246036021329237,
+   "lines": 2.9
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.23784073789562962,
+    "others": 0.09657083051643454,
+    "auc": 0.7869743589477088
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 48,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "George Frideric Handel",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 9,
+  "values": {
+   "steps": 0.6749731504987958,
+   "repeats": 0.07111012516236867,
+   "leaps": 0.17293952577253843,
+   "move": 2.7598954627190135,
+   "rising": 0.45077439665499164,
+   "leap answered": 0.48381433381433386,
+   "range": 12.244444444444444,
+   "register": 72.88888888888889,
+   "even": 0.6528167505015872,
+   "long-short": 0.039383582927864196,
+   "rhythm variety": 1.6033518721547937,
+   "surprise, pitch": 2.647911895283424,
+   "surprise, rhythm": 1.3619235299311077,
+   "density": 4.413986423416925,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.48381433381433386,
+    "others": 0.32388108698535983,
+    "auc": 0.7592135025401388
+   },
+   {
+    "measure": "range",
+    "value": 12.244444444444444,
+    "others": 15.261379176710072,
+    "auc": 0.19883536213807518
+   },
+   {
+    "measure": "long-short",
+    "value": 0.039383582927864196,
+    "others": 0.13461243431744568,
+    "auc": 0.24092376766739548
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 6.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/Aylesford/14-menueti",
+      "label": "Menuet I (Mutopia)",
+      "bar": 13,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/15-menuetii",
+      "label": "Menuet II (Trio) (Mutopia)",
+      "bar": 12,
+      "notes": "F5 Eb5 C#5 C5"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/12-menuet",
+      "label": "Menuet (Mutopia)",
+      "bar": 15,
+      "notes": "F#5 E5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 4,
+    "per_1000": 6.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/Aylesford/09-menueti",
+      "label": "Menuet I (Mutopia)",
+      "bar": 7,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/14-menueti",
+      "label": "Menuet I (Mutopia)",
+      "bar": 11,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/12-menuet",
+      "label": "Menuet (Mutopia)",
+      "bar": 26,
+      "notes": "F#5 G5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 7,
+    "per_1000": 12.7,
+    "others_per_1000": 2.8,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/Aylesford/14-menueti",
+      "label": "Menuet I (Mutopia)",
+      "bar": 5,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/12-menuet",
+      "label": "Menuet (Mutopia)",
+      "bar": 18,
+      "notes": "G5 F#5 E5 D5"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/18-passepied",
+      "label": "Passepied (et Menuet) (Mutopia)",
+      "bar": 1,
+      "notes": "D5 C#5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 6,
+    "per_1000": 11.5,
+    "others_per_1000": 2.5,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/Aylesford/19-menuet",
+      "label": "Menuet (Trio) (Mutopia)",
+      "bar": 3,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/14-menueti",
+      "label": "Menuet I (Mutopia)",
+      "bar": 13,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/15-menuetii",
+      "label": "Menuet II (Trio) (Mutopia)",
+      "bar": 12,
+      "notes": "Eb5 C#5 C5 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 123,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "George Frideric Handel",
+  "kind": "minuet",
+  "forces": "keyboard",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 7,
+  "values": {
+   "steps": 0.6906673963432262,
+   "repeats": 0.060957297595896395,
+   "leaps": 0.16810221031608372,
+   "move": 2.7372673285558036,
+   "rising": 0.44068965834053175,
+   "leap answered": 0.5244279529993816,
+   "range": 11.964285714285712,
+   "register": 73.0,
+   "even": 0.653138444571744,
+   "long-short": 0.035729202894831606,
+   "rhythm variety": 1.5773887314794415,
+   "surprise, pitch": 2.6352235328963887,
+   "surprise, rhythm": 1.4443479974822684,
+   "density": 4.464075127768003,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.5244279529993816,
+    "others": 0.343832536521004,
+    "auc": 0.7531901649548709
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.4443479974822684,
+    "others": 1.0517605729953052,
+    "auc": 0.7905384375972612
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.3,
+    "works": 4,
+    "per_1000": 10.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/Aylesford/09-menueti",
+      "label": "Menuet I (Mutopia)",
+      "bar": 7,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/14-menueti",
+      "label": "Menuet I (Mutopia)",
+      "bar": 11,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/12-menuet",
+      "label": "Menuet (Mutopia)",
+      "bar": 26,
+      "notes": "F#5 G5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.2,
+    "works": 4,
+    "per_1000": 10.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/Aylesford/14-menueti",
+      "label": "Menuet I (Mutopia)",
+      "bar": 13,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/15-menuetii",
+      "label": "Menuet II (Trio) (Mutopia)",
+      "bar": 12,
+      "notes": "F5 Eb5 C#5 C5"
+     },
+     {
+      "work": "mutopia:HandelGF/Aylesford/12-menuet",
+      "label": "Menuet (Mutopia)",
+      "bar": 15,
+      "notes": "F#5 E5 D5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 35,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "George Frideric Handel",
+  "kind": "sonata",
+  "forces": "chamber",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 13,
+  "values": {
+   "steps": 0.5540429804874221,
+   "repeats": 0.10362503198788114,
+   "leaps": 0.20573061515364166,
+   "move": 3.1451023335332975,
+   "rising": 0.4647773601780679,
+   "leap answered": 0.3652454778199455,
+   "range": 12.576923076923075,
+   "register": 77.57692307692308,
+   "even": 0.46044002476314244,
+   "long-short": 0.1766657272994253,
+   "rhythm variety": 2.449722380464559,
+   "surprise, pitch": 2.813733829272756,
+   "surprise, rhythm": 1.6531877748421226,
+   "density": 3.0453709593686846,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 12.576923076923075,
+    "others": 15.287213621080614,
+    "auc": 0.21083473177069242
+   },
+   {
+    "measure": "register",
+    "value": 77.57692307692308,
+    "others": 73.47732426303855,
+    "auc": 0.8386549137780664
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/HWV360/Sonata#2",
+      "label": "Sonata II, from Op. 1 (HWV 360), movement 2: Andante (Mutopia)",
+      "bar": 44,
+      "notes": "C6 C6 Bb5 A5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV369/Sonata#4",
+      "label": "Sonata XI, from Op. 1 (HWV 369), movement 4: Allegro (Mutopia)",
+      "bar": 16,
+      "notes": "D6 D6 C6 B5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV365/Sonata#1",
+      "label": "Sonata VII, from Op. 1 (HWV 365), movement 1: Larghetto (Mutopia)",
+      "bar": 17,
+      "notes": "G5 G5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/HWV365/Sonata#2",
+      "label": "Sonata VII, from Op. 1 (HWV 365), movement 2: Allegro (Mutopia)",
+      "bar": 17,
+      "notes": "C6 A5 G5 G5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV365/Sonata#5",
+      "label": "Sonata VII, from Op. 1 (HWV 365), movement 5: Allegro (Mutopia)",
+      "bar": 14,
+      "notes": "G5 E5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 2.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/HWV365/Sonata#4",
+      "label": "Sonata VII, from Op. 1 (HWV 365), movement 4: Tempo di Gavotti (Mutopia)",
+      "bar": 11,
+      "notes": "A4 B4 C5 C5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV365/Sonata#2",
+      "label": "Sonata VII, from Op. 1 (HWV 365), movement 2: Allegro (Mutopia)",
+      "bar": 88,
+      "notes": "D5 E5 F5 F5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV369/Sonata#1",
+      "label": "Sonata XI, from Op. 1 (HWV 369), movement 1: Larghetto (Mutopia)",
+      "bar": 43,
+      "notes": "A4 B4 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 2.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/HWV365/Sonata#1",
+      "label": "Sonata VII, from Op. 1 (HWV 365), movement 1: Larghetto (Mutopia)",
+      "bar": 6,
+      "notes": "E5 D5 C5 C5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV360/Sonata#1",
+      "label": "Sonata II, from Op. 1 (HWV 360), movement 1: Larghetto (Mutopia)",
+      "bar": 5,
+      "notes": "D5 C5 Bb4 Bb4"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV360/Sonata#2",
+      "label": "Sonata II, from Op. 1 (HWV 360), movement 2: Andante (Mutopia)",
+      "bar": 42,
+      "notes": "D5 C5 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 5,
+    "per_1000": 3.0,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "mutopia:HandelGF/HWV360/Sonata#1",
+      "label": "Sonata II, from Op. 1 (HWV 360), movement 1: Larghetto (Mutopia)",
+      "bar": 10,
+      "notes": "E5 E5 D5 D5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV360/Sonata#4",
+      "label": "Sonata II, from Op. 1 (HWV 360), movement 4: Presto (Mutopia)",
+      "bar": 18,
+      "notes": "D5 D5 C5 C5"
+     },
+     {
+      "work": "mutopia:HandelGF/HWV365/Sonata#2",
+      "label": "Sonata VII, from Op. 1 (HWV 365), movement 2: Allegro (Mutopia)",
+      "bar": 48,
+      "notes": "A5 A5 G5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 263,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "George Frideric Handel",
+  "kind": "suite",
+  "forces": "keyboard",
+  "period": "London",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.4833811274646174,
+   "repeats": 0.058522802332705626,
+   "leaps": 0.3507239840269875,
+   "move": 3.9802649070990963,
+   "rising": 0.44629976610167366,
+   "leap answered": 0.3544573588242885,
+   "range": 13.958333333333334,
+   "register": 68.83333333333333,
+   "even": 0.7591334568837526,
+   "long-short": 0.01126984126984127,
+   "rhythm variety": 1.061519505309323,
+   "surprise, pitch": 2.3068174131146866,
+   "surprise, rhythm": 1.0389442334289947,
+   "density": 7.888146167557932,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.3507239840269875,
+    "others": 0.18544363213685028,
+    "auc": 0.8046666666666665
+   },
+   {
+    "measure": "move",
+    "value": 3.9802649070990963,
+    "others": 2.9970389015292658,
+    "auc": 0.7906666666666666
+   },
+   {
+    "measure": "register",
+    "value": 68.83333333333333,
+    "others": 72.576,
+    "auc": 0.10066666666666668
+   },
+   {
+    "measure": "long-short",
+    "value": 0.01126984126984127,
+    "others": 0.09171668907585048,
+    "auc": 0.14933333333333335
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.3068174131146866,
+    "others": 2.7791589690980807,
+    "auc": 0.21733333333333335
+   },
+   {
+    "measure": "density",
+    "value": 7.888146167557932,
+    "others": 4.583645305829206,
+    "auc": 0.9586666666666667
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     9,
+     -9,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 9.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var1.notes.tsv",
+      "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML)",
+      "bar": 0,
+      "notes": "B3 Ab4 B3 F#4"
+     },
+     {
+      "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+      "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+      "bar": 6,
+      "notes": "E4 C#5 E4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -9,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 9.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var1.notes.tsv",
+      "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML)",
+      "bar": 0,
+      "notes": "Ab4 B3 F#4 B3"
+     },
+     {
+      "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+      "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+      "bar": 6,
+      "notes": "C#5 E4 B4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 125,
+   "composers": 2
+  },
+  "harmony": {
+   "works": 6,
+   "by": {
+    "DCML": 6
+   },
+   "values": {
+    "chords a bar": 6.096866096866098,
+    "tonic and dominant": 0.6227443280918443,
+    "sevenths": 0.1197529330542605,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.1747806329725277,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.0,
+    "inversions": 0.42381910876687395,
+    "keys a 10 bars": 0.0,
+    "away from home": 0.0,
+    "cadences a 10 bars": 4.843304843304843,
+    "perfect cadences": 0.686111111111111,
+    "half cadences": 0.2472222222222222,
+    "deceptive or evaded": 0.0,
+    "changes": 0.05448423888903423,
+    "non-chord tones": 0.17783319128348365,
+    "struck dissonance": 0.15734989648033126,
+    "resolved by step": 0.7184122224601985,
+    "suspensions": 0.0
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 6.096866096866098,
+     "others": 3.3205351162908525,
+     "auc": 0.9597701149425287
+    },
+    {
+     "measure": "tonic and dominant",
+     "value": 0.6227443280918443,
+     "others": 0.4544307268992965,
+     "auc": 0.9396551724137931
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.1197529330542605,
+     "others": 0.252781376971306,
+     "auc": 0.15517241379310345
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.0,
+     "others": 0.031156032799439015,
+     "auc": 0.13793103448275865
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.0,
+     "others": 0.6752978162135111,
+     "auc": 0.1724137931034483
+    },
+    {
+     "measure": "away from home",
+     "value": 0.0,
+     "others": 0.23794167943523925,
+     "auc": 0.1724137931034483
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 4.843304843304843,
+     "others": 1.8856115818096384,
+     "auc": 1.0
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I6",
+      "IV",
+      "I6"
+     ],
+     "z": 4.4,
+     "works": 3,
+     "per_1000": 33.7,
+     "others_per_1000": 1.5,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var5.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I6",
+      "IV"
+     ],
+     "z": 3.9,
+     "works": 3,
+     "per_1000": 22.5,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var5.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 6
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "viio6",
+      "I"
+     ],
+     "z": 3.8,
+     "works": 4,
+     "per_1000": 26.2,
+     "others_per_1000": 1.3,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var1.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii6/V",
+      "V/V",
+      "I/V"
+     ],
+     "z": 3.7,
+     "works": 4,
+     "per_1000": 26.2,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var1.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var5.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML)",
+       "bar": 1
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I6",
+      "viio6"
+     ],
+     "z": 3.4,
+     "works": 4,
+     "per_1000": 18.7,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var1.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML)",
+       "bar": 5
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 87,
+    "composers": 1,
+    "progressions_by": "DCML",
+    "progressions_works": 87
+   }
+  }
+ },
+ {
+  "composer": "George Frideric Handel",
+  "kind": "variations",
+  "forces": "keyboard",
+  "period": "London",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.49255735295754094,
+   "repeats": 0.05772736279924675,
+   "leaps": 0.35336878083238493,
+   "move": 4.029651221852249,
+   "rising": 0.44489305265534174,
+   "leap answered": 0.3809043861447018,
+   "range": 14.35,
+   "register": 69.0,
+   "even": 0.7767829330706297,
+   "long-short": 0.013523809523809525,
+   "rhythm variety": 1.0129064992817576,
+   "surprise, pitch": 2.2529525860118054,
+   "surprise, rhythm": 0.985089461130426,
+   "density": 8.174866310160429,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.35336878083238493,
+    "others": 0.15719278605293785,
+    "auc": 0.8663082437169166
+   },
+   {
+    "measure": "move",
+    "value": 4.029651221852249,
+    "others": 2.8397902831124893,
+    "auc": 0.8713261648271512
+   },
+   {
+    "measure": "register",
+    "value": 69.0,
+    "others": 71.83333333291941,
+    "auc": 0.18530465956730593
+   },
+   {
+    "measure": "even",
+    "value": 0.7767829330706297,
+    "others": 0.562356479621633,
+    "auc": 0.7878136200603351
+   },
+   {
+    "measure": "long-short",
+    "value": 0.013523809523809525,
+    "others": 0.1250506727797091,
+    "auc": 0.10896057351609174
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.0129064992817576,
+    "others": 2.1497264351401677,
+    "auc": 0.1465949820808558
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2529525860118054,
+    "others": 2.7439089828223224,
+    "auc": 0.22616487456599116
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.985089461130426,
+    "others": 1.5705331444552952,
+    "auc": 0.24301075268683675
+   },
+   {
+    "measure": "density",
+    "value": 8.174866310160429,
+    "others": 4.684415577378462,
+    "auc": 0.9634408601810052
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 40,
+   "composers": 2
+  },
+  "harmony": {
+   "works": 5,
+   "by": {
+    "DCML": 5
+   },
+   "values": {
+    "chords a bar": 6.182905982905983,
+    "tonic and dominant": 0.6218029976317819,
+    "sevenths": 0.13193881378275968,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.16267793603762148,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.0,
+    "inversions": 0.41838685208887616,
+    "keys a 10 bars": 0.0,
+    "away from home": 0.0,
+    "cadences a 10 bars": 4.9230769230769225,
+    "perfect cadences": 0.6733333333333332,
+    "half cadences": 0.24666666666666665,
+    "deceptive or evaded": 0.0,
+    "changes": 0.04577324352958618,
+    "non-chord tones": 0.1788319283056125,
+    "struck dissonance": 0.021739130434782608,
+    "resolved by step": 0.791904047976012,
+    "suspensions": 0.0
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 6.182905982905983,
+     "others": 3.0503736446750986,
+     "auc": 0.9681697612732096
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.13193881378275968,
+     "others": 0.260827342840182,
+     "auc": 0.19796640141467728
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.0,
+     "others": 0.022891902938161564,
+     "auc": 0.219053934571176
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.0,
+     "others": 0.9168319393108562,
+     "auc": 0.08429118773946358
+    },
+    {
+     "measure": "away from home",
+     "value": 0.0,
+     "others": 0.33474871230780057,
+     "auc": 0.08429118773946358
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 4.9230769230769225,
+     "others": 2.0716928104801027,
+     "auc": 0.9845410628019323
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I6",
+      "IV",
+      "I6"
+     ],
+     "z": 3.2,
+     "works": 2,
+     "per_1000": 26.4,
+     "others_per_1000": 1.9,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var5.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 5
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 243,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 216
+   }
+  }
+ }
+]

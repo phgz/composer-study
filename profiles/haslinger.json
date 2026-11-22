@@ -1,0 +1,233 @@
+[
+ {
+  "composer": "Haslinger",
+  "kind": "mass",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 8,
+  "values": {
+   "steps": 0.484811395162837,
+   "repeats": 0.35599298749796315,
+   "leaps": 0.06662467383186362,
+   "move": 2.3307371319810866,
+   "rising": 0.49007906791639544,
+   "leap answered": 0.2937184343434343,
+   "range": 9.524999999999995,
+   "register": 64.25,
+   "even": 0.4597186094536103,
+   "long-short": 0.11351633257378478,
+   "rhythm variety": 2.515544689327949,
+   "surprise, pitch": 2.4466408855266186,
+   "surprise, rhythm": 1.8072504090569375,
+   "density": 3.2749542105996508,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.2,
+    "works": 4,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-003_haslinger--msza-graduale.krn",
+      "label": "Msza, Graduale, movement 3 (PL-Kk Kk.I.382, kern)",
+      "bar": 20,
+      "notes": "F4 F#4 G4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-008_haslinger--msza-agnus.krn",
+      "label": "Msza, Agnus, movement 8 (PL-Kk Kk.I.382, kern)",
+      "bar": 34,
+      "notes": "D4 Eb4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-002_haslinger--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-Kk Kk.I.382, kern)",
+      "bar": 74,
+      "notes": "D4 Eb4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 3.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-002_haslinger--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-Kk Kk.I.382, kern)",
+      "bar": 81,
+      "notes": "D4 Eb4 F4 Eb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-008_haslinger--msza-agnus.krn",
+      "label": "Msza, Agnus, movement 8 (PL-Kk Kk.I.382, kern)",
+      "bar": 41,
+      "notes": "D4 Eb4 F4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-007_haslinger--msza-benedictus.krn",
+      "label": "Msza, Benedictus, movement 7 (PL-Kk Kk.I.382, kern)",
+      "bar": 41,
+      "notes": "Eb4 Eb4 Eb4 Eb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-006_haslinger--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 6 (PL-Kk Kk.I.382, kern)",
+      "bar": 20,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-004_haslinger--msza-credo.krn",
+      "label": "Msza, Credo, movement 4 (PL-Kk Kk.I.382, kern)",
+      "bar": 37,
+      "notes": "F4 F4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 3.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-002_haslinger--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-Kk Kk.I.382, kern)",
+      "bar": 81,
+      "notes": "Bb3 D4 Eb4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-008_haslinger--msza-agnus.krn",
+      "label": "Msza, Agnus, movement 8 (PL-Kk Kk.I.382, kern)",
+      "bar": 41,
+      "notes": "Bb3 D4 Eb4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -4
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 3.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-008_haslinger--msza-agnus.krn",
+      "label": "Msza, Agnus, movement 8 (PL-Kk Kk.I.382, kern)",
+      "bar": 41,
+      "notes": "F4 Eb4 D4 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-002_haslinger--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-Kk Kk.I.382, kern)",
+      "bar": 81,
+      "notes": "F4 Eb4 D4 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.9,
+    "works": 5,
+    "per_1000": 4.1,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-004_haslinger--msza-credo.krn",
+      "label": "Msza, Credo, movement 4 (PL-Kk Kk.I.382, kern)",
+      "bar": 48,
+      "notes": "Bb3 Bb3 C4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-007_haslinger--msza-benedictus.krn",
+      "label": "Msza, Benedictus, movement 7 (PL-Kk Kk.I.382, kern)",
+      "bar": 30,
+      "notes": "C4 C4 D4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-382--079-002_haslinger--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-Kk Kk.I.382, kern)",
+      "bar": 22,
+      "notes": "Bb3 Bb3 C4 C4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 114,
+   "composers": 9
+  }
+ }
+]

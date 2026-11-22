@@ -1,0 +1,558 @@
+[
+ {
+  "composer": "Sergei Rachmaninoff",
+  "kind": "prelude",
+  "forces": "keyboard",
+  "period": "Russia",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.38702826901676424,
+   "repeats": 0.1333070117607542,
+   "leaps": 0.3305727040943604,
+   "move": 4.871294362760091,
+   "rising": 0.4779765878699881,
+   "leap answered": 0.17763559289761396,
+   "range": 27.787499999999998,
+   "register": 74.25,
+   "even": 0.6679827497474784,
+   "long-short": 0.07768077688183389,
+   "rhythm variety": 1.8450453485324954,
+   "surprise, pitch": 2.6163981151879803,
+   "surprise, rhythm": 1.1337369092820497,
+   "density": 6.877236109921825,
+   "lines": 2.25
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.3305727040943604,
+    "others": 0.21770701030103715,
+    "auc": 0.7523242116087139
+   },
+   {
+    "measure": "move",
+    "value": 4.871294362760091,
+    "others": 3.436023203585553,
+    "auc": 0.8045639802501863
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 3.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "asap:Rachmaninoff/Preludes_op_32/10/xml_score.musicxml",
+      "label": "Prelude, Op. 32 No. 10 (ASAP)",
+      "bar": 22,
+      "notes": "F#4 F#4 F#4 F#4"
+     },
+     {
+      "work": "mutopia:RachmaninoffS/O23/rach-prelude23-10",
+      "label": "Prelude Op. 23, No. 10 (Opus 23, No. 10) (Mutopia)",
+      "bar": 1,
+      "notes": "C#5 C#5 C#5 C#5"
+     },
+     {
+      "work": "mutopia:RachmaninoffS/O23/rach-prelude23-01",
+      "label": "Prelude Op. 23, No. 1 (Op. 23, No 1) (Mutopia)",
+      "bar": 39,
+      "notes": "F#5 F#5 F#5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "asap:Rachmaninoff/Preludes_op_32/10/xml_score.musicxml",
+      "label": "Prelude, Op. 32 No. 10 (ASAP)",
+      "bar": 22,
+      "notes": "F#4 F#4 F#4 F#4"
+     },
+     {
+      "work": "mutopia:RachmaninoffS/O23/rach-prelude23-10",
+      "label": "Prelude Op. 23, No. 10 (Opus 23, No. 10) (Mutopia)",
+      "bar": 1,
+      "notes": "C#5 C#5 C#5 C#5"
+     },
+     {
+      "work": "mutopia:RachmaninoffS/O23/rach-prelude23-01",
+      "label": "Prelude Op. 23, No. 1 (Op. 23, No 1) (Mutopia)",
+      "bar": 39,
+      "notes": "F#5 F#5 F#5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "asap:Rachmaninoff/Preludes_op_32/5/xml_score.musicxml",
+      "label": "Prelude, Op. 32 No. 5 (ASAP)",
+      "bar": 7,
+      "notes": "B5 F#5 E5 F#5"
+     },
+     {
+      "work": "asap:Rachmaninoff/Preludes_op_32/10/xml_score.musicxml",
+      "label": "Prelude, Op. 32 No. 10 (ASAP)",
+      "bar": 47,
+      "notes": "B5 F#5 E5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "asap:Rachmaninoff/Preludes_op_32/10/xml_score.musicxml",
+      "label": "Prelude, Op. 32 No. 10 (ASAP)",
+      "bar": 22,
+      "notes": "F#4 F#4 F#4 F#4"
+     },
+     {
+      "work": "mutopia:RachmaninoffS/O23/rach-prelude23-10",
+      "label": "Prelude Op. 23, No. 10 (Opus 23, No. 10) (Mutopia)",
+      "bar": 1,
+      "notes": "C#5 C#5 C#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "asap:Rachmaninoff/Preludes_op_32/5/xml_score.musicxml",
+      "label": "Prelude, Op. 32 No. 5 (ASAP)",
+      "bar": 17,
+      "notes": "D5 B4 A4 B4"
+     },
+     {
+      "work": "asap:Rachmaninoff/Preludes_op_32/10/xml_score.musicxml",
+      "label": "Prelude, Op. 32 No. 10 (ASAP)",
+      "bar": 47,
+      "notes": "E6 C#6 B5 C#6"
+     },
+     {
+      "work": "mutopia:RachmaninoffS/O23/rach-prelude23-01",
+      "label": "Prelude Op. 23, No. 1 (Op. 23, No 1) (Mutopia)",
+      "bar": 38,
+      "notes": "A4 F#4 E4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "asap:Rachmaninoff/Preludes_op_32/10/xml_score.musicxml",
+      "label": "Prelude, Op. 32 No. 10 (ASAP)",
+      "bar": 47,
+      "notes": "B5 F#5 B5 F#5"
+     },
+     {
+      "work": "mutopia:RachmaninoffS/O23/rach-prelude23-01",
+      "label": "Prelude Op. 23, No. 1 (Op. 23, No 1) (Mutopia)",
+      "bar": 35,
+      "notes": "F#5 C#5 F#5 C#5"
+     },
+     {
+      "work": "mutopia:RachmaninoffS/O23/rach-prelude23-08",
+      "label": "Prelude Op. 23, No. 8 (Mutopia)",
+      "bar": 69,
+      "notes": "C#5 Ab4 C#5 Ab4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 302,
+   "composers": 30
+  }
+ },
+ {
+  "composer": "Sergei Rachmaninoff",
+  "kind": "variations",
+  "forces": "keyboard",
+  "period": "exile",
+  "era": "1890 to 1950",
+  "works": 22,
+  "values": {
+   "steps": 0.3647401893895055,
+   "repeats": 0.07959530725928693,
+   "leaps": 0.3233202029881892,
+   "move": 4.691486984136836,
+   "rising": 0.5403248821433622,
+   "leap answered": 0.11680522037763832,
+   "range": 20.806818181818183,
+   "register": 70.47727272727273,
+   "even": 0.49634897619443574,
+   "long-short": 0.10724807406794025,
+   "rhythm variety": 2.001221031508717,
+   "surprise, pitch": 2.4914583212199886,
+   "surprise, rhythm": 1.1976804723845322,
+   "density": 6.635142748326373,
+   "lines": 2.090909090909091
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3647401893895055,
+    "others": 0.5339939209041591,
+    "auc": 0.2361047966916687
+   },
+   {
+    "measure": "rising",
+    "value": 0.5403248821433622,
+    "others": 0.4736599839294862,
+    "auc": 0.7713566283789871
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.11680522037763832,
+    "others": 0.26036587897367824,
+    "auc": 0.2477425360624177
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     0,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_01a.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 1: Theme (DCML)",
+      "bar": 1,
+      "notes": "E5 C#5 C#5 D5"
+     },
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_14.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 16: Variation 14 (DCML)",
+      "bar": 1,
+      "notes": "Eb4 C4 C4 C#4"
+     },
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_01b.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 2: Variation 1 (DCML)",
+      "bar": 13,
+      "notes": "G4 E4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 5,
+    "per_1000": 5.2,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_11.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 12: Variation 11 (DCML)",
+      "bar": 10,
+      "notes": "A3 Bb3 B3 C4"
+     },
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_13b.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 15: Intermezzo (DCML)",
+      "bar": 4,
+      "notes": "C#5 D5 Eb5 E5"
+     },
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_10.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 11: Variation 10 (DCML)",
+      "bar": 3,
+      "notes": "Ab4 A4 Bb4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_08.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 9: Variation 8 (DCML)",
+      "bar": 4,
+      "notes": "F4 E4 F4 E4"
+     },
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_13a.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 14: Variation 13 (DCML)",
+      "bar": 2,
+      "notes": "F4 E4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_01a.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 1: Theme (DCML)",
+      "bar": 2,
+      "notes": "C#5 C#5 D5 D5"
+     },
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_14.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 16: Variation 14 (DCML)",
+      "bar": 2,
+      "notes": "C4 C4 C#4 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     5,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 2.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_09.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 10: Variation 9 (DCML)",
+      "bar": 1,
+      "notes": "F4 A4 D5 F5"
+     },
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_17.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 19: Variation 17 (DCML)",
+      "bar": 22,
+      "notes": "F4 A4 D5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_06.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 7: Variation 6 (DCML)",
+      "bar": 1,
+      "notes": "F5 F#5 E5 F5"
+     },
+     {
+      "work": "dcml/rachmaninoff_piano:notes/op42_13b.notes.tsv",
+      "label": "Variations on a Theme of Corelli, op. 42, movement 15: Intermezzo (DCML)",
+      "bar": 6,
+      "notes": "F4 F#4 E4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 118,
+   "composers": 26
+  },
+  "harmony": {
+   "works": 22,
+   "by": {
+    "DCML": 22
+   },
+   "values": {
+    "chords a bar": 2.7599514506559535,
+    "tonic and dominant": 0.3654352611802443,
+    "sevenths": 0.3301999791693563,
+    "diminished sevenths": 0.04564598982931725,
+    "applied chords": 0.31264644910092,
+    "augmented sixths": 0.026126973357683825,
+    "Neapolitan": 0.014326478062526809,
+    "mixture": 0.013755885910202182,
+    "inversions": 0.3614903526228034,
+    "keys a 10 bars": 0.16749235419312145,
+    "away from home": 0.04207509450061016,
+    "cadences a 10 bars": 1.1766782550971355,
+    "perfect cadences": 0.45,
+    "half cadences": 0.2708333333333333,
+    "deceptive or evaded": 0.09583333333333333,
+    "changes": 0.21601853469039362,
+    "non-chord tones": 0.23002976192893784,
+    "struck dissonance": 0.2246194124529795,
+    "resolved by step": 0.37637567432726654,
+    "suspensions": 0.004245413415098676
+   },
+   "traits": [
+    {
+     "measure": "sevenths",
+     "value": 0.3301999791693563,
+     "others": 0.6251468442485326,
+     "auc": 0.16683316683316685
+    },
+    {
+     "measure": "perfect cadences",
+     "value": 0.45,
+     "others": 0.13588127134226424,
+     "auc": 0.8156028368794328
+    },
+    {
+     "measure": "changes",
+     "value": 0.21601853469039362,
+     "others": 0.5586696018478535,
+     "auc": 0.1170912420912421
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.23002976192893784,
+     "others": 0.4019830385933911,
+     "auc": 0.23322510822510825
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 27,
+    "composers": 4,
+    "progressions_by": "DCML",
+    "progressions_works": 27
+   }
+  }
+ }
+]

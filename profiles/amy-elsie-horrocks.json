@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Amy Elsie Horrocks",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5281676468013192,
+   "repeats": 0.1387995343034879,
+   "leaps": 0.16436231395717252,
+   "move": 3.0045907112474546,
+   "rising": 0.4892442616185069,
+   "leap answered": 0.33185931715343486,
+   "range": 13.7375,
+   "register": 69.5,
+   "even": 0.5485719261581331,
+   "long-short": 0.1448058167885754,
+   "rhythm variety": 2.0635633147151298,
+   "surprise, pitch": 1.8516124037905368,
+   "surprise, rhythm": 1.158124425623065,
+   "density": 6.021061713334895,
+   "lines": 3.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 305,
+   "composers": 37
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Evelyn Faltis",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.46351194676277835,
+   "repeats": 0.2766967452923021,
+   "leaps": 0.1381195514580989,
+   "move": 2.9305385218377515,
+   "rising": 0.47889165628891656,
+   "leap answered": 0.3839635854341737,
+   "range": 12.5125,
+   "register": 71.0,
+   "even": 0.39007734431042823,
+   "long-short": 0.13151921408671569,
+   "rhythm variety": 2.851619497533926,
+   "surprise, pitch": 3.1390311775852595,
+   "surprise, rhythm": 2.3838041385677946,
+   "density": 5.418009863549261,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 305,
+   "composers": 37
+  }
+ }
+]

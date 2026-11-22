@@ -1,0 +1,540 @@
+[
+ {
+  "composer": "Béla Bartók",
+  "kind": "bagatelle",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 14,
+  "values": {
+   "steps": 0.42209653496572963,
+   "repeats": 0.1220825980897015,
+   "leaps": 0.2900527501505671,
+   "move": 3.9341627667043655,
+   "rising": 0.47799882004355104,
+   "leap answered": 0.19187590264579887,
+   "range": 23.16428571428571,
+   "register": 70.42857142857143,
+   "even": 0.6200858730844264,
+   "long-short": 0.08724579271807464,
+   "rhythm variety": 1.8150038878221224,
+   "surprise, pitch": 2.1044351633939224,
+   "surprise, rhythm": 1.1953587117573623,
+   "density": 4.093904128977387,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "density",
+    "value": 4.093904128977387,
+    "others": 6.448033373622834,
+    "auc": 0.2213509316770186
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n14.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 14: Valse: ma mie quie danse (DCML)",
+      "bar": 67,
+      "notes": "G5 F#5 Ab5 F#5"
+     },
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n09.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 9: Allegretto grazioso (DCML)",
+      "bar": 9,
+      "notes": "F#5 F5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 3.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n14.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 14: Valse: ma mie quie danse (DCML)",
+      "bar": 163,
+      "notes": "A5 F#5 Eb5 B4"
+     },
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n07.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 7: Allegretto molto capriccioso (DCML)",
+      "bar": 108,
+      "notes": "E6 C#6 Bb5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n12.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 12: Rubato (DCML)",
+      "bar": 13,
+      "notes": "Bb3 A3 G3 F#3"
+     },
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n11.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 11: Allegretto molto rubato (DCML)",
+      "bar": 1,
+      "notes": "C5 B4 A4 Ab4"
+     },
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n10.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 10: Allegro (DCML)",
+      "bar": 5,
+      "notes": "F6 E6 D6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n02.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 2: Allegro giocoso (DCML)",
+      "bar": 12,
+      "notes": "Bb5 B5 C6 A5"
+     },
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n09.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 9: Allegretto grazioso (DCML)",
+      "bar": 62,
+      "notes": "G4 Ab4 A4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 7.4,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n05.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 5: Vivo (DCML)",
+      "bar": 1,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n02.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 2: Allegro giocoso (DCML)",
+      "bar": 1,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n12.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 12: Rubato (DCML)",
+      "bar": 1,
+      "notes": "A4 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n14.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 14: Valse: ma mie quie danse (DCML)",
+      "bar": 152,
+      "notes": "B3 G3 E3 C3"
+     },
+     {
+      "work": "dcml/bartok_bagatelles:notes/op06n02.notes.tsv",
+      "label": "14 Bagatelles, Op. 6, Sz.38, BB 50, movement 2: Allegro giocoso (DCML)",
+      "bar": 15,
+      "notes": "E5 C5 A4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 126,
+   "composers": 9
+  },
+  "harmony": {
+   "works": 14,
+   "by": {
+    "DCML": 14
+   },
+   "values": {
+    "chords a bar": 1.6357742367527344,
+    "tonic and dominant": 0.4076424176780177,
+    "sevenths": 0.46772426533040345,
+    "diminished sevenths": 0.02319701785788841,
+    "applied chords": 0.15724410728392532,
+    "augmented sixths": 0.011448922772862793,
+    "Neapolitan": 0.012149133681225324,
+    "mixture": 0.06684994950175113,
+    "inversions": 0.29802353045046687,
+    "keys a 10 bars": 0.45464799210947276,
+    "away from home": 0.21297849421550433,
+    "cadences a 10 bars": 0.8697896810282337,
+    "perfect cadences": 0.07575757575757575,
+    "half cadences": 0.28787878787878785,
+    "deceptive or evaded": 0.3424242424242424,
+    "changes": 0.5773268202179942,
+    "non-chord tones": 0.40971109390867644,
+    "struck dissonance": 0.23856397453534092,
+    "resolved by step": 0.28249232763928345,
+    "suspensions": 0.004943253071340603
+   },
+   "traits": [
+    {
+     "measure": "applied chords",
+     "value": 0.15724410728392532,
+     "others": 0.3590310519547241,
+     "auc": 0.24675324675324672
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 0.8697896810282337,
+     "others": 1.1239541384989666,
+     "auc": 0.2439000393545848
+    },
+    {
+     "measure": "deceptive or evaded",
+     "value": 0.3424242424242424,
+     "others": 0.09096938775510204,
+     "auc": 0.7611038961038962
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 35,
+    "composers": 4,
+    "progressions_by": "DCML",
+    "progressions_works": 35
+   }
+  }
+ },
+ {
+  "composer": "Béla Bartók",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.4108239935030805,
+   "repeats": 0.12565184148067365,
+   "leaps": 0.2550838974672557,
+   "move": 3.9072041285153003,
+   "rising": 0.5298049560979583,
+   "leap answered": 0.27656969545062626,
+   "range": 26.787499999999994,
+   "register": 75.5,
+   "even": 0.5170230090267582,
+   "long-short": 0.08049794699844391,
+   "rhythm variety": 2.455620982267816,
+   "surprise, pitch": 2.8274967281603285,
+   "surprise, rhythm": 1.6316860213219018,
+   "density": 3.9678214319411067,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5298049560979583,
+    "others": 0.4875028166334019,
+    "auc": 0.7941006362058994
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.2,_Op.17_(Sz.67)/sq8741475.mxl#3",
+      "label": "String Quartet No.2, Op.17 (Sz.67), movement 3: Allegro molto capriccioso  ( -140) (OpenScore)",
+      "bar": 355,
+      "notes": "F4 F#4 F4 D4"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#4",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 4: Allegro vivace -92 (OpenScore)",
+      "bar": 20,
+      "notes": "A4 Bb4 A4 F#4"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.2,_Op.17_(Sz.67)/sq8741475.mxl#2",
+      "label": "String Quartet No.2, Op.17 (Sz.67), movement 2 (OpenScore)",
+      "bar": 138,
+      "notes": "A4 Bb4 A4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#4",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 4: Allegro vivace -92 (OpenScore)",
+      "bar": 29,
+      "notes": "Ab4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#2",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 2 (OpenScore)",
+      "bar": 109,
+      "notes": "B3 B3 B3 B3"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.2,_Op.17_(Sz.67)/sq8741475.mxl#3",
+      "label": "String Quartet No.2, Op.17 (Sz.67), movement 3: Allegro molto capriccioso  ( -140) (OpenScore)",
+      "bar": 137,
+      "notes": "D6 D6 D6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -7,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#1",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 1 (OpenScore)",
+      "bar": 56,
+      "notes": "C#6 C6 F5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#2",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 2 (OpenScore)",
+      "bar": 69,
+      "notes": "Bb4 A4 D4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#4",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 4: Allegro vivace -92 (OpenScore)",
+      "bar": 43,
+      "notes": "C#5 C5 F4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.7,
+    "works": 5,
+    "per_1000": 2.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#4",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 4: Allegro vivace -92 (OpenScore)",
+      "bar": 189,
+      "notes": "A3 Ab3 A3 Ab3"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.2,_Op.17_(Sz.67)/sq8741475.mxl#1",
+      "label": "String Quartet No.2, Op.17 (Sz.67), movement 1 (OpenScore)",
+      "bar": 89,
+      "notes": "Eb5 D5 Eb5 D5"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.2,_Op.17_(Sz.67)/sq8741475.mxl#3",
+      "label": "String Quartet No.2, Op.17 (Sz.67), movement 3: Allegro molto capriccioso  ( -140) (OpenScore)",
+      "bar": 564,
+      "notes": "C#4 C4 C#4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.6,
+    "works": 5,
+    "per_1000": 2.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#4",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 4: Allegro vivace -92 (OpenScore)",
+      "bar": 189,
+      "notes": "Ab3 A3 Ab3 A3"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.2,_Op.17_(Sz.67)/sq8741475.mxl#1",
+      "label": "String Quartet No.2, Op.17 (Sz.67), movement 1 (OpenScore)",
+      "bar": 90,
+      "notes": "D5 Eb5 D5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.2,_Op.17_(Sz.67)/sq8741475.mxl#3",
+      "label": "String Quartet No.2, Op.17 (Sz.67), movement 3: Allegro molto capriccioso  ( -140) (OpenScore)",
+      "bar": 564,
+      "notes": "C4 C#4 C4 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -8,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#4",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 4: Allegro vivace -92 (OpenScore)",
+      "bar": 45,
+      "notes": "F#5 F5 A4 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Bartók,_Béla/String_Quartet_No.1,_Op.7_(Sz.40)/sq7295726.mxl#2",
+      "label": "String Quartet No.1, Op.7 (Sz.40), movement 2 (OpenScore)",
+      "bar": 20,
+      "notes": "D5 C#5 F4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 110,
+   "composers": 19
+  }
+ }
+]

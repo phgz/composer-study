@@ -1,0 +1,271 @@
+[
+ {
+  "composer": "Emanuele Barbella",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.4938919959960493,
+   "repeats": 0.12077420713895402,
+   "leaps": 0.2051648081470348,
+   "move": 3.4688621431186455,
+   "rising": 0.4159086439545574,
+   "leap answered": 0.2914341820151679,
+   "range": 15.0,
+   "register": 73.25,
+   "even": 0.6942716150927174,
+   "long-short": 0.048931292659666364,
+   "rhythm variety": 1.5297513951287636,
+   "surprise, pitch": 2.372504898639386,
+   "surprise, rhythm": 1.2257969629254615,
+   "density": 3.574397800055695,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 193,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Emanuele Barbella",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 14,
+  "values": {
+   "steps": 0.505781276437192,
+   "repeats": 0.10688571531711123,
+   "leaps": 0.2117131359762747,
+   "move": 3.5945752800644972,
+   "rising": 0.42847417026452655,
+   "leap answered": 0.26507144652652803,
+   "range": 17.532142857142855,
+   "register": 73.25,
+   "even": 0.694143581717207,
+   "long-short": 0.05896467071931196,
+   "rhythm variety": 1.6339889726632333,
+   "surprise, pitch": 2.446887628076241,
+   "surprise, rhythm": 1.2220228868029965,
+   "density": 5.26111233089748,
+   "lines": 2.2142857142857144
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     -12
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 8.3,
+    "works": 5,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:BarbellaE/gimo-18/gimo-18-lys#1",
+      "label": "Sonata a Due Mandolini e Basso (Gimo 18), movement 1: Allegro (Mutopia)",
+      "bar": 2,
+      "notes": "G5 F#5 G5 G4"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-14/gimo-14-lys#3",
+      "label": "Sonata a Due Mandolini (Gimo 14), movement 3: Gavotta Allegro (Mutopia)",
+      "bar": 36,
+      "notes": "D5 C#5 D5 D4"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-13/gimo-13-lys#1",
+      "label": "Sonata a Due Mandolini (Gimo 13), movement 1: Larghetto e staccato (Mutopia)",
+      "bar": 2,
+      "notes": "G4 F#4 G4 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 6.2,
+    "works": 6,
+    "per_1000": 3.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:BarbellaE/gimo-14/gimo-14-lys#3",
+      "label": "Sonata a Due Mandolini (Gimo 14), movement 3: Gavotta Allegro (Mutopia)",
+      "bar": 15,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-15/gimo-15-lys#1",
+      "label": "Sonata a Due Mandolini (Gimo 15), movement 1: Allegro (Mutopia)",
+      "bar": 26,
+      "notes": "D5 C#5 B4 A4"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-12/gimo-12-lys#1",
+      "label": "Sonata a Due Mandolini (Gimo 12), movement 1: Allegretto (Mutopia)",
+      "bar": 68,
+      "notes": "Ab5 G5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     3
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:BarbellaE/gimo-14/gimo-14-lys#2",
+      "label": "Sonata a Due Mandolini (Gimo 14), movement 2: Allegro (Mutopia)",
+      "bar": 1,
+      "notes": "D5 C5 B4 D5"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-13/gimo-13-lys#2",
+      "label": "Sonata a Due Mandolini (Gimo 13), movement 2: Allegretto (Mutopia)",
+      "bar": 9,
+      "notes": "D5 C5 B4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:BarbellaE/gimo-13/gimo-13-lys#2",
+      "label": "Sonata a Due Mandolini (Gimo 13), movement 2: Allegretto (Mutopia)",
+      "bar": 23,
+      "notes": "G5 F#5 A5 F#5"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-13/gimo-13-lys#3",
+      "label": "Sonata a Due Mandolini (Gimo 13), movement 3: Minuetto. Alla francese (Mutopia)",
+      "bar": 14,
+      "notes": "G5 F#5 A5 F#5"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-18/gimo-18-lys#3",
+      "label": "Sonata a Due Mandolini e Basso (Gimo 18), movement 3: Allegro (Mutopia)",
+      "bar": 9,
+      "notes": "G5 F#5 A5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:BarbellaE/gimo-13/gimo-13-lys#2",
+      "label": "Sonata a Due Mandolini (Gimo 13), movement 2: Allegretto (Mutopia)",
+      "bar": 9,
+      "notes": "D5 D5 C5 B4"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-14/gimo-14-lys#2",
+      "label": "Sonata a Due Mandolini (Gimo 14), movement 2: Allegro (Mutopia)",
+      "bar": 22,
+      "notes": "A5 A5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:BarbellaE/gimo-12/gimo-12-lys#2",
+      "label": "Sonata a Due Mandolini (Gimo 12), movement 2: Tempo di Menuetto (Mutopia)",
+      "bar": 13,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-14/gimo-14-lys#1",
+      "label": "Sonata a Due Mandolini (Gimo 14), movement 1: Andante, e con espressione (Mutopia)",
+      "bar": 16,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "mutopia:BarbellaE/gimo-15/gimo-15-lys#1",
+      "label": "Sonata a Due Mandolini (Gimo 15), movement 1: Allegro (Mutopia)",
+      "bar": 18,
+      "notes": "B4 B4 B4 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 372,
+   "composers": 15
+  }
+ }
+]

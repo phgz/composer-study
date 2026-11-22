@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Carl Reinecke",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.5060321597667736,
+   "repeats": 0.17486575968883722,
+   "leaps": 0.17336924424831404,
+   "move": 3.1043809018315596,
+   "rising": 0.4924351395961808,
+   "leap answered": 0.27534793564644305,
+   "range": 13.987499999999999,
+   "register": 70.0,
+   "even": 0.44243667550110644,
+   "long-short": 0.113232241202631,
+   "rhythm variety": 2.1787137805992343,
+   "surprise, pitch": 2.217428688288837,
+   "surprise, rhythm": 1.2999302755715878,
+   "density": 6.548510644896372,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 1205,
+   "composers": 115
+  }
+ }
+]

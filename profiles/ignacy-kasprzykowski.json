@@ -1,0 +1,95 @@
+[
+ {
+  "composer": "Ignacy Kasprzykowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.47375439984740575,
+   "repeats": 0.29819881149671257,
+   "leaps": 0.10113243762676291,
+   "move": 2.615293873157071,
+   "rising": 0.4617657213931955,
+   "leap answered": 0.205325311942959,
+   "range": 11.6375,
+   "register": 76.75,
+   "even": 0.49953127353098714,
+   "long-short": 0.1063178300335148,
+   "rhythm variety": 2.168277613011802,
+   "surprise, pitch": 2.5118941759102187,
+   "surprise, rhythm": 1.7604231927328866,
+   "density": 3.01675295797027,
+   "lines": 3.875
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     5,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 8.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-979--001-002_kasprzykowski-ignacy--missa-es-gloria.krn",
+      "label": "Missa Es, Gloria, movement 2: Allegro Molto (PL-CZ III-979, kern)",
+      "bar": 19,
+      "notes": "F5 Bb5 Bb5 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-979--001-001_kasprzykowski-ignacy--missa-es-kyrie.krn",
+      "label": "Missa Es, Kyrie, movement 1 (PL-CZ III-979, kern)",
+      "bar": 44,
+      "notes": "F5 Bb5 Bb5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.4,
+    "works": 2,
+    "per_1000": 10.3,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-979--001-001_kasprzykowski-ignacy--missa-es-kyrie.krn",
+      "label": "Missa Es, Kyrie, movement 1 (PL-CZ III-979, kern)",
+      "bar": 43,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-979--001-002_kasprzykowski-ignacy--missa-es-gloria.krn",
+      "label": "Missa Es, Gloria, movement 2: Allegro Molto (PL-CZ III-979, kern)",
+      "bar": 20,
+      "notes": "Bb5 Bb5 Bb5 Bb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 194,
+   "composers": 20
+  }
+ }
+]

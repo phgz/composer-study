@@ -1,0 +1,2626 @@
+{
+ "about": {
+  "catalogue_version": 25,
+  "score_reader": "d37df33",
+  "left_out": [
+   "midi_copy",
+   "realized"
+  ],
+  "line": "sounding skyline",
+  "weights": "a work weighs one; a composer at most a tenth, a collection at most a third",
+  "surprise": true
+ },
+ "composers": {
+  "Adalbert Dankowski": {
+   "file": "adalbert-dankowski.md",
+   "units": [
+    "magnificat, all: 7 works",
+    "mass, all: 56 works"
+   ]
+  },
+  "Adam Jarzębski": {
+   "file": "adam-jarzebski.md",
+   "units": [
+    "concerto (orchestra), all: 26 works"
+   ]
+  },
+  "Adam Józef Karasiński": {
+   "file": "adam-jozef-karasinski.md",
+   "units": [
+    "dance, all: 4 works"
+   ]
+  },
+  "Adolf Rzepko": {
+   "file": "adolf-rzepko.md",
+   "units": [
+    "mass, all: 11 works"
+   ]
+  },
+  "Aleksander Rodowski": {
+   "file": "aleksander-rodowski.md",
+   "units": [
+    "mass, all: 28 works"
+   ]
+  },
+  "Alessandro Rolla": {
+   "file": "alessandro-rolla.md",
+   "units": [
+    "duet (solo instrument), all: 8 works",
+    "rondo (solo instrument), all: 3 works"
+   ]
+  },
+  "Alexander Agricola": {
+   "file": "alexander-agricola.md",
+   "units": [
+    "mass (voices), all: 9 works"
+   ]
+  },
+  "Alexander Borodin": {
+   "file": "alexander-borodin.md",
+   "units": [
+    "string quartet (string quartet), all: 8 works"
+   ]
+  },
+  "Alexander Glazunov": {
+   "file": "alexander-glazunov.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Alexander Mackenzie": {
+   "file": "alexander-mackenzie.md",
+   "units": [
+    "song (voice and keyboard), all: 8 works"
+   ]
+  },
+  "Alexander von Zemlinsky": {
+   "file": "alexander-von-zemlinsky.md",
+   "units": [
+    "string quartet (string quartet), all: 9 works"
+   ]
+  },
+  "Amandus Ivanschiz": {
+   "file": "amandus-ivanschiz.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Amelia Lehmann": {
+   "file": "amelia-lehmann.md",
+   "units": [
+    "song (voice and keyboard), all: 5 works"
+   ]
+  },
+  "Amy Beach": {
+   "file": "amy-beach.md",
+   "units": [
+    "song (voice and keyboard), all: 10 works"
+   ]
+  },
+  "Amy Elsie Horrocks": {
+   "file": "amy-elsie-horrocks.md",
+   "units": [
+    "song (voice and keyboard), all: 4 works"
+   ]
+  },
+  "Andrzej Siwiński": {
+   "file": "andrzej-siwinski.md",
+   "units": [
+    "mass, all: 19 works"
+   ]
+  },
+  "Ann Mounsey Bartholomew": {
+   "file": "ann-mounsey-bartholomew.md",
+   "units": [
+    "song (voice and keyboard), all: 6 works"
+   ]
+  },
+  "Annibale Stabile": {
+   "file": "annibale-stabile.md",
+   "units": [
+    "madrigal, all: 43 works"
+   ]
+  },
+  "Antoine Brumel": {
+   "file": "antoine-brumel.md",
+   "units": [
+    "mass (voices), all: 6 works"
+   ]
+  },
+  "Antoine Busnoys": {
+   "file": "antoine-busnoys.md",
+   "units": [
+    "mass (voices), all: 5 works",
+    "motet (voices), all: 3 works",
+    "song (voices), all: 57 works"
+   ]
+  },
+  "Antoine de Févin": {
+   "file": "antoine-de-fevin.md",
+   "units": [
+    "mass (voices), all: 5 works"
+   ]
+  },
+  "Anton Webern": {
+   "file": "anton-webern.md",
+   "units": [
+    "song (voice and keyboard), atonal: 10 works"
+   ]
+  },
+  "Antoni Kamieński": {
+   "file": "antoni-kamienski.md",
+   "units": [
+    "dance, any period: 5 works",
+    "waltz, any period: 5 works"
+   ]
+  },
+  "Antoni Kątski": {
+   "file": "antoni-katski.md",
+   "units": [
+    "dance, all: 3 works",
+    "fantasia, all: 3 works",
+    "opera, all: 3 works"
+   ]
+  },
+  "Antonio Brioschi": {
+   "file": "antonio-brioschi.md",
+   "units": [
+    "suite, all: 4 works"
+   ]
+  },
+  "Antonio Vivaldi": {
+   "file": "antonio-vivaldi.md",
+   "units": [
+    "air (chamber), all: 3 works",
+    "allemande (chamber), all: 8 works",
+    "concerto (orchestra), all: 3 works",
+    "concerto (strings), all: 29 works",
+    "courante (chamber), all: 6 works",
+    "dance (chamber), all: 27 works",
+    "gavotte (chamber), all: 5 works",
+    "gigue (chamber), all: 5 works",
+    "prelude (chamber), all: 8 works",
+    "sarabande (chamber), all: 3 works",
+    "sonata (chamber), all: 46 works",
+    "trio sonata (chamber), all: 46 works"
+   ]
+  },
+  "Antonín Dvořák": {
+   "file": "antonin-dvorak.md",
+   "units": [
+    "character piece (keyboard), before America: 12 works, 12 labelled",
+    "string quartet (string quartet), America: 8 works",
+    "string quartet (string quartet), before America: 28 works"
+   ]
+  },
+  "Arcangelo Corelli": {
+   "file": "arcangelo-corelli.md",
+   "units": [
+    "allemande (chamber), all: 7 works, 7 labelled",
+    "concerto (strings), all: 68 works",
+    "courante (chamber), all: 8 works, 8 labelled",
+    "dance (chamber), all: 26 works, 26 labelled",
+    "gavotte (chamber), all: 4 works, 4 labelled",
+    "gigue (chamber), all: 4 works, 4 labelled",
+    "prelude (chamber), all: 11 works, 11 labelled",
+    "sarabande (chamber), all: 3 works, 3 labelled",
+    "sonata (chamber), all: 196 works, 146 labelled",
+    "trio sonata (chamber), all: 147 works, 146 labelled"
+   ]
+  },
+  "Arnold Schoenberg": {
+   "file": "arnold-schoenberg.md",
+   "units": [
+    "song (voice and keyboard), atonal: 10 works"
+   ]
+  },
+  "Arthur Somervell": {
+   "file": "arthur-somervell.md",
+   "units": [
+    "song (voice and keyboard), all: 10 works"
+   ]
+  },
+  "Artur Gold": {
+   "file": "artur-gold.md",
+   "units": [
+    "dance, all: 4 works",
+    "tango, all: 3 works"
+   ]
+  },
+  "Asprilio Pacelli": {
+   "file": "asprilio-pacelli.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "August Freyer": {
+   "file": "august-freyer.md",
+   "units": [
+    "prelude, all: 26 works"
+   ]
+  },
+  "August Kühnel": {
+   "file": "august-kuhnel.md",
+   "units": [
+    "sonata, all: 4 works"
+   ]
+  },
+  "August Wiltberger": {
+   "file": "august-wiltberger.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "Augusta Browne": {
+   "file": "augusta-browne.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Augusta Holmès": {
+   "file": "augusta-holmes.md",
+   "units": [
+    "serenade (voice and keyboard), all: 5 works",
+    "song (voice and keyboard), all: 73 works"
+   ]
+  },
+  "Augustin Volckmer": {
+   "file": "augustin-volckmer.md",
+   "units": [
+    "air, all: 8 works",
+    "duet, all: 3 works",
+    "mass, all: 84 works"
+   ]
+  },
+  "Barbara Strozzi": {
+   "file": "barbara-strozzi.md",
+   "units": [
+    "air (voices and instruments), all: 11 works",
+    "madrigal (voices and instruments), all: 13 works"
+   ]
+  },
+  "Bartłomiej Pękiel": {
+   "file": "bartlomiej-pekiel.md",
+   "units": [
+    "mass, all: 38 works",
+    "mass (voices), all: 6 works"
+   ]
+  },
+  "Bauer": {
+   "file": "bauer.md",
+   "units": [
+    "mass, any period: 6 works"
+   ]
+  },
+  "Bedřich Smetana": {
+   "file": "bedrich-smetana.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Béla Bartók": {
+   "file": "bela-bartok.md",
+   "units": [
+    "bagatelle (keyboard), all: 14 works, 14 labelled",
+    "string quartet (string quartet), all: 8 works"
+   ]
+  },
+  "Carl Ditters von Dittersdorf": {
+   "file": "carl-ditters-von-dittersdorf.md",
+   "units": [
+    "string quartet (string quartet), all: 9 works"
+   ]
+  },
+  "Carl Luython": {
+   "file": "carl-luython.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Carl Maria von Weber": {
+   "file": "carl-maria-von-weber.md",
+   "units": [
+    "partsong (voices), all: 6 works",
+    "song (voices), all: 4 works"
+   ]
+  },
+  "Carl Nielsen": {
+   "file": "carl-nielsen.md",
+   "units": [
+    "hymn (voices), all: 12 works",
+    "song (voices), all: 12 works",
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Carl Philipp Emanuel Bach": {
+   "file": "carl-philipp-emanuel-bach.md",
+   "units": [
+    "fantasia (keyboard), all: 10 works, 10 labelled",
+    "rondo (keyboard), all: 7 works, 6 labelled",
+    "sonata (keyboard), all: 66 works, 66 labelled",
+    "sonata (solo instrument), all: 3 works"
+   ]
+  },
+  "Carl Reinecke": {
+   "file": "carl-reinecke.md",
+   "units": [
+    "song, all: 8 works"
+   ]
+  },
+  "Carlo Cecere": {
+   "file": "carlo-cecere.md",
+   "units": [
+    "concerto (orchestra), all: 3 works"
+   ]
+  },
+  "Carrie Jacobs-Bond": {
+   "file": "carrie-jacobs-bond.md",
+   "units": [
+    "song (voice and keyboard), all: 5 works"
+   ]
+  },
+  "Charles Gounod": {
+   "file": "charles-gounod.md",
+   "units": [
+    "song (voice and keyboard), all: 8 works",
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Charles Koechlin": {
+   "file": "charles-koechlin.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Charles Villiers Stanford": {
+   "file": "charles-villiers-stanford.md",
+   "units": [
+    "song (voice and keyboard), all: 20 works",
+    "string quartet (string quartet), all: 5 works"
+   ]
+  },
+  "Charlotte Alington Barnard": {
+   "file": "charlotte-alington-barnard.md",
+   "units": [
+    "song (voice and keyboard), all: 6 works"
+   ]
+  },
+  "Chiquinha Gonzaga": {
+   "file": "chiquinha-gonzaga.md",
+   "units": [
+    "song (voice and keyboard), all: 12 works"
+   ]
+  },
+  "Christlieb Siegmund Binder": {
+   "file": "christlieb-siegmund-binder.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Clara Mathilda Faisst": {
+   "file": "clara-mathilda-faisst.md",
+   "units": [
+    "song (voice and keyboard), all: 30 works"
+   ]
+  },
+  "Clara Schumann": {
+   "file": "clara-schumann.md",
+   "units": [
+    "song (voice and keyboard), all: 17 works, 14 labelled"
+   ]
+  },
+  "Claude Debussy": {
+   "file": "claude-debussy.md",
+   "units": [
+    "air (voice and keyboard), any period: 6 works",
+    "character piece (keyboard), any period: 25 works",
+    "song (voice and keyboard), any period: 20 works",
+    "string quartet (string quartet), any period: 4 works",
+    "suite (keyboard), any period: 6 works",
+    "suite (keyboard), early: 4 works, 4 labelled"
+   ]
+  },
+  "Claude Goudimel": {
+   "file": "claude-goudimel.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Claudio Monteverdi": {
+   "file": "claudio-monteverdi.md",
+   "units": [
+    "madrigal (voices), Venice: 3 works, 3 labelled",
+    "madrigal (voices), early: 20 works, 17 labelled",
+    "madrigal (voices), seconda pratica: 33 works, 21 labelled"
+   ]
+  },
+  "Clémence de Grandval": {
+   "file": "clemence-de-grandval.md",
+   "units": [
+    "song (voice and keyboard), all: 13 works"
+   ]
+  },
+  "Corona Schröter": {
+   "file": "corona-schroter.md",
+   "units": [
+    "song (voice and keyboard), all: 25 works"
+   ]
+  },
+  "Cristóbal de Morales": {
+   "file": "cristobal-de-morales.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "Cyryl Goetz-Gieczyński": {
+   "file": "cyryl-goetz-gieczynski.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Cécile Chaminade": {
+   "file": "cecile-chaminade.md",
+   "units": [
+    "song (voice and keyboard), all: 35 works, 3 labelled"
+   ]
+  },
+  "César Franck": {
+   "file": "cesar-franck.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Danka": {
+   "file": "danka.md",
+   "units": [
+    "mass, all: 9 works"
+   ]
+  },
+  "Domenico Caudioso": {
+   "file": "domenico-caudioso.md",
+   "units": [
+    "concerto (orchestra), all: 3 works"
+   ]
+  },
+  "Domenico Scarlatti": {
+   "file": "domenico-scarlatti.md",
+   "units": [
+    "sonata (keyboard), all: 129 works, 69 labelled"
+   ]
+  },
+  "Edvard Grieg": {
+   "file": "edvard-grieg.md",
+   "units": [
+    "dance, all: 5 works, 5 labelled",
+    "string quartet (string quartet), all: 5 works",
+    "waltz, all: 4 works, 4 labelled"
+   ]
+  },
+  "Edward Elgar": {
+   "file": "edward-elgar.md",
+   "units": [
+    "song (voice and keyboard), all: 10 works",
+    "string quartet (string quartet), all: 5 works"
+   ]
+  },
+  "Edward German": {
+   "file": "edward-german.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Edward Stefan Łodwigowski": {
+   "file": "edward-stefan-lodwigowski.md",
+   "units": [
+    "dance, all: 4 works"
+   ]
+  },
+  "Elfrida Andrée": {
+   "file": "elfrida-andree.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Ellen Dickson": {
+   "file": "ellen-dickson.md",
+   "units": [
+    "song (voice and keyboard), all: 4 works"
+   ]
+  },
+  "Emanuele Barbella": {
+   "file": "emanuele-barbella.md",
+   "units": [
+    "dance, all: 4 works",
+    "sonata, all: 14 works"
+   ]
+  },
+  "Emil Młynarski": {
+   "file": "emil-mlynarski.md",
+   "units": [
+    "concerto (orchestra), all: 3 works"
+   ]
+  },
+  "Emil Władysław Śmietański": {
+   "file": "emil-wladyslaw-smietanski.md",
+   "units": [
+    "concerto (orchestra), all: 8 works",
+    "dance, all: 17 works",
+    "etude (orchestra), all: 3 works",
+    "fantasia, all: 3 works",
+    "fugue, all: 6 works",
+    "march, all: 5 works",
+    "mazurka, all: 6 works",
+    "scherzo, all: 3 works",
+    "sonata, all: 5 works"
+   ]
+  },
+  "Emilie Mayer": {
+   "file": "emilie-mayer.md",
+   "units": [
+    "scherzo (string quartet), all: 4 works",
+    "song (voice and keyboard), all: 6 works, 3 labelled",
+    "string quartet (string quartet), all: 24 works"
+   ]
+  },
+  "Emilie Zumsteeg": {
+   "file": "emilie-zumsteeg.md",
+   "units": [
+    "song (voice and keyboard), all: 11 works"
+   ]
+  },
+  "Emmanuel Chabrier": {
+   "file": "emmanuel-chabrier.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Erik Satie": {
+   "file": "erik-satie.md",
+   "units": [
+    "song (voice and keyboard), all: 17 works"
+   ]
+  },
+  "Ernest Chausson": {
+   "file": "ernest-chausson.md",
+   "units": [
+    "song (voice and keyboard), all: 12 works"
+   ]
+  },
+  "Ernest John Moeran": {
+   "file": "ernest-john-moeran.md",
+   "units": [
+    "string quartet (string quartet), all: 3 works"
+   ]
+  },
+  "Erwin Schulhoff": {
+   "file": "erwin-schulhoff.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works",
+    "suite (keyboard), all: 6 works, 6 labelled"
+   ]
+  },
+  "Ethel Smyth": {
+   "file": "ethel-smyth.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Evelyn Faltis": {
+   "file": "evelyn-faltis.md",
+   "units": [
+    "song (voice and keyboard), all: 4 works"
+   ]
+  },
+  "Fanny Mendelssohn": {
+   "file": "fanny-mendelssohn.md",
+   "units": [
+    "song (voice and keyboard), all: 35 works, 20 labelled",
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Feliks Janiewicz": {
+   "file": "feliks-janiewicz.md",
+   "units": [
+    "rondo, all: 3 works"
+   ]
+  },
+  "Felix Mendelssohn": {
+   "file": "felix-mendelssohn.md",
+   "units": [
+    "character piece (keyboard), all: 3 works",
+    "duet (voice and keyboard), all: 6 works",
+    "psalm (orchestra), all: 8 works",
+    "song (voice and keyboard), all: 11 works",
+    "string quartet (string quartet), all: 24 works, 24 labelled"
+   ]
+  },
+  "Ferdinand Simon Lechleitner": {
+   "file": "ferdinand-simon-lechleitner.md",
+   "units": [
+    "magnificat, all: 3 works",
+    "mass, all: 11 works"
+   ]
+  },
+  "Ferdinando Carulli": {
+   "file": "ferdinando-carulli.md",
+   "units": [
+    "dance (plucked), all: 4 works",
+    "waltz (plucked), all: 4 works"
+   ]
+  },
+  "Fernando Sor": {
+   "file": "fernando-sor.md",
+   "units": [
+    "dance (plucked), all: 5 works",
+    "etude (plucked), all: 42 works"
+   ]
+  },
+  "Ferruccio Busoni": {
+   "file": "ferruccio-busoni.md",
+   "units": [
+    "string quartet (string quartet), all: 8 works"
+   ]
+  },
+  "Filip Gotschalk": {
+   "file": "filip-gotschalk.md",
+   "units": [
+    "mass, all: 18 works"
+   ]
+  },
+  "Francesca Caccini": {
+   "file": "francesca-caccini.md",
+   "units": [
+    "air (voices and instruments), all: 7 works",
+    "madrigal (voices and instruments), all: 11 works"
+   ]
+  },
+  "Franciszek Kasper Just": {
+   "file": "franciszek-kasper-just.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Franciszek Kottritsch": {
+   "file": "franciszek-kottritsch.md",
+   "units": [
+    "mass (voices), all: 8 works"
+   ]
+  },
+  "Franciszek Lessel": {
+   "file": "franciszek-lessel.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Franciszek Lilius": {
+   "file": "franciszek-lilius.md",
+   "units": [
+    "mass, all: 15 works",
+    "mass (voices), all: 17 works"
+   ]
+  },
+  "Franciszek Mirecki": {
+   "file": "franciszek-mirecki.md",
+   "units": [
+    "dance, all: 19 works",
+    "krakowiak, all: 19 works"
+   ]
+  },
+  "Franciszek Walczyński": {
+   "file": "franciszek-walczynski.md",
+   "units": [
+    "prelude, all: 52 works"
+   ]
+  },
+  "Franciszek Ścigalski": {
+   "file": "franciszek-scigalski.md",
+   "units": [
+    "mass, all: 42 works"
+   ]
+  },
+  "Frank Bridge": {
+   "file": "frank-bridge.md",
+   "units": [
+    "song (voice and keyboard), all: 15 works",
+    "string quartet (string quartet), all: 8 works"
+   ]
+  },
+  "František Xaver Brixi": {
+   "file": "frantisek-xaver-brixi.md",
+   "units": [
+    "mass, all: 7 works"
+   ]
+  },
+  "František Xaver Budinský": {
+   "file": "frantisek-xaver-budinsky.md",
+   "units": [
+    "mass, all: 9 works"
+   ]
+  },
+  "Franz Joseph Haydn": {
+   "file": "franz-joseph-haydn.md",
+   "units": [
+    "dance, any period: 4 works",
+    "dance (keyboard), mature: 3 works",
+    "dance (string quartet), London and late: 15 works",
+    "dance (string quartet), Sturm und Drang: 17 works, 3 labelled",
+    "dance (string quartet), early: 17 works",
+    "dance (string quartet), mature: 17 works",
+    "fugue (string quartet), Sturm und Drang: 4 works",
+    "mass, any period: 7 works",
+    "minuet, any period: 4 works",
+    "minuet (keyboard), mature: 3 works",
+    "minuet (string quartet), London and late: 15 works",
+    "minuet (string quartet), Sturm und Drang: 17 works, 3 labelled",
+    "minuet (string quartet), early: 17 works",
+    "minuet (string quartet), mature: 17 works",
+    "scherzo (string quartet), mature: 6 works",
+    "sonata (keyboard), London and late: 5 works",
+    "sonata (keyboard), early: 6 works",
+    "sonata (keyboard), mature: 13 works",
+    "sonata (string quartet), mature: 3 works",
+    "song (voice and keyboard), London and late: 8 works",
+    "string quartet (string quartet), London and late: 55 works, 7 labelled",
+    "string quartet (string quartet), Sturm und Drang: 69 works, 14 labelled",
+    "string quartet (string quartet), early: 53 works",
+    "string quartet (string quartet), mature: 104 works",
+    "suite, any period: 4 works",
+    "symphony (orchestra), London and late: 23 works"
+   ]
+  },
+  "Franz Liszt": {
+   "file": "franz-liszt.md",
+   "units": [
+    "character piece (keyboard), Weimar: 12 works, 12 labelled",
+    "character piece (keyboard), virtuoso years: 7 works, 7 labelled",
+    "etude (keyboard), Weimar: 9 works"
+   ]
+  },
+  "Franz Schubert": {
+   "file": "franz-schubert.md",
+   "units": [
+    "dance (string quartet), before 1822: 3 works",
+    "impromptu (keyboard), late: 7 works",
+    "minuet (string quartet), before 1822: 3 works",
+    "sonata (keyboard), before 1822: 3 works",
+    "song (voice and keyboard), before 1822: 20 works",
+    "song (voice and keyboard), late: 95 works, 45 labelled",
+    "string quartet (string quartet), before 1822: 17 works",
+    "string quartet (string quartet), late: 12 works"
+   ]
+  },
+  "Franz Xaver Pokorný": {
+   "file": "franz-xaver-pokorny.md",
+   "units": [
+    "mass, all: 7 works"
+   ]
+  },
+  "François Couperin": {
+   "file": "francois-couperin.md",
+   "units": [
+    "air (keyboard), all: 11 works, 9 labelled",
+    "allemande (keyboard), all: 7 works, 7 labelled",
+    "allemande (orchestra), all: 4 works, 4 labelled",
+    "concerto (keyboard), all: 58 works, 51 labelled",
+    "concerto (orchestra), all: 26 works, 26 labelled",
+    "courante (keyboard), all: 3 works, 3 labelled",
+    "courante (orchestra), all: 3 works, 3 labelled",
+    "dance (keyboard), all: 22 works, 21 labelled",
+    "dance (orchestra), all: 15 works, 15 labelled",
+    "prelude (keyboard), all: 10 works, 9 labelled",
+    "prelude (orchestra), all: 4 works, 4 labelled",
+    "sarabande (keyboard), all: 8 works, 7 labelled",
+    "sarabande (orchestra), all: 3 works, 3 labelled"
+   ]
+  },
+  "François Roberday": {
+   "file": "francois-roberday.md",
+   "units": [
+    "fugue (organ), all: 5 works"
+   ]
+  },
+  "Frederic Hymen Cowen": {
+   "file": "frederic-hymen-cowen.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Frederick Delius": {
+   "file": "frederick-delius.md",
+   "units": [
+    "song (voice and keyboard), all: 6 works",
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Friedrich Kuhlau": {
+   "file": "friedrich-kuhlau.md",
+   "units": [
+    "sonata (keyboard), all: 3 works"
+   ]
+  },
+  "Frédéric Chopin": {
+   "file": "frederic-chopin.md",
+   "units": [
+    "ballade (keyboard), Paris: 4 works",
+    "concerto (keyboard), Warsaw: 6 works",
+    "dance (keyboard), Paris: 47 works, 29 labelled",
+    "dance (keyboard), Warsaw: 24 works, 14 labelled",
+    "dance (keyboard), late: 16 works, 12 labelled",
+    "ecossaise (keyboard), Warsaw: 3 works",
+    "etude (keyboard), Paris: 16 works",
+    "etude (keyboard), Warsaw: 8 works",
+    "impromptu (keyboard), Paris: 4 works",
+    "mazurka (keyboard), Paris: 30 works, 29 labelled",
+    "mazurka (keyboard), Warsaw: 14 works, 14 labelled",
+    "mazurka (keyboard), late: 12 works, 12 labelled",
+    "nocturne (keyboard), Paris: 8 works",
+    "nocturne (keyboard), Warsaw: 7 works",
+    "nocturne (keyboard), late: 4 works",
+    "polonaise (keyboard), Paris: 6 works",
+    "prelude (keyboard), Paris: 25 works",
+    "rondo (keyboard), Warsaw: 4 works",
+    "scherzo (keyboard), Paris: 5 works",
+    "sonata (chamber), late: 4 works",
+    "sonata (keyboard), Paris: 4 works",
+    "sonata (keyboard), Warsaw: 4 works",
+    "sonata (keyboard), late: 4 works",
+    "song (voice and keyboard), Paris: 3 works",
+    "song (voice and keyboard), Warsaw: 10 works",
+    "song (voice and keyboard), late: 3 works",
+    "trio (chamber), Warsaw: 3 works",
+    "waltz (keyboard), Paris: 8 works",
+    "waltz (keyboard), late: 3 works"
+   ]
+  },
+  "Gabriel Fauré": {
+   "file": "gabriel-faure.md",
+   "units": [
+    "song (voice and keyboard), early: 12 works",
+    "song (voice and keyboard), middle: 10 works",
+    "string quartet (string quartet), late: 3 works"
+   ]
+  },
+  "Gaetano Pugnani": {
+   "file": "gaetano-pugnani.md",
+   "units": [
+    "trio, all: 15 works"
+   ]
+  },
+  "Gaspar van Weerbeke": {
+   "file": "gaspar-van-weerbeke.md",
+   "units": [
+    "mass (voices), all: 42 works",
+    "motet (voices), all: 48 works",
+    "song (voices), all: 5 works"
+   ]
+  },
+  "Gaspare Gabellone": {
+   "file": "gaspare-gabellone.md",
+   "units": [
+    "concerto (orchestra), all: 3 works"
+   ]
+  },
+  "Georg Philipp Telemann": {
+   "file": "georg-philipp-telemann.md",
+   "units": [
+    "concerto (chamber), all: 3 works",
+    "concerto (solo instrument), all: 8 works",
+    "duet, all: 4 works",
+    "sonata, all: 4 works",
+    "sonata (solo instrument), all: 4 works"
+   ]
+  },
+  "George Butterworth": {
+   "file": "george-butterworth.md",
+   "units": [
+    "song (voice and keyboard), all: 12 works"
+   ]
+  },
+  "George Frideric Handel": {
+   "file": "george-frideric-handel.md",
+   "units": [
+    "air (chamber), Hamburg and Italy: 3 works",
+    "air (chamber), London: 17 works",
+    "air (voices and instruments), London: 10 works",
+    "dance (keyboard), any period: 9 works",
+    "minuet (keyboard), any period: 7 works",
+    "sonata (chamber), any period: 13 works",
+    "suite (keyboard), London: 6 works, 6 labelled",
+    "variations (keyboard), London: 5 works, 5 labelled"
+   ]
+  },
+  "George Onslow": {
+   "file": "george-onslow.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Georges Bizet": {
+   "file": "georges-bizet.md",
+   "units": [
+    "song (voice and keyboard), all: 26 works"
+   ]
+  },
+  "Georgius Luna": {
+   "file": "georgius-luna.md",
+   "units": [
+    "magnificat, any period: 4 works",
+    "mass, any period: 49 works"
+   ]
+  },
+  "Gimeshoffer": {
+   "file": "gimeshoffer.md",
+   "units": [
+    "suite, all: 3 works"
+   ]
+  },
+  "Gioachino Rossini": {
+   "file": "gioachino-rossini.md",
+   "units": [
+    "air (voices and keyboard), all: 3 works",
+    "motet (voices), all: 3 works",
+    "partsong (voices and keyboard), all: 5 works",
+    "song (voices and keyboard), all: 3 works"
+   ]
+  },
+  "Giovanni Antonio Riccieri": {
+   "file": "giovanni-antonio-riccieri.md",
+   "units": [
+    "concerto (orchestra), all: 3 works"
+   ]
+  },
+  "Giovanni Battista Casali": {
+   "file": "giovanni-battista-casali.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Giovanni Battista Gervasio": {
+   "file": "giovanni-battista-gervasio.md",
+   "units": [
+    "sonata, all: 12 works"
+   ]
+  },
+  "Giovanni Battista Pergolesi": {
+   "file": "giovanni-battista-pergolesi.md",
+   "units": [
+    "song (voice and keyboard), all: 5 works, 4 labelled"
+   ]
+  },
+  "Giovanni Battista Viotti": {
+   "file": "giovanni-battista-viotti.md",
+   "units": [
+    "string quartet (string quartet), all: 6 works"
+   ]
+  },
+  "Giovanni Francesco Anerio": {
+   "file": "giovanni-francesco-anerio.md",
+   "units": [
+    "mass (voices), all: 6 works"
+   ]
+  },
+  "Giovanni Pierluigi da Palestrina": {
+   "file": "giovanni-pierluigi-da-palestrina.md",
+   "units": [
+    "hymn (voices), all: 36 works",
+    "madrigal (voices), all: 101 works",
+    "magnificat (voices), all: 34 works",
+    "mass, all: 8 works",
+    "mass (voices), all: 107 works",
+    "motet (voices), all: 231 works",
+    "song (voices), all: 9 works"
+   ]
+  },
+  "Girolamo Frescobaldi": {
+   "file": "girolamo-frescobaldi.md",
+   "units": [
+    "toccata (organ), all: 8 works, 8 labelled"
+   ]
+  },
+  "Giuseppe Giuliano": {
+   "file": "giuseppe-giuliano.md",
+   "units": [
+    "sonata, all: 6 works"
+   ]
+  },
+  "Giuseppe Verdi": {
+   "file": "giuseppe-verdi.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Granville Bantock": {
+   "file": "granville-bantock.md",
+   "units": [
+    "song (voice and keyboard), all: 5 works"
+   ]
+  },
+  "Grzegorz Fitelberg": {
+   "file": "grzegorz-fitelberg.md",
+   "units": [
+    "song, all: 13 works"
+   ]
+  },
+  "Guillaume Du Fay": {
+   "file": "guillaume-du-fay.md",
+   "units": [
+    "mass (voices), all: 20 works",
+    "motet (voices), all: 4 works",
+    "song (voices), all: 11 works"
+   ]
+  },
+  "Guillaume de Machaut": {
+   "file": "guillaume-de-machaut.md",
+   "units": [
+    "ballade (voices), all: 3 works",
+    "mass (voices), all: 3 works",
+    "song (voices), all: 4 works"
+   ]
+  },
+  "Gustav Mahler": {
+   "file": "gustav-mahler.md",
+   "units": [
+    "song (voice and keyboard), Wunderhorn years: 5 works",
+    "song (voice and keyboard), middle: 5 works, 5 labelled"
+   ]
+  },
+  "Guy d'Hardelot": {
+   "file": "guy-d-hardelot.md",
+   "units": [
+    "song (voice and keyboard), all: 9 works"
+   ]
+  },
+  "Halina Krzyżanowska": {
+   "file": "halina-krzyzanowska.md",
+   "units": [
+    "string quartet (string quartet), all: 3 works"
+   ]
+  },
+  "Hanel": {
+   "file": "hanel.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Hans Sitt": {
+   "file": "hans-sitt.md",
+   "units": [
+    "etude (solo instrument), all: 20 works"
+   ]
+  },
+  "Harold Boulton": {
+   "file": "harold-boulton.md",
+   "units": [
+    "song (voice and keyboard), all: 12 works"
+   ]
+  },
+  "Harry Burleigh": {
+   "file": "harry-burleigh.md",
+   "units": [
+    "song (voice and keyboard), all: 8 works"
+   ]
+  },
+  "Haslinger": {
+   "file": "haslinger.md",
+   "units": [
+    "mass, any period: 8 works"
+   ]
+  },
+  "Hector Berlioz": {
+   "file": "hector-berlioz.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Heinrich Ignaz Franz von Biber": {
+   "file": "heinrich-ignaz-franz-von-biber.md",
+   "units": [
+    "psalm (voices and instruments), all: 4 works"
+   ]
+  },
+  "Heinrich Isaac": {
+   "file": "heinrich-isaac.md",
+   "units": [
+    "mass (voices), all: 4 works"
+   ]
+  },
+  "Helena Munktell": {
+   "file": "helena-munktell.md",
+   "units": [
+    "song (voice and keyboard), all: 11 works"
+   ]
+  },
+  "Henri Vieuxtemps": {
+   "file": "henri-vieuxtemps.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Henryk Wieniawski": {
+   "file": "henryk-wieniawski.md",
+   "units": [
+    "concerto (orchestra), all: 8 works",
+    "dance, all: 7 works",
+    "etude, all: 8 works",
+    "mazurka, all: 6 works"
+   ]
+  },
+  "Hepner": {
+   "file": "hepner.md",
+   "units": [
+    "mass, all: 10 works"
+   ]
+  },
+  "Hildegard von Bingen": {
+   "file": "hildegard-von-bingen.md",
+   "units": [
+    "chant (chant), all: 7 works"
+   ]
+  },
+  "Hubert Parry": {
+   "file": "hubert-parry.md",
+   "units": [
+    "song (voice and keyboard), all: 8 works"
+   ]
+  },
+  "Hugo Wolf": {
+   "file": "hugo-wolf.md",
+   "units": [
+    "song (voice and keyboard), all: 25 works, 7 labelled",
+    "string quartet (string quartet), all: 6 works"
+   ]
+  },
+  "Ignacy Feliks Dobrzyński": {
+   "file": "ignacy-feliks-dobrzynski.md",
+   "units": [
+    "string quartet, all: 8 works",
+    "variations, all: 9 works"
+   ]
+  },
+  "Ignacy Jan Paderewski": {
+   "file": "ignacy-jan-paderewski.md",
+   "units": [
+    "canon, all: 4 works",
+    "dance, all: 5 works",
+    "etude, all: 47 works",
+    "etude (chamber), all: 4 works",
+    "krakowiak, all: 3 works",
+    "opera, all: 38 works",
+    "song, all: 7 works",
+    "suite, all: 3 works"
+   ]
+  },
+  "Ignacy Kasprzykowski": {
+   "file": "ignacy-kasprzykowski.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Ignacy Rygall": {
+   "file": "ignacy-rygall.md",
+   "units": [
+    "air, all: 3 works",
+    "chorus, all: 4 works"
+   ]
+  },
+  "Ignaz Pleyel": {
+   "file": "ignaz-pleyel.md",
+   "units": [
+    "sonata, all: 3 works",
+    "string quartet (string quartet), all: 6 works, 6 labelled",
+    "symphony (orchestra), all: 3 works"
+   ]
+  },
+  "Ippolito Sabino": {
+   "file": "ippolito-sabino.md",
+   "units": [
+    "mass (voices), all: 5 works"
+   ]
+  },
+  "Ivor Gurney": {
+   "file": "ivor-gurney.md",
+   "units": [
+    "song (voice and keyboard), all: 6 works"
+   ]
+  },
+  "Izydor Józef Cybulski": {
+   "file": "izydor-jozef-cybulski.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Izydor Konstanty Chwalibóg": {
+   "file": "izydor-konstanty-chwalibog.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "J. Löbmann": {
+   "file": "j-lobmann.md",
+   "units": [
+    "mass, all: 4 works"
+   ]
+  },
+  "Jacek Szczurowski": {
+   "file": "jacek-szczurowski.md",
+   "units": [
+    "mass, all: 19 works"
+   ]
+  },
+  "Jachet de Mantua": {
+   "file": "jachet-de-mantua.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "Jacob Obrecht": {
+   "file": "jacob-obrecht.md",
+   "units": [
+    "mass (voices), all: 12 works",
+    "motet (voices), all: 4 works"
+   ]
+  },
+  "Jadwiga Brzowska": {
+   "file": "jadwiga-brzowska.md",
+   "units": [
+    "contredanse, all: 5 works",
+    "dance, all: 5 works"
+   ]
+  },
+  "Jakub Gołąbek": {
+   "file": "jakub-golabek.md",
+   "units": [
+    "mass, all: 24 works",
+    "mass (voices), all: 20 works",
+    "mass (voices and instruments), all: 31 works"
+   ]
+  },
+  "Jan Barcicki": {
+   "file": "jan-barcicki.md",
+   "units": [
+    "dance, all: 6 works",
+    "polonaise, all: 6 works"
+   ]
+  },
+  "Jan Dawid Holland": {
+   "file": "jan-dawid-holland.md",
+   "units": [
+    "dance, all: 7 works",
+    "minuet, all: 6 works"
+   ]
+  },
+  "Jan Engel": {
+   "file": "jan-engel.md",
+   "units": [
+    "mass, all: 7 works"
+   ]
+  },
+  "Jan Fleming": {
+   "file": "jan-fleming.md",
+   "units": [
+    "mass, all: 9 works"
+   ]
+  },
+  "Jan Wański": {
+   "file": "jan-wanski.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Jean Cras": {
+   "file": "jean-cras.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Jean Japart": {
+   "file": "jean-japart.md",
+   "units": [
+    "song (voices), all: 22 works"
+   ]
+  },
+  "Jean-Baptiste Arban": {
+   "file": "jean-baptiste-arban.md",
+   "units": [
+    "etude (solo instrument), all: 50 works"
+   ]
+  },
+  "Jean-Philippe Rameau": {
+   "file": "jean-philippe-rameau.md",
+   "units": [
+    "air, all: 6 works",
+    "chorus, all: 8 works",
+    "dance, all: 13 works",
+    "gavotte, all: 4 works",
+    "march, all: 3 works",
+    "minuet, all: 4 works",
+    "opera, all: 101 works",
+    "opera (orchestra), all: 3 works",
+    "rondo, all: 3 works"
+   ]
+  },
+  "Jehan Hérissant": {
+   "file": "jehan-herissant.md",
+   "units": [
+    "mass, all: 3 works"
+   ]
+  },
+  "Jeric": {
+   "file": "jeric.md",
+   "units": [
+    "suite, all: 5 works"
+   ]
+  },
+  "Johann Baptist Schiedermayr": {
+   "file": "johann-baptist-schiedermayr.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Johann Baptist Singenberger": {
+   "file": "johann-baptist-singenberger.md",
+   "units": [
+    "mass, all: 8 works",
+    "mass (voices), all: 3 works"
+   ]
+  },
+  "Johann Baptist Wanhal": {
+   "file": "johann-baptist-wanhal.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Johann Baptist Zangl": {
+   "file": "johann-baptist-zangl.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Johann Christian Bach": {
+   "file": "johann-christian-bach.md",
+   "units": [
+    "dance (keyboard), all: 4 works, 4 labelled",
+    "minuet (keyboard), all: 4 works, 4 labelled",
+    "sonata (keyboard), all: 29 works, 29 labelled"
+   ]
+  },
+  "Johann Jakob Froberger": {
+   "file": "johann-jakob-froberger.md",
+   "units": [
+    "dance (keyboard), all: 4 works",
+    "suite (keyboard), all: 4 works"
+   ]
+  },
+  "Johann Joachim Quantz": {
+   "file": "johann-joachim-quantz.md",
+   "units": [
+    "dance (solo instrument), all: 11 works",
+    "minuet (solo instrument), all: 11 works"
+   ]
+  },
+  "Johann Nepomuk Hummel": {
+   "file": "johann-nepomuk-hummel.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Johann Nepomuk Went": {
+   "file": "johann-nepomuk-went.md",
+   "units": [
+    "suite, all: 4 works"
+   ]
+  },
+  "Johann Pachelbel": {
+   "file": "johann-pachelbel.md",
+   "units": [
+    "air (keyboard), all: 6 works",
+    "fugue, all: 12 works",
+    "magnificat, all: 12 works",
+    "variations (keyboard), all: 6 works"
+   ]
+  },
+  "Johann Sebastian Bach": {
+   "file": "johann-sebastian-bach.md",
+   "units": [
+    "allemande (keyboard), Köthen: 12 works, 12 labelled",
+    "allemande (keyboard), Leipzig: 5 works",
+    "allemande (solo instrument), Köthen: 3 works, 3 labelled",
+    "allemande (solo instrument), Weimar: 6 works, 6 labelled",
+    "bourree (keyboard), Köthen: 6 works, 6 labelled",
+    "bourree (solo instrument), Weimar: 4 works, 4 labelled",
+    "canon (chamber), any period: 13 works",
+    "canon (open score), Leipzig: 4 works",
+    "cantata (voices), Köthen: 22 works, 21 labelled",
+    "cantata (voices), Leipzig: 93 works, 92 labelled",
+    "cantata (voices), Weimar: 5 works, 5 labelled",
+    "cantata (voices), any period: 4 works, 4 labelled",
+    "chorale (keyboard), Leipzig: 3 works",
+    "chorale (voices), Köthen: 24 works, 23 labelled",
+    "chorale (voices), Leipzig: 312 works, 307 labelled",
+    "chorale (voices), Weimar: 5 works, 5 labelled",
+    "chorale (voices), any period: 5 works, 5 labelled",
+    "chorale prelude (organ), Leipzig: 4 works",
+    "chorale prelude (organ), any period: 4 works",
+    "concerto (keyboard), Leipzig: 3 works",
+    "concerto (orchestra), Köthen: 6 works",
+    "concerto (orchestra), Weimar: 18 works",
+    "courante (keyboard), Köthen: 13 works, 13 labelled",
+    "courante (keyboard), Leipzig: 4 works",
+    "courante (solo instrument), Köthen: 3 works, 3 labelled",
+    "courante (solo instrument), Weimar: 6 works, 6 labelled",
+    "dance (keyboard), Köthen: 75 works, 75 labelled",
+    "dance (keyboard), Leipzig: 21 works",
+    "dance (solo instrument), Köthen: 17 works, 13 labelled",
+    "dance (solo instrument), Weimar: 36 works, 36 labelled",
+    "duet (keyboard), Leipzig: 3 works",
+    "fugue (keyboard), Köthen: 24 works",
+    "fugue (keyboard), Leipzig: 25 works, 3 labelled",
+    "fugue (keyboard), any period: 4 works",
+    "fugue (open score), Leipzig: 20 works",
+    "fugue (solo instrument), Köthen: 3 works, 3 labelled",
+    "gavotte (keyboard), Köthen: 8 works, 8 labelled",
+    "gavotte (solo instrument), Weimar: 4 works, 4 labelled",
+    "gigue (keyboard), Köthen: 12 works, 12 labelled",
+    "gigue (keyboard), Leipzig: 4 works",
+    "gigue (solo instrument), Weimar: 6 works, 6 labelled",
+    "invention (keyboard), Köthen: 30 works",
+    "minuet (keyboard), Köthen: 8 works, 8 labelled",
+    "minuet (solo instrument), Weimar: 4 works, 4 labelled",
+    "oratorio (voices), Leipzig: 32 works, 30 labelled",
+    "prelude (keyboard), Köthen: 33 works, 28 labelled",
+    "prelude (keyboard), Leipzig: 27 works",
+    "prelude (keyboard), Weimar: 10 works",
+    "prelude (keyboard), any period: 3 works",
+    "prelude (solo instrument), Weimar: 6 works, 6 labelled",
+    "sarabande (keyboard), Köthen: 12 works, 12 labelled",
+    "sarabande (keyboard), Leipzig: 4 works",
+    "sarabande (solo instrument), Köthen: 3 works",
+    "sarabande (solo instrument), Weimar: 6 works, 6 labelled",
+    "sonata (chamber), Weimar: 4 works",
+    "sonata (organ), Leipzig: 3 works",
+    "sonata (solo instrument), Köthen: 9 works, 9 labelled",
+    "song (keyboard), Leipzig: 5 works",
+    "suite (keyboard), Köthen: 87 works, 87 labelled",
+    "suite (keyboard), Leipzig: 34 works",
+    "suite (plucked), Leipzig: 5 works",
+    "suite (solo instrument), Köthen: 17 works, 17 labelled",
+    "suite (solo instrument), Weimar: 42 works, 42 labelled",
+    "trio sonata (organ), Leipzig: 3 works",
+    "variations (keyboard), Köthen: 3 works, 3 labelled",
+    "variations (keyboard), Leipzig: 31 works",
+    "variations (solo instrument), Köthen: 4 works, 4 labelled"
+   ]
+  },
+  "Johann Wenzel Kalliwoda": {
+   "file": "johann-wenzel-kalliwoda.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Johanna Kinkel": {
+   "file": "johanna-kinkel.md",
+   "units": [
+    "song (voice and keyboard), all: 45 works"
+   ]
+  },
+  "Johanna Müller-Hermann": {
+   "file": "johanna-muller-hermann.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Johannes Brahms": {
+   "file": "johannes-brahms.md",
+   "units": [
+    "song (voice and keyboard), early: 49 works, 8 labelled",
+    "song (voice and keyboard), late: 4 works",
+    "song (voice and keyboard), middle: 59 works",
+    "string quartet (string quartet), middle: 13 works"
+   ]
+  },
+  "Johannes Martini": {
+   "file": "johannes-martini.md",
+   "units": [
+    "mass (voices), all: 40 works",
+    "motet (voices), all: 60 works",
+    "song (voices), all: 21 works"
+   ]
+  },
+  "Johannes Ockeghem": {
+   "file": "johannes-ockeghem.md",
+   "units": [
+    "mass (voices), all: 58 works",
+    "motet (voices), all: 4 works",
+    "song (voices), all: 24 works"
+   ]
+  },
+  "Johannes Regis": {
+   "file": "johannes-regis.md",
+   "units": [
+    "motet (voices), all: 4 works"
+   ]
+  },
+  "Johannes Tinctoris": {
+   "file": "johannes-tinctoris.md",
+   "units": [
+    "mass (voices), all: 10 works",
+    "motet (voices), all: 4 works",
+    "song (voices), all: 5 works"
+   ]
+  },
+  "John Dowland": {
+   "file": "john-dowland.md",
+   "units": [
+    "hymn (voices), all: 8 works",
+    "lute song, all: 5 works",
+    "lute song (voice and lute), all: 31 works",
+    "lute song (voices), all: 3 works",
+    "madrigal (voice and lute), all: 9 works",
+    "madrigal (voices), all: 18 works",
+    "partsong (voice and lute), all: 7 works",
+    "song, all: 5 works",
+    "song (voice and lute), all: 31 works",
+    "song (voices), all: 4 works"
+   ]
+  },
+  "Josef Bolehovský": {
+   "file": "josef-bolehovsky.md",
+   "units": [
+    "mass, all: 21 works"
+   ]
+  },
+  "Josef Renner": {
+   "file": "josef-renner.md",
+   "units": [
+    "mass, any period: 6 works"
+   ]
+  },
+  "Josef Suk": {
+   "file": "josef-suk.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Joseph Bodin de Boismortier": {
+   "file": "joseph-bodin-de-boismortier.md",
+   "units": [
+    "sonata (chamber), all: 16 works"
+   ]
+  },
+  "Joseph Bologne, Chevalier de Saint-Georges": {
+   "file": "joseph-bologne-chevalier-de-saint-georges.md",
+   "units": [
+    "rondo (string quartet), all: 6 works",
+    "string quartet (string quartet), all: 12 works"
+   ]
+  },
+  "Joseph Küffner": {
+   "file": "joseph-kuffner.md",
+   "units": [
+    "air (plucked), all: 3 works"
+   ]
+  },
+  "Josephine Lang": {
+   "file": "josephine-lang.md",
+   "units": [
+    "song (voice and keyboard), all: 52 works, 6 labelled"
+   ]
+  },
+  "Josquin Des Prez": {
+   "file": "josquin-des-prez.md",
+   "units": [
+    "mass (voices), all: 75 works",
+    "motet (voices), all: 44 works",
+    "song (voices), all: 39 works"
+   ]
+  },
+  "Juan Crisóstomo de Arriaga": {
+   "file": "juan-crisostomo-de-arriaga.md",
+   "units": [
+    "string quartet (string quartet), all: 12 works"
+   ]
+  },
+  "Julian Klemczyński": {
+   "file": "julian-klemczynski.md",
+   "units": [
+    "fantasia, all: 3 works",
+    "romance, all: 3 works"
+   ]
+  },
+  "Juliusz Zarębski": {
+   "file": "juliusz-zarebski.md",
+   "units": [
+    "dance, all: 7 works"
+   ]
+  },
+  "Józef Damse": {
+   "file": "jozef-damse.md",
+   "units": [
+    "dance, all: 3 works",
+    "mass, all: 7 works"
+   ]
+  },
+  "Józef Elsner": {
+   "file": "jozef-elsner.md",
+   "units": [
+    "dance, all: 5 works",
+    "mass, all: 92 works",
+    "mass (voices), all: 6 works"
+   ]
+  },
+  "Józef Grim": {
+   "file": "jozef-grim.md",
+   "units": [
+    "mass, all: 15 works"
+   ]
+  },
+  "Józef Jarecki": {
+   "file": "jozef-jarecki.md",
+   "units": [
+    "mass, all: 7 works"
+   ]
+  },
+  "Józef Kozłowski": {
+   "file": "jozef-kozlowski.md",
+   "units": [
+    "mass, all: 15 works"
+   ]
+  },
+  "Józef Nowakowski": {
+   "file": "jozef-nowakowski.md",
+   "units": [
+    "etude, all: 3 works"
+   ]
+  },
+  "Józef Stefani": {
+   "file": "jozef-stefani.md",
+   "units": [
+    "air, all: 5 works",
+    "dance, all: 89 works",
+    "krakowiak, all: 7 works",
+    "march, all: 19 works",
+    "mass, all: 102 works",
+    "mazurka, all: 37 works",
+    "polka, all: 9 works",
+    "polonaise, all: 14 works",
+    "string quartet, all: 4 works",
+    "suite, all: 3 works",
+    "variations, all: 3 works",
+    "waltz, all: 3 works"
+   ]
+  },
+  "Józef Wieniawski": {
+   "file": "jozef-wieniawski.md",
+   "units": [
+    "etude, all: 6 works"
+   ]
+  },
+  "Józef Wygrzywalski": {
+   "file": "jozef-wygrzywalski.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Józef Władysław Krogulski": {
+   "file": "jozef-wladyslaw-krogulski.md",
+   "units": [
+    "mass, all: 18 works"
+   ]
+  },
+  "Józef Zeidler": {
+   "file": "jozef-zeidler.md",
+   "units": [
+    "mass, all: 16 works"
+   ]
+  },
+  "Karol Kazimierz Kurpiński": {
+   "file": "karol-kazimierz-kurpinski.md",
+   "units": [
+    "dance, all: 9 works",
+    "krakowiak, all: 3 works",
+    "polonaise, all: 5 works"
+   ]
+  },
+  "Karol Mikuli": {
+   "file": "karol-mikuli.md",
+   "units": [
+    "duet, all: 4 works",
+    "song, all: 7 works"
+   ]
+  },
+  "Karol Studziński": {
+   "file": "karol-studzinski.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "Karol Szymanowski": {
+   "file": "karol-szymanowski.md",
+   "units": [
+    "fantasia, all: 3 works",
+    "song, all: 25 works"
+   ]
+  },
+  "Kaspar": {
+   "file": "kaspar.md",
+   "units": [
+    "mass, any period: 6 works"
+   ]
+  },
+  "Kaspar Förster": {
+   "file": "kaspar-forster.md",
+   "units": [
+    "sonata, all: 7 works"
+   ]
+  },
+  "Kasper Napoleon Wysocki": {
+   "file": "kasper-napoleon-wysocki.md",
+   "units": [
+    "dance, all: 21 works",
+    "krakowiak, all: 9 works",
+    "march, all: 3 works",
+    "waltz, all: 9 works"
+   ]
+  },
+  "Kazimierz Nowakiewicz": {
+   "file": "kazimierz-nowakiewicz.md",
+   "units": [
+    "mass, all: 21 works"
+   ]
+  },
+  "Klakowski": {
+   "file": "klakowski.md",
+   "units": [
+    "mass, all: 9 works"
+   ]
+  },
+  "Korneliusz Maletz": {
+   "file": "korneliusz-maletz.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Kotowicz": {
+   "file": "kotowicz.md",
+   "units": [
+    "oratorio, any period: 6 works"
+   ]
+  },
+  "Kreith": {
+   "file": "kreith.md",
+   "units": [
+    "suite, all: 4 works"
+   ]
+  },
+  "Krzysztof Borek": {
+   "file": "krzysztof-borek.md",
+   "units": [
+    "mass, all: 9 works"
+   ]
+  },
+  "Lambert Kraus": {
+   "file": "lambert-kraus.md",
+   "units": [
+    "mass, all: 18 works"
+   ]
+  },
+  "Laura Netzel": {
+   "file": "laura-netzel.md",
+   "units": [
+    "song (voice and keyboard), all: 7 works"
+   ]
+  },
+  "Leonardo Vinci": {
+   "file": "leonardo-vinci.md",
+   "units": [
+    "air (chamber), all: 3 works"
+   ]
+  },
+  "Leopold Hofmann": {
+   "file": "leopold-hofmann.md",
+   "units": [
+    "motet, all: 6 works"
+   ]
+  },
+  "Leopold Koželuch": {
+   "file": "leopold-kozeluch.md",
+   "units": [
+    "rondo (keyboard), all: 11 works, 11 labelled",
+    "sonata (keyboard), all: 49 works, 49 labelled"
+   ]
+  },
+  "Leopold Pych": {
+   "file": "leopold-pych.md",
+   "units": [
+    "mass, all: 14 works",
+    "oratorio, all: 3 works"
+   ]
+  },
+  "Leoš Janáček": {
+   "file": "leos-janacek.md",
+   "units": [
+    "sonata (string quartet), all: 4 works",
+    "string quartet (string quartet), all: 8 works"
+   ]
+  },
+  "Lili Boulanger": {
+   "file": "lili-boulanger.md",
+   "units": [
+    "song (voice and keyboard), all: 16 works"
+   ]
+  },
+  "Liza Lehmann": {
+   "file": "liza-lehmann.md",
+   "units": [
+    "song (voice and keyboard), all: 28 works"
+   ]
+  },
+  "Louis Spohr": {
+   "file": "louis-spohr.md",
+   "units": [
+    "string quartet (string quartet), all: 5 works"
+   ]
+  },
+  "Louisa Gray": {
+   "file": "louisa-gray.md",
+   "units": [
+    "song (voice and keyboard), all: 7 works"
+   ]
+  },
+  "Louise Reichardt": {
+   "file": "louise-reichardt.md",
+   "units": [
+    "song (voice and keyboard), all: 41 works, 28 labelled"
+   ]
+  },
+  "Loyset Compère": {
+   "file": "loyset-compere.md",
+   "units": [
+    "song (voices), all: 26 works"
+   ]
+  },
+  "Loïsa Puget": {
+   "file": "loisa-puget.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Luca Marenzio": {
+   "file": "luca-marenzio.md",
+   "units": [
+    "madrigal, all: 21 works",
+    "madrigal (voices), all: 30 works",
+    "mass, all: 6 works"
+   ]
+  },
+  "Ludomir Różycki": {
+   "file": "ludomir-rozycki.md",
+   "units": [
+    "impromptu, all: 4 works",
+    "nocturne, all: 6 works",
+    "prelude, all: 9 works"
+   ]
+  },
+  "Ludwig Daser": {
+   "file": "ludwig-daser.md",
+   "units": [
+    "mass (voices), all: 5 works"
+   ]
+  },
+  "Ludwig van Beethoven": {
+   "file": "ludwig-van-beethoven.md",
+   "units": [
+    "concerto (orchestra), middle: 3 works",
+    "dance (keyboard), early: 7 works, 6 labelled",
+    "fantasia (keyboard), early: 7 works, 3 labelled",
+    "minuet (keyboard), early: 6 works, 5 labelled",
+    "overture (orchestra), middle: 3 works",
+    "rondo (keyboard), early: 9 works, 7 labelled",
+    "scherzo (keyboard), early: 6 works, 4 labelled",
+    "scherzo (string quartet), early: 4 works, 4 labelled",
+    "sextet (chamber), early: 3 works",
+    "sonata (keyboard), early: 68 works, 54 labelled",
+    "sonata (keyboard), late: 12 works, 8 labelled",
+    "sonata (keyboard), middle: 15 works, 11 labelled",
+    "song (voice and keyboard), early: 14 works",
+    "string quartet (string quartet), early: 24 works, 24 labelled",
+    "string quartet (string quartet), late: 27 works, 26 labelled",
+    "string quartet (string quartet), middle: 20 works, 20 labelled",
+    "symphony (orchestra), middle: 3 works",
+    "variations (keyboard), any period: 13 works, 7 labelled"
+   ]
+  },
+  "Ludwik Maader": {
+   "file": "ludwik-maader.md",
+   "units": [
+    "mass, all: 29 works"
+   ]
+  },
+  "Luigi Boccherini": {
+   "file": "luigi-boccherini.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Luigi Cherubini": {
+   "file": "luigi-cherubini.md",
+   "units": [
+    "mass, all: 4 works",
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Luise Adolpha Le Beau": {
+   "file": "luise-adolpha-le-beau.md",
+   "units": [
+    "song (voice and keyboard), all: 7 works"
+   ]
+  },
+  "Luise Greger": {
+   "file": "luise-greger.md",
+   "units": [
+    "song (voice and keyboard), all: 9 works"
+   ]
+  },
+  "Maksymilian Koperski": {
+   "file": "maksymilian-koperski.md",
+   "units": [
+    "mass, all: 17 works"
+   ]
+  },
+  "Marbrianus de Orto": {
+   "file": "marbrianus-de-orto.md",
+   "units": [
+    "mass (voices), all: 29 works",
+    "motet (voices), all: 7 works",
+    "song (voices), all: 7 works"
+   ]
+  },
+  "Marcin Józef Żebrowski": {
+   "file": "marcin-jozef-zebrowski.md",
+   "units": [
+    "magnificat, all: 13 works",
+    "mass, all: 21 works",
+    "sonata, all: 10 works"
+   ]
+  },
+  "Marcin Mielczewski": {
+   "file": "marcin-mielczewski.md",
+   "units": [
+    "mass, all: 4 works"
+   ]
+  },
+  "Marco Scacchi": {
+   "file": "marco-scacchi.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "Maria Szymanowska": {
+   "file": "maria-szymanowska.md",
+   "units": [
+    "etude, all: 7 works",
+    "prelude, all: 17 works"
+   ]
+  },
+  "Maria Theresia von Paradis": {
+   "file": "maria-theresia-von-paradis.md",
+   "units": [
+    "song (voice and keyboard), all: 12 works"
+   ]
+  },
+  "Marie Jaëll": {
+   "file": "marie-jaell.md",
+   "units": [
+    "song (voice and keyboard), all: 17 works"
+   ]
+  },
+  "Mathias Zieleniewicz": {
+   "file": "mathias-zieleniewicz.md",
+   "units": [
+    "mass (voices), all: 10 works"
+   ]
+  },
+  "Mathilde Kralik": {
+   "file": "mathilde-kralik.md",
+   "units": [
+    "song (voice and keyboard), all: 18 works"
+   ]
+  },
+  "Matteo Carcassi": {
+   "file": "matteo-carcassi.md",
+   "units": [
+    "etude (plucked), all: 21 works"
+   ]
+  },
+  "Matthaeus Pipelare": {
+   "file": "matthaeus-pipelare.md",
+   "units": [
+    "mass (voices), all: 5 works"
+   ]
+  },
+  "Maude Valérie White": {
+   "file": "maude-valerie-white.md",
+   "units": [
+    "song (voice and keyboard), all: 6 works"
+   ]
+  },
+  "Maurice Ravel": {
+   "file": "maurice-ravel.md",
+   "units": [
+    "character piece (keyboard), all: 5 works, 3 labelled",
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Mauro Giuliani": {
+   "file": "mauro-giuliani.md",
+   "units": [
+    "etude (plucked), all: 47 works",
+    "sonata (plucked), all: 3 works",
+    "variations (plucked), all: 7 works"
+   ]
+  },
+  "Max Reger": {
+   "file": "max-reger.md",
+   "units": [
+    "string quartet (string quartet), all: 19 works"
+   ]
+  },
+  "Michał Hertz": {
+   "file": "michal-hertz.md",
+   "units": [
+    "dance, all: 7 works",
+    "krakowiak, all: 3 works"
+   ]
+  },
+  "Michał Kleofas Ogiński": {
+   "file": "michal-kleofas-oginski.md",
+   "units": [
+    "dance, all: 11 works",
+    "polonaise, all: 11 works"
+   ]
+  },
+  "Michał Orłowski": {
+   "file": "michal-orlowski.md",
+   "units": [
+    "mass, all: 13 works"
+   ]
+  },
+  "Mikhail Glinka": {
+   "file": "mikhail-glinka.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Mikołaj Janicki": {
+   "file": "mikolaj-janicki.md",
+   "units": [
+    "rondo, all: 4 works"
+   ]
+  },
+  "Mikołaj Zieleński": {
+   "file": "mikolaj-zielenski.md",
+   "units": [
+    "fantasia, all: 3 works"
+   ]
+  },
+  "Moritz Moszkowski": {
+   "file": "moritz-moszkowski.md",
+   "units": [
+    "capriccio, all: 5 works",
+    "concerto (orchestra), all: 3 works",
+    "dance, all: 31 works",
+    "etude, all: 12 works",
+    "march, all: 3 works",
+    "mazurka, all: 6 works",
+    "polonaise, all: 6 works",
+    "romance, all: 3 works",
+    "scherzo, all: 4 works",
+    "song, all: 3 works",
+    "suite, all: 4 works",
+    "waltz, all: 10 works"
+   ]
+  },
+  "Muzio Clementi": {
+   "file": "muzio-clementi.md",
+   "units": [
+    "sonata (keyboard), all: 3 works"
+   ]
+  },
+  "Nicola Porpora": {
+   "file": "nicola-porpora.md",
+   "units": [
+    "air (chamber), all: 3 works"
+   ]
+  },
+  "Oskar Rieding": {
+   "file": "oskar-rieding.md",
+   "units": [
+    "concerto (chamber), all: 3 works"
+   ]
+  },
+  "Paolo Benedetto Bellinzani": {
+   "file": "paolo-benedetto-bellinzani.md",
+   "units": [
+    "mass, all: 4 works"
+   ]
+  },
+  "Pauline Duchambge": {
+   "file": "pauline-duchambge.md",
+   "units": [
+    "song (voice and keyboard), all: 4 works"
+   ]
+  },
+  "Pauline Viardot": {
+   "file": "pauline-viardot.md",
+   "units": [
+    "song (voice and keyboard), all: 21 works"
+   ]
+  },
+  "Peter Cornelius": {
+   "file": "peter-cornelius.md",
+   "units": [
+    "song (voice and keyboard), all: 33 works"
+   ]
+  },
+  "Peter Warlock": {
+   "file": "peter-warlock.md",
+   "units": [
+    "song (voice and keyboard), all: 22 works"
+   ]
+  },
+  "Philipp Friedrich Buchner": {
+   "file": "philipp-friedrich-buchner.md",
+   "units": [
+    "sonata, all: 34 works"
+   ]
+  },
+  "Pierre Cadéac": {
+   "file": "pierre-cadeac.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Pierre Certon": {
+   "file": "pierre-certon.md",
+   "units": [
+    "mass, all: 14 works"
+   ]
+  },
+  "Pierre Moulu": {
+   "file": "pierre-moulu.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "Pierre de La Rue": {
+   "file": "pierre-de-la-rue.md",
+   "units": [
+    "magnificat (voices), all: 4 works",
+    "mass (voices), all: 136 works",
+    "motet (voices), all: 21 works",
+    "song (voices), all: 14 works"
+   ]
+  },
+  "Piotr Ilyich Tchaikovsky": {
+   "file": "piotr-ilyich-tchaikovsky.md",
+   "units": [
+    "character piece (keyboard), all: 12 works, 12 labelled",
+    "concerto (orchestra), all: 3 works",
+    "string quartet (string quartet), all: 5 works"
+   ]
+  },
+  "Piotr Studziński": {
+   "file": "piotr-studzinski.md",
+   "units": [
+    "mass, all: 7 works"
+   ]
+  },
+  "Poldowski (Irène Régine Wieniawski)": {
+   "file": "poldowski-irene-regine-wieniawski.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Ralph Vaughan Williams": {
+   "file": "ralph-vaughan-williams.md",
+   "units": [
+    "partsong (voices), all: 6 works"
+   ]
+  },
+  "Richard Strauss": {
+   "file": "richard-strauss.md",
+   "units": [
+    "song (voice and keyboard), all: 4 works",
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Richard Wagner": {
+   "file": "richard-wagner.md",
+   "units": [
+    "song (voice and keyboard), music dramas: 5 works"
+   ]
+  },
+  "Richling": {
+   "file": "richling.md",
+   "units": [
+    "mass, any period: 16 works"
+   ]
+  },
+  "Robert Franz": {
+   "file": "robert-franz.md",
+   "units": [
+    "song (voice and keyboard), all: 49 works"
+   ]
+  },
+  "Robert Führer": {
+   "file": "robert-fuhrer.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Robert Schumann": {
+   "file": "robert-schumann.md",
+   "units": [
+    "character piece (keyboard), piano years: 13 works, 13 labelled",
+    "song, any period: 3 works",
+    "song (voice and keyboard), 1840 to 1849: 62 works, 31 labelled",
+    "song (voice and keyboard), late: 10 works",
+    "string quartet (string quartet), 1840 to 1849: 12 works"
+   ]
+  },
+  "Roger Quilter": {
+   "file": "roger-quilter.md",
+   "units": [
+    "song (voice and keyboard), all: 11 works"
+   ]
+  },
+  "Roman Statkowski": {
+   "file": "roman-statkowski.md",
+   "units": [
+    "dance, all: 6 works",
+    "mazurka, all: 3 works",
+    "prelude, all: 6 works",
+    "string quartet, all: 3 works"
+   ]
+  },
+  "Romuald Teodor Zientarski": {
+   "file": "romuald-teodor-zientarski.md",
+   "units": [
+    "mass, all: 11 works"
+   ]
+  },
+  "Samuel Coleridge-Taylor": {
+   "file": "samuel-coleridge-taylor.md",
+   "units": [
+    "song (voice and keyboard), all: 8 works, 7 labelled"
+   ]
+  },
+  "Scott Joplin": {
+   "file": "scott-joplin.md",
+   "units": [
+    "dance (keyboard), all: 46 works",
+    "march (keyboard), all: 25 works",
+    "rag (keyboard), all: 46 works",
+    "waltz (keyboard), all: 5 works"
+   ]
+  },
+  "Sergei Rachmaninoff": {
+   "file": "sergei-rachmaninoff.md",
+   "units": [
+    "prelude (keyboard), Russia: 8 works",
+    "variations (keyboard), exile: 22 works, 22 labelled"
+   ]
+  },
+  "Stanisław Kazuro": {
+   "file": "stanislaw-kazuro.md",
+   "units": [
+    "dance, all: 4 works",
+    "song, all: 25 works"
+   ]
+  },
+  "Stanisław Moniuszko": {
+   "file": "stanislaw-moniuszko.md",
+   "units": [
+    "air, all: 3 works",
+    "dance, all: 14 works",
+    "hymn, all: 7 works",
+    "mass, all: 51 works",
+    "waltz, all: 7 works"
+   ]
+  },
+  "Starck": {
+   "file": "starck.md",
+   "units": [
+    "mass, any period: 10 works"
+   ]
+  },
+  "Stefan Bułakowski": {
+   "file": "stefan-bulakowski.md",
+   "units": [
+    "mass, all: 12 works"
+   ]
+  },
+  "Stephen Foster": {
+   "file": "stephen-foster.md",
+   "units": [
+    "song (voice and keyboard), all: 3 works"
+   ]
+  },
+  "Tadeusz Bogoimski": {
+   "file": "tadeusz-bogoimski.md",
+   "units": [
+    "air, all: 3 works"
+   ]
+  },
+  "Tadeusz Joteyko": {
+   "file": "tadeusz-joteyko.md",
+   "units": [
+    "dance, all: 4 works",
+    "sonata, all: 12 works",
+    "song, all: 14 works"
+   ]
+  },
+  "Tadeusz Kościuszko": {
+   "file": "tadeusz-kosciuszko.md",
+   "units": [
+    "dance, all: 4 works",
+    "polonaise, all: 3 works"
+   ]
+  },
+  "Tadeusz Mrozowski": {
+   "file": "tadeusz-mrozowski.md",
+   "units": [
+    "mass, all: 9 works"
+   ]
+  },
+  "Teresa Carreño": {
+   "file": "teresa-carreno.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Thomas Arne": {
+   "file": "thomas-arne.md",
+   "units": [
+    "song (voice and keyboard), all: 11 works"
+   ]
+  },
+  "Thomas Tallis": {
+   "file": "thomas-tallis.md",
+   "units": [
+    "anthem (voices), all: 11 works",
+    "hymn (voices), all: 17 works",
+    "magnificat (voices), all: 3 works",
+    "mass (voices), all: 3 works",
+    "motet (voices), all: 22 works",
+    "partsong (voices), all: 3 works",
+    "song (voices), all: 4 works"
+   ]
+  },
+  "Théodore Gouvy": {
+   "file": "theodore-gouvy.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  },
+  "Tomasz Szadek": {
+   "file": "tomasz-szadek.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "Vincent d'Indy": {
+   "file": "vincent-d-indy.md",
+   "units": [
+    "string quartet (string quartet), all: 5 works"
+   ]
+  },
+  "Vincenzo Righini": {
+   "file": "vincenzo-righini.md",
+   "units": [
+    "mass, all: 6 works"
+   ]
+  },
+  "Vincenzo Ruffo": {
+   "file": "vincenzo-ruffo.md",
+   "units": [
+    "mass, all: 5 works"
+   ]
+  },
+  "Virginia Gabriel": {
+   "file": "virginia-gabriel.md",
+   "units": [
+    "song (voice and keyboard), all: 4 works"
+   ]
+  },
+  "Vito Ugolino": {
+   "file": "vito-ugolino.md",
+   "units": [
+    "concerto (orchestra), all: 3 works"
+   ]
+  },
+  "Vogel": {
+   "file": "vogel.md",
+   "units": [
+    "mass, any period: 17 works"
+   ]
+  },
+  "Vulfran Samin": {
+   "file": "vulfran-samin.md",
+   "units": [
+    "mass, all: 4 works"
+   ]
+  },
+  "Václav Kalous": {
+   "file": "vaclav-kalous.md",
+   "units": [
+    "mass, all: 8 works"
+   ]
+  },
+  "Wacław Raszek": {
+   "file": "waclaw-raszek.md",
+   "units": [
+    "concerto (orchestra), all: 3 works",
+    "mass, all: 109 works"
+   ]
+  },
+  "Walenty Szlagórski": {
+   "file": "walenty-szlagorski.md",
+   "units": [
+    "dance, all: 15 works",
+    "mazurka, all: 5 works",
+    "waltz, all: 10 works"
+   ]
+  },
+  "Walford Davies": {
+   "file": "walford-davies.md",
+   "units": [
+    "song (voice and keyboard), all: 8 works"
+   ]
+  },
+  "Walter Parratt": {
+   "file": "walter-parratt.md",
+   "units": [
+    "chorale (voice and keyboard), all: 13 works",
+    "song (voice and keyboard), all: 13 works"
+   ]
+  },
+  "Wilhelm Friedemann Bach": {
+   "file": "wilhelm-friedemann-bach.md",
+   "units": [
+    "sonata (keyboard), all: 9 works, 9 labelled"
+   ]
+  },
+  "Wilhelm Stenhammar": {
+   "file": "wilhelm-stenhammar.md",
+   "units": [
+    "string quartet (string quartet), all: 8 works"
+   ]
+  },
+  "Wilhelm Troschel": {
+   "file": "wilhelm-troschel.md",
+   "units": [
+    "dance, all: 5 works",
+    "mass, all: 5 works"
+   ]
+  },
+  "William Byrd": {
+   "file": "william-byrd.md",
+   "units": [
+    "hymn (voices), all: 4 works",
+    "madrigal (voices), all: 6 works",
+    "magnificat (voices), all: 7 works",
+    "mass (voices), all: 4 works",
+    "motet (voices), all: 159 works",
+    "partsong (voices), all: 68 works",
+    "song, all: 3 works",
+    "song (voices), all: 26 works"
+   ]
+  },
+  "Wincenty Studziński": {
+   "file": "wincenty-studzinski.md",
+   "units": [
+    "mass, all: 4 works"
+   ]
+  },
+  "Wojciech Sowiński": {
+   "file": "wojciech-sowinski.md",
+   "units": [
+    "concerto (orchestra), all: 6 works",
+    "dance, all: 3 works",
+    "etude (orchestra), all: 6 works",
+    "march, all: 3 works",
+    "mass, all: 16 works",
+    "oratorio, all: 8 works",
+    "recitative, all: 3 works"
+   ]
+  },
+  "Wojciech Słoczyński": {
+   "file": "wojciech-sloczynski.md",
+   "units": [
+    "mass, all: 11 works"
+   ]
+  },
+  "Wolfgang Amadeus Mozart": {
+   "file": "wolfgang-amadeus-mozart.md",
+   "units": [
+    "air, Vienna: 4 works",
+    "concerto (orchestra), Vienna: 6 works",
+    "dance, Vienna: 6 works",
+    "dance (keyboard), Vienna: 4 works",
+    "dance (string quartet), Salzburg: 5 works",
+    "dance (string quartet), Vienna: 9 works",
+    "dance (string quartet), youth: 4 works",
+    "divertimento (chamber), Vienna: 3 works",
+    "divertimento (string quartet), youth: 3 works",
+    "duet, Vienna: 13 works",
+    "fugue (keyboard), Vienna: 3 works",
+    "minuet, Vienna: 4 works",
+    "minuet (string quartet), Salzburg: 5 works",
+    "minuet (string quartet), Vienna: 9 works",
+    "minuet (string quartet), youth: 4 works",
+    "quintet (chamber), Vienna: 4 works",
+    "rondo (keyboard), Salzburg: 4 works, 4 labelled",
+    "rondo (string quartet), Salzburg: 4 works",
+    "sonata (chamber), Vienna: 3 works",
+    "sonata (keyboard), Salzburg: 27 works, 27 labelled",
+    "sonata (keyboard), Vienna: 27 works, 27 labelled",
+    "song (voice and keyboard), Vienna: 5 works",
+    "string quartet (string quartet), Salzburg: 31 works",
+    "string quartet (string quartet), Vienna: 47 works",
+    "string quartet (string quartet), youth: 18 works",
+    "symphony (orchestra), youth: 4 works",
+    "trio (chamber), Vienna: 3 works",
+    "variations (keyboard), Vienna: 5 works, 5 labelled"
+   ]
+  },
+  "Władysław Leszczyński": {
+   "file": "wladyslaw-leszczynski.md",
+   "units": [
+    "mass (voices), all: 4 works"
+   ]
+  },
+  "Władysław Żeleński": {
+   "file": "wladyslaw-zelenski.md",
+   "units": [
+    "dance, all: 8 works",
+    "polonaise, all: 3 works",
+    "prelude, all: 26 works",
+    "sonata, all: 10 works"
+   ]
+  },
+  "Xaver Scharwenka": {
+   "file": "xaver-scharwenka.md",
+   "units": [
+    "dance, all: 5 works",
+    "polonaise, all: 5 works"
+   ]
+  },
+  "Zygmunt Noskowski": {
+   "file": "zygmunt-noskowski.md",
+   "units": [
+    "cantata, all: 3 works",
+    "dance, all: 10 works",
+    "krakowiak, all: 3 works",
+    "song, all: 78 works",
+    "string quartet, all: 4 works"
+   ]
+  },
+  "Zygmunt Stojowski": {
+   "file": "zygmunt-stojowski.md",
+   "units": [
+    "dance, all: 7 works",
+    "mazurka, all: 3 works",
+    "polonaise, all: 3 works",
+    "sonata, all: 3 works",
+    "song, all: 6 works"
+   ]
+  },
+  "Édouard Lalo": {
+   "file": "edouard-lalo.md",
+   "units": [
+    "string quartet (string quartet), all: 4 works"
+   ]
+  }
+ }
+}

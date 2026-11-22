@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Bedřich Smetana",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4845166227555503,
+   "repeats": 0.1487376148115152,
+   "leaps": 0.19062428077404586,
+   "move": 3.40446326277886,
+   "rising": 0.5403103311888778,
+   "leap answered": 0.20806463606622305,
+   "range": 24.5,
+   "register": 75.0,
+   "even": 0.5967383252844589,
+   "long-short": 0.07820921169398658,
+   "rhythm variety": 2.161394206305639,
+   "surprise, pitch": 2.1707222211444175,
+   "surprise, rhythm": 1.253865159978727,
+   "density": 7.240125309083788,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

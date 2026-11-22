@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Władysław Leszczyński",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.6539353631140705,
+   "repeats": 0.12268526115482165,
+   "leaps": 0.08549182262833191,
+   "move": 2.336360460957235,
+   "rising": 0.4661664766503476,
+   "leap answered": 0.6109318996415771,
+   "range": 10.125,
+   "register": 69.75,
+   "even": 0.3714291741674167,
+   "long-short": 0.13915369902374852,
+   "rhythm variety": 2.8046462839277106,
+   "surprise, pitch": 2.813078656798111,
+   "surprise, rhythm": 2.3326530064241404,
+   "density": 0.904930730884191,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 33,
+   "composers": 3
+  }
+ }
+]

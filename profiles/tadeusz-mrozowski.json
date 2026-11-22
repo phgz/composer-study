@@ -1,0 +1,246 @@
+[
+ {
+  "composer": "Tadeusz Mrozowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 9,
+  "values": {
+   "steps": 0.46937145407992276,
+   "repeats": 0.22506343931464137,
+   "leaps": 0.13823256169569212,
+   "move": 2.923373840967553,
+   "rising": 0.4770841333838287,
+   "leap answered": 0.29485510928161346,
+   "range": 15.288888888888888,
+   "register": 74.77777777777777,
+   "even": 0.6804884283065622,
+   "long-short": 0.05994743052200039,
+   "rhythm variety": 1.7845661528768848,
+   "surprise, pitch": 2.3986996826634814,
+   "surprise, rhythm": 1.3491130308749861,
+   "density": 5.82430526078662,
+   "lines": 3.7777777777777777
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.6804884283065622,
+    "others": 0.5326771072712557,
+    "auc": 0.8194982437402739
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.7845661528768848,
+    "others": 2.213399659076629,
+    "auc": 0.2208915788637531
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3491130308749861,
+    "others": 1.7375621746924985,
+    "auc": 0.19779200073739597
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -1,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-003_mrozowski-tadeusz--missa-ex-g-symphonia-post-epistolam.krn",
+      "label": "Missa ex G, Symphonia post Epistolam, movement 3 (PL-SA 68/A II 8, kern)",
+      "bar": 9,
+      "notes": "A4 C5 B4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-005_mrozowski-tadeusz--missa-ex-g-tantum-ergo-sacramentum.krn",
+      "label": "Missa ex G, Tantum Ergo Sacramentum, movement 5 (PL-SA 68/A II 8, kern)",
+      "bar": 23,
+      "notes": "A5 C6 B5 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 5,
+    "per_1000": 2.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-003_mrozowski-tadeusz--missa-ex-g-symphonia-post-epistolam.krn",
+      "label": "Missa ex G, Symphonia post Epistolam, movement 3 (PL-SA 68/A II 8, kern)",
+      "bar": 9,
+      "notes": "C5 A4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-002_mrozowski-tadeusz--missa-ex-g-gloria.krn",
+      "label": "Missa ex G, Gloria, movement 2 (PL-SA 68/A II 8, kern)",
+      "bar": 46,
+      "notes": "F5 D5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-008_mrozowski-tadeusz--missa-ex-g-dona-nobis.krn",
+      "label": "Missa ex G, Dona nobis, movement 8: Allo (PL-SA 68/A II 8, kern)",
+      "bar": 80,
+      "notes": "C5 A4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     4,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-009_mrozowski-tadeusz--missa-ex-g-presto.krn",
+      "label": "Missa ex G, Presto, movement 9 (PL-SA 68/A II 8, kern)",
+      "bar": 7,
+      "notes": "F#5 D5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-002_mrozowski-tadeusz--missa-ex-g-gloria.krn",
+      "label": "Missa ex G, Gloria, movement 2 (PL-SA 68/A II 8, kern)",
+      "bar": 123,
+      "notes": "B5 G5 B5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-006_mrozowski-tadeusz--missa-ex-g-sanctus.krn",
+      "label": "Missa ex G, Sanctus, movement 6: Adagio (PL-SA 68/A II 8, kern)",
+      "bar": 8,
+      "notes": "G4 F#4 G4 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-009_mrozowski-tadeusz--missa-ex-g-presto.krn",
+      "label": "Missa ex G, Presto, movement 9 (PL-SA 68/A II 8, kern)",
+      "bar": 43,
+      "notes": "C5 B4 C5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     3,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-002_mrozowski-tadeusz--missa-ex-g-gloria.krn",
+      "label": "Missa ex G, Gloria, movement 2 (PL-SA 68/A II 8, kern)",
+      "bar": 21,
+      "notes": "B4 B4 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-004_mrozowski-tadeusz--missa-ex-g-credo.krn",
+      "label": "Missa ex G, Credo, movement 4 (PL-SA 68/A II 8, kern)",
+      "bar": 50,
+      "notes": "B4 B4 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -3,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-004_mrozowski-tadeusz--missa-ex-g-credo.krn",
+      "label": "Missa ex G, Credo, movement 4 (PL-SA 68/A II 8, kern)",
+      "bar": 85,
+      "notes": "A5 F5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-003_mrozowski-tadeusz--missa-ex-g-symphonia-post-epistolam.krn",
+      "label": "Missa ex G, Symphonia post Epistolam, movement 3 (PL-SA 68/A II 8, kern)",
+      "bar": 67,
+      "notes": "E5 C5 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--68-a-ii-8--001-002_mrozowski-tadeusz--missa-ex-g-gloria.krn",
+      "label": "Missa ex G, Gloria, movement 2 (PL-SA 68/A II 8, kern)",
+      "bar": 33,
+      "notes": "E5 C5 A4 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 638,
+   "composers": 34
+  }
+ }
+]

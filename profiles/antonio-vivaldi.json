@@ -1,0 +1,1221 @@
+[
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "air",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.6282834108247858,
+   "repeats": 0.05787869619443272,
+   "leaps": 0.19368108235486514,
+   "move": 3.139781874227396,
+   "rising": 0.40173540159594306,
+   "leap answered": 0.27126022126022126,
+   "range": 15.199999999999998,
+   "register": 66.66666666666667,
+   "even": 0.6750880924303684,
+   "long-short": 0.09008841574437093,
+   "rhythm variety": 1.8362063687823529,
+   "surprise, pitch": 2.4348155278324954,
+   "surprise, rhythm": 1.1922817951979725,
+   "density": 8.886474724124604,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 28,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "allemande",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.44479898594573064,
+   "repeats": 0.10219366639926539,
+   "leaps": 0.2638201796486925,
+   "move": 3.733103988139236,
+   "rising": 0.4267212842044542,
+   "leap answered": 0.22237563055640858,
+   "range": 14.737499999999999,
+   "register": 76.5,
+   "even": 0.5727771754619554,
+   "long-short": 0.15074353146130998,
+   "rhythm variety": 2.1316902438315175,
+   "surprise, pitch": 2.696399782271099,
+   "surprise, rhythm": 1.4971523960705908,
+   "density": 4.422600851709331,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.44479898594573064,
+    "others": 0.5675916149516648,
+    "auc": 0.24184782608695654
+   },
+   {
+    "measure": "rising",
+    "value": 0.4267212842044542,
+    "others": 0.47627877337669666,
+    "auc": 0.2173913043478261
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 5,
+    "per_1000": 7.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n01m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in G major, op. 1, no. 1 (RV 73), movement 2. Allemanda: Allegro (kern)",
+      "bar": 3,
+      "notes": "F#5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n10m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B-flat major, op. 1, no. 10 (RV 78), movement 2. Allemanda: Allegro (kern)",
+      "bar": 4,
+      "notes": "A5 Bb5 A5 Bb5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n05m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in F major, op. 1, no. 5 (RV 69), movement 2. Allemanda: Presto (kern)",
+      "bar": 9,
+      "notes": "B4 C5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.2,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n04m03.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in E major, op. 1, no. 4 (RV 66), movement 3. Allemanda: Allegro (kern)",
+      "bar": 12,
+      "notes": "Ab5 Bb5 Bb5 Bb5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n07m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in E-flat major, op. 1, no. 7 (RV 73), movement 2. Allemanda: Allegro (kern)",
+      "bar": 2,
+      "notes": "Ab5 Bb5 Bb5 Bb5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n06m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D major, op. 1, no. 6 (RV 62), movement 4. Allemanda: Allegro (kern)",
+      "bar": 16,
+      "notes": "E5 F#5 F#5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 2,
+    "per_1000": 3.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n03m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in C major, op. 1, no. 3 (RV 61), movement 2. Allemanda: Allegro (kern)",
+      "bar": 2,
+      "notes": "E5 F5 A5 G5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n10m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B-flat major, op. 1, no. 10 (RV 78), movement 2. Allemanda: Allegro (kern)",
+      "bar": 8,
+      "notes": "D5 Eb5 G5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 46,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5183221952951759,
+   "repeats": 0.22580539183268702,
+   "leaps": 0.12020485523781856,
+   "move": 2.755989965046792,
+   "rising": 0.4938362085165558,
+   "leap answered": 0.16233766233766234,
+   "range": 9.75,
+   "register": 78.33333333333333,
+   "even": 0.8184288510977012,
+   "long-short": 0.025129884797831487,
+   "rhythm variety": 1.1284867708949156,
+   "surprise, pitch": 2.633071615459072,
+   "surprise, rhythm": 0.9406349130859484,
+   "density": 8.725333638351765,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 84,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "concerto",
+  "forces": "strings",
+  "period": "all",
+  "era": "Baroque",
+  "works": 29,
+  "values": {
+   "steps": 0.502857679391521,
+   "repeats": 0.1811987490894788,
+   "leaps": 0.19396185520168815,
+   "move": 3.3504315146651704,
+   "rising": 0.46337215510088114,
+   "leap answered": 0.2216170757494737,
+   "range": 16.341379310344827,
+   "register": 76.34482758620689,
+   "even": 0.6918750497812576,
+   "long-short": 0.12113943322721425,
+   "rhythm variety": 1.436180009896367,
+   "surprise, pitch": 2.24858694236867,
+   "surprise, rhythm": 0.9535522013421417,
+   "density": 9.661453371318219,
+   "lines": 6.931034482758621
+  },
+  "traits": [
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.9535522013421417,
+    "others": 1.4487666602687757,
+    "auc": 0.24999999999999997
+   },
+   {
+    "measure": "density",
+    "value": 9.661453371318219,
+    "others": 6.460816190218401,
+    "auc": 0.7733265720081135
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 17,
+    "per_1000": 5.5,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/1#3",
+      "label": "L'estro Armonico, Op. 3, no. 1 (RV 549, 578, 310, 550, 519, 356), movement 3 (Mutopia)",
+      "bar": 8,
+      "notes": "B4 C#5 D5 E5"
+     },
+     {
+      "work": "mutopia:VivaldiA/O8/winter#3",
+      "label": "L'Inverno / Winter (Op. 8, No. 4), movement 3: Allegro (Mutopia)",
+      "bar": 22,
+      "notes": "D5 E5 F5 G5"
+     },
+     {
+      "work": "mutopia:VivaldiA/O8/summer#3",
+      "label": "Estate  /  Summer (Op. 8, No. 2), movement 3: Presto (Mutopia)",
+      "bar": 21,
+      "notes": "E5 F#5 G5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 16,
+    "per_1000": 5.1,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/1#3",
+      "label": "L'estro Armonico, Op. 3, no. 1 (RV 549, 578, 310, 550, 519, 356), movement 3 (Mutopia)",
+      "bar": 8,
+      "notes": "C#5 D5 E5 F#5"
+     },
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/3#1",
+      "label": "L'estro Armonico, Op. 3, no. 3 (RV 549, 578, 310, 550, 519, 356), movement 1 (Mutopia)",
+      "bar": 7,
+      "notes": "F#4 G4 A4 B4"
+     },
+     {
+      "work": "mutopia:VivaldiA/O8/winter#3",
+      "label": "L'Inverno / Winter (Op. 8, No. 4), movement 3: Allegro (Mutopia)",
+      "bar": 57,
+      "notes": "G5 Ab5 Bb5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 14,
+    "per_1000": 3.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "mutopia:VivaldiA/O8/summer#3",
+      "label": "Estate  /  Summer (Op. 8, No. 2), movement 3: Presto (Mutopia)",
+      "bar": 10,
+      "notes": "F#4 E4 D4 C4"
+     },
+     {
+      "work": "mutopia:VivaldiA/O8/autumn#1",
+      "label": "Autumno / Autumn (Op. 8, No. 3), movement 1: Allegro (Mutopia)",
+      "bar": 38,
+      "notes": "E5 D5 C5 Bb4"
+     },
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/4#2",
+      "label": "L'estro Armonico, Op. 3, no. 4 (RV 549, 578, 310, 550, 519, 356), movement 2 (Mutopia)",
+      "bar": 13,
+      "notes": "F#5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 15,
+    "per_1000": 4.8,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/1#3",
+      "label": "L'estro Armonico, Op. 3, no. 1 (RV 549, 578, 310, 550, 519, 356), movement 3 (Mutopia)",
+      "bar": 8,
+      "notes": "A4 B4 C#5 D5"
+     },
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/3#1",
+      "label": "L'estro Armonico, Op. 3, no. 3 (RV 549, 578, 310, 550, 519, 356), movement 1 (Mutopia)",
+      "bar": 7,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "mutopia:VivaldiA/O8/winter#3",
+      "label": "L'Inverno / Winter (Op. 8, No. 4), movement 3: Allegro (Mutopia)",
+      "bar": 22,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 18,
+    "per_1000": 5.0,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "mutopia:VivaldiA/O8/winter#3",
+      "label": "L'Inverno / Winter (Op. 8, No. 4), movement 3: Allegro (Mutopia)",
+      "bar": 5,
+      "notes": "C#5 C5 Bb4 C5"
+     },
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/1#2",
+      "label": "L'estro Armonico, Op. 3, no. 1 (RV 549, 578, 310, 550, 519, 356), movement 2 (Mutopia)",
+      "bar": 8,
+      "notes": "G5 F#5 E5 F#5"
+     },
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/1#1",
+      "label": "L'estro Armonico, Op. 3, no. 1 (RV 549, 578, 310, 550, 519, 356), movement 1 (Mutopia)",
+      "bar": 12,
+      "notes": "G5 F#5 E5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 16,
+    "per_1000": 3.9,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "mutopia:VivaldiA/O8/winter#3",
+      "label": "L'Inverno / Winter (Op. 8, No. 4), movement 3: Allegro (Mutopia)",
+      "bar": 5,
+      "notes": "C5 C#5 C5 Bb4"
+     },
+     {
+      "work": "mutopia:VivaldiA/O3/vivaldi-o3/vivaldi-o3-lys/1#2",
+      "label": "L'estro Armonico, Op. 3, no. 1 (RV 549, 578, 310, 550, 519, 356), movement 2 (Mutopia)",
+      "bar": 8,
+      "notes": "F#5 G5 F#5 E5"
+     },
+     {
+      "work": "mutopia:VivaldiA/O8/autumn#1",
+      "label": "Autumno / Autumn (Op. 8, No. 3), movement 1: Allegro (Mutopia)",
+      "bar": 10,
+      "notes": "A5 Bb5 A5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 68,
+   "composers": 1
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "courante",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.41477584124110267,
+   "repeats": 0.06495491435373389,
+   "leaps": 0.292726908048989,
+   "move": 4.153645736584994,
+   "rising": 0.44422002175753733,
+   "leap answered": 0.17043387023593468,
+   "range": 15.833333333333334,
+   "register": 76.5,
+   "even": 0.6213587376382742,
+   "long-short": 0.2032842948543636,
+   "rhythm variety": 1.628435550695744,
+   "surprise, pitch": 2.8001159636690063,
+   "surprise, rhythm": 1.1297116831363372,
+   "density": 3.694300416586389,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.41477584124110267,
+    "others": 0.5687786782142165,
+    "auc": 0.2073170731707317
+   },
+   {
+    "measure": "move",
+    "value": 4.153645736584994,
+    "others": 3.1809135870494307,
+    "auc": 0.8577235772357724
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.17043387023593468,
+    "others": 0.30952813762932474,
+    "auc": 0.2032520325203252
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "dance",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 27,
+  "values": {
+   "steps": 0.4283373116235434,
+   "repeats": 0.08741860251372671,
+   "leaps": 0.2967629525727395,
+   "move": 4.008494380729552,
+   "rising": 0.4344809905355047,
+   "leap answered": 0.1753812357646456,
+   "range": 15.22222222222222,
+   "register": 76.07407407407408,
+   "even": 0.6097936272776603,
+   "long-short": 0.157618387326964,
+   "rhythm variety": 1.8215014995119105,
+   "surprise, pitch": 2.7530223839868224,
+   "surprise, rhythm": 1.307954872845703,
+   "density": 3.869381953505965,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.4283373116235434,
+    "others": 0.5873903024646362,
+    "auc": 0.18874643884162734
+   },
+   {
+    "measure": "leaps",
+    "value": 0.2967629525727395,
+    "others": 0.18671736856681315,
+    "auc": 0.806505223082008
+   },
+   {
+    "measure": "move",
+    "value": 4.008494380729552,
+    "others": 2.8840892176046844,
+    "auc": 0.877018043620367
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.1753812357646456,
+    "others": 0.3077371324434992,
+    "auc": 0.21415004748421002
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 10,
+    "per_1000": 5.0,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m03.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 3. Giga: Allegro (kern)",
+      "bar": 25,
+      "notes": "D5 C#5 B4 C#5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 4. Gavotta: Andante (kern)",
+      "bar": 11,
+      "notes": "D5 C#5 B4 C#5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n02m03.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in E minor, op. 1, no. 2 (RV 67), movement 3. Giga: Allegro (kern)",
+      "bar": 24,
+      "notes": "C6 B5 A5 B5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 31,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "gavotte",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.3907869201003448,
+   "repeats": 0.056218396246293156,
+   "leaps": 0.3612301550541518,
+   "move": 4.255669827470105,
+   "rising": 0.40598054319140076,
+   "leap answered": 0.10334633787265365,
+   "range": 13.85,
+   "register": 76.0,
+   "even": 0.6301168442296099,
+   "long-short": 0.19363728414267584,
+   "rhythm variety": 1.582805033795452,
+   "surprise, pitch": 2.8704673710374142,
+   "surprise, rhythm": 1.363693083352812,
+   "density": 3.9790483383635604,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3907869201003448,
+    "others": 0.5993445492285259,
+    "auc": 0.1
+   },
+   {
+    "measure": "leaps",
+    "value": 0.3612301550541518,
+    "others": 0.19962150721978172,
+    "auc": 0.8846153846153847
+   },
+   {
+    "measure": "move",
+    "value": 4.255669827470105,
+    "others": 2.976093090064488,
+    "auc": 0.9076923076923077
+   },
+   {
+    "measure": "rising",
+    "value": 0.40598054319140076,
+    "others": 0.4766820323547343,
+    "auc": 0.12307692307692308
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.10334633787265365,
+    "others": 0.31189887989210213,
+    "auc": 0.11153846153846154
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 26,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "gigue",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.49773169641213066,
+   "repeats": 0.09951169286133384,
+   "leaps": 0.26029007266305915,
+   "move": 3.455702207026195,
+   "rising": 0.443705531924327,
+   "leap answered": 0.19423527667765178,
+   "range": 15.15,
+   "register": 75.2,
+   "even": 0.6851374096632419,
+   "long-short": 0.05015804076687765,
+   "rhythm variety": 1.5795722573461004,
+   "surprise, pitch": 2.631460002267902,
+   "surprise, rhythm": 0.9622235983967334,
+   "density": 2.9322919007177894,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.09951169286133384,
+    "others": 0.0375090458225418,
+    "auc": 0.8896825396825399
+   },
+   {
+    "measure": "rising",
+    "value": 0.443705531924327,
+    "others": 0.49353714114269975,
+    "auc": 0.1738095238095238
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 33,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "prelude",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.4695146803013196,
+   "repeats": 0.1904956067901741,
+   "leaps": 0.21148750443649605,
+   "move": 3.564029829074598,
+   "rising": 0.42026476417294006,
+   "leap answered": 0.2985496091240094,
+   "range": 15.412499999999996,
+   "register": 76.0,
+   "even": 0.5812428473881954,
+   "long-short": 0.1519560360434148,
+   "rhythm variety": 1.6418528043001261,
+   "surprise, pitch": 2.62243400344628,
+   "surprise, rhythm": 1.209245172584743,
+   "density": 5.2183322524817015,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.42026476417294006,
+    "others": 0.47543107301362453,
+    "auc": 0.23260846891948272
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -5,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 5.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n09m01.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in A major, op. 1, no. 9 (RV 75), movement 1. Preludio: Allegro (kern)",
+      "bar": 7,
+      "notes": "A5 E5 C#5 A4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n08m01.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 8 (RV 64), movement 1. Preludio: Largo (kern)",
+      "bar": 1,
+      "notes": "A4 E4 C#4 A3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 115,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "sarabande",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.3584891320869433,
+   "repeats": 0.12479100167198665,
+   "leaps": 0.3460252317981456,
+   "move": 4.961927260864186,
+   "rising": 0.4678219882330443,
+   "leap answered": 0.14859234234234234,
+   "range": 17.7,
+   "register": 75.66666666666667,
+   "even": 0.52592894583576,
+   "long-short": 0.20368860415453313,
+   "rhythm variety": 2.181506258762407,
+   "surprise, pitch": 2.8166911536449315,
+   "surprise, rhythm": 1.6432362969011691,
+   "density": 4.123334078687111,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "sonata",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 46,
+  "values": {
+   "steps": 0.450876073447456,
+   "repeats": 0.1267703825544098,
+   "leaps": 0.2596344001251066,
+   "move": 3.7301283317494978,
+   "rising": 0.4278628713089646,
+   "leap answered": 0.2369423911474514,
+   "range": 14.642391304347827,
+   "register": 76.40217391304348,
+   "even": 0.5845238805180276,
+   "long-short": 0.1407167990207926,
+   "rhythm variety": 1.865568449375984,
+   "surprise, pitch": 2.7347955190280713,
+   "surprise, rhythm": 1.366604981628744,
+   "density": 4.068952243832327,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -4,
+     10
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 6,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n12.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 12, \"Folia\" (RV 63): Adagio (kern)",
+      "bar": 98,
+      "notes": "E5 C#5 A4 G5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n01m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in G major, op. 1, no. 1 (RV 73), movement 4. Capricio: Allegro (kern)",
+      "bar": 9,
+      "notes": "D5 B4 G4 F5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n09m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in A major, op. 1, no. 9 (RV 75), movement 4. Corrente: Allegro (kern)",
+      "bar": 35,
+      "notes": "F#5 Eb5 B4 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 7,
+    "per_1000": 1.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n12.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 12, \"Folia\" (RV 63): Adagio (kern)",
+      "bar": 15,
+      "notes": "D5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n07m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in E-flat major, op. 1, no. 7 (RV 73), movement 2. Allemanda: Allegro (kern)",
+      "bar": 7,
+      "notes": "Eb5 D5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n04m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in E major, op. 1, no. 4 (RV 66), movement 4. Sarabanda: Largo (kern)",
+      "bar": 7,
+      "notes": "B5 Bb5 B5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     -7
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n10m03.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B-flat major, op. 1, no. 10 (RV 78), movement 3. Gavotta: Adagio (kern)",
+      "bar": 29,
+      "notes": "F5 D5 F5 Bb4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n08m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 8 (RV 64), movement 2. Corrente: Allegro (kern)",
+      "bar": 3,
+      "notes": "E5 C#5 E5 A4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n12.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 12, \"Folia\" (RV 63): Adagio (kern)",
+      "bar": 165,
+      "notes": "C6 A5 C6 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -3,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n12.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 12, \"Folia\" (RV 63): Adagio (kern)",
+      "bar": 97,
+      "notes": "A5 F5 D5 A4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 2. Corrente: Allegro (kern)",
+      "bar": 17,
+      "notes": "B5 G5 E5 B4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n02m03.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in E minor, op. 1, no. 2 (RV 67), movement 3. Giga: Allegro (kern)",
+      "bar": 11,
+      "notes": "F#5 D5 B4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 5,
+    "per_1000": 1.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n12.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 12, \"Folia\" (RV 63): Adagio (kern)",
+      "bar": 266,
+      "notes": "E5 E5 C#5 A4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 4. Gavotta: Andante (kern)",
+      "bar": 21,
+      "notes": "F#5 F#5 Eb5 B4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 2. Corrente: Allegro (kern)",
+      "bar": 45,
+      "notes": "E5 E5 C#5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -3,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n08m01.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 8 (RV 64), movement 1. Preludio: Largo (kern)",
+      "bar": 9,
+      "notes": "A4 F4 D4 A4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 4. Gavotta: Andante (kern)",
+      "bar": 26,
+      "notes": "F#5 D5 B4 F#5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n01m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in G major, op. 1, no. 1 (RV 73), movement 2. Allemanda: Allegro (kern)",
+      "bar": 4,
+      "notes": "G5 Eb5 C5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 230,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Antonio Vivaldi",
+  "kind": "trio sonata",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 46,
+  "values": {
+   "steps": 0.450876073447456,
+   "repeats": 0.1267703825544098,
+   "leaps": 0.2596344001251066,
+   "move": 3.7301283317494978,
+   "rising": 0.4278628713089646,
+   "leap answered": 0.2369423911474514,
+   "range": 14.642391304347827,
+   "register": 76.40217391304348,
+   "even": 0.5845238805180276,
+   "long-short": 0.1407167990207926,
+   "rhythm variety": 1.865568449375984,
+   "surprise, pitch": 2.7347955190280713,
+   "surprise, rhythm": 1.366604981628744,
+   "density": 4.068952243832327,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 5,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n12.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 12, \"Folia\" (RV 63): Adagio (kern)",
+      "bar": 266,
+      "notes": "E5 E5 C#5 A4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 4. Gavotta: Andante (kern)",
+      "bar": 21,
+      "notes": "F#5 F#5 Eb5 B4"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 2. Corrente: Allegro (kern)",
+      "bar": 45,
+      "notes": "E5 E5 C#5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.2,
+    "works": 7,
+    "per_1000": 1.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n12.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 12, \"Folia\" (RV 63): Adagio (kern)",
+      "bar": 15,
+      "notes": "D5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n07m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in E-flat major, op. 1, no. 7 (RV 73), movement 2. Allemanda: Allegro (kern)",
+      "bar": 7,
+      "notes": "Eb5 D5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n04m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in E major, op. 1, no. 4 (RV 66), movement 4. Sarabanda: Largo (kern)",
+      "bar": 7,
+      "notes": "B5 Bb5 B5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -5,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 5,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/vivaldi:vivaldi-op01n11m04.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in B minor, op. 1, no. 11 (RV 79), movement 4. Gavotta: Andante (kern)",
+      "bar": 5,
+      "notes": "Bb5 F#5 C#5 Bb5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n12.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in D minor, op. 1, no. 12, \"Folia\" (RV 63): Adagio (kern)",
+      "bar": 269,
+      "notes": "A5 F5 C5 A5"
+     },
+     {
+      "work": "kern/vivaldi:vivaldi-op01n05m02.krn",
+      "label": "12 sonatas for two violins and basso continuo, Sonata in F major, op. 1, no. 5 (RV 69), movement 2. Allemanda: Presto (kern)",
+      "bar": 5,
+      "notes": "A5 F5 C5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 148,
+   "composers": 2
+  }
+ }
+]

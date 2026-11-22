@@ -1,0 +1,588 @@
+[
+ {
+  "composer": "Antoine Busnoys",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.7119013241290922,
+   "repeats": 0.07226084315334522,
+   "leaps": 0.056529077562927174,
+   "move": 2.1725666894252202,
+   "rising": 0.46172224871124207,
+   "leap answered": 0.696701680672269,
+   "range": 10.4,
+   "register": 67.8,
+   "even": 0.3205771637963419,
+   "long-short": 0.1702755467561375,
+   "rhythm variety": 2.847340419991445,
+   "surprise, pitch": 2.4462023400652653,
+   "surprise, rhythm": 2.206061503651944,
+   "density": 0.9783052896288569,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7119013241290922,
+    "others": 0.6446545789773348,
+    "auc": 0.7729070482492821
+   },
+   {
+    "measure": "repeats",
+    "value": 0.07226084315334522,
+    "others": 0.1377978389689206,
+    "auc": 0.24203269017245388
+   },
+   {
+    "measure": "leaps",
+    "value": 0.056529077562927174,
+    "others": 0.09085391267895274,
+    "auc": 0.16384993056379735
+   },
+   {
+    "measure": "move",
+    "value": 2.1725666894252202,
+    "others": 2.3534632703391782,
+    "auc": 0.1922671368056997
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.696701680672269,
+    "others": 0.4860102665955113,
+    "auc": 0.8530897239290095
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1702755467561375,
+    "others": 0.12475937698090447,
+    "auc": 0.8724852494612836
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.4462023400652653,
+    "others": 2.6112963594194576,
+    "auc": 0.22566291059455038
+   },
+   {
+    "measure": "density",
+    "value": 0.9783052896288569,
+    "others": 1.4461437298099835,
+    "auc": 0.2438937586357431
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     5,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     1
+    ],
+    "z": 7.2,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus1001c-Missa_Lhomme_arme-Credo.krn",
+      "label": "Missa L'homme armé, Credo: Patrem omnipotentem (kern)",
+      "bar": 2,
+      "notes": "G4 G4 C5 Bb4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001e-Missa_Lhomme_arme-Agnus.krn",
+      "label": "Missa L'homme armé, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 2,
+      "notes": "G4 G4 C5 Bb4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 2,
+      "notes": "G4 G4 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus1001e-Missa_Lhomme_arme-Agnus.krn",
+      "label": "Missa L'homme armé, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 8,
+      "notes": "E4 D4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001d-Missa_Lhomme_arme-Sanctus.krn",
+      "label": "Missa L'homme armé, Sanctus: Pleni (kern)",
+      "bar": 68,
+      "notes": "A4 G4 Bb4 C5"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 4,
+      "notes": "E4 D4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     1,
+     -2
+    ],
+    "z": 7.1,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus1001c-Missa_Lhomme_arme-Credo.krn",
+      "label": "Missa L'homme armé, Credo: Patrem omnipotentem (kern)",
+      "bar": 3,
+      "notes": "G4 C5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001e-Missa_Lhomme_arme-Agnus.krn",
+      "label": "Missa L'homme armé, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 3,
+      "notes": "G4 C5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 3,
+      "notes": "G4 C5 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.2,
+    "works": 4,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus1001a-Missa_Lhomme_arme-Kyrie.krn",
+      "label": "Missa L'homme armé, Kyrie: Kyrie I (kern)",
+      "bar": 35,
+      "notes": "Bb4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001d-Missa_Lhomme_arme-Sanctus.krn",
+      "label": "Missa L'homme armé, Sanctus: Pleni (kern)",
+      "bar": 133,
+      "notes": "Bb4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001e-Missa_Lhomme_arme-Agnus.krn",
+      "label": "Missa L'homme armé, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 92,
+      "notes": "Bb4 G4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 5.9,
+    "works": 5,
+    "per_1000": 5.7,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus1001d-Missa_Lhomme_arme-Sanctus.krn",
+      "label": "Missa L'homme armé, Sanctus: Pleni (kern)",
+      "bar": 11,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001c-Missa_Lhomme_arme-Credo.krn",
+      "label": "Missa L'homme armé, Credo: Patrem omnipotentem (kern)",
+      "bar": 23,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 13,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 3.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus1001e-Missa_Lhomme_arme-Agnus.krn",
+      "label": "Missa L'homme armé, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 10,
+      "notes": "C5 Bb4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001d-Missa_Lhomme_arme-Sanctus.krn",
+      "label": "Missa L'homme armé, Sanctus: Pleni (kern)",
+      "bar": 4,
+      "notes": "D5 C5 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus1001b-Missa_Lhomme_arme-Gloria.krn",
+      "label": "Missa L'homme armé, Gloria: Et in terra pax (kern)",
+      "bar": 13,
+      "notes": "A4 G4 E4 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 591,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Antoine Busnoys",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.7038174856505911,
+   "repeats": 0.04937412691174661,
+   "leaps": 0.08823920265780731,
+   "move": 2.317599626443828,
+   "rising": 0.44653167067387134,
+   "leap answered": 0.5530718954248366,
+   "range": 11.916666666666666,
+   "register": 63.333333333333336,
+   "even": 0.2606215337756508,
+   "long-short": 0.18928521540489548,
+   "rhythm variety": 2.872407075260419,
+   "surprise, pitch": 2.6570141733550128,
+   "surprise, rhythm": 2.326009250161071,
+   "density": 0.8584039763890511,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 619,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Antoine Busnoys",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 57,
+  "values": {
+   "steps": 0.7162122723293495,
+   "repeats": 0.07727402732442377,
+   "leaps": 0.07019620290368662,
+   "move": 2.2383159821152434,
+   "rising": 0.43989830669316177,
+   "leap answered": 0.6058384597858282,
+   "range": 11.621052631578944,
+   "register": 67.26315789473684,
+   "even": 0.3262374125064588,
+   "long-short": 0.15639789397163928,
+   "rhythm variety": 2.820041519614613,
+   "surprise, pitch": 2.6062010910382987,
+   "surprise, rhythm": 2.2189055004475975,
+   "density": 0.8710424526353636,
+   "lines": 3.263157894736842
+  },
+  "traits": [
+   {
+    "measure": "density",
+    "value": 0.8710424526353636,
+    "others": 1.5711871279176148,
+    "auc": 0.21035850993818833
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     3
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 7.5,
+    "works": 31,
+    "per_1000": 5.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus3006-A_une_dame.krn",
+      "label": "A une dame: Les deulz (kern)",
+      "bar": 42,
+      "notes": "F4 E4 D4 F4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3040-Ma_plus_quassez.krn",
+      "label": "Ma plus qu'assez: Le renom (kern)",
+      "bar": 22,
+      "notes": "D4 C#4 B3 D4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3025-In_myne_zynn.krn",
+      "label": "In myne zynn (kern)",
+      "bar": 48,
+      "notes": "Bb4 A4 G4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.5,
+    "works": 29,
+    "per_1000": 5.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus3061-Vous_marchez__Marionnette.krn",
+      "label": "Vous marchez / Marionnette (kern)",
+      "bar": 20,
+      "notes": "E4 E4 D4 F4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3002-Advegne_que_venir_pourra.krn",
+      "label": "Advegne que venir pourra (kern)",
+      "bar": 3,
+      "notes": "E4 E4 D4 F4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3005-Au_gre_de_mes_ieulx.krn",
+      "label": "Au gré de mes ieulx: Car le bien parfait (kern)",
+      "bar": 16,
+      "notes": "E4 E4 D4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 6.9,
+    "works": 26,
+    "per_1000": 5.3,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus3042-Ma_vostre_cueur.krn",
+      "label": "M'a vostre cueur: Se vostre doux cueur (kern)",
+      "bar": 57,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3013-Cest_vous_en_qui_jay_esperance.krn",
+      "label": "C'est vous en qui j'ay esperance (kern)",
+      "bar": 23,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3017-En_soustenant_vostre_querelle.krn",
+      "label": "En soustenant vostre querelle (kern)",
+      "bar": 3,
+      "notes": "A4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.1,
+    "works": 37,
+    "per_1000": 7.7,
+    "others_per_1000": 2.5,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus3006-A_une_dame.krn",
+      "label": "A une dame: Les deulz (kern)",
+      "bar": 6,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3040-Ma_plus_quassez.krn",
+      "label": "Ma plus qu'assez: Le renom (kern)",
+      "bar": 11,
+      "notes": "G4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3013-Cest_vous_en_qui_jay_esperance.krn",
+      "label": "C'est vous en qui j'ay esperance (kern)",
+      "bar": 13,
+      "notes": "G4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 19,
+    "per_1000": 3.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus3002-Advegne_que_venir_pourra.krn",
+      "label": "Advegne que venir pourra (kern)",
+      "bar": 2,
+      "notes": "F4 E4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3020-Estil_merchy.krn",
+      "label": "Est-il merchy (kern)",
+      "bar": 10,
+      "notes": "Bb4 A4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3062-Vostre_gracieuse_acointance.krn",
+      "label": "Vostre gracieuse acointance (kern)",
+      "bar": 5,
+      "notes": "G4 F#4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     -2
+    ],
+    "z": 4.6,
+    "works": 14,
+    "per_1000": 2.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Bus/Bus3042-Ma_vostre_cueur.krn",
+      "label": "M'a vostre cueur: Se vostre doux cueur (kern)",
+      "bar": 57,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3013-Cest_vous_en_qui_jay_esperance.krn",
+      "label": "C'est vous en qui j'ay esperance (kern)",
+      "bar": 56,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Bus/Bus3028-Je_mesbais_de_vous.krn",
+      "label": "Je mesbais de vous (kern)",
+      "bar": 11,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 225,
+   "composers": 19
+  }
+ }
+]

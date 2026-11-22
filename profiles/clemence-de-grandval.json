@@ -1,0 +1,239 @@
+[
+ {
+  "composer": "Clémence de Grandval",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 13,
+  "values": {
+   "steps": 0.5399527146782795,
+   "repeats": 0.16997288744318462,
+   "leaps": 0.15792591506433828,
+   "move": 2.938551449409942,
+   "rising": 0.49617206304774736,
+   "leap answered": 0.3527711850040673,
+   "range": 12.976923076923075,
+   "register": 70.76923076923077,
+   "even": 0.5045079866657696,
+   "long-short": 0.11084259114565545,
+   "rhythm variety": 2.4095979118440676,
+   "surprise, pitch": 2.123385418261962,
+   "surprise, rhythm": 1.4878853680153163,
+   "density": 4.858486060987584,
+   "lines": 3.3846153846153846
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -6,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 7.3,
+    "works": 4,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Chanson_de_Barberine/lc6625925.mxl",
+      "label": "Chanson de Barberine (OpenScore)",
+      "bar": 25,
+      "notes": "E5 F5 B4 C5"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/2_Si_tu_m’aimais!/lc6613436.mxl",
+      "label": "Nouvelles mélodies, Si tu m’aimais! (OpenScore)",
+      "bar": 23,
+      "notes": "B4 C5 F#4 G4"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/3_Chanson/lc6613481.mxl",
+      "label": "Nouvelles mélodies, Chanson (OpenScore)",
+      "bar": 26,
+      "notes": "B4 C5 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/La_délaissée/lc6625953.mxl",
+      "label": "La délaissée (OpenScore)",
+      "bar": 5,
+      "notes": "Eb4 G4 Bb4 C5"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Le_bohémien/lc6239101.mxl",
+      "label": "Le bohémien (OpenScore)",
+      "bar": 33,
+      "notes": "G4 B4 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Le_bohémien/lc6239101.mxl",
+      "label": "Le bohémien (OpenScore)",
+      "bar": 5,
+      "notes": "F#6 C#6 Eb6 E6"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/La_délaissée/lc6625953.mxl",
+      "label": "La délaissée (OpenScore)",
+      "bar": 4,
+      "notes": "C5 G4 A4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Les_lucioles/lc6626192.mxl",
+      "label": "Les lucioles (OpenScore)",
+      "bar": 70,
+      "notes": "G4 D4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -7
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/2_Si_tu_m’aimais!/lc6613436.mxl",
+      "label": "Nouvelles mélodies, Si tu m’aimais! (OpenScore)",
+      "bar": 9,
+      "notes": "Bb4 C5 D5 G4"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Sacrifice/lc6626922.mxl",
+      "label": "Sacrifice (OpenScore)",
+      "bar": 3,
+      "notes": "Bb4 C5 D5 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/3_Chanson/lc6613481.mxl",
+      "label": "Nouvelles mélodies, Chanson (OpenScore)",
+      "bar": 10,
+      "notes": "E5 F#5 E5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Sacrifice/lc6626922.mxl",
+      "label": "Sacrifice (OpenScore)",
+      "bar": 9,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/5_Rappelle-toi!/lc6614760.mxl",
+      "label": "Nouvelles mélodies, Rappelle-toi! (OpenScore)",
+      "bar": 25,
+      "notes": "C5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Chanson_de_Barberine/lc6625925.mxl",
+      "label": "Chanson de Barberine (OpenScore)",
+      "bar": 25,
+      "notes": "D5 E5 F5 B4"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/3_Chanson/lc6613481.mxl",
+      "label": "Nouvelles mélodies, Chanson (OpenScore)",
+      "bar": 26,
+      "notes": "A4 B4 C5 F#4"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/6_Chrysa/lc6615501.mxl",
+      "label": "Nouvelles mélodies, Chrysa (OpenScore)",
+      "bar": 82,
+      "notes": "C5 D5 Eb5 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1075,
+   "composers": 97
+  }
+ }
+]

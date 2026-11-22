@@ -1,0 +1,314 @@
+[
+ {
+  "composer": "Jacob Obrecht",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 12,
+  "values": {
+   "steps": 0.7499999798579832,
+   "repeats": 0.061235795185442005,
+   "leaps": 0.07218418596172164,
+   "move": 2.241150987084303,
+   "rising": 0.435751917361243,
+   "leap answered": 0.6727458998854624,
+   "range": 11.495833333333332,
+   "register": 66.08333333333333,
+   "even": 0.29087222750919867,
+   "long-short": 0.14095124352716734,
+   "rhythm variety": 3.0294595869505407,
+   "surprise, pitch": 2.3946565611144566,
+   "surprise, rhythm": 2.2342144159842303,
+   "density": 0.9810413173320421,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7499999798579832,
+    "others": 0.6440388119790463,
+    "auc": 0.904614982360112
+   },
+   {
+    "measure": "repeats",
+    "value": 0.061235795185442005,
+    "others": 0.13805085662773064,
+    "auc": 0.18797292575096383
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.6727458998854624,
+    "others": 0.4852953502789585,
+    "auc": 0.8182110659989624
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.0294595869505407,
+    "others": 2.859424681758024,
+    "auc": 0.7882503620431006
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.3946565611144566,
+    "others": 2.6124857887007433,
+    "auc": 0.19692444832758094
+   },
+   {
+    "measure": "density",
+    "value": 0.9810413173320421,
+    "others": 1.4459957141624453,
+    "auc": 0.2455557726384251
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.9,
+    "works": 4,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Obr/Obr1001e-Missa_Adieu_mes_amours-Agnus.krn",
+      "label": "Missa Adieu mes amours, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 2,
+      "notes": "Bb4 A4 G4 D5"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1001c-Missa_Adieu_mes_amours-Credo.krn",
+      "label": "Missa Adieu mes amours, Credo: Patrem omnipotentem (kern)",
+      "bar": 129,
+      "notes": "Bb4 A4 G4 D5"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1001d-Missa_Adieu_mes_amours-Sanctus.krn",
+      "label": "Missa Adieu mes amours, Sanctus (kern)",
+      "bar": 46,
+      "notes": "Bb4 A4 G4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     12
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.6,
+    "works": 5,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Obr/Obr2018-Mille_quingentis__Requiem.krn",
+      "label": "Mille quingentis / Requiem: Prima pars: Mille quintentis/Requiem (kern)",
+      "bar": 16,
+      "notes": "E4 D4 C4 C5"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1002e-Missa_Ave_regina_celorum-Agnus.krn",
+      "label": "Missa Ave regina celorum, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 88,
+      "notes": "E4 D4 C4 C5"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1001c-Missa_Adieu_mes_amours-Credo.krn",
+      "label": "Missa Adieu mes amours, Credo: Patrem omnipotentem (kern)",
+      "bar": 23,
+      "notes": "E4 D4 C4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.4,
+    "works": 10,
+    "per_1000": 3.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/jrp:Obr/Obr1001c-Missa_Adieu_mes_amours-Credo.krn",
+      "label": "Missa Adieu mes amours, Credo: Patrem omnipotentem (kern)",
+      "bar": 24,
+      "notes": "A4 G4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1002b-Missa_Ave_regina_celorum-Gloria.krn",
+      "label": "Missa Ave regina celorum, Gloria: Et in terra pax (kern)",
+      "bar": 3,
+      "notes": "A4 G4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1001d-Missa_Adieu_mes_amours-Sanctus.krn",
+      "label": "Missa Adieu mes amours, Sanctus (kern)",
+      "bar": 51,
+      "notes": "A4 G4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 6.0,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Obr/Obr2018-Mille_quingentis__Requiem.krn",
+      "label": "Mille quingentis / Requiem: Prima pars: Mille quintentis/Requiem (kern)",
+      "bar": 72,
+      "notes": "B4 A4 C5 B4"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1001e-Missa_Adieu_mes_amours-Agnus.krn",
+      "label": "Missa Adieu mes amours, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 13,
+      "notes": "A4 G4 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1001d-Missa_Adieu_mes_amours-Sanctus.krn",
+      "label": "Missa Adieu mes amours, Sanctus (kern)",
+      "bar": 40,
+      "notes": "E4 D4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     3
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Obr/Obr1001d-Missa_Adieu_mes_amours-Sanctus.krn",
+      "label": "Missa Adieu mes amours, Sanctus (kern)",
+      "bar": 105,
+      "notes": "G4 F#4 G4 Bb4"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1001a-Missa_Adieu_mes_amours-Kyrie.krn",
+      "label": "Missa Adieu mes amours, Kyrie: Kyrie I (kern)",
+      "bar": 87,
+      "notes": "G4 F#4 G4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.5,
+    "works": 12,
+    "per_1000": 5.8,
+    "others_per_1000": 1.9,
+    "at": [
+     {
+      "work": "kern/jrp:Obr/Obr1001b-Missa_Adieu_mes_amours-Gloria.krn",
+      "label": "Missa Adieu mes amours, Gloria: Et in terra pax (kern)",
+      "bar": 2,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr2018-Mille_quingentis__Requiem.krn",
+      "label": "Mille quingentis / Requiem: Prima pars: Mille quintentis/Requiem (kern)",
+      "bar": 16,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Obr/Obr1002d-Missa_Ave_regina_celorum-Sanctus.krn",
+      "label": "Missa Ave regina celorum, Sanctus (kern)",
+      "bar": 14,
+      "notes": "F4 E4 D4 C4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 584,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Jacob Obrecht",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.6726701163644297,
+   "repeats": 0.12889178757872446,
+   "leaps": 0.07780724202119665,
+   "move": 2.3131753524580794,
+   "rising": 0.4429974225244557,
+   "leap answered": 0.5848654116819141,
+   "range": 10.75,
+   "register": 66.25,
+   "even": 0.3211765587547223,
+   "long-short": 0.13432788917573266,
+   "rhythm variety": 2.9686006785957444,
+   "surprise, pitch": 2.5738875250743276,
+   "surprise, rhythm": 2.288364275050263,
+   "density": 0.9593731734696398,
+   "lines": 4.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 618,
+   "composers": 18
+  }
+ }
+]

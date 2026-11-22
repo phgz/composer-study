@@ -1,0 +1,260 @@
+[
+ {
+  "composer": "Leoš Janáček",
+  "kind": "sonata",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.31517536335667573,
+   "repeats": 0.08618907913085708,
+   "leaps": 0.3243489156276357,
+   "move": 4.04783448551794,
+   "rising": 0.4946613441619082,
+   "leap answered": 0.0996795411879813,
+   "range": 24.5,
+   "register": 74.75,
+   "even": 0.6670903321423508,
+   "long-short": 0.024011425899393896,
+   "rhythm variety": 1.9320438897392134,
+   "surprise, pitch": 2.3504603697294755,
+   "surprise, rhythm": 1.3200214706963498,
+   "density": 5.353659867933914,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 939,
+   "composers": 45
+  }
+ },
+ {
+  "composer": "Leoš Janáček",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.3255379456758818,
+   "repeats": 0.11010492836574431,
+   "leaps": 0.3272329744270292,
+   "move": 4.053294442597335,
+   "rising": 0.48703493089499383,
+   "leap answered": 0.11125196076427252,
+   "range": 25.012499999999996,
+   "register": 77.5,
+   "even": 0.6398918559398374,
+   "long-short": 0.04095132042981381,
+   "rhythm variety": 1.9870860695282042,
+   "surprise, pitch": 2.4697517163621385,
+   "surprise, rhythm": 1.4117303366897413,
+   "density": 4.6949248926401,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3255379456758818,
+    "others": 0.5179046712057285,
+    "auc": 0.13778195488721803
+   },
+   {
+    "measure": "leaps",
+    "value": 0.3272329744270292,
+    "others": 0.19664913293268518,
+    "auc": 0.8488794100636206
+   },
+   {
+    "measure": "move",
+    "value": 4.053294442597335,
+    "others": 3.4140214070618655,
+    "auc": 0.8177125506072875
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.11125196076427252,
+    "others": 0.26872023493443803,
+    "auc": 0.09295835743204164
+   },
+   {
+    "measure": "long-short",
+    "value": 0.04095132042981381,
+    "others": 0.10350612968963478,
+    "auc": 0.1902617119722383
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.2_“Intimate_Letters”/sq7267316.mxl#3",
+      "label": "String Quartet No.2 “Intimate Letters”, movement 3: Moderato (OpenScore)",
+      "bar": 118,
+      "notes": "C#6 C#6 Eb6 Eb6"
+     },
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.2_“Intimate_Letters”/sq7267316.mxl#4",
+      "label": "String Quartet No.2 “Intimate Letters”, movement 4: Allegro (OpenScore)",
+      "bar": 5,
+      "notes": "F#5 F#5 Ab5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.1_“Kreutzer_Sonata”/sq7158117.mxl#2",
+      "label": "String Quartet No.1 “Kreutzer Sonata”, movement 2: Con moto (OpenScore)",
+      "bar": 219,
+      "notes": "C#4 C#4 Eb4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.2_“Intimate_Letters”/sq7267316.mxl#2",
+      "label": "String Quartet No.2 “Intimate Letters”, movement 2: Adagio (OpenScore)",
+      "bar": 68,
+      "notes": "Ab5 C#6 F#6 C#6"
+     },
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.1_“Kreutzer_Sonata”/sq7158117.mxl#1",
+      "label": "String Quartet No.1 “Kreutzer Sonata”, movement 1 (OpenScore)",
+      "bar": 65,
+      "notes": "C#5 F#5 B5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.2_“Intimate_Letters”/sq7267316.mxl#2",
+      "label": "String Quartet No.2 “Intimate Letters”, movement 2: Adagio (OpenScore)",
+      "bar": 68,
+      "notes": "C#6 F#6 C#6 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.1_“Kreutzer_Sonata”/sq7158117.mxl#1",
+      "label": "String Quartet No.1 “Kreutzer Sonata”, movement 1 (OpenScore)",
+      "bar": 65,
+      "notes": "F#5 B5 F#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.2_“Intimate_Letters”/sq7267316.mxl#4",
+      "label": "String Quartet No.2 “Intimate Letters”, movement 4: Allegro (OpenScore)",
+      "bar": 8,
+      "notes": "F#5 Ab5 E5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.2_“Intimate_Letters”/sq7267316.mxl#1",
+      "label": "String Quartet No.2 “Intimate Letters”, movement 1 (OpenScore)",
+      "bar": 201,
+      "notes": "F4 G4 Eb4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -4,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 5,
+    "per_1000": 3.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.2_“Intimate_Letters”/sq7267316.mxl#1",
+      "label": "String Quartet No.2 “Intimate Letters”, movement 1 (OpenScore)",
+      "bar": 190,
+      "notes": "E4 Ab4 E4 Ab4"
+     },
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.2_“Intimate_Letters”/sq7267316.mxl#4",
+      "label": "String Quartet No.2 “Intimate Letters”, movement 4: Allegro (OpenScore)",
+      "bar": 244,
+      "notes": "B4 Eb5 B4 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Janáček,_Leoš/String_Quartet_No.1_“Kreutzer_Sonata”/sq7158117.mxl#1",
+      "label": "String Quartet No.1 “Kreutzer Sonata”, movement 1 (OpenScore)",
+      "bar": 36,
+      "notes": "Bb3 D4 Bb3 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 110,
+   "composers": 19
+  }
+ }
+]

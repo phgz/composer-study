@@ -1,0 +1,97 @@
+[
+ {
+  "composer": "Frederick Delius",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.3269345810447929,
+   "repeats": 0.21271842365887636,
+   "leaps": 0.24663425520880447,
+   "move": 3.6244651149515015,
+   "rising": 0.5140335361107727,
+   "leap answered": 0.17229349951124143,
+   "range": 12.5,
+   "register": 71.0,
+   "even": 0.3748121237668876,
+   "long-short": 0.16591000385208368,
+   "rhythm variety": 2.846410516640018,
+   "surprise, pitch": 3.384051822610811,
+   "surprise, rhythm": 2.3021290396682144,
+   "density": 4.919615135259152,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3269345810447929,
+    "others": 0.48129519248725233,
+    "auc": 0.13044647065375842
+   },
+   {
+    "measure": "leaps",
+    "value": 0.24663425520880447,
+    "others": 0.15301397186453317,
+    "auc": 0.8788789466241201
+   },
+   {
+    "measure": "move",
+    "value": 3.6244651149515015,
+    "others": 2.9768948948447633,
+    "auc": 0.8873504156946934
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.384051822610811,
+    "others": 2.4256269321276656,
+    "auc": 0.9628656021750767
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.3021290396682144,
+    "others": 1.6267422076276887,
+    "auc": 0.897913677274345
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1082,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Frederick Delius",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4326931269826029,
+   "repeats": 0.045564986594325146,
+   "leaps": 0.27509666489574197,
+   "move": 3.86341922413431,
+   "rising": 0.47512703924907074,
+   "leap answered": 0.29692534168340623,
+   "range": 23.25,
+   "register": 74.25,
+   "even": 0.6261357418776643,
+   "long-short": 0.07677818787311662,
+   "rhythm variety": 2.0483790278961553,
+   "surprise, pitch": 3.3754077709756656,
+   "surprise, rhythm": 1.576224324525513,
+   "density": 4.380842594664646,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

@@ -1,0 +1,1626 @@
+[
+ {
+  "composer": "Józef Stefani",
+  "kind": "air",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5704703395376842,
+   "repeats": 0.10981586713030808,
+   "leaps": 0.1801584799758042,
+   "move": 2.989155293215898,
+   "rising": 0.4905506660353874,
+   "leap answered": 0.4078012691533818,
+   "range": 13.780000000000001,
+   "register": 80.3,
+   "even": 0.3976030695984173,
+   "long-short": 0.10808419097382653,
+   "rhythm variety": 2.774428174472754,
+   "surprise, pitch": 2.8821514092587686,
+   "surprise, rhythm": 2.0695855446910683,
+   "density": 10.436825883194516,
+   "lines": 8.2
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.3976030695984173,
+    "others": 0.5754427356354154,
+    "auc": 0.1739924360826814
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.774428174472754,
+    "others": 2.0886074689587937,
+    "auc": 0.8259421274511389
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8821514092587686,
+    "others": 2.521317050079966,
+    "auc": 0.7569764997392352
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.0695855446910683,
+    "others": 1.5366317384370705,
+    "auc": 0.842525399794995
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 5.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1440_stefani-jozef--aria-buffa-z-operetki-piorun.krn",
+      "label": "Aria buffa z operetki Piorun (PL-Wtm R 1440, kern)",
+      "bar": 39,
+      "notes": "C6 Bb5 Ab5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1564--001-003_stefani-jozef--stabat-mater-aria.krn",
+      "label": "Stabat Mater, Aria, movement 3: Adagio (PL-Wtm R 1564, kern)",
+      "bar": 5,
+      "notes": "G6 F6 Eb6 C6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 155,
+   "composers": 40
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 89,
+  "values": {
+   "steps": 0.5322409110467783,
+   "repeats": 0.11271779417222719,
+   "leaps": 0.1807442474350937,
+   "move": 3.1808761270422257,
+   "rising": 0.4898226253731534,
+   "leap answered": 0.32878107349445496,
+   "range": 16.599999999999994,
+   "register": 78.10112359550561,
+   "even": 0.4432539058642489,
+   "long-short": 0.13492807396584355,
+   "rhythm variety": 2.447149719871565,
+   "surprise, pitch": 2.130903122305134,
+   "surprise, rhythm": 1.3813832158636112,
+   "density": 13.682631760352654,
+   "lines": 6.730337078651686
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 9.5,
+    "works": 31,
+    "per_1000": 2.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1725_stefani-jozef--le-grande-marche-guerres.krn",
+      "label": "Le Grande Marche Guerres: Allegro (PL-Wtm R 1725, kern)",
+      "bar": 25,
+      "notes": "A6 G6 F#6 G6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1333_stefani-jozef--mazur-c-nr-1.krn",
+      "label": "Mazur C nr 1 (PL-Wtm R 1333, kern)",
+      "bar": 3,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1700-1_stefani-jozef--mazur-grany-na-balu-w-zamku.krn",
+      "label": "Mazur grany na balu w zamku (PL-Wtm R 1700/1, kern)",
+      "bar": 2,
+      "notes": "E5 D5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.0,
+    "works": 26,
+    "per_1000": 1.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1369_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1369, kern)",
+      "bar": 7,
+      "notes": "D6 C6 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1722_stefani-jozef--marche-pas-double.krn",
+      "label": "Marche pas double (PL-Wtm R 1722, kern)",
+      "bar": 44,
+      "notes": "D6 C6 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1425--002_stefani-jozef--polka.krn",
+      "label": "Polka, movement 2: Polka Moderato. (PL-Wtm R 1425, kern)",
+      "bar": 8,
+      "notes": "D6 C6 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 7.0,
+    "works": 14,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1725_stefani-jozef--le-grande-marche-guerres.krn",
+      "label": "Le Grande Marche Guerres: Allegro (PL-Wtm R 1725, kern)",
+      "bar": 27,
+      "notes": "D6 C#6 D6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1418_stefani-jozef--marsz-podchorazych.krn",
+      "label": "Marsz Podchorążych: Trio. (PL-Wtm R 1418, kern)",
+      "bar": 14,
+      "notes": "F6 E6 F6 G6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1368_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1368, kern)",
+      "bar": 3,
+      "notes": "E5 Eb5 E5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 6.8,
+    "works": 15,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1345_stefani-jozef--mazur-g-nr-2.krn",
+      "label": "Mazur G Nr 2: Wstęp do Mazura. Maestoso. (PL-Wtm R 1345, kern)",
+      "bar": 48,
+      "notes": "A5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1333_stefani-jozef--mazur-c-nr-1.krn",
+      "label": "Mazur C nr 1 (PL-Wtm R 1333, kern)",
+      "bar": 45,
+      "notes": "D5 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1362_stefani-jozef--mazur-c-nr-2.krn",
+      "label": "Mazur C nr 2: Mazur. (PL-Wtm R 1362, kern)",
+      "bar": 18,
+      "notes": "A5 A5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 6.8,
+    "works": 14,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1393_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1393, kern)",
+      "bar": 12,
+      "notes": "Eb5 F#5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1337--002_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1337, kern)",
+      "bar": 27,
+      "notes": "F#5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1401_stefani-jozef--bartek-mazur-na-zadanie.krn",
+      "label": "Bartek Mazur na żądanie (PL-Wtm R 1401, kern)",
+      "bar": 31,
+      "notes": "C#6 E6 D6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 6.3,
+    "works": 13,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1751_stefani-jozef--dziwak-mazur.krn",
+      "label": "Dziwak Mazur (PL-Wtm R 1751, kern)",
+      "bar": 7,
+      "notes": "A5 B5 C6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1337--002_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1337, kern)",
+      "bar": 7,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1392_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1392, kern)",
+      "bar": 19,
+      "notes": "E4 F#4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 346,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "krakowiak",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.5600317610637481,
+   "repeats": 0.09906219410607246,
+   "leaps": 0.13600805916617553,
+   "move": 2.833960306711432,
+   "rising": 0.4846395318237232,
+   "leap answered": 0.2963251149311836,
+   "range": 12.328571428571427,
+   "register": 75.28571428571429,
+   "even": 0.4886639810625531,
+   "long-short": 0.05087656288679719,
+   "rhythm variety": 2.347308546085812,
+   "surprise, pitch": 2.4202992020489904,
+   "surprise, rhythm": 1.7449010386042527,
+   "density": 8.170326515651206,
+   "lines": 5.142857142857143
+  },
+  "traits": [
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7449010386042527,
+    "others": 1.4095734868274814,
+    "auc": 0.7887218044959651
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 4.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1400--003_stefani-jozef--krakowiak.krn",
+      "label": "Krakowiak (PL-Wtm R 1400, kern)",
+      "bar": 11,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1449_stefani-jozef--krakowiak-no-3.krn",
+      "label": "Krakowiak No. 3 (PL-Wtm R 1449, kern)",
+      "bar": 33,
+      "notes": "C6 Bb5 A5 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1448_stefani-jozef--krakowiak-no-2.krn",
+      "label": "Krakowiak No. 2 (PL-Wtm R 1448, kern)",
+      "bar": 27,
+      "notes": "F6 Eb6 D6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 3.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1404--001_stefani-jozef--danse-cracovienne.krn",
+      "label": "Danse Cracovienne (PL-Wtm R 1404, kern)",
+      "bar": 39,
+      "notes": "C5 C#5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1404--004-pc1_stefani-jozef--adagio-cracovienne-post-correcturam-pc1.krn",
+      "label": "Adagio-Cracovienne [post correcturam]: Adagio. (PL-Wtm R 1404, kern)",
+      "bar": 35,
+      "notes": "Eb5 E5 F5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 7.6,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1461--001-035_stefani-jozef--wszechstronne-cwiczenia-glosowe-krakowiak.krn",
+      "label": "Wszechstronne ćwiczenia głosowe, Krakowiak, movement 35 (PL-Wtm R 1461, kern)",
+      "bar": 18,
+      "notes": "Ab4 A4 B4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1404--001_stefani-jozef--danse-cracovienne.krn",
+      "label": "Danse Cracovienne (PL-Wtm R 1404, kern)",
+      "bar": 54,
+      "notes": "B4 C5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1404--004-pc1_stefani-jozef--adagio-cracovienne-post-correcturam-pc1.krn",
+      "label": "Adagio-Cracovienne [post correcturam]: Adagio. (PL-Wtm R 1404, kern)",
+      "bar": 28,
+      "notes": "B4 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 3.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1404--001_stefani-jozef--danse-cracovienne.krn",
+      "label": "Danse Cracovienne (PL-Wtm R 1404, kern)",
+      "bar": 38,
+      "notes": "D5 C#5 D5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1404--004-pc1_stefani-jozef--adagio-cracovienne-post-correcturam-pc1.krn",
+      "label": "Adagio-Cracovienne [post correcturam]: Adagio. (PL-Wtm R 1404, kern)",
+      "bar": 38,
+      "notes": "G5 F#5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 3.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1404--001_stefani-jozef--danse-cracovienne.krn",
+      "label": "Danse Cracovienne (PL-Wtm R 1404, kern)",
+      "bar": 39,
+      "notes": "B4 C5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1461--001-035_stefani-jozef--wszechstronne-cwiczenia-glosowe-krakowiak.krn",
+      "label": "Wszechstronne ćwiczenia głosowe, Krakowiak, movement 35 (PL-Wtm R 1461, kern)",
+      "bar": 74,
+      "notes": "Eb5 E5 F5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 3.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1404--001_stefani-jozef--danse-cracovienne.krn",
+      "label": "Danse Cracovienne (PL-Wtm R 1404, kern)",
+      "bar": 19,
+      "notes": "C6 D6 C6 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1400--003_stefani-jozef--krakowiak.krn",
+      "label": "Krakowiak (PL-Wtm R 1400, kern)",
+      "bar": 24,
+      "notes": "D5 E5 D5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 43,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "march",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 19,
+  "values": {
+   "steps": 0.4773150763586209,
+   "repeats": 0.20100654691494282,
+   "leaps": 0.18789568899924589,
+   "move": 3.3233378568535783,
+   "rising": 0.5129725060498944,
+   "leap answered": 0.2715343907972239,
+   "range": 15.64473684210526,
+   "register": 79.84210526315789,
+   "even": 0.4199588624384943,
+   "long-short": 0.12956452760164944,
+   "rhythm variety": 2.4782526912509666,
+   "surprise, pitch": 2.215283145509377,
+   "surprise, rhythm": 1.4233253356713733,
+   "density": 17.046271323603918,
+   "lines": 10.789473684210526
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 8,
+    "per_1000": 3.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1685_stefani-jozef--marcia.krn",
+      "label": "Marcia: Allegro (PL-Wtm R 1685, kern)",
+      "bar": 69,
+      "notes": "C6 D6 E6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1398_stefani-jozef--marche.krn",
+      "label": "Marche (PL-Wtm R 1398, kern)",
+      "bar": 34,
+      "notes": "Bb4 C5 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1725_stefani-jozef--le-grande-marche-guerres.krn",
+      "label": "Le Grande Marche Guerres: Allegro (PL-Wtm R 1725, kern)",
+      "bar": 23,
+      "notes": "G5 A5 B5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 9,
+    "per_1000": 3.7,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1407_stefani-jozef--marsz.krn",
+      "label": "Marsz (PL-Wtm R 1407, kern)",
+      "bar": 9,
+      "notes": "A5 B5 C6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1722_stefani-jozef--marche-pas-double.krn",
+      "label": "Marche pas double (PL-Wtm R 1722, kern)",
+      "bar": 9,
+      "notes": "A5 B5 C6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1725_stefani-jozef--le-grande-marche-guerres.krn",
+      "label": "Le Grande Marche Guerres: Allegro (PL-Wtm R 1725, kern)",
+      "bar": 23,
+      "notes": "A5 B5 C6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 6,
+    "per_1000": 2.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1722_stefani-jozef--marche-pas-double.krn",
+      "label": "Marche pas double (PL-Wtm R 1722, kern)",
+      "bar": 44,
+      "notes": "D6 C6 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1407_stefani-jozef--marsz.krn",
+      "label": "Marsz (PL-Wtm R 1407, kern)",
+      "bar": 65,
+      "notes": "D5 C5 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1725_stefani-jozef--le-grande-marche-guerres.krn",
+      "label": "Le Grande Marche Guerres: Allegro (PL-Wtm R 1725, kern)",
+      "bar": 139,
+      "notes": "D6 C6 A5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 32,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 102,
+  "values": {
+   "steps": 0.5201713844460736,
+   "repeats": 0.1392150521029961,
+   "leaps": 0.17194662898452093,
+   "move": 2.969904301777907,
+   "rising": 0.47895075911526347,
+   "leap answered": 0.331645573010693,
+   "range": 11.962254901960783,
+   "register": 76.7156862745098,
+   "even": 0.4241924925532861,
+   "long-short": 0.11061619453301377,
+   "rhythm variety": 2.558730702102437,
+   "surprise, pitch": 2.488013583170911,
+   "surprise, rhythm": 1.7547514920036862,
+   "density": 10.387815702878088,
+   "lines": 11.27450980392157
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.1392150521029961,
+    "others": 0.24990562690793502,
+    "auc": 0.228895516933885
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.8,
+    "works": 14,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1539--001-005_stefani-jozef--msza-no-1-offertorium.krn",
+      "label": "Msza No 1, Offertorium, movement 5 (PL-Wtm R 1539, kern)",
+      "bar": 3,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kozmzk/kern/pl-kozmzk--mzk-m-26--001-001_stefani-jozef--msza-swieta-kyrie.krn",
+      "label": "Msza Święta, Kyrie, movement 1: Allo Moderato. (PL-KOZmzk mzk/m/26, kern)",
+      "bar": 22,
+      "notes": "F5 Eb5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1427--001-004_stefani-jozef--no-19-credo.krn",
+      "label": "No. 19, Credo, movement 4: Adagio. (PL-Wtm R 1427, kern)",
+      "bar": 10,
+      "notes": "E5 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 9,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1552--001-001_stefani-jozef--missa-no-13-kyrie.krn",
+      "label": "Missa No 13, Kyrie, movement 1 (PL-Wtm R 1552, kern)",
+      "bar": 11,
+      "notes": "Ab4 B4 E5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1540--001-005_stefani-jozef--missa-offertorium.krn",
+      "label": "Missa, Offertorium, movement 5 (PL-Wtm R 1540, kern)",
+      "bar": 4,
+      "notes": "E5 G5 C6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1543--001-002_stefani-jozef--msza-in-f-gloria.krn",
+      "label": "Msza in F, Gloria, movement 2: Allegro moderato (PL-Wtm R 1543, kern)",
+      "bar": 4,
+      "notes": "B4 D5 G5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 11,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1549--001-003_stefani-jozef--msza-no-8-credo.krn",
+      "label": "Msza No 8, Credo, movement 3: Maestoso. (PL-Wtm R 1549, kern)",
+      "bar": 36,
+      "notes": "C5 D5 Eb5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1427--001-001_stefani-jozef--no-19-kyrie.krn",
+      "label": "No. 19, Kyrie, movement 1: Andantino. (PL-Wtm R 1427, kern)",
+      "bar": 15,
+      "notes": "D5 E5 F5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1555--001-005_stefani-jozef--msza-no-14-offertorium.krn",
+      "label": "Msza No 14, Offertorium, movement 5: Andantino (PL-Wtm R 1555, kern)",
+      "bar": 45,
+      "notes": "C6 D6 Eb6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 10,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1544--001-007_stefani-jozef--msza-no-9-benedictus.krn",
+      "label": "Msza No 9, Benedictus, movement 7 (PL-Wtm R 1544, kern)",
+      "bar": 27,
+      "notes": "A6 F#6 D6 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1552--001-007_stefani-jozef--missa-no-13-benedictus.krn",
+      "label": "Missa No 13, Benedictus, movement 7: Andantino. (PL-Wtm R 1552, kern)",
+      "bar": 3,
+      "notes": "B5 Ab5 E5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1540--001-005_stefani-jozef--missa-offertorium.krn",
+      "label": "Missa, Offertorium, movement 5 (PL-Wtm R 1540, kern)",
+      "bar": 54,
+      "notes": "A5 F#5 D5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 12,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1540--001-005_stefani-jozef--missa-offertorium.krn",
+      "label": "Missa, Offertorium, movement 5 (PL-Wtm R 1540, kern)",
+      "bar": 4,
+      "notes": "C5 E5 G5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1552--001-001_stefani-jozef--missa-no-13-kyrie.krn",
+      "label": "Missa No 13, Kyrie, movement 1 (PL-Wtm R 1552, kern)",
+      "bar": 11,
+      "notes": "E4 Ab4 B4 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1556--001-006_stefani-jozef--msza-no-15-agnus-dei.krn",
+      "label": "Msza No 15, Agnus Dei, movement 6 (PL-Wtm R 1556, kern)",
+      "bar": 21,
+      "notes": "B4 Eb5 F#5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.4,
+    "works": 11,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1539--001-005_stefani-jozef--msza-no-1-offertorium.krn",
+      "label": "Msza No 1, Offertorium, movement 5 (PL-Wtm R 1539, kern)",
+      "bar": 3,
+      "notes": "A4 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1552--001-005_stefani-jozef--missa-no-13-offertorium.krn",
+      "label": "Missa No 13, Offertorium, movement 5 (PL-Wtm R 1552, kern)",
+      "bar": 37,
+      "notes": "Ab4 B4 A4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1549--001-003_stefani-jozef--msza-no-8-credo.krn",
+      "label": "Msza No 8, Credo, movement 3: Maestoso. (PL-Wtm R 1549, kern)",
+      "bar": 33,
+      "notes": "D5 F5 Eb5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 451,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "mazurka",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 37,
+  "values": {
+   "steps": 0.5484969526026698,
+   "repeats": 0.07193200481589225,
+   "leaps": 0.19090353940398477,
+   "move": 3.222449497104591,
+   "rising": 0.483887850855543,
+   "leap answered": 0.36215493897061707,
+   "range": 16.874324324324323,
+   "register": 77.97297297297297,
+   "even": 0.3242549144908355,
+   "long-short": 0.21503116201282896,
+   "rhythm variety": 2.811526983393465,
+   "surprise, pitch": 2.0577965544765897,
+   "surprise, rhythm": 1.3949906440573214,
+   "density": 16.06223597112009,
+   "lines": 6.675675675675675
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 24,
+    "per_1000": 4.3,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1333_stefani-jozef--mazur-c-nr-1.krn",
+      "label": "Mazur C nr 1 (PL-Wtm R 1333, kern)",
+      "bar": 3,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1700-1_stefani-jozef--mazur-grany-na-balu-w-zamku.krn",
+      "label": "Mazur grany na balu w zamku (PL-Wtm R 1700/1, kern)",
+      "bar": 2,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1368_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1368, kern)",
+      "bar": 3,
+      "notes": "F#5 E5 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.3,
+    "works": 12,
+    "per_1000": 2.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1751_stefani-jozef--dziwak-mazur.krn",
+      "label": "Dziwak Mazur (PL-Wtm R 1751, kern)",
+      "bar": 7,
+      "notes": "D6 E6 F#6 G6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1392_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1392, kern)",
+      "bar": 19,
+      "notes": "A4 B4 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1396_stefani-jozef--mazur-nr-5.krn",
+      "label": "Mazur nr 5: Moderato (PL-Wtm R 1396, kern)",
+      "bar": 19,
+      "notes": "A4 B4 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 5.3,
+    "works": 13,
+    "per_1000": 2.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1393_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1393, kern)",
+      "bar": 12,
+      "notes": "Eb5 F#5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1337--002_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1337, kern)",
+      "bar": 27,
+      "notes": "F#5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1401_stefani-jozef--bartek-mazur-na-zadanie.krn",
+      "label": "Bartek Mazur na żądanie (PL-Wtm R 1401, kern)",
+      "bar": 31,
+      "notes": "C#6 E6 D6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 5.0,
+    "works": 11,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1751_stefani-jozef--dziwak-mazur.krn",
+      "label": "Dziwak Mazur (PL-Wtm R 1751, kern)",
+      "bar": 7,
+      "notes": "A5 B5 C6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1337--002_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1337, kern)",
+      "bar": 7,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1392_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1392, kern)",
+      "bar": 19,
+      "notes": "E4 F#4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     0,
+     -1
+    ],
+    "z": 4.7,
+    "works": 10,
+    "per_1000": 1.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1695_stefani-jozef--mazur-fantastyczny.krn",
+      "label": "Mazur fantastyczny: Allegro. (PL-Wtm R 1695, kern)",
+      "bar": 46,
+      "notes": "D6 C6 B5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1369_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1369, kern)",
+      "bar": 28,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1345_stefani-jozef--mazur-g-nr-2.krn",
+      "label": "Mazur G Nr 2: Wstęp do Mazura. Maestoso. (PL-Wtm R 1345, kern)",
+      "bar": 37,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.4,
+    "works": 9,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1392_stefani-jozef--mazur.krn",
+      "label": "Mazur (PL-Wtm R 1392, kern)",
+      "bar": 17,
+      "notes": "C#5 D5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1396_stefani-jozef--mazur-nr-5.krn",
+      "label": "Mazur nr 5: Moderato (PL-Wtm R 1396, kern)",
+      "bar": 17,
+      "notes": "C#5 D5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1401_stefani-jozef--bartek-mazur-na-zadanie.krn",
+      "label": "Bartek Mazur na żądanie (PL-Wtm R 1401, kern)",
+      "bar": 10,
+      "notes": "C#5 D5 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 100,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "polka",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 9,
+  "values": {
+   "steps": 0.500851493422792,
+   "repeats": 0.09674963773889114,
+   "leaps": 0.20120087327008307,
+   "move": 3.3780789008601575,
+   "rising": 0.484592820821243,
+   "leap answered": 0.3420376456921476,
+   "range": 19.499999999999993,
+   "register": 76.77777777777777,
+   "even": 0.4974475696331888,
+   "long-short": 0.05089439034304391,
+   "rhythm variety": 2.1980776686172034,
+   "surprise, pitch": 2.1004106345815634,
+   "surprise, rhythm": 1.229932057006984,
+   "density": 8.469071930020029,
+   "lines": 3.6666666666666665
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "polonaise",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 14,
+  "values": {
+   "steps": 0.5675967088176741,
+   "repeats": 0.09701619939332971,
+   "leaps": 0.17152737192021364,
+   "move": 3.049724528827276,
+   "rising": 0.47444813391636836,
+   "leap answered": 0.2859804104538654,
+   "range": 18.571428571428573,
+   "register": 78.21428571428571,
+   "even": 0.6360603238780109,
+   "long-short": 0.061405598410141406,
+   "rhythm variety": 1.9744956031818595,
+   "surprise, pitch": 2.120153096930573,
+   "surprise, rhythm": 1.2526244743614494,
+   "density": 11.009664522334116,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 9,
+    "per_1000": 3.4,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1332_stefani-jozef--polonez.krn",
+      "label": "Polonez (PL-Wtm R 1332, kern)",
+      "bar": 10,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1338_stefani-jozef--polonez.krn",
+      "label": "Polonez (PL-Wtm R 1338, kern)",
+      "bar": 14,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1424--001_stefani-jozef--polonez.krn",
+      "label": "Polonez, movement 1 (PL-Wtm R 1424, kern)",
+      "bar": 9,
+      "notes": "E5 D5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 10,
+    "per_1000": 3.7,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1424--001_stefani-jozef--polonez.krn",
+      "label": "Polonez, movement 1 (PL-Wtm R 1424, kern)",
+      "bar": 26,
+      "notes": "A5 Ab5 A5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6434-n--001_stefani-jozef--polonaise.krn",
+      "label": "Polonaise (PL-Wnifc 6434/n, kern)",
+      "bar": 5,
+      "notes": "Eb4 D4 Eb4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1332_stefani-jozef--polonez.krn",
+      "label": "Polonez (PL-Wtm R 1332, kern)",
+      "bar": 13,
+      "notes": "E5 Eb5 E5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 10,
+    "per_1000": 3.8,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1424--001_stefani-jozef--polonez.krn",
+      "label": "Polonez, movement 1 (PL-Wtm R 1424, kern)",
+      "bar": 63,
+      "notes": "B5 A5 G5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1338_stefani-jozef--polonez.krn",
+      "label": "Polonez (PL-Wtm R 1338, kern)",
+      "bar": 17,
+      "notes": "C#6 B5 A5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1331_stefani-jozef--polonez-gwiazdka.krn",
+      "label": "Polonez Gwiazdka: Polonez Gwiazdka. 1872 r. (PL-Wtm R 1331, kern)",
+      "bar": 19,
+      "notes": "D5 C5 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 9,
+    "per_1000": 3.3,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1435_stefani-jozef--polonez-heroiczny.krn",
+      "label": "Polonez heroiczny (PL-Wtm R 1435, kern)",
+      "bar": 3,
+      "notes": "G5 F#5 G5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1433_stefani-jozef--polonez-kochajmy-sie.krn",
+      "label": "Polonez Kochajmy się (PL-Wtm R 1433, kern)",
+      "bar": 2,
+      "notes": "G5 F#5 G5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1424--001_stefani-jozef--polonez.krn",
+      "label": "Polonez, movement 1 (PL-Wtm R 1424, kern)",
+      "bar": 24,
+      "notes": "A5 Ab5 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 10,
+    "per_1000": 3.7,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1433_stefani-jozef--polonez-kochajmy-sie.krn",
+      "label": "Polonez Kochajmy się (PL-Wtm R 1433, kern)",
+      "bar": 1,
+      "notes": "A5 G5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1332_stefani-jozef--polonez.krn",
+      "label": "Polonez (PL-Wtm R 1332, kern)",
+      "bar": 10,
+      "notes": "A5 G5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1358_stefani-jozef--polonez.krn",
+      "label": "Polonez (PL-Wtm R 1358, kern)",
+      "bar": 42,
+      "notes": "C6 Bb5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     5,
+     -5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 1.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1331_stefani-jozef--polonez-gwiazdka.krn",
+      "label": "Polonez Gwiazdka: Polonez Gwiazdka. 1872 r. (PL-Wtm R 1331, kern)",
+      "bar": 1,
+      "notes": "F4 F4 Bb4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1338_stefani-jozef--polonez.krn",
+      "label": "Polonez (PL-Wtm R 1338, kern)",
+      "bar": 37,
+      "notes": "D4 D4 G4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1358_stefani-jozef--polonez.krn",
+      "label": "Polonez (PL-Wtm R 1358, kern)",
+      "bar": 1,
+      "notes": "G4 G4 C5 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 49,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "string quartet",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.5519230961603151,
+   "repeats": 0.16897252593729875,
+   "leaps": 0.10630624159676746,
+   "move": 2.626058183296915,
+   "rising": 0.48535279274587034,
+   "leap answered": 0.4334056883745519,
+   "range": 17.975,
+   "register": 77.0,
+   "even": 0.7220260006346807,
+   "long-short": 0.08010989309367658,
+   "rhythm variety": 1.645977840900256,
+   "surprise, pitch": 2.5154728262325032,
+   "surprise, rhythm": 1.2760224616446163,
+   "density": 7.68671221784002,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 276,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "suite",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4729229737285791,
+   "repeats": 0.14217614342087107,
+   "leaps": 0.2479990370739988,
+   "move": 3.666625443937088,
+   "rising": 0.4900050735667174,
+   "leap answered": 0.23939476409000338,
+   "range": 18.099999999999998,
+   "register": 78.66666666666667,
+   "even": 0.5181919512502092,
+   "long-short": 0.035375292369997965,
+   "rhythm variety": 2.3274816932378086,
+   "surprise, pitch": 1.5695337664038458,
+   "surprise, rhythm": 1.1896134293173326,
+   "density": 9.493194339996322,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 248,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "variations",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4740368192925277,
+   "repeats": 0.20544705494060045,
+   "leaps": 0.1380171363162019,
+   "move": 2.9921716783226344,
+   "rising": 0.4856480780995304,
+   "leap answered": 0.19265027739604013,
+   "range": 9.666666666666666,
+   "register": 76.0,
+   "even": 0.6697781106892601,
+   "long-short": 0.02058860667569118,
+   "rhythm variety": 1.7501255857428006,
+   "surprise, pitch": 1.5005573103091052,
+   "surprise, rhythm": 1.231735295347198,
+   "density": 9.924113440750254,
+   "lines": 7.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 29,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "Józef Stefani",
+  "kind": "waltz",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5357730059832864,
+   "repeats": 0.14582097117143847,
+   "leaps": 0.1748267236974402,
+   "move": 3.1044388393117344,
+   "rising": 0.49909965374519544,
+   "leap answered": 0.4532404511100215,
+   "range": 17.333333333333332,
+   "register": 77.33333333333333,
+   "even": 0.5451521462455166,
+   "long-short": 0.06367110667592271,
+   "rhythm variety": 2.153528858816891,
+   "surprise, pitch": 2.2092730021109244,
+   "surprise, rhythm": 1.4514970857394776,
+   "density": 4.557360687062729,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 73,
+   "composers": 19
+  }
+ }
+]

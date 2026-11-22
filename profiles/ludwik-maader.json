@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Ludwik Maader",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 29,
+  "values": {
+   "steps": 0.4974270719918323,
+   "repeats": 0.23243685689025761,
+   "leaps": 0.12331985493904737,
+   "move": 2.840937737466718,
+   "rising": 0.4375030796515579,
+   "leap answered": 0.33133590037024513,
+   "range": 13.468965517241378,
+   "register": 77.94827586206897,
+   "even": 0.5875047702791739,
+   "long-short": 0.07721040686279777,
+   "rhythm variety": 1.9976944444758933,
+   "surprise, pitch": 2.445747362798588,
+   "surprise, rhythm": 1.525180858512771,
+   "density": 11.653916129736334,
+   "lines": 9.10344827586207
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 6.2,
+    "works": 5,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-001_maader-ludwik--requiem-in-dis-requiem.krn",
+      "label": "Requiem in Dis, Requiem, movement 1 (PL-CZ II-153, kern)",
+      "bar": 4,
+      "notes": "G5 Bb5 Bb5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-005_maader-ludwik--requiem-in-dis-benedictus.krn",
+      "label": "Requiem in Dis, Benedictus, movement 5 (PL-CZ II-153, kern)",
+      "bar": 99,
+      "notes": "A5 C6 C6 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-008_maader-ludwik--requiem-in-dis-requiem.krn",
+      "label": "Requiem in Dis, Requiem, movement 8 (PL-CZ II-153, kern)",
+      "bar": 4,
+      "notes": "G5 Bb5 Bb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-446--001-005_maader-ludwik--requiem-in-es-benedictus.krn",
+      "label": "Requiem in Es, Benedictus, movement 5 (PL-CZ III-446, kern)",
+      "bar": 18,
+      "notes": "C5 Eb5 D5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-446--001-003_maader-ludwik--requiem-in-es-domine-jesu-christe.krn",
+      "label": "Requiem in Es, Domine Jesu Christe, movement 3 (PL-CZ III-446, kern)",
+      "bar": 2,
+      "notes": "F5 Ab5 G5 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-451--001-004_maader-ludwik--missa-g-et-incarnatus.krn",
+      "label": "Missa G, Et incarnatus, movement 4 (PL-CZ III-451, kern)",
+      "bar": 2,
+      "notes": "D5 F5 E5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-446--001-003_maader-ludwik--requiem-in-es-domine-jesu-christe.krn",
+      "label": "Requiem in Es, Domine Jesu Christe, movement 3 (PL-CZ III-446, kern)",
+      "bar": 2,
+      "notes": "Ab5 G5 Bb5 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-451--001-001_maader-ludwik--missa-g-kyrie.krn",
+      "label": "Missa G, Kyrie, movement 1 (PL-CZ III-451, kern)",
+      "bar": 46,
+      "notes": "C6 B5 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-007_maader-ludwik--requiem-in-dis-lux-aeterna.krn",
+      "label": "Requiem in Dis, Lux aeterna, movement 7 (PL-CZ II-153, kern)",
+      "bar": 50,
+      "notes": "Eb5 D5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 7,
+    "per_1000": 1.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-005_maader-ludwik--requiem-in-dis-benedictus.krn",
+      "label": "Requiem in Dis, Benedictus, movement 5 (PL-CZ II-153, kern)",
+      "bar": 23,
+      "notes": "Bb4 C#5 C5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-001_maader-ludwik--requiem-in-dis-requiem.krn",
+      "label": "Requiem in Dis, Requiem, movement 1 (PL-CZ II-153, kern)",
+      "bar": 4,
+      "notes": "F5 Ab5 G5 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-154--001_maader-ludwik--litaniae-lauretanae-kyrie.krn",
+      "label": "Litaniae Lauretanae - Kyrie (PL-CZ II-154, kern)",
+      "bar": 55,
+      "notes": "D6 F6 E6 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.8,
+    "works": 12,
+    "per_1000": 3.0,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-003_maader-ludwik--requiem-in-dis-domine-jesu-christe.krn",
+      "label": "Requiem in Dis, Domine Jesu Christe, movement 3 (PL-CZ II-153, kern)",
+      "bar": 8,
+      "notes": "Bb4 Ab4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-007_maader-ludwik--requiem-in-dis-lux-aeterna.krn",
+      "label": "Requiem in Dis, Lux aeterna, movement 7 (PL-CZ II-153, kern)",
+      "bar": 42,
+      "notes": "F5 Eb5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-454--001-002_maader-ludwik--litaniae-laurentanae-sancta-maria.krn",
+      "label": "Litaniae Laurentanae, Sancta Maria, movement 2: Andante (PL-CZ III-454, kern)",
+      "bar": 11,
+      "notes": "A5 G5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 1.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-153--001-001_maader-ludwik--requiem-in-dis-requiem.krn",
+      "label": "Requiem in Dis, Requiem, movement 1 (PL-CZ II-153, kern)",
+      "bar": 24,
+      "notes": "Bb5 G5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-454--001-004_maader-ludwik--litaniae-laurentanae-salus-infirmorum.krn",
+      "label": "Litaniae Laurentanae, Salus infirmorum, movement 4 (PL-CZ III-454, kern)",
+      "bar": 8,
+      "notes": "F4 D4 Bb3 A3"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-446--001-005_maader-ludwik--requiem-in-es-benedictus.krn",
+      "label": "Requiem in Es, Benedictus, movement 5 (PL-CZ III-446, kern)",
+      "bar": 41,
+      "notes": "F5 D5 Bb4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 618,
+   "composers": 34
+  }
+ }
+]

@@ -1,0 +1,216 @@
+[
+ {
+  "composer": "Bauer",
+  "kind": "mass",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 6,
+  "values": {
+   "steps": 0.5840674462970306,
+   "repeats": 0.1991376593082945,
+   "leaps": 0.0986395567770048,
+   "move": 2.5007741418764766,
+   "rising": 0.4686516207244488,
+   "leap answered": 0.40197649572649574,
+   "range": 11.975,
+   "register": 84.0,
+   "even": 0.582489304881453,
+   "long-short": 0.07314015497473253,
+   "rhythm variety": 1.8670870263099635,
+   "surprise, pitch": 2.515915178206234,
+   "surprise, rhythm": 1.4251657909158946,
+   "density": 12.194644034558713,
+   "lines": 8.666666666666666
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5840674462970306,
+    "others": 0.48361518330941766,
+    "auc": 0.7557471264367815
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.4251657909158946,
+    "others": 1.7311729729263945,
+    "auc": 0.24568965517241378
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 11.5,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-006_bauer--missa-in-f-agnus-dei.krn",
+      "label": "Missa in F, Agnus Dei, movement 6 (PL-SA 152/A IV 2, kern)",
+      "bar": 18,
+      "notes": "B5 C6 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-005_bauer--missa-in-f-benedictus.krn",
+      "label": "Missa in F, Benedictus, movement 5 (PL-SA 152/A IV 2, kern)",
+      "bar": 42,
+      "notes": "E6 F6 E6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-002_bauer--missa-in-f-gloria.krn",
+      "label": "Missa in F, Gloria, movement 2 (PL-SA 152/A IV 2, kern)",
+      "bar": 4,
+      "notes": "A5 Bb5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 6.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-001_bauer--missa-in-f-kyrie.krn",
+      "label": "Missa in F, Kyrie, movement 1 (PL-SA 152/A IV 2, kern)",
+      "bar": 2,
+      "notes": "F6 E6 F6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-002_bauer--missa-in-f-gloria.krn",
+      "label": "Missa in F, Gloria, movement 2 (PL-SA 152/A IV 2, kern)",
+      "bar": 5,
+      "notes": "F6 E6 F6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-006_bauer--missa-in-f-agnus-dei.krn",
+      "label": "Missa in F, Agnus Dei, movement 6 (PL-SA 152/A IV 2, kern)",
+      "bar": 41,
+      "notes": "F6 E6 F6 F6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 10.4,
+    "others_per_1000": 1.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-006_bauer--missa-in-f-agnus-dei.krn",
+      "label": "Missa in F, Agnus Dei, movement 6 (PL-SA 152/A IV 2, kern)",
+      "bar": 16,
+      "notes": "D5 E5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-005_bauer--missa-in-f-benedictus.krn",
+      "label": "Missa in F, Benedictus, movement 5 (PL-SA 152/A IV 2, kern)",
+      "bar": 42,
+      "notes": "D6 E6 F6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-007_bauer--missa-in-f-dona-nobis.krn",
+      "label": "Missa in F, Dona nobis, movement 7 (PL-SA 152/A IV 2, kern)",
+      "bar": 10,
+      "notes": "D6 E6 F6 E6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.5,
+    "works": 2,
+    "per_1000": 6.9,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-001_bauer--missa-in-f-kyrie.krn",
+      "label": "Missa in F, Kyrie, movement 1 (PL-SA 152/A IV 2, kern)",
+      "bar": 1,
+      "notes": "F6 F6 E6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-002_bauer--missa-in-f-gloria.krn",
+      "label": "Missa in F, Gloria, movement 2 (PL-SA 152/A IV 2, kern)",
+      "bar": 1,
+      "notes": "F6 F6 E6 F6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 6.9,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-001_bauer--missa-in-f-kyrie.krn",
+      "label": "Missa in F, Kyrie, movement 1 (PL-SA 152/A IV 2, kern)",
+      "bar": 2,
+      "notes": "E6 F6 F6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--152-a-iv-2--001-002_bauer--missa-in-f-gloria.krn",
+      "label": "Missa in F, Gloria, movement 2 (PL-SA 152/A IV 2, kern)",
+      "bar": 1,
+      "notes": "E6 F6 F6 E6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 116,
+   "composers": 9
+  }
+ }
+]

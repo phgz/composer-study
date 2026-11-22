@@ -1,0 +1,186 @@
+[
+ {
+  "composer": "Ivor Gurney",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 6,
+  "values": {
+   "steps": 0.5173895104138441,
+   "repeats": 0.07709734204650287,
+   "leaps": 0.18306782199894486,
+   "move": 3.114829554759521,
+   "rising": 0.49006389526338584,
+   "leap answered": 0.2407724628312864,
+   "range": 12.708333333333334,
+   "register": 70.5,
+   "even": 0.45284702036095076,
+   "long-short": 0.1665759700715797,
+   "rhythm variety": 2.7356429475825492,
+   "surprise, pitch": 2.7180191779047544,
+   "surprise, rhythm": 2.1257058335722046,
+   "density": 6.9514465428078465,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.07709734204650287,
+    "others": 0.20155628672627582,
+    "auc": 0.18481848184818483
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 8.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/4_Sleep/lc6160387.mxl",
+      "label": "Elizabethan Songs, Sleep (OpenScore)",
+      "bar": 12,
+      "notes": "G4 A4 Bb4 D5"
+     },
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/2_Tears/lc6154108.mxl",
+      "label": "Elizabethan Songs, Tears (OpenScore)",
+      "bar": 16,
+      "notes": "D4 E4 F4 A4"
+     },
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/_/I_will_go_with_my_father_a-ploughing/lc6466145.mxl",
+      "label": "I will go with my father a-ploughing (OpenScore)",
+      "bar": 24,
+      "notes": "E4 F#4 G4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 6.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/_/I_will_go_with_my_father_a-ploughing/lc6466145.mxl",
+      "label": "I will go with my father a-ploughing (OpenScore)",
+      "bar": 6,
+      "notes": "G4 E4 F#4 G4"
+     },
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/1_Orpheus/lc6170065.mxl",
+      "label": "Elizabethan Songs, Orpheus (OpenScore)",
+      "bar": 41,
+      "notes": "Eb5 C5 D5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/4_Sleep/lc6160387.mxl",
+      "label": "Elizabethan Songs, Sleep (OpenScore)",
+      "bar": 31,
+      "notes": "Bb4 G4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 6.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/4_Sleep/lc6160387.mxl",
+      "label": "Elizabethan Songs, Sleep (OpenScore)",
+      "bar": 12,
+      "notes": "A4 Bb4 D5 C5"
+     },
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/2_Tears/lc6154108.mxl",
+      "label": "Elizabethan Songs, Tears (OpenScore)",
+      "bar": 16,
+      "notes": "E4 F4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/1_Orpheus/lc6170065.mxl",
+      "label": "Elizabethan Songs, Orpheus (OpenScore)",
+      "bar": 38,
+      "notes": "D5 Eb5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 6.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/2_Tears/lc6154108.mxl",
+      "label": "Elizabethan Songs, Tears (OpenScore)",
+      "bar": 15,
+      "notes": "D4 D4 E4 F4"
+     },
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/_/I_will_go_with_my_father_a-ploughing/lc6466145.mxl",
+      "label": "I will go with my father a-ploughing (OpenScore)",
+      "bar": 10,
+      "notes": "A4 A4 B4 C5"
+     },
+     {
+      "work": "openscore-lieder:Gurney,_Ivor/5_Elizabethan_Songs/4_Sleep/lc6160387.mxl",
+      "label": "Elizabethan Songs, Sleep (OpenScore)",
+      "bar": 11,
+      "notes": "G4 G4 A4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 303,
+   "composers": 37
+  }
+ }
+]

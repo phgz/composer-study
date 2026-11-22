@@ -1,0 +1,495 @@
+[
+ {
+  "composer": "Charles Villiers Stanford",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 20,
+  "values": {
+   "steps": 0.48363936891575465,
+   "repeats": 0.13676294798056826,
+   "leaps": 0.1631126773853737,
+   "move": 3.047623665998555,
+   "rising": 0.5007320698857038,
+   "leap answered": 0.25941316050833574,
+   "range": 12.55,
+   "register": 70.85,
+   "even": 0.36860733805030915,
+   "long-short": 0.18718321668880114,
+   "rhythm variety": 2.841736667703831,
+   "surprise, pitch": 2.7592205894986015,
+   "surprise, rhythm": 1.9989097369977007,
+   "density": 5.34514899669804,
+   "lines": 4.95
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -4,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.4,
+    "works": 3,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/2_Assynt_of_the_Shadows/lc6547240.mxl",
+      "label": "Songs of a Roving Celt, Op.157, Assynt of the Shadows (OpenScore)",
+      "bar": 5,
+      "notes": "Bb4 G4 Eb4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/8_Our_enemies_have_fall’n/lc6793961.mxl",
+      "label": "A Cycle of Songs, Op.68, Our enemies have fall’n (OpenScore)",
+      "bar": 4,
+      "notes": "G4 E4 C4 C4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_the_Fleet_(Piano),_Op.117/1_Sailing_at_Dawn/lc31184216.mxl",
+      "label": "Songs of the Fleet (Piano), Op.117, Sailing at Dawn (OpenScore)",
+      "bar": 22,
+      "notes": "Bb4 G4 Eb4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/2_Assynt_of_the_Shadows/lc6547240.mxl",
+      "label": "Songs of a Roving Celt, Op.157, Assynt of the Shadows (OpenScore)",
+      "bar": 5,
+      "notes": "C5 Bb4 G4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/8_Our_enemies_have_fall’n/lc6793961.mxl",
+      "label": "A Cycle of Songs, Op.68, Our enemies have fall’n (OpenScore)",
+      "bar": 39,
+      "notes": "C5 Bb4 G4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/3_Songs_of_Robert_Bridges,_Op.43/2_I_praise_the_tender_flower/lc6205693.mxl",
+      "label": "Songs of Robert Bridges, Op.43, I praise the tender flower (OpenScore)",
+      "bar": 6,
+      "notes": "D5 C5 A4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_the_Fleet_(Piano),_Op.117/2_The_Song_of_The_Sou’wester/lc31208321.mxl",
+      "label": "Songs of the Fleet (Piano), Op.117, The Song of The Sou’wester (OpenScore)",
+      "bar": 46,
+      "notes": "B4 C5 C#5 D5"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/1_As_thro’_the_land/lc6785268.mxl",
+      "label": "A Cycle of Songs, Op.68, As thro’ the land (OpenScore)",
+      "bar": 24,
+      "notes": "F4 F#4 G4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/4_No_More/lc6548281.mxl",
+      "label": "Songs of a Roving Celt, Op.157, No More (OpenScore)",
+      "bar": 74,
+      "notes": "B4 C5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 2.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/1_The_Pibroch/lc6548253.mxl",
+      "label": "Songs of a Roving Celt, Op.157, The Pibroch (OpenScore)",
+      "bar": 15,
+      "notes": "A4 B4 A4 B4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/2_Assynt_of_the_Shadows/lc6547240.mxl",
+      "label": "Songs of a Roving Celt, Op.157, Assynt of the Shadows (OpenScore)",
+      "bar": 3,
+      "notes": "G4 A4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/5_The_Call/lc6548330.mxl",
+      "label": "Songs of a Roving Celt, Op.157, The Call (OpenScore)",
+      "bar": 14,
+      "notes": "Eb4 F4 Eb4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/5_The_Call/lc6548330.mxl",
+      "label": "Songs of a Roving Celt, Op.157, The Call (OpenScore)",
+      "bar": 16,
+      "notes": "F4 Ab4 F#4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/3_Songs_of_Robert_Bridges,_Op.43/3_Say,_o_say!_saith_the_music/lc6205716.mxl",
+      "label": "Songs of Robert Bridges, Op.43, Say, o say! saith the music (OpenScore)",
+      "bar": 11,
+      "notes": "A4 C5 Bb4 D5"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/3_Songs_of_Robert_Bridges,_Op.43/2_I_praise_the_tender_flower/lc6205693.mxl",
+      "label": "Songs of Robert Bridges, Op.43, I praise the tender flower (OpenScore)",
+      "bar": 34,
+      "notes": "A4 C5 Bb4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_the_Fleet_(Piano),_Op.117/5_Fare_Well/lc31240310.mxl",
+      "label": "Songs of the Fleet (Piano), Op.117, Fare Well (OpenScore)",
+      "bar": 65,
+      "notes": "Eb6 Ab6 F6 Eb6"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_the_Fleet_(Piano),_Op.117/1_Sailing_at_Dawn/lc31184216.mxl",
+      "label": "Songs of the Fleet (Piano), Op.117, Sailing at Dawn (OpenScore)",
+      "bar": 57,
+      "notes": "Bb4 Eb5 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/3_The_splendour_falls/lc6789660.mxl",
+      "label": "A Cycle of Songs, Op.68, The splendour falls (OpenScore)",
+      "bar": 54,
+      "notes": "B4 E5 C#5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1068,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Charles Villiers Stanford",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5129262319211876,
+   "repeats": 0.07269624274826803,
+   "leaps": 0.16040989765622202,
+   "move": 3.0607265934325634,
+   "rising": 0.5122501066149485,
+   "leap answered": 0.3099415506274712,
+   "range": 26.819999999999993,
+   "register": 74.2,
+   "even": 0.648003044450279,
+   "long-short": 0.12138854374099559,
+   "rhythm variety": 1.998091176248303,
+   "surprise, pitch": 3.092288912557772,
+   "surprise, rhythm": 1.2632273660865865,
+   "density": 4.334313652565664,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5122501066149485,
+    "others": 0.47843319359845454,
+    "auc": 0.7588768647913708
+   },
+   {
+    "measure": "range",
+    "value": 26.819999999999993,
+    "others": 23.028643922263598,
+    "auc": 0.808826118889565
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.092288912557772,
+    "others": 2.7371643357155477,
+    "auc": 0.8009894432578589
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -5,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#2",
+      "label": "String Quartet No.1, Op.44, movement 2: Poco Allegro e grazioso (OpenScore)",
+      "bar": 54,
+      "notes": "B4 A4 E4 G4"
+     },
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#3",
+      "label": "String Quartet No.1, Op.44, movement 3 (OpenScore)",
+      "bar": 127,
+      "notes": "D5 C5 G4 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#5",
+      "label": "String Quartet No.1, Op.44, movement 5 (OpenScore)",
+      "bar": 302,
+      "notes": "C#5 B4 F#4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#1",
+      "label": "String Quartet No.1, Op.44, movement 1 (OpenScore)",
+      "bar": 5,
+      "notes": "E4 G4 C5 A4"
+     },
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#5",
+      "label": "String Quartet No.1, Op.44, movement 5 (OpenScore)",
+      "bar": 183,
+      "notes": "B4 D5 G5 E5"
+     },
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#2",
+      "label": "String Quartet No.1, Op.44, movement 2: Poco Allegro e grazioso (OpenScore)",
+      "bar": 88,
+      "notes": "B4 D5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#1",
+      "label": "String Quartet No.1, Op.44, movement 1 (OpenScore)",
+      "bar": 5,
+      "notes": "G4 C5 A4 G4"
+     },
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#5",
+      "label": "String Quartet No.1, Op.44, movement 5 (OpenScore)",
+      "bar": 183,
+      "notes": "D5 G5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#2",
+      "label": "String Quartet No.1, Op.44, movement 2: Poco Allegro e grazioso (OpenScore)",
+      "bar": 36,
+      "notes": "B4 C5 E5 F5"
+     },
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#3",
+      "label": "String Quartet No.1, Op.44, movement 3 (OpenScore)",
+      "bar": 200,
+      "notes": "B4 C5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     3,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#2",
+      "label": "String Quartet No.1, Op.44, movement 2: Poco Allegro e grazioso (OpenScore)",
+      "bar": 54,
+      "notes": "A4 E4 G4 A4"
+     },
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#3",
+      "label": "String Quartet No.1, Op.44, movement 3 (OpenScore)",
+      "bar": 127,
+      "notes": "C5 G4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#2",
+      "label": "String Quartet No.1, Op.44, movement 2: Poco Allegro e grazioso (OpenScore)",
+      "bar": 54,
+      "notes": "D5 B4 A4 E4"
+     },
+     {
+      "work": "openscore-quartets:Stanford,_Charles_Villiers/String_Quartet_No.1,_Op.44/sq10517302.mxl#3",
+      "label": "String Quartet No.1, Op.44, movement 3 (OpenScore)",
+      "bar": 127,
+      "notes": "F5 D5 C5 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 254,
+   "composers": 32
+  }
+ }
+]

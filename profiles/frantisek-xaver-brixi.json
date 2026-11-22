@@ -1,0 +1,215 @@
+[
+ {
+  "composer": "František Xaver Brixi",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.47946539440893643,
+   "repeats": 0.319049106522512,
+   "leaps": 0.11096124347240377,
+   "move": 2.8000558922976153,
+   "rising": 0.43367759711009485,
+   "leap answered": 0.31901111982115377,
+   "range": 9.728571428571428,
+   "register": 77.14285714285714,
+   "even": 0.5745072475871265,
+   "long-short": 0.06222120980128424,
+   "rhythm variety": 1.954595480159093,
+   "surprise, pitch": 2.5684048144061076,
+   "surprise, rhythm": 1.7262854138880122,
+   "density": 9.956571018475655,
+   "lines": 9.142857142857142
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     -1,
+     0
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-003_brixi-frantisek-xaver--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 3 (PL-SA 90/A II 30, kern)",
+      "bar": 100,
+      "notes": "C5 C5 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-002_brixi-frantisek-xaver--missa-in-d-gloria.krn",
+      "label": "Missa in D, Gloria, movement 2 (PL-SA 90/A II 30, kern)",
+      "bar": 352,
+      "notes": "G5 G5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-002_brixi-frantisek-xaver--missa-in-d-gloria.krn",
+      "label": "Missa in D, Gloria, movement 2 (PL-SA 90/A II 30, kern)",
+      "bar": 379,
+      "notes": "E5 G5 F#5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-003_brixi-frantisek-xaver--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 3 (PL-SA 90/A II 30, kern)",
+      "bar": 163,
+      "notes": "E5 G5 F#5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     3
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-002_brixi-frantisek-xaver--missa-in-d-gloria.krn",
+      "label": "Missa in D, Gloria, movement 2 (PL-SA 90/A II 30, kern)",
+      "bar": 5,
+      "notes": "D5 D5 E5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-003_brixi-frantisek-xaver--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 3 (PL-SA 90/A II 30, kern)",
+      "bar": 126,
+      "notes": "D5 D5 E5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     9,
+     -3,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-002_brixi-frantisek-xaver--missa-in-d-gloria.krn",
+      "label": "Missa in D, Gloria, movement 2 (PL-SA 90/A II 30, kern)",
+      "bar": 106,
+      "notes": "C5 A5 F#5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-003_brixi-frantisek-xaver--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 3 (PL-SA 90/A II 30, kern)",
+      "bar": 94,
+      "notes": "C5 A5 F#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-003_brixi-frantisek-xaver--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 3 (PL-SA 90/A II 30, kern)",
+      "bar": 127,
+      "notes": "E5 F#5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-002_brixi-frantisek-xaver--missa-in-d-gloria.krn",
+      "label": "Missa in D, Gloria, movement 2 (PL-SA 90/A II 30, kern)",
+      "bar": 5,
+      "notes": "E5 F#5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-002_brixi-frantisek-xaver--missa-in-d-gloria.krn",
+      "label": "Missa in D, Gloria, movement 2 (PL-SA 90/A II 30, kern)",
+      "bar": 379,
+      "notes": "G5 F#5 F#5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--90-a-ii-30--001-003_brixi-frantisek-xaver--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 3 (PL-SA 90/A II 30, kern)",
+      "bar": 163,
+      "notes": "G5 F#5 F#5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 640,
+   "composers": 34
+  }
+ }
+]

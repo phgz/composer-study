@@ -1,0 +1,252 @@
+[
+ {
+  "composer": "Johanna Kinkel",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 45,
+  "values": {
+   "steps": 0.518497162668714,
+   "repeats": 0.1963906113021335,
+   "leaps": 0.13247283659358586,
+   "move": 2.722790190556464,
+   "rising": 0.4589944578147177,
+   "leap answered": 0.34689050542266914,
+   "range": 10.56111111111111,
+   "register": 69.87777777777778,
+   "even": 0.34707629574472953,
+   "long-short": 0.17583553441609473,
+   "rhythm variety": 2.693293590441763,
+   "surprise, pitch": 3.018456463848712,
+   "surprise, rhythm": 1.8817127557330435,
+   "density": 7.0871199932670175,
+   "lines": 3.1777777777777776
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 3.018456463848712,
+    "others": 2.418931871336165,
+    "auc": 0.8074950647547676
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Gedichte,_Op.8/3_Gondellied/lc6130821.mxl",
+      "label": "Gedichte, Op.8, Gondellied (OpenScore)",
+      "bar": 9,
+      "notes": "B4 C#5 B4 C#5"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/3_Duetten,_Op.11/1_Das_Lied_der_Nachtigall/lc6128281.mxl",
+      "label": "Duetten, Op.11, Das Lied der Nachtigall (OpenScore)",
+      "bar": 15,
+      "notes": "A4 B4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.3,
+    "works": 6,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Gedichte,_Op.8/1_Der_spanische_Zitherknabe/lc6130647.mxl",
+      "label": "Gedichte, Op.8, Der spanische Zitherknabe (OpenScore)",
+      "bar": 5,
+      "notes": "F#4 E4 Eb4 E4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.6/2_Wasser_und_Wein/lc6248302.mxl",
+      "label": "Lieder, Op.6, Wasser und Wein (OpenScore)",
+      "bar": 15,
+      "notes": "Eb5 C#5 C5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/3_Duetten,_Op.11/1_Das_Lied_der_Nachtigall/lc6128281.mxl",
+      "label": "Duetten, Op.11, Das Lied der Nachtigall (OpenScore)",
+      "bar": 56,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/3_Duetten,_Op.11/3_Der_Seejungfern_Gesang/lc6125479.mxl",
+      "label": "Duetten, Op.11, Der Seejungfern Gesang (OpenScore)",
+      "bar": 52,
+      "notes": "A4 Ab4 F#4 A4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.16/5_Rheinfahrt/lc6573240.mxl",
+      "label": "Lieder, Op.16, Rheinfahrt (OpenScore)",
+      "bar": 6,
+      "notes": "C5 B4 A4 C5"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.19/4_Beduinen-Romanze/lc5988442.mxl",
+      "label": "Lieder, Op.19, Beduinen-Romanze (OpenScore)",
+      "bar": 16,
+      "notes": "C5 B4 A4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 5,
+    "per_1000": 2.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.15/3_Wiegenlied/lc6247576.mxl",
+      "label": "Lieder, Op.15, Wiegenlied (OpenScore)",
+      "bar": 8,
+      "notes": "A4 G4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.6/2_Wasser_und_Wein/lc6248302.mxl",
+      "label": "Lieder, Op.6, Wasser und Wein (OpenScore)",
+      "bar": 12,
+      "notes": "G4 F4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/3_Duetten,_Op.11/3_Der_Seejungfern_Gesang/lc6125479.mxl",
+      "label": "Duetten, Op.11, Der Seejungfern Gesang (OpenScore)",
+      "bar": 13,
+      "notes": "B4 A4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.4,
+    "works": 8,
+    "per_1000": 2.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.7/2_Wunsch/lc6150402.mxl",
+      "label": "Lieder, Op.7, Wunsch (OpenScore)",
+      "bar": 10,
+      "notes": "Ab4 A4 A4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Gedichte,_Op.8/1_Der_spanische_Zitherknabe/lc6130647.mxl",
+      "label": "Gedichte, Op.8, Der spanische Zitherknabe (OpenScore)",
+      "bar": 21,
+      "notes": "B4 C5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Gedichte,_Op.8/2_Rheinsage/lc6130751.mxl",
+      "label": "Gedichte, Op.8, Rheinsage (OpenScore)",
+      "bar": 6,
+      "notes": "D5 Eb5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.10/4_Wiegenlied/lc6177442.mxl",
+      "label": "Lieder, Op.10, Wiegenlied (OpenScore)",
+      "bar": 14,
+      "notes": "F#5 E5 D5 C5"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.10/2_Der_Kuss/lc6177233.mxl",
+      "label": "Lieder, Op.10, Der Kuss (OpenScore)",
+      "bar": 4,
+      "notes": "E5 D5 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/3_Duetten,_Op.11/1_Das_Lied_der_Nachtigall/lc6128281.mxl",
+      "label": "Duetten, Op.11, Das Lied der Nachtigall (OpenScore)",
+      "bar": 45,
+      "notes": "F#5 E5 D5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1043,
+   "composers": 97
+  }
+ }
+]

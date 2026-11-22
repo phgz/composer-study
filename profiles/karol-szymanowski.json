@@ -1,0 +1,277 @@
+[
+ {
+  "composer": "Karol Szymanowski",
+  "kind": "fantasia",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.4831646809245731,
+   "repeats": 0.05567616041628076,
+   "leaps": 0.24669328440612226,
+   "move": 4.159864360536818,
+   "rising": 0.5230088503833984,
+   "leap answered": 0.3386042296864275,
+   "range": 42.28333333333333,
+   "register": 82.16666666666667,
+   "even": 0.5718510280020012,
+   "long-short": 0.12249246457616673,
+   "rhythm variety": 2.370378379352547,
+   "surprise, pitch": 2.5734974336426446,
+   "surprise, rhythm": 1.3659361459552113,
+   "density": 6.7695397597290805,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 52,
+   "composers": 25
+  }
+ },
+ {
+  "composer": "Karol Szymanowski",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 25,
+  "values": {
+   "steps": 0.4728252964519398,
+   "repeats": 0.13571193665114265,
+   "leaps": 0.2520777569947932,
+   "move": 3.7381603956211684,
+   "rising": 0.5014639210068416,
+   "leap answered": 0.35820922270069666,
+   "range": 19.198,
+   "register": 74.48,
+   "even": 0.4388388193748321,
+   "long-short": 0.14012920447131108,
+   "rhythm variety": 2.372546325231857,
+   "surprise, pitch": 2.6576940358633037,
+   "surprise, rhythm": 1.6026053166007628,
+   "density": 8.813322131563925,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 6,
+    "per_1000": 3.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n8918--001-001_szymanowski-karol--dwanascie-piesni-op-17-i-wczesnym-rankiem-spojrz-jak-ku-gwiazdom.krn",
+      "label": "Dwanaście pieśni Op. 17, I. Wczesnym rankiem/Spójrz, jak ku gwiazdom, movement 1 (PL-Wumfc N8918, kern)",
+      "bar": 5,
+      "notes": "C#5 C5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n43034_szymanowski-karol--trzy-fragmenty-z-poematow-jana-kasprowicza-op-5-no-3-moja-piesn-wieczorna-blogoslawiona-niech-bedzie-ta-chwila.krn",
+      "label": "Trzy fragmenty z poematów Jana Kasprowicza op. 5 (PL-Wumfc N43034, kern)",
+      "bar": 99,
+      "notes": "Eb5 D5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n8919--001-001_szymanowski-karol--dwanascie-piesni-op-17-ix-kolysanka-cicho-pada.krn",
+      "label": "Dwanaście pieśni Op. 17, IX. Kołysanka/Cicho pada, movement 1: Lento assai. (PL-Wumfc N8919, kern)",
+      "bar": 4,
+      "notes": "A5 Ab5 Ab5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 6,
+    "per_1000": 4.3,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n8919--001-001_szymanowski-karol--dwanascie-piesni-op-17-ix-kolysanka-cicho-pada.krn",
+      "label": "Dwanaście pieśni Op. 17, IX. Kołysanka/Cicho pada, movement 1: Lento assai. (PL-Wumfc N8919, kern)",
+      "bar": 3,
+      "notes": "Bb5 Bb5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n8918--001-001_szymanowski-karol--dwanascie-piesni-op-17-i-wczesnym-rankiem-spojrz-jak-ku-gwiazdom.krn",
+      "label": "Dwanaście pieśni Op. 17, I. Wczesnym rankiem/Spójrz, jak ku gwiazdom, movement 1 (PL-Wumfc N8918, kern)",
+      "bar": 5,
+      "notes": "C#5 C#5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n43034_szymanowski-karol--trzy-fragmenty-z-poematow-jana-kasprowicza-op-5-no-3-moja-piesn-wieczorna-blogoslawiona-niech-bedzie-ta-chwila.krn",
+      "label": "Trzy fragmenty z poematów Jana Kasprowicza op. 5 (PL-Wumfc N43034, kern)",
+      "bar": 99,
+      "notes": "Eb5 Eb5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n27273--001-004_szymanowski-karol--dwanascie-piesni-op-17-viii-zawod-sniac-sie-zrywam-z-loza.krn",
+      "label": "Dwanaście pieśni Op. 17, VIII. Zawód/Śniąc się zrywam z łoża, movement 4: Allegro impetuoso. (PL-Wumfc N27273, kern)",
+      "bar": 17,
+      "notes": "Ab6 F#6 G6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1481-sp-7693--001-006_szymanowski-karol--szesc-piesni-op-20-no-6-na-pustej-trzcinie.krn",
+      "label": "Sześć pieśni Op. 20, No. 6. Na pustej trzcinie, movement 6 (PL-Wtm 1481 śp 7693, kern)",
+      "bar": 7,
+      "notes": "F6 Eb6 E6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1481-sp-7693--001-003_szymanowski-karol--szesc-piesni-op-20-no-3-pachna-mi-dziwnie-twoje-zlote-wlosy.krn",
+      "label": "Sześć pieśni Op. 20, No. 3. Pachną mi dziwnie twoje złote włosy, movement 3 (PL-Wtm 1481 śp 7693, kern)",
+      "bar": 13,
+      "notes": "Bb4 Bb4 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n43033_szymanowski-karol--trzy-fragmenty-z-poematow-jana-kasprowicza-op-5-no-2-jestem-i-placze.krn",
+      "label": "Trzy fragmenty z poematów Jana Kasprowicza op. 5: Allegro molto, agitato. (PL-Wumfc N43033, kern)",
+      "bar": 40,
+      "notes": "Ab4 Ab4 Ab4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n43032_szymanowski-karol--trzy-fragmenty-z-poematow-jana-kasprowicza-op-5-no-1-swiety-boze-o-niezglebione.krn",
+      "label": "Trzy fragmenty z poematów Jana Kasprowicza op. 5: Lento mesto. (PL-Wumfc N43032, kern)",
+      "bar": 99,
+      "notes": "B4 B4 B4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n43034_szymanowski-karol--trzy-fragmenty-z-poematow-jana-kasprowicza-op-5-no-3-moja-piesn-wieczorna-blogoslawiona-niech-bedzie-ta-chwila.krn",
+      "label": "Trzy fragmenty z poematów Jana Kasprowicza op. 5 (PL-Wumfc N43034, kern)",
+      "bar": 89,
+      "notes": "Eb5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n43033_szymanowski-karol--trzy-fragmenty-z-poematow-jana-kasprowicza-op-5-no-2-jestem-i-placze.krn",
+      "label": "Trzy fragmenty z poematów Jana Kasprowicza op. 5: Allegro molto, agitato. (PL-Wumfc N43033, kern)",
+      "bar": 54,
+      "notes": "F#4 F#4 F#4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1481-sp-7693--001-003_szymanowski-karol--szesc-piesni-op-20-no-3-pachna-mi-dziwnie-twoje-zlote-wlosy.krn",
+      "label": "Sześć pieśni Op. 20, No. 3. Pachną mi dziwnie twoje złote włosy, movement 3 (PL-Wtm 1481 śp 7693, kern)",
+      "bar": 2,
+      "notes": "A4 A4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n27273--001-004_szymanowski-karol--dwanascie-piesni-op-17-viii-zawod-sniac-sie-zrywam-z-loza.krn",
+      "label": "Dwanaście pieśni Op. 17, VIII. Zawód/Śniąc się zrywam z łoża, movement 4: Allegro impetuoso. (PL-Wumfc N27273, kern)",
+      "bar": 17,
+      "notes": "G6 Ab6 F#6 G6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1481-sp-7693--001-006_szymanowski-karol--szesc-piesni-op-20-no-6-na-pustej-trzcinie.krn",
+      "label": "Sześć pieśni Op. 20, No. 6. Na pustej trzcinie, movement 6 (PL-Wtm 1481 śp 7693, kern)",
+      "bar": 7,
+      "notes": "E6 F6 Eb6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1620-sp-8138_szymanowski-karol--kolysanka-dzieciatka-jezus-op-13-no-2-o-jezu-ty-nasz.krn",
+      "label": "Kołysanka Dzieciątka Jezus Op. 13 No. 2/O Jezu ty nasz: Andantino semplice\\ne dolce. (PL-Wtm 1620 śp 8138, kern)",
+      "bar": 29,
+      "notes": "F5 F#5 E5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 387,
+   "composers": 45
+  }
+ }
+]

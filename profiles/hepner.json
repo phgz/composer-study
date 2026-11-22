@@ -1,0 +1,228 @@
+[
+ {
+  "composer": "Hepner",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 10,
+  "values": {
+   "steps": 0.5127964492286154,
+   "repeats": 0.282659530935846,
+   "leaps": 0.10737379084012814,
+   "move": 2.553988518968805,
+   "rising": 0.4626961276115201,
+   "leap answered": 0.29761107313738894,
+   "range": 11.620000000000001,
+   "register": 71.2,
+   "even": 0.5303858321264893,
+   "long-short": 0.0774757532302369,
+   "rhythm variety": 2.2703002491920974,
+   "surprise, pitch": 2.803866802571985,
+   "surprise, rhythm": 1.8500440228028343,
+   "density": 3.076910380893154,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.10737379084012814,
+    "others": 0.14437849918995746,
+    "auc": 0.2283040630662648
+   },
+   {
+    "measure": "move",
+    "value": 2.553988518968805,
+    "others": 2.9830872552665686,
+    "auc": 0.21929009867540658
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 8.6,
+    "works": 6,
+    "per_1000": 11.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-001_hepner--msza-st-kirie.krn",
+      "label": "Msza St., Kirie, movement 1 (PL-CZ II-87, kern)",
+      "bar": 10,
+      "notes": "C5 C5 B4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-008_hepner--msza-st-agnus.krn",
+      "label": "Msza St., Agnus, movement 8: Larghete (PL-CZ II-87, kern)",
+      "bar": 2,
+      "notes": "Bb4 Bb4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-003_hepner--msza-st-graduale.krn",
+      "label": "Msza St., Graduale, movement 3: Moderato (PL-CZ II-87, kern)",
+      "bar": 3,
+      "notes": "F4 F4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 5.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-005_hepner--msza-st-offertorium.krn",
+      "label": "Msza St., Offertorium, movement 5: Andante (PL-CZ II-87, kern)",
+      "bar": 4,
+      "notes": "A4 Bb4 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-010_hepner--msza-st-benedicio.krn",
+      "label": "Msza St., Benedicio, movement 10: Allegro vivo (PL-CZ II-87, kern)",
+      "bar": 4,
+      "notes": "E4 F4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-007_hepner--msza-st-benedictus.krn",
+      "label": "Msza St., Benedictus, movement 7: Andante (PL-CZ II-87, kern)",
+      "bar": 16,
+      "notes": "B4 C5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 6.2,
+    "works": 4,
+    "per_1000": 5.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-005_hepner--msza-st-offertorium.krn",
+      "label": "Msza St., Offertorium, movement 5: Andante (PL-CZ II-87, kern)",
+      "bar": 4,
+      "notes": "Bb4 C5 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-010_hepner--msza-st-benedicio.krn",
+      "label": "Msza St., Benedicio, movement 10: Allegro vivo (PL-CZ II-87, kern)",
+      "bar": 4,
+      "notes": "F4 G4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-007_hepner--msza-st-benedictus.krn",
+      "label": "Msza St., Benedictus, movement 7: Andante (PL-CZ II-87, kern)",
+      "bar": 16,
+      "notes": "C5 D5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 5.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-005_hepner--msza-st-offertorium.krn",
+      "label": "Msza St., Offertorium, movement 5: Andante (PL-CZ II-87, kern)",
+      "bar": 7,
+      "notes": "G4 A4 A4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-010_hepner--msza-st-benedicio.krn",
+      "label": "Msza St., Benedicio, movement 10: Allegro vivo (PL-CZ II-87, kern)",
+      "bar": 6,
+      "notes": "D5 E5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-009_hepner--msza-st-communio.krn",
+      "label": "Msza St., Communio, movement 9: Andante (PL-CZ II-87, kern)",
+      "bar": 4,
+      "notes": "A4 B4 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 9.1,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-004_hepner--msza-st-credo.krn",
+      "label": "Msza St., Credo, movement 4: Andantino (PL-CZ II-87, kern)",
+      "bar": 25,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-008_hepner--msza-st-agnus.krn",
+      "label": "Msza St., Agnus, movement 8: Larghete (PL-CZ II-87, kern)",
+      "bar": 4,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--004-007_hepner--msza-st-benedictus.krn",
+      "label": "Msza St., Benedictus, movement 7: Andante (PL-CZ II-87, kern)",
+      "bar": 2,
+      "notes": "A5 G5 F#5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 543,
+   "composers": 37
+  }
+ }
+]

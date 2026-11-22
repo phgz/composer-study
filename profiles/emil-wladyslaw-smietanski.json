@@ -1,0 +1,1550 @@
+[
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.2529314972910819,
+   "repeats": 0.20209555242392757,
+   "leaps": 0.3976898906554216,
+   "move": 5.31966899506147,
+   "rising": 0.5086388404956015,
+   "leap answered": 0.09003639367228794,
+   "range": 27.4375,
+   "register": 75.25,
+   "even": 0.6865171065192596,
+   "long-short": 0.14767698802538895,
+   "rhythm variety": 1.0299636504979972,
+   "surprise, pitch": 2.401043165857188,
+   "surprise, rhythm": 0.6873235185645639,
+   "density": 10.726437859778812,
+   "lines": 2.125
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.2529314972910819,
+    "others": 0.3916630281925251,
+    "auc": 0.24038461538461542
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.0299636504979972,
+    "others": 1.7615663741869232,
+    "auc": 0.1875
+   },
+   {
+    "measure": "density",
+    "value": 10.726437859778812,
+    "others": 6.317507371755103,
+    "auc": 0.889423076923077
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 5,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2031--001-003_smietanski-emil-wladyslaw--grand-concert-op-25-finale.krn",
+      "label": "Grand Concert op. 25, Finale, movement 3: III. Allegro Finale. (PL-Wtm R 2031, kern)",
+      "bar": 57,
+      "notes": "A4 A4 A4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2031--001-001_smietanski-emil-wladyslaw--grand-concert-op-25-maestoso.krn",
+      "label": "Grand Concert op. 25, Maestoso, movement 1: I. Maestoso. M.M. [quarter] = 100 (PL-Wtm R 2031, kern)",
+      "bar": 183,
+      "notes": "C5 C5 C5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2022_smietanski-emil-wladyslaw--polonaise-de-concert-op-17.krn",
+      "label": "Polonaise de Concert op. 17 (PL-Wtm R 2022, kern)",
+      "bar": 143,
+      "notes": "D5 D5 D5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 26,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 17,
+  "values": {
+   "steps": 0.36947256451902527,
+   "repeats": 0.13496038529108084,
+   "leaps": 0.3110525064148363,
+   "move": 4.448257205916646,
+   "rising": 0.48501352734544245,
+   "leap answered": 0.12951000390460304,
+   "range": 24.05294117647058,
+   "register": 74.17647058823529,
+   "even": 0.5849556427429196,
+   "long-short": 0.09405356393357892,
+   "rhythm variety": 2.001577427687078,
+   "surprise, pitch": 1.959826074623939,
+   "surprise, rhythm": 1.1221988438494068,
+   "density": 6.426524185276474,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.36947256451902527,
+    "others": 0.5148149538152806,
+    "auc": 0.19364027936231562
+   },
+   {
+    "measure": "leaps",
+    "value": 0.3110525064148363,
+    "others": 0.1752061990097103,
+    "auc": 0.8319529997480951
+   },
+   {
+    "measure": "move",
+    "value": 4.448257205916646,
+    "others": 3.2984061769233493,
+    "auc": 0.8025795451947961
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.12951000390460304,
+    "others": 0.2793447314361001,
+    "auc": 0.2376106623911161
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     5,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.9,
+    "works": 8,
+    "per_1000": 2.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2025_smietanski-emil-wladyslaw--marcia-zingaresca-op-20.krn",
+      "label": "Marcia Zingaresca op. 20 (PL-Wtm R 2025, kern)",
+      "bar": 25,
+      "notes": "B4 E5 B4 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-001_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-1.krn",
+      "label": "Marcia zingaresca op. 18, [march 1], movement 1 (PL-Wtm R 2023, kern)",
+      "bar": 10,
+      "notes": "D5 G5 D5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2029--002_smietanski-emil-wladyslaw--guitarre-mazurka.krn",
+      "label": "Guitarre - Mazurka (PL-Wtm R 2029, kern)",
+      "bar": 34,
+      "notes": "A4 D5 A4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.9,
+    "works": 5,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2025_smietanski-emil-wladyslaw--marcia-zingaresca-op-20.krn",
+      "label": "Marcia Zingaresca op. 20 (PL-Wtm R 2025, kern)",
+      "bar": 38,
+      "notes": "F4 E4 Eb4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-001_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-1.krn",
+      "label": "Marcia zingaresca op. 18, [march 1], movement 1 (PL-Wtm R 2023, kern)",
+      "bar": 71,
+      "notes": "F#5 F5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2012--002_smietanski-emil-wladyslaw--polonaise-op-28.krn",
+      "label": "Polonaise op. 28 (PL-Wtm R 2012, kern)",
+      "bar": 11,
+      "notes": "C6 B5 Bb5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     3,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.5,
+    "works": 5,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2024--001-001_smietanski-emil-wladyslaw--marcia-zingaresca-op-19-march-1.krn",
+      "label": "Marcia zingaresca op. 19, [march 1], movement 1 (PL-Wtm R 2024, kern)",
+      "bar": 40,
+      "notes": "C#5 C#5 E5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-iii--002_smietanski-emil-wladyslaw--mazurek-a-dur.krn",
+      "label": "Mazurek A-dur (PL-Wtm R 2039-III, kern)",
+      "bar": 8,
+      "notes": "A4 A4 C5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2030--002_smietanski-emil-wladyslaw--mazurka.krn",
+      "label": "Mazurka (PL-Wtm R 2030, kern)",
+      "bar": 8,
+      "notes": "A4 A4 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     0,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 5,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2019--002_smietanski-emil-wladyslaw--grenouilles-polka-op-14.krn",
+      "label": "Grenouilles Polka op. 14 (PL-Wtm R 2019, kern)",
+      "bar": 34,
+      "notes": "C#5 Ab4 Ab4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2029--002_smietanski-emil-wladyslaw--guitarre-mazurka.krn",
+      "label": "Guitarre - Mazurka (PL-Wtm R 2029, kern)",
+      "bar": 95,
+      "notes": "G4 D4 D4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-2.krn",
+      "label": "Marcia zingaresca op. 18, [march 2], movement 2: Allegretto. (PL-Wtm R 2023, kern)",
+      "bar": 63,
+      "notes": "A3 E3 E3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 5,
+    "per_1000": 1.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2012--002_smietanski-emil-wladyslaw--polonaise-op-28.krn",
+      "label": "Polonaise op. 28 (PL-Wtm R 2012, kern)",
+      "bar": 8,
+      "notes": "B5 A5 Ab5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2008--001-003_smietanski-emil-wladyslaw--trois-mazourkas-op-2-nr-3.krn",
+      "label": "Trois Mazourkas op. 2, [Nr 3], movement 3 (PL-Wtm R 2008, kern)",
+      "bar": 1,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-2.krn",
+      "label": "Marcia zingaresca op. 18, [march 2], movement 2: Allegretto. (PL-Wtm R 2023, kern)",
+      "bar": 4,
+      "notes": "Ab5 F#5 F5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-2.krn",
+      "label": "Marcia zingaresca op. 18, [march 2], movement 2: Allegretto. (PL-Wtm R 2023, kern)",
+      "bar": 40,
+      "notes": "F#5 Eb5 E5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2040--003_smietanski-emil-wladyslaw--polonaise-caprise.krn",
+      "label": "Polonaise-Caprise (PL-Wtm R 2040, kern)",
+      "bar": 125,
+      "notes": "B5 Ab5 A5 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2045_smietanski-emil-wladyslaw--valse-caprice.krn",
+      "label": "Valse Caprice: Vivace. (PL-Wtm R 2045, kern)",
+      "bar": 165,
+      "notes": "D5 B4 C5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 416,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "etude",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.07348576542071437,
+   "repeats": 0.21011577515805677,
+   "leaps": 0.5533636082861024,
+   "move": 6.187434343944752,
+   "rising": 0.49813863033608224,
+   "leap answered": 0.007308832736766251,
+   "range": 26.833333333333332,
+   "register": 70.33333333333333,
+   "even": 0.6216254695563608,
+   "long-short": 0.3255323868677906,
+   "rhythm variety": 0.4546672752203091,
+   "surprise, pitch": 2.2566323540358133,
+   "surprise, rhythm": 0.0794295385423745,
+   "density": 10.684298655577136,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 224,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "fantasia",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4865291236408482,
+   "repeats": 0.1470542196675927,
+   "leaps": 0.2408763467234675,
+   "move": 3.585980806505651,
+   "rising": 0.4774068733274664,
+   "leap answered": 0.16801635149945923,
+   "range": 24.333333333333332,
+   "register": 73.0,
+   "even": 0.5324590078480672,
+   "long-short": 0.05769169381539873,
+   "rhythm variety": 1.975653862853964,
+   "surprise, pitch": 2.2407345815370707,
+   "surprise, rhythm": 1.6775688245098523,
+   "density": 8.706948903094125,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "fugue",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.8023036394135543,
+   "repeats": 0.01973670991240734,
+   "leaps": 0.11264533225323119,
+   "move": 2.3321022811610765,
+   "rising": 0.44949322491499083,
+   "leap answered": 0.6418360778654896,
+   "range": 14.183333333333328,
+   "register": 69.83333333333333,
+   "even": 0.6567963231735708,
+   "long-short": 0.030425695043592094,
+   "rhythm variety": 1.7397914532555923,
+   "surprise, pitch": 2.6381932954357925,
+   "surprise, rhythm": 1.453997757197013,
+   "density": 3.831350690571179,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.8023036394135543,
+    "others": 0.6406961454594003,
+    "auc": 0.9009657831716437
+   },
+   {
+    "measure": "repeats",
+    "value": 0.01973670991240734,
+    "others": 0.08833060887674338,
+    "auc": 0.17241935020153507
+   },
+   {
+    "measure": "move",
+    "value": 2.3321022811610765,
+    "others": 2.897457579445431,
+    "auc": 0.17457883679837427
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.6418360778654896,
+    "others": 0.3871698729107608,
+    "auc": 0.8613706869357153
+   },
+   {
+    "measure": "long-short",
+    "value": 0.030425695043592094,
+    "others": 0.08042990721590246,
+    "auc": 0.22525684191856124
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.7397914532555923,
+    "others": 2.149574798405598,
+    "auc": 0.22390802609838598
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 5.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--001_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 2,
+      "notes": "F#4 G4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--002_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 52,
+      "notes": "F#4 G4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-i_smietanski-emil-wladyslaw--fuga-a-4-voci.krn",
+      "label": "Fuga a 4 voci (PL-Wtm R 2039-I, kern)",
+      "bar": 57,
+      "notes": "Ab4 A4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 4.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--001_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 9,
+      "notes": "B4 C#5 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-i_smietanski-emil-wladyslaw--fuga-a-4-voci.krn",
+      "label": "Fuga a 4 voci (PL-Wtm R 2039-I, kern)",
+      "bar": 30,
+      "notes": "C5 D5 Eb5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-iii--001_smietanski-emil-wladyslaw--fuga-ii.krn",
+      "label": "Fuga II (PL-Wtm R 2039-III, kern)",
+      "bar": 9,
+      "notes": "D5 E5 F5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 6.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--001_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 8,
+      "notes": "C4 Bb3 C4 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-ii_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039-II, kern)",
+      "bar": 2,
+      "notes": "G4 F4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-i_smietanski-emil-wladyslaw--fuga-a-4-voci.krn",
+      "label": "Fuga a 4 voci (PL-Wtm R 2039-I, kern)",
+      "bar": 2,
+      "notes": "F#4 E4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--002_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 7,
+      "notes": "B4 A4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-ii_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039-II, kern)",
+      "bar": 10,
+      "notes": "B4 A4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-i_smietanski-emil-wladyslaw--fuga-a-4-voci.krn",
+      "label": "Fuga a 4 voci (PL-Wtm R 2039-I, kern)",
+      "bar": 19,
+      "notes": "Eb5 C#5 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 5.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--001_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 17,
+      "notes": "G4 F4 Eb4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--002_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 45,
+      "notes": "E4 D4 C4 B3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-ii_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039-II, kern)",
+      "bar": 28,
+      "notes": "D5 C5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 3.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--002_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 9,
+      "notes": "C5 B4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039--001_smietanski-emil-wladyslaw--doppelfuge.krn",
+      "label": "Doppelfuge (PL-Wtm R 2039, kern)",
+      "bar": 25,
+      "notes": "Eb5 D5 Eb5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 132,
+   "composers": 23
+  }
+ },
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "march",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.2760931769685645,
+   "repeats": 0.128218575361583,
+   "leaps": 0.3118864713990357,
+   "move": 4.7353681633556315,
+   "rising": 0.5044917053630392,
+   "leap answered": 0.07891645818808757,
+   "range": 25.289999999999985,
+   "register": 74.6,
+   "even": 0.6503134572253014,
+   "long-short": 0.07566676751405214,
+   "rhythm variety": 1.6487342397343892,
+   "surprise, pitch": 1.802937909079136,
+   "surprise, rhythm": 0.8878040656278771,
+   "density": 8.286838680358285,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.2760931769685645,
+    "others": 0.5286304951370245,
+    "auc": 0.04477192982456139
+   },
+   {
+    "measure": "repeats",
+    "value": 0.128218575361583,
+    "others": 0.23495992620836167,
+    "auc": 0.15733333333333333
+   },
+   {
+    "measure": "leaps",
+    "value": 0.3118864713990357,
+    "others": 0.13634237774082322,
+    "auc": 0.9774035087719298
+   },
+   {
+    "measure": "move",
+    "value": 4.7353681633556315,
+    "others": 2.9689346439939768,
+    "auc": 0.9663157894736842
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.07891645818808757,
+    "others": 0.2436884289689442,
+    "auc": 0.22859174964438123
+   },
+   {
+    "measure": "even",
+    "value": 0.6503134572253014,
+    "others": 0.3542521500544234,
+    "auc": 0.9550877192982457
+   },
+   {
+    "measure": "long-short",
+    "value": 0.07566676751405214,
+    "others": 0.19592692680977505,
+    "auc": 0.2058947368421052
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.6487342397343892,
+    "others": 2.5973454456529463,
+    "auc": 0.0335438596491228
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     5,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 4,
+    "per_1000": 4.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2025_smietanski-emil-wladyslaw--marcia-zingaresca-op-20.krn",
+      "label": "Marcia Zingaresca op. 20 (PL-Wtm R 2025, kern)",
+      "bar": 25,
+      "notes": "B4 E5 B4 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-001_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-1.krn",
+      "label": "Marcia zingaresca op. 18, [march 1], movement 1 (PL-Wtm R 2023, kern)",
+      "bar": 10,
+      "notes": "D5 G5 D5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2024--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-19-march-2.krn",
+      "label": "Marcia zingaresca op. 19, [march 2], movement 2 (PL-Wtm R 2024, kern)",
+      "bar": 99,
+      "notes": "C3 F3 C3 F3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 3.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2025_smietanski-emil-wladyslaw--marcia-zingaresca-op-20.krn",
+      "label": "Marcia Zingaresca op. 20 (PL-Wtm R 2025, kern)",
+      "bar": 68,
+      "notes": "Ab6 G6 G6 Ab6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-2.krn",
+      "label": "Marcia zingaresca op. 18, [march 2], movement 2: Allegretto. (PL-Wtm R 2023, kern)",
+      "bar": 11,
+      "notes": "F#5 F5 F5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2024--001-001_smietanski-emil-wladyslaw--marcia-zingaresca-op-19-march-1.krn",
+      "label": "Marcia zingaresca op. 19, [march 1], movement 1 (PL-Wtm R 2024, kern)",
+      "bar": 11,
+      "notes": "D5 C#5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 3.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2025_smietanski-emil-wladyslaw--marcia-zingaresca-op-20.krn",
+      "label": "Marcia Zingaresca op. 20 (PL-Wtm R 2025, kern)",
+      "bar": 38,
+      "notes": "F4 E4 Eb4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-001_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-1.krn",
+      "label": "Marcia zingaresca op. 18, [march 1], movement 1 (PL-Wtm R 2023, kern)",
+      "bar": 71,
+      "notes": "F#5 F5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-2.krn",
+      "label": "Marcia zingaresca op. 18, [march 2], movement 2: Allegretto. (PL-Wtm R 2023, kern)",
+      "bar": 54,
+      "notes": "F5 E5 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 3.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-001_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-1.krn",
+      "label": "Marcia zingaresca op. 18, [march 1], movement 1 (PL-Wtm R 2023, kern)",
+      "bar": 40,
+      "notes": "D5 A4 D5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2025_smietanski-emil-wladyslaw--marcia-zingaresca-op-20.krn",
+      "label": "Marcia Zingaresca op. 20 (PL-Wtm R 2025, kern)",
+      "bar": 35,
+      "notes": "A4 E4 A4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2024--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-19-march-2.krn",
+      "label": "Marcia zingaresca op. 19, [march 2], movement 2 (PL-Wtm R 2024, kern)",
+      "bar": 99,
+      "notes": "F3 C3 F3 C3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 3.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-001_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-1.krn",
+      "label": "Marcia zingaresca op. 18, [march 1], movement 1 (PL-Wtm R 2023, kern)",
+      "bar": 26,
+      "notes": "Eb5 G5 Bb5 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-2.krn",
+      "label": "Marcia zingaresca op. 18, [march 2], movement 2: Allegretto. (PL-Wtm R 2023, kern)",
+      "bar": 111,
+      "notes": "F#2 Bb2 C#3 F#3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2025_smietanski-emil-wladyslaw--marcia-zingaresca-op-20.krn",
+      "label": "Marcia Zingaresca op. 20 (PL-Wtm R 2025, kern)",
+      "bar": 25,
+      "notes": "E4 Ab4 B4 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2025_smietanski-emil-wladyslaw--marcia-zingaresca-op-20.krn",
+      "label": "Marcia Zingaresca op. 20 (PL-Wtm R 2025, kern)",
+      "bar": 9,
+      "notes": "B4 E5 B4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2024--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-19-march-2.krn",
+      "label": "Marcia zingaresca op. 19, [march 2], movement 2 (PL-Wtm R 2024, kern)",
+      "bar": 40,
+      "notes": "E5 A5 E5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2023--001-002_smietanski-emil-wladyslaw--marcia-zingaresca-op-18-march-2.krn",
+      "label": "Marcia zingaresca op. 18, [march 2], movement 2: Allegretto. (PL-Wtm R 2023, kern)",
+      "bar": 74,
+      "notes": "Ab4 C#5 Ab4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 46,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "mazurka",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.35986971140884916,
+   "repeats": 0.16497015655833316,
+   "leaps": 0.3267903863695914,
+   "move": 4.434402299459811,
+   "rising": 0.4926702436739832,
+   "leap answered": 0.15428525290672965,
+   "range": 18.633333333333326,
+   "register": 72.66666666666667,
+   "even": 0.4311130564567536,
+   "long-short": 0.1426463813617845,
+   "rhythm variety": 2.5634221707410987,
+   "surprise, pitch": 1.869666920980898,
+   "surprise, rhythm": 1.333542495812443,
+   "density": 4.218298136587298,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.35986971140884916,
+    "others": 0.5331148300726563,
+    "auc": 0.08173852423617144
+   },
+   {
+    "measure": "repeats",
+    "value": 0.16497015655833316,
+    "others": 0.0759963579314141,
+    "auc": 0.8410145860080754
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.15428525290672965,
+    "others": 0.3235461433531304,
+    "auc": 0.14446080008953877
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     7,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2030--002_smietanski-emil-wladyslaw--mazurka.krn",
+      "label": "Mazurka (PL-Wtm R 2030, kern)",
+      "bar": 29,
+      "notes": "Bb4 Bb4 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-iii--002_smietanski-emil-wladyslaw--mazurek-a-dur.krn",
+      "label": "Mazurek A-dur (PL-Wtm R 2039-III, kern)",
+      "bar": 29,
+      "notes": "Bb4 Bb4 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2029--002_smietanski-emil-wladyslaw--guitarre-mazurka.krn",
+      "label": "Guitarre - Mazurka (PL-Wtm R 2029, kern)",
+      "bar": 155,
+      "notes": "G5 G5 D6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 3.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-iii--002_smietanski-emil-wladyslaw--mazurek-a-dur.krn",
+      "label": "Mazurek A-dur (PL-Wtm R 2039-III, kern)",
+      "bar": 6,
+      "notes": "E5 E5 Eb5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2030--002_smietanski-emil-wladyslaw--mazurka.krn",
+      "label": "Mazurka (PL-Wtm R 2030, kern)",
+      "bar": 6,
+      "notes": "E5 E5 Eb5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2008--001-002_smietanski-emil-wladyslaw--trois-mazourkas-op-2-nr-2.krn",
+      "label": "Trois Mazourkas op. 2, [Nr 2], movement 2 (PL-Wtm R 2008, kern)",
+      "bar": 61,
+      "notes": "Ab4 Ab4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     0,
+     -7
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2030--002_smietanski-emil-wladyslaw--mazurka.krn",
+      "label": "Mazurka (PL-Wtm R 2030, kern)",
+      "bar": 29,
+      "notes": "Bb4 F5 F5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-iii--002_smietanski-emil-wladyslaw--mazurek-a-dur.krn",
+      "label": "Mazurek A-dur (PL-Wtm R 2039-III, kern)",
+      "bar": 29,
+      "notes": "Bb4 F5 F5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2029--002_smietanski-emil-wladyslaw--guitarre-mazurka.krn",
+      "label": "Guitarre - Mazurka (PL-Wtm R 2029, kern)",
+      "bar": 158,
+      "notes": "G4 D5 D5 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2029--002_smietanski-emil-wladyslaw--guitarre-mazurka.krn",
+      "label": "Guitarre - Mazurka (PL-Wtm R 2029, kern)",
+      "bar": 34,
+      "notes": "A4 D5 A4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2008--001-001_smietanski-emil-wladyslaw--trois-mazourkas-op-2-nr-1.krn",
+      "label": "Trois Mazourkas op. 2, [Nr 1], movement 1 (PL-Wtm R 2008, kern)",
+      "bar": 19,
+      "notes": "D4 G4 D4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -7,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 2.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2030--002_smietanski-emil-wladyslaw--mazurka.krn",
+      "label": "Mazurka (PL-Wtm R 2030, kern)",
+      "bar": 30,
+      "notes": "F5 F5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-iii--002_smietanski-emil-wladyslaw--mazurek-a-dur.krn",
+      "label": "Mazurek A-dur (PL-Wtm R 2039-III, kern)",
+      "bar": 30,
+      "notes": "F5 F5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2029--002_smietanski-emil-wladyslaw--guitarre-mazurka.krn",
+      "label": "Guitarre - Mazurka (PL-Wtm R 2029, kern)",
+      "bar": 158,
+      "notes": "D5 D5 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 2.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2008--001-003_smietanski-emil-wladyslaw--trois-mazourkas-op-2-nr-3.krn",
+      "label": "Trois Mazourkas op. 2, [Nr 3], movement 3 (PL-Wtm R 2008, kern)",
+      "bar": 1,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2039-iii--002_smietanski-emil-wladyslaw--mazurek-a-dur.krn",
+      "label": "Mazurek A-dur (PL-Wtm R 2039-III, kern)",
+      "bar": 1,
+      "notes": "E5 F#5 E5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 131,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "scherzo",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4920124327825031,
+   "repeats": 0.1942060264064752,
+   "leaps": 0.18609182022483597,
+   "move": 3.4224853039080543,
+   "rising": 0.5112225223375986,
+   "leap answered": 0.15704664461898857,
+   "range": 29.0,
+   "register": 74.66666666666667,
+   "even": 0.7135249962919118,
+   "long-short": 0.020035399476047527,
+   "rhythm variety": 1.6170593707035807,
+   "surprise, pitch": 2.0349447102573333,
+   "surprise, rhythm": 0.9612665941363572,
+   "density": 3.8917820739165863,
+   "lines": 2.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 40,
+   "composers": 22
+  }
+ },
+ {
+  "composer": "Emil Władysław Śmietański",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.46128863115560226,
+   "repeats": 0.2519251361963643,
+   "leaps": 0.18763626303200598,
+   "move": 3.4191599544497224,
+   "rising": 0.47524819504483273,
+   "leap answered": 0.18112668632531434,
+   "range": 25.31,
+   "register": 72.4,
+   "even": 0.6342639446710192,
+   "long-short": 0.04410854029906612,
+   "rhythm variety": 1.8614037906739302,
+   "surprise, pitch": 2.221705429843579,
+   "surprise, rhythm": 1.152622701741415,
+   "density": 5.4308485544067295,
+   "lines": 2.8
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.2519251361963643,
+    "others": 0.10341709123800244,
+    "auc": 0.8331521739130434
+   },
+   {
+    "measure": "leaps",
+    "value": 0.18763626303200598,
+    "others": 0.2858133372056013,
+    "auc": 0.2306159420289855
+   },
+   {
+    "measure": "move",
+    "value": 3.4191599544497224,
+    "others": 4.2175837877714075,
+    "auc": 0.23224637681159419
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.221705429843579,
+    "others": 2.6972978006383928,
+    "auc": 0.2074275362318841
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 3.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-003_smietanski-emil-wladyslaw--sonate-op-2-scherzo.krn",
+      "label": "Sonate op. 2, Scherzo, movement 3 (PL-Wtm R 2007, kern)",
+      "bar": 53,
+      "notes": "F5 Eb5 C#5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-004_smietanski-emil-wladyslaw--sonate-op-2-finale-presto.krn",
+      "label": "Sonate op. 2, Finale Presto, movement 4 (PL-Wtm R 2007, kern)",
+      "bar": 93,
+      "notes": "Bb4 Ab4 F#4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-001_smietanski-emil-wladyslaw--sonate-op-2-allegro-assai.krn",
+      "label": "Sonate op. 2, Allegro assai, movement 1 (PL-Wtm R 2007, kern)",
+      "bar": 12,
+      "notes": "C5 Bb4 Ab4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-003_smietanski-emil-wladyslaw--sonate-op-2-scherzo.krn",
+      "label": "Sonate op. 2, Scherzo, movement 3 (PL-Wtm R 2007, kern)",
+      "bar": 17,
+      "notes": "F6 Eb6 Eb6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2038_smietanski-emil-wladyslaw--sonate-pour-piano.krn",
+      "label": "Sonate pour piano: Allegro risolut. (PL-Wtm R 2038, kern)",
+      "bar": 4,
+      "notes": "A4 G4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-004_smietanski-emil-wladyslaw--sonate-op-2-finale-presto.krn",
+      "label": "Sonate op. 2, Finale Presto, movement 4 (PL-Wtm R 2007, kern)",
+      "bar": 85,
+      "notes": "F4 Eb4 Eb4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-003_smietanski-emil-wladyslaw--sonate-op-2-scherzo.krn",
+      "label": "Sonate op. 2, Scherzo, movement 3 (PL-Wtm R 2007, kern)",
+      "bar": 48,
+      "notes": "C5 F4 F4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-002_smietanski-emil-wladyslaw--sonate-op-2-larghetto.krn",
+      "label": "Sonate op. 2, Larghetto, movement 2 (PL-Wtm R 2007, kern)",
+      "bar": 34,
+      "notes": "F5 Bb4 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-004_smietanski-emil-wladyslaw--sonate-op-2-finale-presto.krn",
+      "label": "Sonate op. 2, Finale Presto, movement 4 (PL-Wtm R 2007, kern)",
+      "bar": 193,
+      "notes": "D5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-002_smietanski-emil-wladyslaw--sonate-op-2-larghetto.krn",
+      "label": "Sonate op. 2, Larghetto, movement 2 (PL-Wtm R 2007, kern)",
+      "bar": 30,
+      "notes": "A4 Bb4 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-001_smietanski-emil-wladyslaw--sonate-op-2-allegro-assai.krn",
+      "label": "Sonate op. 2, Allegro assai, movement 1 (PL-Wtm R 2007, kern)",
+      "bar": 11,
+      "notes": "Eb5 C#5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-004_smietanski-emil-wladyslaw--sonate-op-2-finale-presto.krn",
+      "label": "Sonate op. 2, Finale Presto, movement 4 (PL-Wtm R 2007, kern)",
+      "bar": 15,
+      "notes": "Bb4 Ab4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-004_smietanski-emil-wladyslaw--sonate-op-2-finale-presto.krn",
+      "label": "Sonate op. 2, Finale Presto, movement 4 (PL-Wtm R 2007, kern)",
+      "bar": 193,
+      "notes": "Eb5 D5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-002_smietanski-emil-wladyslaw--sonate-op-2-larghetto.krn",
+      "label": "Sonate op. 2, Larghetto, movement 2 (PL-Wtm R 2007, kern)",
+      "bar": 30,
+      "notes": "Bb4 A4 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2007--001-001_smietanski-emil-wladyslaw--sonate-op-2-allegro-assai.krn",
+      "label": "Sonate op. 2, Allegro assai, movement 1 (PL-Wtm R 2007, kern)",
+      "bar": 41,
+      "notes": "Eb5 D5 Eb5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 39,
+   "composers": 7
+  }
+ }
+]

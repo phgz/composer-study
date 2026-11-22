@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Philipp Friedrich Buchner",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 34,
+  "values": {
+   "steps": 0.590349946879093,
+   "repeats": 0.13327965137015185,
+   "leaps": 0.14232771453738086,
+   "move": 2.907042241399357,
+   "rising": 0.4778803554188309,
+   "leap answered": 0.3737049437287479,
+   "range": 13.86176470588235,
+   "register": 74.0,
+   "even": 0.49802708766843556,
+   "long-short": 0.10264147179689377,
+   "rhythm variety": 2.4932629692595407,
+   "surprise, pitch": 2.5110228190767714,
+   "surprise, rhythm": 1.5471043373636042,
+   "density": 3.5257116738645076,
+   "lines": 4.735294117647059
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 7.1,
+    "works": 10,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-009_buchner-philipp-friedrich--plectrum-musicum-sonata-ix.krn",
+      "label": "Plectrum musicum, Sonata IX, movement 9 (PL-WRu 50044 Muz., kern)",
+      "bar": 13,
+      "notes": "E3 F3 G3 G3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-023_buchner-philipp-friedrich--plectrum-musicum-sonata-xxiii.krn",
+      "label": "Plectrum musicum, Sonata XXIII, movement 23 (PL-WRu 50044 Muz., kern)",
+      "bar": 45,
+      "notes": "E5 F5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-013_buchner-philipp-friedrich--plectrum-musicum-sonata-xiii.krn",
+      "label": "Plectrum musicum, Sonata XIII, movement 13 (PL-WRu 50044 Muz., kern)",
+      "bar": 3,
+      "notes": "B4 C5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.1,
+    "works": 6,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-006_buchner-philipp-friedrich--plectrum-musicum-sonata-vi.krn",
+      "label": "Plectrum musicum, Sonata VI, movement 6 (PL-WRu 50044 Muz., kern)",
+      "bar": 60,
+      "notes": "E5 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-008_buchner-philipp-friedrich--plectrum-musicum-sonata-viii.krn",
+      "label": "Plectrum musicum, Sonata VIII, movement 8 (PL-WRu 50044 Muz., kern)",
+      "bar": 6,
+      "notes": "A5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-014_buchner-philipp-friedrich--plectrum-musicum-sonata-xiv.krn",
+      "label": "Plectrum musicum, Sonata XIV, movement 14 (PL-WRu 50044 Muz., kern)",
+      "bar": 10,
+      "notes": "A5 F5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 6.0,
+    "works": 6,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-013_buchner-philipp-friedrich--plectrum-musicum-sonata-xiii.krn",
+      "label": "Plectrum musicum, Sonata XIII, movement 13 (PL-WRu 50044 Muz., kern)",
+      "bar": 5,
+      "notes": "G5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:f-pn/kern/f-pn--vm7-1486--001-003_buchner-philipp-friedrich--harmonia-instrumentalis-sonata-iii.krn",
+      "label": "Harmonia Instrumentalis, Sonata III, movement 3 (F-Pn VM7-1486, kern)",
+      "bar": 7,
+      "notes": "G5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-002_buchner-philipp-friedrich--plectrum-musicum-sonata-ii.krn",
+      "label": "Plectrum musicum, Sonata II, movement 2 (PL-WRu 50044 Muz., kern)",
+      "bar": 24,
+      "notes": "G5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.9,
+    "works": 9,
+    "per_1000": 1.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-005_buchner-philipp-friedrich--plectrum-musicum-sonata-v.krn",
+      "label": "Plectrum musicum, Sonata V, movement 5 (PL-WRu 50044 Muz., kern)",
+      "bar": 116,
+      "notes": "C5 D5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-023_buchner-philipp-friedrich--plectrum-musicum-sonata-xxiii.krn",
+      "label": "Plectrum musicum, Sonata XXIII, movement 23 (PL-WRu 50044 Muz., kern)",
+      "bar": 14,
+      "notes": "Bb5 C6 D6 C6"
+     },
+     {
+      "work": "kern/polish-scores:f-pn/kern/f-pn--vm7-1486--001-005_buchner-philipp-friedrich--harmonia-instrumentalis-sonata-v.krn",
+      "label": "Harmonia Instrumentalis, Sonata V, movement 5 (F-Pn VM7-1486, kern)",
+      "bar": 4,
+      "notes": "Bb4 C5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 9,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-009_buchner-philipp-friedrich--plectrum-musicum-sonata-ix.krn",
+      "label": "Plectrum musicum, Sonata IX, movement 9 (PL-WRu 50044 Muz., kern)",
+      "bar": 6,
+      "notes": "A3 B3 C4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-023_buchner-philipp-friedrich--plectrum-musicum-sonata-xxiii.krn",
+      "label": "Plectrum musicum, Sonata XXIII, movement 23 (PL-WRu 50044 Muz., kern)",
+      "bar": 47,
+      "notes": "D5 E5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:f-pn/kern/f-pn--vm7-1486--001-002_buchner-philipp-friedrich--harmonia-instrumentalis-sonata-ii.krn",
+      "label": "Harmonia Instrumentalis, Sonata II, movement 2 (F-Pn VM7-1486, kern)",
+      "bar": 64,
+      "notes": "D5 E5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -7
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.6,
+    "works": 5,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wru/kern/pl-wru--50044-muz--001-023_buchner-philipp-friedrich--plectrum-musicum-sonata-xxiii.krn",
+      "label": "Plectrum musicum, Sonata XXIII, movement 23 (PL-WRu 50044 Muz., kern)",
+      "bar": 45,
+      "notes": "F5 G5 A5 D5"
+     },
+     {
+      "work": "kern/polish-scores:f-pn/kern/f-pn--vm7-1486--001-010_buchner-philipp-friedrich--harmonia-instrumentalis-sonata-x.krn",
+      "label": "Harmonia Instrumentalis, Sonata X, movement 10 (F-Pn VM7-1486, kern)",
+      "bar": 3,
+      "notes": "G5 A5 B5 E5"
+     },
+     {
+      "work": "kern/polish-scores:f-pn/kern/f-pn--vm7-1486--001-007_buchner-philipp-friedrich--harmonia-instrumentalis-sonata-vii.krn",
+      "label": "Harmonia Instrumentalis, Sonata VII, movement 7 (F-Pn VM7-1486, kern)",
+      "bar": 38,
+      "notes": "Eb5 F5 G5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 454,
+   "composers": 15
+  }
+ }
+]

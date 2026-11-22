@@ -1,0 +1,47 @@
+[
+ {
+  "composer": "Romuald Teodor Zientarski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 11,
+  "values": {
+   "steps": 0.5384135437688276,
+   "repeats": 0.13003745926894986,
+   "leaps": 0.11924540796325273,
+   "move": 2.6659006097102247,
+   "rising": 0.44361166502028304,
+   "leap answered": 0.5498720975993703,
+   "range": 10.709090909090909,
+   "register": 72.22727272727273,
+   "even": 0.39113828558154595,
+   "long-short": 0.14593756451325512,
+   "rhythm variety": 2.5517311655723836,
+   "surprise, pitch": 3.140101529126254,
+   "surprise, rhythm": 2.018904927895363,
+   "density": 3.6712238165964255,
+   "lines": 2.8181818181818183
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.13003745926894986,
+    "others": 0.2467729254496104,
+    "auc": 0.22103446655400588
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.140101529126254,
+    "others": 2.815710029571904,
+    "auc": 0.8167809144318845
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 542,
+   "composers": 37
+  }
+ }
+]

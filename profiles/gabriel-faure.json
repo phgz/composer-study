@@ -1,0 +1,390 @@
+[
+ {
+  "composer": "Gabriel Fauré",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "early",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.5671555509921679,
+   "repeats": 0.22034499514551734,
+   "leaps": 0.09466853623587411,
+   "move": 2.977672267132233,
+   "rising": 0.5290476461793651,
+   "leap answered": 0.44478874973357146,
+   "range": 12.537500000000001,
+   "register": 71.08333333333333,
+   "even": 0.414595206359762,
+   "long-short": 0.1348982727011669,
+   "rhythm variety": 2.641072512383807,
+   "surprise, pitch": 2.359461140581732,
+   "surprise, rhythm": 1.691313154887437,
+   "density": 5.470567896525551,
+   "lines": 3.25
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5290476461793651,
+    "others": 0.4661165062316206,
+    "auc": 0.7543315649828147
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.1,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Poème_d’un_jour,_Op.21/1_Rencontre/lc29747321.mxl",
+      "label": "Poème d’un jour, Op.21, Rencontre (OpenScore)",
+      "bar": 2,
+      "notes": "Bb4 Ab4 F#4 E4"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Poème_d’un_jour,_Op.21/2_Toujours/lc7346468.mxl",
+      "label": "Poème d’un jour, Op.21, Toujours (OpenScore)",
+      "bar": 6,
+      "notes": "B4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Op.4/2_Lydia/lc30299786.mxl",
+      "label": "Op.4, Lydia (OpenScore)",
+      "bar": 4,
+      "notes": "A4 B4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Poème_d’un_jour,_Op.21/1_Rencontre/lc29747321.mxl",
+      "label": "Poème d’un jour, Op.21, Rencontre (OpenScore)",
+      "bar": 12,
+      "notes": "Ab4 Bb4 F#4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 2.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:FaureG/O12/djinns",
+      "label": "Les Djinns (Op. 12) (Mutopia)",
+      "bar": 24,
+      "notes": "C5 C5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Op.27/1_Chanson_d’amour/lc29589143.mxl",
+      "label": "Op.27, Chanson d’amour (OpenScore)",
+      "bar": 14,
+      "notes": "C5 C5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/3_Songs,_Op.7/1_Après_un_rêve/lc6810863.mxl",
+      "label": "Songs, Op.7, Après un rêve (OpenScore)",
+      "bar": 28,
+      "notes": "E4 E4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.1,
+    "works": 6,
+    "per_1000": 5.6,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "mutopia:FaureG/O2/matelots",
+      "label": "Les matelots (Op.2, N°2) (Mutopia)",
+      "bar": 11,
+      "notes": "Bb4 C5 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Op.4/2_Lydia/lc30299786.mxl",
+      "label": "Op.4, Lydia (OpenScore)",
+      "bar": 15,
+      "notes": "Bb4 C5 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Poème_d’un_jour,_Op.21/2_Toujours/lc7346468.mxl",
+      "label": "Poème d’un jour, Op.21, Toujours (OpenScore)",
+      "bar": 4,
+      "notes": "A4 B4 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 2.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:FaureG/O12/djinns",
+      "label": "Les Djinns (Op. 12) (Mutopia)",
+      "bar": 59,
+      "notes": "B4 C5 C#5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/3_Songs,_Op.7/2_Hymne/lc6772652.mxl",
+      "label": "Songs, Op.7, Hymne (OpenScore)",
+      "bar": 11,
+      "notes": "G4 Ab4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 4.6,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Op.39/4_Les_roses_d’Ispahan/lc29989154.mxl",
+      "label": "Op.39, Les roses d’Ispahan (OpenScore)",
+      "bar": 10,
+      "notes": "B4 C#5 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Poème_d’un_jour,_Op.21/1_Rencontre/lc29747321.mxl",
+      "label": "Poème d’un jour, Op.21, Rencontre (OpenScore)",
+      "bar": 14,
+      "notes": "C#5 Eb5 C#5 B4"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/3_Songs,_Op.7/3_Barcarolle/lc6772888.mxl",
+      "label": "Songs, Op.7, Barcarolle (OpenScore)",
+      "bar": 11,
+      "notes": "Eb5 F5 Eb5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1065,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Gabriel Fauré",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "middle",
+  "era": "Romantic",
+  "works": 10,
+  "values": {
+   "steps": 0.4645058069873625,
+   "repeats": 0.25385808471950166,
+   "leaps": 0.13584466946532153,
+   "move": 2.9549752360697754,
+   "rising": 0.49436458321729165,
+   "leap answered": 0.2411707460364246,
+   "range": 13.009999999999996,
+   "register": 70.4,
+   "even": 0.3691855475167284,
+   "long-short": 0.1721155519247097,
+   "rhythm variety": 2.852037051665931,
+   "surprise, pitch": 3.023348759744624,
+   "surprise, rhythm": 2.0547576829391567,
+   "density": 6.305267379586935,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 3.023348759744624,
+    "others": 2.4212288069633803,
+    "auc": 0.8172320586833891
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.0547576829391567,
+    "others": 1.6277202817858347,
+    "auc": 0.7675611546077366
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 4.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Op.83/1_Prison/lc29748284.mxl",
+      "label": "Op.83, Prison (OpenScore)",
+      "bar": 2,
+      "notes": "F#4 Ab4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/4_Songs,_Op.51/2_Au_cimetière/lc6137985.mxl",
+      "label": "Songs, Op.51, Au cimetière (OpenScore)",
+      "bar": 3,
+      "notes": "Bb4 C5 C5 D5"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Cinq_Mélodies,_Op.58/3_Green/lc5627879.mxl",
+      "label": "Cinq Mélodies, Op.58, Green (OpenScore)",
+      "bar": 16,
+      "notes": "F#4 Ab4 Ab4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 3.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/4_Songs,_Op.51/1_Larmes/lc6135958.mxl",
+      "label": "Songs, Op.51, Larmes (OpenScore)",
+      "bar": 3,
+      "notes": "F#4 F#4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Cinq_Mélodies,_Op.58/1_Mandoline/lc5598547.mxl",
+      "label": "Cinq Mélodies, Op.58, Mandoline (OpenScore)",
+      "bar": 28,
+      "notes": "E4 E4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Fauré,_Gabriel/Op.83/1_Prison/lc29748284.mxl",
+      "label": "Op.83, Prison (OpenScore)",
+      "bar": 22,
+      "notes": "D5 D5 Eb5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1065,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Gabriel Fauré",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "late",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.6212974639204147,
+   "repeats": 0.10312456214095557,
+   "leaps": 0.1469758535332306,
+   "move": 3.1359890886225776,
+   "rising": 0.5509133747595798,
+   "leap answered": 0.24142557932512268,
+   "range": 21.666666666666668,
+   "register": 72.5,
+   "even": 0.30026007912504976,
+   "long-short": 0.21385471997017982,
+   "rhythm variety": 3.0964507279661397,
+   "surprise, pitch": 2.918005011423554,
+   "surprise, rhythm": 1.8190346645104023,
+   "density": 2.702427896877667,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 256,
+   "composers": 32
+  }
+ }
+]

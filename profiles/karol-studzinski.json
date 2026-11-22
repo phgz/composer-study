@@ -1,0 +1,96 @@
+[
+ {
+  "composer": "Karol Studziński",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.44999466914032515,
+   "repeats": 0.34854035329460176,
+   "leaps": 0.08888777711640103,
+   "move": 2.4871986904804104,
+   "rising": 0.44083297212750205,
+   "leap answered": 0.32119940029985006,
+   "range": 10.4,
+   "register": 69.9,
+   "even": 0.4623662654481068,
+   "long-short": 0.11733427271790442,
+   "rhythm variety": 2.4197289079145046,
+   "surprise, pitch": 2.5566992663074664,
+   "surprise, rhythm": 1.7516032963756474,
+   "density": 1.9831310341537631,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.34854035329460176,
+    "others": 0.24525220421114008,
+    "auc": 0.7638098330696601
+   },
+   {
+    "measure": "leaps",
+    "value": 0.08888777711640103,
+    "others": 0.14447139206661241,
+    "auc": 0.22523151356128968
+   },
+   {
+    "measure": "move",
+    "value": 2.4871986904804104,
+    "others": 2.9832076164243335,
+    "auc": 0.11450887821152048
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.5566992663074664,
+    "others": 2.819968931785525,
+    "auc": 0.1815450463009003
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.9,
+    "works": 3,
+    "per_1000": 7.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-475--001-001_studzinski-karol--msza-3cia-kyrie.krn",
+      "label": "Msza 3cia, Kyrie, movement 1 (PL-Kk Kk.I.475, kern)",
+      "bar": 3,
+      "notes": "F4 F4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-475--001-004_studzinski-karol--msza-3cia-credo.krn",
+      "label": "Msza 3cia, Credo, movement 4 (PL-Kk Kk.I.475, kern)",
+      "bar": 9,
+      "notes": "F4 F4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-475--001-003_studzinski-karol--msza-3cia-graduale.krn",
+      "label": "Msza 3cia, Graduale, movement 3 (PL-Kk Kk.I.475, kern)",
+      "bar": 22,
+      "notes": "G4 G4 A4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 546,
+   "composers": 37
+  }
+ }
+]

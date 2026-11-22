@@ -1,0 +1,71 @@
+[
+ {
+  "composer": "Johann Nepomuk Hummel",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.43556236204347426,
+   "repeats": 0.16412215580084774,
+   "leaps": 0.1894832941178549,
+   "move": 3.270673238726644,
+   "rising": 0.4631401271300652,
+   "leap answered": 0.2601503908465627,
+   "range": 12.4,
+   "register": 76.0,
+   "even": 0.3826939571469476,
+   "long-short": 0.10850083586165149,
+   "rhythm variety": 2.8260813978439594,
+   "surprise, pitch": 3.230889819276662,
+   "surprise, rhythm": 2.2003038014129555,
+   "density": 12.968539616145769,
+   "lines": 14.5
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.1894832941178549,
+    "others": 0.10055511881512891,
+    "auc": 0.8669389912058714
+   },
+   {
+    "measure": "move",
+    "value": 3.270673238726644,
+    "others": 2.645298922410758,
+    "auc": 0.8349008056048658
+   },
+   {
+    "measure": "even",
+    "value": 0.3826939571469476,
+    "others": 0.5368178250262892,
+    "auc": 0.17901473524310751
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.8260813978439594,
+    "others": 2.1994395507059745,
+    "auc": 0.8938123683795473
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.230889819276662,
+    "others": 2.4452952170804614,
+    "auc": 0.94751329369987
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.2003038014129555,
+    "others": 1.72611899626715,
+    "auc": 0.843936164676717
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 641,
+   "composers": 34
+  }
+ }
+]

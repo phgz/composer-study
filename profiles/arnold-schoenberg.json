@@ -1,0 +1,65 @@
+[
+ {
+  "composer": "Arnold Schoenberg",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "atonal",
+  "era": "1890 to 1950",
+  "works": 10,
+  "values": {
+   "steps": 0.5493928897301622,
+   "repeats": 0.12933269143687673,
+   "leaps": 0.15070610781550503,
+   "move": 2.9657158007694973,
+   "rising": 0.46941133274852404,
+   "leap answered": 0.35198593073593076,
+   "range": 14.8,
+   "register": 67.95,
+   "even": 0.37986112830839314,
+   "long-short": 0.24102250603339037,
+   "rhythm variety": 2.7415642841976076,
+   "surprise, pitch": 3.212777186510828,
+   "surprise, rhythm": 2.3746908354456746,
+   "density": 4.519048982519879,
+   "lines": 2.9
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5493928897301622,
+    "others": 0.4373340805376694,
+    "auc": 0.7981338289962827
+   },
+   {
+    "measure": "range",
+    "value": 14.8,
+    "others": 12.62707063197026,
+    "auc": 0.7971610904584883
+   },
+   {
+    "measure": "long-short",
+    "value": 0.24102250603339037,
+    "others": 0.1475145760387157,
+    "auc": 0.803548946716233
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.212777186510828,
+    "others": 2.749263098585116,
+    "auc": 0.7689876084262701
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.3746908354456746,
+    "others": 1.9007966731156176,
+    "auc": 0.816377942998761
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 299,
+   "composers": 37
+  }
+ }
+]

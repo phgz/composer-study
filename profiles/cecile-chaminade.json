@@ -1,0 +1,283 @@
+[
+ {
+  "composer": "Cécile Chaminade",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 35,
+  "values": {
+   "steps": 0.4450929641216033,
+   "repeats": 0.2421011838026081,
+   "leaps": 0.1642602041997369,
+   "move": 3.197232547007042,
+   "rising": 0.5001614124201266,
+   "leap answered": 0.2418808078631436,
+   "range": 12.61428571428571,
+   "register": 69.48571428571428,
+   "even": 0.5028696472516311,
+   "long-short": 0.09656340942440288,
+   "rhythm variety": 2.3606165788781897,
+   "surprise, pitch": 2.133977931175684,
+   "surprise, rhythm": 1.491550192963631,
+   "density": 6.614602017518854,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.8,
+    "works": 7,
+    "per_1000": 3.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Tu_me_dirais/lc5001735.mxl",
+      "label": "Tu me dirais (OpenScore)",
+      "bar": 2,
+      "notes": "F4 F4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Aubade/lc6262515.mxl",
+      "label": "Aubade (OpenScore)",
+      "bar": 11,
+      "notes": "B4 B4 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Chanson_espagnole/lc6312216.mxl",
+      "label": "Chanson espagnole (OpenScore)",
+      "bar": 5,
+      "notes": "C5 C5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     3,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Aubade/lc6262515.mxl",
+      "label": "Aubade (OpenScore)",
+      "bar": 2,
+      "notes": "B4 B4 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Colette/lc4999324.mxl",
+      "label": "Colette (OpenScore)",
+      "bar": 9,
+      "notes": "G4 G4 Bb4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Souhait/lc5004771.mxl",
+      "label": "Souhait (OpenScore)",
+      "bar": 5,
+      "notes": "E4 E4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 6,
+    "per_1000": 1.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/L’anneau_d’argent/lc4999596.mxl",
+      "label": "L’anneau d’argent (OpenScore)",
+      "bar": 32,
+      "notes": "G4 A4 A4 F4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Souhait/lc5004771.mxl",
+      "label": "Souhait (OpenScore)",
+      "bar": 8,
+      "notes": "F#4 Ab4 Ab4 E4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Aubade/lc6262515.mxl",
+      "label": "Aubade (OpenScore)",
+      "bar": 28,
+      "notes": "E5 F#5 F#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 6.0,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Les_rêves/lc4999602.mxl",
+      "label": "Les rêves (OpenScore)",
+      "bar": 10,
+      "notes": "C5 Bb4 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Chanson_de_neige/lc6415075.mxl",
+      "label": "Chanson de neige (OpenScore)",
+      "bar": 5,
+      "notes": "D5 C5 D5 C5"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/L’absente/lc4999590.mxl",
+      "label": "L’absente (OpenScore)",
+      "bar": 29,
+      "notes": "D5 C5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 5,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Avril_s’éveille/lc6262544.mxl",
+      "label": "Avril s’éveille (OpenScore)",
+      "bar": 7,
+      "notes": "G4 A4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Alleluia/lc6260992.mxl",
+      "label": "Alleluia (OpenScore)",
+      "bar": 16,
+      "notes": "G4 A4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Chanson_espagnole/lc6312216.mxl",
+      "label": "Chanson espagnole (OpenScore)",
+      "bar": 8,
+      "notes": "Bb4 C5 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     4,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Aubade/lc6262515.mxl",
+      "label": "Aubade (OpenScore)",
+      "bar": 4,
+      "notes": "G4 G4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Colette/lc4999324.mxl",
+      "label": "Colette (OpenScore)",
+      "bar": 9,
+      "notes": "F4 F4 A4 A4"
+     },
+     {
+      "work": "openscore-lieder:Chaminade,_Cécile/_/Amertume/lc6261036.mxl",
+      "label": "Amertume (OpenScore)",
+      "bar": 39,
+      "notes": "Ab4 Ab4 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1053,
+   "composers": 97
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "When in Rome": 3
+   },
+   "values": {
+    "chords a bar": 1.3767164179104476,
+    "tonic and dominant": 0.6239572725009618,
+    "sevenths": 0.4144657931065698,
+    "diminished sevenths": 0.08235453866521827,
+    "applied chords": 0.08926607373209317,
+    "augmented sixths": 0.062307918618598225,
+    "Neapolitan": 0.016317016317016316,
+    "mixture": 0.01576934392468373,
+    "inversions": 0.4260076493086202,
+    "keys a 10 bars": 1.1154228855721395,
+    "away from home": 0.39504831737841445,
+    "non-chord tones": 0.21844211421340665,
+    "struck dissonance": 0.27260348583877997,
+    "resolved by step": 0.591230936819172,
+    "suspensions": 0.00228310502283105
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 148,
+    "composers": 18,
+    "progressions_by": "When in Rome",
+    "progressions_works": 95
+   }
+  }
+ }
+]

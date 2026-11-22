@@ -1,0 +1,98 @@
+[
+ {
+  "composer": "Guillaume de Machaut",
+  "kind": "ballade",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.7176111026654505,
+   "repeats": 0.15373910509780075,
+   "leaps": 0.058883779264214044,
+   "move": 2.1256637595563532,
+   "rising": 0.4197811300480401,
+   "leap answered": 0.367003367003367,
+   "range": 10.416666666666666,
+   "register": 67.0,
+   "even": 0.5636157228042201,
+   "long-short": 0.055618495259319355,
+   "rhythm variety": 2.1539903984536064,
+   "surprise, pitch": 2.4857132635228276,
+   "surprise, rhythm": 1.748282630614759,
+   "density": 1.6707287762435528,
+   "lines": 2.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 1856,
+   "composers": 39
+  }
+ },
+ {
+  "composer": "Guillaume de Machaut",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.6176128747040872,
+   "repeats": 0.05835068404590096,
+   "leaps": 0.1306544308490916,
+   "move": 2.6187553464499573,
+   "rising": 0.4988689288090486,
+   "leap answered": 0.36752136752136755,
+   "range": 8.966666666666669,
+   "register": 67.33333333333333,
+   "even": 0.35133031553140087,
+   "long-short": 0.08694148726219518,
+   "rhythm variety": 3.0018000809904684,
+   "surprise, pitch": 2.8822984547984016,
+   "surprise, rhythm": 2.0587086538055464,
+   "density": 1.5503171289828792,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 593,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Guillaume de Machaut",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.7567236469453176,
+   "repeats": 0.09604781986243816,
+   "leaps": 0.05081930223148984,
+   "move": 2.27283703374046,
+   "rising": 0.42456093721670046,
+   "leap answered": 0.4027777777777778,
+   "range": 10.8125,
+   "register": 62.75,
+   "even": 0.31984608958293165,
+   "long-short": 0.09612974744553691,
+   "rhythm variety": 2.5216936856481817,
+   "surprise, pitch": 2.8191707359469107,
+   "surprise, rhythm": 2.064169804949777,
+   "density": 1.2075332247029475,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 278,
+   "composers": 19
+  }
+ }
+]

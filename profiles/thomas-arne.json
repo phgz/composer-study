@@ -1,0 +1,41 @@
+[
+ {
+  "composer": "Thomas Arne",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 11,
+  "values": {
+   "steps": 0.5692391939475591,
+   "repeats": 0.10770298606495063,
+   "leaps": 0.1753381484756735,
+   "move": 2.908034697006469,
+   "rising": 0.44003669350202407,
+   "leap answered": 0.3990588956498048,
+   "range": 12.418181818181814,
+   "register": 72.0909090909091,
+   "even": 0.47737735913283647,
+   "long-short": 0.13183758142118904,
+   "rhythm variety": 2.361219308867899,
+   "surprise, pitch": 2.752242655948709,
+   "surprise, rhythm": 1.8486849419647229,
+   "density": 3.7413716314995464,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.1753381484756735,
+    "others": 0.1232844390036563,
+    "auc": 0.764960235854966
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 127,
+   "composers": 18
+  }
+ }
+]

@@ -1,0 +1,454 @@
+[
+ {
+  "composer": "Xaver Scharwenka",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5360199535998654,
+   "repeats": 0.05080229481024982,
+   "leaps": 0.1990130483903615,
+   "move": 3.359929817356626,
+   "rising": 0.4683199908147033,
+   "leap answered": 0.24961948303541243,
+   "range": 25.859999999999996,
+   "register": 72.4,
+   "even": 0.45731830619679226,
+   "long-short": 0.1134694858507859,
+   "rhythm variety": 2.6167374467431266,
+   "surprise, pitch": 2.079657632056965,
+   "surprise, rhythm": 1.3998598619411133,
+   "density": 5.617800995566528,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.05080229481024982,
+    "others": 0.13741469741950207,
+    "auc": 0.17207057121712313
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-961-69--001-002_scharwenka-xaver--polnische-tanze-op-40-2.krn",
+      "label": "Polnische Tänze Op. 40, 2. (PL-Wtm A-24.961/69, kern)",
+      "bar": 24,
+      "notes": "Ab4 A4 Bb4 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-380-80_scharwenka-xaver--polonaise-op-12.krn",
+      "label": "Polonaise Op. 12 (PL-Wtm A.32.380/80, kern)",
+      "bar": 53,
+      "notes": "F#5 G5 Ab5 F6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.1,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-962-69_scharwenka-xaver--polonaise-op-42.krn",
+      "label": "Polonaise Op. 42: Maestoso. (PL-Wtm A-24.962/69, kern)",
+      "bar": 32,
+      "notes": "Ab3 G3 G3 F3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-380-80_scharwenka-xaver--polonaise-op-12.krn",
+      "label": "Polonaise Op. 12 (PL-Wtm A.32.380/80, kern)",
+      "bar": 15,
+      "notes": "E5 Eb5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     7
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-961-69--001-002_scharwenka-xaver--polnische-tanze-op-40-2.krn",
+      "label": "Polnische Tänze Op. 40, 2. (PL-Wtm A-24.961/69, kern)",
+      "bar": 1,
+      "notes": "Ab5 G5 F5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-36-638-86--001-001_scharwenka-xaver--polonaise-und-mazurka-op-16-1-polonaise.krn",
+      "label": "Polonaise und Mazurka Op. 16, 1. Polonaise (PL-Wtm A.36.638/86, kern)",
+      "bar": 25,
+      "notes": "Bb3 A3 G3 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-962-69_scharwenka-xaver--polonaise-op-42.krn",
+      "label": "Polonaise Op. 42: Maestoso. (PL-Wtm A-24.962/69, kern)",
+      "bar": 24,
+      "notes": "E4 F4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-36-638-86--001-002_scharwenka-xaver--polonaise-und-mazurka-op-16-2-mazurek.krn",
+      "label": "Polonaise und Mazurka Op. 16, 2. Mazurek (PL-Wtm A.36.638/86, kern)",
+      "bar": 25,
+      "notes": "Bb4 B4 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-962-69_scharwenka-xaver--polonaise-op-42.krn",
+      "label": "Polonaise Op. 42: Maestoso. (PL-Wtm A-24.962/69, kern)",
+      "bar": 27,
+      "notes": "A4 Bb4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-36-638-86--001-002_scharwenka-xaver--polonaise-und-mazurka-op-16-2-mazurek.krn",
+      "label": "Polonaise und Mazurka Op. 16, 2. Mazurek (PL-Wtm A.36.638/86, kern)",
+      "bar": 32,
+      "notes": "Bb4 B4 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-380-80_scharwenka-xaver--polonaise-op-12.krn",
+      "label": "Polonaise Op. 12 (PL-Wtm A.32.380/80, kern)",
+      "bar": 6,
+      "notes": "Ab5 A5 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-962-69_scharwenka-xaver--polonaise-op-42.krn",
+      "label": "Polonaise Op. 42: Maestoso. (PL-Wtm A-24.962/69, kern)",
+      "bar": 80,
+      "notes": "Ab4 A4 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 430,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Xaver Scharwenka",
+  "kind": "polonaise",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5360199535998654,
+   "repeats": 0.05080229481024982,
+   "leaps": 0.1990130483903615,
+   "move": 3.359929817356626,
+   "rising": 0.4683199908147033,
+   "leap answered": 0.24961948303541243,
+   "range": 25.859999999999996,
+   "register": 72.4,
+   "even": 0.45731830619679226,
+   "long-short": 0.1134694858507859,
+   "rhythm variety": 2.6167374467431266,
+   "surprise, pitch": 2.079657632056965,
+   "surprise, rhythm": 1.3998598619411133,
+   "density": 5.617800995566528,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.05080229481024982,
+    "others": 0.11929802829468579,
+    "auc": 0.16972118704186842
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-961-69--001-002_scharwenka-xaver--polnische-tanze-op-40-2.krn",
+      "label": "Polnische Tänze Op. 40, 2. (PL-Wtm A-24.961/69, kern)",
+      "bar": 19,
+      "notes": "Bb4 C5 Bb4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-380-80_scharwenka-xaver--polonaise-op-12.krn",
+      "label": "Polonaise Op. 12 (PL-Wtm A.32.380/80, kern)",
+      "bar": 11,
+      "notes": "C#5 Eb5 C#5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-36-638-86--001-002_scharwenka-xaver--polonaise-und-mazurka-op-16-2-mazurek.krn",
+      "label": "Polonaise und Mazurka Op. 16, 2. Mazurek (PL-Wtm A.36.638/86, kern)",
+      "bar": 59,
+      "notes": "F5 G5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-961-69--001-002_scharwenka-xaver--polnische-tanze-op-40-2.krn",
+      "label": "Polnische Tänze Op. 40, 2. (PL-Wtm A-24.961/69, kern)",
+      "bar": 19,
+      "notes": "Bb4 Bb4 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-36-638-86--001-002_scharwenka-xaver--polonaise-und-mazurka-op-16-2-mazurek.krn",
+      "label": "Polonaise und Mazurka Op. 16, 2. Mazurek (PL-Wtm A.36.638/86, kern)",
+      "bar": 59,
+      "notes": "F5 F5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-36-638-86--001-001_scharwenka-xaver--polonaise-und-mazurka-op-16-1-polonaise.krn",
+      "label": "Polonaise und Mazurka Op. 16, 1. Polonaise (PL-Wtm A.36.638/86, kern)",
+      "bar": 10,
+      "notes": "G4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-380-80_scharwenka-xaver--polonaise-op-12.krn",
+      "label": "Polonaise Op. 12 (PL-Wtm A.32.380/80, kern)",
+      "bar": 1,
+      "notes": "F#4 A4 Ab4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-961-69--001-002_scharwenka-xaver--polnische-tanze-op-40-2.krn",
+      "label": "Polnische Tänze Op. 40, 2. (PL-Wtm A-24.961/69, kern)",
+      "bar": 48,
+      "notes": "F5 Ab5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-961-69--001-002_scharwenka-xaver--polnische-tanze-op-40-2.krn",
+      "label": "Polnische Tänze Op. 40, 2. (PL-Wtm A-24.961/69, kern)",
+      "bar": 24,
+      "notes": "Ab4 A4 Bb4 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-380-80_scharwenka-xaver--polonaise-op-12.krn",
+      "label": "Polonaise Op. 12 (PL-Wtm A.32.380/80, kern)",
+      "bar": 53,
+      "notes": "F#5 G5 Ab5 F6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-380-80_scharwenka-xaver--polonaise-op-12.krn",
+      "label": "Polonaise Op. 12 (PL-Wtm A.32.380/80, kern)",
+      "bar": 25,
+      "notes": "B4 A4 Ab4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-962-69_scharwenka-xaver--polonaise-op-42.krn",
+      "label": "Polonaise Op. 42: Maestoso. (PL-Wtm A-24.962/69, kern)",
+      "bar": 2,
+      "notes": "Bb3 Ab3 G3 F3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-380-80_scharwenka-xaver--polonaise-op-12.krn",
+      "label": "Polonaise Op. 12 (PL-Wtm A.32.380/80, kern)",
+      "bar": 11,
+      "notes": "E5 F#5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-961-69--001-002_scharwenka-xaver--polnische-tanze-op-40-2.krn",
+      "label": "Polnische Tänze Op. 40, 2. (PL-Wtm A-24.961/69, kern)",
+      "bar": 4,
+      "notes": "Eb5 F5 Eb5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 58,
+   "composers": 18
+  }
+ }
+]

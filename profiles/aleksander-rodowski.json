@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Aleksander Rodowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 28,
+  "values": {
+   "steps": 0.4929142265097121,
+   "repeats": 0.21374080359385447,
+   "leaps": 0.08957302513624721,
+   "move": 2.6932478045850865,
+   "rising": 0.49835693322223024,
+   "leap answered": 0.3268111805153753,
+   "range": 11.939285714285713,
+   "register": 76.05357142857143,
+   "even": 0.6112508901732284,
+   "long-short": 0.08817971394320699,
+   "rhythm variety": 1.9918167029282965,
+   "surprise, pitch": 2.179444992297012,
+   "surprise, rhythm": 1.4456056207390173,
+   "density": 10.276971443872185,
+   "lines": 8.785714285714286
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-002_rodowski-aleksander--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-STAb 14a, kern)",
+      "bar": 2,
+      "notes": "A5 G5 F5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-003_rodowski-aleksander--missa-in-c-patrem.krn",
+      "label": "Missa in C, Patrem, movement 3 (PL-STAb 14a, kern)",
+      "bar": 139,
+      "notes": "B5 A5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-574--001-007_rodowski-aleksander--missa-in-c-benedictus.krn",
+      "label": "Missa in C, Benedictus, movement 7 (PL-CZ III-574, kern)",
+      "bar": 8,
+      "notes": "B5 A5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 5,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-002_rodowski-aleksander--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-STAb 14a, kern)",
+      "bar": 401,
+      "notes": "G5 A5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-003_rodowski-aleksander--missa-in-c-patrem.krn",
+      "label": "Missa in C, Patrem, movement 3 (PL-STAb 14a, kern)",
+      "bar": 181,
+      "notes": "G5 A5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-574--001-002_rodowski-aleksander--missa-in-c-christe.krn",
+      "label": "Missa in C, Christe, movement 2 (PL-CZ III-574, kern)",
+      "bar": 8,
+      "notes": "Bb5 C6 Bb5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     9,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--15a--001-002_rodowski-aleksander--missa-in-b-gloria.krn",
+      "label": "Missa in B, Gloria, movement 2 (PL-STAb 15a, kern)",
+      "bar": 19,
+      "notes": "E4 F4 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-002_rodowski-aleksander--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-STAb 14a, kern)",
+      "bar": 400,
+      "notes": "B4 C5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-003_rodowski-aleksander--missa-in-c-patrem.krn",
+      "label": "Missa in C, Patrem, movement 3 (PL-STAb 14a, kern)",
+      "bar": 180,
+      "notes": "B4 C5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-002_rodowski-aleksander--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-STAb 14a, kern)",
+      "bar": 211,
+      "notes": "G5 E5 F5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-003_rodowski-aleksander--missa-in-c-patrem.krn",
+      "label": "Missa in C, Patrem, movement 3 (PL-STAb 14a, kern)",
+      "bar": 83,
+      "notes": "G5 E5 F5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--75a--001-007_rodowski-aleksander--missa-pastorales-agnus-dei.krn",
+      "label": "Missa Pastorales, Agnus Dei, movement 7: Allegro (PL-STAb 75a, kern)",
+      "bar": 4,
+      "notes": "G5 E5 F5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-003_rodowski-aleksander--missa-in-c-patrem.krn",
+      "label": "Missa in C, Patrem, movement 3 (PL-STAb 14a, kern)",
+      "bar": 68,
+      "notes": "A5 E5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-002_rodowski-aleksander--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-STAb 14a, kern)",
+      "bar": 398,
+      "notes": "D5 A4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-004_rodowski-aleksander--missa-in-c-sanctus.krn",
+      "label": "Missa in C, Sanctus, movement 4 (PL-STAb 14a, kern)",
+      "bar": 55,
+      "notes": "G4 D4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-002_rodowski-aleksander--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-STAb 14a, kern)",
+      "bar": 402,
+      "notes": "G5 E5 D5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--14a--001-003_rodowski-aleksander--missa-in-c-patrem.krn",
+      "label": "Missa in C, Patrem, movement 3 (PL-STAb 14a, kern)",
+      "bar": 182,
+      "notes": "G5 E5 D5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--15a--001-006_rodowski-aleksander--missa-in-b-agnus-dei.krn",
+      "label": "Missa in B, Agnus Dei, movement 6 (PL-STAb 15a, kern)",
+      "bar": 3,
+      "notes": "F5 D5 C5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 619,
+   "composers": 34
+  }
+ }
+]

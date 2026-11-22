@@ -1,0 +1,142 @@
+[
+ {
+  "composer": "Maurice Ravel",
+  "kind": "character piece",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 5,
+  "values": {
+   "steps": 0.18854402884268823,
+   "repeats": 0.10600161549987126,
+   "leaps": 0.45190688888424574,
+   "move": 5.787776931040737,
+   "rising": 0.4869113664545612,
+   "leap answered": 0.0679520499216908,
+   "range": 36.73999999999997,
+   "register": 73.2,
+   "even": 0.7728597551441885,
+   "long-short": 0.048407165984936926,
+   "rhythm variety": 1.4626500206674473,
+   "surprise, pitch": 2.0438040876941237,
+   "surprise, rhythm": 1.108542341874785,
+   "density": 9.197113206031451,
+   "lines": 2.2
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.45190688888424574,
+    "others": 0.32300596172043006,
+    "auc": 0.7660818714899016
+   },
+   {
+    "measure": "range",
+    "value": 36.73999999999997,
+    "others": 27.40614034864202,
+    "auc": 0.9400584795580338
+   },
+   {
+    "measure": "even",
+    "value": 0.7728597551441885,
+    "others": 0.42212348037044833,
+    "auc": 0.8684210525384467
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.4626500206674473,
+    "others": 2.4145178649504158,
+    "auc": 0.15263157904050068
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.0438040876941237,
+    "others": 2.82667801881325,
+    "auc": 0.2011695907260591
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.108542341874785,
+    "others": 1.80053113664134,
+    "auc": 0.16549707609582803
+   },
+   {
+    "measure": "density",
+    "value": 9.197113206031451,
+    "others": 3.5818753971909034,
+    "auc": 0.9508771929824562
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 27,
+   "composers": 2
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "DCML": 3
+   },
+   "values": {
+    "chords a bar": 2.1279458235649815,
+    "tonic and dominant": 0.5802416078005138,
+    "sevenths": 0.6339837911150641,
+    "diminished sevenths": 0.006653481522884107,
+    "applied chords": 0.1300098171994468,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0044356543485894045,
+    "mixture": 0.05769681553757942,
+    "inversions": 0.31582451661861305,
+    "keys a 10 bars": 1.1316623173644635,
+    "away from home": 0.5923845470989343,
+    "changes": 0.5230370793303317,
+    "non-chord tones": 0.2625203806767742,
+    "struck dissonance": 0.1210105284950459,
+    "resolved by step": 0.2959497929500373,
+    "suspensions": 0.0001628399283504315
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 46,
+    "composers": 4,
+    "progressions_by": "DCML",
+    "progressions_works": 46
+   }
+  }
+ },
+ {
+  "composer": "Maurice Ravel",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.49382823221653777,
+   "repeats": 0.0742304478501525,
+   "leaps": 0.2340417947756756,
+   "move": 3.638020198340313,
+   "rising": 0.522787813170741,
+   "leap answered": 0.19032272569276037,
+   "range": 29.299999999999997,
+   "register": 74.5,
+   "even": 0.646200183308739,
+   "long-short": 0.07641297949241899,
+   "rhythm variety": 2.023586784004814,
+   "surprise, pitch": 2.4318666589764995,
+   "surprise, rhythm": 1.4570145721226861,
+   "density": 5.4084632730837425,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ }
+]

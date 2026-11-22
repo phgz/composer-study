@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Georges Bizet",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 26,
+  "values": {
+   "steps": 0.5611559603409246,
+   "repeats": 0.15675101800615304,
+   "leaps": 0.15302845719248184,
+   "move": 2.8076464721270926,
+   "rising": 0.4758288800222953,
+   "leap answered": 0.3582955543773776,
+   "range": 11.959615384615386,
+   "register": 70.26923076923077,
+   "even": 0.43662212250491816,
+   "long-short": 0.14040677967098333,
+   "rhythm variety": 2.5634801922457666,
+   "surprise, pitch": 2.2196614103767542,
+   "surprise, rhythm": 1.566116443400198,
+   "density": 6.437644667961036,
+   "lines": 3.1153846153846154
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 6,
+    "per_1000": 2.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/20_Tarentelle/lc6908450.mxl",
+      "label": "Mélodies, Op.21, Tarentelle (OpenScore)",
+      "bar": 12,
+      "notes": "C#5 D5 Eb5 E5"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/05_Rêve_de_la_bien-aimée/lc6888209.mxl",
+      "label": "Mélodies, Op.21, Rêve de la bien-aimée (OpenScore)",
+      "bar": 5,
+      "notes": "A4 Bb4 B4 C5"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/13_Absence/lc5079487.mxl",
+      "label": "Mélodies, Op.21, Absence (OpenScore)",
+      "bar": 10,
+      "notes": "B4 C5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 6,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/12_La_chanson_du_fou/lc6901197.mxl",
+      "label": "Mélodies, Op.21, La chanson du fou (OpenScore)",
+      "bar": 7,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/06_J’aime_l’amour/lc6894036.mxl",
+      "label": "Mélodies, Op.21, J’aime l’amour (OpenScore)",
+      "bar": 28,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/10_Sérénade/lc6898141.mxl",
+      "label": "Mélodies, Op.21, Sérénade (OpenScore)",
+      "bar": 13,
+      "notes": "C5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 7,
+    "per_1000": 2.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Bizet,_Georges/Feuilles_d’album/4_Guitare/lc5079521.mxl",
+      "label": "Feuilles d’album, Guitare (OpenScore)",
+      "bar": 7,
+      "notes": "F#4 G4 A4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/09_Pastorale/lc6898041.mxl",
+      "label": "Mélodies, Op.21, Pastorale (OpenScore)",
+      "bar": 16,
+      "notes": "Eb4 E4 F#4 G4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/15_Après_l’hiver/lc6902615.mxl",
+      "label": "Mélodies, Op.21, Après l’hiver (OpenScore)",
+      "bar": 32,
+      "notes": "A4 Bb4 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 11,
+    "per_1000": 4.7,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Bizet,_Georges/Feuilles_d’album/1_À_une_Fleur/lc5079494.mxl",
+      "label": "Feuilles d’album, À une Fleur (OpenScore)",
+      "bar": 21,
+      "notes": "E4 F#4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/01_Chanson_d’avril/lc6877413.mxl",
+      "label": "Mélodies, Op.21, Chanson d’avril (OpenScore)",
+      "bar": 9,
+      "notes": "F4 G4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/09_Pastorale/lc6898041.mxl",
+      "label": "Mélodies, Op.21, Pastorale (OpenScore)",
+      "bar": 16,
+      "notes": "E4 F#4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 6,
+    "per_1000": 2.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Bizet,_Georges/Feuilles_d’album/4_Guitare/lc5079521.mxl",
+      "label": "Feuilles d’album, Guitare (OpenScore)",
+      "bar": 7,
+      "notes": "Eb5 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/13_Absence/lc5079487.mxl",
+      "label": "Mélodies, Op.21, Absence (OpenScore)",
+      "bar": 9,
+      "notes": "Eb5 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/15_Après_l’hiver/lc6902615.mxl",
+      "label": "Mélodies, Op.21, Après l’hiver (OpenScore)",
+      "bar": 32,
+      "notes": "C#5 C5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/01_Chanson_d’avril/lc6877413.mxl",
+      "label": "Mélodies, Op.21, Chanson d’avril (OpenScore)",
+      "bar": 25,
+      "notes": "A4 C5 Bb4 D4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/09_Pastorale/lc6898041.mxl",
+      "label": "Mélodies, Op.21, Pastorale (OpenScore)",
+      "bar": 27,
+      "notes": "Eb5 F#5 E5 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/03_Vieille_chanson/lc6877589.mxl",
+      "label": "Mélodies, Op.21, Vieille chanson (OpenScore)",
+      "bar": 11,
+      "notes": "B4 D5 C5 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1062,
+   "composers": 97
+  }
+ }
+]

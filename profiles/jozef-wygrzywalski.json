@@ -1,0 +1,192 @@
+[
+ {
+  "composer": "Józef Wygrzywalski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.4017880319896076,
+   "repeats": 0.3633383770639354,
+   "leaps": 0.10604534509991602,
+   "move": 2.775635077997238,
+   "rising": 0.4910260809883322,
+   "leap answered": 0.25827786311657275,
+   "range": 10.875,
+   "register": 77.66666666666667,
+   "even": 0.5016512657035532,
+   "long-short": 0.08901192912630822,
+   "rhythm variety": 2.469727051215503,
+   "surprise, pitch": 2.566972688369136,
+   "surprise, rhythm": 1.918622484507723,
+   "density": 9.897555661916538,
+   "lines": 9.833333333333334
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.3633383770639354,
+    "others": 0.24513070072191787,
+    "auc": 0.7857152661735265
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.25827786311657275,
+    "others": 0.3968723866274842,
+    "auc": 0.23802800356442358
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.7,
+    "works": 4,
+    "per_1000": 14.7,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-002_wygrzywalski-jozef--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-STAb 77a, kern)",
+      "bar": 71,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-005_wygrzywalski-jozef--msza-benedictus.krn",
+      "label": "Msza, Benedictus, movement 5 (PL-STAb 77a, kern)",
+      "bar": 15,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-003_wygrzywalski-jozef--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-STAb 77a, kern)",
+      "bar": 67,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 8.0,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-005_wygrzywalski-jozef--msza-benedictus.krn",
+      "label": "Msza, Benedictus, movement 5 (PL-STAb 77a, kern)",
+      "bar": 15,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-003_wygrzywalski-jozef--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-STAb 77a, kern)",
+      "bar": 67,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-004_wygrzywalski-jozef--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 4 (PL-STAb 77a, kern)",
+      "bar": 33,
+      "notes": "Bb5 Bb5 Bb5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 13.4,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-002_wygrzywalski-jozef--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-STAb 77a, kern)",
+      "bar": 39,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-003_wygrzywalski-jozef--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-STAb 77a, kern)",
+      "bar": 21,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-004_wygrzywalski-jozef--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 4 (PL-STAb 77a, kern)",
+      "bar": 27,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 12.0,
+    "others_per_1000": 2.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-002_wygrzywalski-jozef--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-STAb 77a, kern)",
+      "bar": 39,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-003_wygrzywalski-jozef--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-STAb 77a, kern)",
+      "bar": 21,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--77a--001-004_wygrzywalski-jozef--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 4 (PL-STAb 77a, kern)",
+      "bar": 28,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 547,
+   "composers": 37
+  }
+ }
+]

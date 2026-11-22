@@ -1,0 +1,455 @@
+[
+ {
+  "composer": "Franz Liszt",
+  "kind": "character piece",
+  "forces": "keyboard",
+  "period": "Weimar",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.3522582508705663,
+   "repeats": 0.12361436757361977,
+   "leaps": 0.3159794751161017,
+   "move": 4.553266553812853,
+   "rising": 0.4627722137471448,
+   "leap answered": 0.17001879562895658,
+   "range": 27.708333333333332,
+   "register": 73.58333333333333,
+   "even": 0.6173056134880611,
+   "long-short": 0.06256086254181072,
+   "rhythm variety": 1.9577312662345283,
+   "surprise, pitch": 2.1333623744891117,
+   "surprise, rhythm": 1.11903640038582,
+   "density": 7.009727692782985,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 27.708333333333332,
+    "others": 20.704761904761906,
+    "auc": 0.7668650793650794
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 7,
+    "per_1000": 3.5,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "dcml/liszt_pelerinage:notes/160.05_Orage.notes.tsv",
+      "label": "Années de Pèlerinage, Première année: Suisse, S.160, movement 5: Orage (DCML)",
+      "bar": 2,
+      "notes": "C5 C#5 D5 Eb5"
+     },
+     {
+      "work": "dcml/liszt_pelerinage:notes/160.06_Vallee_dObermann.notes.tsv",
+      "label": "Années de Pèlerinage, Première année: Suisse, S.160, movement 6: Vallee d'Obermann (DCML)",
+      "bar": 84,
+      "notes": "C#6 D6 Eb6 E6"
+     },
+     {
+      "work": "dcml/liszt_pelerinage:notes/162.03_Tarantella_da_Guillaume_Louis_Cottrau._Presto_e_canzone_napolitana.notes.tsv",
+      "label": "Années de Pèlerinage, Supplément: Venezia e Napoli, S.162, movement 3: Tarantella da Guillaume Louis Cottrau (DCML)",
+      "bar": 238,
+      "notes": "C5 C#5 D5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 42,
+   "composers": 5
+  },
+  "harmony": {
+   "works": 12,
+   "by": {
+    "DCML": 12
+   },
+   "values": {
+    "chords a bar": 2.34243536140867,
+    "tonic and dominant": 0.5656010069269092,
+    "sevenths": 0.3432298386572496,
+    "diminished sevenths": 0.08655728141568114,
+    "applied chords": 0.1311994903048652,
+    "augmented sixths": 0.024244313382844874,
+    "Neapolitan": 0.022362506522004444,
+    "mixture": 0.04802655168792039,
+    "inversions": 0.3575582173675022,
+    "keys a 10 bars": 0.8282921678622347,
+    "away from home": 0.3250425335043305,
+    "cadences a 10 bars": 1.1918048916304074,
+    "perfect cadences": 0.314029244176303,
+    "half cadences": 0.40624423914865093,
+    "deceptive or evaded": 0.01478324915824916,
+    "changes": 0.2396956219332416,
+    "non-chord tones": 0.23938523172052192,
+    "struck dissonance": 0.25554551646403845,
+    "resolved by step": 0.5554054828976925,
+    "suspensions": 0.0007816791740312655
+   },
+   "traits": [
+    {
+     "measure": "Neapolitan",
+     "value": 0.022362506522004444,
+     "others": 0.0,
+     "auc": 0.7916666666666666
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 1.1918048916304074,
+     "others": 1.928740750146921,
+     "auc": 0.23824786324786326
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 37,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 37
+   }
+  }
+ },
+ {
+  "composer": "Franz Liszt",
+  "kind": "character piece",
+  "forces": "keyboard",
+  "period": "virtuoso years",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.3355146208165384,
+   "repeats": 0.22833120663657805,
+   "leaps": 0.2606392390665532,
+   "move": 4.229826846019143,
+   "rising": 0.48212495193052224,
+   "leap answered": 0.21999164247939174,
+   "range": 24.0,
+   "register": 72.07142857142857,
+   "even": 0.4759481354885389,
+   "long-short": 0.1422082038132066,
+   "rhythm variety": 2.382296844634451,
+   "surprise, pitch": 2.5125334746079253,
+   "surprise, rhythm": 1.553741171216134,
+   "density": 4.667538031572879,
+   "lines": 2.4285714285714284
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3355146208165384,
+    "others": 0.4955761100140171,
+    "auc": 0.22108843537414966
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.5125334746079253,
+    "others": 2.0833368574106332,
+    "auc": 0.7755102040816327
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.553741171216134,
+    "others": 1.1712149776381613,
+    "auc": 0.7653061224489797
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 42,
+   "composers": 5
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "DCML": 7
+   },
+   "values": {
+    "chords a bar": 1.9578689620418739,
+    "tonic and dominant": 0.4444533679157575,
+    "sevenths": 0.42132999549708244,
+    "diminished sevenths": 0.09411775291209323,
+    "applied chords": 0.2707934797372115,
+    "augmented sixths": 0.007077560808729018,
+    "Neapolitan": 0.013206633952699512,
+    "mixture": 0.04204182921841452,
+    "inversions": 0.3386161432646135,
+    "keys a 10 bars": 0.3842058264785263,
+    "away from home": 0.2308503555339442,
+    "cadences a 10 bars": 1.3770160676910173,
+    "perfect cadences": 0.32870071105365223,
+    "half cadences": 0.24114219114219115,
+    "deceptive or evaded": 0.06153846153846154,
+    "changes": 0.2806857597831936,
+    "non-chord tones": 0.25925629937083144,
+    "struck dissonance": 0.237619590096559,
+    "resolved by step": 0.5389455827482336,
+    "suspensions": 0.012286614558690113
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.4444533679157575,
+     "others": 0.6557653495787701,
+     "auc": 0.1544566544566545
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.2707934797372115,
+     "others": 0.11987978664566983,
+     "auc": 0.7777777777777778
+    },
+    {
+     "measure": "Neapolitan",
+     "value": 0.013206633952699512,
+     "others": 0.0,
+     "auc": 0.7857142857142857
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.3842058264785263,
+     "others": 1.2894078584211977,
+     "auc": 0.15293040293040291
+    },
+    {
+     "measure": "changes",
+     "value": 0.2806857597831936,
+     "others": 0.17771343690703958,
+     "auc": 0.7570207570207571
+    },
+    {
+     "measure": "suspensions",
+     "value": 0.012286614558690113,
+     "others": 0.005875090729075261,
+     "auc": 0.8092185592185592
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 37,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 37
+   }
+  }
+ },
+ {
+  "composer": "Franz Liszt",
+  "kind": "etude",
+  "forces": "keyboard",
+  "period": "Weimar",
+  "era": "Romantic",
+  "works": 9,
+  "values": {
+   "steps": 0.3939354633785928,
+   "repeats": 0.12177438729714189,
+   "leaps": 0.2890537257024428,
+   "move": 4.89137899841515,
+   "rising": 0.4429458796060781,
+   "leap answered": 0.19186536440782287,
+   "range": 33.48888888888887,
+   "register": 79.55555555555556,
+   "even": 0.684595160165562,
+   "long-short": 0.03290369140772345,
+   "rhythm variety": 1.4336074329989905,
+   "surprise, pitch": 2.536898753333289,
+   "surprise, rhythm": 0.9766950189616481,
+   "density": 9.380923797265446,
+   "lines": 2.111111111111111
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3939354633785928,
+    "others": 0.5008451112563614,
+    "auc": 0.2222222222222222
+   },
+   {
+    "measure": "repeats",
+    "value": 0.12177438729714189,
+    "others": 0.02531882555516926,
+    "auc": 0.8410493827160495
+   },
+   {
+    "measure": "move",
+    "value": 4.89137899841515,
+    "others": 3.7268077316678796,
+    "auc": 0.7885802469135802
+   },
+   {
+    "measure": "rising",
+    "value": 0.4429458796060781,
+    "others": 0.5001131809491147,
+    "auc": 0.20216049382716048
+   },
+   {
+    "measure": "range",
+    "value": 33.48888888888887,
+    "others": 22.522916666666664,
+    "auc": 0.8695987654320988
+   },
+   {
+    "measure": "register",
+    "value": 79.55555555555556,
+    "others": 72.875,
+    "auc": 0.9004629629629629
+   },
+   {
+    "measure": "even",
+    "value": 0.684595160165562,
+    "others": 0.8486076291766551,
+    "auc": 0.21141975308641978
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.4336074329989905,
+    "others": 0.8243781917182503,
+    "auc": 0.7916666666666667
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.9766950189616481,
+    "others": 0.44949816249831775,
+    "auc": 0.8225308641975307
+   },
+   {
+    "measure": "density",
+    "value": 9.380923797265446,
+    "others": 5.429201069129308,
+    "auc": 0.8765432098765431
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 6,
+    "per_1000": 3.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "asap:Liszt/Transcendental_Etudes/11/xml_score.musicxml",
+      "label": "Études d'exécution transcendante, S.139, No. 11 (ASAP)",
+      "bar": 98,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "asap:Liszt/Gran_Etudes_de_Paganini/2_La_campanella/xml_score.musicxml",
+      "label": "Grandes études de Paganini, S.141, No. 3: La campanella (ASAP)",
+      "bar": 50,
+      "notes": "Eb6 Eb6 Eb6 Eb6"
+     },
+     {
+      "work": "asap:Liszt/Transcendental_Etudes/3/xml_score.musicxml",
+      "label": "Études d'exécution transcendante, S.139, No. 3 (ASAP)",
+      "bar": 43,
+      "notes": "A4 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "asap:Liszt/Transcendental_Etudes/9/xml_score.musicxml",
+      "label": "Études d'exécution transcendante, S.139, No. 9 (ASAP)",
+      "bar": 39,
+      "notes": "Bb6 G6 E6 C#6"
+     },
+     {
+      "work": "asap:Liszt/Gran_Etudes_de_Paganini/6_Theme_and_Variations/xml_score.musicxml",
+      "label": "Grandes études de Paganini, S.141, No. 6: Theme and Variations (ASAP)",
+      "bar": 37,
+      "notes": "F6 D6 B5 Ab5"
+     },
+     {
+      "work": "asap:Liszt/Gran_Etudes_de_Paganini/2_La_campanella/xml_score.musicxml",
+      "label": "Grandes études de Paganini, S.141, No. 3: La campanella (ASAP)",
+      "bar": 99,
+      "notes": "E7 C#7 Bb6 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 6,
+    "per_1000": 2.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "asap:Liszt/Gran_Etudes_de_Paganini/2_La_campanella/xml_score.musicxml",
+      "label": "Grandes études de Paganini, S.141, No. 3: La campanella (ASAP)",
+      "bar": 75,
+      "notes": "F6 E6 Eb6 E6"
+     },
+     {
+      "work": "asap:Liszt/Transcendental_Etudes/5/xml_score.musicxml",
+      "label": "Études d'exécution transcendante, S.139, No. 5 (ASAP)",
+      "bar": 4,
+      "notes": "C#7 C7 B6 C7"
+     },
+     {
+      "work": "asap:Liszt/Transcendental_Etudes/9/xml_score.musicxml",
+      "label": "Études d'exécution transcendante, S.139, No. 9 (ASAP)",
+      "bar": 66,
+      "notes": "A5 Ab5 G5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 26,
+   "composers": 2
+  }
+ }
+]

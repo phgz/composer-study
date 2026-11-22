@@ -1,0 +1,290 @@
+[
+ {
+  "composer": "Józef Damse",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.6165591170155065,
+   "repeats": 0.09594413362161841,
+   "leaps": 0.11602118300901261,
+   "move": 2.735261345756438,
+   "rising": 0.5284053534404091,
+   "leap answered": 0.4558614661859499,
+   "range": 15.466666666666669,
+   "register": 78.0,
+   "even": 0.6169122929603743,
+   "long-short": 0.04620047244107864,
+   "rhythm variety": 1.9723746868881973,
+   "surprise, pitch": 1.988099580052377,
+   "surprise, rhythm": 1.1873817806681648,
+   "density": 7.124736269442439,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 432,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Józef Damse",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.4697808239604117,
+   "repeats": 0.2686562449290924,
+   "leaps": 0.1070949626816887,
+   "move": 2.8014882793138716,
+   "rising": 0.4916690401255763,
+   "leap answered": 0.27013846936736,
+   "range": 12.921428571428573,
+   "register": 83.85714285714286,
+   "even": 0.49192610399542486,
+   "long-short": 0.0770067143023081,
+   "rhythm variety": 2.525988053906101,
+   "surprise, pitch": 2.590341738639434,
+   "surprise, rhythm": 1.8928702002275215,
+   "density": 17.322814688351972,
+   "lines": 22.428571428571427
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.590341738639434,
+    "others": 2.820358560872782,
+    "auc": 0.2306709775200486
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 8.4,
+    "works": 5,
+    "per_1000": 9.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-004_damse-jozef--missa-c-sanctus.krn",
+      "label": "Missa C, Sanctus, movement 4 (PL-CZ III-95, kern)",
+      "bar": 20,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-003_damse-jozef--missa-c-credo.krn",
+      "label": "Missa C, Credo, movement 3 (PL-CZ III-95, kern)",
+      "bar": 53,
+      "notes": "F6 F6 F6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-005_damse-jozef--missa-c-benedictus.krn",
+      "label": "Missa C, Benedictus, movement 5 (PL-CZ III-95, kern)",
+      "bar": 68,
+      "notes": "C6 C6 C6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 4.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-001_damse-jozef--missa-c-kyrie.krn",
+      "label": "Missa C, Kyrie, movement 1 (PL-CZ III-95, kern)",
+      "bar": 27,
+      "notes": "Eb6 Eb6 E6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-005_damse-jozef--missa-c-benedictus.krn",
+      "label": "Missa C, Benedictus, movement 5 (PL-CZ III-95, kern)",
+      "bar": 83,
+      "notes": "B5 B5 C6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-004_damse-jozef--missa-c-sanctus.krn",
+      "label": "Missa C, Sanctus, movement 4 (PL-CZ III-95, kern)",
+      "bar": 41,
+      "notes": "B5 B5 C6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-005_damse-jozef--missa-c-benedictus.krn",
+      "label": "Missa C, Benedictus, movement 5 (PL-CZ III-95, kern)",
+      "bar": 83,
+      "notes": "A5 B5 B5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-002_damse-jozef--missa-c-gloria.krn",
+      "label": "Missa C, Gloria, movement 2 (PL-CZ III-95, kern)",
+      "bar": 216,
+      "notes": "D6 E6 E6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-004_damse-jozef--missa-c-sanctus.krn",
+      "label": "Missa C, Sanctus, movement 4 (PL-CZ III-95, kern)",
+      "bar": 41,
+      "notes": "A5 B5 B5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.1,
+    "works": 4,
+    "per_1000": 8.3,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-004_damse-jozef--missa-c-sanctus.krn",
+      "label": "Missa C, Sanctus, movement 4 (PL-CZ III-95, kern)",
+      "bar": 20,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-001_damse-jozef--missa-c-kyrie.krn",
+      "label": "Missa C, Kyrie, movement 1 (PL-CZ III-95, kern)",
+      "bar": 4,
+      "notes": "C6 C6 C6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-005_damse-jozef--missa-c-benedictus.krn",
+      "label": "Missa C, Benedictus, movement 5 (PL-CZ III-95, kern)",
+      "bar": 5,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-001_damse-jozef--missa-c-kyrie.krn",
+      "label": "Missa C, Kyrie, movement 1 (PL-CZ III-95, kern)",
+      "bar": 17,
+      "notes": "F5 G5 A5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-005_damse-jozef--missa-c-benedictus.krn",
+      "label": "Missa C, Benedictus, movement 5 (PL-CZ III-95, kern)",
+      "bar": 26,
+      "notes": "F5 G5 A5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-004_damse-jozef--missa-c-sanctus.krn",
+      "label": "Missa C, Sanctus, movement 4 (PL-CZ III-95, kern)",
+      "bar": 28,
+      "notes": "F5 G5 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-003_damse-jozef--missa-c-credo.krn",
+      "label": "Missa C, Credo, movement 3 (PL-CZ III-95, kern)",
+      "bar": 56,
+      "notes": "F6 E6 E6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-001_damse-jozef--missa-c-kyrie.krn",
+      "label": "Missa C, Kyrie, movement 1 (PL-CZ III-95, kern)",
+      "bar": 28,
+      "notes": "E6 Eb6 Eb6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-95--001-004_damse-jozef--missa-c-sanctus.krn",
+      "label": "Missa C, Sanctus, movement 4 (PL-CZ III-95, kern)",
+      "bar": 63,
+      "notes": "F6 E6 E6 E6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 546,
+   "composers": 37
+  }
+ }
+]

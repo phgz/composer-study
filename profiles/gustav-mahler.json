@@ -1,0 +1,378 @@
+[
+ {
+  "composer": "Gustav Mahler",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "Wunderhorn years",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5778093008931531,
+   "repeats": 0.20278268177238212,
+   "leaps": 0.1228059649692655,
+   "move": 2.5741257096639685,
+   "rising": 0.44698070407366863,
+   "leap answered": 0.28232403526521177,
+   "range": 14.289999999999997,
+   "register": 69.6,
+   "even": 0.46655839616177575,
+   "long-short": 0.05832650783161407,
+   "rhythm variety": 2.4642213866351796,
+   "surprise, pitch": 2.6387747208725694,
+   "surprise, rhythm": 1.7956095882022196,
+   "density": 5.001629194813248,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 14.289999999999997,
+    "others": 11.906018876861962,
+    "auc": 0.8532045736805616
+   },
+   {
+    "measure": "long-short",
+    "value": 0.05832650783161407,
+    "others": 0.15243424738974135,
+    "auc": 0.20960958909554228
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 6.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Des_Knaben_Wunderhorn/7_Rheinlegendchen/lc29746856.mxl",
+      "label": "Des Knaben Wunderhorn, Rheinlegendchen (OpenScore)",
+      "bar": 22,
+      "notes": "C#5 B4 A4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/4_Die_zwei_blauen_Augen_von_meinem_Schatz/lc5026316.mxl",
+      "label": "Lieder eines fahrenden Gesellen, Die zwei blauen Augen von meinem Schatz (OpenScore)",
+      "bar": 26,
+      "notes": "C5 Bb4 Ab4 G4"
+     },
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/1_Wenn_mein_Schatz_Hochzeit_macht/lc5026266.mxl",
+      "label": "Lieder eines fahrenden Gesellen, Wenn mein Schatz Hochzeit macht (OpenScore)",
+      "bar": 27,
+      "notes": "G4 F4 Eb4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Des_Knaben_Wunderhorn/7_Rheinlegendchen/lc29746856.mxl",
+      "label": "Des Knaben Wunderhorn, Rheinlegendchen (OpenScore)",
+      "bar": 19,
+      "notes": "Ab4 F#4 F4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/1_Wenn_mein_Schatz_Hochzeit_macht/lc5026266.mxl",
+      "label": "Lieder eines fahrenden Gesellen, Wenn mein Schatz Hochzeit macht (OpenScore)",
+      "bar": 28,
+      "notes": "F4 Eb4 D4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 7.5,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/1_Wenn_mein_Schatz_Hochzeit_macht/lc5026266.mxl",
+      "label": "Lieder eines fahrenden Gesellen, Wenn mein Schatz Hochzeit macht (OpenScore)",
+      "bar": 26,
+      "notes": "Eb4 D4 Eb4 F4"
+     },
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/2_Gieng_heut_morgen_übers_Feld/lc5026309.mxl",
+      "label": "Lieder eines fahrenden Gesellen, Gieng heut morgen übers Feld (OpenScore)",
+      "bar": 85,
+      "notes": "B4 Bb4 B4 C#5"
+     },
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Des_Knaben_Wunderhorn/7_Rheinlegendchen/lc29746856.mxl",
+      "label": "Des Knaben Wunderhorn, Rheinlegendchen (OpenScore)",
+      "bar": 46,
+      "notes": "A4 Ab4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/1_Wenn_mein_Schatz_Hochzeit_macht/lc5026266.mxl",
+      "label": "Lieder eines fahrenden Gesellen, Wenn mein Schatz Hochzeit macht (OpenScore)",
+      "bar": 26,
+      "notes": "F4 Eb4 D4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/2_Gieng_heut_morgen_übers_Feld/lc5026309.mxl",
+      "label": "Lieder eines fahrenden Gesellen, Gieng heut morgen übers Feld (OpenScore)",
+      "bar": 85,
+      "notes": "C#5 B4 Bb4 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1078,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Gustav Mahler",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "middle",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5773298138128654,
+   "repeats": 0.18921223617734304,
+   "leaps": 0.13780382753484757,
+   "move": 2.545279384119121,
+   "rising": 0.4446326304526978,
+   "leap answered": 0.26904761904761904,
+   "range": 12.07,
+   "register": 67.6,
+   "even": 0.5033328592362912,
+   "long-short": 0.12586559918629422,
+   "rhythm variety": 2.421527122819371,
+   "surprise, pitch": 2.459795247602864,
+   "surprise, rhythm": 1.6650520607809631,
+   "density": 2.9824256219484537,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 67.6,
+    "others": 69.64064868510592,
+    "auc": 0.22057449255414552
+   },
+   {
+    "measure": "density",
+    "value": 2.9824256219484537,
+    "others": 5.729438503531375,
+    "auc": 0.11508004494816564
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 6.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/mahler_kindertotenlieder:notes/kindertotenlieder_01_nun_will_die_sonn.notes.tsv",
+      "label": "Kindertotenlieder, movement 1: Nun will die Sonn’ so hell aufgeh’n! (DCML)",
+      "bar": 13,
+      "notes": "Ab4 G4 G4 F#4"
+     },
+     {
+      "work": "dcml/mahler_kindertotenlieder:notes/kindertotenlieder_03_wenn_dein_mutterlein.notes.tsv",
+      "label": "Kindertotenlieder, movement 3: Wenn dein Mütterlein (DCML)",
+      "bar": 30,
+      "notes": "C#4 C4 C4 B3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 6.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/mahler_kindertotenlieder:notes/kindertotenlieder_01_nun_will_die_sonn.notes.tsv",
+      "label": "Kindertotenlieder, movement 1: Nun will die Sonn’ so hell aufgeh’n! (DCML)",
+      "bar": 13,
+      "notes": "G4 G4 F#4 D5"
+     },
+     {
+      "work": "dcml/mahler_kindertotenlieder:notes/kindertotenlieder_03_wenn_dein_mutterlein.notes.tsv",
+      "label": "Kindertotenlieder, movement 3: Wenn dein Mütterlein (DCML)",
+      "bar": 30,
+      "notes": "C4 C4 B3 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 7.3,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "dcml/mahler_kindertotenlieder:notes/kindertotenlieder_04_oft_denk_ich.notes.tsv",
+      "label": "Kindertotenlieder, movement 4: Oft denk’ ich, sie sind nur ausgegangen (DCML)",
+      "bar": 7,
+      "notes": "Eb4 D4 Eb4 F4"
+     },
+     {
+      "work": "dcml/mahler_kindertotenlieder:notes/kindertotenlieder_02_nun_seh_ich_wohl.notes.tsv",
+      "label": "Kindertotenlieder, movement 2: Nun seh’ ich wohl, warum so dunkle Flammen (DCML)",
+      "bar": 7,
+      "notes": "C5 B4 C5 D5"
+     },
+     {
+      "work": "dcml/mahler_kindertotenlieder:notes/kindertotenlieder_01_nun_will_die_sonn.notes.tsv",
+      "label": "Kindertotenlieder, movement 1: Nun will die Sonn’ so hell aufgeh’n! (DCML)",
+      "bar": 49,
+      "notes": "F4 E4 F4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1078,
+   "composers": 97
+  },
+  "harmony": {
+   "works": 5,
+   "by": {
+    "DCML": 5
+   },
+   "values": {
+    "chords a bar": 1.4014688108432423,
+    "tonic and dominant": 0.46670189591416006,
+    "sevenths": 0.3585298595817464,
+    "diminished sevenths": 0.04588493153115795,
+    "applied chords": 0.26236303569794134,
+    "augmented sixths": 0.036900843150843146,
+    "Neapolitan": 0.022342226842226844,
+    "mixture": 0.043361683786212094,
+    "inversions": 0.3132204702629231,
+    "keys a 10 bars": 0.2117794486215539,
+    "away from home": 0.06829954954954956,
+    "cadences a 10 bars": 0.7462311707328387,
+    "perfect cadences": 0.22857142857142856,
+    "half cadences": 0.2015873015873016,
+    "deceptive or evaded": 0.2785714285714286,
+    "changes": 0.22307538904237015,
+    "non-chord tones": 0.3623482707602204,
+    "struck dissonance": 0.34881319668386,
+    "resolved by step": 0.6245340248617754,
+    "suspensions": 0.0025793650793650793
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 1.4014688108432423,
+     "others": 2.2064873999533052,
+     "auc": 0.20617456617456614
+    },
+    {
+     "measure": "Neapolitan",
+     "value": 0.022342226842226844,
+     "others": 0.002798590307886089,
+     "auc": 0.8517871017871016
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.3623482707602204,
+     "others": 0.16636468351721187,
+     "auc": 0.9849546749546748
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 146,
+    "composers": 18,
+    "progressions_by": "DCML",
+    "progressions_works": 48
+   }
+  }
+ }
+]

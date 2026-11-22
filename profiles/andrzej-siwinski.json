@@ -1,0 +1,264 @@
+[
+ {
+  "composer": "Andrzej Siwiński",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 19,
+  "values": {
+   "steps": 0.45658334089720204,
+   "repeats": 0.27968772399880465,
+   "leaps": 0.1672893279780269,
+   "move": 2.8728333940364483,
+   "rising": 0.54433919159968,
+   "leap answered": 0.15816518815133773,
+   "range": 9.960526315789473,
+   "register": 75.76315789473684,
+   "even": 0.5141391776784042,
+   "long-short": 0.09429176164438254,
+   "rhythm variety": 2.2044688598060223,
+   "surprise, pitch": 2.3497421314369067,
+   "surprise, rhythm": 1.6045577619194418,
+   "density": 6.097846013121231,
+   "lines": 7.105263157894737
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.54433919159968,
+    "others": 0.47328809406393973,
+    "auc": 0.8550760747945622
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.15816518815133773,
+    "others": 0.33472800084231014,
+    "auc": 0.23257979995269354
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.7,
+    "works": 6,
+    "per_1000": 7.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-019_siwinski-andrzej--missa-pro-defunctis-agnus-dei.krn",
+      "label": "Missa pro defunctis, Agnus Dei, movement 19 (PL-SA 79/A II 19, kern)",
+      "bar": 16,
+      "notes": "G5 Ab5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-002_siwinski-andrzej--missa-pro-defunctis-kyrie.krn",
+      "label": "Missa pro defunctis, Kyrie, movement 2 (PL-SA 79/A II 19, kern)",
+      "bar": 2,
+      "notes": "G5 Ab5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-012_siwinski-andrzej--missa-pro-defunctis-pie-iesu-domine.krn",
+      "label": "Missa pro defunctis, Pie Iesu Domine, movement 12 (PL-SA 79/A II 19, kern)",
+      "bar": 2,
+      "notes": "G5 Ab5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.0,
+    "works": 5,
+    "per_1000": 5.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-008_siwinski-andrzej--missa-pro-defunctis-rex-tremende.krn",
+      "label": "Missa pro defunctis, Rex tremende, movement 8 (PL-SA 79/A II 19, kern)",
+      "bar": 12,
+      "notes": "Eb5 F5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-016_siwinski-andrzej--missa-pro-defunctis-sanctus.krn",
+      "label": "Missa pro defunctis, Sanctus, movement 16 (PL-SA 79/A II 19, kern)",
+      "bar": 19,
+      "notes": "Bb4 C5 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-003_siwinski-andrzej--missa-pro-defunctis-dies-irae.krn",
+      "label": "Missa pro defunctis, Dies irae, movement 3 (PL-SA 79/A II 19, kern)",
+      "bar": 7,
+      "notes": "Bb4 C5 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 5,
+    "per_1000": 5.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-008_siwinski-andrzej--missa-pro-defunctis-rex-tremende.krn",
+      "label": "Missa pro defunctis, Rex tremende, movement 8 (PL-SA 79/A II 19, kern)",
+      "bar": 12,
+      "notes": "G5 Eb5 F5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-016_siwinski-andrzej--missa-pro-defunctis-sanctus.krn",
+      "label": "Missa pro defunctis, Sanctus, movement 16 (PL-SA 79/A II 19, kern)",
+      "bar": 19,
+      "notes": "D5 Bb4 C5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-003_siwinski-andrzej--missa-pro-defunctis-dies-irae.krn",
+      "label": "Missa pro defunctis, Dies irae, movement 3 (PL-SA 79/A II 19, kern)",
+      "bar": 7,
+      "notes": "D5 Bb4 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 5,
+    "per_1000": 4.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-008_siwinski-andrzej--missa-pro-defunctis-rex-tremende.krn",
+      "label": "Missa pro defunctis, Rex tremende, movement 8 (PL-SA 79/A II 19, kern)",
+      "bar": 13,
+      "notes": "C5 D5 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-016_siwinski-andrzej--missa-pro-defunctis-sanctus.krn",
+      "label": "Missa pro defunctis, Sanctus, movement 16 (PL-SA 79/A II 19, kern)",
+      "bar": 19,
+      "notes": "C5 D5 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-003_siwinski-andrzej--missa-pro-defunctis-dies-irae.krn",
+      "label": "Missa pro defunctis, Dies irae, movement 3 (PL-SA 79/A II 19, kern)",
+      "bar": 7,
+      "notes": "C5 D5 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 4.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-008_siwinski-andrzej--missa-pro-defunctis-rex-tremende.krn",
+      "label": "Missa pro defunctis, Rex tremende, movement 8 (PL-SA 79/A II 19, kern)",
+      "bar": 12,
+      "notes": "F5 D5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-013_siwinski-andrzej--missa-pro-defunctis-domine-iesu-christe.krn",
+      "label": "Missa pro defunctis, Domine Iesu Christe, movement 13 (PL-SA 79/A II 19, kern)",
+      "bar": 5,
+      "notes": "F5 D5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-016_siwinski-andrzej--missa-pro-defunctis-sanctus.krn",
+      "label": "Missa pro defunctis, Sanctus, movement 16 (PL-SA 79/A II 19, kern)",
+      "bar": 26,
+      "notes": "C5 A4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 4.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-019_siwinski-andrzej--missa-pro-defunctis-agnus-dei.krn",
+      "label": "Missa pro defunctis, Agnus Dei, movement 19 (PL-SA 79/A II 19, kern)",
+      "bar": 16,
+      "notes": "G5 F5 Eb5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-002_siwinski-andrzej--missa-pro-defunctis-kyrie.krn",
+      "label": "Missa pro defunctis, Kyrie, movement 2 (PL-SA 79/A II 19, kern)",
+      "bar": 2,
+      "notes": "G5 F5 Eb5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--79-a-ii-19--001-012_siwinski-andrzej--missa-pro-defunctis-pie-iesu-domine.krn",
+      "label": "Missa pro defunctis, Pie Iesu Domine, movement 12 (PL-SA 79/A II 19, kern)",
+      "bar": 2,
+      "notes": "G5 F5 Eb5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 183,
+   "composers": 20
+  }
+ }
+]

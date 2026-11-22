@@ -1,0 +1,192 @@
+[
+ {
+  "composer": "Tomasz Szadek",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.6626123740236685,
+   "repeats": 0.13279814552297192,
+   "leaps": 0.10969877356185576,
+   "move": 2.423715728286443,
+   "rising": 0.4681794097372037,
+   "leap answered": 0.4914529914529914,
+   "range": 9.739999999999998,
+   "register": 64.2,
+   "even": 0.4516532787158978,
+   "long-short": 0.11564784630703957,
+   "rhythm variety": 2.523632389887836,
+   "surprise, pitch": 2.65861117897405,
+   "surprise, rhythm": 2.0647333366948035,
+   "density": 1.4435022309196188,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.4516532787158978,
+    "others": 0.34280658201833886,
+    "auc": 0.9123865702183857
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.523632389887836,
+    "others": 2.836810018183813,
+    "auc": 0.12193192977368798
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 5.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-004_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-sanctus.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 5,
+      "notes": "A4 G4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--048-004_szadek-tomasz--officium-dies-est-laetitiae-sanctus.krn",
+      "label": "Officium Dies est laetitiae, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 17,
+      "notes": "G4 F4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-005_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-agnus-dei.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 41,
+      "notes": "A4 G4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 5.9,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-004_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-sanctus.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 4,
+      "notes": "F4 G4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-005_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-agnus-dei.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 41,
+      "notes": "F4 G4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-001_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-kyrie.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 10,
+      "notes": "F4 G4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 3,
+    "per_1000": 5.9,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-005_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-agnus-dei.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 6,
+      "notes": "G4 A4 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-001_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-kyrie.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 6,
+      "notes": "G4 A4 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-004_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-sanctus.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 5,
+      "notes": "G4 A4 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.0,
+    "works": 4,
+    "per_1000": 10.6,
+    "others_per_1000": 2.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-001_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-kyrie.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 4,
+      "notes": "Bb4 A4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-004_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-sanctus.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 5,
+      "notes": "G4 F#4 E4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--049-005_szadek-tomasz--offitium-in-melodiam-motetae-pisneme-agnus-dei.krn",
+      "label": "Offitium in melodiam motetae Pisneme, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 36,
+      "notes": "F4 E4 D4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 690,
+   "composers": 38
+  }
+ }
+]

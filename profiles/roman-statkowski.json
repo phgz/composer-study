@@ -1,0 +1,535 @@
+[
+ {
+  "composer": "Roman Statkowski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.5534434954868448,
+   "repeats": 0.10352360541399891,
+   "leaps": 0.20804102327565663,
+   "move": 3.442660371507587,
+   "rising": 0.5371910235992572,
+   "leap answered": 0.2553566713656162,
+   "range": 24.616666666666664,
+   "register": 73.5,
+   "even": 0.407273555834795,
+   "long-short": 0.08722358713381366,
+   "rhythm variety": 2.6807561639722253,
+   "surprise, pitch": 1.9912315044559767,
+   "surprise, rhythm": 1.405590431763608,
+   "density": 3.6441656346909164,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5371910235992572,
+    "others": 0.4889562211500241,
+    "auc": 0.8127493683263599
+   },
+   {
+    "measure": "even",
+    "value": 0.407273555834795,
+    "others": 0.5304857660269551,
+    "auc": 0.2356388629174904
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.6807561639722253,
+    "others": 2.19313312882142,
+    "auc": 0.7982720909971738
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 7.3,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-001_statkowski-roman--trois-mazurkas-op-2-mazurka-no-1.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 1, movement 1 (PL-Wtm A.25.070/69, kern)",
+      "bar": 14,
+      "notes": "C#5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-069-69_statkowski-roman--valse-flottante-op-5-no-1.krn",
+      "label": "Valse flottante Op. 5 No. 1: Vivace molto al presto. (PL-Wtm A.25.069/69, kern)",
+      "bar": 92,
+      "notes": "Eb5 E5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-068-69_statkowski-roman--valse-caprice-op-5-no-2.krn",
+      "label": "Valse-Caprice Op. 5 No. 2: Con fuoco, agitato. (PL-Wtm A.25.068/69, kern)",
+      "bar": 91,
+      "notes": "A5 Bb5 Bb5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.0,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-002_statkowski-roman--trois-mazurkas-op-2-mazurka-no-2.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 2, movement 2 (PL-Wtm A.25.070/69, kern)",
+      "bar": 7,
+      "notes": "D5 C#5 B4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-692-69_statkowski-roman--krakowiak-op-23-no-3.krn",
+      "label": "Krakowiak Op. 23 No. 3 (PL-Wtm A.24.692/69, kern)",
+      "bar": 6,
+      "notes": "Bb4 A4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-003_statkowski-roman--trois-mazurkas-op-2-mazurka-no-3.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 3, movement 3 (PL-Wtm A.25.070/69, kern)",
+      "bar": 24,
+      "notes": "D5 C#5 B4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     1,
+     0
+    ],
+    "z": 6.4,
+    "works": 2,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-001_statkowski-roman--trois-mazurkas-op-2-mazurka-no-1.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 1, movement 1 (PL-Wtm A.25.070/69, kern)",
+      "bar": 67,
+      "notes": "Eb5 D5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-003_statkowski-roman--trois-mazurkas-op-2-mazurka-no-3.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 3, movement 3 (PL-Wtm A.25.070/69, kern)",
+      "bar": 61,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-001_statkowski-roman--trois-mazurkas-op-2-mazurka-no-1.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 1, movement 1 (PL-Wtm A.25.070/69, kern)",
+      "bar": 6,
+      "notes": "C5 D5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-068-69_statkowski-roman--valse-caprice-op-5-no-2.krn",
+      "label": "Valse-Caprice Op. 5 No. 2: Con fuoco, agitato. (PL-Wtm A.25.068/69, kern)",
+      "bar": 50,
+      "notes": "Bb4 C5 C#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-001_statkowski-roman--trois-mazurkas-op-2-mazurka-no-1.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 1, movement 1 (PL-Wtm A.25.070/69, kern)",
+      "bar": 13,
+      "notes": "Eb5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-002_statkowski-roman--trois-mazurkas-op-2-mazurka-no-2.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 2, movement 2 (PL-Wtm A.25.070/69, kern)",
+      "bar": 42,
+      "notes": "Bb4 A4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-068-69_statkowski-roman--valse-caprice-op-5-no-2.krn",
+      "label": "Valse-Caprice Op. 5 No. 2: Con fuoco, agitato. (PL-Wtm A.25.068/69, kern)",
+      "bar": 26,
+      "notes": "C6 C#6 C6 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-25-070-69--001-003_statkowski-roman--trois-mazurkas-op-2-mazurka-no-3.krn",
+      "label": "Trois Mazurkas Op. 2, Mazurka No. 3, movement 3 (PL-Wtm A.25.070/69, kern)",
+      "bar": 33,
+      "notes": "C#6 D6 C#6 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 429,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Roman Statkowski",
+  "kind": "mazurka",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5654348350054045,
+   "repeats": 0.13979933825379368,
+   "leaps": 0.17446427678900733,
+   "move": 3.131934440923205,
+   "rising": 0.5139700939436564,
+   "leap answered": 0.2935805879899917,
+   "range": 21.0,
+   "register": 73.33333333333333,
+   "even": 0.4139789710331057,
+   "long-short": 0.12821679902302122,
+   "rhythm variety": 2.779389751800286,
+   "surprise, pitch": 1.998159214165055,
+   "surprise, rhythm": 1.5301584302183067,
+   "density": 3.621641604542974,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 134,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Roman Statkowski",
+  "kind": "prelude",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.3904620666082179,
+   "repeats": 0.045451111401737875,
+   "leaps": 0.38543847209147675,
+   "move": 6.105836200434571,
+   "rising": 0.5077095222011009,
+   "leap answered": 0.24723905723905723,
+   "range": 28.424999999999997,
+   "register": 75.33333333333333,
+   "even": 0.6864509428172635,
+   "long-short": 0.036512110890735576,
+   "rhythm variety": 1.5438908001735105,
+   "surprise, pitch": 3.078190984721841,
+   "surprise, rhythm": 0.8531195138447231,
+   "density": 6.698033733968507,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     5,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 6.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-15-832--001-001_statkowski-roman--six-preludes-op-37-i.krn",
+      "label": "Six Preludes Op. 37, I., movement 1 (PL-Wtm A.15.832, kern)",
+      "bar": 2,
+      "notes": "G4 C5 G4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2347-fp-8097--001-003_statkowski-roman--six-preludes-op-37-vi.krn",
+      "label": "Six Preludes Op. 37, VI., movement 3 (PL-Wtm 2347 fp 8097, kern)",
+      "bar": 49,
+      "notes": "D5 G5 D5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 6.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-15-832--001-001_statkowski-roman--six-preludes-op-37-i.krn",
+      "label": "Six Preludes Op. 37, I., movement 1 (PL-Wtm A.15.832, kern)",
+      "bar": 1,
+      "notes": "C5 G4 C5 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2347-fp-8097--001-003_statkowski-roman--six-preludes-op-37-vi.krn",
+      "label": "Six Preludes Op. 37, VI., movement 3 (PL-Wtm 2347 fp 8097, kern)",
+      "bar": 46,
+      "notes": "B5 F#5 B5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-15-832--001-003_statkowski-roman--six-preludes-op-37-iii.krn",
+      "label": "Six Preludes Op. 37, III., movement 3 (PL-Wtm A.15.832, kern)",
+      "bar": 21,
+      "notes": "D6 C6 A5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2347-fp-8097--001-002_statkowski-roman--six-preludes-op-37-v.krn",
+      "label": "Six Preludes Op. 37, V., movement 2 (PL-Wtm 2347 fp 8097, kern)",
+      "bar": 7,
+      "notes": "E5 D5 B4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 7.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-15-832--001-003_statkowski-roman--six-preludes-op-37-iii.krn",
+      "label": "Six Preludes Op. 37, III., movement 3 (PL-Wtm A.15.832, kern)",
+      "bar": 2,
+      "notes": "F#5 G5 A5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-15-832--001-001_statkowski-roman--six-preludes-op-37-i.krn",
+      "label": "Six Preludes Op. 37, I., movement 1 (PL-Wtm A.15.832, kern)",
+      "bar": 4,
+      "notes": "E5 F5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2347-fp-8097--001-003_statkowski-roman--six-preludes-op-37-vi.krn",
+      "label": "Six Preludes Op. 37, VI., movement 3 (PL-Wtm 2347 fp 8097, kern)",
+      "bar": 25,
+      "notes": "B5 C6 D6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 6.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2347-fp-8097--001-003_statkowski-roman--six-preludes-op-37-vi.krn",
+      "label": "Six Preludes Op. 37, VI., movement 3 (PL-Wtm 2347 fp 8097, kern)",
+      "bar": 44,
+      "notes": "C#6 B5 C#6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-15-832--001-003_statkowski-roman--six-preludes-op-37-iii.krn",
+      "label": "Six Preludes Op. 37, III., movement 3 (PL-Wtm A.15.832, kern)",
+      "bar": 1,
+      "notes": "E5 D5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 6.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-15-832--001-003_statkowski-roman--six-preludes-op-37-iii.krn",
+      "label": "Six Preludes Op. 37, III., movement 3 (PL-Wtm A.15.832, kern)",
+      "bar": 21,
+      "notes": "C6 A5 C6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2347-fp-8097--001-002_statkowski-roman--six-preludes-op-37-v.krn",
+      "label": "Six Preludes Op. 37, V., movement 2 (PL-Wtm 2347 fp 8097, kern)",
+      "bar": 7,
+      "notes": "D5 B4 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2347-fp-8097--001-003_statkowski-roman--six-preludes-op-37-vi.krn",
+      "label": "Six Preludes Op. 37, VI., movement 3 (PL-Wtm 2347 fp 8097, kern)",
+      "bar": 46,
+      "notes": "D6 B5 D6 C#6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 157,
+   "composers": 12
+  }
+ },
+ {
+  "composer": "Roman Statkowski",
+  "kind": "string quartet",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5378632640487463,
+   "repeats": 0.11532488782220307,
+   "leaps": 0.23784110015987994,
+   "move": 3.7336139194349065,
+   "rising": 0.4950763741916479,
+   "leap answered": 0.3125405771541037,
+   "range": 22.766666666666666,
+   "register": 74.33333333333333,
+   "even": 0.5561255342248602,
+   "long-short": 0.09357765084317216,
+   "rhythm variety": 2.413493282566889,
+   "surprise, pitch": 3.159602589865697,
+   "surprise, rhythm": 1.9420487189944808,
+   "density": 4.755515514888412,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 276,
+   "composers": 37
+  }
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "composer": "Karol Mikuli",
+  "kind": "duet",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.5837006726671073,
+   "repeats": 0.14067977173789237,
+   "leaps": 0.1727787533067495,
+   "move": 3.3708176623725006,
+   "rising": 0.4639437718340944,
+   "leap answered": 0.2930858302286124,
+   "range": 22.5,
+   "register": 74.75,
+   "even": 0.5610677547888168,
+   "long-short": 0.08991786147898712,
+   "rhythm variety": 2.346669864624826,
+   "surprise, pitch": 2.770474057431643,
+   "surprise, rhythm": 1.9770518490344475,
+   "density": 5.557832849470054,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 51,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Karol Mikuli",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.5198440129158256,
+   "repeats": 0.20540675536210423,
+   "leaps": 0.1463475094187048,
+   "move": 2.904961318361049,
+   "rising": 0.4650898976169023,
+   "leap answered": 0.1841602158104621,
+   "range": 15.37142857142857,
+   "register": 71.57142857142857,
+   "even": 0.5443290874702285,
+   "long-short": 0.10953950611518445,
+   "rhythm variety": 2.2385446763107613,
+   "surprise, pitch": 3.0293717551174746,
+   "surprise, rhythm": 1.6719764866277385,
+   "density": 5.679406125178408,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 3.0293717551174746,
+    "others": 2.3440902075512016,
+    "auc": 0.8340645701420891
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 6.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--2374-n--001-001_mikuli-karol--sieben-lieder-op-27-es-muss-was-wunderbares-sein.krn",
+      "label": "Sieben lieder op. 27, Es muss was Wunderbares sein, movement 1 (PL-Wnifc 2374/n, kern)",
+      "bar": 2,
+      "notes": "E5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--2374-n--001-003_mikuli-karol--sieben-lieder-op-27-das-veilchen.krn",
+      "label": "Sieben lieder op. 27, Das Veilchen, movement 3 (PL-Wnifc 2374/n, kern)",
+      "bar": 15,
+      "notes": "D5 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--2374-n--001-002_mikuli-karol--sieben-lieder-op-27-ich-wollt-meine-schmerzen-ergossen-sich.krn",
+      "label": "Sieben lieder op. 27, Ich wollt' meine Schmerzen ergössen sich, movement 2 (PL-Wnifc 2374/n, kern)",
+      "bar": 23,
+      "notes": "F#4 E4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 10.3,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--2374-n--001-003_mikuli-karol--sieben-lieder-op-27-das-veilchen.krn",
+      "label": "Sieben lieder op. 27, Das Veilchen, movement 3 (PL-Wnifc 2374/n, kern)",
+      "bar": 4,
+      "notes": "D5 C5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--2374-n--001-001_mikuli-karol--sieben-lieder-op-27-es-muss-was-wunderbares-sein.krn",
+      "label": "Sieben lieder op. 27, Es muss was Wunderbares sein, movement 1 (PL-Wnifc 2374/n, kern)",
+      "bar": 2,
+      "notes": "F#5 E5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--2374-n--001-002_mikuli-karol--sieben-lieder-op-27-ich-wollt-meine-schmerzen-ergossen-sich.krn",
+      "label": "Sieben lieder op. 27, Ich wollt' meine Schmerzen ergössen sich, movement 2 (PL-Wnifc 2374/n, kern)",
+      "bar": 7,
+      "notes": "B4 A4 G4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 1206,
+   "composers": 115
+  }
+ }
+]

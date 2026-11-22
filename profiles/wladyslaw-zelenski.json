@@ -1,0 +1,758 @@
+[
+ {
+  "composer": "Władysław Żeleński",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.5277370507833836,
+   "repeats": 0.06783800753560168,
+   "leaps": 0.28053845496062835,
+   "move": 4.076488746634879,
+   "rising": 0.45938020050400374,
+   "leap answered": 0.2560114185816795,
+   "range": 23.45,
+   "register": 76.375,
+   "even": 0.4514934832544788,
+   "long-short": 0.15071150935813585,
+   "rhythm variety": 2.5737388220714292,
+   "surprise, pitch": 2.4469063739289547,
+   "surprise, rhythm": 1.4820403682717749,
+   "density": 7.043013277419148,
+   "lines": 4.875
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-ii-27-310-cim_zelenski-wladyslaw--polonaise-op-37.krn",
+      "label": "Polonaise op. 37 (PL-Wn Mus.II.27.310 Cim., kern)",
+      "bar": 5,
+      "notes": "E6 G6 F6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-244_zelenski-wladyslaw--marzenia-dziewczyny.krn",
+      "label": "Marzenia dziewczyny: Alla Mazurka (PL-Wn Mus.244, kern)",
+      "bar": 15,
+      "notes": "F#4 A4 G4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-125-889_zelenski-wladyslaw--grande-polonaise-op-45.krn",
+      "label": "Grande Polonaise op. 45 (PL-Wn Mus.III.125.889, kern)",
+      "bar": 4,
+      "notes": "C5 Eb5 C#5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     -1,
+     -2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-125-889_zelenski-wladyslaw--grande-polonaise-op-45.krn",
+      "label": "Grande Polonaise op. 45 (PL-Wn Mus.III.125.889, kern)",
+      "bar": 33,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-82-506_zelenski-wladyslaw--oda-do-mlodosci-op-51.krn",
+      "label": "Oda do młodości op. 51: Tempo di marcia moderato. (PL-Wn Mus.III.82.506, kern)",
+      "bar": 19,
+      "notes": "D5 E5 F5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-1605-iii-1_zelenski-wladyslaw--polonaise-op-47-nr-1.krn",
+      "label": "Polonaise op. 47 nr 1: Moderato (PL-Kj BJ Muz. 1605 III 1, kern)",
+      "bar": 50,
+      "notes": "G5 F5 Eb5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-66-276_zelenski-wladyslaw--valse-caprice-op-9.krn",
+      "label": "Valse-caprice op. 9: Andantino (PL-Wn Mus.III.66.276, kern)",
+      "bar": 28,
+      "notes": "C5 Bb4 Ab4 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -6,
+     6,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-66-276_zelenski-wladyslaw--valse-caprice-op-9.krn",
+      "label": "Valse-caprice op. 9: Andantino (PL-Wn Mus.III.66.276, kern)",
+      "bar": 182,
+      "notes": "B4 F4 B4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-1603-iii-1--001-003_zelenski-wladyslaw--sechs-charakterstucke-op-17-no-3-tanz.krn",
+      "label": "Sechs Charakterstücke op. 17, No. 3 Tanz, movement 3: Mouvement de Valse. (PL-Kj BJ Muz. 1603 III 2, kern)",
+      "bar": 57,
+      "notes": "Eb4 A3 Eb4 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     6,
+     -6,
+     6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-66-276_zelenski-wladyslaw--valse-caprice-op-9.krn",
+      "label": "Valse-caprice op. 9: Andantino (PL-Wn Mus.III.66.276, kern)",
+      "bar": 182,
+      "notes": "F4 B4 F4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-1603-iii-1--001-003_zelenski-wladyslaw--sechs-charakterstucke-op-17-no-3-tanz.krn",
+      "label": "Sechs Charakterstücke op. 17, No. 3 Tanz, movement 3: Mouvement de Valse. (PL-Kj BJ Muz. 1603 III 2, kern)",
+      "bar": 57,
+      "notes": "A3 Eb4 A3 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     1
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-125-889_zelenski-wladyslaw--grande-polonaise-op-45.krn",
+      "label": "Grande Polonaise op. 45 (PL-Wn Mus.III.125.889, kern)",
+      "bar": 27,
+      "notes": "Ab5 Bb5 Bb5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-ii-27-310-cim_zelenski-wladyslaw--polonaise-op-37.krn",
+      "label": "Polonaise op. 37 (PL-Wn Mus.II.27.310 Cim., kern)",
+      "bar": 47,
+      "notes": "F6 G6 G6 F6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 427,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Władysław Żeleński",
+  "kind": "polonaise",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5835833601981267,
+   "repeats": 0.08114407679859516,
+   "leaps": 0.2117467808272179,
+   "move": 3.7678589074880624,
+   "rising": 0.47507822476925776,
+   "leap answered": 0.25450881061260117,
+   "range": 23.0,
+   "register": 81.33333333333333,
+   "even": 0.4167669801462905,
+   "long-short": 0.12521421107628003,
+   "rhythm variety": 2.783819764820239,
+   "surprise, pitch": 2.673182126594176,
+   "surprise, rhythm": 1.8010426834165933,
+   "density": 12.490034392893302,
+   "lines": 9.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 60,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Władysław Żeleński",
+  "kind": "prelude",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 26,
+  "values": {
+   "steps": 0.6638363432916556,
+   "repeats": 0.03234740497880686,
+   "leaps": 0.16151527680914513,
+   "move": 2.6876466404527326,
+   "rising": 0.4637430115939856,
+   "leap answered": 0.4404260481356669,
+   "range": 14.399999999999999,
+   "register": 68.9423076923077,
+   "even": 0.5995996179719629,
+   "long-short": 0.06547546138208403,
+   "rhythm variety": 2.038726460377759,
+   "surprise, pitch": 2.6281703741480316,
+   "surprise, rhythm": 1.4781265144364917,
+   "density": 2.869816684115691,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.8,
+    "works": 9,
+    "per_1000": 4.1,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-009_zelenski-wladyslaw--25-preludyi-op-38-25-andante-sostenuto-na-temat-swiety-boze.krn",
+      "label": "25 preludyi op. 38, 25. Andante sostenuto. Na temat „Święty Boże”, movement 9 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 22,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-006_zelenski-wladyslaw--25-preludyi-op-38-22-allegro-moderato-koleda.krn",
+      "label": "25 preludyi op. 38, 22. Allegro moderato. Kolęda, movement 6 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 17,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-001_zelenski-wladyslaw--25-preludyi-op-38-1-moderato.krn",
+      "label": "25 preludyi op. 38, 1. Moderato: 1. Moderato. (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 5,
+      "notes": "B4 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 10,
+    "per_1000": 4.6,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-004_zelenski-wladyslaw--25-preludyi-op-38-20-allegro-maestoso.krn",
+      "label": "25 preludyi op. 38, 20. Allegro maestoso, movement 4 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 1,
+      "notes": "E4 F#4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-001_zelenski-wladyslaw--25-preludyi-op-38-1-moderato.krn",
+      "label": "25 preludyi op. 38, 1. Moderato: 1. Moderato. (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 2,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-008_zelenski-wladyslaw--25-preludyi-op-38-24-andante-sostenuto.krn",
+      "label": "25 preludyi op. 38, 24. Andante sostenuto, movement 8 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 1,
+      "notes": "Eb4 F4 F#4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 9,
+    "per_1000": 2.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-009_zelenski-wladyslaw--25-preludyi-op-38-25-andante-sostenuto-na-temat-swiety-boze.krn",
+      "label": "25 preludyi op. 38, 25. Andante sostenuto. Na temat „Święty Boże”, movement 9 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 40,
+      "notes": "D4 E4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-002_zelenski-wladyslaw--25-preludyi-op-38-18-andante-non-troppo-lento.krn",
+      "label": "25 preludyi op. 38, 18. Andante non troppo lento, movement 2 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 4,
+      "notes": "F4 G4 Ab4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-012_zelenski-wladyslaw--25-preludyi-op-38-12-andante-sostenuto.krn",
+      "label": "25 preludyi op. 38, 12. Andante sostenuto (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 17,
+      "notes": "A4 B4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 17,
+    "per_1000": 8.5,
+    "others_per_1000": 2.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-003_zelenski-wladyslaw--25-preludyi-op-38-3-andantino.krn",
+      "label": "25 preludyi op. 38, 3. Andantino: 3. Andantino. (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 3,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-004_zelenski-wladyslaw--25-preludyi-op-38-4-allegro-moderato.krn",
+      "label": "25 preludyi op. 38, 4. Allegro moderato: 4. Allegro moderato. (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 3,
+      "notes": "G4 F#4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-014_zelenski-wladyslaw--25-preludyi-op-38-14-andantino-na-temat-ludowy.krn",
+      "label": "25 preludyi op. 38, 14. Andantino. Na temat ludowy (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 5,
+      "notes": "A4 Ab4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 7,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-006_zelenski-wladyslaw--25-preludyi-op-38-22-allegro-moderato-koleda.krn",
+      "label": "25 preludyi op. 38, 22. Allegro moderato. Kolęda, movement 6 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 16,
+      "notes": "F5 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-015_zelenski-wladyslaw--25-preludyi-op-38-15-andante-con-moto-na-temat-wzlobie-lezy.krn",
+      "label": "25 preludyi op. 38, 15. Andante con moto. „Na temat Wżłobie leży”: 15. Andante con moto. Na temat „WŻłobie leży‟ (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 4,
+      "notes": "Bb4 G4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-002_zelenski-wladyslaw--25-preludyi-op-38-18-andante-non-troppo-lento.krn",
+      "label": "25 preludyi op. 38, 18. Andante non troppo lento, movement 2 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 18,
+      "notes": "C#5 Bb4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 2.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-014_zelenski-wladyslaw--25-preludyi-op-38-14-andantino-na-temat-ludowy.krn",
+      "label": "25 preludyi op. 38, 14. Andantino. Na temat ludowy (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 21,
+      "notes": "E5 Eb5 C#5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-1--001-010_zelenski-wladyslaw--25-preludyi-op-38-10-andante.krn",
+      "label": "25 preludyi op. 38, 10. Andante: Andante. (PL-Wn Mus.III.105.719/1, kern)",
+      "bar": 10,
+      "notes": "Ab4 G4 F4 Eb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-105-719-2--001-006_zelenski-wladyslaw--25-preludyi-op-38-22-allegro-moderato-koleda.krn",
+      "label": "25 preludyi op. 38, 22. Allegro moderato. Kolęda, movement 6 (PL-Wn Mus.III.105.719/2, kern)",
+      "bar": 11,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 137,
+   "composers": 12
+  }
+ },
+ {
+  "composer": "Władysław Żeleński",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 10,
+  "values": {
+   "steps": 0.4237120079959532,
+   "repeats": 0.054896183431104105,
+   "leaps": 0.31632013938983633,
+   "move": 4.358726280019231,
+   "rising": 0.45648556954669556,
+   "leap answered": 0.2517974802004513,
+   "range": 29.730000000000008,
+   "register": 73.5,
+   "even": 0.6472794477723756,
+   "long-short": 0.05902554384470131,
+   "rhythm variety": 1.9144812373951396,
+   "surprise, pitch": 2.8537621043578802,
+   "surprise, rhythm": 1.3464005952506066,
+   "density": 5.643332481491827,
+   "lines": 2.3
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.054896183431104105,
+    "others": 0.14783756077142352,
+    "auc": 0.18842592592592594
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 7,
+    "per_1000": 1.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--bj-muz-8812-iii--001-004_zelenski-wladyslaw--sonate-op-20-allegro-moderato.krn",
+      "label": "Sonate op. 20, Allegro moderato, movement 4 (PL-Wn BJ Muz. 8812 III, kern)",
+      "bar": 60,
+      "notes": "Ab5 Bb5 B5 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iv-141-999-cim--001-003_zelenski-wladyslaw--sonata-op-5-rondo.krn",
+      "label": "Sonata op. 5, Rondo, movement 3 (PL-Wn Mus.IV.141.999 Cim., kern)",
+      "bar": 72,
+      "notes": "D5 E5 F5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--bj-muz-8812-iii--001-003_zelenski-wladyslaw--sonate-op-20-scherzo.krn",
+      "label": "Sonate op. 20, Scherzo, movement 3 (PL-Wn BJ Muz. 8812 III, kern)",
+      "bar": 4,
+      "notes": "A4 B4 C5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 5,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--bj-muz-8812-iii--001-003_zelenski-wladyslaw--sonate-op-20-scherzo.krn",
+      "label": "Sonate op. 20, Scherzo, movement 3 (PL-Wn BJ Muz. 8812 III, kern)",
+      "bar": 7,
+      "notes": "F5 E5 Ab5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-70-268--001-001_zelenski-wladyslaw--sonate-op-30-allegro-non-troppo.krn",
+      "label": "Sonate op. 30, Allegro non troppo, movement 1 (PL-Wn Mus.III.70.268, kern)",
+      "bar": 68,
+      "notes": "Ab4 G4 B4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-70-268--001-002_zelenski-wladyslaw--sonate-op-30-allegretto.krn",
+      "label": "Sonate op. 30, Allegretto, movement 2 (PL-Wn Mus.III.70.268, kern)",
+      "bar": 117,
+      "notes": "Bb3 A3 C#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 5,
+    "per_1000": 1.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--bj-muz-8812-iii--001-003_zelenski-wladyslaw--sonate-op-20-scherzo.krn",
+      "label": "Sonate op. 20, Scherzo, movement 3 (PL-Wn BJ Muz. 8812 III, kern)",
+      "bar": 6,
+      "notes": "B4 D5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-70-268--001-002_zelenski-wladyslaw--sonate-op-30-allegretto.krn",
+      "label": "Sonate op. 30, Allegretto, movement 2 (PL-Wn Mus.III.70.268, kern)",
+      "bar": 138,
+      "notes": "E4 G4 A4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--bj-muz-8812-iii--001-004_zelenski-wladyslaw--sonate-op-20-allegro-moderato.krn",
+      "label": "Sonate op. 20, Allegro moderato, movement 4 (PL-Wn BJ Muz. 8812 III, kern)",
+      "bar": 105,
+      "notes": "Eb3 F#3 Ab3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -6,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 4,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--bj-muz-8812-iii--001-001_zelenski-wladyslaw--sonate-op-20-allegro-con-moto.krn",
+      "label": "Sonate op. 20, Allegro con moto, movement 1: Allegro con moto. [quarter]=120. (PL-Wn BJ Muz. 8812 III, kern)",
+      "bar": 15,
+      "notes": "A5 F#5 C5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--bj-muz-8812-iii--001-003_zelenski-wladyslaw--sonate-op-20-scherzo.krn",
+      "label": "Sonate op. 20, Scherzo, movement 3 (PL-Wn BJ Muz. 8812 III, kern)",
+      "bar": 30,
+      "notes": "Eb6 C6 F#5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iv-141-999-cim--001-003_zelenski-wladyslaw--sonata-op-5-rondo.krn",
+      "label": "Sonata op. 5, Rondo, movement 3 (PL-Wn Mus.IV.141.999 Cim., kern)",
+      "bar": 154,
+      "notes": "D7 B6 F6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 7,
+    "per_1000": 2.0,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--bj-muz-8812-iii--001-003_zelenski-wladyslaw--sonate-op-20-scherzo.krn",
+      "label": "Sonate op. 20, Scherzo, movement 3 (PL-Wn BJ Muz. 8812 III, kern)",
+      "bar": 180,
+      "notes": "B5 Ab5 F5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-70-268--001-002_zelenski-wladyslaw--sonate-op-30-allegretto.krn",
+      "label": "Sonate op. 30, Allegretto, movement 2 (PL-Wn Mus.III.70.268, kern)",
+      "bar": 116,
+      "notes": "C#6 Bb5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iv-141-999-cim--001-001_zelenski-wladyslaw--sonata-op-5-allegro-deciso.krn",
+      "label": "Sonata op. 5, Allegro deciso, movement 1: M.M. [quarter] = 116. Allegro deciso (PL-Wn Mus.IV.141.999 Cim., kern)",
+      "bar": 6,
+      "notes": "C5 A4 F#4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 4,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iv-141-999-cim--001-003_zelenski-wladyslaw--sonata-op-5-rondo.krn",
+      "label": "Sonata op. 5, Rondo, movement 3 (PL-Wn Mus.IV.141.999 Cim., kern)",
+      "bar": 72,
+      "notes": "Bb4 C#5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-70-268--001-002_zelenski-wladyslaw--sonate-op-30-allegretto.krn",
+      "label": "Sonate op. 30, Allegretto, movement 2 (PL-Wn Mus.III.70.268, kern)",
+      "bar": 118,
+      "notes": "C#4 E4 F4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iv-141-999-cim--001-001_zelenski-wladyslaw--sonata-op-5-allegro-deciso.krn",
+      "label": "Sonata op. 5, Allegro deciso, movement 1: M.M. [quarter] = 116. Allegro deciso (PL-Wn Mus.IV.141.999 Cim., kern)",
+      "bar": 157,
+      "notes": "Ab5 B5 C6 D6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 34,
+   "composers": 7
+  }
+ }
+]

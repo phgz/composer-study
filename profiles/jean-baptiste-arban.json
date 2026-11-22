@@ -1,0 +1,270 @@
+[
+ {
+  "composer": "Jean-Baptiste Arban",
+  "kind": "etude",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Romantic",
+  "works": 50,
+  "values": {
+   "steps": 0.5660161804683244,
+   "repeats": 0.038656017025996664,
+   "leaps": 0.18594066050337557,
+   "move": 3.218508011472079,
+   "rising": 0.487210747375821,
+   "leap answered": 0.41008840383233186,
+   "range": 13.624,
+   "register": 69.72,
+   "even": 0.8036768387477123,
+   "long-short": 0.002876830318690784,
+   "rhythm variety": 0.7674730619764145,
+   "surprise, pitch": 2.1549148126179016,
+   "surprise, rhythm": 0.4675782621251175,
+   "density": 1.052701576854019,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 13.624,
+    "others": 19.549999999999997,
+    "auc": 0.03818181818181818
+   },
+   {
+    "measure": "register",
+    "value": 69.72,
+    "others": 72.36363636363636,
+    "auc": 0.1709090909090909
+   },
+   {
+    "measure": "density",
+    "value": 1.052701576854019,
+    "others": 2.5514056358713364,
+    "auc": 0.08727272727272727
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 27,
+    "per_1000": 20.0,
+    "others_per_1000": 6.8,
+    "at": [
+     {
+      "work": "mutopia:ArbanJB/Arban_first#47",
+      "label": "Method for the Cornet. First Studies, movement 47: 47 (Mutopia)",
+      "bar": 2,
+      "notes": "D4 E4 F4 G4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#33",
+      "label": "Method for the Cornet. First Studies, movement 33: 33 (Mutopia)",
+      "bar": 1,
+      "notes": "E4 F#4 G4 A4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#16",
+      "label": "Method for the Cornet. First Studies, movement 16: 16 (Mutopia)",
+      "bar": 1,
+      "notes": "G4 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 31,
+    "per_1000": 22.0,
+    "others_per_1000": 8.0,
+    "at": [
+     {
+      "work": "mutopia:ArbanJB/Arban_first#47",
+      "label": "Method for the Cornet. First Studies, movement 47: 47 (Mutopia)",
+      "bar": 2,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#48",
+      "label": "Method for the Cornet. First Studies, movement 48: 48 (Mutopia)",
+      "bar": 6,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#31",
+      "label": "Method for the Cornet. First Studies, movement 31: 31 (Mutopia)",
+      "bar": 9,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 29,
+    "per_1000": 18.7,
+    "others_per_1000": 6.3,
+    "at": [
+     {
+      "work": "mutopia:ArbanJB/Arban_first#47",
+      "label": "Method for the Cornet. First Studies, movement 47: 47 (Mutopia)",
+      "bar": 4,
+      "notes": "E4 F4 G4 A4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#33",
+      "label": "Method for the Cornet. First Studies, movement 33: 33 (Mutopia)",
+      "bar": 1,
+      "notes": "F#4 G4 A4 B4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#31",
+      "label": "Method for the Cornet. First Studies, movement 31: 31 (Mutopia)",
+      "bar": 1,
+      "notes": "E4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 27,
+    "per_1000": 18.1,
+    "others_per_1000": 6.1,
+    "at": [
+     {
+      "work": "mutopia:ArbanJB/Arban_first#47",
+      "label": "Method for the Cornet. First Studies, movement 47: 47 (Mutopia)",
+      "bar": 2,
+      "notes": "C4 D4 E4 F4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#32",
+      "label": "Method for the Cornet. First Studies, movement 32: 32 (Mutopia)",
+      "bar": 1,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#33",
+      "label": "Method for the Cornet. First Studies, movement 33: 33 (Mutopia)",
+      "bar": 1,
+      "notes": "D4 E4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 29,
+    "per_1000": 22.0,
+    "others_per_1000": 8.6,
+    "at": [
+     {
+      "work": "mutopia:ArbanJB/Arban_first#47",
+      "label": "Method for the Cornet. First Studies, movement 47: 47 (Mutopia)",
+      "bar": 4,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#48",
+      "label": "Method for the Cornet. First Studies, movement 48: 48 (Mutopia)",
+      "bar": 3,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#16",
+      "label": "Method for the Cornet. First Studies, movement 16: 16 (Mutopia)",
+      "bar": 6,
+      "notes": "D5 C5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 31,
+    "per_1000": 20.9,
+    "others_per_1000": 8.2,
+    "at": [
+     {
+      "work": "mutopia:ArbanJB/Arban_first#47",
+      "label": "Method for the Cornet. First Studies, movement 47: 47 (Mutopia)",
+      "bar": 2,
+      "notes": "G4 F4 E4 D4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#48",
+      "label": "Method for the Cornet. First Studies, movement 48: 48 (Mutopia)",
+      "bar": 3,
+      "notes": "G4 F4 E4 D4"
+     },
+     {
+      "work": "mutopia:ArbanJB/Arban_first#16",
+      "label": "Method for the Cornet. First Studies, movement 16: 16 (Mutopia)",
+      "bar": 2,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 22,
+   "composers": 2
+  }
+ }
+]
