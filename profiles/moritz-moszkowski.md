@@ -1,6 +1,6 @@
 # Moritz Moszkowski
 
-12 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+12 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Moritz Moszkowski: capriccio, all
 
@@ -15,7 +15,7 @@
 
 ### Moritz Moszkowski: concerto (orchestra), all
 
-3 works; set against 31 works by 8 composers: other composers' concerto (orchestra) of the Romantic period.
+3 works; set against 31 works by 8 composers: other composers' concertos (orchestra) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -26,7 +26,7 @@
 
 ### Moritz Moszkowski: dance, all
 
-31 works; set against 402 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+31 works; set against 402 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -42,7 +42,7 @@
 
 ### Moritz Moszkowski: etude, all
 
-12 works; set against 212 works by 17 composers: other composers' etude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+12 works; set against 212 works by 17 composers: other composers' etudes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -58,7 +58,7 @@
 
 ### Moritz Moszkowski: march, all
 
-3 works; set against 48 works by 18 composers: other composers' march of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 48 works by 18 composers: other composers' marches of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -69,7 +69,7 @@
 
 ### Moritz Moszkowski: mazurka, all
 
-6 works; set against 131 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 131 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -85,7 +85,7 @@
 
 ### Moritz Moszkowski: polonaise, all
 
-6 works; set against 56 works by 18 composers: other composers' polonaise of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 56 works by 18 composers: other composers' polonaises of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 3%, against 12% (7 in 100)
@@ -103,7 +103,7 @@
 
 ### Moritz Moszkowski: romance, all
 
-3 works; set against 21 works by 15 composers: other composers' romance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 21 works by 15 composers: other composers' romances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -114,7 +114,7 @@
 
 ### Moritz Moszkowski: scherzo, all
 
-4 works; set against 39 works by 22 composers: other composers' scherzo of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 39 works by 22 composers: other composers' scherzos of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -125,7 +125,7 @@
 
 ### Moritz Moszkowski: song, all
 
-3 works; set against 1221 works by 115 composers: other composers' song of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 1210 works by 115 composers: other composers' songs of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -136,7 +136,7 @@
 
 ### Moritz Moszkowski: suite, all
 
-4 works; set against 247 works by 18 composers: other composers' suite, of any period and forces (range, register and density not compared).
+4 works; set against 247 works by 18 composers: other composers' suites, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -147,7 +147,7 @@
 
 ### Moritz Moszkowski: waltz, all
 
-10 works; set against 65 works by 19 composers: other composers' waltz of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+10 works; set against 65 works by 19 composers: other composers' waltzes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.31, against 1.91 (83 in 100)

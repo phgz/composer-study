@@ -1,10 +1,10 @@
 # Carl Reinecke
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Carl Reinecke: song, all
 
-8 works; set against 1216 works by 115 composers: other composers' song of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 1205 works by 115 composers: other composers' songs of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 

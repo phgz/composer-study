@@ -1,10 +1,10 @@
 # Friedrich Kuhlau
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Friedrich Kuhlau: sonata (keyboard), all
 
-3 works; set against 41 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 41 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

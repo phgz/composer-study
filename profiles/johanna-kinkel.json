@@ -27,8 +27,8 @@
    {
     "measure": "surprise, pitch",
     "value": 3.018456463848712,
-    "others": 2.4122254592939876,
-    "auc": 0.8090530899809506
+    "others": 2.418931871336165,
+    "auc": 0.8074950647547676
    }
   ],
   "figures": [
@@ -43,7 +43,7 @@
      -2,
      0
     ],
-    "z": 5.6,
+    "z": 5.7,
     "works": 2,
     "per_1000": 1.6,
     "others_per_1000": 0.0,
@@ -73,7 +73,7 @@
      2,
      -2
     ],
-    "z": 5.4,
+    "z": 5.3,
     "works": 6,
     "per_1000": 2.2,
     "others_per_1000": 0.2,
@@ -136,6 +136,42 @@
    },
    {
     "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 5,
+    "per_1000": 2.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.15/3_Wiegenlied/lc6247576.mxl",
+      "label": "Lieder, Op.15, Wiegenlied (OpenScore)",
+      "bar": 8,
+      "notes": "A4 G4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.6/2_Wasser_und_Wein/lc6248302.mxl",
+      "label": "Lieder, Op.6, Wasser und Wein (OpenScore)",
+      "bar": 12,
+      "notes": "G4 F4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Kinkel,_Johanna/3_Duetten,_Op.11/3_Der_Seejungfern_Gesang/lc6125479.mxl",
+      "label": "Duetten, Op.11, Der Seejungfern Gesang (OpenScore)",
+      "bar": 13,
+      "notes": "B4 A4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
      1,
      0,
      -1
@@ -173,42 +209,6 @@
    {
     "moves": [
      -2,
-     2,
-     -2
-    ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 4.4,
-    "works": 5,
-    "per_1000": 2.7,
-    "others_per_1000": 0.5,
-    "at": [
-     {
-      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.15/3_Wiegenlied/lc6247576.mxl",
-      "label": "Lieder, Op.15, Wiegenlied (OpenScore)",
-      "bar": 8,
-      "notes": "A4 G4 A4 G4"
-     },
-     {
-      "work": "openscore-lieder:Kinkel,_Johanna/6_Lieder,_Op.6/2_Wasser_und_Wein/lc6248302.mxl",
-      "label": "Lieder, Op.6, Wasser und Wein (OpenScore)",
-      "bar": 12,
-      "notes": "G4 F4 G4 F4"
-     },
-     {
-      "work": "openscore-lieder:Kinkel,_Johanna/3_Duetten,_Op.11/3_Der_Seejungfern_Gesang/lc6125479.mxl",
-      "label": "Duetten, Op.11, Der Seejungfern Gesang (OpenScore)",
-      "bar": 13,
-      "notes": "B4 A4 B4 A4"
-     }
-    ]
-   },
-   {
-    "moves": [
-     -2,
      -2,
      -2
     ],
@@ -217,7 +217,7 @@
      0,
      2
     ],
-    "z": 4.4,
+    "z": 4.3,
     "works": 3,
     "per_1000": 1.6,
     "others_per_1000": 0.2,
@@ -245,7 +245,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1054,
+   "works": 1043,
    "composers": 97
   }
  }

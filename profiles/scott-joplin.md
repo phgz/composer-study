@@ -1,10 +1,10 @@
 # Scott Joplin
 
-4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+4 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Scott Joplin: dance (keyboard), all
 
-46 works; set against 49 works by 18 composers: other composers' dance of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+46 works; set against 49 works by 18 composers: other composers' dances of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -19,7 +19,7 @@
 
 ### Scott Joplin: march (keyboard), all
 
-25 works; set against 66 works by 30 composers: other composers' march, of any period and forces (range, register and density not compared).
+25 works; set against 66 works by 30 composers: other composers' marches, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 5%, against 17% (17 in 100)
@@ -39,7 +39,7 @@
 
 ### Scott Joplin: rag (keyboard), all
 
-46 works; set against 94 works by 9 composers: other composers' works for keyboard of the 1890 to 1950 period, of any kind (too few rag).
+46 works; set against 94 works by 9 composers: other composers' works for keyboard of the 1890 to 1950 period, of any kind (too few rags).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: Eb5, against C5 (78 in 100)
@@ -57,7 +57,7 @@
 
 ### Scott Joplin: waltz (keyboard), all
 
-5 works; set against 102 works by 36 composers: other composers' waltz, of any period and forces (range, register and density not compared).
+5 works; set against 102 works by 36 composers: other composers' waltzes, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 

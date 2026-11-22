@@ -1,10 +1,10 @@
 # Johann Joachim Quantz
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Johann Joachim Quantz: dance (solo instrument), all
 
-11 works; set against 53 works by 1 composers: other composers' dance (solo instrument) of the Baroque period.
+11 works; set against 53 works by 1 composers: other composers' dances (solo instrument) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 12.7, against 17.5 (9 in 100)
@@ -27,7 +27,7 @@
 
 ### Johann Joachim Quantz: minuet (solo instrument), all
 
-11 works; set against 31 works by 7 composers: other composers' minuet of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+11 works; set against 31 works by 7 composers: other composers' minuets of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 0.46, against 1.26 (4 in 100)

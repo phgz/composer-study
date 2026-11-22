@@ -1,10 +1,10 @@
 # Ippolito Sabino
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Ippolito Sabino: mass (voices), all
 
-5 works; set against 591 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+5 works; set against 591 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: Ab3, against Ab4 (0 in 100)

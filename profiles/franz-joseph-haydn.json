@@ -243,6 +243,38 @@
    "by": "kind, forces, period",
    "works": 23,
    "composers": 5
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "When in Rome": 3
+   },
+   "values": {
+    "chords a bar": 1.4321042941732598,
+    "tonic and dominant": 0.5264342774146695,
+    "sevenths": 0.23957879448075525,
+    "diminished sevenths": 0.05232389251997096,
+    "applied chords": 0.18830791575889616,
+    "augmented sixths": 0.012273057371096588,
+    "Neapolitan": 0.0024691358024691358,
+    "mixture": 0.0,
+    "inversions": 0.377923021060276,
+    "keys a 10 bars": 0.2542668059909439,
+    "away from home": 0.2638344226579521,
+    "non-chord tones": 0.1283351026185421,
+    "struck dissonance": 0.048500881834215165,
+    "resolved by step": 0.3853615520282187,
+    "suspensions": 0.00582684595423449
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 76,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 76
+   }
   }
  },
  {
@@ -754,6 +786,38 @@
    "by": "kind, forces, period",
    "works": 23,
    "composers": 5
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "When in Rome": 3
+   },
+   "values": {
+    "chords a bar": 1.4321042941732598,
+    "tonic and dominant": 0.5264342774146695,
+    "sevenths": 0.23957879448075525,
+    "diminished sevenths": 0.05232389251997096,
+    "applied chords": 0.18830791575889616,
+    "augmented sixths": 0.012273057371096588,
+    "Neapolitan": 0.0024691358024691358,
+    "mixture": 0.0,
+    "inversions": 0.377923021060276,
+    "keys a 10 bars": 0.2542668059909439,
+    "away from home": 0.2638344226579521,
+    "non-chord tones": 0.1283351026185421,
+    "struck dissonance": 0.048500881834215165,
+    "resolved by step": 0.3853615520282187,
+    "suspensions": 0.00582684595423449
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 76,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 76
+   }
   }
  },
  {
@@ -1707,7 +1771,7 @@
    {
     "measure": "rising",
     "value": 0.47044353404348627,
-    "others": 0.4275911506445951,
+    "others": 0.42759115064459513,
     "auc": 0.7599205469327419
    },
    {
@@ -2188,6 +2252,204 @@
    "by": "kind, forces, period",
    "works": 212,
    "composers": 10
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "When in Rome": 7
+   },
+   "values": {
+    "chords a bar": 1.5308101074717428,
+    "tonic and dominant": 0.651611049410841,
+    "sevenths": 0.3401971513800227,
+    "diminished sevenths": 0.0630237227482581,
+    "applied chords": 0.10419577768410568,
+    "augmented sixths": 0.015179664413644321,
+    "Neapolitan": 0.0,
+    "mixture": 0.0035272651201710753,
+    "inversions": 0.47621903145208583,
+    "keys a 10 bars": 0.9230495298094227,
+    "away from home": 0.43769569438538874,
+    "non-chord tones": 0.23250884779641684,
+    "struck dissonance": 0.14793805602408375,
+    "resolved by step": 0.7126916555902637,
+    "suspensions": 0.005288276946891014
+   },
+   "traits": [
+    {
+     "measure": "augmented sixths",
+     "value": 0.015179664413644321,
+     "others": 0.007130937186917219,
+     "auc": 0.7650375939849624
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V7",
+      "I",
+      "IV64"
+     ],
+     "z": 4.6,
+     "works": 4,
+     "per_1000": 5.9,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#4",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore)",
+       "bar": 22
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#2",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore)",
+       "bar": 37
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#1",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore)",
+       "bar": 60
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V65/IV",
+      "IV"
+     ],
+     "z": 4.3,
+     "works": 3,
+     "per_1000": 6.8,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#2",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore)",
+       "bar": 7
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#1",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore)",
+       "bar": 62
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#4",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore)",
+       "bar": 47
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii",
+      "viio",
+      "I"
+     ],
+     "z": 3.9,
+     "works": 3,
+     "per_1000": 4.2,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#1",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore)",
+       "bar": 3
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#4",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 4 (OpenScore)",
+       "bar": 39
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#1",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore)",
+       "bar": 79
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65/IV",
+      "IV",
+      "I64"
+     ],
+     "z": 3.9,
+     "works": 3,
+     "per_1000": 4.2,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#2",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore)",
+       "bar": 48
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#4",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore)",
+       "bar": 47
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#1",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore)",
+       "bar": 125
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "IV64",
+      "viio"
+     ],
+     "z": 3.7,
+     "works": 2,
+     "per_1000": 4.2,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#1",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore)",
+       "bar": 61
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III72,_Op.74_No.1/sq10372717.mxl#4",
+       "label": "String Quartet in C major, Hob.III72, Op.74 No.1, movement 4 (OpenScore)",
+       "bar": 69
+      }
+     ]
+    },
+    {
+     "chords": [
+      "#viio43",
+      "i6",
+      "#viio43"
+     ],
+     "z": 3.6,
+     "works": 2,
+     "per_1000": 4.2,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#1",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore)",
+       "bar": 161
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III74,_Op.74_No.3_(The_Horseman)/sq10313029.mxl#4",
+       "label": "String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore)",
+       "bar": 7
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 76,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 76
+   }
   }
  },
  {
@@ -2437,6 +2699,221 @@
    "by": "kind, forces, period",
    "works": 212,
    "composers": 10
+  },
+  "harmony": {
+   "works": 14,
+   "by": {
+    "When in Rome": 14
+   },
+   "values": {
+    "chords a bar": 1.8031474811535333,
+    "tonic and dominant": 0.5035192132910414,
+    "sevenths": 0.2880480905498329,
+    "diminished sevenths": 0.05283585705820271,
+    "applied chords": 0.20438508295803817,
+    "augmented sixths": 0.003641677004449876,
+    "Neapolitan": 0.004850959929779243,
+    "mixture": 0.001207755829604569,
+    "inversions": 0.39433525984046497,
+    "keys a 10 bars": 0.3250095381201472,
+    "away from home": 0.2986629793571414,
+    "non-chord tones": 0.23109730012079432,
+    "struck dissonance": 0.08969507836903813,
+    "resolved by step": 0.641630879062369,
+    "suspensions": 0.0069449564503256305
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.5035192132910414,
+     "others": 0.6184400562957164,
+     "auc": 0.14849624060150377
+    },
+    {
+     "measure": "mixture",
+     "value": 0.001207755829604569,
+     "others": 0.013396015822594497,
+     "auc": 0.17011278195488724
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.08969507836903813,
+     "others": 0.2225843879669923,
+     "auc": 0.11184210526315788
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "IV64",
+      "I"
+     ],
+     "z": 4.5,
+     "works": 3,
+     "per_1000": 4.2,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III31,_Op.20_No.1/sq8075304.mxl#3",
+       "label": "String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 3: Affetuoso e sostenuto mezza voce (OpenScore)",
+       "bar": 6
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III31,_Op.20_No.1/sq8075304.mxl#4",
+       "label": "String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 4: Finale Presto (OpenScore)",
+       "bar": 48
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III33,_Op.20_No.3/sq8455808.mxl#3",
+       "label": "String Quartet in G minor, Hob.III33, Op.20 No.3, movement 3: Poco Adagio mezza voce (OpenScore)",
+       "bar": 35
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V64",
+      "V7/V",
+      "V64"
+     ],
+     "z": 3.8,
+     "works": 3,
+     "per_1000": 2.8,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_minor,_Hob.III33,_Op.20_No.3/sq8455808.mxl#3",
+       "label": "String Quartet in G minor, Hob.III33, Op.20 No.3, movement 3: Poco Adagio mezza voce (OpenScore)",
+       "bar": 19
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_minor,_Hob.III35,_Op.20_No.5/sq8807040.mxl#3",
+       "label": "String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore)",
+       "bar": 32
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_E-flat_major,_Hob.III31,_Op.20_No.1/sq8075304.mxl#4",
+       "label": "String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 4: Finale Presto (OpenScore)",
+       "bar": 28
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7/V",
+      "V",
+      "I"
+     ],
+     "z": 3.6,
+     "works": 6,
+     "per_1000": 3.2,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_minor,_Hob.III35,_Op.20_No.5/sq8807040.mxl#3",
+       "label": "String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore)",
+       "bar": 39
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_A_major,_Hob.III36,_Op.20_No.6/sq8796660.mxl#2",
+       "label": "String Quartet in A major, Hob.III36, Op.20 No.6, movement 2: Cantabile Adagio mezza voce (OpenScore)",
+       "bar": 25
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#1",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore)",
+       "bar": 29
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "viio"
+     ],
+     "z": 3.4,
+     "works": 4,
+     "per_1000": 2.8,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#1",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore)",
+       "bar": 43
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_A_major,_Hob.III36,_Op.20_No.6/sq8796660.mxl#2",
+       "label": "String Quartet in A major, Hob.III36, Op.20 No.6, movement 2: Cantabile Adagio mezza voce (OpenScore)",
+       "bar": 28
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#4",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 4: Fuga a 4 Soggetti Allegro sempre sotto v (OpenScore)",
+       "bar": 31
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "V/V",
+      "V"
+     ],
+     "z": 3.4,
+     "works": 2,
+     "per_1000": 2.3,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#1",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore)",
+       "bar": 8
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_D_major,_Hob.III34,_Op.20_No.4/sq8509238.mxl#3",
+       "label": "String Quartet in D major, Hob.III34, Op.20 No.4, movement 3: Menuetto Allegretto alla zingarese (OpenScore)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V/V",
+      "V",
+      "V/V"
+     ],
+     "z": 3.4,
+     "works": 3,
+     "per_1000": 2.3,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_C_major,_Hob.III32,_Op.20_No.2/sq8088531.mxl#1",
+       "label": "String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore)",
+       "bar": 32
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_F_minor,_Hob.III35,_Op.20_No.5/sq8807040.mxl#3",
+       "label": "String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore)",
+       "bar": 21
+      },
+      {
+       "work": "openscore-quartets:Haydn,_Joseph/String_Quartet_in_D_major,_Hob.III34,_Op.20_No.4/sq8509238.mxl#3",
+       "label": "String Quartet in D major, Hob.III34, Op.20 No.4, movement 3: Menuetto Allegretto alla zingarese (OpenScore)",
+       "bar": 6
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 76,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 76
+   }
   }
  },
  {

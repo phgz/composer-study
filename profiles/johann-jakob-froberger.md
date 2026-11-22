@@ -1,10 +1,10 @@
 # Johann Jakob Froberger
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Johann Jakob Froberger: dance (keyboard), all
 
-4 works; set against 128 works by 4 composers: other composers' dance (keyboard) of the Baroque period.
+4 works; set against 128 works by 4 composers: other composers' dances (keyboard) of the Baroque period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Johann Jakob Froberger: suite (keyboard), all
 
-4 works; set against 127 works by 2 composers: other composers' suite (keyboard) of the Baroque period.
+4 works; set against 127 works by 2 composers: other composers' suites (keyboard) of the Baroque period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

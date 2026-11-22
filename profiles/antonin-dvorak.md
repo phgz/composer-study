@@ -1,10 +1,10 @@
 # Antonín Dvořák
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Antonín Dvořák: character piece (keyboard), before America
 
-12 works; set against 49 works by 5 composers: other composers' character piece (keyboard) of the Romantic period.
+12 works; set against 49 works by 5 composers: other composers' character pieces (keyboard) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 59%, against 42% (78 in 100)
@@ -19,9 +19,16 @@
 
 **All measures:** moves by step 59%; repeated notes 12%; leaps of a fourth or more 20%; mean move (semitones) 3.08; moves that rise 48%; leaps answered by a step back 25%; range of the melody (semitones) 21.9; register of the melody Eb5; even rhythm (a note as long as the one before) 44%; dotted figures (3:1) 5%; rhythmic variety (bits) 2.11; the ear's surprise, pitch (bits a note) 1.89; the ear's surprise, rhythm (bits a note) 1.04; notes a quarter (texture) 5.62; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 12 of its works (12 DCML's); set against 44 works by 3 composers: other composers' labelled character pieces (keyboard) of the Romantic period. Changes of key and applied chords are compared within one analyst's labels.
+
+- diminished sevenths: 2%, against 7% (21 in 100)
+- chords labelled with a note in place of one of theirs, or added (V(4)), DCML: 12%, against 22% (22 in 100)
+
+*All its harmony:* chords a bar 2.46; chords on I or V 65%; seventh chords 31%; diminished sevenths 2%; applied chords (V/V and the like) 11%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 3%; chords over a bass not their root 33%; changes of key a 10 bars 1.19; chords away from the home key 27%; cadences a 10 bars (DCML) 2.17; of its cadences, perfect 34%; of its cadences, half 24%; of its cadences, deceptive or evaded 5%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 12%; melody notes outside the chord 19%; of those, struck with the chord (appoggiaturas) 34%; of those, resolved by a step 73%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Antonín Dvořák: string quartet (string quartet), America
 
-8 works; set against 223 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+8 works; set against 223 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 21%, against 13% (81 in 100)
@@ -42,7 +49,7 @@
 
 ### Antonín Dvořák: string quartet (string quartet), before America
 
-28 works; set against 223 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+28 works; set against 223 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: F#5, against Eb5 (82 in 100)

@@ -1,10 +1,10 @@
 # Carrie Jacobs-Bond
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Carrie Jacobs-Bond: song (voice and keyboard), all
 
-5 works; set against 304 works by 37 composers: other composers' song (voice and keyboard) of the 1890 to 1950 period.
+5 works; set against 304 works by 37 composers: other composers' songs (voice and keyboard) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 10.8, against 12.7 (25 in 100)

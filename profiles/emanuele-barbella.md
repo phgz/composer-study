@@ -1,10 +1,10 @@
 # Emanuele Barbella
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Emanuele Barbella: dance, all
 
-4 works; set against 193 works by 32 composers: other composers' dance of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 193 works by 32 composers: other composers' dances of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Emanuele Barbella: sonata, all
 
-14 works; set against 372 works by 15 composers: other composers' sonata of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+14 works; set against 372 works by 15 composers: other composers' sonatas of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 

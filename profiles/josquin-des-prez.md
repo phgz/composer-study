@@ -1,10 +1,10 @@
 # Josquin Des Prez
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Josquin Des Prez: mass (voices), all
 
-75 works; set against 521 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+75 works; set against 521 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Josquin Des Prez: motet (voices), all
 
-44 works; set against 578 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+44 works; set against 578 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -36,7 +36,7 @@
 
 ### Josquin Des Prez: song (voices), all
 
-39 works; set against 243 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+39 works; set against 243 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.21, against 2.63 (17 in 100)

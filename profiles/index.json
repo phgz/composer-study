@@ -1,7 +1,7 @@
 {
  "about": {
-  "catalogue_version": 24,
-  "score_reader": "92bb2c2",
+  "catalogue_version": 25,
+  "score_reader": "d37df33",
   "left_out": [
    "midi_copy",
    "realized"
@@ -188,7 +188,7 @@
   "Antonín Dvořák": {
    "file": "antonin-dvorak.md",
    "units": [
-    "character piece (keyboard), before America: 12 works",
+    "character piece (keyboard), before America: 12 works, 12 labelled",
     "string quartet (string quartet), America: 8 works",
     "string quartet (string quartet), before America: 28 works"
    ]
@@ -196,16 +196,16 @@
   "Arcangelo Corelli": {
    "file": "arcangelo-corelli.md",
    "units": [
-    "allemande (chamber), all: 7 works",
+    "allemande (chamber), all: 7 works, 7 labelled",
     "concerto (strings), all: 68 works",
-    "courante (chamber), all: 8 works",
-    "dance (chamber), all: 26 works",
-    "gavotte (chamber), all: 4 works",
-    "gigue (chamber), all: 4 works",
-    "prelude (chamber), all: 11 works",
-    "sarabande (chamber), all: 3 works",
-    "sonata (chamber), all: 196 works",
-    "trio sonata (chamber), all: 147 works"
+    "courante (chamber), all: 8 works, 8 labelled",
+    "dance (chamber), all: 26 works, 26 labelled",
+    "gavotte (chamber), all: 4 works, 4 labelled",
+    "gigue (chamber), all: 4 works, 4 labelled",
+    "prelude (chamber), all: 11 works, 11 labelled",
+    "sarabande (chamber), all: 3 works, 3 labelled",
+    "sonata (chamber), all: 196 works, 146 labelled",
+    "trio sonata (chamber), all: 147 works, 146 labelled"
    ]
   },
   "Arnold Schoenberg": {
@@ -301,7 +301,7 @@
   "Béla Bartók": {
    "file": "bela-bartok.md",
    "units": [
-    "bagatelle (keyboard), all: 14 works",
+    "bagatelle (keyboard), all: 14 works, 14 labelled",
     "string quartet (string quartet), all: 8 works"
    ]
   },
@@ -335,9 +335,9 @@
   "Carl Philipp Emanuel Bach": {
    "file": "carl-philipp-emanuel-bach.md",
    "units": [
-    "fantasia (keyboard), all: 10 works",
-    "rondo (keyboard), all: 7 works",
-    "sonata (keyboard), all: 66 works",
+    "fantasia (keyboard), all: 10 works, 10 labelled",
+    "rondo (keyboard), all: 7 works, 6 labelled",
+    "sonata (keyboard), all: 66 works, 66 labelled",
     "sonata (solo instrument), all: 3 works"
    ]
   },
@@ -406,7 +406,7 @@
   "Clara Schumann": {
    "file": "clara-schumann.md",
    "units": [
-    "song (voice and keyboard), all: 17 works"
+    "song (voice and keyboard), all: 17 works, 14 labelled"
    ]
   },
   "Claude Debussy": {
@@ -417,7 +417,7 @@
     "song (voice and keyboard), any period: 20 works",
     "string quartet (string quartet), any period: 4 works",
     "suite (keyboard), any period: 6 works",
-    "suite (keyboard), early: 4 works"
+    "suite (keyboard), early: 4 works, 4 labelled"
    ]
   },
   "Claude Goudimel": {
@@ -429,9 +429,9 @@
   "Claudio Monteverdi": {
    "file": "claudio-monteverdi.md",
    "units": [
-    "madrigal (voices), Venice: 3 works",
-    "madrigal (voices), early: 20 works",
-    "madrigal (voices), seconda pratica: 33 works"
+    "madrigal (voices), Venice: 3 works, 3 labelled",
+    "madrigal (voices), early: 20 works, 17 labelled",
+    "madrigal (voices), seconda pratica: 33 works, 21 labelled"
    ]
   },
   "Clémence de Grandval": {
@@ -461,7 +461,7 @@
   "Cécile Chaminade": {
    "file": "cecile-chaminade.md",
    "units": [
-    "song (voice and keyboard), all: 35 works"
+    "song (voice and keyboard), all: 35 works, 3 labelled"
    ]
   },
   "César Franck": {
@@ -485,15 +485,15 @@
   "Domenico Scarlatti": {
    "file": "domenico-scarlatti.md",
    "units": [
-    "sonata (keyboard), all: 129 works"
+    "sonata (keyboard), all: 129 works, 69 labelled"
    ]
   },
   "Edvard Grieg": {
    "file": "edvard-grieg.md",
    "units": [
-    "dance, all: 5 works",
+    "dance, all: 5 works, 5 labelled",
     "string quartet (string quartet), all: 5 works",
-    "waltz, all: 4 works"
+    "waltz, all: 4 works, 4 labelled"
    ]
   },
   "Edward Elgar": {
@@ -558,7 +558,7 @@
    "file": "emilie-mayer.md",
    "units": [
     "scherzo (string quartet), all: 4 works",
-    "song (voice and keyboard), all: 6 works",
+    "song (voice and keyboard), all: 6 works, 3 labelled",
     "string quartet (string quartet), all: 24 works"
    ]
   },
@@ -596,7 +596,7 @@
    "file": "erwin-schulhoff.md",
    "units": [
     "string quartet (string quartet), all: 4 works",
-    "suite (keyboard), all: 6 works"
+    "suite (keyboard), all: 6 works, 6 labelled"
    ]
   },
   "Ethel Smyth": {
@@ -614,7 +614,7 @@
   "Fanny Mendelssohn": {
    "file": "fanny-mendelssohn.md",
    "units": [
-    "song (voice and keyboard), all: 35 works",
+    "song (voice and keyboard), all: 35 works, 20 labelled",
     "string quartet (string quartet), all: 4 works"
    ]
   },
@@ -631,7 +631,7 @@
     "duet (voice and keyboard), all: 6 works",
     "psalm (orchestra), all: 8 works",
     "song (voice and keyboard), all: 11 works",
-    "string quartet (string quartet), all: 24 works"
+    "string quartet (string quartet), all: 24 works, 24 labelled"
    ]
   },
   "Ferdinand Simon Lechleitner": {
@@ -743,7 +743,7 @@
     "dance, any period: 4 works",
     "dance (keyboard), mature: 3 works",
     "dance (string quartet), London and late: 15 works",
-    "dance (string quartet), Sturm und Drang: 17 works",
+    "dance (string quartet), Sturm und Drang: 17 works, 3 labelled",
     "dance (string quartet), early: 17 works",
     "dance (string quartet), mature: 17 works",
     "fugue (string quartet), Sturm und Drang: 4 works",
@@ -751,7 +751,7 @@
     "minuet, any period: 4 works",
     "minuet (keyboard), mature: 3 works",
     "minuet (string quartet), London and late: 15 works",
-    "minuet (string quartet), Sturm und Drang: 17 works",
+    "minuet (string quartet), Sturm und Drang: 17 works, 3 labelled",
     "minuet (string quartet), early: 17 works",
     "minuet (string quartet), mature: 17 works",
     "scherzo (string quartet), mature: 6 works",
@@ -760,8 +760,8 @@
     "sonata (keyboard), mature: 13 works",
     "sonata (string quartet), mature: 3 works",
     "song (voice and keyboard), London and late: 8 works",
-    "string quartet (string quartet), London and late: 55 works",
-    "string quartet (string quartet), Sturm und Drang: 69 works",
+    "string quartet (string quartet), London and late: 55 works, 7 labelled",
+    "string quartet (string quartet), Sturm und Drang: 69 works, 14 labelled",
     "string quartet (string quartet), early: 53 works",
     "string quartet (string quartet), mature: 104 works",
     "suite, any period: 4 works",
@@ -771,8 +771,8 @@
   "Franz Liszt": {
    "file": "franz-liszt.md",
    "units": [
-    "character piece (keyboard), Weimar: 12 works",
-    "character piece (keyboard), virtuoso years: 7 works",
+    "character piece (keyboard), Weimar: 12 works, 12 labelled",
+    "character piece (keyboard), virtuoso years: 7 works, 7 labelled",
     "etude (keyboard), Weimar: 9 works"
    ]
   },
@@ -784,7 +784,7 @@
     "minuet (string quartet), before 1822: 3 works",
     "sonata (keyboard), before 1822: 3 works",
     "song (voice and keyboard), before 1822: 20 works",
-    "song (voice and keyboard), late: 105 works",
+    "song (voice and keyboard), late: 95 works, 45 labelled",
     "string quartet (string quartet), before 1822: 17 works",
     "string quartet (string quartet), late: 12 works"
    ]
@@ -798,19 +798,19 @@
   "François Couperin": {
    "file": "francois-couperin.md",
    "units": [
-    "air (keyboard), all: 11 works",
-    "allemande (keyboard), all: 7 works",
-    "allemande (orchestra), all: 4 works",
-    "concerto (keyboard), all: 58 works",
-    "concerto (orchestra), all: 26 works",
-    "courante (keyboard), all: 3 works",
-    "courante (orchestra), all: 3 works",
-    "dance (keyboard), all: 22 works",
-    "dance (orchestra), all: 15 works",
-    "prelude (keyboard), all: 10 works",
-    "prelude (orchestra), all: 4 works",
-    "sarabande (keyboard), all: 8 works",
-    "sarabande (orchestra), all: 3 works"
+    "air (keyboard), all: 11 works, 9 labelled",
+    "allemande (keyboard), all: 7 works, 7 labelled",
+    "allemande (orchestra), all: 4 works, 4 labelled",
+    "concerto (keyboard), all: 58 works, 51 labelled",
+    "concerto (orchestra), all: 26 works, 26 labelled",
+    "courante (keyboard), all: 3 works, 3 labelled",
+    "courante (orchestra), all: 3 works, 3 labelled",
+    "dance (keyboard), all: 22 works, 21 labelled",
+    "dance (orchestra), all: 15 works, 15 labelled",
+    "prelude (keyboard), all: 10 works, 9 labelled",
+    "prelude (orchestra), all: 4 works, 4 labelled",
+    "sarabande (keyboard), all: 8 works, 7 labelled",
+    "sarabande (orchestra), all: 3 works, 3 labelled"
    ]
   },
   "François Roberday": {
@@ -843,17 +843,17 @@
    "units": [
     "ballade (keyboard), Paris: 4 works",
     "concerto (keyboard), Warsaw: 6 works",
-    "dance (keyboard), Paris: 47 works",
-    "dance (keyboard), Warsaw: 24 works",
-    "dance (keyboard), late: 16 works",
+    "dance (keyboard), Paris: 47 works, 29 labelled",
+    "dance (keyboard), Warsaw: 24 works, 14 labelled",
+    "dance (keyboard), late: 16 works, 12 labelled",
     "ecossaise (keyboard), Warsaw: 3 works",
     "etude (keyboard), Paris: 16 works",
     "etude (keyboard), Warsaw: 8 works",
     "impromptu (keyboard), Paris: 4 works",
-    "mazurka (keyboard), Paris: 30 works",
-    "mazurka (keyboard), Warsaw: 14 works",
-    "mazurka (keyboard), late: 12 works",
-    "nocturne (keyboard), Paris: 9 works",
+    "mazurka (keyboard), Paris: 30 works, 29 labelled",
+    "mazurka (keyboard), Warsaw: 14 works, 14 labelled",
+    "mazurka (keyboard), late: 12 works, 12 labelled",
+    "nocturne (keyboard), Paris: 8 works",
     "nocturne (keyboard), Warsaw: 7 works",
     "nocturne (keyboard), late: 4 works",
     "polonaise (keyboard), Paris: 6 works",
@@ -865,7 +865,7 @@
     "sonata (keyboard), Warsaw: 4 works",
     "sonata (keyboard), late: 4 works",
     "song (voice and keyboard), Paris: 3 works",
-    "song (voice and keyboard), Warsaw: 11 works",
+    "song (voice and keyboard), Warsaw: 10 works",
     "song (voice and keyboard), late: 3 works",
     "trio (chamber), Warsaw: 3 works",
     "waltz (keyboard), Paris: 8 works",
@@ -925,8 +925,8 @@
     "dance (keyboard), any period: 9 works",
     "minuet (keyboard), any period: 7 works",
     "sonata (chamber), any period: 13 works",
-    "suite (keyboard), London: 6 works",
-    "variations (keyboard), London: 5 works"
+    "suite (keyboard), London: 6 works, 6 labelled",
+    "variations (keyboard), London: 5 works, 5 labelled"
    ]
   },
   "George Onslow": {
@@ -984,7 +984,7 @@
   "Giovanni Battista Pergolesi": {
    "file": "giovanni-battista-pergolesi.md",
    "units": [
-    "song (voice and keyboard), all: 5 works"
+    "song (voice and keyboard), all: 5 works, 4 labelled"
    ]
   },
   "Giovanni Battista Viotti": {
@@ -1005,7 +1005,7 @@
     "hymn (voices), all: 36 works",
     "madrigal (voices), all: 101 works",
     "magnificat (voices), all: 34 works",
-    "mass, all: 10 works",
+    "mass, all: 8 works",
     "mass (voices), all: 107 works",
     "motet (voices), all: 231 works",
     "song (voices), all: 9 works"
@@ -1014,7 +1014,7 @@
   "Girolamo Frescobaldi": {
    "file": "girolamo-frescobaldi.md",
    "units": [
-    "toccata (organ), all: 8 works"
+    "toccata (organ), all: 8 works, 8 labelled"
    ]
   },
   "Giuseppe Giuliano": {
@@ -1061,7 +1061,7 @@
    "file": "gustav-mahler.md",
    "units": [
     "song (voice and keyboard), Wunderhorn years: 5 works",
-    "song (voice and keyboard), middle: 5 works"
+    "song (voice and keyboard), middle: 5 works, 5 labelled"
    ]
   },
   "Guy d'Hardelot": {
@@ -1166,7 +1166,7 @@
   "Hugo Wolf": {
    "file": "hugo-wolf.md",
    "units": [
-    "song (voice and keyboard), all: 25 works",
+    "song (voice and keyboard), all: 25 works, 7 labelled",
     "string quartet (string quartet), all: 6 works"
    ]
   },
@@ -1207,7 +1207,7 @@
    "file": "ignaz-pleyel.md",
    "units": [
     "sonata, all: 3 works",
-    "string quartet (string quartet), all: 6 works",
+    "string quartet (string quartet), all: 6 works, 6 labelled",
     "symphony (orchestra), all: 3 works"
    ]
   },
@@ -1379,9 +1379,9 @@
   "Johann Christian Bach": {
    "file": "johann-christian-bach.md",
    "units": [
-    "dance (keyboard), all: 4 works",
-    "minuet (keyboard), all: 4 works",
-    "sonata (keyboard), all: 29 works"
+    "dance (keyboard), all: 4 works, 4 labelled",
+    "minuet (keyboard), all: 4 works, 4 labelled",
+    "sonata (keyboard), all: 29 works, 29 labelled"
    ]
   },
   "Johann Jakob Froberger": {
@@ -1422,73 +1422,73 @@
   "Johann Sebastian Bach": {
    "file": "johann-sebastian-bach.md",
    "units": [
-    "allemande (keyboard), Köthen: 12 works",
+    "allemande (keyboard), Köthen: 12 works, 12 labelled",
     "allemande (keyboard), Leipzig: 5 works",
-    "allemande (solo instrument), Köthen: 3 works",
-    "allemande (solo instrument), Weimar: 6 works",
-    "bourree (keyboard), Köthen: 6 works",
-    "bourree (solo instrument), Weimar: 4 works",
+    "allemande (solo instrument), Köthen: 3 works, 3 labelled",
+    "allemande (solo instrument), Weimar: 6 works, 6 labelled",
+    "bourree (keyboard), Köthen: 6 works, 6 labelled",
+    "bourree (solo instrument), Weimar: 4 works, 4 labelled",
     "canon (chamber), any period: 13 works",
     "canon (open score), Leipzig: 4 works",
-    "cantata (voices), Köthen: 22 works",
-    "cantata (voices), Leipzig: 93 works",
-    "cantata (voices), Weimar: 5 works",
-    "cantata (voices), any period: 4 works",
+    "cantata (voices), Köthen: 22 works, 21 labelled",
+    "cantata (voices), Leipzig: 93 works, 92 labelled",
+    "cantata (voices), Weimar: 5 works, 5 labelled",
+    "cantata (voices), any period: 4 works, 4 labelled",
     "chorale (keyboard), Leipzig: 3 works",
-    "chorale (voices), Köthen: 24 works",
-    "chorale (voices), Leipzig: 312 works",
-    "chorale (voices), Weimar: 5 works",
-    "chorale (voices), any period: 5 works",
+    "chorale (voices), Köthen: 24 works, 23 labelled",
+    "chorale (voices), Leipzig: 312 works, 307 labelled",
+    "chorale (voices), Weimar: 5 works, 5 labelled",
+    "chorale (voices), any period: 5 works, 5 labelled",
     "chorale prelude (organ), Leipzig: 4 works",
     "chorale prelude (organ), any period: 4 works",
     "concerto (keyboard), Leipzig: 3 works",
     "concerto (orchestra), Köthen: 6 works",
     "concerto (orchestra), Weimar: 18 works",
-    "courante (keyboard), Köthen: 13 works",
+    "courante (keyboard), Köthen: 13 works, 13 labelled",
     "courante (keyboard), Leipzig: 4 works",
-    "courante (solo instrument), Köthen: 3 works",
-    "courante (solo instrument), Weimar: 6 works",
-    "dance (keyboard), Köthen: 75 works",
+    "courante (solo instrument), Köthen: 3 works, 3 labelled",
+    "courante (solo instrument), Weimar: 6 works, 6 labelled",
+    "dance (keyboard), Köthen: 75 works, 75 labelled",
     "dance (keyboard), Leipzig: 21 works",
-    "dance (solo instrument), Köthen: 17 works",
-    "dance (solo instrument), Weimar: 36 works",
+    "dance (solo instrument), Köthen: 17 works, 13 labelled",
+    "dance (solo instrument), Weimar: 36 works, 36 labelled",
     "duet (keyboard), Leipzig: 3 works",
     "fugue (keyboard), Köthen: 24 works",
-    "fugue (keyboard), Leipzig: 25 works",
+    "fugue (keyboard), Leipzig: 25 works, 3 labelled",
     "fugue (keyboard), any period: 4 works",
     "fugue (open score), Leipzig: 20 works",
-    "fugue (solo instrument), Köthen: 3 works",
-    "gavotte (keyboard), Köthen: 8 works",
-    "gavotte (solo instrument), Weimar: 4 works",
-    "gigue (keyboard), Köthen: 12 works",
+    "fugue (solo instrument), Köthen: 3 works, 3 labelled",
+    "gavotte (keyboard), Köthen: 8 works, 8 labelled",
+    "gavotte (solo instrument), Weimar: 4 works, 4 labelled",
+    "gigue (keyboard), Köthen: 12 works, 12 labelled",
     "gigue (keyboard), Leipzig: 4 works",
-    "gigue (solo instrument), Weimar: 6 works",
-    "invention (keyboard), Köthen: 31 works",
-    "minuet (keyboard), Köthen: 8 works",
-    "minuet (solo instrument), Weimar: 4 works",
-    "oratorio (voices), Leipzig: 32 works",
-    "prelude (keyboard), Köthen: 33 works",
+    "gigue (solo instrument), Weimar: 6 works, 6 labelled",
+    "invention (keyboard), Köthen: 30 works",
+    "minuet (keyboard), Köthen: 8 works, 8 labelled",
+    "minuet (solo instrument), Weimar: 4 works, 4 labelled",
+    "oratorio (voices), Leipzig: 32 works, 30 labelled",
+    "prelude (keyboard), Köthen: 33 works, 28 labelled",
     "prelude (keyboard), Leipzig: 27 works",
     "prelude (keyboard), Weimar: 10 works",
     "prelude (keyboard), any period: 3 works",
-    "prelude (solo instrument), Weimar: 6 works",
-    "sarabande (keyboard), Köthen: 12 works",
+    "prelude (solo instrument), Weimar: 6 works, 6 labelled",
+    "sarabande (keyboard), Köthen: 12 works, 12 labelled",
     "sarabande (keyboard), Leipzig: 4 works",
     "sarabande (solo instrument), Köthen: 3 works",
-    "sarabande (solo instrument), Weimar: 6 works",
+    "sarabande (solo instrument), Weimar: 6 works, 6 labelled",
     "sonata (chamber), Weimar: 4 works",
     "sonata (organ), Leipzig: 3 works",
-    "sonata (solo instrument), Köthen: 9 works",
+    "sonata (solo instrument), Köthen: 9 works, 9 labelled",
     "song (keyboard), Leipzig: 5 works",
-    "suite (keyboard), Köthen: 87 works",
+    "suite (keyboard), Köthen: 87 works, 87 labelled",
     "suite (keyboard), Leipzig: 34 works",
     "suite (plucked), Leipzig: 5 works",
-    "suite (solo instrument), Köthen: 17 works",
-    "suite (solo instrument), Weimar: 42 works",
+    "suite (solo instrument), Köthen: 17 works, 17 labelled",
+    "suite (solo instrument), Weimar: 42 works, 42 labelled",
     "trio sonata (organ), Leipzig: 3 works",
-    "variations (keyboard), Köthen: 3 works",
+    "variations (keyboard), Köthen: 3 works, 3 labelled",
     "variations (keyboard), Leipzig: 31 works",
-    "variations (solo instrument), Köthen: 4 works"
+    "variations (solo instrument), Köthen: 4 works, 4 labelled"
    ]
   },
   "Johann Wenzel Kalliwoda": {
@@ -1512,7 +1512,7 @@
   "Johannes Brahms": {
    "file": "johannes-brahms.md",
    "units": [
-    "song (voice and keyboard), early: 49 works",
+    "song (voice and keyboard), early: 49 works, 8 labelled",
     "song (voice and keyboard), late: 4 works",
     "song (voice and keyboard), middle: 59 works",
     "string quartet (string quartet), middle: 13 works"
@@ -1603,7 +1603,7 @@
   "Josephine Lang": {
    "file": "josephine-lang.md",
    "units": [
-    "song (voice and keyboard), all: 52 works"
+    "song (voice and keyboard), all: 52 works, 6 labelled"
    ]
   },
   "Josquin Des Prez": {
@@ -1825,8 +1825,8 @@
   "Leopold Koželuch": {
    "file": "leopold-kozeluch.md",
    "units": [
-    "rondo (keyboard), all: 11 works",
-    "sonata (keyboard), all: 49 works"
+    "rondo (keyboard), all: 11 works, 11 labelled",
+    "sonata (keyboard), all: 49 works, 49 labelled"
    ]
   },
   "Leopold Pych": {
@@ -1870,7 +1870,7 @@
   "Louise Reichardt": {
    "file": "louise-reichardt.md",
    "units": [
-    "song (voice and keyboard), all: 41 works"
+    "song (voice and keyboard), all: 41 works, 28 labelled"
    ]
   },
   "Loyset Compère": {
@@ -1911,23 +1911,23 @@
    "file": "ludwig-van-beethoven.md",
    "units": [
     "concerto (orchestra), middle: 3 works",
-    "dance (keyboard), early: 7 works",
-    "fantasia (keyboard), early: 7 works",
-    "minuet (keyboard), early: 6 works",
+    "dance (keyboard), early: 7 works, 6 labelled",
+    "fantasia (keyboard), early: 7 works, 3 labelled",
+    "minuet (keyboard), early: 6 works, 5 labelled",
     "overture (orchestra), middle: 3 works",
-    "rondo (keyboard), early: 9 works",
-    "scherzo (keyboard), early: 6 works",
-    "scherzo (string quartet), early: 4 works",
+    "rondo (keyboard), early: 9 works, 7 labelled",
+    "scherzo (keyboard), early: 6 works, 4 labelled",
+    "scherzo (string quartet), early: 4 works, 4 labelled",
     "sextet (chamber), early: 3 works",
-    "sonata (keyboard), early: 68 works",
-    "sonata (keyboard), late: 12 works",
-    "sonata (keyboard), middle: 15 works",
+    "sonata (keyboard), early: 68 works, 54 labelled",
+    "sonata (keyboard), late: 12 works, 8 labelled",
+    "sonata (keyboard), middle: 15 works, 11 labelled",
     "song (voice and keyboard), early: 14 works",
-    "string quartet (string quartet), early: 24 works",
-    "string quartet (string quartet), late: 27 works",
-    "string quartet (string quartet), middle: 20 works",
+    "string quartet (string quartet), early: 24 works, 24 labelled",
+    "string quartet (string quartet), late: 27 works, 26 labelled",
+    "string quartet (string quartet), middle: 20 works, 20 labelled",
     "symphony (orchestra), middle: 3 works",
-    "variations (keyboard), any period: 13 works"
+    "variations (keyboard), any period: 13 works, 7 labelled"
    ]
   },
   "Ludwik Maader": {
@@ -2047,7 +2047,7 @@
   "Maurice Ravel": {
    "file": "maurice-ravel.md",
    "units": [
-    "character piece (keyboard), all: 5 works",
+    "character piece (keyboard), all: 5 works, 3 labelled",
     "string quartet (string quartet), all: 4 works"
    ]
   },
@@ -2204,7 +2204,7 @@
   "Piotr Ilyich Tchaikovsky": {
    "file": "piotr-ilyich-tchaikovsky.md",
    "units": [
-    "character piece (keyboard), all: 12 works",
+    "character piece (keyboard), all: 12 works, 12 labelled",
     "concerto (orchestra), all: 3 works",
     "string quartet (string quartet), all: 5 works"
    ]
@@ -2261,9 +2261,9 @@
   "Robert Schumann": {
    "file": "robert-schumann.md",
    "units": [
-    "character piece (keyboard), piano years: 13 works",
+    "character piece (keyboard), piano years: 13 works, 13 labelled",
     "song, any period: 3 works",
-    "song (voice and keyboard), 1840 to 1849: 62 works",
+    "song (voice and keyboard), 1840 to 1849: 62 works, 31 labelled",
     "song (voice and keyboard), late: 10 works",
     "string quartet (string quartet), 1840 to 1849: 12 works"
    ]
@@ -2292,7 +2292,7 @@
   "Samuel Coleridge-Taylor": {
    "file": "samuel-coleridge-taylor.md",
    "units": [
-    "song (voice and keyboard), all: 8 works"
+    "song (voice and keyboard), all: 8 works, 7 labelled"
    ]
   },
   "Scott Joplin": {
@@ -2308,7 +2308,7 @@
    "file": "sergei-rachmaninoff.md",
    "units": [
     "prelude (keyboard), Russia: 8 works",
-    "variations (keyboard), exile: 22 works"
+    "variations (keyboard), exile: 22 works, 22 labelled"
    ]
   },
   "Stanisław Kazuro": {
@@ -2488,7 +2488,7 @@
   "Wilhelm Friedemann Bach": {
    "file": "wilhelm-friedemann-bach.md",
    "units": [
-    "sonata (keyboard), all: 9 works"
+    "sonata (keyboard), all: 9 works, 9 labelled"
    ]
   },
   "Wilhelm Stenhammar": {
@@ -2560,18 +2560,18 @@
     "minuet (string quartet), Vienna: 9 works",
     "minuet (string quartet), youth: 4 works",
     "quintet (chamber), Vienna: 4 works",
-    "rondo (keyboard), Salzburg: 4 works",
+    "rondo (keyboard), Salzburg: 4 works, 4 labelled",
     "rondo (string quartet), Salzburg: 4 works",
     "sonata (chamber), Vienna: 3 works",
-    "sonata (keyboard), Salzburg: 27 works",
-    "sonata (keyboard), Vienna: 27 works",
+    "sonata (keyboard), Salzburg: 27 works, 27 labelled",
+    "sonata (keyboard), Vienna: 27 works, 27 labelled",
     "song (voice and keyboard), Vienna: 5 works",
     "string quartet (string quartet), Salzburg: 31 works",
     "string quartet (string quartet), Vienna: 47 works",
     "string quartet (string quartet), youth: 18 works",
     "symphony (orchestra), youth: 4 works",
     "trio (chamber), Vienna: 3 works",
-    "variations (keyboard), Vienna: 5 works"
+    "variations (keyboard), Vienna: 5 works, 5 labelled"
    ]
   },
   "Władysław Leszczyński": {

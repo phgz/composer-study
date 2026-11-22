@@ -1,10 +1,10 @@
 # Virginia Gabriel
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Virginia Gabriel: song (voice and keyboard), all
 
-4 works; set against 1095 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+4 works; set against 1084 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

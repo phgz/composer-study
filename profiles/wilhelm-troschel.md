@@ -1,10 +1,10 @@
 # Wilhelm Troschel
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Wilhelm Troschel: dance, all
 
-5 works; set against 430 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 430 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 26%, against 18% (77 in 100)
@@ -21,7 +21,7 @@
 
 ### Wilhelm Troschel: mass, all
 
-5 works; set against 547 works by 37 composers: other composers' mass of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 547 works by 37 composers: other composers' masses of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.39, against 2.98 (15 in 100)

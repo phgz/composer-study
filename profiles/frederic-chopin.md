@@ -1,10 +1,10 @@
 # Frédéric Chopin
 
-29 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+29 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Frédéric Chopin: ballade (keyboard), Paris
 
-4 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few ballade).
+4 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few ballades).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Frédéric Chopin: concerto (keyboard), Warsaw
 
-6 works; set against 37 works by 10 composers: other composers' concerto of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 37 works by 10 composers: other composers' concertos of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.98, against 2.59 (86 in 100)
@@ -28,7 +28,7 @@
 
 ### Frédéric Chopin: dance (keyboard), Paris
 
-47 works; set against 347 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+47 works; set against 347 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -42,9 +42,25 @@
 
 **All measures:** moves by step 56%; repeated notes 12%; leaps of a fourth or more 18%; mean move (semitones) 3.27; moves that rise 47%; leaps answered by a step back 35%; range of the melody (semitones) 20.5; register of the melody C#5; even rhythm (a note as long as the one before) 46%; dotted figures (3:1) 14%; rhythmic variety (bits) 2.47; the ear's surprise, pitch (bits a note) 1.94; the ear's surprise, rhythm (bits a note) 1.22; notes a quarter (texture) 4.59; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 29 of its works (29 DCML's); set against 58 works by 5 composers: other composers' labelled works for keyboard of the Romantic period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords over a bass not their root: 19%, against 37% (16 in 100)
+- cadences a 10 bars (DCML): 0.77, against 1.70 (17 in 100)
+- changes of key a 10 bars: 0.31, against 1.05 (20 in 100)
+- melody notes outside the chord: 31%, against 22% (77 in 100)
+- its progressions, against 58 of those works, labelled by DCML too:
+  - V7/V – V7 – I: 9.6 in 1,000, against 1.0, in 11 works. At: Mazurka, BI140 (DCML), bar 19; Mazurkas, Op. posth. 67, movement 1 (DCML), bar 13; Mazurkas, Op. 41, movement 3 (DCML), bar 7
+  - V7 – I – V7: 20.0 in 1,000, against 7.3, in 21 works. At: Mazurkas, Op. 33, movement 2 (DCML), bar 2; Mazurka, BI85 (DCML), bar 10; Mazurkas, Op. 24, movement 1 (DCML), bar 17
+  - V7 – I – IV: 10.0 in 1,000, against 1.9, in 12 works. At: Mazurkas, Op. 41, movement 4 (DCML), bar 15; Mazurkas, Op. 41, movement 3 (DCML), bar 8; Mazurkas, Op. posth. 67, movement 1 (DCML), bar 14
+  - I – V7 – I: 20.7 in 1,000, against 9.2, in 22 works. At: Mazurkas, Op. 33, movement 2 (DCML), bar 1; Mazurkas, Op. 41, movement 2 (DCML), bar 17; Mazurkas, Op. 17, movement 1 (DCML), bar 2
+  - V – V7/V – V7: 3.8 in 1,000, against 0.3, in 5 works. At: Mazurkas, Op. 50, movement 2 (DCML), bar 27; Mazurkas, Op. 17, movement 1 (DCML), bar 12; Mazurkas, Op. 33, movement 2 (DCML), bar 54
+  - i – V7 – i: 11.1 in 1,000, against 4.4, in 12 works. At: Mazurkas, Op. 30, movement 4 (DCML), bar 5; Mazurkas, Op. 33, movement 4 (DCML), bar 2; Mazurkas, Op. 17, movement 2 (DCML), bar 8
+
+*All its harmony:* chords a bar 1.74; chords on I or V 58%; seventh chords 42%; diminished sevenths 4%; applied chords (V/V and the like) 22%; augmented sixths 1%; Neapolitan chords 1%; chords from the other mode 2%; chords over a bass not their root 19%; changes of key a 10 bars 0.31; chords away from the home key 30%; cadences a 10 bars (DCML) 0.77; of its cadences, perfect 58%; of its cadences, half 16%; of its cadences, deceptive or evaded 2%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 24%; melody notes outside the chord 31%; of those, struck with the chord (appoggiaturas) 33%; of those, resolved by a step 74%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Frédéric Chopin: dance (keyboard), Warsaw
 
-24 works; set against 347 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+24 works; set against 347 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 21%, against 10% (80 in 100)
@@ -60,9 +76,23 @@
 
 **All measures:** moves by step 50%; repeated notes 9%; leaps of a fourth or more 23%; mean move (semitones) 3.63; moves that rise 49%; leaps answered by a step back 33%; range of the melody (semitones) 21.4; register of the melody Eb5; even rhythm (a note as long as the one before) 45%; dotted figures (3:1) 21%; rhythmic variety (bits) 2.28; the ear's surprise, pitch (bits a note) 1.78; the ear's surprise, rhythm (bits a note) 1.13; notes a quarter (texture) 4.93; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 14 of its works (14 DCML's); set against 58 works by 5 composers: other composers' labelled works for keyboard of the Romantic period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- of its cadences, perfect: 66%, against 33% (86 in 100)
+- chords over a bass not their root: 21%, against 37% (21 in 100)
+- changes of key a 10 bars: 0.37, against 1.05 (22 in 100)
+- its progressions, against 58 of those works, labelled by DCML too:
+  - I – IV – I: 20.1 in 1,000, against 2.0, in 6 works. At: Mazurkas, Op. posth. 68, movement 3 (DCML), bar 6; Mazurkas, Op. 7, movement 1 (DCML), bar 2; Mazurkas, Op. 7, movement 3 (DCML), bar 42
+  - IV – I – IV: 8.8 in 1,000, against 0.4, in 4 works. At: Mazurkas, Op. posth. 68, movement 3 (DCML), bar 5; Mazurkas, Op. 7, movement 3 (DCML), bar 43; Mazurkas, Op. 7, movement 4 (DCML), bar 33
+  - I – V7/V – V: 8.8 in 1,000, against 0.4, in 3 works. At: Mazurkas, Op. 6, movement 3 (DCML), bar 14; Mazurkas, Op. 7, movement 3 (DCML), bar 46; Mazurkas, Op. posth. 68, movement 1 (DCML), bar 20
+  - V7 – I64 – V7: 10.0 in 1,000, against 1.2, in 3 works. At: Mazurkas, Op. 7, movement 5 (DCML), bar 1; Mazurkas, BI16-1, movement 1 (DCML), bar 2; Mazurkas, BI16-2, movement 2 (DCML), bar 2
+  - IV6 – I64 – V7: 6.3 in 1,000, against 0.1, in 2 works. At: Mazurkas, Op. 7, movement 4 (DCML), bar 3; Mazurkas, BI16-1, movement 1 (DCML), bar 26
+
+*All its harmony:* chords a bar 1.85; chords on I or V 65%; seventh chords 36%; diminished sevenths 3%; applied chords (V/V and the like) 18%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 3%; chords over a bass not their root 21%; changes of key a 10 bars 0.37; chords away from the home key 19%; cadences a 10 bars (DCML) 1.23; of its cadences, perfect 66%; of its cadences, half 18%; of its cadences, deceptive or evaded 0%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 19%; melody notes outside the chord 25%; of those, struck with the chord (appoggiaturas) 28%; of those, resolved by a step 80%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Frédéric Chopin: dance (keyboard), late
 
-16 works; set against 347 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+16 works; set against 347 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -76,9 +106,23 @@
 
 **All measures:** moves by step 58%; repeated notes 7%; leaps of a fourth or more 20%; mean move (semitones) 3.12; moves that rise 48%; leaps answered by a step back 39%; range of the melody (semitones) 18.3; register of the melody C5; even rhythm (a note as long as the one before) 59%; dotted figures (3:1) 12%; rhythmic variety (bits) 2.09; the ear's surprise, pitch (bits a note) 2.20; the ear's surprise, rhythm (bits a note) 1.13; notes a quarter (texture) 3.65; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 12 of its works (12 DCML's); set against 58 works by 5 composers: other composers' labelled works for keyboard of the Romantic period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- cadences a 10 bars (DCML): 0.57, against 1.70 (10 in 100)
+- of its cadences, perfect: 76%, against 33% (86 in 100)
+- applied chords (V/V and the like): 30%, against 15% (85 in 100)
+- melody notes outside the chord: 33%, against 22% (83 in 100)
+- changes of key a 10 bars: 0.30, against 1.05 (19 in 100)
+- of its cadences, half: 12%, against 34% (21 in 100)
+- its progressions, against 58 of those works, labelled by DCML too:
+  - V7/V – V7 – I: 7.8 in 1,000, against 1.0, in 7 works. At: Mazurkas, Op. 63, movement 1 (DCML), bar 7; Mazurkas, Op. 56, movement 1 (DCML), bar 117; Mazurkas, Op. 59, movement 2 (DCML), bar 7
+  - V7/V – V – V7/V: 5.8 in 1,000, against 0.0, in 4 works. At: Mazurkas, Op. 56, movement 1 (DCML), bar 110; Mazurkas, Op. 63, movement 1 (DCML), bar 61; Mazurkas, Op. 59, movement 3 (DCML), bar 52
+
+*All its harmony:* chords a bar 1.81; chords on I or V 51%; seventh chords 45%; diminished sevenths 3%; applied chords (V/V and the like) 30%; augmented sixths 3%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 26%; changes of key a 10 bars 0.30; chords away from the home key 22%; cadences a 10 bars (DCML) 0.57; of its cadences, perfect 76%; of its cadences, half 12%; of its cadences, deceptive or evaded 1%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 22%; melody notes outside the chord 33%; of those, struck with the chord (appoggiaturas) 26%; of those, resolved by a step 65%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Frédéric Chopin: ecossaise (keyboard), Warsaw
 
-3 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few ecossaise).
+3 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few ecossaises).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -89,7 +133,7 @@
 
 ### Frédéric Chopin: etude (keyboard), Paris
 
-16 works; set against 202 works by 17 composers: other composers' etude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+16 works; set against 202 works by 17 composers: other composers' etudes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -105,7 +149,7 @@
 
 ### Frédéric Chopin: etude (keyboard), Warsaw
 
-8 works; set against 202 works by 17 composers: other composers' etude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 202 works by 17 composers: other composers' etudes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 1.83, against 2.54 (19 in 100)
@@ -122,7 +166,7 @@
 
 ### Frédéric Chopin: impromptu (keyboard), Paris
 
-4 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few impromptu).
+4 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few impromptus).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -133,7 +177,7 @@
 
 ### Frédéric Chopin: mazurka (keyboard), Paris
 
-30 works; set against 81 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+30 works; set against 81 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -147,9 +191,25 @@
 
 **All measures:** moves by step 59%; repeated notes 8%; leaps of a fourth or more 16%; mean move (semitones) 3.01; moves that rise 47%; leaps answered by a step back 40%; range of the melody (semitones) 17.1; register of the melody C5; even rhythm (a note as long as the one before) 41%; dotted figures (3:1) 17%; rhythmic variety (bits) 2.57; the ear's surprise, pitch (bits a note) 1.91; the ear's surprise, rhythm (bits a note) 1.28; notes a quarter (texture) 3.83; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 29 of its works (29 DCML's); set against 58 works by 5 composers: other composers' labelled works for keyboard of the Romantic period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords over a bass not their root: 19%, against 37% (16 in 100)
+- cadences a 10 bars (DCML): 0.77, against 1.70 (17 in 100)
+- changes of key a 10 bars: 0.31, against 1.05 (20 in 100)
+- melody notes outside the chord: 31%, against 22% (77 in 100)
+- its progressions, against 58 of those works, labelled by DCML too:
+  - V7/V – V7 – I: 9.6 in 1,000, against 1.0, in 11 works. At: Mazurka, BI140 (DCML), bar 19; Mazurkas, Op. posth. 67, movement 1 (DCML), bar 13; Mazurkas, Op. 41, movement 3 (DCML), bar 7
+  - V7 – I – V7: 20.0 in 1,000, against 7.3, in 21 works. At: Mazurkas, Op. 33, movement 2 (DCML), bar 2; Mazurka, BI85 (DCML), bar 10; Mazurkas, Op. 24, movement 1 (DCML), bar 17
+  - V7 – I – IV: 10.0 in 1,000, against 1.9, in 12 works. At: Mazurkas, Op. 41, movement 4 (DCML), bar 15; Mazurkas, Op. 41, movement 3 (DCML), bar 8; Mazurkas, Op. posth. 67, movement 1 (DCML), bar 14
+  - I – V7 – I: 20.7 in 1,000, against 9.2, in 22 works. At: Mazurkas, Op. 33, movement 2 (DCML), bar 1; Mazurkas, Op. 41, movement 2 (DCML), bar 17; Mazurkas, Op. 17, movement 1 (DCML), bar 2
+  - V – V7/V – V7: 3.8 in 1,000, against 0.3, in 5 works. At: Mazurkas, Op. 50, movement 2 (DCML), bar 27; Mazurkas, Op. 17, movement 1 (DCML), bar 12; Mazurkas, Op. 33, movement 2 (DCML), bar 54
+  - i – V7 – i: 11.1 in 1,000, against 4.4, in 12 works. At: Mazurkas, Op. 30, movement 4 (DCML), bar 5; Mazurkas, Op. 33, movement 4 (DCML), bar 2; Mazurkas, Op. 17, movement 2 (DCML), bar 8
+
+*All its harmony:* chords a bar 1.74; chords on I or V 58%; seventh chords 42%; diminished sevenths 4%; applied chords (V/V and the like) 22%; augmented sixths 1%; Neapolitan chords 1%; chords from the other mode 2%; chords over a bass not their root 19%; changes of key a 10 bars 0.31; chords away from the home key 30%; cadences a 10 bars (DCML) 0.77; of its cadences, perfect 58%; of its cadences, half 16%; of its cadences, deceptive or evaded 2%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 24%; melody notes outside the chord 31%; of those, struck with the chord (appoggiaturas) 33%; of those, resolved by a step 74%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Frédéric Chopin: mazurka (keyboard), Warsaw
 
-14 works; set against 81 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+14 works; set against 81 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -163,9 +223,23 @@
 
 **All measures:** moves by step 51%; repeated notes 9%; leaps of a fourth or more 19%; mean move (semitones) 3.25; moves that rise 51%; leaps answered by a step back 33%; range of the melody (semitones) 18.6; register of the melody C#5; even rhythm (a note as long as the one before) 38%; dotted figures (3:1) 23%; rhythmic variety (bits) 2.53; the ear's surprise, pitch (bits a note) 1.75; the ear's surprise, rhythm (bits a note) 1.21; notes a quarter (texture) 3.99; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 14 of its works (14 DCML's); set against 58 works by 5 composers: other composers' labelled works for keyboard of the Romantic period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- of its cadences, perfect: 66%, against 33% (86 in 100)
+- chords over a bass not their root: 21%, against 37% (21 in 100)
+- changes of key a 10 bars: 0.37, against 1.05 (22 in 100)
+- its progressions, against 58 of those works, labelled by DCML too:
+  - I – IV – I: 20.1 in 1,000, against 2.0, in 6 works. At: Mazurkas, Op. posth. 68, movement 3 (DCML), bar 6; Mazurkas, Op. 7, movement 1 (DCML), bar 2; Mazurkas, Op. 7, movement 3 (DCML), bar 42
+  - IV – I – IV: 8.8 in 1,000, against 0.4, in 4 works. At: Mazurkas, Op. posth. 68, movement 3 (DCML), bar 5; Mazurkas, Op. 7, movement 3 (DCML), bar 43; Mazurkas, Op. 7, movement 4 (DCML), bar 33
+  - I – V7/V – V: 8.8 in 1,000, against 0.4, in 3 works. At: Mazurkas, Op. 6, movement 3 (DCML), bar 14; Mazurkas, Op. 7, movement 3 (DCML), bar 46; Mazurkas, Op. posth. 68, movement 1 (DCML), bar 20
+  - V7 – I64 – V7: 10.0 in 1,000, against 1.2, in 3 works. At: Mazurkas, Op. 7, movement 5 (DCML), bar 1; Mazurkas, BI16-1, movement 1 (DCML), bar 2; Mazurkas, BI16-2, movement 2 (DCML), bar 2
+  - IV6 – I64 – V7: 6.3 in 1,000, against 0.1, in 2 works. At: Mazurkas, Op. 7, movement 4 (DCML), bar 3; Mazurkas, BI16-1, movement 1 (DCML), bar 26
+
+*All its harmony:* chords a bar 1.85; chords on I or V 65%; seventh chords 36%; diminished sevenths 3%; applied chords (V/V and the like) 18%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 3%; chords over a bass not their root 21%; changes of key a 10 bars 0.37; chords away from the home key 19%; cadences a 10 bars (DCML) 1.23; of its cadences, perfect 66%; of its cadences, half 18%; of its cadences, deceptive or evaded 0%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 19%; melody notes outside the chord 25%; of those, struck with the chord (appoggiaturas) 28%; of those, resolved by a step 80%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Frédéric Chopin: mazurka (keyboard), late
 
-12 works; set against 81 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+12 works; set against 81 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - even rhythm (a note as long as the one before): 54%, against 39% (81 in 100)
@@ -181,27 +255,41 @@
 
 **All measures:** moves by step 59%; repeated notes 7%; leaps of a fourth or more 20%; mean move (semitones) 3.10; moves that rise 48%; leaps answered by a step back 42%; range of the melody (semitones) 16.6; register of the melody B4; even rhythm (a note as long as the one before) 54%; dotted figures (3:1) 14%; rhythmic variety (bits) 2.28; the ear's surprise, pitch (bits a note) 2.20; the ear's surprise, rhythm (bits a note) 1.21; notes a quarter (texture) 3.51; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 12 of its works (12 DCML's); set against 58 works by 5 composers: other composers' labelled works for keyboard of the Romantic period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- cadences a 10 bars (DCML): 0.57, against 1.70 (10 in 100)
+- of its cadences, perfect: 76%, against 33% (86 in 100)
+- applied chords (V/V and the like): 30%, against 15% (85 in 100)
+- melody notes outside the chord: 33%, against 22% (83 in 100)
+- changes of key a 10 bars: 0.30, against 1.05 (19 in 100)
+- of its cadences, half: 12%, against 34% (21 in 100)
+- its progressions, against 58 of those works, labelled by DCML too:
+  - V7/V – V7 – I: 7.8 in 1,000, against 1.0, in 7 works. At: Mazurkas, Op. 63, movement 1 (DCML), bar 7; Mazurkas, Op. 56, movement 1 (DCML), bar 117; Mazurkas, Op. 59, movement 2 (DCML), bar 7
+  - V7/V – V – V7/V: 5.8 in 1,000, against 0.0, in 4 works. At: Mazurkas, Op. 56, movement 1 (DCML), bar 110; Mazurkas, Op. 63, movement 1 (DCML), bar 61; Mazurkas, Op. 59, movement 3 (DCML), bar 52
+
+*All its harmony:* chords a bar 1.81; chords on I or V 51%; seventh chords 45%; diminished sevenths 3%; applied chords (V/V and the like) 30%; augmented sixths 3%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 26%; changes of key a 10 bars 0.30; chords away from the home key 22%; cadences a 10 bars (DCML) 0.57; of its cadences, perfect 76%; of its cadences, half 12%; of its cadences, deceptive or evaded 1%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 22%; melody notes outside the chord 33%; of those, struck with the chord (appoggiaturas) 26%; of those, resolved by a step 65%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Frédéric Chopin: nocturne (keyboard), Paris
 
-9 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few nocturne).
+8 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few nocturnes).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
-- the ear's surprise, rhythm (bits a note): 1.78, against 1.16 (83 in 100)
-- rhythmic variety (bits): 2.55, against 1.96 (79 in 100)
+- the ear's surprise, rhythm (bits a note): 1.74, against 1.16 (81 in 100)
+- rhythmic variety (bits): 2.53, against 1.96 (78 in 100)
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
-- down a half step, down a step, down a fourth (much longer, much shorter, much longer): 1.8 in 1,000 figures, against 0.2, in 3 works. At: Nocturne II, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 36 (C5 B4 A4 E4); Nocturne 1, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 14 (Eb5 D5 C5 G4); 1e. Nocturne, Op. 32 (M. Schlesinger, Paris; first edition, kern), bar 5 (F#5 F5 Eb5 Bb4)
-- up a half step, down a half step, same (much shorter, as long, much longer): 1.6 in 1,000 figures, against 0.1, in 3 works. At: [Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern), bar 14 (C5 C#5 C5 C5); Nocturne 1, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 10 (D5 Eb5 D5 D5); 14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 41 (C#5 D5 C#5 C#5)
-- down a half step, down a half step, up a half step (as long, much longer, much shorter): 1.3 in 1,000 figures, against 0.1, in 2 works. At: 14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 8 (D5 C#5 C5 C#5); Nocturne No. 3 (Opus 9, No. 3) (Mutopia), bar 10 (D5 C#5 C5 C#5)
-- up a step, down a step, down a half step (shorter, as long, as long): 1.3 in 1,000 figures, against 0.1, in 3 works. At: 1e. Nocturne, Op. 32 (M. Schlesinger, Paris; first edition, kern), bar 7 (B4 C#5 B4 Bb4); [Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern), bar 9 (C#5 Eb5 C#5 C5); Nocturne II, Op. 27 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 21 (A4 B4 A4 Ab4)
-- up a step, up a half step, down 8 (as long, as long, as long): 1.6 in 1,000 figures, against 0.2, in 3 works. At: Nocturne II, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 3 (A4 B4 C5 E4); 13e Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 20 (C5 D5 Eb5 G4); Nocturne No. 3 (Opus 9, No. 3) (Mutopia), bar 27 (C#5 Eb5 E5 Ab4)
-- down a half step, down a step, down a half step (as long, much longer, much shorter): 1.3 in 1,000 figures, against 0.0, in 2 works. At: 14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 5 (F5 E5 D5 C#5); [Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern), bar 12 (C#5 C5 Bb4 A4)
+- down a half step, down a step, down a fourth (much longer, much shorter, much longer): 2.2 in 1,000 figures, against 0.2, in 3 works. At: Nocturne II, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 36 (C5 B4 A4 E4); Nocturne 1, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 14 (Eb5 D5 C5 G4); 1e. Nocturne, Op. 32 (M. Schlesinger, Paris; first edition, kern), bar 5 (F#5 F5 Eb5 Bb4)
+- up a half step, down a half step, same (much shorter, as long, much longer): 1.9 in 1,000 figures, against 0.1, in 3 works. At: [Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern), bar 14 (C5 C#5 C5 C5); Nocturne 1, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 10 (D5 Eb5 D5 D5); 14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 41 (C#5 D5 C#5 C#5)
+- up a step, down a step, down a half step (shorter, as long, as long): 1.6 in 1,000 figures, against 0.1, in 3 works. At: 1e. Nocturne, Op. 32 (M. Schlesinger, Paris; first edition, kern), bar 7 (B4 C#5 B4 Bb4); [Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern), bar 9 (C#5 Eb5 C#5 C5); Nocturne II, Op. 27 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 21 (A4 B4 A4 Ab4)
+- down a half step, down a step, down a half step (as long, much longer, much shorter): 1.6 in 1,000 figures, against 0.0, in 2 works. At: 14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 5 (F5 E5 D5 C#5); [Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern), bar 12 (C#5 C5 Bb4 A4)
+- up a step, up a half step, down 8 (as long, as long, as long): 1.6 in 1,000 figures, against 0.2, in 2 works. At: Nocturne II, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 3 (A4 B4 C5 E4); 13e Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 20 (C5 D5 Eb5 G4)
+- same, up a step, down a step (as long, much shorter, as long): 1.3 in 1,000 figures, against 0.1, in 2 works. At: [Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern), bar 17 (C#5 C#5 Eb5 C#5); 13e Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern), bar 65 (Eb5 Eb5 F5 Eb5)
 
-**All measures:** moves by step 56%; repeated notes 15%; leaps of a fourth or more 18%; mean move (semitones) 3.11; moves that rise 48%; leaps answered by a step back 32%; range of the melody (semitones) 20.4; register of the melody C#5; even rhythm (a note as long as the one before) 48%; dotted figures (3:1) 8%; rhythmic variety (bits) 2.55; the ear's surprise, pitch (bits a note) 2.42; the ear's surprise, rhythm (bits a note) 1.78; notes a quarter (texture) 5.63; lines (texture) 2.0
+**All measures:** moves by step 55%; repeated notes 15%; leaps of a fourth or more 18%; mean move (semitones) 3.14; moves that rise 48%; leaps answered by a step back 33%; range of the melody (semitones) 20.6; register of the melody C#5; even rhythm (a note as long as the one before) 48%; dotted figures (3:1) 8%; rhythmic variety (bits) 2.53; the ear's surprise, pitch (bits a note) 2.40; the ear's surprise, rhythm (bits a note) 1.74; notes a quarter (texture) 5.77; lines (texture) 2.0
 
 ### Frédéric Chopin: nocturne (keyboard), Warsaw
 
-7 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few nocturne).
+7 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few nocturnes).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.80, against 1.16 (88 in 100)
@@ -219,7 +307,7 @@
 
 ### Frédéric Chopin: nocturne (keyboard), late
 
-4 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few nocturne).
+4 works; set against 104 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few nocturnes).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -230,7 +318,7 @@
 
 ### Frédéric Chopin: polonaise (keyboard), Paris
 
-6 works; set against 54 works by 18 composers: other composers' polonaise of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 54 works by 18 composers: other composers' polonaises of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 22%, against 11% (77 in 100)
@@ -247,7 +335,7 @@
 
 ### Frédéric Chopin: prelude (keyboard), Paris
 
-25 works; set against 138 works by 12 composers: other composers' prelude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+25 works; set against 138 works by 12 composers: other composers' preludes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -263,7 +351,7 @@
 
 ### Frédéric Chopin: rondo (keyboard), Warsaw
 
-4 works; set against 107 works by 42 composers: other composers' rondo, of any period and forces (range, register and density not compared).
+4 works; set against 107 works by 42 composers: other composers' rondos, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -274,7 +362,7 @@
 
 ### Frédéric Chopin: scherzo (keyboard), Paris
 
-5 works; set against 38 works by 22 composers: other composers' scherzo of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 38 works by 22 composers: other composers' scherzos of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 5.07, against 3.62 (86 in 100)
@@ -291,7 +379,7 @@
 
 ### Frédéric Chopin: sonata (chamber), late
 
-4 works; set against 28 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 28 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -302,7 +390,7 @@
 
 ### Frédéric Chopin: sonata (keyboard), Paris
 
-4 works; set against 28 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 28 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -313,7 +401,7 @@
 
 ### Frédéric Chopin: sonata (keyboard), Warsaw
 
-4 works; set against 28 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 28 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -324,7 +412,7 @@
 
 ### Frédéric Chopin: sonata (keyboard), late
 
-4 works; set against 28 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 28 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -335,7 +423,7 @@
 
 ### Frédéric Chopin: song (voice and keyboard), Paris
 
-3 works; set against 1082 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+3 works; set against 1072 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -346,24 +434,23 @@
 
 ### Frédéric Chopin: song (voice and keyboard), Warsaw
 
-11 works; set against 1082 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+10 works; set against 1072 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
-**Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
-- register of the melody: G4, against Bb4 (24 in 100)
+**Where it stands apart:** nowhere that clearly.
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
-- down a step, same, down a step (as long, as long, much longer): 6.3 in 1,000 figures, against 0.3, in 4 works. At: Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 9 (F#4 E4 E4 D4); Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 19 (B4 A4 A4 G4); Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 38 (D5 C5 C5 Bb4)
-- up a half step, up a major third, down a step (as long, as long, much longer): 4.8 in 1,000 figures, against 0.1, in 3 works. At: Ce qu'aime une jeune fille in A major op. 74, no. 5 (Gebethner, Warsaw; first edition, kern), bar 4 (Eb4 E4 Ab4 F#4); Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 21 (F#4 G4 B4 A4); Wojak, op. 74 (Gebethner, Warsaw; first edition, kern), bar 27 (G4 Ab4 C5 Bb4)
-- up a step, down a step, down a step (as long, much shorter, as long): 4.0 in 1,000 figures, against 0.1, in 2 works. At: Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 11 (F#4 Ab4 F#4 E4); Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 9 (G4 A4 G4 F4)
-- down a step, up a step, up a step (as long, much longer, as long): 4.0 in 1,000 figures, against 0.1, in 2 works. At: Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 20 (E4 D4 E4 F#4); L'orgie in C major op. 74, no. 4 (Gebethner, Warsaw; first edition, kern), bar 10 (D4 C4 D4 E4)
-- same, down a step, same (as long, much longer, much shorter): 5.6 in 1,000 figures, against 0.4, in 4 works. At: Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 9 (E4 E4 D4 D4); Smutna rzeka, op. 74 (Gebethner, Warsaw; first edition, kern), bar 24 (Ab4 Ab4 F#4 F#4); Moja pieszczotka, op. 74 (Gebethner, Warsaw; first edition, kern), bar 70 (F5 F5 Eb5 Eb5)
-- up a step, down a step, same (as long, as long, as long): 4.0 in 1,000 figures, against 0.2, in 3 works. At: Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 19 (A4 B4 A4 A4); Moja pieszczotka, op. 74 (Gebethner, Warsaw; first edition, kern), bar 25 (Ab4 Bb4 Ab4 Ab4); Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 38 (C5 D5 C5 C5)
+- up a step, down a step, down a step (as long, much shorter, as long): 4.3 in 1,000 figures, against 0.1, in 2 works. At: Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 11 (F#4 Ab4 F#4 E4); Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 9 (G4 A4 G4 F4)
+- down a step, up a step, up a step (as long, much longer, as long): 4.3 in 1,000 figures, against 0.1, in 2 works. At: Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 20 (E4 D4 E4 F#4); L'orgie in C major op. 74, no. 4 (Gebethner, Warsaw; first edition, kern), bar 10 (D4 C4 D4 E4)
+- down a step, same, down a step (as long, as long, much longer): 4.3 in 1,000 figures, against 0.3, in 3 works. At: Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 19 (B4 A4 A4 G4); Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 38 (D5 C5 C5 Bb4); Precz z moich oczu, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 47 (G4 F4 F4 Eb4)
+- up a step, down a step, same (as long, as long, as long): 4.3 in 1,000 figures, against 0.3, in 3 works. At: Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 19 (A4 B4 A4 A4); Moja pieszczotka, op. 74 (Gebethner, Warsaw; first edition, kern), bar 25 (Ab4 Bb4 Ab4 Ab4); Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 38 (C5 D5 C5 C5)
+- same, down a step, down a step (much longer, much shorter, as long): 4.3 in 1,000 figures, against 0.4, in 2 works. At: L'orgie in C major op. 74, no. 4 (Gebethner, Warsaw; first edition, kern), bar 10 (E4 E4 D4 C4); Smutna rzeka, op. 74 (Gebethner, Warsaw; first edition, kern), bar 15 (C#5 C#5 B4 A4)
+- down a step, down a half step, same (much longer, much shorter, as long): 4.3 in 1,000 figures, against 0.6, in 3 works. At: Moja pieszczotka, op. 74 (Gebethner, Warsaw; first edition, kern), bar 14 (C#5 B4 Bb4 Bb4); Smutna rzeka, op. 74 (Gebethner, Warsaw; first edition, kern), bar 24 (B4 A4 Ab4 Ab4); Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern), bar 38 (C5 Bb4 A4 A4)
 
-**All measures:** moves by step 51%; repeated notes 21%; leaps of a fourth or more 14%; mean move (semitones) 2.87; moves that rise 46%; leaps answered by a step back 36%; range of the melody (semitones) 11.1; register of the melody G4; even rhythm (a note as long as the one before) 46%; dotted figures (3:1) 8%; rhythmic variety (bits) 2.17; the ear's surprise, pitch (bits a note) 2.08; the ear's surprise, rhythm (bits a note) 1.47; notes a quarter (texture) 4.65; lines (texture) 3.0
+**All measures:** moves by step 52%; repeated notes 20%; leaps of a fourth or more 14%; mean move (semitones) 2.83; moves that rise 47%; leaps answered by a step back 37%; range of the melody (semitones) 11.2; register of the melody G4; even rhythm (a note as long as the one before) 47%; dotted figures (3:1) 8%; rhythmic variety (bits) 2.16; the ear's surprise, pitch (bits a note) 2.15; the ear's surprise, rhythm (bits a note) 1.50; notes a quarter (texture) 4.79; lines (texture) 3.0
 
 ### Frédéric Chopin: song (voice and keyboard), late
 
-3 works; set against 1082 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+3 works; set against 1072 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -374,7 +461,7 @@
 
 ### Frédéric Chopin: trio (chamber), Warsaw
 
-3 works; set against 21 works by 4 composers: other composers' trio, of any period and forces (range, register and density not compared).
+3 works; set against 21 works by 4 composers: other composers' trios, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -385,7 +472,7 @@
 
 ### Frédéric Chopin: waltz (keyboard), Paris
 
-8 works; set against 62 works by 19 composers: other composers' waltz of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 62 works by 19 composers: other composers' waltzes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -401,7 +488,7 @@
 
 ### Frédéric Chopin: waltz (keyboard), late
 
-3 works; set against 62 works by 19 composers: other composers' waltz of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 62 works by 19 composers: other composers' waltzes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

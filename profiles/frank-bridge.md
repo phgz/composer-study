@@ -1,10 +1,10 @@
 # Frank Bridge
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Frank Bridge: song (voice and keyboard), all
 
-15 works; set against 294 works by 37 composers: other composers' song (voice and keyboard) of the 1890 to 1950 period.
+15 works; set against 294 works by 37 composers: other composers' songs (voice and keyboard) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - rhythmic variety (bits): 3.03, against 2.59 (79 in 100)
@@ -21,7 +21,7 @@
 
 ### Frank Bridge: string quartet (string quartet), all
 
-8 works; set against 110 works by 19 composers: other composers' string quartet (string quartet) of the 1890 to 1950 period.
+8 works; set against 110 works by 19 composers: other composers' string quartets (string quartet) of the 1890 to 1950 period.
 
 **Where it stands apart:** nowhere that clearly.
 

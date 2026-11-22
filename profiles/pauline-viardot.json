@@ -27,8 +27,8 @@
    {
     "measure": "rising",
     "value": 0.5434130392222024,
-    "others": 0.46834774442604293,
-    "auc": 0.8153029213679757
+    "others": 0.4696850481439647,
+    "auc": 0.8127384278041687
    }
   ],
   "figures": [
@@ -70,42 +70,6 @@
    },
    {
     "moves": [
-     0,
-     2,
-     1
-    ],
-    "rhythm": [
-     2,
-     -2,
-     0
-    ],
-    "z": 6.0,
-    "works": 7,
-    "per_1000": 3.3,
-    "others_per_1000": 0.5,
-    "at": [
-     {
-      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/2_Belle_Yoli,_VWV_1134/lc5988382.mxl",
-      "label": "Mélodies, VWV 1133-11371176, Belle Yoli, VWV 1134 (OpenScore)",
-      "bar": 8,
-      "notes": "F#4 F#4 Ab4 A4"
-     },
-     {
-      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/5_Madrid,_VWV_1136/lc5974308.mxl",
-      "label": "Mélodies, VWV 1133-11371176, Madrid, VWV 1136 (OpenScore)",
-      "bar": 7,
-      "notes": "D4 D4 E4 F4"
-     },
-     {
-      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies_et_une_havanaise/6b_Chanson_mélancolique/lc6641170.mxl",
-      "label": "Mélodies et une havanaise, 6b Chanson mélancolique (OpenScore)",
-      "bar": 6,
-      "notes": "D5 D5 E5 F5"
-     }
-    ]
-   },
-   {
-    "moves": [
      2,
      1,
      2
@@ -115,7 +79,7 @@
      0,
      0
     ],
-    "z": 6.0,
+    "z": 5.9,
     "works": 12,
     "per_1000": 6.0,
     "others_per_1000": 1.5,
@@ -137,6 +101,42 @@
       "label": "Mélodies, VWV 1133-11371176, Les filles de Cadix, VWV 1135 (OpenScore)",
       "bar": 74,
       "notes": "B3 C#4 D4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.9,
+    "works": 7,
+    "per_1000": 3.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/2_Belle_Yoli,_VWV_1134/lc5988382.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Belle Yoli, VWV 1134 (OpenScore)",
+      "bar": 8,
+      "notes": "F#4 F#4 Ab4 A4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/5_Madrid,_VWV_1136/lc5974308.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Madrid, VWV 1136 (OpenScore)",
+      "bar": 7,
+      "notes": "D4 D4 E4 F4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies_et_une_havanaise/6b_Chanson_mélancolique/lc6641170.mxl",
+      "label": "Mélodies et une havanaise, 6b Chanson mélancolique (OpenScore)",
+      "bar": 6,
+      "notes": "D5 D5 E5 F5"
      }
     ]
    },
@@ -251,7 +251,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1078,
+   "works": 1067,
    "composers": 97
   }
  }

@@ -247,6 +247,141 @@
    "by": "kind, forces, period",
    "works": 325,
    "composers": 9
+  },
+  "harmony": {
+   "works": 9,
+   "by": {
+    "DCML": 9
+   },
+   "values": {
+    "chords a bar": 2.695882787194643,
+    "tonic and dominant": 0.5258337934576267,
+    "sevenths": 0.27138299650330355,
+    "diminished sevenths": 0.04679007933596749,
+    "applied chords": 0.23083149378239995,
+    "augmented sixths": 0.006312192032170702,
+    "Neapolitan": 0.0005005005005005005,
+    "mixture": 0.00290746606681051,
+    "inversions": 0.4162956704634303,
+    "keys a 10 bars": 0.6380241369760271,
+    "away from home": 0.4688108472555249,
+    "cadences a 10 bars": 1.7609574500746203,
+    "perfect cadences": 0.3091122747985493,
+    "half cadences": 0.3108413463805621,
+    "deceptive or evaded": 0.09446812265439716,
+    "changes": 0.12697796869298897,
+    "non-chord tones": 0.22629341948116632,
+    "struck dissonance": 0.1960393223235497,
+    "resolved by step": 0.7506198636967373,
+    "suspensions": 0.007622305783788354
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.5258337934576267,
+     "others": 0.6000969532059547,
+     "auc": 0.24805248052480522
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.23083149378239995,
+     "others": 0.14019796675593602,
+     "auc": 0.8267599660729431
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V65",
+      "I",
+      "viiø7/V"
+     ],
+     "z": 4.8,
+     "works": 3,
+     "per_1000": 4.1,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F003_n04a.notes.tsv",
+       "label": "Keyboard Sonata in D major, F. 3, movement 1: Un poco allegro (DCML)",
+       "bar": 22
+      },
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F003_n04c.notes.tsv",
+       "label": "Keyboard Sonata in D major, F. 3, movement 3: Vivace (DCML)",
+       "bar": 25
+      },
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F002_n07c.notes.tsv",
+       "label": "Keyboard Sonata in C major, F. 2, movement 3: Presto (DCML)",
+       "bar": 9
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "V65/V",
+      "V"
+     ],
+     "z": 3.9,
+     "works": 3,
+     "per_1000": 4.9,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F003_n04c.notes.tsv",
+       "label": "Keyboard Sonata in D major, F. 3, movement 3: Vivace (DCML)",
+       "bar": 37
+      },
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F003_n04a.notes.tsv",
+       "label": "Keyboard Sonata in D major, F. 3, movement 1: Un poco allegro (DCML)",
+       "bar": 66
+      },
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F002_n07a.notes.tsv",
+       "label": "Keyboard Sonata in C major, F. 2, movement 1: Allegro (DCML)",
+       "bar": 39
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V7/IV",
+      "IV"
+     ],
+     "z": 3.8,
+     "works": 4,
+     "per_1000": 6.5,
+     "others_per_1000": 1.1,
+     "at": [
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F003_n04c.notes.tsv",
+       "label": "Keyboard Sonata in D major, F. 3, movement 3: Vivace (DCML)",
+       "bar": 42
+      },
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F003_n04a.notes.tsv",
+       "label": "Keyboard Sonata in D major, F. 3, movement 1: Un poco allegro (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/wf_bach_sonatas:notes/F003_n04b.notes.tsv",
+       "label": "Keyboard Sonata in D major, F. 3, movement 2: Adagio (DCML)",
+       "bar": 15
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 271,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 262
+   }
   }
  }
 ]

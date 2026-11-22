@@ -1,10 +1,10 @@
 # Peter Warlock
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Peter Warlock: song (voice and keyboard), all
 
-22 works; set against 287 works by 37 composers: other composers' song (voice and keyboard) of the 1890 to 1950 period.
+22 works; set against 287 works by 37 composers: other composers' songs (voice and keyboard) of the 1890 to 1950 period.
 
 **Where it stands apart:** nowhere that clearly.
 

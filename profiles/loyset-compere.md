@@ -1,10 +1,10 @@
 # Loyset Compère
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Loyset Compère: song (voices), all
 
-26 works; set against 256 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+26 works; set against 256 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 1.98, against 2.34 (10 in 100)

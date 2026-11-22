@@ -73,6 +73,56 @@
    "by": "kind, forces, period",
    "works": 42,
    "composers": 5
+  },
+  "harmony": {
+   "works": 12,
+   "by": {
+    "DCML": 12
+   },
+   "values": {
+    "chords a bar": 2.34243536140867,
+    "tonic and dominant": 0.5656010069269092,
+    "sevenths": 0.3432298386572496,
+    "diminished sevenths": 0.08655728141568114,
+    "applied chords": 0.1311994903048652,
+    "augmented sixths": 0.024244313382844874,
+    "Neapolitan": 0.022362506522004444,
+    "mixture": 0.04802655168792039,
+    "inversions": 0.3575582173675022,
+    "keys a 10 bars": 0.8282921678622347,
+    "away from home": 0.3250425335043305,
+    "cadences a 10 bars": 1.1918048916304074,
+    "perfect cadences": 0.314029244176303,
+    "half cadences": 0.40624423914865093,
+    "deceptive or evaded": 0.01478324915824916,
+    "changes": 0.2396956219332416,
+    "non-chord tones": 0.23938523172052192,
+    "struck dissonance": 0.25554551646403845,
+    "resolved by step": 0.5554054828976925,
+    "suspensions": 0.0007816791740312655
+   },
+   "traits": [
+    {
+     "measure": "Neapolitan",
+     "value": 0.022362506522004444,
+     "others": 0.0,
+     "auc": 0.7916666666666666
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 1.1918048916304074,
+     "others": 1.928740750146921,
+     "auc": 0.23824786324786326
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 37,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 37
+   }
   }
  },
  {
@@ -124,6 +174,80 @@
    "by": "kind, forces, period",
    "works": 42,
    "composers": 5
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "DCML": 7
+   },
+   "values": {
+    "chords a bar": 1.9578689620418739,
+    "tonic and dominant": 0.4444533679157575,
+    "sevenths": 0.42132999549708244,
+    "diminished sevenths": 0.09411775291209323,
+    "applied chords": 0.2707934797372115,
+    "augmented sixths": 0.007077560808729018,
+    "Neapolitan": 0.013206633952699512,
+    "mixture": 0.04204182921841452,
+    "inversions": 0.3386161432646135,
+    "keys a 10 bars": 0.3842058264785263,
+    "away from home": 0.2308503555339442,
+    "cadences a 10 bars": 1.3770160676910173,
+    "perfect cadences": 0.32870071105365223,
+    "half cadences": 0.24114219114219115,
+    "deceptive or evaded": 0.06153846153846154,
+    "changes": 0.2806857597831936,
+    "non-chord tones": 0.25925629937083144,
+    "struck dissonance": 0.237619590096559,
+    "resolved by step": 0.5389455827482336,
+    "suspensions": 0.012286614558690113
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.4444533679157575,
+     "others": 0.6557653495787701,
+     "auc": 0.1544566544566545
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.2707934797372115,
+     "others": 0.11987978664566983,
+     "auc": 0.7777777777777778
+    },
+    {
+     "measure": "Neapolitan",
+     "value": 0.013206633952699512,
+     "others": 0.0,
+     "auc": 0.7857142857142857
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.3842058264785263,
+     "others": 1.2894078584211977,
+     "auc": 0.15293040293040291
+    },
+    {
+     "measure": "changes",
+     "value": 0.2806857597831936,
+     "others": 0.17771343690703958,
+     "auc": 0.7570207570207571
+    },
+    {
+     "measure": "suspensions",
+     "value": 0.012286614558690113,
+     "others": 0.005875090729075261,
+     "auc": 0.8092185592185592
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 37,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 37
+   }
   }
  },
  {
@@ -179,7 +303,7 @@
     "measure": "range",
     "value": 33.48888888888887,
     "others": 22.522916666666664,
-    "auc": 0.8695987654320986
+    "auc": 0.8695987654320988
    },
    {
     "measure": "register",
@@ -191,19 +315,19 @@
     "measure": "even",
     "value": 0.684595160165562,
     "others": 0.8486076291766551,
-    "auc": 0.21141975308641975
+    "auc": 0.21141975308641978
    },
    {
     "measure": "rhythm variety",
     "value": 1.4336074329989905,
     "others": 0.8243781917182503,
-    "auc": 0.7916666666666665
+    "auc": 0.7916666666666667
    },
    {
     "measure": "surprise, rhythm",
     "value": 0.9766950189616481,
     "others": 0.44949816249831775,
-    "auc": 0.8225308641975309
+    "auc": 0.8225308641975307
    },
    {
     "measure": "density",

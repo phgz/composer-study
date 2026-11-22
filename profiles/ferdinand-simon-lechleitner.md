@@ -1,10 +1,10 @@
 # Ferdinand Simon Lechleitner
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Ferdinand Simon Lechleitner: magnificat, all
 
-3 works; set against 35 works by 10 composers: other composers' magnificat of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 35 works by 10 composers: other composers' magnificats of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Ferdinand Simon Lechleitner: mass, all
 
-11 works; set against 191 works by 20 composers: other composers' mass of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+11 works; set against 191 works by 20 composers: other composers' masses of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - rhythmic variety (bits): 1.29, against 2.35 (8 in 100)

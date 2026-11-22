@@ -1,10 +1,10 @@
 # Georgius Luna
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Georgius Luna: magnificat, any period
 
-4 works; set against 111 works by 29 composers: other composers' magnificat, of any period and forces (range, register and density not compared).
+4 works; set against 111 works by 29 composers: other composers' magnificats, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Georgius Luna: mass, any period
 
-49 works; set against 73 works by 9 composers: other composers' mass of the None period, for any forces (too few for these forces: range, register and density not compared).
+49 works; set against 73 works by 9 composers: other composers' masses of the None period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.22, against 2.67 (23 in 100)

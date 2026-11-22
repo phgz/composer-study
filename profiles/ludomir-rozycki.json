@@ -59,14 +59,14 @@
    {
     "measure": "surprise, rhythm",
     "value": 1.8845402062077585,
-    "others": 1.5669487465594614,
-    "auc": 0.8124999999894656
+    "others": 1.565570366286125,
+    "auc": 0.8131578947266404
    }
   ],
   "figures": [],
   "compared": {
    "by": "kind",
-   "works": 33,
+   "works": 32,
    "composers": 13
   }
  },

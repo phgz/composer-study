@@ -1,15 +1,15 @@
 # Maude Valérie White
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Maude Valérie White: song (voice and keyboard), all
 
-6 works; set against 1093 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+6 works; set against 1082 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - even rhythm (a note as long as the one before): 11%, against 40% (6 in 100)
-- the ear's surprise, pitch (bits a note): 1.61, against 2.42 (12 in 100)
-- repeated notes: 10%, against 23% (18 in 100)
+- the ear's surprise, pitch (bits a note): 1.61, against 2.43 (12 in 100)
+- repeated notes: 10%, against 24% (18 in 100)
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
 - down a step, up a major third, down a step (much longer, much shorter, much longer): 10.9 in 1,000 figures, against 0.2, in 2 works. At: A Farewell Song (OpenScore), bar 11 (A4 G4 B4 A4); Little Songs, A Memory (OpenScore), bar 3 (F4 Eb4 G4 F4)

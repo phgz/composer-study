@@ -60,13 +60,13 @@
     "measure": "leaps",
     "value": 0.23745258494166344,
     "others": 0.1688460214854696,
-    "auc": 0.7974057315398981
+    "auc": 0.797405731539898
    },
    {
     "measure": "move",
     "value": 3.8451044598420054,
     "others": 2.9923450409589907,
-    "auc": 0.8481749623033135
+    "auc": 0.8481749623033134
    }
   ],
   "figures": [
@@ -142,7 +142,7 @@
     "measure": "long-short",
     "value": 0.23784073789562962,
     "others": 0.09657083051643454,
-    "auc": 0.786974358947709
+    "auc": 0.7869743589477088
    }
   ],
   "figures": [],
@@ -181,13 +181,13 @@
     "measure": "leap answered",
     "value": 0.48381433381433386,
     "others": 0.32388108698535983,
-    "auc": 0.7592135025401386
+    "auc": 0.7592135025401388
    },
    {
     "measure": "range",
     "value": 12.244444444444444,
     "others": 15.261379176710072,
-    "auc": 0.19883536213807523
+    "auc": 0.19883536213807518
    },
    {
     "measure": "long-short",
@@ -814,6 +814,227 @@
    "by": "kind, forces, period",
    "works": 125,
    "composers": 2
+  },
+  "harmony": {
+   "works": 6,
+   "by": {
+    "DCML": 6
+   },
+   "values": {
+    "chords a bar": 6.096866096866098,
+    "tonic and dominant": 0.6227443280918443,
+    "sevenths": 0.1197529330542605,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.1747806329725277,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.0,
+    "inversions": 0.42381910876687395,
+    "keys a 10 bars": 0.0,
+    "away from home": 0.0,
+    "cadences a 10 bars": 4.843304843304843,
+    "perfect cadences": 0.686111111111111,
+    "half cadences": 0.2472222222222222,
+    "deceptive or evaded": 0.0,
+    "changes": 0.05448423888903423,
+    "non-chord tones": 0.17783319128348365,
+    "struck dissonance": 0.15734989648033126,
+    "resolved by step": 0.7184122224601985,
+    "suspensions": 0.0
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 6.096866096866098,
+     "others": 3.3205351162908525,
+     "auc": 0.9597701149425287
+    },
+    {
+     "measure": "tonic and dominant",
+     "value": 0.6227443280918443,
+     "others": 0.4544307268992965,
+     "auc": 0.9396551724137931
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.1197529330542605,
+     "others": 0.252781376971306,
+     "auc": 0.15517241379310345
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.0,
+     "others": 0.031156032799439015,
+     "auc": 0.13793103448275865
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.0,
+     "others": 0.6752978162135111,
+     "auc": 0.1724137931034483
+    },
+    {
+     "measure": "away from home",
+     "value": 0.0,
+     "others": 0.23794167943523925,
+     "auc": 0.1724137931034483
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 4.843304843304843,
+     "others": 1.8856115818096384,
+     "auc": 1.0
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I6",
+      "IV",
+      "I6"
+     ],
+     "z": 4.4,
+     "works": 3,
+     "per_1000": 33.7,
+     "others_per_1000": 1.5,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var5.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I6",
+      "IV"
+     ],
+     "z": 3.9,
+     "works": 3,
+     "per_1000": 22.5,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var5.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 6
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "viio6",
+      "I"
+     ],
+     "z": 3.8,
+     "works": 4,
+     "per_1000": 26.2,
+     "others_per_1000": 1.3,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var1.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii6/V",
+      "V/V",
+      "I/V"
+     ],
+     "z": 3.7,
+     "works": 4,
+     "per_1000": 26.2,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var1.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var5.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML)",
+       "bar": 1
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I6",
+      "viio6"
+     ],
+     "z": 3.4,
+     "works": 4,
+     "per_1000": 18.7,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Aria.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var1.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML)",
+       "bar": 5
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 87,
+    "composers": 1,
+    "progressions_by": "DCML",
+    "progressions_works": 87
+   }
   }
  },
  {
@@ -857,7 +1078,7 @@
     "measure": "register",
     "value": 69.0,
     "others": 71.83333333291941,
-    "auc": 0.18530465956730596
+    "auc": 0.18530465956730593
    },
    {
     "measure": "even",
@@ -875,7 +1096,7 @@
     "measure": "rhythm variety",
     "value": 1.0129064992817576,
     "others": 2.1497264351401677,
-    "auc": 0.14659498208085583
+    "auc": 0.1465949820808558
    },
    {
     "measure": "surprise, pitch",
@@ -901,6 +1122,104 @@
    "by": "kind, forces, period",
    "works": 40,
    "composers": 2
+  },
+  "harmony": {
+   "works": 5,
+   "by": {
+    "DCML": 5
+   },
+   "values": {
+    "chords a bar": 6.182905982905983,
+    "tonic and dominant": 0.6218029976317819,
+    "sevenths": 0.13193881378275968,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.16267793603762148,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.0,
+    "inversions": 0.41838685208887616,
+    "keys a 10 bars": 0.0,
+    "away from home": 0.0,
+    "cadences a 10 bars": 4.9230769230769225,
+    "perfect cadences": 0.6733333333333332,
+    "half cadences": 0.24666666666666665,
+    "deceptive or evaded": 0.0,
+    "changes": 0.04577324352958618,
+    "non-chord tones": 0.1788319283056125,
+    "struck dissonance": 0.021739130434782608,
+    "resolved by step": 0.791904047976012,
+    "suspensions": 0.0
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 6.182905982905983,
+     "others": 3.0503736446750986,
+     "auc": 0.9681697612732096
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.13193881378275968,
+     "others": 0.260827342840182,
+     "auc": 0.19796640141467728
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.0,
+     "others": 0.022891902938161564,
+     "auc": 0.219053934571176
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.0,
+     "others": 0.9168319393108562,
+     "auc": 0.08429118773946358
+    },
+    {
+     "measure": "away from home",
+     "value": 0.0,
+     "others": 0.33474871230780057,
+     "auc": 0.08429118773946358
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 4.9230769230769225,
+     "others": 2.0716928104801027,
+     "auc": 0.9845410628019323
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I6",
+      "IV",
+      "I6"
+     ],
+     "z": 3.2,
+     "works": 2,
+     "per_1000": 26.4,
+     "others_per_1000": 1.9,
+     "at": [
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var5.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/handel_keyboard:notes/hwv430d_Grobschmied_Var2.notes.tsv",
+       "label": "Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML)",
+       "bar": 5
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 243,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 216
+   }
   }
  }
 ]

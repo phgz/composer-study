@@ -1,10 +1,10 @@
 # Jehan Hérissant
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Jehan Hérissant: mass, all
 
-3 works; set against 694 works by 38 composers: other composers' mass of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 692 works by 38 composers: other composers' masses of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

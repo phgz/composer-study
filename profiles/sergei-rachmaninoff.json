@@ -28,13 +28,13 @@
     "measure": "leaps",
     "value": 0.3305727040943604,
     "others": 0.21770701030103715,
-    "auc": 0.7523242116087137
+    "auc": 0.7523242116087139
    },
    {
     "measure": "move",
     "value": 4.871294362760091,
     "others": 3.436023203585553,
-    "auc": 0.804563980250186
+    "auc": 0.8045639802501863
    }
   ],
   "figures": [
@@ -278,7 +278,7 @@
     "measure": "steps",
     "value": 0.3647401893895055,
     "others": 0.5339939209041591,
-    "auc": 0.23610479669166873
+    "auc": 0.2361047966916687
    },
    {
     "measure": "rising",
@@ -491,6 +491,68 @@
    "by": "kind",
    "works": 118,
    "composers": 26
+  },
+  "harmony": {
+   "works": 22,
+   "by": {
+    "DCML": 22
+   },
+   "values": {
+    "chords a bar": 2.7599514506559535,
+    "tonic and dominant": 0.3654352611802443,
+    "sevenths": 0.3301999791693563,
+    "diminished sevenths": 0.04564598982931725,
+    "applied chords": 0.31264644910092,
+    "augmented sixths": 0.026126973357683825,
+    "Neapolitan": 0.014326478062526809,
+    "mixture": 0.013755885910202182,
+    "inversions": 0.3614903526228034,
+    "keys a 10 bars": 0.16749235419312145,
+    "away from home": 0.04207509450061016,
+    "cadences a 10 bars": 1.1766782550971355,
+    "perfect cadences": 0.45,
+    "half cadences": 0.2708333333333333,
+    "deceptive or evaded": 0.09583333333333333,
+    "changes": 0.21601853469039362,
+    "non-chord tones": 0.23002976192893784,
+    "struck dissonance": 0.2246194124529795,
+    "resolved by step": 0.37637567432726654,
+    "suspensions": 0.004245413415098676
+   },
+   "traits": [
+    {
+     "measure": "sevenths",
+     "value": 0.3301999791693563,
+     "others": 0.6251468442485326,
+     "auc": 0.16683316683316685
+    },
+    {
+     "measure": "perfect cadences",
+     "value": 0.45,
+     "others": 0.13588127134226424,
+     "auc": 0.8156028368794328
+    },
+    {
+     "measure": "changes",
+     "value": 0.21601853469039362,
+     "others": 0.5586696018478535,
+     "auc": 0.1170912420912421
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.23002976192893784,
+     "others": 0.4019830385933911,
+     "auc": 0.23322510822510825
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 27,
+    "composers": 4,
+    "progressions_by": "DCML",
+    "progressions_works": 27
+   }
   }
  }
 ]

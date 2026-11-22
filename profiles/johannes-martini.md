@@ -1,10 +1,10 @@
 # Johannes Martini
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Johannes Martini: mass (voices), all
 
-40 works; set against 556 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+40 works; set against 556 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 0.93, against 1.45 (20 in 100)
@@ -22,7 +22,7 @@
 
 ### Johannes Martini: motet (voices), all
 
-60 works; set against 562 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+60 works; set against 562 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 1.88, against 2.33 (6 in 100)
@@ -47,7 +47,7 @@
 
 ### Johannes Martini: song (voices), all
 
-21 works; set against 261 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+21 works; set against 261 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 5%, against 15% (13 in 100)

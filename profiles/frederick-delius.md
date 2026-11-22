@@ -1,13 +1,13 @@
 # Frederick Delius
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Frederick Delius: song (voice and keyboard), all
 
-6 works; set against 1093 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+6 works; set against 1082 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
-- the ear's surprise, pitch (bits a note): 3.38, against 2.42 (96 in 100)
+- the ear's surprise, pitch (bits a note): 3.38, against 2.43 (96 in 100)
 - the ear's surprise, rhythm (bits a note): 2.30, against 1.63 (90 in 100)
 - mean move (semitones): 3.62, against 2.98 (89 in 100)
 - leaps of a fourth or more: 25%, against 15% (88 in 100)
@@ -20,7 +20,7 @@
 
 ### Frederick Delius: string quartet (string quartet), all
 
-4 works; set against 255 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+4 works; set against 255 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

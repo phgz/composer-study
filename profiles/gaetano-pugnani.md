@@ -1,6 +1,6 @@
 # Gaetano Pugnani
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Gaetano Pugnani: trio, all
 

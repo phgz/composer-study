@@ -1,10 +1,10 @@
 # Franz Xaver Pokorný
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Franz Xaver Pokorný: mass, all
 
-7 works; set against 640 works by 34 composers: other composers' mass of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 640 works by 34 composers: other composers' masses of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 3.64, against 2.64 (83 in 100)

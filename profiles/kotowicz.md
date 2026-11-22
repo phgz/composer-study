@@ -1,10 +1,10 @@
 # Kotowicz
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Kotowicz: oratorio, any period
 
-6 works; set against 46 works by 5 composers: other composers' oratorio, of any period and forces (range, register and density not compared).
+6 works; set against 46 works by 5 composers: other composers' oratorios, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 48%, against 44% (78 in 100)

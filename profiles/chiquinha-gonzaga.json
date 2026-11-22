@@ -27,8 +27,8 @@
    {
     "measure": "density",
     "value": 7.916328142312712,
-    "others": 5.5481236662848135,
-    "auc": 0.76492964119263
+    "others": 5.617027969044853,
+    "auc": 0.7602847222834256
    }
   ],
   "figures": [
@@ -67,11 +67,47 @@
       "notes": "F#4 F#4 F#4 E4"
      }
     ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Gonzaga,_Chiquinha/_/Cá_por_coisas!/lc6609847.mxl",
+      "label": "Cá por coisas! (OpenScore)",
+      "bar": 12,
+      "notes": "D4 D4 C4 C4"
+     },
+     {
+      "work": "openscore-lieder:Gonzaga,_Chiquinha/_/Noivado/lc6611741.mxl",
+      "label": "Noivado (OpenScore)",
+      "bar": 18,
+      "notes": "D4 D4 C4 C4"
+     },
+     {
+      "work": "openscore-lieder:Gonzaga,_Chiquinha/_/Roda_Yôyô/lc6611820.mxl",
+      "label": "Roda Yôyô (OpenScore)",
+      "bar": 39,
+      "notes": "G4 G4 F4 F4"
+     }
+    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1087,
+   "works": 1076,
    "composers": 97
   }
  }

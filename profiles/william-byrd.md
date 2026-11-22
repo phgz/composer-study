@@ -1,10 +1,10 @@
 # William Byrd
 
-8 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+8 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### William Byrd: hymn (voices), all
 
-4 works; set against 67 works by 7 composers: other composers' hymn (voices) of the Before 1600 period.
+4 works; set against 67 works by 7 composers: other composers' hymns (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### William Byrd: madrigal (voices), all
 
-6 works; set against 209 works by 6 composers: other composers' madrigal (voices) of the Before 1600 period.
+6 works; set against 209 works by 6 composers: other composers' madrigals (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 16%, against 9% (92 in 100)
@@ -33,7 +33,7 @@
 
 ### William Byrd: magnificat (voices), all
 
-7 works; set against 43 works by 5 composers: other composers' magnificat (voices) of the Before 1600 period.
+7 works; set against 43 works by 5 composers: other composers' magnificats (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 2.42, against 2.09 (85 in 100)
@@ -47,7 +47,7 @@
 
 ### William Byrd: mass (voices), all
 
-4 works; set against 592 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+4 works; set against 592 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -58,7 +58,7 @@
 
 ### William Byrd: motet (voices), all
 
-159 works; set against 463 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+159 works; set against 463 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 13%, against 8% (84 in 100)
@@ -78,7 +78,7 @@
 
 ### William Byrd: partsong (voices), all
 
-68 works; set against 35 works by 7 composers: other composers' partsong, of any period and forces (range, register and density not compared).
+68 works; set against 35 works by 7 composers: other composers' partsongs, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 10%, against 23% (16 in 100)
@@ -92,7 +92,7 @@
 
 ### William Byrd: song, all
 
-3 works; set against 295 works by 22 composers: other composers' song of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 295 works by 22 composers: other composers' songs of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -103,7 +103,7 @@
 
 ### William Byrd: song (voices), all
 
-26 works; set against 256 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+26 works; set against 256 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 13%, against 8% (78 in 100)

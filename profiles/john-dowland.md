@@ -1,10 +1,10 @@
 # John Dowland
 
-10 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+10 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### John Dowland: hymn (voices), all
 
-8 works; set against 63 works by 7 composers: other composers' hymn (voices) of the Before 1600 period.
+8 works; set against 63 works by 7 composers: other composers' hymns (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 3.15, against 1.47 (96 in 100)
@@ -41,7 +41,7 @@
 
 ### John Dowland: lute song (voices), all
 
-3 works; set against 1834 works by 39 composers: other composers' works for voices of the Before 1600 period, of any kind (too few lute song).
+3 works; set against 1834 works by 39 composers: other composers' works for voices of the Before 1600 period, of any kind (too few lute songs).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -52,7 +52,7 @@
 
 ### John Dowland: madrigal (voice and lute), all
 
-9 works; set against 288 works by 10 composers: other composers' madrigal of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+9 works; set against 288 works by 10 composers: other composers' madrigals of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 21%, against 12% (86 in 100)
@@ -64,7 +64,7 @@
 
 ### John Dowland: madrigal (voices), all
 
-18 works; set against 197 works by 6 composers: other composers' madrigal (voices) of the Before 1600 period.
+18 works; set against 197 works by 6 composers: other composers' madrigals (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 20%, against 12% (82 in 100)
@@ -81,7 +81,7 @@
 
 ### John Dowland: partsong (voice and lute), all
 
-7 works; set against 71 works by 2 composers: other composers' partsong of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 71 works by 2 composers: other composers' partsongs of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 19%, against 10% (91 in 100)
@@ -93,7 +93,7 @@
 
 ### John Dowland: song, all
 
-5 works; set against 284 works by 22 composers: other composers' song of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 284 works by 22 composers: other composers' songs of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 2.56, against 2.05 (94 in 100)
@@ -108,7 +108,7 @@
 
 ### John Dowland: song (voice and lute), all
 
-31 works; set against 284 works by 22 composers: other composers' song of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+31 works; set against 284 works by 22 composers: other composers' songs of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 21%, against 15% (82 in 100)
@@ -126,7 +126,7 @@
 
 ### John Dowland: song (voices), all
 
-4 works; set against 278 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+4 works; set against 278 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

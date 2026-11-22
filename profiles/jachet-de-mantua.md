@@ -1,10 +1,10 @@
 # Jachet de Mantua
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Jachet de Mantua: mass, all
 
-5 works; set against 692 works by 38 composers: other composers' mass of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 690 works by 38 composers: other composers' masses of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.83, against 2.35 (98 in 100)

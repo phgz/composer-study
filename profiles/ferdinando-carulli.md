@@ -1,10 +1,10 @@
 # Ferdinando Carulli
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Ferdinando Carulli: dance (plucked), all
 
-4 works; set against 193 works by 32 composers: other composers' dance of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 193 works by 32 composers: other composers' dances of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Ferdinando Carulli: waltz (plucked), all
 
-4 works; set against 103 works by 36 composers: other composers' waltz, of any period and forces (range, register and density not compared).
+4 works; set against 103 works by 36 composers: other composers' waltzes, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

@@ -1,10 +1,10 @@
 # Augustin Volckmer
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Augustin Volckmer: air, all
 
-8 works; set against 152 works by 40 composers: other composers' air, of any period and forces (range, register and density not compared).
+8 works; set against 152 works by 40 composers: other composers' airs, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Augustin Volckmer: duet, all
 
-3 works; set against 27 works by 7 composers: other composers' duet of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 27 works by 7 composers: other composers' duets of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -31,7 +31,7 @@
 
 ### Augustin Volckmer: mass, all
 
-84 works; set against 562 works by 34 composers: other composers' mass of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+84 works; set against 562 works by 34 composers: other composers' masses of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 

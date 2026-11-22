@@ -138,7 +138,7 @@
      0,
      0
     ],
-    "z": 5.7,
+    "z": 5.6,
     "works": 2,
     "per_1000": 1.7,
     "others_per_1000": 0.0,
@@ -159,74 +159,80 @@
    },
    {
     "moves": [
+     2,
      -2,
-     -1,
-     5
+     -1
     ],
     "rhythm": [
      -2,
      0,
-     0
-    ],
-    "z": 5.5,
-    "works": 2,
-    "per_1000": 1.7,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "openscore-lieder:Grandval,_Clémence_de/_/Sacrifice/lc6626922.mxl",
-      "label": "Sacrifice (OpenScore)",
-      "bar": 2,
-      "notes": "C5 Bb4 A4 D5"
-     },
-     {
-      "work": "openscore-lieder:Grandval,_Clémence_de/_/Villanelle/lc6626468.mxl",
-      "label": "Villanelle (OpenScore)",
-      "bar": 29,
-      "notes": "C5 Bb4 A4 D5"
-     }
-    ]
-   },
-   {
-    "moves": [
-     1,
-     1,
      2
     ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 5.4,
+    "z": 5.6,
     "works": 3,
     "per_1000": 2.0,
     "others_per_1000": 0.1,
     "at": [
      {
-      "work": "openscore-lieder:Grandval,_Clémence_de/_/Le_bohémien/lc6239101.mxl",
-      "label": "Le bohémien (OpenScore)",
-      "bar": 29,
-      "notes": "B4 C5 C#5 Eb5"
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/3_Chanson/lc6613481.mxl",
+      "label": "Nouvelles mélodies, Chanson (OpenScore)",
+      "bar": 10,
+      "notes": "E5 F#5 E5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Sacrifice/lc6626922.mxl",
+      "label": "Sacrifice (OpenScore)",
+      "bar": 9,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/5_Rappelle-toi!/lc6614760.mxl",
+      "label": "Nouvelles mélodies, Rappelle-toi! (OpenScore)",
+      "bar": 25,
+      "notes": "C5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Grandval,_Clémence_de/_/Chanson_de_Barberine/lc6625925.mxl",
+      "label": "Chanson de Barberine (OpenScore)",
+      "bar": 25,
+      "notes": "D5 E5 F5 B4"
      },
      {
       "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/3_Chanson/lc6613481.mxl",
       "label": "Nouvelles mélodies, Chanson (OpenScore)",
-      "bar": 37,
-      "notes": "A4 Bb4 B4 C#5"
+      "bar": 26,
+      "notes": "A4 B4 C5 F#4"
      },
      {
       "work": "openscore-lieder:Grandval,_Clémence_de/6_Nouvelles_mélodies/6_Chrysa/lc6615501.mxl",
       "label": "Nouvelles mélodies, Chrysa (OpenScore)",
-      "bar": 42,
-      "notes": "G4 Ab4 A4 B4"
+      "bar": 82,
+      "notes": "C5 D5 Eb5 A4"
      }
     ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1086,
+   "works": 1075,
    "composers": 97
   }
  }

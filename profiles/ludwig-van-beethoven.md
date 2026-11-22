@@ -1,10 +1,10 @@
 # Ludwig van Beethoven
 
-18 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+18 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Ludwig van Beethoven: concerto (orchestra), middle
 
-3 works; set against 321 works by 26 composers: other composers' concerto, of any period and forces (range, register and density not compared).
+3 works; set against 321 works by 26 composers: other composers' concertos, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Ludwig van Beethoven: dance (keyboard), early
 
-7 works; set against 20 works by 7 composers: other composers' dance (keyboard) of the Classical period.
+7 works; set against 20 works by 7 composers: other composers' dances (keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: Bb4, against D5 (19 in 100)
@@ -28,9 +28,21 @@
 
 **All measures:** moves by step 52%; repeated notes 19%; leaps of a fourth or more 15%; mean move (semitones) 3.41; moves that rise 48%; leaps answered by a step back 26%; range of the melody (semitones) 22.1; register of the melody Bb4; even rhythm (a note as long as the one before) 51%; dotted figures (3:1) 15%; rhythmic variety (bits) 2.24; the ear's surprise, pitch (bits a note) 2.22; the ear's surprise, rhythm (bits a note) 1.28; notes a quarter (texture) 3.80; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 6 of its works (5 DCML's and 1 When in Rome's); set against 215 works by 5 composers: other composers' labelled works for keyboard of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- of its cadences, deceptive or evaded: 0%, against 10% (22 in 100)
+- chords on I or V: 69%, against 60% (76 in 100)
+- its progressions, against 207 of those works, labelled by DCML too:
+  - V6 – I – vi: 8.1 in 1,000, against 0.3, in 2 works. At: Sonata no. 6, op.10/2, movement 2: Menuetto: Allegretto (DCML), bar 5; Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 14
+  - V43 – I – V6: 11.4 in 1,000, against 1.1, in 3 works. At: Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML), bar 1; Sonata no. 1, op.2/1, movement 3: Menuetto and Trio: Allegretto (DCML), bar 7; Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 2
+  - V7 – I64 – V7: 9.7 in 1,000, against 1.2, in 2 works. At: Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 8; Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML), bar 28
+  - I64 – V7 – I64: 8.1 in 1,000, against 0.8, in 2 works. At: Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 8; Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML), bar 29
+
+*All its harmony:* chords a bar 1.67; chords on I or V 69%; seventh chords 28%; diminished sevenths 5%; applied chords (V/V and the like) 10%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 35%; changes of key a 10 bars 0.51; chords away from the home key 30%; cadences a 10 bars (DCML) 1.32; of its cadences, perfect 48%; of its cadences, half 37%; of its cadences, deceptive or evaded 0%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 13%; melody notes outside the chord 22%; of those, struck with the chord (appoggiaturas) 29%; of those, resolved by a step 71%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Ludwig van Beethoven: fantasia (keyboard), early
 
-7 works; set against 48 works by 25 composers: other composers' fantasia, of any period and forces (range, register and density not compared).
+7 works; set against 48 works by 25 composers: other composers' fantasias, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps answered by a step back: 11%, against 24% (24 in 100)
@@ -45,9 +57,15 @@
 
 **All measures:** moves by step 38%; repeated notes 9%; leaps of a fourth or more 31%; mean move (semitones) 4.15; moves that rise 47%; leaps answered by a step back 11%; range of the melody (semitones) 26.0; register of the melody Bb4; even rhythm (a note as long as the one before) 74%; dotted figures (3:1) 4%; rhythmic variety (bits) 1.39; the ear's surprise, pitch (bits a note) 2.22; the ear's surprise, rhythm (bits a note) 1.00; notes a quarter (texture) 5.17; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 3 of its works (3 When in Rome's); set against 215 works by 5 composers: other composers' labelled works for keyboard of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 1.65; chords on I or V 63%; seventh chords 36%; diminished sevenths 3%; applied chords (V/V and the like) 16%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 49%; changes of key a 10 bars 0.78; chords away from the home key 43%; melody notes outside the chord 26%; of those, struck with the chord (appoggiaturas) 16%; of those, resolved by a step 71%; melody notes held into a chord they are not in, then falling a step (suspensions) 5%
+
 ### Ludwig van Beethoven: minuet (keyboard), early
 
-6 works; set against 135 works by 18 composers: other composers' minuet of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 135 works by 18 composers: other composers' minuets of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -61,9 +79,21 @@
 
 **All measures:** moves by step 58%; repeated notes 13%; leaps of a fourth or more 15%; mean move (semitones) 3.12; moves that rise 48%; leaps answered by a step back 30%; range of the melody (semitones) 22.2; register of the melody C5; even rhythm (a note as long as the one before) 57%; dotted figures (3:1) 11%; rhythmic variety (bits) 2.13; the ear's surprise, pitch (bits a note) 2.32; the ear's surprise, rhythm (bits a note) 1.32; notes a quarter (texture) 3.47; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 5 of its works (5 DCML's); set against 215 works by 5 composers: other composers' labelled works for keyboard of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- of its cadences, deceptive or evaded: 0%, against 10% (22 in 100)
+- of those, struck with the chord (appoggiaturas): 34%, against 19% (76 in 100)
+- its progressions, against 207 of those works, labelled by DCML too:
+  - V6 – I – vi: 9.1 in 1,000, against 0.3, in 2 works. At: Sonata no. 6, op.10/2, movement 2: Menuetto: Allegretto (DCML), bar 5; Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 14
+  - V43 – I – V6: 12.7 in 1,000, against 1.1, in 3 works. At: Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML), bar 1; Sonata no. 1, op.2/1, movement 3: Menuetto and Trio: Allegretto (DCML), bar 7; Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 2
+  - V7 – I64 – V7: 10.9 in 1,000, against 1.2, in 2 works. At: Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 8; Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML), bar 28
+  - I64 – V7 – I64: 9.1 in 1,000, against 0.8, in 2 works. At: Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 8; Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML), bar 29
+
+*All its harmony:* chords a bar 1.67; chords on I or V 67%; seventh chords 28%; diminished sevenths 5%; applied chords (V/V and the like) 11%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 38%; changes of key a 10 bars 0.35; chords away from the home key 29%; cadences a 10 bars (DCML) 1.32; of its cadences, perfect 48%; of its cadences, half 37%; of its cadences, deceptive or evaded 0%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 13%; melody notes outside the chord 24%; of those, struck with the chord (appoggiaturas) 34%; of those, resolved by a step 74%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Ludwig van Beethoven: overture (orchestra), middle
 
-3 works; set against 46 works by 7 composers: other composers' works for orchestra of the Classical period, of any kind (too few overture).
+3 works; set against 46 works by 7 composers: other composers' works for orchestra of the Classical period, of any kind (too few overtures).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -74,7 +104,7 @@
 
 ### Ludwig van Beethoven: rondo (keyboard), early
 
-9 works; set against 26 works by 5 composers: other composers' rondo (keyboard) of the Classical period.
+9 works; set against 26 works by 5 composers: other composers' rondos (keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 25.9, against 20.5 (88 in 100)
@@ -90,9 +120,17 @@
 
 **All measures:** moves by step 49%; repeated notes 7%; leaps of a fourth or more 25%; mean move (semitones) 3.86; moves that rise 50%; leaps answered by a step back 21%; range of the melody (semitones) 25.9; register of the melody C#5; even rhythm (a note as long as the one before) 75%; dotted figures (3:1) 4%; rhythmic variety (bits) 1.57; the ear's surprise, pitch (bits a note) 2.35; the ear's surprise, rhythm (bits a note) 1.17; notes a quarter (texture) 5.11; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 7 of its works (1 When in Rome's and 6 DCML's); set against 23 works by 3 composers: other composers' labelled rondos (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords labelled with a note in place of one of theirs, or added (V(4)), DCML: 12%, against 8% (82 in 100)
+- chords away from the home key: 23%, against 38% (18 in 100)
+- of those, struck with the chord (appoggiaturas): 16%, against 25% (20 in 100)
+
+*All its harmony:* chords a bar 2.00; chords on I or V 60%; seventh chords 27%; diminished sevenths 3%; applied chords (V/V and the like) 15%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 40%; changes of key a 10 bars 0.36; chords away from the home key 23%; cadences a 10 bars (DCML) 1.45; of its cadences, perfect 57%; of its cadences, half 32%; of its cadences, deceptive or evaded 4%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 12%; melody notes outside the chord 26%; of those, struck with the chord (appoggiaturas) 16%; of those, resolved by a step 68%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Ludwig van Beethoven: scherzo (keyboard), early
 
-6 works; set against 56 works by 31 composers: other composers' scherzo, of any period and forces (range, register and density not compared).
+6 works; set against 56 works by 31 composers: other composers' scherzos, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -106,9 +144,15 @@
 
 **All measures:** moves by step 43%; repeated notes 10%; leaps of a fourth or more 22%; mean move (semitones) 3.83; moves that rise 50%; leaps answered by a step back 17%; range of the melody (semitones) 25.9; register of the melody C5; even rhythm (a note as long as the one before) 60%; dotted figures (3:1) 6%; rhythmic variety (bits) 1.97; the ear's surprise, pitch (bits a note) 2.31; the ear's surprise, rhythm (bits a note) 1.10; notes a quarter (texture) 3.71; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 4 of its works (4 DCML's); set against 215 works by 5 composers: other composers' labelled works for keyboard of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 1.53; chords on I or V 59%; seventh chords 28%; diminished sevenths 7%; applied chords (V/V and the like) 21%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 40%; changes of key a 10 bars 0.40; chords away from the home key 28%; cadences a 10 bars (DCML) 1.03; of its cadences, perfect 64%; of its cadences, half 36%; of its cadences, deceptive or evaded 0%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 10%; melody notes outside the chord 15%; of those, struck with the chord (appoggiaturas) 41%; of those, resolved by a step 84%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Ludwig van Beethoven: scherzo (string quartet), early
 
-4 works; set against 56 works by 31 composers: other composers' scherzo, of any period and forces (range, register and density not compared).
+4 works; set against 56 works by 31 composers: other composers' scherzos, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -116,6 +160,12 @@
 - not asked
 
 **All measures:** moves by step 51%; repeated notes 13%; leaps of a fourth or more 22%; mean move (semitones) 3.64; moves that rise 50%; leaps answered by a step back 25%; range of the melody (semitones) 23.8; register of the melody E5; even rhythm (a note as long as the one before) 67%; dotted figures (3:1) 4%; rhythmic variety (bits) 1.80; the ear's surprise, pitch (bits a note) 2.75; the ear's surprise, rhythm (bits a note) 1.18; notes a quarter (texture) 6.78; lines (texture) 4.0
+
+**Harmony**, from the analysts' labels of 4 of its works (4 DCML's); set against 27 works by 2 composers: other composers' labelled works for string quartet of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 2.16; chords on I or V 61%; seventh chords 33%; diminished sevenths 3%; applied chords (V/V and the like) 15%; augmented sixths 0%; Neapolitan chords 1%; chords from the other mode 2%; chords over a bass not their root 47%; changes of key a 10 bars 0.62; chords away from the home key 26%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 6%; melody notes outside the chord 24%; of those, struck with the chord (appoggiaturas) 16%; of those, resolved by a step 79%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
 
 ### Ludwig van Beethoven: sextet (chamber), early
 
@@ -130,7 +180,7 @@
 
 ### Ludwig van Beethoven: sonata (keyboard), early
 
-68 works; set against 239 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+68 works; set against 239 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 25.7, against 20.5 (84 in 100)
@@ -145,9 +195,22 @@
 
 **All measures:** moves by step 45%; repeated notes 11%; leaps of a fourth or more 25%; mean move (semitones) 3.94; moves that rise 48%; leaps answered by a step back 19%; range of the melody (semitones) 25.7; register of the melody C5; even rhythm (a note as long as the one before) 67%; dotted figures (3:1) 7%; rhythmic variety (bits) 1.79; the ear's surprise, pitch (bits a note) 2.40; the ear's surprise, rhythm (bits a note) 1.22; notes a quarter (texture) 4.90; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 54 of its works (9 When in Rome's and 45 DCML's); set against 207 works by 5 composers: other composers' labelled sonatas (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: nowhere that clearly
+- its progressions, against 207 of those works, labelled by DCML too:
+  - i64 – V7 – i64: 2.2 in 1,000, against 0.5, in 11 works. At: Sonata no. 17, op.31/2, movement 1: Largo: Allegro (DCML), bar 75; Sonata no. 1, op.2/1, movement 1: Allegro (DCML), bar 57; Sonata no. 19, op.49/1, movement 1: Andante (DCML), bar 57
+  - V – i64 – V7: 1.7 in 1,000, against 0.3, in 8 works. At: Sonata no. 17, op.31/2, movement 1: Largo: Allegro (DCML), bar 74; Sonata no. 17, op.31/2, movement 3: Allegretto (DCML), bar 81; Sonata no. 1, op.2/1, movement 1: Allegro (DCML), bar 81
+  - V65/V – I64 – V7: 1.5 in 1,000, against 0.3, in 9 works. At: Sonata no. 2, op.2/2, movement 4: Rondo: Grazioso (DCML), bar 6; Sonata no. 10, op.14/2, movement 3: Scherzo: Allegro assai (DCML), bar 186; Sonata no. 3, op.2/3, movement 2: Adagio (DCML), bar 20
+  - i64 – V – i64: 1.3 in 1,000, against 0.2, in 7 works. At: Sonata no. 17, op.31/2, movement 1: Largo: Allegro (DCML), bar 78; Sonata no. 17, op.31/2, movement 3: Allegretto (DCML), bar 81; Sonata no. 2, op.2/2, movement 3: Scherzo: Allegretto (DCML), bar 63
+  - V65 – I – V42: 1.9 in 1,000, against 0.5, in 8 works. At: Sonata no. 11, op.22, movement 1: Allegro con brio (DCML), bar 48; Sonata no. 8 'Pathetique', op.13, movement 3: Rondo: Allegro (DCML), bar 24; Sonata no. 2, op.2/2, movement 2: Largo appassionato (DCML), bar 10
+  - I64 – V7 – I64: 2.3 in 1,000, against 0.8, in 12 works. At: Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML), bar 8; Sonata no. 4, op.7, movement 1: Allegro molto e con brio (DCML), bar 81; Sonata no. 17, op.31/2, movement 2: Adagio (DCML), bar 25
+
+*All its harmony:* chords a bar 1.82; chords on I or V 62%; seventh chords 30%; diminished sevenths 5%; applied chords (V/V and the like) 16%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 42%; changes of key a 10 bars 0.42; chords away from the home key 31%; cadences a 10 bars (DCML) 1.33; of its cadences, perfect 53%; of its cadences, half 31%; of its cadences, deceptive or evaded 2%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 12%; melody notes outside the chord 23%; of those, struck with the chord (appoggiaturas) 21%; of those, resolved by a step 70%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Ludwig van Beethoven: sonata (keyboard), late
 
-12 works; set against 239 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+12 works; set against 239 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 29.8, against 20.5 (96 in 100)
@@ -163,9 +226,25 @@
 
 **All measures:** moves by step 44%; repeated notes 12%; leaps of a fourth or more 24%; mean move (semitones) 4.03; moves that rise 47%; leaps answered by a step back 17%; range of the melody (semitones) 29.8; register of the melody E5; even rhythm (a note as long as the one before) 63%; dotted figures (3:1) 8%; rhythmic variety (bits) 1.95; the ear's surprise, pitch (bits a note) 2.80; the ear's surprise, rhythm (bits a note) 1.29; notes a quarter (texture) 6.28; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 8 of its works (8 DCML's); set against 207 works by 5 composers: other composers' labelled sonatas (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords over a bass not their root: 48%, against 39% (84 in 100)
+- applied chords (V/V and the like): 25%, against 13% (82 in 100)
+- of those, resolved by a step: 67%, against 77% (21 in 100)
+- of its cadences, perfect: 29%, against 45% (22 in 100)
+- of those, struck with the chord (appoggiaturas): 27%, against 20% (76 in 100)
+- its progressions, against 207 of those works, labelled by DCML too:
+  - V42 – I6 – V: 1.8 in 1,000, against 0.1, in 2 works. At: Sonata no. 31, op.110, movement 2: Allegro molto (DCML), bar 46; Sonata no. 31, op.110, movement 1: Moderato cantabile molto espressivo (DCML), bar 26
+  - vi7 – viio – I: 1.8 in 1,000, against 0.1, in 2 works. At: Sonata no. 30, op.109, movement 3: Gesangvoll, mit innigster Empfindung: Andante molto cantabile ed espressivo (DCML), bar 6; Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML), bar 49
+  - I6 – viio6 – I6: 3.0 in 1,000, against 0.5, in 3 works. At: Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML), bar 64; Sonata no. 31, op.110, movement 1: Moderato cantabile molto espressivo (DCML), bar 20; Sonata no. 31, op.110, movement 2: Allegro molto (DCML), bar 21
+  - viio6 – I6 – viio6: 2.6 in 1,000, against 0.4, in 3 works. At: Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML), bar 64; Sonata no. 31, op.110, movement 1: Moderato cantabile molto espressivo (DCML), bar 20; Sonata no. 32, op.111, movement 1: Maestoso - Allegro con brio ed appassionato (DCML), bar 40
+  - vi7 – V6 – I: 2.6 in 1,000, against 0.6, in 3 works. At: Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML), bar 7; Sonata no. 30, op.109, movement 1: Vivace ma non troppo - Adagio espressivo (DCML), bar 47; Sonata no. 30, op.109, movement 3: Gesangvoll, mit innigster Empfindung: Andante molto cantabile ed espressivo (DCML), bar 34
+
+*All its harmony:* chords a bar 2.90; chords on I or V 52%; seventh chords 28%; diminished sevenths 6%; applied chords (V/V and the like) 25%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 48%; changes of key a 10 bars 0.35; chords away from the home key 23%; cadences a 10 bars (DCML) 1.29; of its cadences, perfect 29%; of its cadences, half 29%; of its cadences, deceptive or evaded 1%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 12%; melody notes outside the chord 21%; of those, struck with the chord (appoggiaturas) 27%; of those, resolved by a step 67%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Ludwig van Beethoven: sonata (keyboard), middle
 
-15 works; set against 239 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+15 works; set against 239 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 28.8, against 20.5 (87 in 100)
@@ -181,9 +260,27 @@
 
 **All measures:** moves by step 40%; repeated notes 9%; leaps of a fourth or more 28%; mean move (semitones) 4.22; moves that rise 49%; leaps answered by a step back 16%; range of the melody (semitones) 28.8; register of the melody D5; even rhythm (a note as long as the one before) 68%; dotted figures (3:1) 7%; rhythmic variety (bits) 1.71; the ear's surprise, pitch (bits a note) 2.40; the ear's surprise, rhythm (bits a note) 1.01; notes a quarter (texture) 5.60; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 11 of its works (11 DCML's); set against 207 works by 5 composers: other composers' labelled sonatas (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords over a bass not their root: 49%, against 39% (82 in 100)
+- changes of key a 10 bars: 0.23, against 0.70 (20 in 100)
+- chords away from the home key: 20%, against 37% (20 in 100)
+- seventh chords: 33%, against 24% (77 in 100)
+- melody notes outside the chord: 19%, against 26% (24 in 100)
+- chords from the other mode: 2%, against 1% (75 in 100)
+- its progressions, against 207 of those works, labelled by DCML too:
+  - V43 – i – V43: 3.1 in 1,000, against 0.4, in 4 works. At: Sonata no. 23 ('Appassionata'), op.57, movement 3: Allegro ma non troppo - Presto (DCML), bar 105; Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML), bar 86; Sonata no. 23 ('Appassionata'), op.57, movement 1: Allegro assai (DCML), bar 249
+  - V43 – I6 – ii65: 2.3 in 1,000, against 0.2, in 3 works. At: Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML), bar 37; Sonata no. 26 'Les Adieux', op.81a, movement 1: Das Lebewohl: Adagio - Allegro (DCML), bar 26; Sonata no. 23 ('Appassionata'), op.57, movement 1: Allegro assai (DCML), bar 110
+  - I64 – V7 – I64: 4.2 in 1,000, against 0.8, in 4 works. At: Sonata no. 26 'Les Adieux', op.81a, movement 1: Das Lebewohl: Adagio - Allegro (DCML), bar 40; Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML), bar 11; Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML), bar 50
+  - I6 – viio6 – V: 2.3 in 1,000, against 0.0, in 2 works. At: Sonata no. 24, op.78, movement 2: Allegro vivace (DCML), bar 13; Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML), bar 34
+  - V7 – I64 – V7: 4.2 in 1,000, against 1.2, in 4 works. At: Sonata no. 26 'Les Adieux', op.81a, movement 1: Das Lebewohl: Adagio - Allegro (DCML), bar 45; Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML), bar 9; Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML), bar 50
+  - I64 – V42 – I6: 2.3 in 1,000, against 0.4, in 2 works. At: Sonata no. 23 ('Appassionata'), op.57, movement 2: Andante con moto (DCML), bar 8; Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML), bar 51
+
+*All its harmony:* chords a bar 2.03; chords on I or V 58%; seventh chords 33%; diminished sevenths 6%; applied chords (V/V and the like) 24%; augmented sixths 1%; Neapolitan chords 1%; chords from the other mode 2%; chords over a bass not their root 49%; changes of key a 10 bars 0.23; chords away from the home key 20%; cadences a 10 bars (DCML) 1.29; of its cadences, perfect 40%; of its cadences, half 26%; of its cadences, deceptive or evaded 6%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 11%; melody notes outside the chord 19%; of those, struck with the chord (appoggiaturas) 16%; of those, resolved by a step 71%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Ludwig van Beethoven: song (voice and keyboard), early
 
-14 works; set against 124 works by 18 composers: other composers' song (voice and keyboard) of the Classical period.
+14 works; set against 124 works by 18 composers: other composers' songs (voice and keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps answered by a step back: 15%, against 42% (18 in 100)
@@ -201,7 +298,7 @@
 
 ### Ludwig van Beethoven: string quartet (string quartet), early
 
-24 works; set against 422 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+24 works; set against 422 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 23.6, against 20.1 (79 in 100)
@@ -216,9 +313,16 @@
 
 **All measures:** moves by step 53%; repeated notes 14%; leaps of a fourth or more 17%; mean move (semitones) 3.27; moves that rise 48%; leaps answered by a step back 24%; range of the melody (semitones) 23.6; register of the melody E5; even rhythm (a note as long as the one before) 69%; dotted figures (3:1) 5%; rhythmic variety (bits) 1.84; the ear's surprise, pitch (bits a note) 2.66; the ear's surprise, rhythm (bits a note) 1.30; notes a quarter (texture) 5.37; lines (texture) 4.0
 
+**Harmony**, from the analysts' labels of 24 of its works (24 DCML's); set against 27 works by 2 composers: other composers' labelled string quartets (string quartet) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords from the other mode: 1%, against 0% (87 in 100)
+- of those, struck with the chord (appoggiaturas): 20%, against 13% (76 in 100)
+
+*All its harmony:* chords a bar 1.77; chords on I or V 64%; seventh chords 32%; diminished sevenths 5%; applied chords (V/V and the like) 13%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 41%; changes of key a 10 bars 0.66; chords away from the home key 36%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 10%; melody notes outside the chord 25%; of those, struck with the chord (appoggiaturas) 20%; of those, resolved by a step 74%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Ludwig van Beethoven: string quartet (string quartet), late
 
-27 works; set against 422 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+27 works; set against 422 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 23.6, against 20.1 (79 in 100)
@@ -236,9 +340,16 @@
 
 **All measures:** moves by step 51%; repeated notes 14%; leaps of a fourth or more 21%; mean move (semitones) 3.74; moves that rise 50%; leaps answered by a step back 24%; range of the melody (semitones) 23.6; register of the melody F5; even rhythm (a note as long as the one before) 58%; dotted figures (3:1) 10%; rhythmic variety (bits) 2.14; the ear's surprise, pitch (bits a note) 2.83; the ear's surprise, rhythm (bits a note) 1.34; notes a quarter (texture) 4.97; lines (texture) 4.0
 
+**Harmony**, from the analysts' labels of 26 of its works (26 DCML's); set against 27 works by 2 composers: other composers' labelled string quartets (string quartet) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- of those, struck with the chord (appoggiaturas): 28%, against 13% (85 in 100)
+- chords from the other mode: 1%, against 0% (76 in 100)
+
+*All its harmony:* chords a bar 2.27; chords on I or V 61%; seventh chords 31%; diminished sevenths 4%; applied chords (V/V and the like) 12%; augmented sixths 0%; Neapolitan chords 1%; chords from the other mode 1%; chords over a bass not their root 46%; changes of key a 10 bars 0.65; chords away from the home key 35%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 11%; melody notes outside the chord 25%; of those, struck with the chord (appoggiaturas) 28%; of those, resolved by a step 72%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Ludwig van Beethoven: string quartet (string quartet), middle
 
-20 works; set against 422 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+20 works; set against 422 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 26.6, against 20.1 (93 in 100)
@@ -253,9 +364,15 @@
 
 **All measures:** moves by step 48%; repeated notes 16%; leaps of a fourth or more 19%; mean move (semitones) 3.58; moves that rise 49%; leaps answered by a step back 18%; range of the melody (semitones) 26.6; register of the melody E5; even rhythm (a note as long as the one before) 62%; dotted figures (3:1) 11%; rhythmic variety (bits) 2.07; the ear's surprise, pitch (bits a note) 2.70; the ear's surprise, rhythm (bits a note) 1.41; notes a quarter (texture) 5.89; lines (texture) 4.0
 
+**Harmony**, from the analysts' labels of 20 of its works (20 DCML's); set against 27 works by 2 composers: other composers' labelled string quartets (string quartet) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords from the other mode: 2%, against 0% (79 in 100)
+
+*All its harmony:* chords a bar 1.72; chords on I or V 59%; seventh chords 33%; diminished sevenths 6%; applied chords (V/V and the like) 14%; augmented sixths 1%; Neapolitan chords 1%; chords from the other mode 2%; chords over a bass not their root 41%; changes of key a 10 bars 0.54; chords away from the home key 32%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 9%; melody notes outside the chord 22%; of those, struck with the chord (appoggiaturas) 19%; of those, resolved by a step 70%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Ludwig van Beethoven: symphony (orchestra), middle
 
-3 works; set against 30 works by 3 composers: other composers' symphony (orchestra) of the Classical period.
+3 works; set against 30 works by 3 composers: other composers' symphonies (orchestra) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -279,3 +396,18 @@
 - down a step, up a major third, up a minor third (as long, as long, as long): 1.0 in 1,000 figures, against 0.2, in 7 works. At: Sechs leichte Variationen über ein eigenes Thema, WoO 77 (TAVERN), bar 113 (A4 G4 B4 D5); Sechs Variationen über „Nel cor più non mi sento“ von G. Paisiello, WoO 70 (TAVERN), bar 147 (A3 G3 B3 D4); Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN), bar 49 (B4 A4 C#5 E5)
 
 **All measures:** moves by step 48%; repeated notes 7%; leaps of a fourth or more 27%; mean move (semitones) 3.87; moves that rise 50%; leaps answered by a step back 17%; range of the melody (semitones) 24.9; register of the melody D5; even rhythm (a note as long as the one before) 74%; dotted figures (3:1) 6%; rhythmic variety (bits) 1.63; the ear's surprise, pitch (bits a note) 2.47; the ear's surprise, rhythm (bits a note) 0.97; notes a quarter (texture) 5.13; lines (texture) 2.3
+
+**Harmony**, from the analysts' labels of 7 of its works (7 When in Rome's); set against 215 works by 5 composers: other composers' labelled works for keyboard of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords a bar: 1.16, against 2.45 (6 in 100)
+- of those, resolved by a step: 62%, against 77% (16 in 100)
+- of those, struck with the chord (appoggiaturas): 10%, against 19% (21 in 100)
+- its progressions, against 215 of those works, by either analyst:
+  - I – V7 – I64: 4.6 in 1,000, against 0.5, in 4 works. At: 24 Variationen über „Venni amore“ von V. Righini, WoO 65 (TAVERN), bar 7; Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN), bar 57; Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN), bar 16
+  - V – i – V65: 2.9 in 1,000, against 0.1, in 3 works. At: Neun Variationen über einen Marsch von E. Chr. Dressler, WoO 63 (TAVERN), bar 15; 32 Variationen über ein eigenes Thema in c-Moll, WoO 80 (TAVERN), bar 274; Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN), bar 223
+  - V65 – I – V42: 4.6 in 1,000, against 0.6, in 3 works. At: Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN), bar 1; 24 Variationen über „Venni amore“ von V. Righini, WoO 65 (TAVERN), bar 132; Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN), bar 28
+  - V42 – I6 – V7: 3.5 in 1,000, against 0.4, in 3 works. At: 24 Variationen über „Venni amore“ von V. Righini, WoO 65 (TAVERN), bar 149; Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN), bar 40; Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN), bar 74
+  - V – i – V6: 3.5 in 1,000, against 0.4, in 2 works. At: Neun Variationen über einen Marsch von E. Chr. Dressler, WoO 63 (TAVERN), bar 28; 32 Variationen über ein eigenes Thema in c-Moll, WoO 80 (TAVERN), bar 15
+  - V7 – I64 – V7: 5.8 in 1,000, against 1.3, in 4 works. At: 24 Variationen über „Venni amore“ von V. Righini, WoO 65 (TAVERN), bar 8; Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN), bar 10; Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN), bar 58
+
+*All its harmony:* chords a bar 1.16; chords on I or V 64%; seventh chords 30%; diminished sevenths 4%; applied chords (V/V and the like) 17%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 35%; changes of key a 10 bars 0.13; chords away from the home key 1%; melody notes outside the chord 31%; of those, struck with the chord (appoggiaturas) 10%; of those, resolved by a step 62%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%

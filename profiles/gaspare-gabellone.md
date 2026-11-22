@@ -1,10 +1,10 @@
 # Gaspare Gabellone
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Gaspare Gabellone: concerto (orchestra), all
 
-3 works; set against 322 works by 26 composers: other composers' concerto, of any period and forces (range, register and density not compared).
+3 works; set against 322 works by 26 composers: other composers' concertos, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

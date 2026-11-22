@@ -1,10 +1,10 @@
 # Zygmunt Noskowski
 
-5 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+5 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Zygmunt Noskowski: cantata, all
 
-3 works; set against 136 works by 9 composers: other composers' cantata, of any period and forces (range, register and density not compared).
+3 works; set against 136 works by 9 composers: other composers' cantatas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Zygmunt Noskowski: dance, all
 
-10 works; set against 425 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+10 works; set against 425 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -31,7 +31,7 @@
 
 ### Zygmunt Noskowski: krakowiak, all
 
-3 works; set against 47 works by 10 composers: other composers' krakowiak of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 47 works by 10 composers: other composers' krakowiaks of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -42,15 +42,15 @@
 
 ### Zygmunt Noskowski: song, all
 
-78 works; set against 1145 works by 115 composers: other composers' song of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+78 works; set against 1134 works by 115 composers: other composers' songs of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
-- repeated notes: 10%, against 22% (20 in 100)
-- rhythmic variety (bits): 1.93, against 2.49 (22 in 100)
+- repeated notes: 10%, against 22% (21 in 100)
+- rhythmic variety (bits): 1.93, against 2.48 (22 in 100)
 - the ear's surprise, rhythm (bits a note): 1.13, against 1.58 (22 in 100)
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
-- up a half step, down a half step, down a step (as long, much shorter, as long): 2.6 in 1,000 figures, against 0.2, in 10 works. At: Pieśni ludowe op. 51, Hejże ha Mazur, movement 9: Allegro non troppo (PL-Wtm R 66/N, kern), bar 13 (A3 Bb3 A3 G3); Pieśni ludowe op. 51, Jaś i Kasia, movement 1 (PL-Wtm R 66/N, kern), bar 1 (D4 Eb4 D4 C4); Śpiewnik dla dzieci, op. 34, 9. Kolędnicy: Allegretto. (PL-LŹu M 15111, kern), bar 9 (B4 C5 B4 A4)
+- up a half step, down a half step, down a step (as long, much shorter, as long): 2.6 in 1,000 figures, against 0.3, in 10 works. At: Pieśni ludowe op. 51, Hejże ha Mazur, movement 9: Allegro non troppo (PL-Wtm R 66/N, kern), bar 13 (A3 Bb3 A3 G3); Pieśni ludowe op. 51, Jaś i Kasia, movement 1 (PL-Wtm R 66/N, kern), bar 1 (D4 Eb4 D4 C4); Śpiewnik dla dzieci, op. 34, 9. Kolędnicy: Allegretto. (PL-LŹu M 15111, kern), bar 9 (B4 C5 B4 A4)
 - down a half step, up a minor third, down a fifth (as long, as long, as long): 1.4 in 1,000 figures, against 0.0, in 4 works. At: Pieśni ludowe op. 51, Prędzej koniku, movement 3: Moderato cantabile. (PL-Wtm R 66/N, kern), bar 14 (C#4 C4 Eb4 Ab3); Śpiewnik dla dzieci, op. 34, 9. Kolędnicy: Allegretto. (PL-LŹu M 15111, kern), bar 7 (D5 C#5 E5 A4); Pieśni ludowe, Młynarz, movement 1 (PL-Wtm R 245/N, kern), bar 17 (D4 C#4 E4 A3)
 - up a step, up a half step, down a half step (much shorter, as long, as long): 2.7 in 1,000 figures, against 0.5, in 10 works. At: Śpiewnik dla dzieci, op. 34, 38. Derkacz: Molto moderato. (PL-LŹu M 15111, kern), bar 1 (C5 D5 Eb5 D5); Pieśni ludowe op. 51, A-wa Kołysanka, movement 6: Andante con moto (PL-Wtm R 66/N, kern), bar 11 (Bb3 C4 C#4 C4); Pieśni ludowe op. 51, Prędzej koniku, movement 3: Moderato cantabile. (PL-Wtm R 66/N, kern), bar 2 (Eb4 F4 F#4 F4)
 - up a step, up a half step, down 8 (much shorter, as long, much longer): 1.2 in 1,000 figures, against 0.0, in 4 works. At: Śpiewnik dla dzieci, op. 34, 39. Deszczyk: Allegretto animato. (PL-LŹu M 15111, kern), bar 15 (B4 C#5 D5 F#4); Śpiewnik dla dzieci, op. 34, 7. Gwiazdka: Allegretto moderato. (PL-LŹu M 15111, kern), bar 9 (C5 D5 Eb5 G4); Śpiewnik dla dzieci, op. 34, 10. Taniec: Poco allegro. (PL-LŹu M 15111, kern), bar 7 (C5 D5 Eb5 G4)
@@ -61,7 +61,7 @@
 
 ### Zygmunt Noskowski: string quartet, all
 
-4 works; set against 276 works by 37 composers: other composers' string quartet of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 276 works by 37 composers: other composers' string quartets of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

@@ -247,6 +247,243 @@
    "by": "kind, period",
    "works": 68,
    "composers": 9
+  },
+  "harmony": {
+   "works": 9,
+   "by": {
+    "DCML": 9
+   },
+   "values": {
+    "chords a bar": 2.3337700395785954,
+    "tonic and dominant": 0.7074938896345989,
+    "sevenths": 0.3292278294623261,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.03228963491381042,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.00677111216081457,
+    "inversions": 0.3645404156780862,
+    "keys a 10 bars": 1.2962094541888685,
+    "away from home": 0.40872975666181066,
+    "cadences a 10 bars": 1.8547373393130482,
+    "perfect cadences": 0.7074955908289241,
+    "half cadences": 0.17724867724867724,
+    "deceptive or evaded": 0.0,
+    "changes": 0.04065881217488169,
+    "non-chord tones": 0.24961835380061034,
+    "struck dissonance": 0.1502565596988943,
+    "resolved by step": 0.722908706770081,
+    "suspensions": 0.00616026280142023
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.7074938896345989,
+     "others": 0.5156560224328386,
+     "auc": 0.9195284512625841
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.0,
+     "others": 0.0341669300023833,
+     "auc": 0.1634561507125225
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.03228963491381042,
+     "others": 0.1968109278916344,
+     "auc": 0.07469644807226018
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 1.2962094541888685,
+     "others": 0.512805224941355,
+     "auc": 0.8758028393210802
+    },
+    {
+     "measure": "changes",
+     "value": 0.04065881217488169,
+     "others": 0.10224815741301448,
+     "auc": 0.2338171192181687
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V65",
+      "I",
+      "ii65"
+     ],
+     "z": 4.8,
+     "works": 4,
+     "per_1000": 15.6,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c06n04_air_diable.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 4: Air de Diable (DCML)",
+       "bar": 13
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n05_air_leger.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 5: Air léger (DCML)",
+       "bar": 11
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n10_air_lentement.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 10: Air tendre. Lentement (DCML)",
+       "bar": 18
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V43",
+      "I",
+      "V"
+     ],
+     "z": 4.5,
+     "works": 3,
+     "per_1000": 13.3,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c08n04_air_tendre.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 4: Air tendre. Rondeau (DCML)",
+       "bar": 14
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n05_air_leger.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 5: Air léger (DCML)",
+       "bar": 29
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n07_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 7: Air. Animé et leger (DCML)",
+       "bar": 11
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii65",
+      "V7",
+      "I"
+     ],
+     "z": 4.5,
+     "works": 5,
+     "per_1000": 13.3,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c08n11_air_baccantes.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 11: Air de Baccantes. Très animé (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c06n04_air_diable.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 4: Air de Diable (DCML)",
+       "bar": 43
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n10_air_lentement.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 10: Air tendre. Lentement (DCML)",
+       "bar": 19
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i",
+      "V65",
+      "i"
+     ],
+     "z": 4.4,
+     "works": 4,
+     "per_1000": 15.6,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+       "bar": 0
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n04_air_tendre.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 4: Air tendre. Rondeau (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n03_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 3: Air. Noblement (DCML)",
+       "bar": 26
+      }
+     ]
+    },
+    {
+     "chords": [
+      "iiø65",
+      "V",
+      "i"
+     ],
+     "z": 4.3,
+     "works": 6,
+     "per_1000": 17.8,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c06n04_air_diable.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 4: Air de Diable (DCML)",
+       "bar": 27
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n10_air_lentement.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 10: Air tendre. Lentement (DCML)",
+       "bar": 39
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i6",
+      "V43",
+      "i"
+     ],
+     "z": 4.2,
+     "works": 4,
+     "per_1000": 15.6,
+     "others_per_1000": 0.9,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n07_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 7: Air. Animé et leger (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c08n10_air_lentement.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 10: Air tendre. Lentement (DCML)",
+       "bar": 28
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 189,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 162
+   }
   }
  },
  {
@@ -460,6 +697,137 @@
    "by": "kind, period",
    "works": 43,
    "composers": 5
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "DCML": 7
+   },
+   "values": {
+    "chords a bar": 4.401345883180858,
+    "tonic and dominant": 0.615355293171624,
+    "sevenths": 0.3146801677385133,
+    "diminished sevenths": 0.0035811511537464347,
+    "applied chords": 0.08538500144938913,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.011067959979840974,
+    "inversions": 0.3865295955139349,
+    "keys a 10 bars": 2.6706002865913985,
+    "away from home": 0.40776499407875916,
+    "cadences a 10 bars": 3.4185203316708987,
+    "perfect cadences": 0.5683621933621933,
+    "half cadences": 0.29108946608946606,
+    "deceptive or evaded": 0.03015873015873016,
+    "changes": 0.04040879556170713,
+    "non-chord tones": 0.24344259158949116,
+    "struck dissonance": 0.1348269577394956,
+    "resolved by step": 0.7701415119593976,
+    "suspensions": 0.0030389347228253
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 4.401345883180858,
+     "others": 3.164279765069105,
+     "auc": 0.7960868050823073
+    },
+    {
+     "measure": "tonic and dominant",
+     "value": 0.615355293171624,
+     "others": 0.5156560224328386,
+     "auc": 0.7625148464728674
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.08538500144938913,
+     "others": 0.1968109278916344,
+     "auc": 0.2019853168653769
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 2.6706002865913985,
+     "others": 0.512805224941355,
+     "auc": 0.9846535065800434
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 3.4185203316708987,
+     "others": 2.0482120570055597,
+     "auc": 0.8635116965326862
+    },
+    {
+     "measure": "changes",
+     "value": 0.04040879556170713,
+     "others": 0.10224815741301448,
+     "auc": 0.22170462387853698
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "i6",
+      "iiø65",
+      "V"
+     ],
+     "z": 3.5,
+     "works": 3,
+     "per_1000": 9.4,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c05n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 2: Allemande (DCML)",
+       "bar": 15
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c06n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 2: Allemande (DCML)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "iiø65",
+      "V",
+      "i"
+     ],
+     "z": 3.3,
+     "works": 3,
+     "per_1000": 11.3,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c14n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 2: Allemande (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c05n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 2: Allemande (DCML)",
+       "bar": 15
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 189,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 162
+   }
   }
  },
  {
@@ -492,6 +860,43 @@
    "by": "kind, period",
    "works": 43,
    "composers": 5
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 5.0358759216882785,
+    "tonic and dominant": 0.6437507867641052,
+    "sevenths": 0.3153443744564721,
+    "diminished sevenths": 0.0044593309021721894,
+    "applied chords": 0.034006515127491824,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.003246753246753247,
+    "inversions": 0.3944594990654924,
+    "keys a 10 bars": 2.403127383676583,
+    "away from home": 0.47081131595005077,
+    "cadences a 10 bars": 4.3641622171370456,
+    "perfect cadences": 0.5441919191919192,
+    "half cadences": 0.3409090909090909,
+    "deceptive or evaded": 0.022727272727272728,
+    "changes": 0.04058869173741538,
+    "non-chord tones": 0.2979648862303629,
+    "struck dissonance": 0.19782356835484938,
+    "resolved by step": 0.7102759847732538,
+    "suspensions": 0.005393697443302472
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "period",
+    "works": 756,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 389
+   }
   }
  },
  {
@@ -741,6 +1146,237 @@
    "by": "kind, period",
    "works": 175,
    "composers": 9
+  },
+  "harmony": {
+   "works": 51,
+   "by": {
+    "DCML": 51
+   },
+   "values": {
+    "chords a bar": 3.206208311742721,
+    "tonic and dominant": 0.701134118163567,
+    "sevenths": 0.3282210434632933,
+    "diminished sevenths": 0.002974694489298572,
+    "applied chords": 0.0440153302537398,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.00026860059092130003,
+    "mixture": 0.010284141044602138,
+    "inversions": 0.4127036100309303,
+    "keys a 10 bars": 1.9154782459681126,
+    "away from home": 0.40288236802148153,
+    "cadences a 10 bars": 2.76889569398121,
+    "perfect cadences": 0.5498451711687006,
+    "half cadences": 0.2851905175434587,
+    "deceptive or evaded": 0.009041394335511982,
+    "changes": 0.04577440377638965,
+    "non-chord tones": 0.23055571738199385,
+    "struck dissonance": 0.13274272235507584,
+    "resolved by step": 0.7351399320607381,
+    "suspensions": 0.0066861669813572415
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.701134118163567,
+     "others": 0.5156560224328386,
+     "auc": 0.9299856904583954
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.002974694489298572,
+     "others": 0.0341669300023833,
+     "auc": 0.23000754524698436
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.0440153302537398,
+     "others": 0.1968109278916344,
+     "auc": 0.10204966960963967
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 1.9154782459681126,
+     "others": 0.512805224941355,
+     "auc": 0.9228790425048916
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "i6",
+      "V43",
+      "i"
+     ],
+     "z": 7.4,
+     "works": 23,
+     "per_1000": 11.0,
+     "others_per_1000": 0.9,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c11n07_gigue.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 7: Gigue (DCML)",
+       "bar": 10
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n01_majestueusement.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 1: Majestuesement (DCML)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i",
+      "V65",
+      "i"
+     ],
+     "z": 6.9,
+     "works": 17,
+     "per_1000": 9.5,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c07n06_siciliene.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 6: Siciliéne (DCML)",
+       "bar": 0
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+       "bar": 0
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c14n04_fuguete.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 4: Fuguéte (DCML)",
+       "bar": 18
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "V43",
+      "I"
+     ],
+     "z": 6.8,
+     "works": 19,
+     "per_1000": 9.2,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c05n05_musete.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 5: Muséte (DCML)",
+       "bar": 18
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c05n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 2: Allemande (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c09n04_Lejene.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 9, movement 4: Le je-ne-scay-quoy. Gayement (DCML)",
+       "bar": 7
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65",
+      "i",
+      "V"
+     ],
+     "z": 6.6,
+     "works": 20,
+     "per_1000": 9.5,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c05n04_gavote.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 4: Gavote (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c07n06_siciliene.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 6: Siciliéne (DCML)",
+       "bar": 10
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n08_Rondeau.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 8: Rondeau (DCML)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii65",
+      "V7",
+      "I"
+     ],
+     "z": 5.9,
+     "works": 18,
+     "per_1000": 6.9,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c14n04_fuguete.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 4: Fuguéte (DCML)",
+       "bar": 10
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c05n01_prelude.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 1: Prelude (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c06n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 3: Sarabande (DCML)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i6",
+      "V65",
+      "i"
+     ],
+     "z": 5.8,
+     "works": 15,
+     "per_1000": 6.9,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c05n04_gavote.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 4: Gavote (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n03_seconde_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 3: Second Allemande (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c14n01_gravement.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 1: Gravement (DCML)",
+       "bar": 5
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 189,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 162
+   }
   }
  },
  {
@@ -772,7 +1408,7 @@
     "measure": "density",
     "value": 3.606385578384696,
     "others": 8.355430316548752,
-    "auc": 0.22136101446446269
+    "auc": 0.22136101446446274
    }
   ],
   "figures": [
@@ -997,6 +1633,243 @@
    "by": "kind, forces, period",
    "works": 61,
    "composers": 6
+  },
+  "harmony": {
+   "works": 26,
+   "by": {
+    "DCML": 26
+   },
+   "values": {
+    "chords a bar": 3.041049037073464,
+    "tonic and dominant": 0.6830508706359606,
+    "sevenths": 0.3131115044943794,
+    "diminished sevenths": 0.0036228153770098605,
+    "applied chords": 0.04861722329589369,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.006630872447076764,
+    "inversions": 0.411487302964642,
+    "keys a 10 bars": 1.730835329952345,
+    "away from home": 0.31929419829195343,
+    "cadences a 10 bars": 3.019765304190579,
+    "perfect cadences": 0.5194059857521396,
+    "half cadences": 0.3555928046312662,
+    "deceptive or evaded": 0.006455083378160301,
+    "changes": 0.038206703034260395,
+    "non-chord tones": 0.25640993169413245,
+    "struck dissonance": 0.13061164620471932,
+    "resolved by step": 0.7413886904835676,
+    "suspensions": 0.00680140860357019
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.6830508706359606,
+     "others": 0.5614945144450616,
+     "auc": 0.819059273117531
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.3131115044943794,
+     "others": 0.21466414384839486,
+     "auc": 0.8040752987585567
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.04861722329589369,
+     "others": 0.15912254376857582,
+     "auc": 0.19893217322523232
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 1.730835329952345,
+     "others": 0.8051023646697093,
+     "auc": 0.7852481708522839
+    },
+    {
+     "measure": "changes",
+     "value": 0.038206703034260395,
+     "others": 0.11808725712956933,
+     "auc": 0.1914178366620526
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "i",
+      "V65",
+      "i"
+     ],
+     "z": 6.6,
+     "works": 10,
+     "per_1000": 9.3,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c03n08_chaconne_legere.notes.tsv",
+       "label": "Concert Royal no. 3, movement 8: Chaconne (DCML)",
+       "bar": 0
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n04_gavotte.notes.tsv",
+       "label": "Concert Royal no. 1, movement 4: Gavotte (DCML)",
+       "bar": 0
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 13
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65",
+      "i",
+      "V"
+     ],
+     "z": 6.6,
+     "works": 9,
+     "per_1000": 8.0,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c03n08_chaconne_legere.notes.tsv",
+       "label": "Concert Royal no. 3, movement 8: Chaconne (DCML)",
+       "bar": 22
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n06_menuet_en_trio.notes.tsv",
+       "label": "Concert Royal no. 1, movement 6: Menuet en Trio (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c02n03_air_tendre.notes.tsv",
+       "label": "Concert Royal no. 2, movement 3: Air Tendre (DCML)",
+       "bar": 31
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV6",
+      "V65",
+      "I"
+     ],
+     "z": 6.6,
+     "works": 11,
+     "per_1000": 10.5,
+     "others_per_1000": 1.1,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c02n01_prelude.notes.tsv",
+       "label": "Concert Royal no. 2, movement 1: Prélude (DCML)",
+       "bar": 13
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c03n02_allemande.notes.tsv",
+       "label": "Concert Royal no. 3, movement 2: Allemande (DCML)",
+       "bar": 1
+      }
+     ]
+    },
+    {
+     "chords": [
+      "vi",
+      "ii65",
+      "V"
+     ],
+     "z": 6.3,
+     "works": 9,
+     "per_1000": 8.7,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c02n05_echos.notes.tsv",
+       "label": "Concert Royal no. 2, movement 5: Échos (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c02n01_prelude.notes.tsv",
+       "label": "Concert Royal no. 2, movement 1: Prélude (DCML)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "V43",
+      "I"
+     ],
+     "z": 6.3,
+     "works": 6,
+     "per_1000": 7.4,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c03n08_chaconne_legere.notes.tsv",
+       "label": "Concert Royal no. 3, movement 8: Chaconne (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n01_prelude.notes.tsv",
+       "label": "Concert Royal no. 1, movement 1: Prélude (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 1
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i6",
+      "V43",
+      "i"
+     ],
+     "z": 5.9,
+     "works": 10,
+     "per_1000": 7.4,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c03n08_chaconne_legere.notes.tsv",
+       "label": "Concert Royal no. 3, movement 8: Chaconne (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n06_menuet_en_trio.notes.tsv",
+       "label": "Concert Royal no. 1, movement 6: Menuet en Trio (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c02n04_air_contrefugue.notes.tsv",
+       "label": "Concert Royal no. 2, movement 4: Air Contrefugué (DCML)",
+       "bar": 22
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "period",
+    "works": 756,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 389
+   }
   }
  },
  {
@@ -1029,6 +1902,43 @@
    "by": "kind, period",
    "works": 41,
    "composers": 4
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "DCML": 3
+   },
+   "values": {
+    "chords a bar": 3.9044102350738505,
+    "tonic and dominant": 0.6741939385652606,
+    "sevenths": 0.38062858154573775,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.07354662356687043,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.02009901967830583,
+    "inversions": 0.43764816285365526,
+    "keys a 10 bars": 2.4804105124471256,
+    "away from home": 0.3123794464925028,
+    "cadences a 10 bars": 3.0001386866375426,
+    "perfect cadences": 0.5142857142857143,
+    "half cadences": 0.3428571428571428,
+    "deceptive or evaded": 0.0,
+    "changes": 0.024318428961006253,
+    "non-chord tones": 0.2209449603871022,
+    "struck dissonance": 0.10622710622710622,
+    "resolved by step": 0.748894783377542,
+    "suspensions": 0.004755207286852856
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 189,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 162
+   }
   }
  },
  {
@@ -1061,6 +1971,43 @@
    "by": "kind, period",
    "works": 41,
    "composers": 4
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "DCML": 3
+   },
+   "values": {
+    "chords a bar": 3.151833151833152,
+    "tonic and dominant": 0.6410748716258067,
+    "sevenths": 0.34620446961977264,
+    "diminished sevenths": 0.0024875621890547263,
+    "applied chords": 0.0883315600711303,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.006944444444444444,
+    "inversions": 0.4382392755100002,
+    "keys a 10 bars": 2.232287232287232,
+    "away from home": 0.34822498951027986,
+    "cadences a 10 bars": 3.174108174108174,
+    "perfect cadences": 0.5032967032967033,
+    "half cadences": 0.3978021978021978,
+    "deceptive or evaded": 0.025641025641025644,
+    "changes": 0.034877070470938486,
+    "non-chord tones": 0.25706426078378347,
+    "struck dissonance": 0.016124871001031993,
+    "resolved by step": 0.7821802810192903,
+    "suspensions": 0.009224397590361446
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "period",
+    "works": 756,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 389
+   }
   }
  },
  {
@@ -1329,6 +2276,249 @@
    "by": "kind, forces, period",
    "works": 110,
    "composers": 4
+  },
+  "harmony": {
+   "works": 21,
+   "by": {
+    "DCML": 21
+   },
+   "values": {
+    "chords a bar": 3.399625352712766,
+    "tonic and dominant": 0.6734599117978258,
+    "sevenths": 0.3285052677921116,
+    "diminished sevenths": 0.0011937170512488116,
+    "applied chords": 0.06664232461789348,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.011676511685385712,
+    "inversions": 0.4264502017042847,
+    "keys a 10 bars": 2.0950563763919776,
+    "away from home": 0.3896589019077175,
+    "cadences a 10 bars": 2.87703775568302,
+    "perfect cadences": 0.5331495224352368,
+    "half cadences": 0.30075929361643644,
+    "deceptive or evaded": 0.016005291005291005,
+    "changes": 0.04633600821176024,
+    "non-chord tones": 0.20363156065357696,
+    "struck dissonance": 0.1384150193868098,
+    "resolved by step": 0.742886998330459,
+    "suspensions": 0.006500864670128804
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.6734599117978258,
+     "others": 0.45589950315478944,
+     "auc": 0.9409523809523809
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.3285052677921116,
+     "others": 0.25009256197087876,
+     "auc": 0.7561904761904762
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.0011937170512488116,
+     "others": 0.03145215217397718,
+     "auc": 0.1568253968253968
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.06664232461789348,
+     "others": 0.22798603182400778,
+     "auc": 0.08444444444444446
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 2.0950563763919776,
+     "others": 0.649132569046017,
+     "auc": 0.9111111111111112
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 2.87703775568302,
+     "others": 1.8897616816255403,
+     "auc": 0.8526984126984127
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "i6",
+      "V43",
+      "i"
+     ],
+     "z": 4.7,
+     "works": 10,
+     "per_1000": 12.3,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c11n07_gigue.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 7: Gigue (DCML)",
+       "bar": 10
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n04_courante.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 4: Courante (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "V43",
+      "I"
+     ],
+     "z": 4.3,
+     "works": 8,
+     "per_1000": 10.0,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c05n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 2: Allemande (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n05_seconde_courante.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 5: Seconde Courante (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c05n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 3: Sarabande (DCML)",
+       "bar": 9
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65",
+      "i",
+      "V"
+     ],
+     "z": 4.0,
+     "works": 7,
+     "per_1000": 8.5,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+       "bar": 10
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n04_courante.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 4: Courante (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c07n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 3: Sarabande (DCML)",
+       "bar": 20
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V43",
+      "i",
+      "V"
+     ],
+     "z": 3.4,
+     "works": 8,
+     "per_1000": 6.9,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c05n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 3: Sarabande (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n07_gigue.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 7: Gigue (DCML)",
+       "bar": 29
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c14n02_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 2: Allemande (DCML)",
+       "bar": 17
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V42",
+      "i6",
+      "V43"
+     ],
+     "z": 3.4,
+     "works": 6,
+     "per_1000": 6.9,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c11n07_gigue.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 7: Gigue (DCML)",
+       "bar": 10
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n04_courante.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 4: Courante (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+       "bar": 28
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i",
+      "V65",
+      "i"
+     ],
+     "z": 3.4,
+     "works": 6,
+     "per_1000": 6.9,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+       "bar": 0
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n03_seconde_allemande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 3: Second Allemande (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n04_courante.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 4: Courante (DCML)",
+       "bar": 9
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 75,
+    "composers": 1,
+    "progressions_by": "DCML",
+    "progressions_works": 75
+   }
   }
  },
  {
@@ -1359,20 +2549,20 @@
    {
     "measure": "steps",
     "value": 0.6780427264294661,
-    "others": 0.5454747683360401,
-    "auc": 0.7674104319981786
+    "others": 0.5454747683360402,
+    "auc": 0.7674104319981787
    },
    {
     "measure": "leaps",
     "value": 0.11822536155333739,
-    "others": 0.21137703325617985,
-    "auc": 0.18868286075383298
+    "others": 0.21137703325617987,
+    "auc": 0.188682860753833
    },
    {
     "measure": "move",
     "value": 2.503941353757748,
-    "others": 3.221089225525287,
-    "auc": 0.18714714274178157
+    "others": 3.2210892255252874,
+    "auc": 0.18714714274178165
    }
   ],
   "figures": [
@@ -1597,6 +2787,249 @@
    "by": "kind, period",
    "works": 254,
    "composers": 13
+  },
+  "harmony": {
+   "works": 15,
+   "by": {
+    "DCML": 15
+   },
+   "values": {
+    "chords a bar": 3.336493814981949,
+    "tonic and dominant": 0.6725835056594837,
+    "sevenths": 0.33120182171958207,
+    "diminished sevenths": 0.0032018188602083776,
+    "applied chords": 0.05509360256405128,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.005549231538524205,
+    "inversions": 0.42228274255862286,
+    "keys a 10 bars": 2.0756495626669835,
+    "away from home": 0.3671754594203823,
+    "cadences a 10 bars": 3.2650561409031917,
+    "perfect cadences": 0.5533697783697783,
+    "half cadences": 0.3358399008399008,
+    "deceptive or evaded": 0.011188811188811189,
+    "changes": 0.038623139742937976,
+    "non-chord tones": 0.2571602624955559,
+    "struck dissonance": 0.1358695137573075,
+    "resolved by step": 0.742076347247172,
+    "suspensions": 0.0075929406921415405
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.6725835056594837,
+     "others": 0.5614945144450616,
+     "auc": 0.7992691050779288
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.33120182171958207,
+     "others": 0.21466414384839486,
+     "auc": 0.8656743338360987
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.05509360256405128,
+     "others": 0.15912254376857582,
+     "auc": 0.22236503856041126
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 2.0756495626669835,
+     "others": 0.8051023646697093,
+     "auc": 0.8599828620394171
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 3.2650561409031917,
+     "others": 1.9019116280166544,
+     "auc": 0.7848404255319149
+    },
+    {
+     "measure": "changes",
+     "value": 0.038623139742937976,
+     "others": 0.11808725712956933,
+     "auc": 0.189031705227078
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "i",
+      "V65",
+      "i"
+     ],
+     "z": 5.3,
+     "works": 7,
+     "per_1000": 10.8,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c01n04_gavotte.notes.tsv",
+       "label": "Concert Royal no. 1, movement 4: Gavotte (DCML)",
+       "bar": 0
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 13
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n03_sarabande.notes.tsv",
+       "label": "Concert Royal no. 1, movement 3: Sarabande (DCML)",
+       "bar": 1
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65",
+      "I",
+      "V65"
+     ],
+     "z": 5.2,
+     "works": 3,
+     "per_1000": 7.2,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n02_allemande.notes.tsv",
+       "label": "Concert Royal no. 1, movement 2: Allemande (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c04n06_rigaudon.notes.tsv",
+       "label": "Concert Royal no. 4, movement 6: Rigaudon (DCML)",
+       "bar": 26
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV6",
+      "V65",
+      "I"
+     ],
+     "z": 5.1,
+     "works": 5,
+     "per_1000": 12.0,
+     "others_per_1000": 1.1,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c03n02_allemande.notes.tsv",
+       "label": "Concert Royal no. 3, movement 2: Allemande (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c03n03_courante.notes.tsv",
+       "label": "Concert Royal no. 3, movement 3: Courante (DCML)",
+       "bar": 14
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "V43",
+      "I"
+     ],
+     "z": 5.0,
+     "works": 4,
+     "per_1000": 8.4,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c02n02_allemande_fuguee.notes.tsv",
+       "label": "Concert Royal no. 2, movement 2: Allemande Fuguée (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c04n03_courante_francoise.notes.tsv",
+       "label": "Concert Royal no. 4, movement 3: Courante Françoise (DCML)",
+       "bar": 3
+      }
+     ]
+    },
+    {
+     "chords": [
+      "vi",
+      "ii65",
+      "V"
+     ],
+     "z": 4.9,
+     "works": 6,
+     "per_1000": 9.6,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+       "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c01n04_gavotte.notes.tsv",
+       "label": "Concert Royal no. 1, movement 4: Gavotte (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c03n03_courante.notes.tsv",
+       "label": "Concert Royal no. 3, movement 3: Courante (DCML)",
+       "bar": 16
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V43",
+      "i6",
+      "iiø65"
+     ],
+     "z": 4.8,
+     "works": 3,
+     "per_1000": 6.0,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c03n03_courante.notes.tsv",
+       "label": "Concert Royal no. 3, movement 3: Courante (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c03n05_gavotte.notes.tsv",
+       "label": "Concert Royal no. 3, movement 5: Gavotte (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c03n04_sarabande_grave.notes.tsv",
+       "label": "Concert Royal no. 3, movement 4: Sarabande (DCML)",
+       "bar": 3
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "period",
+    "works": 756,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 389
+   }
   }
  },
  {
@@ -1628,7 +3061,7 @@
     "measure": "repeats",
     "value": 0.12074403896775318,
     "others": 0.04774681359938692,
-    "auc": 0.8224049000915553
+    "auc": 0.8224049000915554
    },
    {
     "measure": "leaps",
@@ -1652,7 +3085,7 @@
     "measure": "even",
     "value": 0.48273393426792843,
     "others": 0.7786739359522001,
-    "auc": 0.0925746830241401
+    "auc": 0.09257468302414013
    },
    {
     "measure": "long-short",
@@ -1670,7 +3103,7 @@
     "measure": "surprise, rhythm",
     "value": 1.6822205688529404,
     "others": 0.9540658913438337,
-    "auc": 0.8859230603698622
+    "auc": 0.8859230603698623
    }
   ],
   "figures": [
@@ -1895,6 +3328,68 @@
    "by": "kind, forces, period",
    "works": 75,
    "composers": 3
+  },
+  "harmony": {
+   "works": 9,
+   "by": {
+    "DCML": 9
+   },
+   "values": {
+    "chords a bar": 2.976686219124453,
+    "tonic and dominant": 0.5025470844069875,
+    "sevenths": 0.3274250444349843,
+    "diminished sevenths": 0.00570079883805374,
+    "applied chords": 0.2020138682269911,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0020576131687242796,
+    "mixture": 0.0036386966942522497,
+    "inversions": 0.3382347819970173,
+    "keys a 10 bars": 0.9466832120109103,
+    "away from home": 0.314396745312884,
+    "cadences a 10 bars": 2.434404791615053,
+    "perfect cadences": 0.4895943562610229,
+    "half cadences": 0.24285714285714288,
+    "deceptive or evaded": 0.022222222222222223,
+    "changes": 0.20501578849206614,
+    "non-chord tones": 0.31849295892937196,
+    "struck dissonance": 0.14207516229870892,
+    "resolved by step": 0.7922353324877681,
+    "suspensions": 0.008467401198524049
+   },
+   "traits": [
+    {
+     "measure": "diminished sevenths",
+     "value": 0.00570079883805374,
+     "others": 0.07346260697846684,
+     "auc": 0.08333333333333331
+    },
+    {
+     "measure": "inversions",
+     "value": 0.3382347819970173,
+     "others": 0.44297064125063207,
+     "auc": 0.1488095238095238
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.31849295892937196,
+     "others": 0.2405041390694364,
+     "auc": 0.753968253968254
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.14207516229870892,
+     "others": 0.048813931975616245,
+     "auc": 0.863095238095238
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 28,
+    "composers": 1,
+    "progressions_by": "both",
+    "progressions_works": 28
+   }
   }
  },
  {
@@ -1927,6 +3422,43 @@
    "by": "kind, period",
    "works": 109,
    "composers": 9
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 4.095043351622299,
+    "tonic and dominant": 0.6645048907892777,
+    "sevenths": 0.34153475021776336,
+    "diminished sevenths": 0.002717391304347826,
+    "applied chords": 0.04602025474728658,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.002717391304347826,
+    "inversions": 0.48292376388066915,
+    "keys a 10 bars": 2.031705107363002,
+    "away from home": 0.34522234126065926,
+    "cadences a 10 bars": 3.865258585653322,
+    "perfect cadences": 0.3958333333333333,
+    "half cadences": 0.36666666666666664,
+    "deceptive or evaded": 0.0,
+    "changes": 0.0675611303378815,
+    "non-chord tones": 0.222685618730119,
+    "struck dissonance": 0.2573511011011011,
+    "resolved by step": 0.7036411411411412,
+    "suspensions": 0.0068553194473665756
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "period",
+    "works": 756,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 389
+   }
   }
  },
  {
@@ -1958,31 +3490,31 @@
     "measure": "even",
     "value": 0.3801934762605622,
     "others": 0.5733549640053296,
-    "auc": 0.21949404761904756
+    "auc": 0.21949404761904762
    },
    {
     "measure": "long-short",
     "value": 0.21153654014761145,
     "others": 0.13031631467501825,
-    "auc": 0.7703373015873014
+    "auc": 0.7703373015873016
    },
    {
     "measure": "rhythm variety",
     "value": 2.783137388289929,
     "others": 2.047919375052185,
-    "auc": 0.7951388888888887
+    "auc": 0.7951388888888888
    },
    {
     "measure": "surprise, pitch",
     "value": 3.0704896004413467,
     "others": 2.86015000804533,
-    "auc": 0.7663690476190474
+    "auc": 0.7663690476190477
    },
    {
     "measure": "surprise, rhythm",
     "value": 2.0066646744199037,
     "others": 1.5709079464665412,
-    "auc": 0.8090277777777776
+    "auc": 0.8090277777777779
    }
   ],
   "figures": [],
@@ -1990,6 +3522,131 @@
    "by": "kind, period",
    "works": 33,
    "composers": 4
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "DCML": 7
+   },
+   "values": {
+    "chords a bar": 2.1804885590599876,
+    "tonic and dominant": 0.683596637644279,
+    "sevenths": 0.3226288889700922,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.0619803448339865,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.01351620766839754,
+    "inversions": 0.4533243043818275,
+    "keys a 10 bars": 1.5017522160379304,
+    "away from home": 0.37661468848135327,
+    "cadences a 10 bars": 2.49824778396207,
+    "perfect cadences": 0.43448773448773453,
+    "half cadences": 0.3571067821067821,
+    "deceptive or evaded": 0.017857142857142856,
+    "changes": 0.05820963411819025,
+    "non-chord tones": 0.14788020585495093,
+    "struck dissonance": 0.1633175383175383,
+    "resolved by step": 0.6756054756054756,
+    "suspensions": 0.013770405312723782
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.683596637644279,
+     "others": 0.5156560224328386,
+     "auc": 0.9032366933416409
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.0,
+     "others": 0.0341669300023833,
+     "auc": 0.1634561507125225
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.0619803448339865,
+     "others": 0.1968109278916344,
+     "auc": 0.15701672973037292
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 1.5017522160379304,
+     "others": 0.512805224941355,
+     "auc": 0.8841486994597939
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.14788020585495093,
+     "others": 0.24844671958480444,
+     "auc": 0.1533345881171968
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V43",
+      "i",
+      "V"
+     ],
+     "z": 4.1,
+     "works": 4,
+     "per_1000": 16.4,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c05n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 3: Sarabande (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c14n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 3: Sarabande (DCML)",
+       "bar": 18
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c07n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 3: Sarabande (DCML)",
+       "bar": 7
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "V43",
+      "I"
+     ],
+     "z": 3.7,
+     "works": 3,
+     "per_1000": 16.4,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/couperin_concerts:notes/c05n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 3: Sarabande (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c06n03_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 3: Sarabande (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/couperin_concerts:notes/c11n06_sarabande.notes.tsv",
+       "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 6: Sarabande (DCML)",
+       "bar": 22
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 189,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 162
+   }
   }
  },
  {
@@ -2022,6 +3679,43 @@
    "by": "kind, period",
    "works": 33,
    "composers": 4
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "DCML": 3
+   },
+   "values": {
+    "chords a bar": 2.1552579365079363,
+    "tonic and dominant": 0.6616554906626289,
+    "sevenths": 0.34148100079313576,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.048741798255101304,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.009806042252505589,
+    "inversions": 0.43712596438099355,
+    "keys a 10 bars": 2.093253968253968,
+    "away from home": 0.3403634003893576,
+    "cadences a 10 bars": 2.619047619047619,
+    "perfect cadences": 0.4861111111111111,
+    "half cadences": 0.3194444444444444,
+    "deceptive or evaded": 0.0,
+    "changes": 0.04632633931790323,
+    "non-chord tones": 0.19856140789727394,
+    "struck dissonance": 0.17654808959156787,
+    "resolved by step": 0.616600790513834,
+    "suspensions": 0.017476249289954088
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "period",
+    "works": 756,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 389
+   }
   }
  }
 ]

@@ -1,10 +1,10 @@
 # Marcin Józef Żebrowski
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Marcin Józef Żebrowski: magnificat, all
 
-13 works; set against 25 works by 10 composers: other composers' magnificat of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+13 works; set against 25 works by 10 composers: other composers' magnificats of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 44%, against 50% (17 in 100)
@@ -18,7 +18,7 @@
 
 ### Marcin Józef Żebrowski: mass, all
 
-21 works; set against 181 works by 20 composers: other composers' mass of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+21 works; set against 181 works by 20 composers: other composers' masses of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 3.61, against 2.68 (84 in 100)
@@ -36,7 +36,7 @@
 
 ### Marcin Józef Żebrowski: sonata, all
 
-10 works; set against 479 works by 15 composers: other composers' sonata of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+10 works; set against 479 works by 15 composers: other composers' sonatas of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.91, against 1.38 (82 in 100)

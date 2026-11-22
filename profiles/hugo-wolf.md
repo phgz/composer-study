@@ -1,10 +1,10 @@
 # Hugo Wolf
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Hugo Wolf: song (voice and keyboard), all
 
-25 works; set against 284 works by 37 composers: other composers' song (voice and keyboard) of the 1890 to 1950 period.
+25 works; set against 284 works by 37 composers: other composers' songs (voice and keyboard) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: C5, against A4 (79 in 100)
@@ -20,9 +20,17 @@
 
 **All measures:** moves by step 44%; repeated notes 26%; leaps of a fourth or more 17%; mean move (semitones) 3.10; moves that rise 48%; leaps answered by a step back 26%; range of the melody (semitones) 13.7; register of the melody C5; even rhythm (a note as long as the one before) 36%; dotted figures (3:1) 16%; rhythmic variety (bits) 2.70; the ear's surprise, pitch (bits a note) 2.88; the ear's surprise, rhythm (bits a note) 1.75; notes a quarter (texture) 7.61; lines (texture) 3.0
 
+**Harmony**, from the analysts' labels of 7 of its works (7 When in Rome's); set against 58 works by 7 composers: other composers' labelled works of the 1890 to 1950 period. Changes of key and applied chords are compared within one analyst's labels. Being for other forces, they are not compared for how often the chords change, nor for the melody against the chords.
+
+- chords on I or V: 55%, against 40% (80 in 100)
+- its progressions, against 58 of those works, by either analyst:
+  - I – V7 – I: 22.3 in 1,000, against 1.8, in 6 works. At: Eichendorff-Lieder, Das Ständchen (OpenScore), bar 12; Eichendorff-Lieder, Waldmädchen (OpenScore), bar 7; Eichendorff-Lieder, Der Scholar (OpenScore), bar 45
+
+*All its harmony:* chords a bar 1.68; chords on I or V 55%; seventh chords 36%; diminished sevenths 6%; applied chords (V/V and the like) 11%; augmented sixths 1%; Neapolitan chords 4%; chords from the other mode 8%; chords over a bass not their root 33%; changes of key a 10 bars 1.72; chords away from the home key 40%; melody notes outside the chord 21%; of those, struck with the chord (appoggiaturas) 14%; of those, resolved by a step 67%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Hugo Wolf: string quartet (string quartet), all
 
-6 works; set against 112 works by 19 composers: other composers' string quartet (string quartet) of the 1890 to 1950 period.
+6 works; set against 112 works by 19 composers: other composers' string quartets (string quartet) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - rhythmic variety (bits): 2.77, against 2.25 (81 in 100)

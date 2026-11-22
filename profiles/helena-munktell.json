@@ -36,7 +36,7 @@
      -2,
      0
     ],
-    "z": 3.8,
+    "z": 3.7,
     "works": 3,
     "per_1000": 4.1,
     "others_per_1000": 0.6,
@@ -58,6 +58,36 @@
       "label": "Songs, Exil d’Amour (OpenScore)",
       "bar": 40,
       "notes": "A4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/08_Exil_d’Amour/lc6656152.mxl",
+      "label": "Songs, Exil d’Amour (OpenScore)",
+      "bar": 6,
+      "notes": "F#4 A4 Ab4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/07_La_dernière_berceuse/lc6655859.mxl",
+      "label": "Songs, La dernière berceuse (OpenScore)",
+      "bar": 10,
+      "notes": "C#5 E5 Eb5 C#5"
      }
     ]
    },
@@ -96,41 +126,11 @@
       "notes": "Ab4 A4 B4 B4"
      }
     ]
-   },
-   {
-    "moves": [
-     3,
-     -1,
-     -2
-    ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 3.6,
-    "works": 2,
-    "per_1000": 3.4,
-    "others_per_1000": 0.5,
-    "at": [
-     {
-      "work": "openscore-lieder:Munktell,_Helena/10_Songs/08_Exil_d’Amour/lc6656152.mxl",
-      "label": "Songs, Exil d’Amour (OpenScore)",
-      "bar": 6,
-      "notes": "F#4 A4 Ab4 F#4"
-     },
-     {
-      "work": "openscore-lieder:Munktell,_Helena/10_Songs/07_La_dernière_berceuse/lc6655859.mxl",
-      "label": "Songs, La dernière berceuse (OpenScore)",
-      "bar": 10,
-      "notes": "C#5 E5 Eb5 C#5"
-     }
-    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1088,
+   "works": 1077,
    "composers": 97
   }
  }

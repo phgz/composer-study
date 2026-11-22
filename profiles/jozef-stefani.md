@@ -1,10 +1,10 @@
 # Józef Stefani
 
-12 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+12 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Józef Stefani: air, all
 
-5 works; set against 155 works by 40 composers: other composers' air, of any period and forces (range, register and density not compared).
+5 works; set against 155 works by 40 composers: other composers' airs, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 2.07, against 1.54 (84 in 100)
@@ -19,7 +19,7 @@
 
 ### Józef Stefani: dance, all
 
-89 works; set against 346 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+89 works; set against 346 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -35,7 +35,7 @@
 
 ### Józef Stefani: krakowiak, all
 
-7 works; set against 43 works by 10 composers: other composers' krakowiak of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 43 works by 10 composers: other composers' krakowiaks of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.74, against 1.41 (79 in 100)
@@ -52,7 +52,7 @@
 
 ### Józef Stefani: march, all
 
-19 works; set against 32 works by 18 composers: other composers' march of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+19 works; set against 32 works by 18 composers: other composers' marches of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -65,7 +65,7 @@
 
 ### Józef Stefani: mass, all
 
-102 works; set against 451 works by 37 composers: other composers' mass of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+102 works; set against 451 works by 37 composers: other composers' masses of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 14%, against 25% (23 in 100)
@@ -82,7 +82,7 @@
 
 ### Józef Stefani: mazurka, all
 
-37 works; set against 100 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+37 works; set against 100 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -109,7 +109,7 @@
 
 ### Józef Stefani: polonaise, all
 
-14 works; set against 49 works by 18 composers: other composers' polonaise of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+14 works; set against 49 works by 18 composers: other composers' polonaises of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -125,7 +125,7 @@
 
 ### Józef Stefani: string quartet, all
 
-4 works; set against 276 works by 37 composers: other composers' string quartet of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 276 works by 37 composers: other composers' string quartets of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -136,7 +136,7 @@
 
 ### Józef Stefani: suite, all
 
-3 works; set against 248 works by 18 composers: other composers' suite, of any period and forces (range, register and density not compared).
+3 works; set against 248 works by 18 composers: other composers' suites, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -158,7 +158,7 @@
 
 ### Józef Stefani: waltz, all
 
-3 works; set against 73 works by 19 composers: other composers' waltz of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 73 works by 19 composers: other composers' waltzes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

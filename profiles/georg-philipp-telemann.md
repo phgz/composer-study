@@ -1,10 +1,10 @@
 # Georg Philipp Telemann
 
-5 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+5 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Georg Philipp Telemann: concerto (chamber), all
 
-3 works; set against 248 works by 9 composers: other composers' concerto of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 248 works by 9 composers: other composers' concertos of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Georg Philipp Telemann: concerto (solo instrument), all
 
-8 works; set against 248 works by 9 composers: other composers' concerto of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 248 works by 9 composers: other composers' concertos of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 23%, against 11% (79 in 100)
@@ -32,7 +32,7 @@
 
 ### Georg Philipp Telemann: duet, all
 
-4 works; set against 51 works by 17 composers: other composers' duet, of any period and forces (range, register and density not compared).
+4 works; set against 51 works by 17 composers: other composers' duets, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -43,7 +43,7 @@
 
 ### Georg Philipp Telemann: sonata, all
 
-4 works; set against 482 works by 15 composers: other composers' sonata of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 482 works by 15 composers: other composers' sonatas of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -54,7 +54,7 @@
 
 ### Georg Philipp Telemann: sonata (solo instrument), all
 
-4 works; set against 482 works by 15 composers: other composers' sonata of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 482 works by 15 composers: other composers' sonatas of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

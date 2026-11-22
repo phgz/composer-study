@@ -1,10 +1,10 @@
 # Walenty Szlagórski
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Walenty Szlagórski: dance, all
 
-15 works; set against 420 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+15 works; set against 420 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Walenty Szlagórski: mazurka, all
 
-5 works; set against 132 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 132 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 1.76, against 2.09 (24 in 100)
@@ -37,7 +37,7 @@
 
 ### Walenty Szlagórski: waltz, all
 
-10 works; set against 66 works by 19 composers: other composers' waltz of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+10 works; set against 66 works by 19 composers: other composers' waltzes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.38, against 1.04 (85 in 100)

@@ -1,10 +1,10 @@
 # Giovanni Francesco Anerio
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Giovanni Francesco Anerio: mass (voices), all
 
-6 works; set against 590 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+6 works; set against 590 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 2.52, against 2.20 (91 in 100)

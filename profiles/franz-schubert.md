@@ -1,10 +1,10 @@
 # Franz Schubert
 
-8 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+8 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Franz Schubert: dance (string quartet), before 1822
 
-3 works; set against 431 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 431 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Franz Schubert: impromptu (keyboard), late
 
-7 works; set against 288 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few impromptu).
+7 works; set against 287 works by 16 composers: other composers' works for keyboard of the Romantic period, of any kind (too few impromptus).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -31,7 +31,7 @@
 
 ### Franz Schubert: minuet (string quartet), before 1822
 
-3 works; set against 207 works by 47 composers: other composers' minuet, of any period and forces (range, register and density not compared).
+3 works; set against 207 works by 47 composers: other composers' minuets, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -42,7 +42,7 @@
 
 ### Franz Schubert: sonata (keyboard), before 1822
 
-3 works; set against 40 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 40 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -53,15 +53,15 @@
 
 ### Franz Schubert: song (voice and keyboard), before 1822
 
-20 works; set against 974 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+20 works; set against 973 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
 - same, up a minor third, down a fourth (much longer, much shorter, much longer): 2.4 in 1,000 figures, against 0.0, in 3 works. At: Litanei auf das Fest Aller Seelen (kern), bar 9 (G4 G4 Bb4 F4); Gretchen am Spinnrade, D.118 (OpenScore), bar 6 (A4 A4 C5 G4); Der Erlkönig, D.328 (OpenScore), bar 62 (D5 D5 F5 C5)
 - up a major third, same, same (much longer, much shorter, much shorter): 1.7 in 1,000 figures, against 0.0, in 2 works. At: An mein Klavier (kern), bar 13 (A4 C#5 C#5 C#5); Im Gegenwärtigen Vergangenes, D.710 (OpenScore), bar 48 (D4 F#4 F#4 F#4)
-- down a half step, up a minor third, down a step (as long, as long, as long): 2.7 in 1,000 figures, against 0.3, in 4 works. At: Die Forelle, Op.32, D550d (OpenScore), bar 17 (C#5 C5 Eb5 C#5); Das Rosenband (kern), bar 3 (C#5 C5 Eb5 C#5); Das Rosenband, D.280 (OpenScore), bar 3 (C#5 C5 Eb5 C#5)
 - down a half step, up a minor third, down a step (as long, as long, much longer): 2.0 in 1,000 figures, against 0.1, in 2 works. At: An mein Klavier (kern), bar 3 (D5 C#5 E5 D5); Im Gegenwärtigen Vergangenes, D.710 (OpenScore), bar 8 (C#4 C4 Eb4 C#4)
+- down a half step, up a minor third, down a step (as long, as long, as long): 2.7 in 1,000 figures, against 0.3, in 4 works. At: Die Forelle, Op.32, D550d (OpenScore), bar 17 (C#5 C5 Eb5 C#5); Das Rosenband (kern), bar 3 (C#5 C5 Eb5 C#5); Das Rosenband, D.280 (OpenScore), bar 3 (C#5 C5 Eb5 C#5)
 - up a step, up a half step, same (much longer, much shorter, as long): 2.4 in 1,000 figures, against 0.2, in 4 works. At: Gretchen am Spinnrade, D.118 (OpenScore), bar 101 (D5 E5 F5 F5); An die Musik (kern), bar 15 (B4 C#5 D5 D5); An die Musik, D.547 (OpenScore), bar 15 (B4 C#5 D5 D5)
 - down a major third, up a half step, same (much longer, much shorter, much longer): 1.7 in 1,000 figures, against 0.1, in 3 works. At: Das Rosenband (kern), bar 5 (Eb5 B4 C5 C5); Das Rosenband, D.280 (OpenScore), bar 5 (Eb5 B4 C5 C5); Liebesrausch, D.179 (OpenScore), bar 7 (Bb4 F#4 G4 G4)
 
@@ -69,23 +69,29 @@
 
 ### Franz Schubert: song (voice and keyboard), late
 
-105 works; set against 974 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+95 works; set against 973 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
-- up a minor third, down a step, down a half step (as long, as long, as long): 1.6 in 1,000 figures, against 0.3, in 14 works. At: Die schöne Müllerin, D.795, Die böse Farbe (OpenScore), bar 7 (Eb5 F#5 E5 Eb5); Lieder, Op.96, Fischerweise, D.881 (OpenScore), bar 36 (C#5 E5 D5 C#5); Winterreise, D. 911, Op. 89, movement 4: Erstarrung (DCML), bar 16 (D5 F5 Eb5 D5)
-- up a half step, down a fourth, same (much shorter, much longer, much shorter): 0.9 in 1,000 figures, against 0.1, in 8 works. At: Winterreise, D. 911, Op. 89, movement 19: Täuschung (DCML), bar 18 (Ab5 A5 E5 E5); Winterreise, D. 911, Op. 89, movement 13: Die Post (DCML), bar 12 (G4 Ab4 Eb4 Eb4); Schwanengesang, D.957, Abschied (OpenScore), bar 42 (C5 C#5 Ab4 Ab4)
-- up a half step, down a minor third, down a step (as long, as long, as long): 0.9 in 1,000 figures, against 0.1, in 8 works. At: Lachen und Weinen (kern), bar 23 (C5 C#5 Bb4 Ab4); Op.59, Lachen und Weinen (OpenScore), bar 31 (C5 C#5 Bb4 Ab4); Op.60, Greisengesang, D.778 (OpenScore), bar 44 (Bb3 B3 Ab3 F#3)
-- up a minor third, same, same (much shorter, much longer, much shorter): 1.0 in 1,000 figures, against 0.1, in 9 works. At: Horch, horch, die Lerch (kern), bar 15 (C5 Eb5 Eb5 Eb5); Die schöne Müllerin, D.795, Trockne Blumen (OpenScore), bar 5 (B4 D5 D5 D5); Das Fischermaedchen (kern), bar 28 (C#5 E5 E5 E5)
-- down a step, down a half step, up a half step (much longer, much shorter, as long): 1.2 in 1,000 figures, against 0.2, in 13 works. At: Die schöne Müllerin, D.795, Halt! (OpenScore), bar 48 (D5 C5 B4 C5); Die schöne Müllerin, D.795, Trockne Blumen (OpenScore), bar 38 (F#5 E5 Eb5 E5); Schwanengesang, D.957, Abschied (OpenScore), bar 37 (Bb4 Ab4 G4 Ab4)
-- down a step, up a step, up a half step (much shorter, much shorter, as long): 0.8 in 1,000 figures, against 0.0, in 7 works. At: Du bist die Ruh (kern), bar 16 (G4 F4 G4 Ab4); Op.59, Du bist die Ruh (OpenScore), bar 23 (G4 F4 G4 Ab4); Winterreise, D. 911, Op. 89, movement 20: Der Wegweiser (DCML), bar 12 (A4 G4 A4 Bb4)
+- up a minor third, down a step, down a half step (as long, as long, as long): 1.7 in 1,000 figures, against 0.3, in 14 works. At: Die schöne Müllerin, D.795, Die böse Farbe (OpenScore), bar 7 (Eb5 F#5 E5 Eb5); Lieder, Op.96, Fischerweise, D.881 (OpenScore), bar 36 (C#5 E5 D5 C#5); Winterreise, D. 911, Op. 89, movement 4: Erstarrung (DCML), bar 16 (D5 F5 Eb5 D5)
+- same, same, up a minor third (much shorter, much longer, much shorter): 1.1 in 1,000 figures, against 0.2, in 9 works. At: Der Musensohn (kern), bar 2 (B4 B4 B4 D5); Op.92, Der Musensohn, D.764 (OpenScore), bar 7 (B4 B4 B4 D5); Schwanengesang, D.957, Die Taubenpost (OpenScore), bar 9 (B4 B4 B4 D5)
+- up a half step, down a fourth, same (much shorter, much longer, much shorter): 0.8 in 1,000 figures, against 0.1, in 6 works. At: Winterreise, D. 911, Op. 89, movement 19: Täuschung (DCML), bar 18 (Ab5 A5 E5 E5); Winterreise, D. 911, Op. 89, movement 13: Die Post (DCML), bar 12 (G4 Ab4 Eb4 Eb4); Schwanengesang, D.957, Abschied (OpenScore), bar 42 (C5 C#5 Ab4 Ab4)
+- down a step, down a half step, up a half step (much longer, much shorter, as long): 1.2 in 1,000 figures, against 0.2, in 12 works. At: Die schöne Müllerin, D.795, Halt! (OpenScore), bar 48 (D5 C5 B4 C5); Die schöne Müllerin, D.795, Trockne Blumen (OpenScore), bar 38 (F#5 E5 Eb5 E5); Schwanengesang, D.957, Abschied (OpenScore), bar 37 (Bb4 Ab4 G4 Ab4)
+- up a half step, down a half step, same (longer, much shorter, much longer): 0.8 in 1,000 figures, against 0.0, in 7 works. At: Dithyrambe (kern), bar 21 (C#5 D5 C#5 C#5); Winterreise, D. 911, Op. 89, movement 10: Rast (DCML), bar 7 (G4 Ab4 G4 G4); An die Laute (kern), bar 4 (F#4 G4 F#4 F#4)
+- up a step, down a step, same (longer, much shorter, much longer): 1.1 in 1,000 figures, against 0.0, in 9 works. At: Dithyrambe (kern), bar 13 (B4 C#5 B4 B4); Horch, horch, die Lerch (kern), bar 4 (G4 A4 G4 G4); An die Laute (kern), bar 2 (A4 B4 A4 A4)
 
-**All measures:** moves by step 43%; repeated notes 24%; leaps of a fourth or more 16%; mean move (semitones) 3.08; moves that rise 46%; leaps answered by a step back 23%; range of the melody (semitones) 12.1; register of the melody B4; even rhythm (a note as long as the one before) 36%; dotted figures (3:1) 19%; rhythmic variety (bits) 2.60; the ear's surprise, pitch (bits a note) 2.36; the ear's surprise, rhythm (bits a note) 1.53; notes a quarter (texture) 5.72; lines (texture) 2.7
+**All measures:** moves by step 43%; repeated notes 24%; leaps of a fourth or more 16%; mean move (semitones) 3.08; moves that rise 47%; leaps answered by a step back 22%; range of the melody (semitones) 12.1; register of the melody B4; even rhythm (a note as long as the one before) 37%; dotted figures (3:1) 18%; rhythmic variety (bits) 2.58; the ear's surprise, pitch (bits a note) 2.38; the ear's surprise, rhythm (bits a note) 1.52; notes a quarter (texture) 6.21; lines (texture) 2.9
+
+**Harmony**, from the analysts' labels of 45 of its works (24 DCML's and 21 When in Rome's); set against 105 works by 18 composers: other composers' labelled songs (voice and keyboard) of the Romantic period. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: nowhere that clearly
+
+*All its harmony:* chords a bar 1.83; chords on I or V 68%; seventh chords 31%; diminished sevenths 6%; applied chords (V/V and the like) 12%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 2%; chords over a bass not their root 34%; changes of key a 10 bars 0.88; chords away from the home key 21%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 17%; melody notes outside the chord 18%; of those, struck with the chord (appoggiaturas) 27%; of those, resolved by a step 73%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
 
 ### Franz Schubert: string quartet (string quartet), before 1822
 
-17 works; set against 230 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+17 works; set against 230 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -101,7 +107,7 @@
 
 ### Franz Schubert: string quartet (string quartet), late
 
-12 works; set against 230 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+12 works; set against 230 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 25%, against 13% (82 in 100)

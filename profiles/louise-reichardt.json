@@ -27,7 +27,7 @@
    {
     "measure": "surprise, pitch",
     "value": 2.933495789959155,
-    "others": 2.476681718446353,
+    "others": 2.4766817184463528,
     "auc": 0.7983779200403076
    }
   ],
@@ -253,6 +253,120 @@
    "by": "kind, forces, period",
    "works": 97,
    "composers": 18
+  },
+  "harmony": {
+   "works": 28,
+   "by": {
+    "When in Rome": 28
+   },
+   "values": {
+    "chords a bar": 1.4982027927855903,
+    "tonic and dominant": 0.7866147632139776,
+    "sevenths": 0.3218257026772063,
+    "diminished sevenths": 0.01759191338570504,
+    "applied chords": 0.0708223715771751,
+    "augmented sixths": 0.008099393603595285,
+    "Neapolitan": 0.0027472527472527475,
+    "mixture": 0.0007002801120448179,
+    "inversions": 0.26482316950307255,
+    "keys a 10 bars": 0.336168965794203,
+    "away from home": 0.08784566578074181,
+    "non-chord tones": 0.16166728984005638,
+    "struck dissonance": 0.258720522396993,
+    "resolved by step": 0.8317063641695995,
+    "suspensions": 0.0009652509652509653
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.7866147632139776,
+     "others": 0.6022452209674557,
+     "auc": 0.8331826401446654
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.01759191338570504,
+     "others": 0.040377960327873254,
+     "auc": 0.23933092224231464
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.0708223715771751,
+     "others": 0.15368789230785032,
+     "auc": 0.19828869047619044
+    },
+    {
+     "measure": "inversions",
+     "value": 0.26482316950307255,
+     "others": 0.4055602936775612,
+     "auc": 0.15736889692585893
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "V7",
+      "I"
+     ],
+     "z": 7.2,
+     "works": 19,
+     "per_1000": 87.3,
+     "others_per_1000": 11.6,
+     "at": [
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/12_Duettino/lc5062143.mxl",
+       "label": "Gesänge, Op.3, Duettino (OpenScore)",
+       "bar": 9
+      },
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge/02_Der_Sänger_geht/lc5002130.mxl",
+       "label": "Gesänge, Der Sänger geht (OpenScore)",
+       "bar": 2
+      },
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/01_Frühlingsblumen/lc5001965.mxl",
+       "label": "Gesänge, Op.3, Frühlingsblumen (OpenScore)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "V7"
+     ],
+     "z": 5.6,
+     "works": 11,
+     "per_1000": 63.3,
+     "others_per_1000": 10.0,
+     "at": [
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/12_Duettino/lc5062143.mxl",
+       "label": "Gesänge, Op.3, Duettino (OpenScore)",
+       "bar": 8
+      },
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge/02_Der_Sänger_geht/lc5002130.mxl",
+       "label": "Gesänge, Der Sänger geht (OpenScore)",
+       "bar": 3
+      },
+      {
+       "work": "openscore-lieder:Reichardt,_Louise/12_Gesänge,_Op.3/01_Frühlingsblumen/lc5001965.mxl",
+       "label": "Gesänge, Op.3, Frühlingsblumen (OpenScore)",
+       "bar": 7
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "period",
+    "works": 395,
+    "composers": 9,
+    "progressions_by": "When in Rome",
+    "progressions_works": 48
+   }
   }
  }
 ]

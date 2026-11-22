@@ -1,10 +1,10 @@
 # Antonio Vivaldi
 
-12 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+12 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Antonio Vivaldi: air (chamber), all
 
-3 works; set against 28 works by 5 composers: other composers' air (chamber) of the Baroque period.
+3 works; set against 28 works by 5 composers: other composers' airs (chamber) of the Baroque period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Antonio Vivaldi: allemande (chamber), all
 
-8 works; set against 46 works by 5 composers: other composers' allemande of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 46 works by 5 composers: other composers' allemandes of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 43%, against 48% (22 in 100)
@@ -30,7 +30,7 @@
 
 ### Antonio Vivaldi: concerto (orchestra), all
 
-3 works; set against 84 works by 6 composers: other composers' concerto (orchestra) of the Baroque period.
+3 works; set against 84 works by 6 composers: other composers' concertos (orchestra) of the Baroque period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -41,7 +41,7 @@
 
 ### Antonio Vivaldi: concerto (strings), all
 
-29 works; set against 68 works by 1 composers: other composers' concerto (strings) of the Baroque period.
+29 works; set against 68 works by 1 composers: other composers' concertos (strings) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 9.66, against 6.46 (77 in 100)
@@ -59,7 +59,7 @@
 
 ### Antonio Vivaldi: courante (chamber), all
 
-6 works; set against 41 works by 4 composers: other composers' courante of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 41 works by 4 composers: other composers' courantes of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 4.15, against 3.18 (86 in 100)
@@ -73,7 +73,7 @@
 
 ### Antonio Vivaldi: dance (chamber), all
 
-27 works; set against 31 works by 5 composers: other composers' dance (chamber) of the Baroque period.
+27 works; set against 31 works by 5 composers: other composers' dances (chamber) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 4.01, against 2.88 (88 in 100)
@@ -88,7 +88,7 @@
 
 ### Antonio Vivaldi: gavotte (chamber), all
 
-5 works; set against 26 works by 5 composers: other composers' gavotte of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 26 works by 5 composers: other composers' gavottes of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 4.26, against 2.98 (91 in 100)
@@ -104,7 +104,7 @@
 
 ### Antonio Vivaldi: gigue (chamber), all
 
-5 works; set against 33 works by 5 composers: other composers' gigue of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 33 works by 5 composers: other composers' gigues of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 10%, against 4% (89 in 100)
@@ -117,7 +117,7 @@
 
 ### Antonio Vivaldi: prelude (chamber), all
 
-8 works; set against 115 works by 9 composers: other composers' prelude of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 115 works by 9 composers: other composers' preludes of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 42%, against 48% (23 in 100)
@@ -129,7 +129,7 @@
 
 ### Antonio Vivaldi: sarabande (chamber), all
 
-3 works; set against 41 works by 4 composers: other composers' sarabande of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 41 works by 4 composers: other composers' sarabandes of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -140,7 +140,7 @@
 
 ### Antonio Vivaldi: sonata (chamber), all
 
-46 works; set against 230 works by 5 composers: other composers' sonata (chamber) of the Baroque period.
+46 works; set against 230 works by 5 composers: other composers' sonatas (chamber) of the Baroque period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -156,7 +156,7 @@
 
 ### Antonio Vivaldi: trio sonata (chamber), all
 
-46 works; set against 148 works by 2 composers: other composers' trio sonata (chamber) of the Baroque period.
+46 works; set against 148 works by 2 composers: other composers' trio sonatas (chamber) of the Baroque period.
 
 **Where it stands apart:** nowhere that clearly.
 

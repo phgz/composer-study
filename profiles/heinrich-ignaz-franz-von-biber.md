@@ -1,10 +1,10 @@
 # Heinrich Ignaz Franz von Biber
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Heinrich Ignaz Franz von Biber: psalm (voices and instruments), all
 
-4 works; set against 22 works by 10 composers: other composers' works for voices and instruments of the Baroque period, of any kind (too few psalm).
+4 works; set against 22 works by 10 composers: other composers' works for voices and instruments of the Baroque period, of any kind (too few psalms).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

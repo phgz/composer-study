@@ -1,10 +1,10 @@
 # Juan Crisóstomo de Arriaga
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Juan Crisóstomo de Arriaga: string quartet (string quartet), all
 
-12 works; set against 247 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+12 works; set against 247 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 

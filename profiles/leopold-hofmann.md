@@ -1,10 +1,10 @@
 # Leopold Hofmann
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Leopold Hofmann: motet, all
 
-6 works; set against 645 works by 33 composers: other composers' motet, of any period and forces (range, register and density not compared).
+6 works; set against 645 works by 33 composers: other composers' motets, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 40%, against 46% (14 in 100)

@@ -1,14 +1,14 @@
 # Charlotte Alington Barnard
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Charlotte Alington Barnard: song (voice and keyboard), all
 
-6 works; set against 1093 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+6 works; set against 1082 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 4%, against 15% (16 in 100)
-- rhythmic variety (bits): 2.02, against 2.54 (16 in 100)
+- rhythmic variety (bits): 2.02, against 2.53 (16 in 100)
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
 - down a step, same, down a minor third (much longer, much shorter, much longer): 5.3 in 1,000 figures, against 0.0, in 2 works. At: Milly’s Faith (OpenScore), bar 10 (A4 G4 G4 E4); The Brook (OpenScore), bar 6 (Bb4 Ab4 Ab4 F4)

@@ -1,10 +1,10 @@
 # Emilie Mayer
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Emilie Mayer: scherzo (string quartet), all
 
-4 works; set against 20 works by 15 composers: other composers' scherzo (string quartet) of the Romantic period.
+4 works; set against 20 works by 15 composers: other composers' scherzos (string quartet) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,20 +15,26 @@
 
 ### Emilie Mayer: song (voice and keyboard), all
 
-6 works; set against 1093 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+6 works; set against 1082 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
-- the ear's surprise, pitch (bits a note): 2.89, against 2.42 (78 in 100)
+- the ear's surprise, pitch (bits a note): 2.89, against 2.43 (77 in 100)
 - the ear's surprise, rhythm (bits a note): 1.99, against 1.63 (75 in 100)
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
-- same, same, up a half step (much longer, much shorter, as long): 5.7 in 1,000 figures, against 0.5, in 3 works. At: Der Erlkönig (OpenScore), bar 5 (D4 D4 D4 Eb4); Lieder, Op.7, O lass mich dein gedenken (OpenScore), bar 19 (C#5 C#5 C#5 D5); Lieder, Op.7, Wenn der Abendstern die Rosen (OpenScore), bar 21 (E5 E5 E5 F5)
+- same, same, up a half step (much longer, much shorter, as long): 5.7 in 1,000 figures, against 0.4, in 3 works. At: Der Erlkönig (OpenScore), bar 5 (D4 D4 D4 Eb4); Lieder, Op.7, O lass mich dein gedenken (OpenScore), bar 19 (C#5 C#5 C#5 D5); Lieder, Op.7, Wenn der Abendstern die Rosen (OpenScore), bar 21 (E5 E5 E5 F5)
 
 **All measures:** moves by step 54%; repeated notes 18%; leaps of a fourth or more 15%; mean move (semitones) 2.83; moves that rise 41%; leaps answered by a step back 43%; range of the melody (semitones) 12.7; register of the melody Bb4; even rhythm (a note as long as the one before) 39%; dotted figures (3:1) 22%; rhythmic variety (bits) 2.66; the ear's surprise, pitch (bits a note) 2.89; the ear's surprise, rhythm (bits a note) 1.99; notes a quarter (texture) 5.70; lines (texture) 3.0
 
+**Harmony**, from the analysts' labels of 3 of its works (3 When in Rome's); set against 148 works by 18 composers: other composers' labelled songs (voice and keyboard) of the Romantic period. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 1.75; chords on I or V 66%; seventh chords 36%; diminished sevenths 6%; applied chords (V/V and the like) 14%; augmented sixths 3%; Neapolitan chords 0%; chords from the other mode 2%; chords over a bass not their root 31%; changes of key a 10 bars 0.66; chords away from the home key 11%; melody notes outside the chord 26%; of those, struck with the chord (appoggiaturas) 26%; of those, resolved by a step 75%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Emilie Mayer: string quartet (string quartet), all
 
-24 works; set against 235 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+24 works; set against 235 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 20.0, against 23.5 (19 in 100)

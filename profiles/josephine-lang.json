@@ -63,42 +63,6 @@
    },
    {
     "moves": [
-     2,
-     2,
-     1
-    ],
-    "rhythm": [
-     -2,
-     2,
-     0
-    ],
-    "z": 5.2,
-    "works": 6,
-    "per_1000": 1.6,
-    "others_per_1000": 0.2,
-    "at": [
-     {
-      "work": "openscore-lieder:Lang,_Josephine/Lieder_des_Leids,_Op.29/1_Leb’_wohl,_leb’_wohl_du_schöne_Welt/lc6070235.mxl",
-      "label": "Lieder des Leids, Op.29, Leb’ wohl, leb’ wohl du schöne Welt (OpenScore)",
-      "bar": 9,
-      "notes": "E4 F#4 Ab4 A4"
-     },
-     {
-      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.26/3_Du_denkst_an_mich_so_selten/lc6117742.mxl",
-      "label": "Lieder, Op.26, Du denkst an mich so selten (OpenScore)",
-      "bar": 11,
-      "notes": "G4 A4 B4 C5"
-     },
-     {
-      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.10/6_Abschied/lc6073491.mxl",
-      "label": "Lieder, Op.10, Abschied (OpenScore)",
-      "bar": 58,
-      "notes": "Ab4 Bb4 C5 C#5"
-     }
-    ]
-   },
-   {
-    "moves": [
      -3,
      -2,
      2
@@ -130,6 +94,42 @@
       "label": "Am Bache, Op.20 (OpenScore)",
       "bar": 23,
       "notes": "Ab4 F4 Eb4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.1,
+    "works": 6,
+    "per_1000": 1.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Lang,_Josephine/Lieder_des_Leids,_Op.29/1_Leb’_wohl,_leb’_wohl_du_schöne_Welt/lc6070235.mxl",
+      "label": "Lieder des Leids, Op.29, Leb’ wohl, leb’ wohl du schöne Welt (OpenScore)",
+      "bar": 9,
+      "notes": "E4 F#4 Ab4 A4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.26/3_Du_denkst_an_mich_so_selten/lc6117742.mxl",
+      "label": "Lieder, Op.26, Du denkst an mich so selten (OpenScore)",
+      "bar": 11,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.10/6_Abschied/lc6073491.mxl",
+      "label": "Lieder, Op.10, Abschied (OpenScore)",
+      "bar": 58,
+      "notes": "Ab4 Bb4 C5 C#5"
      }
     ]
    },
@@ -171,6 +171,42 @@
    },
    {
     "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 7,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.25/3_Barcarole/lc5104275.mxl",
+      "label": "Lieder, Op.25, Barcarole (OpenScore)",
+      "bar": 7,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.10/6_Abschied/lc6073491.mxl",
+      "label": "Lieder, Op.10, Abschied (OpenScore)",
+      "bar": 36,
+      "notes": "Bb4 Ab4 F#4 F4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.10/4_Im_Frühling/lc6071196.mxl",
+      "label": "Lieder, Op.10, Im Frühling (OpenScore)",
+      "bar": 25,
+      "notes": "C5 Bb4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
      -1,
      -2,
      0
@@ -204,48 +240,63 @@
       "notes": "D5 C#5 B4 B4"
      }
     ]
-   },
-   {
-    "moves": [
-     1,
-     2,
-     0
-    ],
-    "rhythm": [
-     -2,
-     2,
-     -1
-    ],
-    "z": 4.9,
-    "works": 4,
-    "per_1000": 0.9,
-    "others_per_1000": 0.0,
-    "at": [
-     {
-      "work": "openscore-lieder:Lang,_Josephine/3_Lieder,_Op.23/3_Der_Himmel_mit_all’_seinen_Sonnen_wär’_mein/lc6067231.mxl",
-      "label": "Lieder, Op.23, Der Himmel mit all’ seinen Sonnen wär’ mein (OpenScore)",
-      "bar": 29,
-      "notes": "A4 Bb4 C5 C5"
-     },
-     {
-      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.25/5_Die_Wolken/lc5115660.mxl",
-      "label": "Lieder, Op.25, Die Wolken (OpenScore)",
-      "bar": 46,
-      "notes": "B4 C5 D5 D5"
-     },
-     {
-      "work": "openscore-lieder:Lang,_Josephine/3_Lieder,_Op.36/2_Rausche,_rausche,_froher_Bach!/lc6114679.mxl",
-      "label": "Lieder, Op.36, Rausche, rausche, froher Bach! (OpenScore)",
-      "bar": 8,
-      "notes": "Ab4 A4 B4 B4"
-     }
-    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1047,
+   "works": 1036,
    "composers": 97
+  },
+  "harmony": {
+   "works": 6,
+   "by": {
+    "When in Rome": 6
+   },
+   "values": {
+    "chords a bar": 0.9909880520156548,
+    "tonic and dominant": 0.7324262592155345,
+    "sevenths": 0.4568878163359696,
+    "diminished sevenths": 0.04219053890026666,
+    "applied chords": 0.12091077522736098,
+    "augmented sixths": 0.011795166858457997,
+    "Neapolitan": 0.0,
+    "mixture": 0.026310296771541786,
+    "inversions": 0.31197973938675344,
+    "keys a 10 bars": 0.4589887371934376,
+    "away from home": 0.1724329354813142,
+    "non-chord tones": 0.21683890792665186,
+    "struck dissonance": 0.3469921890974523,
+    "resolved by step": 0.786111224707716,
+    "suspensions": 0.008215409909783311
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 0.9909880520156548,
+     "others": 2.1122373973553574,
+     "auc": 0.11227709190672154
+    },
+    {
+     "measure": "tonic and dominant",
+     "value": 0.7324262592155345,
+     "others": 0.5723495104188913,
+     "auc": 0.8160408093278463
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.4589887371934376,
+     "others": 1.9019199521593757,
+     "auc": 0.22757201646090533
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 145,
+    "composers": 18,
+    "progressions_by": "When in Rome",
+    "progressions_works": 92
+   }
   }
  }
 ]

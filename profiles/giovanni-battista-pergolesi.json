@@ -102,7 +102,7 @@
      0,
      2
     ],
-    "z": 3.1,
+    "z": 3.0,
     "works": 2,
     "per_1000": 7.0,
     "others_per_1000": 1.0,
@@ -124,8 +124,41 @@
   ],
   "compared": {
    "by": "kind",
-   "works": 2120,
+   "works": 2109,
    "composers": 214
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 2.4584785075833557,
+    "tonic and dominant": 0.6250877498230731,
+    "sevenths": 0.2581806246528267,
+    "diminished sevenths": 0.04740577129559004,
+    "applied chords": 0.08306642892886813,
+    "augmented sixths": 0.002868589743589744,
+    "Neapolitan": 0.0011210762331838565,
+    "mixture": 0.0034158613865555064,
+    "inversions": 0.4349890969364537,
+    "keys a 10 bars": 0.40777072667946646,
+    "away from home": 0.31530703075530336,
+    "changes": 0.17181972656914235,
+    "non-chord tones": 0.22161708444424078,
+    "struck dissonance": 0.48151419082125607,
+    "resolved by step": 0.7914855072463769,
+    "suspensions": 0.013851201491554556
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "period",
+    "works": 838,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 471
+   }
   }
  }
 ]

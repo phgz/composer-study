@@ -525,8 +525,8 @@
    {
     "measure": "surprise, pitch",
     "value": 2.2142517522871787,
-    "others": 2.629825952367717,
-    "auc": 0.1655877808206221
+    "others": 2.6298259523677174,
+    "auc": 0.16558778082062214
    },
    {
     "measure": "surprise, rhythm",

@@ -1,10 +1,10 @@
 # Francesca Caccini
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Francesca Caccini: air (voices and instruments), all
 
-7 works; set against 153 works by 40 composers: other composers' air, of any period and forces (range, register and density not compared).
+7 works; set against 153 works by 40 composers: other composers' airs, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 1.99, against 3.20 (2 in 100)
@@ -23,7 +23,7 @@
 
 ### Francesca Caccini: madrigal (voices and instruments), all
 
-11 works; set against 304 works by 10 composers: other composers' madrigal of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+11 works; set against 304 works by 10 composers: other composers' madrigals of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 59%, against 49% (97 in 100)

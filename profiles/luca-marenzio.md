@@ -1,10 +1,10 @@
 # Luca Marenzio
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Luca Marenzio: madrigal, all
 
-21 works; set against 264 works by 10 composers: other composers' madrigal of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+21 works; set against 264 works by 10 composers: other composers' madrigals of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Luca Marenzio: madrigal (voices), all
 
-30 works; set against 185 works by 6 composers: other composers' madrigal (voices) of the Before 1600 period.
+30 works; set against 185 works by 6 composers: other composers' madrigals (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -36,7 +36,7 @@
 
 ### Luca Marenzio: mass, all
 
-6 works; set against 689 works by 38 composers: other composers' mass of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 687 works by 38 composers: other composers' masses of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.88, against 2.53 (86 in 100)

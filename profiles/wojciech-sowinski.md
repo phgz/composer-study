@@ -1,10 +1,10 @@
 # Wojciech Sowiński
 
-7 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+7 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Wojciech Sowiński: concerto (orchestra), all
 
-6 works; set against 28 works by 8 composers: other composers' concerto (orchestra) of the Romantic period.
+6 works; set against 28 works by 8 composers: other composers' concertos (orchestra) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Wojciech Sowiński: dance, all
 
-3 works; set against 432 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 432 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -31,7 +31,7 @@
 
 ### Wojciech Sowiński: etude (orchestra), all
 
-6 works; set against 221 works by 17 composers: other composers' etude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 221 works by 17 composers: other composers' etudes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -47,7 +47,7 @@
 
 ### Wojciech Sowiński: march, all
 
-3 works; set against 48 works by 18 composers: other composers' march of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 48 works by 18 composers: other composers' marches of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -58,7 +58,7 @@
 
 ### Wojciech Sowiński: mass, all
 
-16 works; set against 537 works by 37 composers: other composers' mass of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+16 works; set against 537 works by 37 composers: other composers' masses of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 22%, against 14% (83 in 100)
@@ -78,7 +78,7 @@
 
 ### Wojciech Sowiński: oratorio, all
 
-8 works; set against 44 works by 5 composers: other composers' oratorio, of any period and forces (range, register and density not compared).
+8 works; set against 44 works by 5 composers: other composers' oratorios, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 39%, against 65% (13 in 100)

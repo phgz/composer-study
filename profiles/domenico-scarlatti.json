@@ -28,7 +28,7 @@
     "measure": "surprise, pitch",
     "value": 2.403311465087295,
     "others": 2.6629797766866945,
-    "auc": 0.2424666595454003
+    "auc": 0.24246665954540034
    }
   ],
   "figures": [
@@ -253,6 +253,219 @@
    "by": "kind, period",
    "works": 361,
    "composers": 15
+  },
+  "harmony": {
+   "works": 69,
+   "by": {
+    "DCML": 69
+   },
+   "values": {
+    "chords a bar": 2.6255445874968864,
+    "tonic and dominant": 0.5605874747874713,
+    "sevenths": 0.15079234950635265,
+    "diminished sevenths": 0.010253920356177598,
+    "applied chords": 0.17316254537571904,
+    "augmented sixths": 0.00036374383446617723,
+    "Neapolitan": 0.0026785980648491407,
+    "mixture": 0.010263397304076334,
+    "inversions": 0.3310094747887845,
+    "keys a 10 bars": 0.4435499472948996,
+    "away from home": 0.3970624818779683,
+    "cadences a 10 bars": 1.7026138437834284,
+    "perfect cadences": 0.45398056032626516,
+    "half cadences": 0.3120414771951292,
+    "deceptive or evaded": 0.06433606501583349,
+    "changes": 0.13239910349898898,
+    "non-chord tones": 0.25232073030470226,
+    "struck dissonance": 0.1798065777259401,
+    "resolved by step": 0.7294301601354825,
+    "suspensions": 0.009565686952720297
+   },
+   "traits": [
+    {
+     "measure": "sevenths",
+     "value": 0.15079234950635265,
+     "others": 0.3118517836622302,
+     "auc": 0.1203991841857623
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "IV",
+      "I64"
+     ],
+     "z": 5.8,
+     "works": 24,
+     "per_1000": 6.4,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K023.notes.tsv",
+       "label": "Sonata, K.23 (DCML)",
+       "bar": 25
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K044.notes.tsv",
+       "label": "Sonata, K.44 (DCML)",
+       "bar": 66
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K047.notes.tsv",
+       "label": "Sonata, K.47 (DCML)",
+       "bar": 3
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I64",
+      "V"
+     ],
+     "z": 5.8,
+     "works": 23,
+     "per_1000": 6.2,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K047.notes.tsv",
+       "label": "Sonata, K.47 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K023.notes.tsv",
+       "label": "Sonata, K.23 (DCML)",
+       "bar": 25
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K044.notes.tsv",
+       "label": "Sonata, K.44 (DCML)",
+       "bar": 71
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "I",
+      "IV"
+     ],
+     "z": 5.4,
+     "works": 27,
+     "per_1000": 6.7,
+     "others_per_1000": 1.3,
+     "at": [
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K047.notes.tsv",
+       "label": "Sonata, K.47 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K014.notes.tsv",
+       "label": "Sonata, K.14 (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K017.notes.tsv",
+       "label": "Sonata, K.17 (DCML)",
+       "bar": 10
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I64",
+      "V",
+      "I"
+     ],
+     "z": 5.2,
+     "works": 34,
+     "per_1000": 9.8,
+     "others_per_1000": 3.4,
+     "at": [
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K057.notes.tsv",
+       "label": "Sonata, K.57 (DCML)",
+       "bar": 72
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K044.notes.tsv",
+       "label": "Sonata, K.44 (DCML)",
+       "bar": 37
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K047.notes.tsv",
+       "label": "Sonata, K.47 (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i6",
+      "#viio6",
+      "i"
+     ],
+     "z": 5.1,
+     "works": 24,
+     "per_1000": 6.0,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K025.notes.tsv",
+       "label": "Sonata, K.25 (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K061.notes.tsv",
+       "label": "Sonata, K.61 (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K018.notes.tsv",
+       "label": "Sonata, K.18 (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "iv",
+      "i64",
+      "V"
+     ],
+     "z": 4.6,
+     "works": 20,
+     "per_1000": 4.0,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K019.notes.tsv",
+       "label": "Sonata, K.19 (DCML)",
+       "bar": 61
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K022.notes.tsv",
+       "label": "Sonata, K.22 (DCML)",
+       "bar": 25
+      },
+      {
+       "work": "dcml/scarlatti_sonatas:notes/K003.notes.tsv",
+       "label": "Sonata, K.3 (DCML)",
+       "bar": 83
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 180,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 153
+   }
   }
  }
 ]

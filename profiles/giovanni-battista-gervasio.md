@@ -1,10 +1,10 @@
 # Giovanni Battista Gervasio
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Giovanni Battista Gervasio: sonata, all
 
-12 works; set against 374 works by 15 composers: other composers' sonata of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+12 works; set against 374 works by 15 composers: other composers' sonatas of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 0.76, against 1.35 (8 in 100)

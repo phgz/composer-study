@@ -1,10 +1,10 @@
 # George Frideric Handel
 
-8 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+8 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### George Frideric Handel: air (chamber), Hamburg and Italy
 
-3 works; set against 48 works by 9 composers: other composers' air of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 48 works by 9 composers: other composers' airs of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### George Frideric Handel: air (chamber), London
 
-17 works; set against 48 works by 9 composers: other composers' air of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+17 works; set against 48 works by 9 composers: other composers' airs of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 3.85, against 2.99 (85 in 100)
@@ -28,7 +28,7 @@
 
 ### George Frideric Handel: air (voices and instruments), London
 
-10 works; set against 48 works by 9 composers: other composers' air of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+10 works; set against 48 works by 9 composers: other composers' airs of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 24%, against 10% (79 in 100)
@@ -40,7 +40,7 @@
 
 ### George Frideric Handel: dance (keyboard), any period
 
-9 works; set against 123 works by 4 composers: other composers' dance (keyboard) of the Baroque period.
+9 works; set against 123 works by 4 composers: other composers' dances (keyboard) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 12.2, against 15.3 (20 in 100)
@@ -57,7 +57,7 @@
 
 ### George Frideric Handel: minuet (keyboard), any period
 
-7 works; set against 35 works by 7 composers: other composers' minuet of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 35 works by 7 composers: other composers' minuets of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.44, against 1.05 (79 in 100)
@@ -71,7 +71,7 @@
 
 ### George Frideric Handel: sonata (chamber), any period
 
-13 works; set against 263 works by 5 composers: other composers' sonata (chamber) of the Baroque period.
+13 works; set against 263 works by 5 composers: other composers' sonatas (chamber) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: F#5, against C#5 (84 in 100)
@@ -88,7 +88,7 @@
 
 ### George Frideric Handel: suite (keyboard), London
 
-6 works; set against 125 works by 2 composers: other composers' suite (keyboard) of the Baroque period.
+6 works; set against 125 works by 2 composers: other composers' suites (keyboard) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 7.89, against 4.58 (96 in 100)
@@ -103,6 +103,24 @@
 - down 9, up a fifth, down a fifth (as long, as long, as long): 9.3 in 1,000 figures, against 0.1, in 2 works. At: Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML), bar 0 (Ab4 B3 F#4 B3); Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML), bar 6 (C#5 E4 B4 E4)
 
 **All measures:** moves by step 48%; repeated notes 6%; leaps of a fourth or more 35%; mean move (semitones) 3.98; moves that rise 45%; leaps answered by a step back 35%; range of the melody (semitones) 14.0; register of the melody A4; even rhythm (a note as long as the one before) 76%; dotted figures (3:1) 1%; rhythmic variety (bits) 1.06; the ear's surprise, pitch (bits a note) 2.31; the ear's surprise, rhythm (bits a note) 1.04; notes a quarter (texture) 7.89; lines (texture) 2.0
+
+**Harmony**, from the analysts' labels of 6 of its works (6 DCML's); set against 87 works by 1 composers: other composers' labelled suites (keyboard) of the Baroque period. Changes of key and applied chords are compared within one analyst's labels.
+
+- cadences a 10 bars (DCML): 4.84, against 1.89 (100 in 100)
+- chords a bar: 6.10, against 3.32 (96 in 100)
+- chords on I or V: 62%, against 45% (94 in 100)
+- diminished sevenths: 0%, against 3% (14 in 100)
+- seventh chords: 12%, against 25% (16 in 100)
+- changes of key a 10 bars: 0.00, against 0.68 (17 in 100)
+- chords away from the home key: 0%, against 24% (17 in 100)
+- its progressions, against 87 of those works, labelled by DCML too:
+  - I6 – IV – I6: 33.7 in 1,000, against 1.5, in 3 works. At: Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML), bar 4; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML), bar 5; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML), bar 5
+  - IV – I6 – IV: 22.5 in 1,000, against 0.7, in 3 works. At: Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML), bar 4; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML), bar 5; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML), bar 6
+  - I6 – viio6 – I: 26.2 in 1,000, against 1.3, in 4 works. At: Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML), bar 6; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML), bar 5; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML), bar 5
+  - ii6/V – V/V – I/V: 26.2 in 1,000, against 0.0, in 4 works. At: Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML), bar 2; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML), bar 1; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML), bar 1
+  - IV – I6 – viio6: 18.7 in 1,000, against 0.7, in 4 works. At: Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML), bar 5; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Air (DCML), bar 6; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 1 (DCML), bar 5
+
+*All its harmony:* chords a bar 6.10; chords on I or V 62%; seventh chords 12%; diminished sevenths 0%; applied chords (V/V and the like) 17%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 42%; changes of key a 10 bars 0.00; chords away from the home key 0%; cadences a 10 bars (DCML) 4.84; of its cadences, perfect 69%; of its cadences, half 25%; of its cadences, deceptive or evaded 0%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 5%; melody notes outside the chord 18%; of those, struck with the chord (appoggiaturas) 16%; of those, resolved by a step 72%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
 
 ### George Frideric Handel: variations (keyboard), London
 
@@ -123,3 +141,16 @@
 - none stands out
 
 **All measures:** moves by step 49%; repeated notes 6%; leaps of a fourth or more 35%; mean move (semitones) 4.03; moves that rise 44%; leaps answered by a step back 38%; range of the melody (semitones) 14.3; register of the melody A4; even rhythm (a note as long as the one before) 78%; dotted figures (3:1) 1%; rhythmic variety (bits) 1.01; the ear's surprise, pitch (bits a note) 2.25; the ear's surprise, rhythm (bits a note) 0.99; notes a quarter (texture) 8.17; lines (texture) 2.0
+
+**Harmony**, from the analysts' labels of 5 of its works (5 DCML's); set against 243 works by 3 composers: other composers' labelled works for keyboard of the Baroque period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- cadences a 10 bars (DCML): 4.92, against 2.07 (98 in 100)
+- chords a bar: 6.18, against 3.05 (97 in 100)
+- changes of key a 10 bars: 0.00, against 0.92 (8 in 100)
+- chords away from the home key: 0%, against 33% (8 in 100)
+- seventh chords: 13%, against 26% (20 in 100)
+- diminished sevenths: 0%, against 2% (22 in 100)
+- its progressions, against 216 of those works, labelled by DCML too:
+  - I6 – IV – I6: 26.4 in 1,000, against 1.9, in 2 works. At: Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 5 (DCML), bar 4; Suite in E Major, HWV 430, movement 4: The Harmonious Blacksmith: Variation 2 (DCML), bar 5
+
+*All its harmony:* chords a bar 6.18; chords on I or V 62%; seventh chords 13%; diminished sevenths 0%; applied chords (V/V and the like) 16%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 42%; changes of key a 10 bars 0.00; chords away from the home key 0%; cadences a 10 bars (DCML) 4.92; of its cadences, perfect 67%; of its cadences, half 25%; of its cadences, deceptive or evaded 0%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 5%; melody notes outside the chord 18%; of those, struck with the chord (appoggiaturas) 2%; of those, resolved by a step 79%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%

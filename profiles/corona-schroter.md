@@ -1,10 +1,10 @@
 # Corona Schröter
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Corona Schröter: song (voice and keyboard), all
 
-25 works; set against 113 works by 18 composers: other composers' song (voice and keyboard) of the Classical period.
+25 works; set against 113 works by 18 composers: other composers' songs (voice and keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.38, against 2.77 (17 in 100)

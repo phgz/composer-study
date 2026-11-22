@@ -295,13 +295,21 @@ def fmt(m, x):
     return f'{x:.2f}' if m in ('move', 'rhythm variety', 'surprise, pitch', 'surprise, rhythm', 'density') else f'{x:.1f}'
 
 
+def plural(kind):
+    """'mazurka' -> 'mazurkas', 'mass' -> 'masses', 'symphony' -> 'symphonies', 'variations' -> 'variations'"""
+    if kind.endswith(('ss', 'us', 'ch', 'sh', 'x', 'z')): return kind + 'es'
+    if kind.endswith('s'): return kind
+    if kind.endswith('y') and kind[-2:-1] not in 'aeiou': return kind[:-1] + 'ies'
+    return kind + 's'
+
+
 def markdown(p):
     """a profile as Markdown, for a person"""
-    what = f"{p['kind']}" + (f" ({p['forces']})" if p['forces'] else '')
+    what = f"{p['kind']}" + (f" ({p['forces']})" if p['forces'] else ''); whats = plural(p['kind']) + (f" ({p['forces']})" if p['forces'] else '')
     c = p['compared']
-    against = {'kind, forces, period': f"other composers' {what} of the {p['era']} period", 'kind, period': f"other composers' {p['kind']} of the {p['era']} period, for any forces (too few for these forces: range, register and density not compared)",
-               'kind': f"other composers' {p['kind']}, of any period and forces (range, register and density not compared)",
-               'forces, period': f"other composers' works for {p['forces']} of the {p['era']} period, of any kind (too few {p['kind']})"}.get(c['by'], 'nothing: too few works by others to set it against')
+    against = {'kind, forces, period': f"other composers' {whats} of the {p['era']} period", 'kind, period': f"other composers' {plural(p['kind'])} of the {p['era']} period, for any forces (too few for these forces: range, register and density not compared)",
+               'kind': f"other composers' {plural(p['kind'])}, of any period and forces (range, register and density not compared)",
+               'forces, period': f"other composers' works for {p['forces']} of the {p['era']} period, of any kind (too few {plural(p['kind'])})"}.get(c['by'], 'nothing: too few works by others to set it against')
     s = [f"### {p['composer']}: {what}, {p['period']}", '', f"{p['works']} works; set against {c['works']} works by {c['composers']} composers: {against}.", '']
     if p['traits']:
         s.append('**Where it stands apart** (how often one of its works stands above one of the others\': 75 times in 100 or more, or 25 or fewer):')
@@ -320,7 +328,7 @@ def markdown(p):
     h = p.get('harmony')
     if h:
         src = ' and '.join(f"{n} {k}'s" if k == 'DCML' else f"{n} When in Rome's" for k, n in h['by'].items())
-        hc = h['compared']; ag = {'kind, forces, period': f"other composers' labelled {what} of the {p['era']} period",
+        hc = h['compared']; ag = {'kind, forces, period': f"other composers' labelled {whats} of the {p['era']} period",
                                   'forces, period': f"other composers' labelled works for {p['forces']} of the {p['era']} period, of any kind",
                                   'period': f"other composers' labelled works of the {p['era']} period"}.get(hc['by'], 'nothing: too few labelled works by others')
         note = (' Being for other forces, they are not compared for how often the chords change, nor for the melody against the chords.'
@@ -335,7 +343,7 @@ def markdown(p):
                                                      + (f", labelled by {'DCML' if pb == 'DCML' else 'When in Rome'} too:" if pb != 'both' else ', by either analyst:'))
         for f in h['progressions']:
             at = '; '.join(f"{a['label']}, bar {a['bar']}" for a in f['at'])
-            s.append(f"- the progression {' – '.join(f['chords'])}: {f['per_1000']} in 1,000, against {f['others_per_1000']}, in {f['works']} works. At: {at}")
+            s.append(f"  - {' – '.join(f['chords'])}: {f['per_1000']} in 1,000, against {f['others_per_1000']}, in {f['works']} works. At: {at}")
         s += ['', '*All its harmony:* ' + '; '.join(f"{HWORDS[m]} {hfmt(m, h['values'][m])}" for m in HM.MEASURES if h['values'].get(m) is not None), '']
     return '\n'.join(s)
 

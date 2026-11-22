@@ -1,10 +1,10 @@
 # Luigi Cherubini
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Luigi Cherubini: mass, all
 
-4 works; set against 643 works by 34 composers: other composers' mass of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 643 works by 34 composers: other composers' masses of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Luigi Cherubini: string quartet (string quartet), all
 
-4 works; set against 489 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+4 works; set against 489 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

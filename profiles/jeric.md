@@ -1,10 +1,10 @@
 # Jeric
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Jeric: suite, all
 
-5 works; set against 246 works by 18 composers: other composers' suite, of any period and forces (range, register and density not compared).
+5 works; set against 246 works by 18 composers: other composers' suites, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 1.78, against 2.29 (20 in 100)

@@ -1,10 +1,10 @@
 # Leonardo Vinci
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Leonardo Vinci: air (chamber), all
 
-3 works; set against 28 works by 5 composers: other composers' air (chamber) of the Baroque period.
+3 works; set against 28 works by 5 composers: other composers' airs (chamber) of the Baroque period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

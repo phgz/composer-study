@@ -1,10 +1,10 @@
 # Alessandro Rolla
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Alessandro Rolla: duet (solo instrument), all
 
-8 works; set against 22 works by 7 composers: other composers' duet of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 22 works by 7 composers: other composers' duets of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.45, against 1.61 (23 in 100)
@@ -16,7 +16,7 @@
 
 ### Alessandro Rolla: rondo (solo instrument), all
 
-3 works; set against 69 works by 16 composers: other composers' rondo of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 69 works by 16 composers: other composers' rondos of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

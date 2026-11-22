@@ -1,10 +1,10 @@
 # Edward Elgar
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Edward Elgar: song (voice and keyboard), all
 
-10 works; set against 1089 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+10 works; set against 1078 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -17,7 +17,7 @@
 
 ### Edward Elgar: string quartet (string quartet), all
 
-5 works; set against 254 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+5 works; set against 254 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 34%, against 50% (9 in 100)

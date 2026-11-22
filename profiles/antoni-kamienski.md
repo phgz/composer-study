@@ -1,10 +1,10 @@
 # Antoni Kamieński
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Antoni Kamieński: dance, any period
 
-5 works; set against 1028 works by 133 composers: other composers' dance, of any period and forces (range, register and density not compared).
+5 works; set against 1028 works by 133 composers: other composers' dances, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 35%, against 52% (14 in 100)
@@ -22,7 +22,7 @@
 
 ### Antoni Kamieński: waltz, any period
 
-5 works; set against 102 works by 36 composers: other composers' waltz, of any period and forces (range, register and density not compared).
+5 works; set against 102 works by 36 composers: other composers' waltzes, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 15%, against 8% (83 in 100)

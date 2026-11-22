@@ -1,10 +1,10 @@
 # Karol Kazimierz Kurpiński
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Karol Kazimierz Kurpiński: dance, all
 
-9 works; set against 426 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+9 works; set against 426 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Karol Kazimierz Kurpiński: krakowiak, all
 
-3 works; set against 47 works by 10 composers: other composers' krakowiak of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 47 works by 10 composers: other composers' krakowiaks of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -31,7 +31,7 @@
 
 ### Karol Kazimierz Kurpiński: polonaise, all
 
-5 works; set against 58 works by 18 composers: other composers' polonaise of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 58 works by 18 composers: other composers' polonaises of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 1.75, against 2.31 (14 in 100)

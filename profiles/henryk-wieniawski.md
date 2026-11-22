@@ -1,10 +1,10 @@
 # Henryk Wieniawski
 
-4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+4 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Henryk Wieniawski: concerto (orchestra), all
 
-8 works; set against 26 works by 8 composers: other composers' concerto (orchestra) of the Romantic period.
+8 works; set against 26 works by 8 composers: other composers' concertos (orchestra) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.83, against 2.52 (75 in 100)
@@ -21,7 +21,7 @@
 
 ### Henryk Wieniawski: dance, all
 
-7 works; set against 427 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 427 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - rhythmic variety (bits): 2.82, against 2.19 (84 in 100)
@@ -41,7 +41,7 @@
 
 ### Henryk Wieniawski: etude, all
 
-8 works; set against 216 works by 17 composers: other composers' etude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 216 works by 17 composers: other composers' etudes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -57,7 +57,7 @@
 
 ### Henryk Wieniawski: mazurka, all
 
-6 works; set against 131 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 131 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - rhythmic variety (bits): 2.98, against 2.64 (86 in 100)

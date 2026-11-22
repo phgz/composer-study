@@ -86,6 +86,155 @@
    "by": "kind, forces, period",
    "works": 20,
    "composers": 7
+  },
+  "harmony": {
+   "works": 6,
+   "by": {
+    "DCML": 5,
+    "When in Rome": 1
+   },
+   "values": {
+    "chords a bar": 1.673550762721886,
+    "tonic and dominant": 0.6922424335048668,
+    "sevenths": 0.2790436769324928,
+    "diminished sevenths": 0.04862038906008314,
+    "applied chords": 0.10086633930578932,
+    "augmented sixths": 0.0033184408184408188,
+    "Neapolitan": 0.001949317738791423,
+    "mixture": 0.00870715249662618,
+    "inversions": 0.35150814095376354,
+    "keys a 10 bars": 0.5134959947794172,
+    "away from home": 0.2955463103659708,
+    "cadences a 10 bars": 1.3239594966867696,
+    "perfect cadences": 0.4761430090377459,
+    "half cadences": 0.37166400850611375,
+    "deceptive or evaded": 0.0,
+    "changes": 0.1307540055016983,
+    "non-chord tones": 0.21650793526415657,
+    "struck dissonance": 0.28915007864039244,
+    "resolved by step": 0.7061761872767648,
+    "suspensions": 0.0
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.6922424335048668,
+     "others": 0.5990390011905342,
+     "auc": 0.7596899224806202
+    },
+    {
+     "measure": "deceptive or evaded",
+     "value": 0.0,
+     "others": 0.09787720163373091,
+     "auc": 0.22468354430379747
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V6",
+      "I",
+      "vi"
+     ],
+     "z": 4.5,
+     "works": 2,
+     "per_1000": 8.1,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/06-2.notes.tsv",
+       "label": "Sonata no. 6, op.10/2, movement 2: Menuetto: Allegretto (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 14
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V43",
+      "I",
+      "V6"
+     ],
+     "z": 4.0,
+     "works": 3,
+     "per_1000": 11.4,
+     "others_per_1000": 1.1,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+       "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/01-3.notes.tsv",
+       "label": "Sonata no. 1, op.2/1, movement 3: Menuetto and Trio: Allegretto (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I64",
+      "V7"
+     ],
+     "z": 3.4,
+     "works": 2,
+     "per_1000": 9.7,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+       "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+       "bar": 28
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I64",
+      "V7",
+      "I64"
+     ],
+     "z": 3.3,
+     "works": 2,
+     "per_1000": 8.1,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+       "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+       "bar": 29
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 215,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 207
+   }
   }
  },
  {
@@ -336,6 +485,38 @@
    "by": "kind",
    "works": 48,
    "composers": 25
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "When in Rome": 3
+   },
+   "values": {
+    "chords a bar": 1.6485714285714286,
+    "tonic and dominant": 0.6251517911353978,
+    "sevenths": 0.357063347500506,
+    "diminished sevenths": 0.02816737502529852,
+    "applied chords": 0.15587937664440396,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.0,
+    "inversions": 0.49289617486338794,
+    "keys a 10 bars": 0.7825396825396825,
+    "away from home": 0.42556668690548477,
+    "non-chord tones": 0.255694779042327,
+    "struck dissonance": 0.15925790606097512,
+    "resolved by step": 0.7124345390330045,
+    "suspensions": 0.05097241067390321
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 215,
+    "composers": 5,
+    "progressions_by": "both",
+    "progressions_works": 215
+   }
   }
  },
  {
@@ -555,6 +736,154 @@
    "by": "kind, period",
    "works": 135,
    "composers": 18
+  },
+  "harmony": {
+   "works": 5,
+   "by": {
+    "DCML": 5
+   },
+   "values": {
+    "chords a bar": 1.6704230774284252,
+    "tonic and dominant": 0.6690909202058402,
+    "sevenths": 0.2756524123189914,
+    "diminished sevenths": 0.04874446687209977,
+    "applied chords": 0.1050396071669472,
+    "augmented sixths": 0.003982128982128982,
+    "Neapolitan": 0.0023391812865497076,
+    "mixture": 0.004048582995951417,
+    "inversions": 0.37540976914451624,
+    "keys a 10 bars": 0.34592492346503045,
+    "away from home": 0.287455572439165,
+    "cadences a 10 bars": 1.3239594966867696,
+    "perfect cadences": 0.4761430090377459,
+    "half cadences": 0.37166400850611375,
+    "deceptive or evaded": 0.0,
+    "changes": 0.1307540055016983,
+    "non-chord tones": 0.2424411012643563,
+    "struck dissonance": 0.3409194883078649,
+    "resolved by step": 0.7443811217018147,
+    "suspensions": 0.0
+   },
+   "traits": [
+    {
+     "measure": "deceptive or evaded",
+     "value": 0.0,
+     "others": 0.09787720163373091,
+     "auc": 0.22468354430379747
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.3409194883078649,
+     "others": 0.19383449124599625,
+     "auc": 0.76
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V6",
+      "I",
+      "vi"
+     ],
+     "z": 4.6,
+     "works": 2,
+     "per_1000": 9.1,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/06-2.notes.tsv",
+       "label": "Sonata no. 6, op.10/2, movement 2: Menuetto: Allegretto (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 14
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V43",
+      "I",
+      "V6"
+     ],
+     "z": 4.1,
+     "works": 3,
+     "per_1000": 12.7,
+     "others_per_1000": 1.1,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+       "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/01-3.notes.tsv",
+       "label": "Sonata no. 1, op.2/1, movement 3: Menuetto and Trio: Allegretto (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I64",
+      "V7"
+     ],
+     "z": 3.5,
+     "works": 2,
+     "per_1000": 10.9,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+       "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+       "bar": 28
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I64",
+      "V7",
+      "I64"
+     ],
+     "z": 3.4,
+     "works": 2,
+     "per_1000": 9.1,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+       "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+       "bar": 29
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 215,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 207
+   }
   }
  },
  {
@@ -624,7 +953,7 @@
     "measure": "surprise, pitch",
     "value": 2.3455789748402083,
     "others": 2.5866757634258217,
-    "auc": 0.20314253647586977
+    "auc": 0.2031425364758698
    }
   ],
   "figures": [
@@ -849,6 +1178,63 @@
    "by": "kind, forces, period",
    "works": 26,
    "composers": 5
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "When in Rome": 1,
+    "DCML": 6
+   },
+   "values": {
+    "chords a bar": 2.002334302503934,
+    "tonic and dominant": 0.6010035450217456,
+    "sevenths": 0.26968634207112174,
+    "diminished sevenths": 0.03191468474717235,
+    "applied chords": 0.14918162215358025,
+    "augmented sixths": 0.010603377261560335,
+    "Neapolitan": 0.0032022902941529234,
+    "mixture": 0.0135790197240603,
+    "inversions": 0.3992909174228183,
+    "keys a 10 bars": 0.36041533852992064,
+    "away from home": 0.23295548293850502,
+    "cadences a 10 bars": 1.4457022660357415,
+    "perfect cadences": 0.5656702556702556,
+    "half cadences": 0.3177737077737078,
+    "deceptive or evaded": 0.04158249158249158,
+    "changes": 0.12452217812556593,
+    "non-chord tones": 0.25501528500592185,
+    "struck dissonance": 0.15857693330939085,
+    "resolved by step": 0.6754912955281706,
+    "suspensions": 0.003767922310529474
+   },
+   "traits": [
+    {
+     "measure": "away from home",
+     "value": 0.23295548293850502,
+     "others": 0.38234436718900694,
+     "auc": 0.18013468013468015
+    },
+    {
+     "measure": "changes",
+     "value": 0.12452217812556593,
+     "others": 0.08411261306415084,
+     "auc": 0.8223905723905723
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.15857693330939085,
+     "others": 0.2504525895251012,
+     "auc": 0.1991341991341992
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 23,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 23
+   }
   }
  },
  {
@@ -1080,6 +1466,43 @@
    "by": "kind",
    "works": 56,
    "composers": 31
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 1.5256000547073933,
+    "tonic and dominant": 0.5936011380944425,
+    "sevenths": 0.2774123050427294,
+    "diminished sevenths": 0.06960652928987857,
+    "applied chords": 0.21368415670160876,
+    "augmented sixths": 0.001288659793814433,
+    "Neapolitan": 0.003865979381443299,
+    "mixture": 0.003865979381443299,
+    "inversions": 0.4048417248005183,
+    "keys a 10 bars": 0.4005502765924439,
+    "away from home": 0.28491745570920407,
+    "cadences a 10 bars": 1.0298065665499845,
+    "perfect cadences": 0.6436147186147185,
+    "half cadences": 0.3563852813852814,
+    "deceptive or evaded": 0.0,
+    "changes": 0.10082708315175283,
+    "non-chord tones": 0.1517238215814855,
+    "struck dissonance": 0.41445429444522003,
+    "resolved by step": 0.840488849222969,
+    "suspensions": 0.0
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 215,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 207
+   }
   }
  },
  {
@@ -1112,6 +1535,39 @@
    "by": "kind",
    "works": 56,
    "composers": 31
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 2.156343191204914,
+    "tonic and dominant": 0.609745054112167,
+    "sevenths": 0.3315249200128107,
+    "diminished sevenths": 0.0323418245039669,
+    "applied chords": 0.14778042267462785,
+    "augmented sixths": 0.0033246326114627,
+    "Neapolitan": 0.008811663107108686,
+    "mixture": 0.016195087163405963,
+    "inversions": 0.46826310196962206,
+    "keys a 10 bars": 0.6207245576742,
+    "away from home": 0.2567677555101773,
+    "changes": 0.06218831930083194,
+    "non-chord tones": 0.24428362791789998,
+    "struck dissonance": 0.1619852120620029,
+    "resolved by step": 0.7926975874266284,
+    "suspensions": 0.007420500415602773
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 27,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 27
+   }
   }
  },
  {
@@ -1400,6 +1856,213 @@
    "by": "kind, forces, period",
    "works": 239,
    "composers": 9
+  },
+  "harmony": {
+   "works": 54,
+   "by": {
+    "When in Rome": 9,
+    "DCML": 45
+   },
+   "values": {
+    "chords a bar": 1.8188626488224882,
+    "tonic and dominant": 0.6201341647053866,
+    "sevenths": 0.30424125500893134,
+    "diminished sevenths": 0.04883265488315704,
+    "applied chords": 0.15656608830587176,
+    "augmented sixths": 0.007631329064806958,
+    "Neapolitan": 0.0034235809002858236,
+    "mixture": 0.014464761917820944,
+    "inversions": 0.4229267826747186,
+    "keys a 10 bars": 0.4221662483204219,
+    "away from home": 0.3101042453622373,
+    "cadences a 10 bars": 1.3294330684281688,
+    "perfect cadences": 0.5251823761148785,
+    "half cadences": 0.3093542861721168,
+    "deceptive or evaded": 0.023927795673746224,
+    "changes": 0.12406331137047645,
+    "non-chord tones": 0.22888634851293915,
+    "struck dissonance": 0.21260513867654995,
+    "resolved by step": 0.7030596160918651,
+    "suspensions": 0.006956664123103847
+   },
+   "traits": [],
+   "progressions": [
+    {
+     "chords": [
+      "i64",
+      "V7",
+      "i64"
+     ],
+     "z": 4.7,
+     "works": 11,
+     "per_1000": 2.2,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/17-1.notes.tsv",
+       "label": "Sonata no. 17, op.31/2, movement 1: Largo: Allegro (DCML)",
+       "bar": 75
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/01-1.notes.tsv",
+       "label": "Sonata no. 1, op.2/1, movement 1: Allegro (DCML)",
+       "bar": 57
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/19-1.notes.tsv",
+       "label": "Sonata no. 19, op.49/1, movement 1: Andante (DCML)",
+       "bar": 57
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "i64",
+      "V7"
+     ],
+     "z": 4.5,
+     "works": 8,
+     "per_1000": 1.7,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/17-1.notes.tsv",
+       "label": "Sonata no. 17, op.31/2, movement 1: Largo: Allegro (DCML)",
+       "bar": 74
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/17-3.notes.tsv",
+       "label": "Sonata no. 17, op.31/2, movement 3: Allegretto (DCML)",
+       "bar": 81
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/01-1.notes.tsv",
+       "label": "Sonata no. 1, op.2/1, movement 1: Allegro (DCML)",
+       "bar": 81
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65/V",
+      "I64",
+      "V7"
+     ],
+     "z": 4.2,
+     "works": 9,
+     "per_1000": 1.5,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/02-4.notes.tsv",
+       "label": "Sonata no. 2, op.2/2, movement 4: Rondo: Grazioso (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/10-3.notes.tsv",
+       "label": "Sonata no. 10, op.14/2, movement 3: Scherzo: Allegro assai (DCML)",
+       "bar": 186
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/03-2.notes.tsv",
+       "label": "Sonata no. 3, op.2/3, movement 2: Adagio (DCML)",
+       "bar": 20
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i64",
+      "V",
+      "i64"
+     ],
+     "z": 4.1,
+     "works": 7,
+     "per_1000": 1.3,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/17-1.notes.tsv",
+       "label": "Sonata no. 17, op.31/2, movement 1: Largo: Allegro (DCML)",
+       "bar": 78
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/17-3.notes.tsv",
+       "label": "Sonata no. 17, op.31/2, movement 3: Allegretto (DCML)",
+       "bar": 81
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/02-3.notes.tsv",
+       "label": "Sonata no. 2, op.2/2, movement 3: Scherzo: Allegretto (DCML)",
+       "bar": 63
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65",
+      "I",
+      "V42"
+     ],
+     "z": 3.9,
+     "works": 8,
+     "per_1000": 1.9,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/11-1.notes.tsv",
+       "label": "Sonata no. 11, op.22, movement 1: Allegro con brio (DCML)",
+       "bar": 48
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/08-3.notes.tsv",
+       "label": "Sonata no. 8 'Pathetique', op.13, movement 3: Rondo: Allegro (DCML)",
+       "bar": 24
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/02-2.notes.tsv",
+       "label": "Sonata no. 2, op.2/2, movement 2: Largo appassionato (DCML)",
+       "bar": 10
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I64",
+      "V7",
+      "I64"
+     ],
+     "z": 3.5,
+     "works": 12,
+     "per_1000": 2.3,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+       "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/04-1.notes.tsv",
+       "label": "Sonata no. 4, op.7, movement 1: Allegro molto e con brio (DCML)",
+       "bar": 81
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/17-2.notes.tsv",
+       "label": "Sonata no. 17, op.31/2, movement 2: Adagio (DCML)",
+       "bar": 25
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 207,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 207
+   }
   }
  },
  {
@@ -1662,6 +2325,205 @@
    "by": "kind, forces, period",
    "works": 239,
    "composers": 9
+  },
+  "harmony": {
+   "works": 8,
+   "by": {
+    "DCML": 8
+   },
+   "values": {
+    "chords a bar": 2.9038668888445747,
+    "tonic and dominant": 0.5180623604383605,
+    "sevenths": 0.27692055025120965,
+    "diminished sevenths": 0.056090611175686325,
+    "applied chords": 0.25250293767560295,
+    "augmented sixths": 0.005162795881474509,
+    "Neapolitan": 0.002524398551470487,
+    "mixture": 0.010717998358173103,
+    "inversions": 0.48496087719654046,
+    "keys a 10 bars": 0.34763991022322205,
+    "away from home": 0.2296084199729447,
+    "cadences a 10 bars": 1.2941042299134455,
+    "perfect cadences": 0.28988965118259946,
+    "half cadences": 0.2931563643764142,
+    "deceptive or evaded": 0.010416666666666666,
+    "changes": 0.11884602287389416,
+    "non-chord tones": 0.20863290617719088,
+    "struck dissonance": 0.27332298344821665,
+    "resolved by step": 0.6688127070319542,
+    "suspensions": 0.00651334060338171
+   },
+   "traits": [
+    {
+     "measure": "applied chords",
+     "value": 0.25250293767560295,
+     "others": 0.13019135659710007,
+     "auc": 0.821256038647343
+    },
+    {
+     "measure": "inversions",
+     "value": 0.48496087719654046,
+     "others": 0.3924520562576237,
+     "auc": 0.8435990338164251
+    },
+    {
+     "measure": "perfect cadences",
+     "value": 0.28988965118259946,
+     "others": 0.4526928923388172,
+     "auc": 0.223496835443038
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.27332298344821665,
+     "others": 0.19698190672429294,
+     "auc": 0.7581521739130435
+    },
+    {
+     "measure": "resolved by step",
+     "value": 0.6688127070319542,
+     "others": 0.7714599100097476,
+     "auc": 0.213768115942029
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V42",
+      "I6",
+      "V"
+     ],
+     "z": 3.9,
+     "works": 2,
+     "per_1000": 1.8,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/31-2.notes.tsv",
+       "label": "Sonata no. 31, op.110, movement 2: Allegro molto (DCML)",
+       "bar": 46
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/31-1.notes.tsv",
+       "label": "Sonata no. 31, op.110, movement 1: Moderato cantabile molto espressivo (DCML)",
+       "bar": 26
+      }
+     ]
+    },
+    {
+     "chords": [
+      "vi7",
+      "viio",
+      "I"
+     ],
+     "z": 3.7,
+     "works": 2,
+     "per_1000": 1.8,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/30-3.notes.tsv",
+       "label": "Sonata no. 30, op.109, movement 3: Gesangvoll, mit innigster Empfindung: Andante molto cantabile ed espressivo (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/32-2.notes.tsv",
+       "label": "Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML)",
+       "bar": 49
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "viio6",
+      "I6"
+     ],
+     "z": 3.7,
+     "works": 3,
+     "per_1000": 3.0,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/32-2.notes.tsv",
+       "label": "Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML)",
+       "bar": 64
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/31-1.notes.tsv",
+       "label": "Sonata no. 31, op.110, movement 1: Moderato cantabile molto espressivo (DCML)",
+       "bar": 20
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/31-2.notes.tsv",
+       "label": "Sonata no. 31, op.110, movement 2: Allegro molto (DCML)",
+       "bar": 21
+      }
+     ]
+    },
+    {
+     "chords": [
+      "viio6",
+      "I6",
+      "viio6"
+     ],
+     "z": 3.6,
+     "works": 3,
+     "per_1000": 2.6,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/32-2.notes.tsv",
+       "label": "Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML)",
+       "bar": 64
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/31-1.notes.tsv",
+       "label": "Sonata no. 31, op.110, movement 1: Moderato cantabile molto espressivo (DCML)",
+       "bar": 20
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/32-1.notes.tsv",
+       "label": "Sonata no. 32, op.111, movement 1: Maestoso - Allegro con brio ed appassionato (DCML)",
+       "bar": 40
+      }
+     ]
+    },
+    {
+     "chords": [
+      "vi7",
+      "V6",
+      "I"
+     ],
+     "z": 3.0,
+     "works": 3,
+     "per_1000": 2.6,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/32-2.notes.tsv",
+       "label": "Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/30-1.notes.tsv",
+       "label": "Sonata no. 30, op.109, movement 1: Vivace ma non troppo - Adagio espressivo (DCML)",
+       "bar": 47
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/30-3.notes.tsv",
+       "label": "Sonata no. 30, op.109, movement 3: Gesangvoll, mit innigster Empfindung: Andante molto cantabile ed espressivo (DCML)",
+       "bar": 34
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 207,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 207
+   }
   }
  },
  {
@@ -1924,6 +2786,239 @@
    "by": "kind, forces, period",
    "works": 239,
    "composers": 9
+  },
+  "harmony": {
+   "works": 11,
+   "by": {
+    "DCML": 11
+   },
+   "values": {
+    "chords a bar": 2.027318149079834,
+    "tonic and dominant": 0.5758735001063816,
+    "sevenths": 0.3296022080180891,
+    "diminished sevenths": 0.06129609413493436,
+    "applied chords": 0.2363303390196177,
+    "augmented sixths": 0.010907447997521212,
+    "Neapolitan": 0.008646667531439934,
+    "mixture": 0.015874935185029394,
+    "inversions": 0.48572283652923925,
+    "keys a 10 bars": 0.22542099538291296,
+    "away from home": 0.2006804555368353,
+    "cadences a 10 bars": 1.2869612093012377,
+    "perfect cadences": 0.40400449564617474,
+    "half cadences": 0.25513892024386775,
+    "deceptive or evaded": 0.06368839024386251,
+    "changes": 0.1143792497445129,
+    "non-chord tones": 0.18781134731669924,
+    "struck dissonance": 0.1584016088201081,
+    "resolved by step": 0.7088008986129952,
+    "suspensions": 0.0030367165532322105
+   },
+   "traits": [
+    {
+     "measure": "sevenths",
+     "value": 0.3296022080180891,
+     "others": 0.24032642635052986,
+     "auc": 0.7742643829600351
+    },
+    {
+     "measure": "mixture",
+     "value": 0.015874935185029394,
+     "others": 0.006184312966896971,
+     "auc": 0.7509881422924901
+    },
+    {
+     "measure": "inversions",
+     "value": 0.48572283652923925,
+     "others": 0.3924520562576237,
+     "auc": 0.8177426438296004
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.22542099538291296,
+     "others": 0.7024712346424713,
+     "auc": 0.19653052261747914
+    },
+    {
+     "measure": "away from home",
+     "value": 0.2006804555368353,
+     "others": 0.36535259117243674,
+     "auc": 0.20443566095740007
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.18781134731669924,
+     "others": 0.25552548123608887,
+     "auc": 0.24462011418533158
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V43",
+      "i",
+      "V43"
+     ],
+     "z": 4.2,
+     "works": 4,
+     "per_1000": 3.1,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/23-3.notes.tsv",
+       "label": "Sonata no. 23 ('Appassionata'), op.57, movement 3: Allegro ma non troppo - Presto (DCML)",
+       "bar": 105
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/21-3.notes.tsv",
+       "label": "Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML)",
+       "bar": 86
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/23-1.notes.tsv",
+       "label": "Sonata no. 23 ('Appassionata'), op.57, movement 1: Allegro assai (DCML)",
+       "bar": 249
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V43",
+      "I6",
+      "ii65"
+     ],
+     "z": 4.1,
+     "works": 3,
+     "per_1000": 2.3,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/21-1.notes.tsv",
+       "label": "Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML)",
+       "bar": 37
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/26-1.notes.tsv",
+       "label": "Sonata no. 26 'Les Adieux', op.81a, movement 1: Das Lebewohl: Adagio - Allegro (DCML)",
+       "bar": 26
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/23-1.notes.tsv",
+       "label": "Sonata no. 23 ('Appassionata'), op.57, movement 1: Allegro assai (DCML)",
+       "bar": 110
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I64",
+      "V7",
+      "I64"
+     ],
+     "z": 4.1,
+     "works": 4,
+     "per_1000": 4.2,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/26-1.notes.tsv",
+       "label": "Sonata no. 26 'Les Adieux', op.81a, movement 1: Das Lebewohl: Adagio - Allegro (DCML)",
+       "bar": 40
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/21-3.notes.tsv",
+       "label": "Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML)",
+       "bar": 11
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/21-1.notes.tsv",
+       "label": "Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML)",
+       "bar": 50
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "viio6",
+      "V"
+     ],
+     "z": 3.9,
+     "works": 2,
+     "per_1000": 2.3,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/24-2.notes.tsv",
+       "label": "Sonata no. 24, op.78, movement 2: Allegro vivace (DCML)",
+       "bar": 13
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/21-3.notes.tsv",
+       "label": "Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML)",
+       "bar": 34
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I64",
+      "V7"
+     ],
+     "z": 3.3,
+     "works": 4,
+     "per_1000": 4.2,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/26-1.notes.tsv",
+       "label": "Sonata no. 26 'Les Adieux', op.81a, movement 1: Das Lebewohl: Adagio - Allegro (DCML)",
+       "bar": 45
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/21-3.notes.tsv",
+       "label": "Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/21-1.notes.tsv",
+       "label": "Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML)",
+       "bar": 50
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I64",
+      "V42",
+      "I6"
+     ],
+     "z": 3.1,
+     "works": 2,
+     "per_1000": 2.3,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/23-2.notes.tsv",
+       "label": "Sonata no. 23 ('Appassionata'), op.57, movement 2: Andante con moto (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/beethoven_piano_sonatas:notes/21-3.notes.tsv",
+       "label": "Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML)",
+       "bar": 51
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 207,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 207
+   }
   }
  },
  {
@@ -1955,13 +3050,13 @@
     "measure": "repeats",
     "value": 0.3053898655451888,
     "others": 0.15651263642072843,
-    "auc": 0.8078446325785572
+    "auc": 0.8078446325785574
    },
    {
     "measure": "leap answered",
     "value": 0.1511849261849262,
-    "others": 0.41526445041652255,
-    "auc": 0.18254235189621731
+    "others": 0.4152644504165226,
+    "auc": 0.18254235189621745
    }
   ],
   "figures": [
@@ -2436,6 +3531,52 @@
    "by": "kind, forces, period",
    "works": 422,
    "composers": 10
+  },
+  "harmony": {
+   "works": 24,
+   "by": {
+    "DCML": 24
+   },
+   "values": {
+    "chords a bar": 1.774125137596722,
+    "tonic and dominant": 0.6364703662930173,
+    "sevenths": 0.3232385257469172,
+    "diminished sevenths": 0.049464789069638755,
+    "applied chords": 0.13467233673691162,
+    "augmented sixths": 0.009861071237480808,
+    "Neapolitan": 0.002946256111322383,
+    "mixture": 0.012469698396396106,
+    "inversions": 0.4120589131142425,
+    "keys a 10 bars": 0.6637228795515853,
+    "away from home": 0.3591804574969304,
+    "changes": 0.1007823271980417,
+    "non-chord tones": 0.25367898823775287,
+    "struck dissonance": 0.20163729520534854,
+    "resolved by step": 0.7436255684702143,
+    "suspensions": 0.006270444739845886
+   },
+   "traits": [
+    {
+     "measure": "mixture",
+     "value": 0.012469698396396106,
+     "others": 0.002226678167481078,
+     "auc": 0.8672839506172839
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.20163729520534854,
+     "others": 0.12531400201658327,
+     "auc": 0.7561728395061728
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 27,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 27
+   }
   }
  },
  {
@@ -2466,7 +3607,7 @@
    {
     "measure": "rising",
     "value": 0.4953123576638461,
-    "others": 0.4521141515559677,
+    "others": 0.4521141515559676,
     "auc": 0.7814895595866221
    },
    {
@@ -2485,7 +3626,7 @@
     "measure": "surprise, pitch",
     "value": 2.8276222479005035,
     "others": 2.5176701077206967,
-    "auc": 0.772057987894514
+    "auc": 0.7720579878945139
    }
   ],
   "figures": [
@@ -2710,6 +3851,52 @@
    "by": "kind, forces, period",
    "works": 422,
    "composers": 10
+  },
+  "harmony": {
+   "works": 26,
+   "by": {
+    "DCML": 26
+   },
+   "values": {
+    "chords a bar": 2.27067411402716,
+    "tonic and dominant": 0.614206101121953,
+    "sevenths": 0.3093398533601675,
+    "diminished sevenths": 0.03582841987933079,
+    "applied chords": 0.12091467829517531,
+    "augmented sixths": 0.003584642334803208,
+    "Neapolitan": 0.0062162771563216545,
+    "mixture": 0.010649469987920556,
+    "inversions": 0.460647576898116,
+    "keys a 10 bars": 0.6543708772293252,
+    "away from home": 0.3512551277317803,
+    "changes": 0.10831379370973877,
+    "non-chord tones": 0.24524772916038737,
+    "struck dissonance": 0.27575870735159097,
+    "resolved by step": 0.71840077615778,
+    "suspensions": 0.002253779551960398
+   },
+   "traits": [
+    {
+     "measure": "mixture",
+     "value": 0.010649469987920556,
+     "others": 0.002226678167481078,
+     "auc": 0.7585470085470085
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.27575870735159097,
+     "others": 0.12531400201658327,
+     "auc": 0.8475783475783476
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 27,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 27
+   }
   }
  },
  {
@@ -2966,6 +4153,46 @@
    "by": "kind, forces, period",
    "works": 422,
    "composers": 10
+  },
+  "harmony": {
+   "works": 20,
+   "by": {
+    "DCML": 20
+   },
+   "values": {
+    "chords a bar": 1.7230963722965096,
+    "tonic and dominant": 0.589358258095688,
+    "sevenths": 0.3343122925902625,
+    "diminished sevenths": 0.06295245163630724,
+    "applied chords": 0.1422105727139475,
+    "augmented sixths": 0.00696423022492004,
+    "Neapolitan": 0.007498825137717209,
+    "mixture": 0.021170867412570654,
+    "inversions": 0.41415945995037884,
+    "keys a 10 bars": 0.5417126195388108,
+    "away from home": 0.3193682633894315,
+    "changes": 0.09249373028612887,
+    "non-chord tones": 0.21755046088979452,
+    "struck dissonance": 0.19076057221545278,
+    "resolved by step": 0.7031387367333771,
+    "suspensions": 0.0041333566542060135
+   },
+   "traits": [
+    {
+     "measure": "mixture",
+     "value": 0.021170867412570654,
+     "others": 0.002226678167481078,
+     "auc": 0.7888888888888891
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 27,
+    "composers": 2,
+    "progressions_by": "both",
+    "progressions_works": 27
+   }
   }
  },
  {
@@ -3247,6 +4474,221 @@
    "by": "kind",
    "works": 122,
    "composers": 26
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "When in Rome": 7
+   },
+   "values": {
+    "chords a bar": 1.1595583378476697,
+    "tonic and dominant": 0.6397235977716959,
+    "sevenths": 0.3019230941487506,
+    "diminished sevenths": 0.03912801643087188,
+    "applied chords": 0.17444495705437763,
+    "augmented sixths": 0.0007338551859099804,
+    "Neapolitan": 0.0,
+    "mixture": 0.0066309233660723195,
+    "inversions": 0.3541685576677249,
+    "keys a 10 bars": 0.13163679718203566,
+    "away from home": 0.013357103790960953,
+    "non-chord tones": 0.3059673441665928,
+    "struck dissonance": 0.09599552345314674,
+    "resolved by step": 0.6248989580066008,
+    "suspensions": 0.0020261239929201705
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 1.1595583378476697,
+     "others": 2.446909121933332,
+     "auc": 0.05847176079734219
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.09599552345314674,
+     "others": 0.19383449124599625,
+     "auc": 0.20730897009966778
+    },
+    {
+     "measure": "resolved by step",
+     "value": 0.6248989580066008,
+     "others": 0.766693282676355,
+     "auc": 0.1574750830564784
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "V7",
+      "I64"
+     ],
+     "z": 4.5,
+     "works": 4,
+     "per_1000": 4.6,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "tavern-xml:Beethoven/B065/Krn/Wo065.xml",
+       "label": "24 Variationen über „Venni amore“ von V. Righini, WoO 65 (TAVERN)",
+       "bar": 7
+      },
+      {
+       "work": "tavern-xml:Beethoven/B071/Krn/Wo071.xml",
+       "label": "Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN)",
+       "bar": 57
+      },
+      {
+       "work": "tavern-xml:Beethoven/B069/Krn/Wo069.xml",
+       "label": "Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN)",
+       "bar": 16
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "i",
+      "V65"
+     ],
+     "z": 4.3,
+     "works": 3,
+     "per_1000": 2.9,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "tavern-xml:Beethoven/B063/Krn/Wo063.xml",
+       "label": "Neun Variationen über einen Marsch von E. Chr. Dressler, WoO 63 (TAVERN)",
+       "bar": 15
+      },
+      {
+       "work": "tavern-xml:Beethoven/B080/Krn/Wo080.xml",
+       "label": "32 Variationen über ein eigenes Thema in c-Moll, WoO 80 (TAVERN)",
+       "bar": 274
+      },
+      {
+       "work": "tavern-xml:Beethoven/B071/Krn/Wo071.xml",
+       "label": "Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN)",
+       "bar": 223
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V65",
+      "I",
+      "V42"
+     ],
+     "z": 4.2,
+     "works": 3,
+     "per_1000": 4.6,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "tavern-xml:Beethoven/B071/Krn/Wo071.xml",
+       "label": "Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN)",
+       "bar": 1
+      },
+      {
+       "work": "tavern-xml:Beethoven/B065/Krn/Wo065.xml",
+       "label": "24 Variationen über „Venni amore“ von V. Righini, WoO 65 (TAVERN)",
+       "bar": 132
+      },
+      {
+       "work": "tavern-xml:Beethoven/B069/Krn/Wo069.xml",
+       "label": "Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN)",
+       "bar": 28
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V42",
+      "I6",
+      "V7"
+     ],
+     "z": 3.9,
+     "works": 3,
+     "per_1000": 3.5,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "tavern-xml:Beethoven/B065/Krn/Wo065.xml",
+       "label": "24 Variationen über „Venni amore“ von V. Righini, WoO 65 (TAVERN)",
+       "bar": 149
+      },
+      {
+       "work": "tavern-xml:Beethoven/B071/Krn/Wo071.xml",
+       "label": "Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN)",
+       "bar": 40
+      },
+      {
+       "work": "tavern-xml:Beethoven/B069/Krn/Wo069.xml",
+       "label": "Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN)",
+       "bar": 74
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "i",
+      "V6"
+     ],
+     "z": 3.7,
+     "works": 2,
+     "per_1000": 3.5,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "tavern-xml:Beethoven/B063/Krn/Wo063.xml",
+       "label": "Neun Variationen über einen Marsch von E. Chr. Dressler, WoO 63 (TAVERN)",
+       "bar": 28
+      },
+      {
+       "work": "tavern-xml:Beethoven/B080/Krn/Wo080.xml",
+       "label": "32 Variationen über ein eigenes Thema in c-Moll, WoO 80 (TAVERN)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I64",
+      "V7"
+     ],
+     "z": 3.7,
+     "works": 4,
+     "per_1000": 5.8,
+     "others_per_1000": 1.3,
+     "at": [
+      {
+       "work": "tavern-xml:Beethoven/B065/Krn/Wo065.xml",
+       "label": "24 Variationen über „Venni amore“ von V. Righini, WoO 65 (TAVERN)",
+       "bar": 8
+      },
+      {
+       "work": "tavern-xml:Beethoven/B069/Krn/Wo069.xml",
+       "label": "Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN)",
+       "bar": 10
+      },
+      {
+       "work": "tavern-xml:Beethoven/B071/Krn/Wo071.xml",
+       "label": "Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN)",
+       "bar": 58
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 215,
+    "composers": 5,
+    "progressions_by": "both",
+    "progressions_works": 215
+   }
   }
  }
 ]

@@ -1,10 +1,10 @@
 # Augusta Holmès
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Augusta Holmès: serenade (voice and keyboard), all
 
-5 works; set against 21 works by 17 composers: other composers' serenade, of any period and forces (range, register and density not compared).
+5 works; set against 21 works by 17 composers: other composers' serenades, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 7%, against 17% (17 in 100)
@@ -17,7 +17,7 @@
 
 ### Augusta Holmès: song (voice and keyboard), all
 
-73 works; set against 1026 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+73 works; set against 1015 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 

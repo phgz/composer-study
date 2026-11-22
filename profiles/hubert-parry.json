@@ -27,14 +27,14 @@
    {
     "measure": "leaps",
     "value": 0.22817908123682681,
-    "others": 0.1531026399661457,
-    "auc": 0.7663231068818246
+    "others": 0.15300457959866115,
+    "auc": 0.765973843827289
    }
   ],
   "figures": [],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1091,
+   "works": 1080,
    "composers": 97
   }
  }

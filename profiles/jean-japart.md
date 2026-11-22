@@ -1,10 +1,10 @@
 # Jean Japart
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Jean Japart: song (voices), all
 
-22 works; set against 260 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+22 works; set against 260 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 

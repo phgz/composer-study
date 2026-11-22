@@ -1,10 +1,10 @@
 # Marbrianus de Orto
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Marbrianus de Orto: mass (voices), all
 
-29 works; set against 567 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+29 works; set against 567 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 71%, against 65% (77 in 100)
@@ -21,7 +21,7 @@
 
 ### Marbrianus de Orto: motet (voices), all
 
-7 works; set against 615 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+7 works; set against 615 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: E4, against Ab4 (17 in 100)
@@ -42,7 +42,7 @@
 
 ### Marbrianus de Orto: song (voices), all
 
-7 works; set against 275 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+7 works; set against 275 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 39%, against 45% (18 in 100)

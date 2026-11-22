@@ -34,7 +34,7 @@
     "measure": "surprise, pitch",
     "value": 2.729365236280343,
     "others": 2.4292662247459944,
-    "auc": 0.7612545787321172
+    "auc": 0.761254578732117
    }
   ],
   "figures": [
@@ -253,6 +253,97 @@
    "by": "kind",
    "works": 45,
    "composers": 25
+  },
+  "harmony": {
+   "works": 10,
+   "by": {
+    "DCML": 10
+   },
+   "values": {
+    "chords a bar": 5.786878312102959,
+    "tonic and dominant": 0.5323040729023331,
+    "sevenths": 0.347444870091054,
+    "diminished sevenths": 0.05641966197379715,
+    "applied chords": 0.20901716419972632,
+    "augmented sixths": 0.012153366126941265,
+    "Neapolitan": 0.0015608080355475897,
+    "mixture": 0.01681736276471895,
+    "inversions": 0.4125362261473403,
+    "keys a 10 bars": 2.824890556597874,
+    "away from home": 0.10763886600904504,
+    "cadences a 10 bars": 3.8253878128717664,
+    "perfect cadences": 0.6952380952380952,
+    "half cadences": 0.07063492063492063,
+    "deceptive or evaded": 0.15873015873015872,
+    "changes": 0.07841860394008866,
+    "non-chord tones": 0.22984180041298696,
+    "struck dissonance": 0.2112842872785831,
+    "resolved by step": 0.7784875675753922,
+    "suspensions": 0.002984475466180158
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.5323040729023331,
+     "others": 0.6222151084013404,
+     "auc": 0.2260869565217391
+    },
+    {
+     "measure": "away from home",
+     "value": 0.10763886600904504,
+     "others": 0.34408775200370584,
+     "auc": 0.1719512195121951
+    },
+    {
+     "measure": "perfect cadences",
+     "value": 0.6952380952380952,
+     "others": 0.46446573703815974,
+     "auc": 0.7506410256410256
+    },
+    {
+     "measure": "half cadences",
+     "value": 0.07063492063492063,
+     "others": 0.32018174586361464,
+     "auc": 0.10096153846153846
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "viio7/V",
+      "i64",
+      "V7"
+     ],
+     "z": 3.7,
+     "works": 3,
+     "per_1000": 8.5,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq117n13.notes.tsv",
+       "label": "Fantasia in G Minor, Wq.117/13 (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq119n07.notes.tsv",
+       "label": "Fantasia and Fugue in C Minor, Wq.119/7 (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq114n07.notes.tsv",
+       "label": "Fantasia in D Minor, Wq.114/7 (DCML)",
+       "bar": 3
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 230,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 205
+   }
   }
  },
  {
@@ -284,25 +375,25 @@
     "measure": "steps",
     "value": 0.32963758885852845,
     "others": 0.4694733801161901,
-    "auc": 0.1869047619047619
+    "auc": 0.18690476190476193
    },
    {
     "measure": "leaps",
     "value": 0.34941749466054695,
     "others": 0.2269308629328884,
-    "auc": 0.8095238095238095
+    "auc": 0.8095238095238096
    },
    {
     "measure": "move",
     "value": 5.020390489552164,
     "others": 3.638069925263705,
-    "auc": 0.8827922077922078
+    "auc": 0.8827922077922077
    },
    {
     "measure": "leap answered",
     "value": 0.11473084603974774,
     "others": 0.21466852386018787,
-    "auc": 0.22597402597402597
+    "auc": 0.225974025974026
    },
    {
     "measure": "register",
@@ -320,7 +411,7 @@
     "measure": "surprise, pitch",
     "value": 2.7996148529529354,
     "others": 2.4359730224960083,
-    "auc": 0.9238095238095237
+    "auc": 0.9238095238095239
    },
    {
     "measure": "surprise, rhythm",
@@ -551,6 +642,68 @@
    "by": "kind, forces, period",
    "works": 29,
    "composers": 5
+  },
+  "harmony": {
+   "works": 6,
+   "by": {
+    "DCML": 6
+   },
+   "values": {
+    "chords a bar": 2.700161570554631,
+    "tonic and dominant": 0.5012565789880672,
+    "sevenths": 0.2286867178943706,
+    "diminished sevenths": 0.04145323917020502,
+    "applied chords": 0.20518792766569952,
+    "augmented sixths": 0.003058179044440671,
+    "Neapolitan": 0.002029817141465765,
+    "mixture": 0.006020948865673208,
+    "inversions": 0.46240849811771484,
+    "keys a 10 bars": 0.6402610254663693,
+    "away from home": 0.4490946494505965,
+    "cadences a 10 bars": 1.7128316190104906,
+    "perfect cadences": 0.33778112026237966,
+    "half cadences": 0.3918320655689471,
+    "deceptive or evaded": 0.054989550679205856,
+    "changes": 0.09804392430983278,
+    "non-chord tones": 0.16243293744121964,
+    "struck dissonance": 0.2930530945087752,
+    "resolved by step": 0.7205218769988813,
+    "suspensions": 0.005177906105922
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.5012565789880672,
+     "others": 0.6574355841772361,
+     "auc": 0.1506734007021452
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.20518792766569952,
+     "others": 0.10019399166610232,
+     "auc": 0.9033816424614781
+    },
+    {
+     "measure": "away from home",
+     "value": 0.4490946494505965,
+     "others": 0.306119828222852,
+     "auc": 0.8247694334693535
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.16243293744121964,
+     "others": 0.22777694198686732,
+     "auc": 0.20728114477395865
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 25,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 24
+   }
   }
  },
  {
@@ -800,6 +953,219 @@
    "by": "kind, forces, period",
    "works": 268,
    "composers": 9
+  },
+  "harmony": {
+   "works": 66,
+   "by": {
+    "DCML": 66
+   },
+   "values": {
+    "chords a bar": 2.780712785593265,
+    "tonic and dominant": 0.5264374112153006,
+    "sevenths": 0.24674490003755276,
+    "diminished sevenths": 0.03722860055750323,
+    "applied chords": 0.1754078461169522,
+    "augmented sixths": 0.006703206177902469,
+    "Neapolitan": 0.00460376037594666,
+    "mixture": 0.009659233766003826,
+    "inversions": 0.4043712908518413,
+    "keys a 10 bars": 0.9304201191774801,
+    "away from home": 0.3397303621317637,
+    "cadences a 10 bars": 1.9804876319096716,
+    "perfect cadences": 0.44644235755027956,
+    "half cadences": 0.3206421033076712,
+    "deceptive or evaded": 0.07891638737621248,
+    "changes": 0.10768359621095855,
+    "non-chord tones": 0.26670803669365706,
+    "struck dissonance": 0.2363043822021169,
+    "resolved by step": 0.7617940802343165,
+    "suspensions": 0.005283879992285267
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.5264374112153006,
+     "others": 0.6198969849828573,
+     "auc": 0.22996431820389843
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "IV",
+      "V",
+      "I"
+     ],
+     "z": 8.1,
+     "works": 25,
+     "per_1000": 5.4,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n05c.notes.tsv",
+       "label": "Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML)",
+       "bar": 31
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n01a.notes.tsv",
+       "label": "Sonata in F Major, Wq.50/1, movement 1: Allegretto (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n02c.notes.tsv",
+       "label": "Sonata in G Major, Wq.50/2, movement 3: Allegro assai (DCML)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "iv",
+      "V",
+      "i"
+     ],
+     "z": 5.5,
+     "works": 11,
+     "per_1000": 2.1,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n05c.notes.tsv",
+       "label": "Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML)",
+       "bar": 51
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq55n03a.notes.tsv",
+       "label": "Sonata in B Minor, Wq.55/3, movement 1: Allegretto (DCML)",
+       "bar": 15
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq55n03c.notes.tsv",
+       "label": "Sonata in B Minor, Wq.55/3, movement 3: Cantabile (DCML)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "IV",
+      "V"
+     ],
+     "z": 5.0,
+     "works": 12,
+     "per_1000": 3.3,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n05c.notes.tsv",
+       "label": "Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML)",
+       "bar": 30
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n01a.notes.tsv",
+       "label": "Sonata in F Major, Wq.50/1, movement 1: Allegretto (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq56n02c.notes.tsv",
+       "label": "Sonata in G Major, Wq.56/2, movement 3: Allegro (DCML)",
+       "bar": 19
+      }
+     ]
+    },
+    {
+     "chords": [
+      "iv",
+      "i64",
+      "V"
+     ],
+     "z": 4.7,
+     "works": 14,
+     "per_1000": 2.5,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n03a.notes.tsv",
+       "label": "Sonata in A Minor, Wq.50/3, movement 1: Presto (DCML)",
+       "bar": 89
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq55n04c.notes.tsv",
+       "label": "Sonata in A Major, Wq.55/4, movement 3: Allegro (DCML)",
+       "bar": 68
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n03c.notes.tsv",
+       "label": "Sonata in A Minor, Wq.50/3, movement 3: Allegro moderato ma innocentemente (DCML)",
+       "bar": 14
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i",
+      "iv",
+      "V"
+     ],
+     "z": 4.7,
+     "works": 8,
+     "per_1000": 1.5,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n05c.notes.tsv",
+       "label": "Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML)",
+       "bar": 52
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq55n03a.notes.tsv",
+       "label": "Sonata in B Minor, Wq.55/3, movement 1: Allegretto (DCML)",
+       "bar": 15
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n04c.notes.tsv",
+       "label": "Sonata in D Minor, Wq.50/4, movement 3: Allegro (DCML)",
+       "bar": 57
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "IV",
+      "V"
+     ],
+     "z": 4.7,
+     "works": 17,
+     "per_1000": 3.2,
+     "others_per_1000": 0.9,
+     "at": [
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n05c.notes.tsv",
+       "label": "Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML)",
+       "bar": 32
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq50n02c.notes.tsv",
+       "label": "Sonata in G Major, Wq.50/2, movement 3: Allegro assai (DCML)",
+       "bar": 14
+      },
+      {
+       "work": "dcml/cpe_bach_keyboard:notes/wq112n08.notes.tsv",
+       "label": "Fantasia in B-flat Major, Wq.112/8 (DCML)",
+       "bar": 10
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 214,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 205
+   }
   }
  },
  {

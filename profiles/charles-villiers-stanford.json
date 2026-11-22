@@ -171,6 +171,42 @@
    },
    {
     "moves": [
+     3,
+     -2,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/5_The_Call/lc6548330.mxl",
+      "label": "Songs of a Roving Celt, Op.157, The Call (OpenScore)",
+      "bar": 16,
+      "notes": "F4 Ab4 F#4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/3_Songs_of_Robert_Bridges,_Op.43/3_Say,_o_say!_saith_the_music/lc6205716.mxl",
+      "label": "Songs of Robert Bridges, Op.43, Say, o say! saith the music (OpenScore)",
+      "bar": 11,
+      "notes": "A4 C5 Bb4 D5"
+     },
+     {
+      "work": "openscore-lieder:Stanford,_Charles_Villiers/3_Songs_of_Robert_Bridges,_Op.43/2_I_praise_the_tender_flower/lc6205693.mxl",
+      "label": "Songs of Robert Bridges, Op.43, I praise the tender flower (OpenScore)",
+      "bar": 34,
+      "notes": "A4 C5 Bb4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
      5,
      -3,
      -2
@@ -204,47 +240,11 @@
       "notes": "B4 E5 C#5 B4"
      }
     ]
-   },
-   {
-    "moves": [
-     3,
-     -2,
-     4
-    ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 5.1,
-    "works": 3,
-    "per_1000": 1.6,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "openscore-lieder:Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/5_The_Call/lc6548330.mxl",
-      "label": "Songs of a Roving Celt, Op.157, The Call (OpenScore)",
-      "bar": 16,
-      "notes": "F4 Ab4 F#4 Bb4"
-     },
-     {
-      "work": "openscore-lieder:Stanford,_Charles_Villiers/3_Songs_of_Robert_Bridges,_Op.43/3_Say,_o_say!_saith_the_music/lc6205716.mxl",
-      "label": "Songs of Robert Bridges, Op.43, Say, o say! saith the music (OpenScore)",
-      "bar": 11,
-      "notes": "A4 C5 Bb4 D5"
-     },
-     {
-      "work": "openscore-lieder:Stanford,_Charles_Villiers/3_Songs_of_Robert_Bridges,_Op.43/2_I_praise_the_tender_flower/lc6205693.mxl",
-      "label": "Songs of Robert Bridges, Op.43, I praise the tender flower (OpenScore)",
-      "bar": 34,
-      "notes": "A4 C5 Bb4 D5"
-     }
-    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1079,
+   "works": 1068,
    "composers": 97
   }
  },
@@ -283,7 +283,7 @@
     "measure": "range",
     "value": 26.819999999999993,
     "others": 23.028643922263598,
-    "auc": 0.8088261188895652
+    "auc": 0.808826118889565
    },
    {
     "measure": "surprise, pitch",

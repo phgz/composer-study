@@ -77,7 +77,7 @@ def test_a_unit_whose_harmony_stands_apart_gets_its_progression_and_bars():
     assert any('iv' in f['chords'] for f in h['progressions']) and h['progressions'][0]['at'][0]['bar'] is not None
     page = P.markdown(p)
     assert "**Harmony**, from the analysts' labels of 8 of its works (8 DCML's)" in page and 'chords from the other mode' in page
-    assert 'the progression' in page
+    assert 'its progressions, against' in page
 
 
 def test_a_work_without_labels_has_no_harmony():

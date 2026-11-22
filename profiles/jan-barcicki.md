@@ -1,10 +1,10 @@
 # Jan Barcicki
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Jan Barcicki: dance, all
 
-6 works; set against 191 works by 32 composers: other composers' dance of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 191 works by 32 composers: other composers' dances of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 2.08, against 1.28 (96 in 100)
@@ -25,7 +25,7 @@
 
 ### Jan Barcicki: polonaise, all
 
-6 works; set against 21 works by 8 composers: other composers' polonaise of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 21 works by 8 composers: other composers' polonaises of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 2.08, against 1.47 (100 in 100)

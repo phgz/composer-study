@@ -1,10 +1,10 @@
 # Alexander von Zemlinsky
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Alexander von Zemlinsky: string quartet (string quartet), all
 
-9 works; set against 109 works by 19 composers: other composers' string quartet (string quartet) of the 1890 to 1950 period.
+9 works; set against 109 works by 19 composers: other composers' string quartets (string quartet) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - even rhythm (a note as long as the one before): 47%, against 57% (25 in 100)

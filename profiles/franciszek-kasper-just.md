@@ -1,10 +1,10 @@
 # Franciszek Kasper Just
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Franciszek Kasper Just: mass, all
 
-6 works; set against 641 works by 34 composers: other composers' mass of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 641 works by 34 composers: other composers' masses of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.01, against 1.74 (9 in 100)

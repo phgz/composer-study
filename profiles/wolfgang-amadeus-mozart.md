@@ -1,10 +1,10 @@
 # Wolfgang Amadeus Mozart
 
-28 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+28 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Wolfgang Amadeus Mozart: air, Vienna
 
-4 works; set against 23 works by 11 composers: other composers' air of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 23 works by 11 composers: other composers' airs of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Wolfgang Amadeus Mozart: concerto (orchestra), Vienna
 
-6 works; set against 319 works by 26 composers: other composers' concerto, of any period and forces (range, register and density not compared).
+6 works; set against 319 works by 26 composers: other composers' concertos, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 22%, against 12% (81 in 100)
@@ -35,7 +35,7 @@
 
 ### Wolfgang Amadeus Mozart: dance, Vienna
 
-6 works; set against 162 works by 32 composers: other composers' dance of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 162 works by 32 composers: other composers' dances of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps answered by a step back: 48%, against 24% (86 in 100)
@@ -53,7 +53,7 @@
 
 ### Wolfgang Amadeus Mozart: dance (keyboard), Vienna
 
-4 works; set against 20 works by 7 composers: other composers' dance (keyboard) of the Classical period.
+4 works; set against 20 works by 7 composers: other composers' dances (keyboard) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -64,7 +64,7 @@
 
 ### Wolfgang Amadeus Mozart: dance (string quartet), Salzburg
 
-5 works; set against 71 works by 5 composers: other composers' dance (string quartet) of the Classical period.
+5 works; set against 71 works by 5 composers: other composers' dances (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 14%, against 22% (16 in 100)
@@ -81,7 +81,7 @@
 
 ### Wolfgang Amadeus Mozart: dance (string quartet), Vienna
 
-9 works; set against 71 works by 5 composers: other composers' dance (string quartet) of the Classical period.
+9 works; set against 71 works by 5 composers: other composers' dances (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 4.47, against 3.42 (87 in 100)
@@ -100,7 +100,7 @@
 
 ### Wolfgang Amadeus Mozart: dance (string quartet), youth
 
-4 works; set against 71 works by 5 composers: other composers' dance (string quartet) of the Classical period.
+4 works; set against 71 works by 5 composers: other composers' dances (string quartet) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -122,7 +122,7 @@
 
 ### Wolfgang Amadeus Mozart: divertimento (string quartet), youth
 
-3 works; set against 397 works by 10 composers: other composers' works for string quartet of the Classical period, of any kind (too few divertimento).
+3 works; set against 397 works by 10 composers: other composers' works for string quartet of the Classical period, of any kind (too few divertimentos).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -133,7 +133,7 @@
 
 ### Wolfgang Amadeus Mozart: duet, Vienna
 
-13 works; set against 42 works by 17 composers: other composers' duet, of any period and forces (range, register and density not compared).
+13 works; set against 42 works by 17 composers: other composers' duets, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps answered by a step back: 40%, against 25% (78 in 100)
@@ -150,7 +150,7 @@
 
 ### Wolfgang Amadeus Mozart: fugue (keyboard), Vienna
 
-3 works; set against 132 works by 23 composers: other composers' fugue, of any period and forces (range, register and density not compared).
+3 works; set against 132 works by 23 composers: other composers' fugues, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -161,7 +161,7 @@
 
 ### Wolfgang Amadeus Mozart: minuet, Vienna
 
-4 works; set against 112 works by 18 composers: other composers' minuet of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 112 works by 18 composers: other composers' minuets of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -172,7 +172,7 @@
 
 ### Wolfgang Amadeus Mozart: minuet (string quartet), Salzburg
 
-5 works; set against 71 works by 5 composers: other composers' minuet (string quartet) of the Classical period.
+5 works; set against 71 works by 5 composers: other composers' minuets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 14%, against 22% (16 in 100)
@@ -189,7 +189,7 @@
 
 ### Wolfgang Amadeus Mozart: minuet (string quartet), Vienna
 
-9 works; set against 71 works by 5 composers: other composers' minuet (string quartet) of the Classical period.
+9 works; set against 71 works by 5 composers: other composers' minuets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 4.47, against 3.42 (87 in 100)
@@ -208,7 +208,7 @@
 
 ### Wolfgang Amadeus Mozart: minuet (string quartet), youth
 
-4 works; set against 71 works by 5 composers: other composers' minuet (string quartet) of the Classical period.
+4 works; set against 71 works by 5 composers: other composers' minuets (string quartet) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -230,7 +230,7 @@
 
 ### Wolfgang Amadeus Mozart: rondo (keyboard), Salzburg
 
-4 works; set against 30 works by 5 composers: other composers' rondo (keyboard) of the Classical period.
+4 works; set against 30 works by 5 composers: other composers' rondos (keyboard) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -239,9 +239,15 @@
 
 **All measures:** moves by step 54%; repeated notes 8%; leaps of a fourth or more 22%; mean move (semitones) 3.66; moves that rise 45%; leaps answered by a step back 24%; range of the melody (semitones) 18.5; register of the melody D5; even rhythm (a note as long as the one before) 66%; dotted figures (3:1) 12%; rhythmic variety (bits) 1.91; the ear's surprise, pitch (bits a note) 2.51; the ear's surprise, rhythm (bits a note) 1.24; notes a quarter (texture) 4.77; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 4 of its works (4 DCML's); set against 25 works by 3 composers: other composers' labelled rondos (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 2.01; chords on I or V 67%; seventh chords 24%; diminished sevenths 4%; applied chords (V/V and the like) 8%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 44%; changes of key a 10 bars 0.32; chords away from the home key 26%; cadences a 10 bars (DCML) 1.44; of its cadences, perfect 42%; of its cadences, half 35%; of its cadences, deceptive or evaded 18%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 8%; melody notes outside the chord 23%; of those, struck with the chord (appoggiaturas) 25%; of those, resolved by a step 79%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Wolfgang Amadeus Mozart: rondo (string quartet), Salzburg
 
-4 works; set against 56 works by 16 composers: other composers' rondo of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 56 works by 16 composers: other composers' rondos of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -252,7 +258,7 @@
 
 ### Wolfgang Amadeus Mozart: sonata (chamber), Vienna
 
-3 works; set against 328 works by 15 composers: other composers' sonata of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 328 works by 15 composers: other composers' sonatas of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -263,7 +269,7 @@
 
 ### Wolfgang Amadeus Mozart: sonata (keyboard), Salzburg
 
-27 works; set against 279 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+27 works; set against 279 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -277,9 +283,22 @@
 
 **All measures:** moves by step 54%; repeated notes 9%; leaps of a fourth or more 19%; mean move (semitones) 3.28; moves that rise 46%; leaps answered by a step back 25%; range of the melody (semitones) 19.1; register of the melody Eb5; even rhythm (a note as long as the one before) 65%; dotted figures (3:1) 7%; rhythmic variety (bits) 1.96; the ear's surprise, pitch (bits a note) 2.58; the ear's surprise, rhythm (bits a note) 1.35; notes a quarter (texture) 5.21; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 27 of its works (27 DCML's); set against 226 works by 5 composers: other composers' labelled sonatas (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: nowhere that clearly
+- its progressions, against 217 of those works, labelled by DCML too:
+  - I6 – IV – I64: 6.1 in 1,000, against 1.2, in 16 works. At: Piano Sonata no. 9 in D major, K311, movement 3: Presto (DCML), bar 47; Piano Sonata no. 7 in C major, K309, movement 2: Andante un poco adagio (DCML), bar 7; Piano Sonata no. 6 in D major, K284, movement 2: Rondo en Polonaise - Andante (DCML), bar 15
+  - I6 – ii6 – I64: 6.3 in 1,000, against 1.6, in 15 works. At: Piano Sonata no. 5 in G major, K283, movement 1: Allegro (DCML), bar 36; Piano Sonata no. 4 in E flat major, K282, movement 3: Allegro (DCML), bar 20; Piano Sonata no. 2 in F major, K280, movement 1: Allegro assai (DCML), bar 22
+  - IV – I64 – V7: 6.7 in 1,000, against 2.0, in 16 works. At: Piano Sonata no. 3 in B flat major, K281, movement 3: Rondeau – Allegro (DCML), bar 13; Piano Sonata no. 9 in D major, K311, movement 3: Presto (DCML), bar 62; Piano Sonata no. 6 in D major, K284, movement 1: Allegro (DCML), bar 39
+  - ii6 – I64 – V: 7.6 in 1,000, against 2.7, in 18 works. At: Piano Sonata no. 6 in D major, K284, movement 3: Andante (DCML), bar 3; Piano Sonata no. 8 in A minor, K310, movement 2: Andante con espressione (DCML), bar 13; Piano Sonata no. 7 in C major, K309, movement 3: Rondeau – Allegretto grazioso (DCML), bar 15
+  - ii6 – I64 – V7: 9.3 in 1,000, against 3.8, in 20 works. At: Piano Sonata no. 1 in C major, K279, movement 2: Andante (DCML), bar 3; Piano Sonata no. 3 in B flat major, K281, movement 1: Allegro (DCML), bar 7; Piano Sonata no. 6 in D major, K284, movement 3: Andante (DCML), bar 7
+  - V7 – I6 – ii6: 1.9 in 1,000, against 0.1, in 6 works. At: Piano Sonata no. 5 in G major, K283, movement 1: Allegro (DCML), bar 35; Piano Sonata no. 1 in C major, K279, movement 1: Allegro (DCML), bar 15; Piano Sonata no. 4 in E flat major, K282, movement 3: Allegro (DCML), bar 36
+
+*All its harmony:* chords a bar 2.20; chords on I or V 63%; seventh chords 26%; diminished sevenths 3%; applied chords (V/V and the like) 10%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 42%; changes of key a 10 bars 0.46; chords away from the home key 33%; cadences a 10 bars (DCML) 1.67; of its cadences, perfect 45%; of its cadences, half 34%; of its cadences, deceptive or evaded 16%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 10%; melody notes outside the chord 26%; of those, struck with the chord (appoggiaturas) 19%; of those, resolved by a step 76%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Wolfgang Amadeus Mozart: sonata (keyboard), Vienna
 
-27 works; set against 279 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+27 works; set against 279 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -293,9 +312,22 @@
 
 **All measures:** moves by step 55%; repeated notes 9%; leaps of a fourth or more 18%; mean move (semitones) 3.16; moves that rise 46%; leaps answered by a step back 24%; range of the melody (semitones) 20.4; register of the melody Eb5; even rhythm (a note as long as the one before) 70%; dotted figures (3:1) 5%; rhythmic variety (bits) 1.78; the ear's surprise, pitch (bits a note) 2.51; the ear's surprise, rhythm (bits a note) 1.33; notes a quarter (texture) 4.92; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 27 of its works (27 DCML's); set against 226 works by 5 composers: other composers' labelled sonatas (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: nowhere that clearly
+- its progressions, against 217 of those works, labelled by DCML too:
+  - I6 – ii6 – I64: 8.2 in 1,000, against 1.6, in 19 works. At: Piano Sonata no. 17 in B flat major, K570, movement 2: Adagio (DCML), bar 4; Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML), bar 7; Piano Sonata no. 16 in C major, K545, movement 2: Andante (DCML), bar 14
+  - ii6 – I64 – V7: 11.3 in 1,000, against 3.8, in 26 works. At: Piano Sonata no. 15 in F major, K533, movement 1: Allegro (DCML), bar 20; Piano Sonata no. 10 in C major, K330, movement 1: Allegro moderato (DCML), bar 32; Piano Sonata no. 15 in F major, K533, movement 3: Rondo – Allegretto (DCML), bar 11
+  - I6 – V42 – I6: 5.8 in 1,000, against 1.6, in 13 works. At: Piano Sonata no. 15 in F major, K533, movement 3: Rondo – Allegretto (DCML), bar 1; Piano Sonata no. 10 in C major, K330, movement 1: Allegro moderato (DCML), bar 44; Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML), bar 25
+  - I – IV64 – I: 3.5 in 1,000, against 0.6, in 9 works. At: Piano Sonata no. 11 in A major, K331, movement 1: Andante grazioso (DCML), bar 8; Piano Sonata no. 16 in C major, K545, movement 2: Andante (DCML), bar 2; Piano Sonata no. 14 in C minor, K457, movement 2: Adagio (DCML), bar 47
+  - V6 – I – ii6: 3.7 in 1,000, against 0.7, in 10 works. At: Piano Sonata no. 11 in A major, K331, movement 1: Andante grazioso (DCML), bar 3; Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML), bar 3; Piano Sonata no. 17 in B flat major, K570, movement 3: Allegretto (DCML), bar 3
+  - V42 – I6 – V42: 4.3 in 1,000, against 1.2, in 10 works. At: Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML), bar 24; Piano Sonata no. 15 in F major, K533, movement 3: Rondo – Allegretto (DCML), bar 2; Piano Sonata no. 10 in C major, K330, movement 1: Allegro moderato (DCML), bar 44
+
+*All its harmony:* chords a bar 2.23; chords on I or V 66%; seventh chords 26%; diminished sevenths 4%; applied chords (V/V and the like) 10%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 40%; changes of key a 10 bars 0.57; chords away from the home key 33%; cadences a 10 bars (DCML) 1.69; of its cadences, perfect 52%; of its cadences, half 37%; of its cadences, deceptive or evaded 6%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 12%; melody notes outside the chord 29%; of those, struck with the chord (appoggiaturas) 21%; of those, resolved by a step 75%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Wolfgang Amadeus Mozart: song (voice and keyboard), Vienna
 
-5 works; set against 133 works by 18 composers: other composers' song (voice and keyboard) of the Classical period.
+5 works; set against 133 works by 18 composers: other composers' songs (voice and keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.90, against 2.45 (81 in 100)
@@ -308,7 +340,7 @@
 
 ### Wolfgang Amadeus Mozart: string quartet (string quartet), Salzburg
 
-31 works; set against 397 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+31 works; set against 397 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -324,7 +356,7 @@
 
 ### Wolfgang Amadeus Mozart: string quartet (string quartet), Vienna
 
-47 works; set against 397 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+47 works; set against 397 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -340,7 +372,7 @@
 
 ### Wolfgang Amadeus Mozart: string quartet (string quartet), youth
 
-18 works; set against 397 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+18 works; set against 397 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -356,7 +388,7 @@
 
 ### Wolfgang Amadeus Mozart: symphony (orchestra), youth
 
-4 works; set against 29 works by 3 composers: other composers' symphony (orchestra) of the Classical period.
+4 works; set against 29 works by 3 composers: other composers' symphonies (orchestra) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -367,7 +399,7 @@
 
 ### Wolfgang Amadeus Mozart: trio (chamber), Vienna
 
-3 works; set against 21 works by 4 composers: other composers' trio, of any period and forces (range, register and density not compared).
+3 works; set against 21 works by 4 composers: other composers' trios, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -392,3 +424,19 @@
 - up a fourth, up a major third, up a minor third (much shorter, as long, as long): 1.2 in 1,000 figures, against 0.2, in 4 works. At: Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN), bar 73 (A4 D5 F#5 A5); Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN), bar 83 (G4 C5 E5 G5); Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN), bar 327 (C5 F5 A5 C6)
 
 **All measures:** moves by step 48%; repeated notes 8%; leaps of a fourth or more 23%; mean move (semitones) 3.64; moves that rise 51%; leaps answered by a step back 18%; range of the melody (semitones) 24.0; register of the melody D5; even rhythm (a note as long as the one before) 77%; dotted figures (3:1) 4%; rhythmic variety (bits) 1.49; the ear's surprise, pitch (bits a note) 2.64; the ear's surprise, rhythm (bits a note) 0.93; notes a quarter (texture) 5.55; lines (texture) 2.6
+
+**Harmony**, from the analysts' labels of 5 of its works (5 When in Rome's); set against 234 works by 5 composers: other composers' labelled works for keyboard of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords a bar: 1.21, against 2.34 (8 in 100)
+- of those, resolved by a step: 60%, against 75% (13 in 100)
+- melody notes outside the chord: 32%, against 24% (83 in 100)
+- chords over a bass not their root: 32%, against 40% (23 in 100)
+- its progressions, against 234 of those works, by either analyst:
+  - ii65 – V7 – I: 9.2 in 1,000, against 0.7, in 4 works. At: Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN), bar 51; Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN), bar 137; Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN), bar 112
+  - vi – ii65 – V7: 5.9 in 1,000, against 0.1, in 3 works. At: Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN), bar 51; Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN), bar 111; Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN), bar 97
+  - V7 – I – vi: 9.2 in 1,000, against 1.0, in 4 works. At: Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN), bar 47; Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN), bar 7; Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN), bar 8
+  - I – V – I64: 5.0 in 1,000, against 0.2, in 2 works. At: Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN), bar 1; Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN), bar 32
+  - I – vi – ii65: 4.2 in 1,000, against 0.2, in 3 works. At: Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN), bar 48; Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN), bar 97; Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN), bar 123
+  - V7/IV – IV64 – I: 4.2 in 1,000, against 0.0, in 3 works. At: Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN), bar 24; Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN), bar 78; Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN), bar 105
+
+*All its harmony:* chords a bar 1.21; chords on I or V 63%; seventh chords 31%; diminished sevenths 3%; applied chords (V/V and the like) 14%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 32%; changes of key a 10 bars 0.09; chords away from the home key 1%; melody notes outside the chord 32%; of those, struck with the chord (appoggiaturas) 10%; of those, resolved by a step 60%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%

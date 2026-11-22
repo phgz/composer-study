@@ -1,10 +1,10 @@
 # Carlo Cecere
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Carlo Cecere: concerto (orchestra), all
 
-3 works; set against 84 works by 6 composers: other composers' concerto (orchestra) of the Baroque period.
+3 works; set against 84 works by 6 composers: other composers' concertos (orchestra) of the Baroque period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

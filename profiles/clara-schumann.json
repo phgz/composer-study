@@ -66,7 +66,7 @@
      -2,
      0
     ],
-    "z": 6.1,
+    "z": 6.0,
     "works": 3,
     "per_1000": 3.1,
     "others_per_1000": 0.1,
@@ -102,10 +102,10 @@
      0,
      2
     ],
-    "z": 6.0,
+    "z": 5.9,
     "works": 4,
     "per_1000": 3.7,
-    "others_per_1000": 0.1,
+    "others_per_1000": 0.2,
     "at": [
      {
       "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/11_Warum_willst_du_And’re_fragen/lc5197231.mxl",
@@ -138,7 +138,7 @@
      2,
      -2
     ],
-    "z": 4.8,
+    "z": 5.1,
     "works": 3,
     "per_1000": 3.7,
     "others_per_1000": 0.3,
@@ -213,7 +213,7 @@
     "z": 4.5,
     "works": 3,
     "per_1000": 3.1,
-    "others_per_1000": 0.2,
+    "others_per_1000": 0.3,
     "at": [
      {
       "work": "openscore-lieder:Schumann,_Clara/Lieder,_Op.12/02_Er_ist_gekommen_in_Sturm_und_Regen/lc5187781.mxl",
@@ -238,8 +238,71 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1082,
+   "works": 1071,
    "composers": 97
+  },
+  "harmony": {
+   "works": 14,
+   "by": {
+    "When in Rome": 2,
+    "DCML": 12
+   },
+   "values": {
+    "chords a bar": 2.562430519780507,
+    "tonic and dominant": 0.5068202457436396,
+    "sevenths": 0.413172267510698,
+    "diminished sevenths": 0.09523627814995685,
+    "applied chords": 0.22378787679498466,
+    "augmented sixths": 0.0011844085238580653,
+    "Neapolitan": 0.0007680491551459294,
+    "mixture": 0.020392439327046038,
+    "inversions": 0.4711521725495991,
+    "keys a 10 bars": 0.21217834960070986,
+    "away from home": 0.07689454591706059,
+    "cadences a 10 bars": 1.3049788177092039,
+    "perfect cadences": 0.4076388888888889,
+    "half cadences": 0.43333333333333335,
+    "deceptive or evaded": 0.027777777777777776,
+    "changes": 0.15500803832686455,
+    "non-chord tones": 0.13728851021568436,
+    "struck dissonance": 0.5647208746289014,
+    "resolved by step": 0.666974060870382,
+    "suspensions": 0.005765384404624911
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 2.562430519780507,
+     "others": 1.9232109765088594,
+     "auc": 0.7561376616430768
+    },
+    {
+     "measure": "inversions",
+     "value": 0.4711521725495991,
+     "others": 0.34129007832113045,
+     "auc": 0.7617106469543292
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.21217834960070986,
+     "others": 0.575098190068798,
+     "auc": 0.1978009259259259
+    },
+    {
+     "measure": "struck dissonance",
+     "value": 0.5647208746289014,
+     "others": 0.32463276032654215,
+     "auc": 0.8127580658100256
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 137,
+    "composers": 18,
+    "progressions_by": "DCML",
+    "progressions_works": 41
+   }
   }
  }
 ]

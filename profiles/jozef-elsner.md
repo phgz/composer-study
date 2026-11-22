@@ -1,10 +1,10 @@
 # Józef Elsner
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Józef Elsner: dance, all
 
-5 works; set against 192 works by 32 composers: other composers' dance of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 192 works by 32 composers: other composers' dances of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 1.78, against 2.29 (14 in 100)
@@ -21,7 +21,7 @@
 
 ### Józef Elsner: mass, all
 
-92 works; set against 549 works by 34 composers: other composers' mass of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+92 works; set against 549 works by 34 composers: other composers' masses of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -37,7 +37,7 @@
 
 ### Józef Elsner: mass (voices), all
 
-6 works; set against 29 works by 3 composers: other composers' mass (voices) of the Classical period.
+6 works; set against 29 works by 3 composers: other composers' masses (voices) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - rhythmic variety (bits): 2.83, against 2.15 (95 in 100)

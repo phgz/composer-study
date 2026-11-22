@@ -1,10 +1,10 @@
 # Maria Theresia von Paradis
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Maria Theresia von Paradis: song (voice and keyboard), all
 
-12 works; set against 126 works by 18 composers: other composers' song (voice and keyboard) of the Classical period.
+12 works; set against 126 works by 18 composers: other composers' songs (voice and keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 7.34, against 4.38 (87 in 100)

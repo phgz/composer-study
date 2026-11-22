@@ -1,10 +1,10 @@
 # Johannes Tinctoris
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Johannes Tinctoris: mass (voices), all
 
-10 works; set against 586 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+10 works; set against 586 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 13.1, against 10.3 (96 in 100)
@@ -27,7 +27,7 @@
 
 ### Johannes Tinctoris: motet (voices), all
 
-4 works; set against 618 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+4 works; set against 618 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -38,7 +38,7 @@
 
 ### Johannes Tinctoris: song (voices), all
 
-5 works; set against 277 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+5 works; set against 277 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 4%, against 14% (6 in 100)

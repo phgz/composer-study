@@ -1,10 +1,10 @@
 # Sergei Rachmaninoff
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Sergei Rachmaninoff: prelude (keyboard), Russia
 
-8 works; set against 302 works by 30 composers: other composers' prelude, of any period and forces (range, register and density not compared).
+8 works; set against 302 works by 30 composers: other composers' preludes, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 4.87, against 3.44 (80 in 100)
@@ -38,3 +38,12 @@
 - up a half step, down a step, up a half step (as long, as long, as long): 2.4 in 1,000 figures, against 0.3, in 2 works. At: Variations on a Theme of Corelli, op. 42, movement 7: Variation 6 (DCML), bar 1 (F5 F#5 E5 F5); Variations on a Theme of Corelli, op. 42, movement 15: Intermezzo (DCML), bar 6 (F4 F#4 E4 F4)
 
 **All measures:** moves by step 36%; repeated notes 8%; leaps of a fourth or more 32%; mean move (semitones) 4.69; moves that rise 54%; leaps answered by a step back 12%; range of the melody (semitones) 20.8; register of the melody Bb4; even rhythm (a note as long as the one before) 50%; dotted figures (3:1) 11%; rhythmic variety (bits) 2.00; the ear's surprise, pitch (bits a note) 2.49; the ear's surprise, rhythm (bits a note) 1.20; notes a quarter (texture) 6.64; lines (texture) 2.1
+
+**Harmony**, from the analysts' labels of 22 of its works (22 DCML's); set against 27 works by 4 composers: other composers' labelled works for keyboard of the 1890 to 1950 period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords labelled with a note in place of one of theirs, or added (V(4)), DCML: 22%, against 56% (12 in 100)
+- seventh chords: 33%, against 63% (17 in 100)
+- of its cadences, perfect: 45%, against 14% (82 in 100)
+- melody notes outside the chord: 23%, against 40% (23 in 100)
+
+*All its harmony:* chords a bar 2.76; chords on I or V 37%; seventh chords 33%; diminished sevenths 5%; applied chords (V/V and the like) 31%; augmented sixths 3%; Neapolitan chords 1%; chords from the other mode 1%; chords over a bass not their root 36%; changes of key a 10 bars 0.17; chords away from the home key 4%; cadences a 10 bars (DCML) 1.18; of its cadences, perfect 45%; of its cadences, half 27%; of its cadences, deceptive or evaded 10%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 22%; melody notes outside the chord 23%; of those, struck with the chord (appoggiaturas) 22%; of those, resolved by a step 38%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%

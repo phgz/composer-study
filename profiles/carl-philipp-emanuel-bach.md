@@ -1,10 +1,10 @@
 # Carl Philipp Emanuel Bach
 
-4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+4 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Carl Philipp Emanuel Bach: fantasia (keyboard), all
 
-10 works; set against 45 works by 25 composers: other composers' fantasia, of any period and forces (range, register and density not compared).
+10 works; set against 45 works by 25 composers: other composers' fantasias, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 42%, against 46% (24 in 100)
@@ -20,9 +20,20 @@
 
 **All measures:** moves by step 49%; repeated notes 8%; leaps of a fourth or more 24%; mean move (semitones) 3.58; moves that rise 42%; leaps answered by a step back 18%; range of the melody (semitones) 22.3; register of the melody C#5; even rhythm (a note as long as the one before) 77%; dotted figures (3:1) 7%; rhythmic variety (bits) 1.20; the ear's surprise, pitch (bits a note) 2.73; the ear's surprise, rhythm (bits a note) 1.10; notes a quarter (texture) 4.53; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 10 of its works (10 DCML's); set against 230 works by 5 composers: other composers' labelled works for keyboard of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- of its cadences, half: 7%, against 32% (10 in 100)
+- chords away from the home key: 11%, against 34% (17 in 100)
+- chords on I or V: 53%, against 62% (23 in 100)
+- of its cadences, perfect: 70%, against 46% (75 in 100)
+- its progressions, against 205 of those works, labelled by DCML too:
+  - viio7/V – i64 – V7: 8.5 in 1,000, against 0.7, in 3 works. At: Fantasia in G Minor, Wq.117/13 (DCML), bar 1; Fantasia and Fugue in C Minor, Wq.119/7 (DCML), bar 12; Fantasia in D Minor, Wq.114/7 (DCML), bar 3
+
+*All its harmony:* chords a bar 5.79; chords on I or V 53%; seventh chords 35%; diminished sevenths 6%; applied chords (V/V and the like) 21%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 2%; chords over a bass not their root 41%; changes of key a 10 bars 2.82; chords away from the home key 11%; cadences a 10 bars (DCML) 3.83; of its cadences, perfect 70%; of its cadences, half 7%; of its cadences, deceptive or evaded 16%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 8%; melody notes outside the chord 23%; of those, struck with the chord (appoggiaturas) 21%; of those, resolved by a step 78%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Carl Philipp Emanuel Bach: rondo (keyboard), all
 
-7 works; set against 29 works by 5 composers: other composers' rondo (keyboard) of the Classical period.
+7 works; set against 29 works by 5 composers: other composers' rondos (keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.80, against 2.44 (92 in 100)
@@ -44,9 +55,18 @@
 
 **All measures:** moves by step 33%; repeated notes 11%; leaps of a fourth or more 35%; mean move (semitones) 5.02; moves that rise 45%; leaps answered by a step back 11%; range of the melody (semitones) 24.0; register of the melody C5; even rhythm (a note as long as the one before) 66%; dotted figures (3:1) 5%; rhythmic variety (bits) 1.83; the ear's surprise, pitch (bits a note) 2.80; the ear's surprise, rhythm (bits a note) 1.42; notes a quarter (texture) 5.01; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 6 of its works (6 DCML's); set against 25 works by 3 composers: other composers' labelled rondos (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- applied chords (V/V and the like): 21%, against 10% (90 in 100)
+- chords on I or V: 50%, against 66% (15 in 100)
+- chords away from the home key: 45%, against 31% (82 in 100)
+- melody notes outside the chord: 16%, against 23% (21 in 100)
+
+*All its harmony:* chords a bar 2.70; chords on I or V 50%; seventh chords 23%; diminished sevenths 4%; applied chords (V/V and the like) 21%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 46%; changes of key a 10 bars 0.64; chords away from the home key 45%; cadences a 10 bars (DCML) 1.71; of its cadences, perfect 34%; of its cadences, half 39%; of its cadences, deceptive or evaded 5%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 10%; melody notes outside the chord 16%; of those, struck with the chord (appoggiaturas) 29%; of those, resolved by a step 72%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Carl Philipp Emanuel Bach: sonata (keyboard), all
 
-66 works; set against 268 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+66 works; set against 268 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -60,9 +80,22 @@
 
 **All measures:** moves by step 49%; repeated notes 10%; leaps of a fourth or more 24%; mean move (semitones) 3.85; moves that rise 42%; leaps answered by a step back 22%; range of the melody (semitones) 22.3; register of the melody C#5; even rhythm (a note as long as the one before) 64%; dotted figures (3:1) 9%; rhythmic variety (bits) 1.93; the ear's surprise, pitch (bits a note) 2.75; the ear's surprise, rhythm (bits a note) 1.48; notes a quarter (texture) 4.79; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 66 of its works (66 DCML's); set against 214 works by 5 composers: other composers' labelled sonatas (keyboard) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- chords on I or V: 53%, against 62% (23 in 100)
+- its progressions, against 205 of those works, labelled by DCML too:
+  - IV – V – I: 5.4 in 1,000, against 0.8, in 25 works. At: Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML), bar 31; Sonata in F Major, Wq.50/1, movement 1: Allegretto (DCML), bar 9; Sonata in G Major, Wq.50/2, movement 3: Allegro assai (DCML), bar 15
+  - iv – V – i: 2.1 in 1,000, against 0.1, in 11 works. At: Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML), bar 51; Sonata in B Minor, Wq.55/3, movement 1: Allegretto (DCML), bar 15; Sonata in B Minor, Wq.55/3, movement 3: Cantabile (DCML), bar 15
+  - I6 – IV – V: 3.3 in 1,000, against 0.8, in 12 works. At: Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML), bar 30; Sonata in F Major, Wq.50/1, movement 1: Allegretto (DCML), bar 8; Sonata in G Major, Wq.56/2, movement 3: Allegro (DCML), bar 19
+  - iv – i64 – V: 2.5 in 1,000, against 0.6, in 14 works. At: Sonata in A Minor, Wq.50/3, movement 1: Presto (DCML), bar 89; Sonata in A Major, Wq.55/4, movement 3: Allegro (DCML), bar 68; Sonata in A Minor, Wq.50/3, movement 3: Allegro moderato ma innocentemente (DCML), bar 14
+  - i – iv – V: 1.5 in 1,000, against 0.1, in 8 works. At: Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML), bar 52; Sonata in B Minor, Wq.55/3, movement 1: Allegretto (DCML), bar 15; Sonata in D Minor, Wq.50/4, movement 3: Allegro (DCML), bar 57
+  - I – IV – V: 3.2 in 1,000, against 0.9, in 17 works. At: Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML), bar 32; Sonata in G Major, Wq.50/2, movement 3: Allegro assai (DCML), bar 14; Fantasia in B-flat Major, Wq.112/8 (DCML), bar 10
+
+*All its harmony:* chords a bar 2.78; chords on I or V 53%; seventh chords 25%; diminished sevenths 4%; applied chords (V/V and the like) 18%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 1%; chords over a bass not their root 40%; changes of key a 10 bars 0.93; chords away from the home key 34%; cadences a 10 bars (DCML) 1.98; of its cadences, perfect 45%; of its cadences, half 32%; of its cadences, deceptive or evaded 8%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 11%; melody notes outside the chord 27%; of those, struck with the chord (appoggiaturas) 24%; of those, resolved by a step 76%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Carl Philipp Emanuel Bach: sonata (solo instrument), all
 
-3 works; set against 317 works by 15 composers: other composers' sonata of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 317 works by 15 composers: other composers' sonatas of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

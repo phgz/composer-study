@@ -1,10 +1,10 @@
 # Johann Wenzel Kalliwoda
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Johann Wenzel Kalliwoda: string quartet (string quartet), all
 
-4 works; set against 255 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+4 works; set against 255 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

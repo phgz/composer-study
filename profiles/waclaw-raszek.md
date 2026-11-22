@@ -1,10 +1,10 @@
 # Wacław Raszek
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Wacław Raszek: concerto (orchestra), all
 
-3 works; set against 31 works by 8 composers: other composers' concerto (orchestra) of the Romantic period.
+3 works; set against 31 works by 8 composers: other composers' concertos (orchestra) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Wacław Raszek: mass, all
 
-109 works; set against 444 works by 37 composers: other composers' mass of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+109 works; set against 444 works by 37 composers: other composers' masses of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 8%, against 15% (15 in 100)

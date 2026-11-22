@@ -1,10 +1,10 @@
 # Starck
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Starck: mass, any period
 
-10 works; set against 112 works by 9 composers: other composers' mass of the None period, for any forces (too few for these forces: range, register and density not compared).
+10 works; set against 112 works by 9 composers: other composers' masses of the None period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 

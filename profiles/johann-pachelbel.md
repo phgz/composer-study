@@ -1,10 +1,10 @@
 # Johann Pachelbel
 
-4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+4 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Johann Pachelbel: air (keyboard), all
 
-6 works; set against 75 works by 9 composers: other composers' air of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 75 works by 9 composers: other composers' airs of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 2.16, against 1.33 (93 in 100)
@@ -22,7 +22,7 @@
 
 ### Johann Pachelbel: fugue, all
 
-12 works; set against 91 works by 7 composers: other composers' fugue of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+12 works; set against 91 works by 7 composers: other composers' fugues of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.35, against 2.64 (18 in 100)
@@ -40,7 +40,7 @@
 
 ### Johann Pachelbel: magnificat, all
 
-12 works; set against 26 works by 10 composers: other composers' magnificat of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+12 works; set against 26 works by 10 composers: other composers' magnificats of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 6%, against 31% (0 in 100)

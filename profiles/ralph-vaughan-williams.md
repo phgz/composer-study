@@ -1,10 +1,10 @@
 # Ralph Vaughan Williams
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Ralph Vaughan Williams: partsong (voices), all
 
-6 works; set against 97 works by 7 composers: other composers' partsong, of any period and forces (range, register and density not compared).
+6 works; set against 97 works by 7 composers: other composers' partsongs, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.14, against 2.68 (19 in 100)

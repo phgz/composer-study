@@ -34,7 +34,7 @@
     "measure": "leaps",
     "value": 0.17691585592168432,
     "others": 0.09675096795434807,
-    "auc": 0.8290351267428651
+    "auc": 0.829035126742865
    },
    {
     "measure": "move",
@@ -52,7 +52,7 @@
     "measure": "even",
     "value": 0.36348918682229014,
     "others": 0.571733733156109,
-    "auc": 0.1241662960562126
+    "auc": 0.12416629605621256
    },
    {
     "measure": "long-short",
@@ -64,7 +64,7 @@
     "measure": "rhythm variety",
     "value": 2.8566533079158045,
     "others": 1.7150074102728343,
-    "auc": 0.986067882032544
+    "auc": 0.9860678820325439
    },
    {
     "measure": "surprise, rhythm",
@@ -184,7 +184,7 @@
      -2,
      1
     ],
-    "z": 5.5,
+    "z": 5.4,
     "works": 4,
     "per_1000": 1.9,
     "others_per_1000": 0.1,
@@ -344,7 +344,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1086,
+   "works": 1075,
    "composers": 97
   }
  }

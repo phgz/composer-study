@@ -1,10 +1,10 @@
 # Giovanni Battista Viotti
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Giovanni Battista Viotti: string quartet (string quartet), all
 
-6 works; set against 487 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+6 works; set against 487 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 6.70, against 5.19 (76 in 100)

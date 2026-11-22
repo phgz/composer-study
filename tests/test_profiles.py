@@ -51,3 +51,8 @@ def test_in_a_song_the_melody_is_the_voice():
     voice = [(t * 1.0, 1.0, 64 + (t % 3), 1, 0.0) for t in range(20)]; piano = [(t * 0.5, 0.5, 76 + (t % 5), 1, 0.0) for t in range(40)]
     w = L.Work('s', 'X', 'c', 'musicxml', 'Lied', {'P1': voice, 'P2': piano}, 0, [], {}, 60, 20.0, {'P1': 'Singstimme', 'P2': 'Klavier'})
     assert P.top_line(w, 'voice and keyboard') is voice and P.top_line(w, 'keyboard') is piano and P.top_line(w._replace(names=None), 'voice and keyboard') is piano
+
+
+def test_kinds_are_named_in_the_plural_when_others_are_counted():
+    assert [P.plural(k) for k in ('mazurka', 'mass', 'symphony', 'variations', 'march', 'waltz', 'string quartet')] == \
+        ['mazurkas', 'masses', 'symphonies', 'variations', 'marches', 'waltzes', 'string quartets']

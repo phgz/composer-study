@@ -1,10 +1,10 @@
 # Antonio Brioschi
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Antonio Brioschi: suite, all
 
-4 works; set against 195 works by 3 composers: other composers' suite of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 195 works by 3 composers: other composers' suites of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

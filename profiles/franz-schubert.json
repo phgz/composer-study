@@ -248,7 +248,7 @@
      0,
      0
     ],
-    "z": 5.3,
+    "z": 5.2,
     "works": 3,
     "per_1000": 1.3,
     "others_per_1000": 0.1,
@@ -276,7 +276,7 @@
   ],
   "compared": {
    "by": "forces, period",
-   "works": 288,
+   "works": 287,
    "composers": 16
   }
  },
@@ -445,9 +445,39 @@
     "rhythm": [
      0,
      0,
+     2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub30.krn",
+      "label": "An mein Klavier (kern)",
+      "bar": 3,
+      "notes": "D5 C#5 E5 D5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Im_Gegenwärtigen_Vergangenes,_D.710/lc28789279.mxl",
+      "label": "Im Gegenwärtigen Vergangenes, D.710 (OpenScore)",
+      "bar": 8,
+      "notes": "C#4 C4 Eb4 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
      0
     ],
-    "z": 5.3,
+    "z": 5.2,
     "works": 4,
     "per_1000": 2.7,
     "others_per_1000": 0.3,
@@ -474,36 +504,6 @@
    },
    {
     "moves": [
-     -1,
-     3,
-     -2
-    ],
-    "rhythm": [
-     0,
-     0,
-     2
-    ],
-    "z": 5.2,
-    "works": 2,
-    "per_1000": 2.0,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "kern/schubert-songs:schub30.krn",
-      "label": "An mein Klavier (kern)",
-      "bar": 3,
-      "notes": "D5 C#5 E5 D5"
-     },
-     {
-      "work": "openscore-lieder:Schubert,_Franz/_/Im_Gegenwärtigen_Vergangenes,_D.710/lc28789279.mxl",
-      "label": "Im Gegenwärtigen Vergangenes, D.710 (OpenScore)",
-      "bar": 8,
-      "notes": "C#4 C4 Eb4 C#4"
-     }
-    ]
-   },
-   {
-    "moves": [
      2,
      1,
      0
@@ -513,7 +513,7 @@
      -2,
      0
     ],
-    "z": 5.2,
+    "z": 5.1,
     "works": 4,
     "per_1000": 2.4,
     "others_per_1000": 0.2,
@@ -577,7 +577,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 974,
+   "works": 973,
    "composers": 97
   }
  },
@@ -587,23 +587,23 @@
   "forces": "voice and keyboard",
   "period": "late",
   "era": "Romantic",
-  "works": 105,
+  "works": 95,
   "values": {
-   "steps": 0.4332007966694619,
-   "repeats": 0.23968675969533923,
-   "leaps": 0.1613781377829541,
-   "move": 3.076844452413837,
-   "rising": 0.46371498380030635,
-   "leap answered": 0.22659132648998442,
-   "range": 12.055238095238092,
-   "register": 70.70476190476191,
-   "even": 0.36224094721695327,
-   "long-short": 0.18752396241800698,
-   "rhythm variety": 2.59755421015578,
-   "surprise, pitch": 2.3563219048868547,
-   "surprise, rhythm": 1.5255838530578507,
-   "density": 5.718733085389115,
-   "lines": 2.6952380952380954
+   "steps": 0.42918693895407967,
+   "repeats": 0.24415620332689955,
+   "leaps": 0.16104575088406203,
+   "move": 3.0835164616603565,
+   "rising": 0.46700816226494013,
+   "leap answered": 0.22423949193377776,
+   "range": 12.123684210526314,
+   "register": 70.65263157894736,
+   "even": 0.36910647266042906,
+   "long-short": 0.1821427749945996,
+   "rhythm variety": 2.5755248392539816,
+   "surprise, pitch": 2.3773383727365176,
+   "surprise, rhythm": 1.5209094500602311,
+   "density": 6.209208890714624,
+   "lines": 2.873684210526316
   },
   "traits": [],
   "figures": [
@@ -618,9 +618,9 @@
      0,
      0
     ],
-    "z": 6.1,
+    "z": 6.4,
     "works": 14,
-    "per_1000": 1.6,
+    "per_1000": 1.7,
     "others_per_1000": 0.3,
     "at": [
      {
@@ -645,6 +645,42 @@
    },
    {
     "moves": [
+     0,
+     0,
+     3
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.6,
+    "works": 9,
+    "per_1000": 1.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub19.krn",
+      "label": "Der Musensohn (kern)",
+      "bar": 2,
+      "notes": "B4 B4 B4 D5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Op.92/1_Der_Musensohn,_D.764/lc29747756.mxl",
+      "label": "Op.92, Der Musensohn, D.764 (OpenScore)",
+      "bar": 7,
+      "notes": "B4 B4 B4 D5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Schwanengesang,_D.957/14_Die_Taubenpost/lc4985962.mxl",
+      "label": "Schwanengesang, D.957, Die Taubenpost (OpenScore)",
+      "bar": 9,
+      "notes": "B4 B4 B4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
      1,
      -5,
      0
@@ -654,9 +690,9 @@
      2,
      -2
     ],
-    "z": 5.8,
-    "works": 8,
-    "per_1000": 0.9,
+    "z": 5.5,
+    "works": 6,
+    "per_1000": 0.8,
     "others_per_1000": 0.1,
     "at": [
      {
@@ -681,78 +717,6 @@
    },
    {
     "moves": [
-     1,
-     -3,
-     -2
-    ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 5.7,
-    "works": 8,
-    "per_1000": 0.9,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "kern/schubert-songs:schub26.krn",
-      "label": "Lachen und Weinen (kern)",
-      "bar": 23,
-      "notes": "C5 C#5 Bb4 Ab4"
-     },
-     {
-      "work": "openscore-lieder:Schubert,_Franz/Op.59/4_Lachen_und_Weinen/lc4982491.mxl",
-      "label": "Op.59, Lachen und Weinen (OpenScore)",
-      "bar": 31,
-      "notes": "C5 C#5 Bb4 Ab4"
-     },
-     {
-      "work": "openscore-lieder:Schubert,_Franz/Op.60/1_Greisengesang,_D.778/lc4982505.mxl",
-      "label": "Op.60, Greisengesang, D.778 (OpenScore)",
-      "bar": 44,
-      "notes": "Bb3 B3 Ab3 F#3"
-     }
-    ]
-   },
-   {
-    "moves": [
-     3,
-     0,
-     0
-    ],
-    "rhythm": [
-     -2,
-     2,
-     -2
-    ],
-    "z": 5.7,
-    "works": 9,
-    "per_1000": 1.0,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "kern/schubert-songs:schub08.krn",
-      "label": "Horch, horch, die Lerch (kern)",
-      "bar": 15,
-      "notes": "C5 Eb5 Eb5 Eb5"
-     },
-     {
-      "work": "openscore-lieder:Schubert,_Franz/Die_schöne_Müllerin,_D.795/18_Trockne_Blumen/lc4985949.mxl",
-      "label": "Die schöne Müllerin, D.795, Trockne Blumen (OpenScore)",
-      "bar": 5,
-      "notes": "B4 D5 D5 D5"
-     },
-     {
-      "work": "kern/schubert-songs:schub05.krn",
-      "label": "Das Fischermaedchen (kern)",
-      "bar": 28,
-      "notes": "C#5 E5 E5 E5"
-     }
-    ]
-   },
-   {
-    "moves": [
      -2,
      -1,
      1
@@ -763,7 +727,7 @@
      0
     ],
     "z": 5.5,
-    "works": 13,
+    "works": 12,
     "per_1000": 1.2,
     "others_per_1000": 0.2,
     "at": [
@@ -789,45 +753,115 @@
    },
    {
     "moves": [
-     -2,
-     2,
-     1
-    ],
-    "rhythm": [
-     -2,
-     -2,
+     1,
+     -1,
      0
     ],
-    "z": 5.3,
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.4,
     "works": 7,
     "per_1000": 0.8,
     "others_per_1000": 0.0,
     "at": [
      {
-      "work": "kern/schubert-songs:schub01.krn",
-      "label": "Du bist die Ruh (kern)",
-      "bar": 16,
-      "notes": "G4 F4 G4 Ab4"
+      "work": "kern/schubert-songs:schub20.krn",
+      "label": "Dithyrambe (kern)",
+      "bar": 21,
+      "notes": "C#5 D5 C#5 C#5"
      },
      {
-      "work": "openscore-lieder:Schubert,_Franz/Op.59/3_Du_bist_die_Ruh/lc4919879.mxl",
-      "label": "Op.59, Du bist die Ruh (OpenScore)",
-      "bar": 23,
-      "notes": "G4 F4 G4 Ab4"
+      "work": "dcml/schubert_winterreise:notes/n10.notes.tsv",
+      "label": "Winterreise, D. 911, Op. 89, movement 10: Rast (DCML)",
+      "bar": 7,
+      "notes": "G4 Ab4 G4 G4"
      },
      {
-      "work": "dcml/schubert_winterreise:notes/n20.notes.tsv",
-      "label": "Winterreise, D. 911, Op. 89, movement 20: Der Wegweiser (DCML)",
-      "bar": 12,
-      "notes": "A4 G4 A4 Bb4"
+      "work": "kern/schubert-songs:schub07.krn",
+      "label": "An die Laute (kern)",
+      "bar": 4,
+      "notes": "F#4 G4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.4,
+    "works": 9,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub20.krn",
+      "label": "Dithyrambe (kern)",
+      "bar": 13,
+      "notes": "B4 C#5 B4 B4"
+     },
+     {
+      "work": "kern/schubert-songs:schub08.krn",
+      "label": "Horch, horch, die Lerch (kern)",
+      "bar": 4,
+      "notes": "G4 A4 G4 G4"
+     },
+     {
+      "work": "kern/schubert-songs:schub07.krn",
+      "label": "An die Laute (kern)",
+      "bar": 2,
+      "notes": "A4 B4 A4 A4"
      }
     ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 974,
+   "works": 973,
    "composers": 97
+  },
+  "harmony": {
+   "works": 45,
+   "by": {
+    "DCML": 24,
+    "When in Rome": 21
+   },
+   "values": {
+    "chords a bar": 1.8348990083538403,
+    "tonic and dominant": 0.6794970207345552,
+    "sevenths": 0.3055602716765625,
+    "diminished sevenths": 0.05787435723144695,
+    "applied chords": 0.1227796925058277,
+    "augmented sixths": 0.010822416916414989,
+    "Neapolitan": 0.0046314147097811864,
+    "mixture": 0.019295336369829073,
+    "inversions": 0.3403686559271822,
+    "keys a 10 bars": 0.8816756143515172,
+    "away from home": 0.21432993275426163,
+    "changes": 0.17033674392823342,
+    "non-chord tones": 0.17814131783664303,
+    "struck dissonance": 0.2728692968219183,
+    "resolved by step": 0.7262780147365664,
+    "suspensions": 0.002043364435169993
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 105,
+    "composers": 18,
+    "progressions_by": "DCML",
+    "progressions_works": 29
+   }
   }
  },
  {

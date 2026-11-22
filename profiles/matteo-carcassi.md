@@ -1,10 +1,10 @@
 # Matteo Carcassi
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Matteo Carcassi: etude (plucked), all
 
-21 works; set against 50 works by 3 composers: other composers' etude (plucked) of the Romantic period.
+21 works; set against 50 works by 3 composers: other composers' etudes (plucked) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: D4, against C4 (77 in 100)

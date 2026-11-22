@@ -1,10 +1,10 @@
 # Franz Joseph Haydn
 
-26 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+26 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Franz Joseph Haydn: dance, any period
 
-4 works; set against 123 works by 32 composers: other composers' dance of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 123 works by 32 composers: other composers' dances of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Franz Joseph Haydn: dance (keyboard), mature
 
-3 works; set against 24 works by 7 composers: other composers' dance (keyboard) of the Classical period.
+3 works; set against 24 works by 7 composers: other composers' dances (keyboard) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -26,7 +26,7 @@
 
 ### Franz Joseph Haydn: dance (string quartet), London and late
 
-15 works; set against 23 works by 5 composers: other composers' dance (string quartet) of the Classical period.
+15 works; set against 23 works by 5 composers: other composers' dances (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 5%, against 10% (16 in 100)
@@ -42,7 +42,7 @@
 
 ### Franz Joseph Haydn: dance (string quartet), Sturm und Drang
 
-17 works; set against 23 works by 5 composers: other composers' dance (string quartet) of the Classical period.
+17 works; set against 23 works by 5 composers: other composers' dances (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 2.86, against 3.99 (8 in 100)
@@ -53,9 +53,15 @@
 
 **All measures:** moves by step 51%; repeated notes 14%; leaps of a fourth or more 18%; mean move (semitones) 3.25; moves that rise 46%; leaps answered by a step back 31%; range of the melody (semitones) 20.3; register of the melody C5; even rhythm (a note as long as the one before) 60%; dotted figures (3:1) 6%; rhythmic variety (bits) 1.94; the ear's surprise, pitch (bits a note) 2.67; the ear's surprise, rhythm (bits a note) 1.41; notes a quarter (texture) 2.86; lines (texture) 4.0
 
+**Harmony**, from the analysts' labels of 3 of its works (3 When in Rome's); set against 76 works by 2 composers: other composers' labelled works for string quartet of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 1.43; chords on I or V 53%; seventh chords 24%; diminished sevenths 5%; applied chords (V/V and the like) 19%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 38%; changes of key a 10 bars 0.25; chords away from the home key 26%; melody notes outside the chord 13%; of those, struck with the chord (appoggiaturas) 5%; of those, resolved by a step 39%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Franz Joseph Haydn: dance (string quartet), early
 
-17 works; set against 23 works by 5 composers: other composers' dance (string quartet) of the Classical period.
+17 works; set against 23 works by 5 composers: other composers' dances (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.70, against 1.17 (90 in 100)
@@ -68,7 +74,7 @@
 
 ### Franz Joseph Haydn: dance (string quartet), mature
 
-17 works; set against 23 works by 5 composers: other composers' dance (string quartet) of the Classical period.
+17 works; set against 23 works by 5 composers: other composers' dances (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 3.14, against 3.99 (13 in 100)
@@ -81,7 +87,7 @@
 
 ### Franz Joseph Haydn: fugue (string quartet), Sturm und Drang
 
-4 works; set against 133 works by 23 composers: other composers' fugue, of any period and forces (range, register and density not compared).
+4 works; set against 133 works by 23 composers: other composers' fugues, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -92,7 +98,7 @@
 
 ### Franz Joseph Haydn: mass, any period
 
-7 works; set against 640 works by 34 composers: other composers' mass of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 640 works by 34 composers: other composers' masses of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 38%, against 25% (81 in 100)
@@ -105,7 +111,7 @@
 
 ### Franz Joseph Haydn: minuet, any period
 
-4 works; set against 68 works by 18 composers: other composers' minuet of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 68 works by 18 composers: other composers' minuets of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -116,7 +122,7 @@
 
 ### Franz Joseph Haydn: minuet (keyboard), mature
 
-3 works; set against 68 works by 18 composers: other composers' minuet of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 68 works by 18 composers: other composers' minuets of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -127,7 +133,7 @@
 
 ### Franz Joseph Haydn: minuet (string quartet), London and late
 
-15 works; set against 23 works by 5 composers: other composers' minuet (string quartet) of the Classical period.
+15 works; set against 23 works by 5 composers: other composers' minuets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 5%, against 10% (16 in 100)
@@ -143,7 +149,7 @@
 
 ### Franz Joseph Haydn: minuet (string quartet), Sturm und Drang
 
-17 works; set against 23 works by 5 composers: other composers' minuet (string quartet) of the Classical period.
+17 works; set against 23 works by 5 composers: other composers' minuets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 2.86, against 3.99 (8 in 100)
@@ -154,9 +160,15 @@
 
 **All measures:** moves by step 51%; repeated notes 14%; leaps of a fourth or more 18%; mean move (semitones) 3.25; moves that rise 46%; leaps answered by a step back 31%; range of the melody (semitones) 20.3; register of the melody C5; even rhythm (a note as long as the one before) 60%; dotted figures (3:1) 6%; rhythmic variety (bits) 1.94; the ear's surprise, pitch (bits a note) 2.67; the ear's surprise, rhythm (bits a note) 1.41; notes a quarter (texture) 2.86; lines (texture) 4.0
 
+**Harmony**, from the analysts' labels of 3 of its works (3 When in Rome's); set against 76 works by 2 composers: other composers' labelled works for string quartet of the Classical period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 1.43; chords on I or V 53%; seventh chords 24%; diminished sevenths 5%; applied chords (V/V and the like) 19%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 38%; changes of key a 10 bars 0.25; chords away from the home key 26%; melody notes outside the chord 13%; of those, struck with the chord (appoggiaturas) 5%; of those, resolved by a step 39%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Franz Joseph Haydn: minuet (string quartet), early
 
-17 works; set against 23 works by 5 composers: other composers' minuet (string quartet) of the Classical period.
+17 works; set against 23 works by 5 composers: other composers' minuets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 1.70, against 1.17 (90 in 100)
@@ -169,7 +181,7 @@
 
 ### Franz Joseph Haydn: minuet (string quartet), mature
 
-17 works; set against 23 works by 5 composers: other composers' minuet (string quartet) of the Classical period.
+17 works; set against 23 works by 5 composers: other composers' minuets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 3.14, against 3.99 (13 in 100)
@@ -182,7 +194,7 @@
 
 ### Franz Joseph Haydn: scherzo (string quartet), mature
 
-6 works; set against 61 works by 31 composers: other composers' scherzo, of any period and forces (range, register and density not compared).
+6 works; set against 61 works by 31 composers: other composers' scherzos, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.91, against 3.79 (20 in 100)
@@ -195,7 +207,7 @@
 
 ### Franz Joseph Haydn: sonata (keyboard), London and late
 
-5 works; set against 308 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+5 works; set against 308 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 26.7, against 22.3 (77 in 100)
@@ -212,7 +224,7 @@
 
 ### Franz Joseph Haydn: sonata (keyboard), early
 
-6 works; set against 308 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+6 works; set against 308 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -228,7 +240,7 @@
 
 ### Franz Joseph Haydn: sonata (keyboard), mature
 
-13 works; set against 308 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+13 works; set against 308 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -244,7 +256,7 @@
 
 ### Franz Joseph Haydn: sonata (string quartet), mature
 
-3 works; set against 357 works by 15 composers: other composers' sonata of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 357 works by 15 composers: other composers' sonatas of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -255,7 +267,7 @@
 
 ### Franz Joseph Haydn: song (voice and keyboard), London and late
 
-8 works; set against 128 works by 18 composers: other composers' song (voice and keyboard) of the Classical period.
+8 works; set against 128 works by 18 composers: other composers' songs (voice and keyboard) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 17%, against 12% (85 in 100)
@@ -274,7 +286,7 @@
 
 ### Franz Joseph Haydn: string quartet (string quartet), London and late
 
-55 works; set against 212 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+55 works; set against 212 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -288,9 +300,22 @@
 
 **All measures:** moves by step 54%; repeated notes 9%; leaps of a fourth or more 17%; mean move (semitones) 3.20; moves that rise 48%; leaps answered by a step back 31%; range of the melody (semitones) 22.1; register of the melody D5; even rhythm (a note as long as the one before) 68%; dotted figures (3:1) 7%; rhythmic variety (bits) 1.72; the ear's surprise, pitch (bits a note) 2.60; the ear's surprise, rhythm (bits a note) 1.21; notes a quarter (texture) 4.82; lines (texture) 4.0
 
+**Harmony**, from the analysts' labels of 7 of its works (7 When in Rome's); set against 76 works by 2 composers: other composers' labelled string quartets (string quartet) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- augmented sixths: 2%, against 1% (77 in 100)
+- its progressions, against 76 of those works, by either analyst:
+  - V7 – I – IV64: 5.9 in 1,000, against 0.1, in 4 works. At: String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore), bar 22; String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore), bar 37; String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore), bar 60
+  - I – V65/IV – IV: 6.8 in 1,000, against 0.7, in 3 works. At: String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore), bar 7; String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore), bar 62; String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore), bar 47
+  - ii – viio – I: 4.2 in 1,000, against 0.2, in 3 works. At: String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore), bar 3; String Quartet in C major, Hob.III72, Op.74 No.1, movement 4 (OpenScore), bar 39; String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore), bar 79
+  - V65/IV – IV – I64: 4.2 in 1,000, against 0.2, in 3 works. At: String Quartet in C major, Hob.III72, Op.74 No.1, movement 2: Andantino grazioso (OpenScore), bar 48; String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore), bar 47; String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore), bar 125
+  - I – IV64 – viio: 4.2 in 1,000, against 0.1, in 2 works. At: String Quartet in C major, Hob.III72, Op.74 No.1, movement 1 (OpenScore), bar 61; String Quartet in C major, Hob.III72, Op.74 No.1, movement 4 (OpenScore), bar 69
+  - #viio43 – i6 – #viio43: 4.2 in 1,000, against 0.3, in 2 works. At: String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 1 (OpenScore), bar 161; String Quartet in G minor, Hob.III74, Op.74 No.3 (The Horseman), movement 4: Finale Allegro con brio (OpenScore), bar 7
+
+*All its harmony:* chords a bar 1.53; chords on I or V 65%; seventh chords 34%; diminished sevenths 6%; applied chords (V/V and the like) 10%; augmented sixths 2%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 48%; changes of key a 10 bars 0.92; chords away from the home key 44%; melody notes outside the chord 23%; of those, struck with the chord (appoggiaturas) 15%; of those, resolved by a step 71%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Franz Joseph Haydn: string quartet (string quartet), Sturm und Drang
 
-69 works; set against 212 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+69 works; set against 212 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -304,9 +329,24 @@
 
 **All measures:** moves by step 50%; repeated notes 12%; leaps of a fourth or more 21%; mean move (semitones) 3.52; moves that rise 45%; leaps answered by a step back 27%; range of the melody (semitones) 21.6; register of the melody C#5; even rhythm (a note as long as the one before) 65%; dotted figures (3:1) 6%; rhythmic variety (bits) 1.93; the ear's surprise, pitch (bits a note) 2.69; the ear's surprise, rhythm (bits a note) 1.43; notes a quarter (texture) 4.87; lines (texture) 4.0
 
+**Harmony**, from the analysts' labels of 14 of its works (14 When in Rome's); set against 76 works by 2 composers: other composers' labelled string quartets (string quartet) of the Classical period. Changes of key and applied chords are compared within one analyst's labels.
+
+- of those, struck with the chord (appoggiaturas): 9%, against 22% (11 in 100)
+- chords on I or V: 50%, against 62% (15 in 100)
+- chords from the other mode: 0%, against 1% (17 in 100)
+- its progressions, against 76 of those works, by either analyst:
+  - I – IV64 – I: 4.2 in 1,000, against 0.1, in 3 works. At: String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 3: Affetuoso e sostenuto mezza voce (OpenScore), bar 6; String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 4: Finale Presto (OpenScore), bar 48; String Quartet in G minor, Hob.III33, Op.20 No.3, movement 3: Poco Adagio mezza voce (OpenScore), bar 35
+  - V64 – V7/V – V64: 2.8 in 1,000, against 0.1, in 3 works. At: String Quartet in G minor, Hob.III33, Op.20 No.3, movement 3: Poco Adagio mezza voce (OpenScore), bar 19; String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore), bar 32; String Quartet in E-flat major, Hob.III31, Op.20 No.1, movement 4: Finale Presto (OpenScore), bar 28
+  - V7/V – V – I: 3.2 in 1,000, against 0.4, in 6 works. At: String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore), bar 39; String Quartet in A major, Hob.III36, Op.20 No.6, movement 2: Cantabile Adagio mezza voce (OpenScore), bar 25; String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore), bar 29
+  - V7 – I – viio: 2.8 in 1,000, against 0.3, in 4 works. At: String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore), bar 43; String Quartet in A major, Hob.III36, Op.20 No.6, movement 2: Cantabile Adagio mezza voce (OpenScore), bar 28; String Quartet in C major, Hob.III32, Op.20 No.2, movement 4: Fuga a 4 Soggetti Allegro sempre sotto v (OpenScore), bar 31
+  - V – V/V – V: 2.3 in 1,000, against 0.2, in 2 works. At: String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore), bar 8; String Quartet in D major, Hob.III34, Op.20 No.4, movement 3: Menuetto Allegretto alla zingarese (OpenScore), bar 5
+  - V/V – V – V/V: 2.3 in 1,000, against 0.1, in 3 works. At: String Quartet in C major, Hob.III32, Op.20 No.2, movement 1 (OpenScore), bar 32; String Quartet in F minor, Hob.III35, Op.20 No.5, movement 3: Adagio mezzo voce Adagio (OpenScore), bar 21; String Quartet in D major, Hob.III34, Op.20 No.4, movement 3: Menuetto Allegretto alla zingarese (OpenScore), bar 6
+
+*All its harmony:* chords a bar 1.80; chords on I or V 50%; seventh chords 29%; diminished sevenths 5%; applied chords (V/V and the like) 20%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 0%; chords over a bass not their root 39%; changes of key a 10 bars 0.33; chords away from the home key 30%; melody notes outside the chord 23%; of those, struck with the chord (appoggiaturas) 9%; of those, resolved by a step 64%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Franz Joseph Haydn: string quartet (string quartet), early
 
-53 works; set against 212 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+53 works; set against 212 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 23%, against 17% (76 in 100)
@@ -323,7 +363,7 @@
 
 ### Franz Joseph Haydn: string quartet (string quartet), mature
 
-104 works; set against 212 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+104 works; set against 212 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -339,7 +379,7 @@
 
 ### Franz Joseph Haydn: suite, any period
 
-4 works; set against 247 works by 18 composers: other composers' suite, of any period and forces (range, register and density not compared).
+4 works; set against 247 works by 18 composers: other composers' suites, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -350,7 +390,7 @@
 
 ### Franz Joseph Haydn: symphony (orchestra), London and late
 
-23 works; set against 35 works by 7 composers: other composers' works for orchestra of the Classical period, of any kind (too few symphony).
+23 works; set against 35 works by 7 composers: other composers' works for orchestra of the Classical period, of any kind (too few symphonies).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.22, against 2.53 (24 in 100)

@@ -1,10 +1,10 @@
 # Zygmunt Stojowski
 
-5 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+5 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Zygmunt Stojowski: dance, all
 
-7 works; set against 88 works by 18 composers: other composers' dance of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 88 works by 18 composers: other composers' dances of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Zygmunt Stojowski: mazurka, all
 
-3 works; set against 149 works by 30 composers: other composers' mazurka, of any period and forces (range, register and density not compared).
+3 works; set against 149 works by 30 composers: other composers' mazurkas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -31,7 +31,7 @@
 
 ### Zygmunt Stojowski: polonaise, all
 
-3 works; set against 97 works by 34 composers: other composers' polonaise, of any period and forces (range, register and density not compared).
+3 works; set against 97 works by 34 composers: other composers' polonaises, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -42,7 +42,7 @@
 
 ### Zygmunt Stojowski: sonata, all
 
-3 works; set against 940 works by 45 composers: other composers' sonata, of any period and forces (range, register and density not compared).
+3 works; set against 940 works by 45 composers: other composers' sonatas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -53,7 +53,7 @@
 
 ### Zygmunt Stojowski: song, all
 
-6 works; set against 406 works by 45 composers: other composers' song of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 406 works by 45 composers: other composers' songs of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 6%, against 11% (25 in 100)

@@ -1,10 +1,10 @@
 # Karol Szymanowski
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Karol Szymanowski: fantasia, all
 
-3 works; set against 52 works by 25 composers: other composers' fantasia, of any period and forces (range, register and density not compared).
+3 works; set against 52 works by 25 composers: other composers' fantasias, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Karol Szymanowski: song, all
 
-25 works; set against 387 works by 45 composers: other composers' song of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+25 works; set against 387 works by 45 composers: other composers' songs of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 

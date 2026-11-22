@@ -96,6 +96,100 @@
    "by": "kind, forces, period",
    "works": 48,
    "composers": 5
+  },
+  "harmony": {
+   "works": 13,
+   "by": {
+    "DCML": 13
+   },
+   "values": {
+    "chords a bar": 2.400393227845248,
+    "tonic and dominant": 0.6381249022800511,
+    "sevenths": 0.3649525330438393,
+    "diminished sevenths": 0.058705754633908744,
+    "applied chords": 0.15057322567081963,
+    "augmented sixths": 0.003418803418803419,
+    "Neapolitan": 0.0,
+    "mixture": 0.011430153608222018,
+    "inversions": 0.38213006237140046,
+    "keys a 10 bars": 1.1487696224738984,
+    "away from home": 0.3000008614820361,
+    "cadences a 10 bars": 2.057237084271543,
+    "perfect cadences": 0.3927350427350427,
+    "half cadences": 0.3834554334554335,
+    "deceptive or evaded": 0.010989010989010988,
+    "changes": 0.17399137963373093,
+    "non-chord tones": 0.17102650155478719,
+    "struck dissonance": 0.35238172376230176,
+    "resolved by step": 0.622591680350301,
+    "suspensions": 0.005594156909946383
+   },
+   "traits": [],
+   "progressions": [
+    {
+     "chords": [
+      "I6",
+      "V43",
+      "I6"
+     ],
+     "z": 3.4,
+     "works": 3,
+     "per_1000": 12.9,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/schumann_kinderszenen:notes/n02.notes.tsv",
+       "label": "Kinderszenen, Op.15, movement 2: Kuriose Geschichte (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/schumann_kinderszenen:notes/n13.notes.tsv",
+       "label": "Kinderszenen, Op.15, movement 13: Der Dichter spricht (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/schumann_kinderszenen:notes/n09.notes.tsv",
+       "label": "Kinderszenen, Op.15, movement 9: Ritter von Steckenpferd (DCML)",
+       "bar": 6
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "V43",
+      "I"
+     ],
+     "z": 3.3,
+     "works": 4,
+     "per_1000": 14.8,
+     "others_per_1000": 1.5,
+     "at": [
+      {
+       "work": "dcml/schumann_kinderszenen:notes/n11.notes.tsv",
+       "label": "Kinderszenen, Op.15, movement 11: Fürchtenmachen (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/schumann_kinderszenen:notes/n02.notes.tsv",
+       "label": "Kinderszenen, Op.15, movement 2: Kuriose Geschichte (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/schumann_kinderszenen:notes/n01.notes.tsv",
+       "label": "Kinderszenen, Op.15, movement 1: Von fremden Ländern und Menschen (DCML)",
+       "bar": 14
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 43,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 43
+   }
   }
  },
  {
@@ -126,7 +220,7 @@
   "figures": [],
   "compared": {
    "by": "kind, period",
-   "works": 1149,
+   "works": 1138,
    "composers": 115
   }
  },
@@ -158,8 +252,8 @@
    {
     "measure": "repeats",
     "value": 0.36175147344898645,
-    "others": 0.21936306537247427,
-    "auc": 0.8008088101623909
+    "others": 0.21966259069849378,
+    "auc": 0.7988509740697816
    }
   ],
   "figures": [
@@ -174,7 +268,7 @@
      1,
      -2
     ],
-    "z": 7.5,
+    "z": 7.4,
     "works": 6,
     "per_1000": 2.0,
     "others_per_1000": 0.1,
@@ -210,10 +304,10 @@
      1,
      -2
     ],
-    "z": 6.8,
+    "z": 7.0,
     "works": 12,
     "per_1000": 3.8,
-    "others_per_1000": 0.8,
+    "others_per_1000": 0.7,
     "at": [
      {
       "work": "openscore-lieder:Schumann,_Robert/Dichterliebe,_Op.48/09_Das_ist_ein_Flöten_und_Geigen/lc4978390.mxl",
@@ -246,7 +340,7 @@
      -2,
      2
     ],
-    "z": 6.7,
+    "z": 6.6,
     "works": 6,
     "per_1000": 2.1,
     "others_per_1000": 0.2,
@@ -282,7 +376,7 @@
      2,
      -2
     ],
-    "z": 6.4,
+    "z": 6.6,
     "works": 7,
     "per_1000": 2.0,
     "others_per_1000": 0.2,
@@ -354,7 +448,7 @@
      0,
      2
     ],
-    "z": 6.1,
+    "z": 6.2,
     "works": 4,
     "per_1000": 1.4,
     "others_per_1000": 0.1,
@@ -382,8 +476,42 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1027,
+   "works": 1016,
    "composers": 97
+  },
+  "harmony": {
+   "works": 31,
+   "by": {
+    "DCML": 12,
+    "When in Rome": 19
+   },
+   "values": {
+    "chords a bar": 1.886687424102185,
+    "tonic and dominant": 0.5945075020249104,
+    "sevenths": 0.34697713954807347,
+    "diminished sevenths": 0.049639440838893316,
+    "applied chords": 0.1312955975441623,
+    "augmented sixths": 0.010440066469679472,
+    "Neapolitan": 0.0082600403562559,
+    "mixture": 0.012142178467323685,
+    "inversions": 0.3647740949638684,
+    "keys a 10 bars": 1.244206637088132,
+    "away from home": 0.32604219937575957,
+    "changes": 0.15606729489714657,
+    "non-chord tones": 0.13246223614484565,
+    "struck dissonance": 0.2857382371745005,
+    "resolved by step": 0.5865517301264758,
+    "suspensions": 0.008217526564121048
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 119,
+    "composers": 18,
+    "progressions_by": "When in Rome",
+    "progressions_works": 78
+   }
   }
  },
  {
@@ -423,7 +551,7 @@
      -2,
      2
     ],
-    "z": 5.1,
+    "z": 5.0,
     "works": 3,
     "per_1000": 4.1,
     "others_per_1000": 0.2,
@@ -495,7 +623,7 @@
      -2,
      2
     ],
-    "z": 3.6,
+    "z": 3.5,
     "works": 2,
     "per_1000": 4.1,
     "others_per_1000": 0.5,
@@ -511,42 +639,6 @@
       "label": "Lieder und Gesänge, Vol.IV, Op.96, Schneeglöckchen (OpenScore)",
       "bar": 29,
       "notes": "A4 A4 Bb4 Bb4"
-     }
-    ]
-   },
-   {
-    "moves": [
-     1,
-     0,
-     0
-    ],
-    "rhythm": [
-     -2,
-     2,
-     -2
-    ],
-    "z": 3.4,
-    "works": 3,
-    "per_1000": 4.1,
-    "others_per_1000": 0.6,
-    "at": [
-     {
-      "work": "openscore-lieder:Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127/1_Sängers_Trost/lc6826352.mxl",
-      "label": "Lieder und Gesänge, Op.127, Sängers Trost (OpenScore)",
-      "bar": 4,
-      "notes": "E5 F5 F5 F5"
-     },
-     {
-      "work": "openscore-lieder:Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/5_Himmel_und_Erde/lc6985082.mxl",
-      "label": "Lieder und Gesänge, Vol.IV, Op.96, Himmel und Erde (OpenScore)",
-      "bar": 11,
-      "notes": "Bb4 B4 B4 B4"
-     },
-     {
-      "work": "openscore-lieder:Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/2_Schneeglöckchen/lc6984553.mxl",
-      "label": "Lieder und Gesänge, Vol.IV, Op.96, Schneeglöckchen (OpenScore)",
-      "bar": 93,
-      "notes": "C5 C#5 C#5 C#5"
      }
     ]
    },
@@ -579,11 +671,47 @@
       "notes": "A4 B4 C5 B4"
      }
     ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 4.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127/1_Sängers_Trost/lc6826352.mxl",
+      "label": "Lieder und Gesänge, Op.127, Sängers Trost (OpenScore)",
+      "bar": 4,
+      "notes": "E5 F5 F5 F5"
+     },
+     {
+      "work": "openscore-lieder:Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/5_Himmel_und_Erde/lc6985082.mxl",
+      "label": "Lieder und Gesänge, Vol.IV, Op.96, Himmel und Erde (OpenScore)",
+      "bar": 11,
+      "notes": "Bb4 B4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/2_Schneeglöckchen/lc6984553.mxl",
+      "label": "Lieder und Gesänge, Vol.IV, Op.96, Schneeglöckchen (OpenScore)",
+      "bar": 93,
+      "notes": "C5 C#5 C#5 C#5"
+     }
+    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1027,
+   "works": 1016,
    "composers": 97
   }
  },
@@ -616,7 +744,7 @@
     "measure": "register",
     "value": 72.58333333333333,
     "others": 74.9836978901758,
-    "auc": 0.19980327646392695
+    "auc": 0.199803276463927
    }
   ],
   "figures": [

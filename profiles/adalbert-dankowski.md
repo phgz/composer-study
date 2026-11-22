@@ -1,10 +1,10 @@
 # Adalbert Dankowski
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Adalbert Dankowski: magnificat, all
 
-7 works; set against 108 works by 29 composers: other composers' magnificat, of any period and forces (range, register and density not compared).
+7 works; set against 108 works by 29 composers: other composers' magnificats, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.18, against 2.66 (17 in 100)
@@ -26,7 +26,7 @@
 
 ### Adalbert Dankowski: mass, all
 
-56 works; set against 591 works by 34 composers: other composers' mass of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+56 works; set against 591 works by 34 composers: other composers' masses of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.09, against 2.72 (17 in 100)

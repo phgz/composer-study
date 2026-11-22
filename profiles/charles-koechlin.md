@@ -1,10 +1,10 @@
 # Charles Koechlin
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Charles Koechlin: string quartet (string quartet), all
 
-4 works; set against 114 works by 19 composers: other composers' string quartet (string quartet) of the 1890 to 1950 period.
+4 works; set against 114 works by 19 composers: other composers' string quartets (string quartet) of the 1890 to 1950 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

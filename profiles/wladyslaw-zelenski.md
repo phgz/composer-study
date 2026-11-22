@@ -1,10 +1,10 @@
 # Władysław Żeleński
 
-4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+4 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Władysław Żeleński: dance, all
 
-8 works; set against 427 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 427 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Władysław Żeleński: polonaise, all
 
-3 works; set against 60 works by 18 composers: other composers' polonaise of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 60 works by 18 composers: other composers' polonaises of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -31,7 +31,7 @@
 
 ### Władysław Żeleński: prelude, all
 
-26 works; set against 137 works by 12 composers: other composers' prelude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+26 works; set against 137 works by 12 composers: other composers' preludes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -47,7 +47,7 @@
 
 ### Władysław Żeleński: sonata, all
 
-10 works; set against 34 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+10 works; set against 34 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 5%, against 15% (19 in 100)

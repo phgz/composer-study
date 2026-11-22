@@ -59,14 +59,14 @@
    {
     "measure": "surprise, pitch",
     "value": 2.8879266078374344,
-    "others": 2.420059369276292,
-    "auc": 0.775704225348087
+    "others": 2.426734425989174,
+    "auc": 0.7731012576725717
    },
    {
     "measure": "surprise, rhythm",
     "value": 1.9935181869092975,
-    "others": 1.6283950008603476,
-    "auc": 0.7544244878634699
+    "others": 1.6274311156187522,
+    "auc": 0.7543860516092833
    }
   ],
   "figures": [
@@ -81,10 +81,10 @@
      -2,
      0
     ],
-    "z": 4.2,
+    "z": 4.3,
     "works": 3,
     "per_1000": 5.7,
-    "others_per_1000": 0.5,
+    "others_per_1000": 0.4,
     "at": [
      {
       "work": "openscore-lieder:Mayer,_Emilie/_/Der_Erlkönig/lc6573780.mxl",
@@ -109,8 +109,40 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1093,
+   "works": 1082,
    "composers": 97
+  },
+  "harmony": {
+   "works": 3,
+   "by": {
+    "When in Rome": 3
+   },
+   "values": {
+    "chords a bar": 1.7534171075837743,
+    "tonic and dominant": 0.664393286873907,
+    "sevenths": 0.3612846814397202,
+    "diminished sevenths": 0.05860151906663535,
+    "applied chords": 0.14350481559783887,
+    "augmented sixths": 0.027625088090204367,
+    "Neapolitan": 0.0,
+    "mixture": 0.01840628507295174,
+    "inversions": 0.31110850103098164,
+    "keys a 10 bars": 0.6635802469135802,
+    "away from home": 0.10998877665544332,
+    "non-chord tones": 0.2620971761749322,
+    "struck dissonance": 0.2585240327175811,
+    "resolved by step": 0.747817296204393,
+    "suspensions": 0.0
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 148,
+    "composers": 18,
+    "progressions_by": "When in Rome",
+    "progressions_works": 95
+   }
   }
  },
  {
@@ -142,13 +174,13 @@
     "measure": "steps",
     "value": 0.5879439441417218,
     "others": 0.4872818666723591,
-    "auc": 0.7776102079287602
+    "auc": 0.77761020792876
    },
    {
     "measure": "range",
     "value": 19.979166666666668,
     "others": 23.48951405290505,
-    "auc": 0.18925103658216558
+    "auc": 0.18925103658216555
    }
   ],
   "figures": [

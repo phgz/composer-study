@@ -1,10 +1,10 @@
 # Pierre de La Rue
 
-4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+4 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Pierre de La Rue: magnificat (voices), all
 
-4 works; set against 46 works by 5 composers: other composers' magnificat (voices) of the Before 1600 period.
+4 works; set against 46 works by 5 composers: other composers' magnificats (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Pierre de La Rue: mass (voices), all
 
-136 works; set against 460 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+136 works; set against 460 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -31,7 +31,7 @@
 
 ### Pierre de La Rue: motet (voices), all
 
-21 works; set against 601 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+21 works; set against 601 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -47,7 +47,7 @@
 
 ### Pierre de La Rue: song (voices), all
 
-14 works; set against 268 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+14 works; set against 268 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 

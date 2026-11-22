@@ -1,10 +1,10 @@
 # Piotr Ilyich Tchaikovsky
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Piotr Ilyich Tchaikovsky: character piece (keyboard), all
 
-12 works; set against 49 works by 5 composers: other composers' character piece (keyboard) of the Romantic period.
+12 works; set against 49 works by 5 composers: other composers' character pieces (keyboard) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -17,9 +17,17 @@
 
 **All measures:** moves by step 44%; repeated notes 12%; leaps of a fourth or more 28%; mean move (semitones) 4.03; moves that rise 51%; leaps answered by a step back 27%; range of the melody (semitones) 23.0; register of the melody C5; even rhythm (a note as long as the one before) 58%; dotted figures (3:1) 9%; rhythmic variety (bits) 2.10; the ear's surprise, pitch (bits a note) 2.18; the ear's surprise, rhythm (bits a note) 1.30; notes a quarter (texture) 4.81; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 12 of its works (12 DCML's); set against 44 works by 3 composers: other composers' labelled character pieces (keyboard) of the Romantic period. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: nowhere that clearly
+- its progressions, against 44 of those works, labelled by DCML too:
+  - i – V65 – i: 6.2 in 1,000, against 0.0, in 3 works. At: The Seasons, Op. 37a, movement 2: February: Carnaval (DCML), bar 14; The Seasons, Op. 37a, movement 3: March: Song of the Lark (DCML), bar 5; The Seasons, Op. 37a, movement 5: May: Starlight Nights (DCML), bar 21
+
+*All its harmony:* chords a bar 2.62; chords on I or V 68%; seventh chords 39%; diminished sevenths 6%; applied chords (V/V and the like) 10%; augmented sixths 1%; Neapolitan chords 0%; chords from the other mode 2%; chords over a bass not their root 42%; changes of key a 10 bars 1.53; chords away from the home key 38%; cadences a 10 bars (DCML) 1.56; of its cadences, perfect 26%; of its cadences, half 38%; of its cadences, deceptive or evaded 1%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 24%; melody notes outside the chord 24%; of those, struck with the chord (appoggiaturas) 30%; of those, resolved by a step 67%; melody notes held into a chord they are not in, then falling a step (suspensions) 1%
+
 ### Piotr Ilyich Tchaikovsky: concerto (orchestra), all
 
-3 works; set against 31 works by 8 composers: other composers' concerto (orchestra) of the Romantic period.
+3 works; set against 31 works by 8 composers: other composers' concertos (orchestra) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -30,7 +38,7 @@
 
 ### Piotr Ilyich Tchaikovsky: string quartet (string quartet), all
 
-5 works; set against 254 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+5 works; set against 254 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 58%, against 48% (94 in 100)

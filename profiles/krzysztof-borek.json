@@ -27,8 +27,8 @@
    {
     "measure": "rhythm variety",
     "value": 2.6756880916739427,
-    "others": 2.8369410414274374,
-    "auc": 0.23972012949766178
+    "others": 2.836949761106302,
+    "auc": 0.23967739758448406
    }
   ],
   "figures": [
@@ -251,7 +251,7 @@
   ],
   "compared": {
    "by": "kind, period",
-   "works": 688,
+   "works": 686,
    "composers": 38
   }
  }

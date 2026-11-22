@@ -1,10 +1,10 @@
 # Louis Spohr
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Louis Spohr: string quartet (string quartet), all
 
-5 works; set against 254 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+5 works; set against 254 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 2.87, against 4.97 (11 in 100)

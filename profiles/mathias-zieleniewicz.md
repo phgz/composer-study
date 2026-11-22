@@ -1,10 +1,10 @@
 # Mathias Zieleniewicz
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Mathias Zieleniewicz: mass (voices), all
 
-10 works; set against 27 works by 3 composers: other composers' mass (voices) of the Baroque period.
+10 works; set against 27 works by 3 composers: other composers' masses (voices) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: Bb4, against D4 (93 in 100)

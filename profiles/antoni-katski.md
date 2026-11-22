@@ -1,10 +1,10 @@
 # Antoni Kątski
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Antoni Kątski: dance, all
 
-3 works; set against 432 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 432 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Antoni Kątski: fantasia, all
 
-3 works; set against 21 works by 13 composers: other composers' fantasia of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 21 works by 13 composers: other composers' fantasias of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -26,7 +26,7 @@
 
 ### Antoni Kątski: opera, all
 
-3 works; set against 149 works by 7 composers: other composers' opera, of any period and forces (range, register and density not compared).
+3 works; set against 149 works by 7 composers: other composers' operas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

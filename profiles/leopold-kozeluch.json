@@ -253,6 +253,227 @@
    "by": "kind, forces, period",
    "works": 25,
    "composers": 5
+  },
+  "harmony": {
+   "works": 11,
+   "by": {
+    "DCML": 11
+   },
+   "values": {
+    "chords a bar": 2.1124971695341883,
+    "tonic and dominant": 0.6932834676191545,
+    "sevenths": 0.223887475524314,
+    "diminished sevenths": 0.020086697474172174,
+    "applied chords": 0.06671460350780369,
+    "augmented sixths": 0.004269376076971814,
+    "Neapolitan": 0.0,
+    "mixture": 0.001509978701095855,
+    "inversions": 0.3316837155635382,
+    "keys a 10 bars": 0.6388696261934684,
+    "away from home": 0.4080151526964673,
+    "changes": 0.06592083172603934,
+    "non-chord tones": 0.18440957385044465,
+    "struck dissonance": 0.2044089823530597,
+    "resolved by step": 0.7961063081776086,
+    "suspensions": 0.0006948289010727418
+   },
+   "traits": [
+    {
+     "measure": "Neapolitan",
+     "value": 0.0,
+     "others": 0.0029742794780822897,
+     "auc": 0.22222222222222224
+    },
+    {
+     "measure": "mixture",
+     "value": 0.001509978701095855,
+     "others": 0.007394295544079858,
+     "auc": 0.22601010101010102
+    },
+    {
+     "measure": "inversions",
+     "value": 0.3316837155635382,
+     "others": 0.4306065443729822,
+     "auc": 0.15782828282828285
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V7",
+      "I6",
+      "V7"
+     ],
+     "z": 3.6,
+     "works": 6,
+     "per_1000": 5.9,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/21op17no3b.notes.tsv",
+       "label": "Keyboard Sonata No. 3 in E-flat Major, Op. 17, No. 3, movement 2: Rondo: Allegretto (DCML)",
+       "bar": 18
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/22op20no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in F Major, Op. 20, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 32
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/29op30no2c.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in G Major, Op. 30, No. 2, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 61
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V7",
+      "I6"
+     ],
+     "z": 3.6,
+     "works": 6,
+     "per_1000": 5.9,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/22op20no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in F Major, Op. 20, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 32
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/16op15no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in G Minor, Op. 15, No. 1, movement 3: Rondo: Allegro (DCML)",
+       "bar": 27
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/21op17no3b.notes.tsv",
+       "label": "Keyboard Sonata No. 3 in E-flat Major, Op. 17, No. 3, movement 2: Rondo: Allegretto (DCML)",
+       "bar": 19
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "IV",
+      "I"
+     ],
+     "z": 3.6,
+     "works": 6,
+     "per_1000": 6.7,
+     "others_per_1000": 0.9,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/28op30no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in B-flat Major, Op. 30, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 26
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/25op26no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in D Major, Op. 26, No. 1, movement 3: Rondo: Allegro (DCML)",
+       "bar": 45
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/16op15no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in G Minor, Op. 15, No. 1, movement 3: Rondo: Allegro (DCML)",
+       "bar": 45
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V",
+      "I"
+     ],
+     "z": 3.5,
+     "works": 10,
+     "per_1000": 9.8,
+     "others_per_1000": 2.6,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/27op26no3c.notes.tsv",
+       "label": "Keyboard Sonata No. 3 in E-flat Major, Op. 26, No. 3, movement 3: Rondo: Allegro con Fuoco (DCML)",
+       "bar": 30
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/09op08no1b.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in C Major, Op. 8, No. 1, movement 2: Rondo (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/28op30no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in B-flat Major, Op. 30, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 8
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "V"
+     ],
+     "z": 3.1,
+     "works": 10,
+     "per_1000": 8.2,
+     "others_per_1000": 2.3,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/28op30no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in B-flat Major, Op. 30, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/14op13no2c.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in G Major, Op. 13, No. 2, movement 3: Rondo (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/09op08no1b.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in C Major, Op. 8, No. 1, movement 2: Rondo (DCML)",
+       "bar": 11
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V42",
+      "I"
+     ],
+     "z": 3.1,
+     "works": 7,
+     "per_1000": 7.8,
+     "others_per_1000": 2.1,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/16op15no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in G Minor, Op. 15, No. 1, movement 3: Rondo: Allegro (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/14op13no2c.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in G Major, Op. 13, No. 2, movement 3: Rondo (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/28op30no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in B-flat Major, Op. 30, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 38
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 20,
+    "composers": 3,
+    "progressions_by": "both",
+    "progressions_works": 20
+   }
   }
  },
  {
@@ -502,6 +723,215 @@
    "by": "kind, forces, period",
    "works": 285,
    "composers": 9
+  },
+  "harmony": {
+   "works": 49,
+   "by": {
+    "DCML": 49
+   },
+   "values": {
+    "chords a bar": 2.4839804530588374,
+    "tonic and dominant": 0.6391638666160626,
+    "sevenths": 0.24824981578591915,
+    "diminished sevenths": 0.03628329487894003,
+    "applied chords": 0.09303543144474816,
+    "augmented sixths": 0.005628480064034412,
+    "Neapolitan": 0.001766747196568538,
+    "mixture": 0.0030606938269681252,
+    "inversions": 0.36753095387312446,
+    "keys a 10 bars": 0.8192325688671294,
+    "away from home": 0.4153792216443707,
+    "changes": 0.07991625557480145,
+    "non-chord tones": 0.23079771579062447,
+    "struck dissonance": 0.1586463589119215,
+    "resolved by step": 0.801759675338439,
+    "suspensions": 0.001697900446459654
+   },
+   "traits": [
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.8192325688671294,
+     "others": 0.5695140930364232,
+     "auc": 0.7916436845008272
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "IV",
+      "I",
+      "IV"
+     ],
+     "z": 5.8,
+     "works": 14,
+     "per_1000": 2.9,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/20op17no2a.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in A Major, Op. 17, No. 2, movement 1: Allegro molto (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/28op30no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in B-flat Major, Op. 30, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 26
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/17op15no2a.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in C Major, Op. 15, No. 2, movement 1: Allegro (DCML)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V7",
+      "I6"
+     ],
+     "z": 5.7,
+     "works": 14,
+     "per_1000": 2.6,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/22op20no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in F Major, Op. 20, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 32
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/16op15no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in G Minor, Op. 15, No. 1, movement 3: Rondo: Allegro (DCML)",
+       "bar": 27
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/10op08no2c.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in F Major, Op. 8, No. 2, movement 3: Aria con Variazione (DCML)",
+       "bar": 92
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I6",
+      "V7"
+     ],
+     "z": 5.6,
+     "works": 15,
+     "per_1000": 2.3,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/21op17no3b.notes.tsv",
+       "label": "Keyboard Sonata No. 3 in E-flat Major, Op. 17, No. 3, movement 2: Rondo: Allegretto (DCML)",
+       "bar": 18
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/22op20no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in F Major, Op. 20, No. 1, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 32
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/29op30no2c.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in G Major, Op. 30, No. 2, movement 3: Rondo: Allegretto (DCML)",
+       "bar": 61
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "V"
+     ],
+     "z": 5.5,
+     "works": 34,
+     "per_1000": 5.9,
+     "others_per_1000": 2.3,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/10op08no2c.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in F Major, Op. 8, No. 2, movement 3: Aria con Variazione (DCML)",
+       "bar": 19
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/25op26no1a.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in D Major, Op. 26, No. 1, movement 1: Allegro (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/20op17no2a.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in A Major, Op. 17, No. 2, movement 1: Allegro molto (DCML)",
+       "bar": 7
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "i6",
+      "V7"
+     ],
+     "z": 5.0,
+     "works": 14,
+     "per_1000": 1.8,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/19op17no1b.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in F Minor, Op. 17, No. 1, movement 2: Allegro agitato (DCML)",
+       "bar": 170
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/25op26no1a.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in D Major, Op. 26, No. 1, movement 1: Allegro (DCML)",
+       "bar": 164
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/19op17no1c.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in F Minor, Op. 17, No. 1, movement 3: Finale: Allegretto (DCML)",
+       "bar": 33
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "i",
+      "V"
+     ],
+     "z": 4.9,
+     "works": 19,
+     "per_1000": 2.7,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/kozeluh_sonatas:notes/16op15no1b.notes.tsv",
+       "label": "Keyboard Sonata No. 1 in G Minor, Op. 15, No. 1, movement 2: Allegro molto (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/26op26no2a.notes.tsv",
+       "label": "Keyboard Sonata No. 2 in A Minor, Op. 26, No. 2, movement 1: Allegro (DCML)",
+       "bar": 116
+      },
+      {
+       "work": "dcml/kozeluh_sonatas:notes/27op26no3b.notes.tsv",
+       "label": "Keyboard Sonata No. 3 in E-flat Major, Op. 26, No. 3, movement 2: Larghetto alla Siciliana (DCML)",
+       "bar": 4
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 231,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 222
+   }
   }
  }
 ]

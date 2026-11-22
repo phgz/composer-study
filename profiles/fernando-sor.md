@@ -1,10 +1,10 @@
 # Fernando Sor
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Fernando Sor: dance (plucked), all
 
-5 works; set against 192 works by 32 composers: other composers' dance of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 192 works by 32 composers: other composers' dances of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -15,7 +15,7 @@
 
 ### Fernando Sor: etude (plucked), all
 
-42 works; set against 286 works by 24 composers: other composers' etude, of any period and forces (range, register and density not compared).
+42 works; set against 286 works by 24 composers: other composers' etudes, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 

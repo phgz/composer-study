@@ -1,10 +1,10 @@
 # Jean-Philippe Rameau
 
-9 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+9 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Jean-Philippe Rameau: air, all
 
-6 works; set against 75 works by 9 composers: other composers' air of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 75 works by 9 composers: other composers' airs of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -27,7 +27,7 @@
 
 ### Jean-Philippe Rameau: dance, all
 
-13 works; set against 277 works by 13 composers: other composers' dance of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+13 works; set against 277 works by 13 composers: other composers' dances of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -41,7 +41,7 @@
 
 ### Jean-Philippe Rameau: gavotte, all
 
-4 works; set against 27 works by 5 composers: other composers' gavotte of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 27 works by 5 composers: other composers' gavottes of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -52,7 +52,7 @@
 
 ### Jean-Philippe Rameau: march, all
 
-3 works; set against 88 works by 30 composers: other composers' march, of any period and forces (range, register and density not compared).
+3 works; set against 88 works by 30 composers: other composers' marches, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -63,7 +63,7 @@
 
 ### Jean-Philippe Rameau: minuet, all
 
-4 works; set against 38 works by 7 composers: other composers' minuet of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 38 works by 7 composers: other composers' minuets of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -74,7 +74,7 @@
 
 ### Jean-Philippe Rameau: opera, all
 
-101 works; set against 48 works by 7 composers: other composers' opera, of any period and forces (range, register and density not compared).
+101 works; set against 48 works by 7 composers: other composers' operas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.73, against 2.41 (76 in 100)
@@ -91,7 +91,7 @@
 
 ### Jean-Philippe Rameau: opera (orchestra), all
 
-3 works; set against 48 works by 7 composers: other composers' opera, of any period and forces (range, register and density not compared).
+3 works; set against 48 works by 7 composers: other composers' operas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -102,7 +102,7 @@
 
 ### Jean-Philippe Rameau: rondo, all
 
-3 works; set against 109 works by 42 composers: other composers' rondo, of any period and forces (range, register and density not compared).
+3 works; set against 109 works by 42 composers: other composers' rondos, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

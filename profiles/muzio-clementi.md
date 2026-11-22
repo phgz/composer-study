@@ -1,10 +1,10 @@
 # Muzio Clementi
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Muzio Clementi: sonata (keyboard), all
 
-3 works; set against 331 works by 9 composers: other composers' sonata (keyboard) of the Classical period.
+3 works; set against 331 works by 9 composers: other composers' sonatas (keyboard) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

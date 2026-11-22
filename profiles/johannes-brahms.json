@@ -108,7 +108,7 @@
      0,
      0
     ],
-    "z": 5.8,
+    "z": 5.7,
     "works": 5,
     "per_1000": 2.0,
     "others_per_1000": 0.2,
@@ -171,6 +171,36 @@
    },
    {
     "moves": [
+     -3,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/Marienlieder,_Op.22/1_Der_englische_Gruss/lc8707581.mxl",
+      "label": "Marienlieder, Op.22, Der englische Gruss (OpenScore)",
+      "bar": 15,
+      "notes": "Bb4 G4 Ab4 G4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/4_Songs,_Op.43/4_Das_Lied_vom_Herrn_von_Falkenstein/lc5067672.mxl",
+      "label": "Songs, Op.43, Das Lied vom Herrn von Falkenstein (OpenScore)",
+      "bar": 39,
+      "notes": "Bb4 G4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
      -1,
      0,
      1
@@ -180,7 +210,7 @@
      -2,
      0
     ],
-    "z": 5.4,
+    "z": 5.3,
     "works": 4,
     "per_1000": 1.4,
     "others_per_1000": 0.1,
@@ -204,42 +234,99 @@
       "notes": "Bb4 A4 A4 Bb4"
      }
     ]
-   },
-   {
-    "moves": [
-     -3,
-     1,
-     -1
-    ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 5.4,
-    "works": 2,
-    "per_1000": 1.2,
-    "others_per_1000": 0.0,
-    "at": [
-     {
-      "work": "openscore-lieder:Brahms,_Johannes/Marienlieder,_Op.22/1_Der_englische_Gruss/lc8707581.mxl",
-      "label": "Marienlieder, Op.22, Der englische Gruss (OpenScore)",
-      "bar": 15,
-      "notes": "Bb4 G4 Ab4 G4"
-     },
-     {
-      "work": "openscore-lieder:Brahms,_Johannes/4_Songs,_Op.43/4_Das_Lied_vom_Herrn_von_Falkenstein/lc5067672.mxl",
-      "label": "Songs, Op.43, Das Lied vom Herrn von Falkenstein (OpenScore)",
-      "bar": 39,
-      "notes": "Bb4 G4 Ab4 G4"
-     }
-    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 987,
+   "works": 976,
    "composers": 97
+  },
+  "harmony": {
+   "works": 8,
+   "by": {
+    "When in Rome": 8
+   },
+   "values": {
+    "chords a bar": 3.3379537131641532,
+    "tonic and dominant": 0.6344638390643634,
+    "sevenths": 0.21880417353073128,
+    "diminished sevenths": 0.031191936914893192,
+    "applied chords": 0.04191291405871696,
+    "augmented sixths": 0.005747126436781609,
+    "Neapolitan": 0.0,
+    "mixture": 0.017572129801985466,
+    "inversions": 0.3607308655285124,
+    "keys a 10 bars": 4.171259693523344,
+    "away from home": 0.4320670357776506,
+    "non-chord tones": 0.10855430304668898,
+    "struck dissonance": 0.22470309261916147,
+    "resolved by step": 0.8308126095966841,
+    "suspensions": 0.0015822784810126582
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 3.3379537131641532,
+     "others": 1.944771026537931,
+     "auc": 0.8776133443465491
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.21880417353073128,
+     "others": 0.37184338836348124,
+     "auc": 0.20253762848751838
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.04191291405871696,
+     "others": 0.10200571260280382,
+     "auc": 0.2226046255506608
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 4.171259693523344,
+     "others": 1.0812329305222848,
+     "auc": 0.938738986784141
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.10855430304668898,
+     "others": 0.20799041295873968,
+     "auc": 0.15720218428781207
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V",
+      "I6",
+      "V"
+     ],
+     "z": 3.2,
+     "works": 2,
+     "per_1000": 13.6,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "openscore-lieder:Brahms,_Johannes/Marienlieder,_Op.22/4_Der_Jäger/lc8712405.mxl",
+       "label": "Marienlieder, Op.22, Der Jäger (OpenScore)",
+       "bar": 10
+      },
+      {
+       "work": "openscore-lieder:Brahms,_Johannes/Marienlieder,_Op.22/2_Marias_Kirchgang/lc8708253.mxl",
+       "label": "Marienlieder, Op.22, Marias Kirchgang (OpenScore)",
+       "bar": 1
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 143,
+    "composers": 18,
+    "progressions_by": "When in Rome",
+    "progressions_works": 90
+   }
   }
  },
  {
@@ -270,7 +357,7 @@
   "figures": [],
   "compared": {
    "by": "kind, forces, period",
-   "works": 987,
+   "works": 976,
    "composers": 97
   }
  },
@@ -311,7 +398,7 @@
      0,
      0
     ],
-    "z": 5.4,
+    "z": 5.5,
     "works": 3,
     "per_1000": 1.1,
     "others_per_1000": 0.0,
@@ -446,42 +533,6 @@
    },
    {
     "moves": [
-     3,
-     -2,
-     -1
-    ],
-    "rhythm": [
-     -2,
-     0,
-     0
-    ],
-    "z": 5.2,
-    "works": 5,
-    "per_1000": 1.1,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59/3_Regenlied/lc5058091.mxl",
-      "label": "Lieder und Gesänge, Op.59, Regenlied (OpenScore)",
-      "bar": 13,
-      "notes": "B4 D5 C5 B4"
-     },
-     {
-      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.32/1_Wie_rafft_ich_mich_auf_in_der_Nacht/lc5069058.mxl",
-      "label": "Lieder und Gesänge, Op.32, Wie rafft ich mich auf in der Nacht (OpenScore)",
-      "bar": 24,
-      "notes": "D5 F5 Eb5 D5"
-     },
-     {
-      "work": "openscore-lieder:Brahms,_Johannes/4_Gesänge,_Op.46/3_Die_Schale_der_Vergessenheit/lc5071654.mxl",
-      "label": "Gesänge, Op.46, Die Schale der Vergessenheit (OpenScore)",
-      "bar": 27,
-      "notes": "C5 Eb5 C#5 C5"
-     }
-    ]
-   },
-   {
-    "moves": [
      -3,
      3,
      5
@@ -515,11 +566,47 @@
       "notes": "C5 A4 C5 F5"
      }
     ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 5,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59/3_Regenlied/lc5058091.mxl",
+      "label": "Lieder und Gesänge, Op.59, Regenlied (OpenScore)",
+      "bar": 13,
+      "notes": "B4 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.32/1_Wie_rafft_ich_mich_auf_in_der_Nacht/lc5069058.mxl",
+      "label": "Lieder und Gesänge, Op.32, Wie rafft ich mich auf in der Nacht (OpenScore)",
+      "bar": 24,
+      "notes": "D5 F5 Eb5 D5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/4_Gesänge,_Op.46/3_Die_Schale_der_Vergessenheit/lc5071654.mxl",
+      "label": "Gesänge, Op.46, Die Schale der Vergessenheit (OpenScore)",
+      "bar": 27,
+      "notes": "C5 Eb5 C#5 C5"
+     }
+    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 987,
+   "works": 976,
    "composers": 97
   }
  },

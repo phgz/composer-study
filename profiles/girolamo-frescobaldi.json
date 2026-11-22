@@ -97,6 +97,167 @@
    "by": "forces, period",
    "works": 27,
    "composers": 8
+  },
+  "harmony": {
+   "works": 8,
+   "by": {
+    "DCML": 8
+   },
+   "values": {
+    "chords a bar": 4.056641275391275,
+    "tonic and dominant": 0.38750342581281333,
+    "sevenths": 0.14550844134832186,
+    "diminished sevenths": 0.0021929824561403508,
+    "applied chords": 0.2906477755569382,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.005721600381043105,
+    "mixture": 0.06569584427935782,
+    "inversions": 0.40097645880624244,
+    "keys a 10 bars": 0.0,
+    "away from home": 0.0,
+    "changes": 0.26125235387840984,
+    "non-chord tones": 0.29879724163759336,
+    "struck dissonance": 0.23523684928790212,
+    "resolved by step": 0.7812594541542327,
+    "suspensions": 0.0417781369161736
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.38750342581281333,
+     "others": 0.5809362833607875,
+     "auc": 0.1646361561866126
+    },
+    {
+     "measure": "sevenths",
+     "value": 0.14550844134832186,
+     "others": 0.22978013969787298,
+     "auc": 0.2123140635564571
+    },
+    {
+     "measure": "applied chords",
+     "value": 0.2906477755569382,
+     "others": 0.13940717792386412,
+     "auc": 0.787956008583691
+    },
+    {
+     "measure": "mixture",
+     "value": 0.06569584427935782,
+     "others": 0.008378986287206677,
+     "auc": 0.9347278566599053
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.0,
+     "others": 0.9971943644734402,
+     "auc": 0.08905579399141633
+    },
+    {
+     "measure": "away from home",
+     "value": 0.0,
+     "others": 0.3038226657446472,
+     "auc": 0.09120171673819745
+    },
+    {
+     "measure": "changes",
+     "value": 0.26125235387840984,
+     "others": 0.10472624908438546,
+     "auc": 0.9338787553648069
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "i64",
+      "V",
+      "I"
+     ],
+     "z": 5.1,
+     "works": 5,
+     "per_1000": 9.2,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.28_Toccata_avanti_il_Recercar.notes.tsv",
+       "label": "La Messa degli Apostoli, Op.12, movement 11: Toccata avanti il Recercar (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.18_Toccata_avanti_la_Messa_delli_Apostoli.notes.tsv",
+       "label": "La Messa degli Apostoli, Op.12, movement 1: Toccata avanti la Messa delli Apostoli (DCML)",
+       "bar": 20
+      },
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.16_Toccata_cromaticha_per_l’elevatione.notes.tsv",
+       "label": "La Messa della Domenica, Op.12, movement 16: Toccata cromaticha per l’elevatione (DCML)",
+       "bar": 44
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "i64",
+      "V"
+     ],
+     "z": 5.1,
+     "works": 4,
+     "per_1000": 12.8,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.16_Toccata_cromaticha_per_l’elevatione.notes.tsv",
+       "label": "La Messa della Domenica, Op.12, movement 16: Toccata cromaticha per l’elevatione (DCML)",
+       "bar": 42
+      },
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.01_Toccata_avanti_la_Messa_della_Domenica.notes.tsv",
+       "label": "La Messa della Domenica, Op.12, movement 1: Toccata avanti la Messa della Domenica (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.18_Toccata_avanti_la_Messa_delli_Apostoli.notes.tsv",
+       "label": "La Messa degli Apostoli, Op.12, movement 1: Toccata avanti la Messa delli Apostoli (DCML)",
+       "bar": 19
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i64",
+      "V",
+      "i64"
+     ],
+     "z": 4.1,
+     "works": 3,
+     "per_1000": 9.2,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.16_Toccata_cromaticha_per_l’elevatione.notes.tsv",
+       "label": "La Messa della Domenica, Op.12, movement 16: Toccata cromaticha per l’elevatione (DCML)",
+       "bar": 42
+      },
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.18_Toccata_avanti_la_Messa_delli_Apostoli.notes.tsv",
+       "label": "La Messa degli Apostoli, Op.12, movement 1: Toccata avanti la Messa delli Apostoli (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/frescobaldi_fiori_musicali:notes/12.01_Toccata_avanti_la_Messa_della_Domenica.notes.tsv",
+       "label": "La Messa della Domenica, Op.12, movement 1: Toccata avanti la Messa della Domenica (DCML)",
+       "bar": 8
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "period",
+    "works": 833,
+    "composers": 6,
+    "progressions_by": "DCML",
+    "progressions_works": 466
+   }
   }
  }
 ]

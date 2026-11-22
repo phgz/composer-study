@@ -27,8 +27,8 @@
    {
     "measure": "surprise, pitch",
     "value": 2.961637579927195,
-    "others": 2.4190772118075885,
-    "auc": 0.7976152415224427
+    "others": 2.4257560730781353,
+    "auc": 0.7954735587200304
    }
   ],
   "figures": [
@@ -46,7 +46,7 @@
     "z": 3.3,
     "works": 4,
     "per_1000": 7.0,
-    "others_per_1000": 0.8,
+    "others_per_1000": 0.9,
     "at": [
      {
       "work": "openscore-lieder:Zumsteeg,_Emilie/6_Lieder,_Op.4/3_Religion/lc6162644.mxl",
@@ -82,7 +82,7 @@
     "z": 3.1,
     "works": 5,
     "per_1000": 11.2,
-    "others_per_1000": 2.2,
+    "others_per_1000": 2.3,
     "at": [
      {
       "work": "openscore-lieder:Zumsteeg,_Emilie/6_Lieder,_Op.4/2_Morgenfreude/lc6160298.mxl",
@@ -107,7 +107,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1088,
+   "works": 1077,
    "composers": 97
   }
  }

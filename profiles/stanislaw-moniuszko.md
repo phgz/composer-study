@@ -1,10 +1,10 @@
 # Stanisław Moniuszko
 
-5 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+5 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Stanisław Moniuszko: air, all
 
-3 works; set against 157 works by 40 composers: other composers' air, of any period and forces (range, register and density not compared).
+3 works; set against 157 works by 40 composers: other composers' airs, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Stanisław Moniuszko: dance, all
 
-14 works; set against 421 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+14 works; set against 421 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -31,7 +31,7 @@
 
 ### Stanisław Moniuszko: hymn, all
 
-7 works; set against 103 works by 23 composers: other composers' hymn, of any period and forces (range, register and density not compared).
+7 works; set against 103 works by 23 composers: other composers' hymns, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 32%, against 60% (8 in 100)
@@ -51,7 +51,7 @@
 
 ### Stanisław Moniuszko: mass, all
 
-51 works; set against 501 works by 37 composers: other composers' mass of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+51 works; set against 501 works by 37 composers: other composers' masses of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -67,7 +67,7 @@
 
 ### Stanisław Moniuszko: waltz, all
 
-7 works; set against 69 works by 19 composers: other composers' waltz of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 69 works by 19 composers: other composers' waltzes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.28, against 1.91 (84 in 100)

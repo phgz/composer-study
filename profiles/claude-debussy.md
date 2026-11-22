@@ -1,10 +1,10 @@
 # Claude Debussy
 
-6 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+6 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Claude Debussy: air (voice and keyboard), any period
 
-6 works; set against 154 works by 40 composers: other composers' air, of any period and forces (range, register and density not compared).
+6 works; set against 154 works by 40 composers: other composers' airs, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 31%, against 14% (90 in 100)
@@ -20,7 +20,7 @@
 
 ### Claude Debussy: character piece (keyboard), any period
 
-25 works; set against 70 works by 10 composers: other composers' character piece, of any period and forces (range, register and density not compared).
+25 works; set against 70 works by 10 composers: other composers' character pieces, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -36,7 +36,7 @@
 
 ### Claude Debussy: song (voice and keyboard), any period
 
-20 works; set against 289 works by 37 composers: other composers' song (voice and keyboard) of the 1890 to 1950 period.
+20 works; set against 289 works by 37 composers: other composers' songs (voice and keyboard) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - even rhythm (a note as long as the one before): 55%, against 39% (82 in 100)
@@ -57,7 +57,7 @@
 
 ### Claude Debussy: string quartet (string quartet), any period
 
-4 works; set against 114 works by 19 composers: other composers' string quartet (string quartet) of the 1890 to 1950 period.
+4 works; set against 114 works by 19 composers: other composers' string quartets (string quartet) of the 1890 to 1950 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -68,7 +68,7 @@
 
 ### Claude Debussy: suite (keyboard), any period
 
-6 works; set against 241 works by 18 composers: other composers' suite, of any period and forces (range, register and density not compared).
+6 works; set against 241 works by 18 composers: other composers' suites, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 4.30, against 2.99 (84 in 100)
@@ -84,7 +84,7 @@
 
 ### Claude Debussy: suite (keyboard), early
 
-4 works; set against 241 works by 18 composers: other composers' suite, of any period and forces (range, register and density not compared).
+4 works; set against 241 works by 18 composers: other composers' suites, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -92,3 +92,9 @@
 - not asked
 
 **All measures:** moves by step 50%; repeated notes 7%; leaps of a fourth or more 24%; mean move (semitones) 4.01; moves that rise 50%; leaps answered by a step back 15%; range of the melody (semitones) 25.7; register of the melody D5; even rhythm (a note as long as the one before) 62%; dotted figures (3:1) 6%; rhythmic variety (bits) 2.11; the ear's surprise, pitch (bits a note) 2.54; the ear's surprise, rhythm (bits a note) 1.70; notes a quarter (texture) 5.16; lines (texture) 2.0
+
+**Harmony**, from the analysts' labels of 4 of its works (4 DCML's); set against 45 works by 4 composers: other composers' labelled works for keyboard of the 1890 to 1950 period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 2.51; chords on I or V 34%; seventh chords 47%; diminished sevenths 1%; applied chords (V/V and the like) 20%; augmented sixths 0%; Neapolitan chords 1%; chords from the other mode 3%; chords over a bass not their root 46%; changes of key a 10 bars 0.21; chords away from the home key 13%; cadences a 10 bars (DCML) 0.74; of its cadences, perfect 24%; of its cadences, half 27%; of its cadences, deceptive or evaded 14%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 22%; melody notes outside the chord 25%; of those, struck with the chord (appoggiaturas) 20%; of those, resolved by a step 65%; melody notes held into a chord they are not in, then falling a step (suspensions) 2%

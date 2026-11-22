@@ -253,6 +253,56 @@
    "by": "kind, forces, period",
    "works": 49,
    "composers": 5
+  },
+  "harmony": {
+   "works": 12,
+   "by": {
+    "DCML": 12
+   },
+   "values": {
+    "chords a bar": 2.460141365111213,
+    "tonic and dominant": 0.6471955697715983,
+    "sevenths": 0.3144902858021147,
+    "diminished sevenths": 0.022611314629738005,
+    "applied chords": 0.11166688016454714,
+    "augmented sixths": 0.0031878423010995444,
+    "Neapolitan": 0.0,
+    "mixture": 0.03291306001256055,
+    "inversions": 0.3296811798268677,
+    "keys a 10 bars": 1.1933676834443425,
+    "away from home": 0.2675767533790182,
+    "cadences a 10 bars": 2.171639379107726,
+    "perfect cadences": 0.34170488116426334,
+    "half cadences": 0.24461705289794533,
+    "deceptive or evaded": 0.051315789473684204,
+    "changes": 0.12357956735080666,
+    "non-chord tones": 0.19242070152288884,
+    "struck dissonance": 0.34131063691061775,
+    "resolved by step": 0.7319444144202976,
+    "suspensions": 0.005837218337218337
+   },
+   "traits": [
+    {
+     "measure": "diminished sevenths",
+     "value": 0.022611314629738005,
+     "others": 0.06986609150628971,
+     "auc": 0.20981406510552528
+    },
+    {
+     "measure": "changes",
+     "value": 0.12357956735080666,
+     "others": 0.22145266499983796,
+     "auc": 0.22417153998975817
+    }
+   ],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 44,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 44
+   }
   }
  },
  {
@@ -284,7 +334,7 @@
     "measure": "steps",
     "value": 0.4077010809985799,
     "others": 0.5001902219623341,
-    "auc": 0.24407032357109118
+    "auc": 0.24407032357109112
    },
    {
     "measure": "repeats",
@@ -296,13 +346,13 @@
     "measure": "even",
     "value": 0.4857173051533932,
     "others": 0.5987281753799513,
-    "auc": 0.23316628286883956
+    "auc": 0.2331662828688395
    },
    {
     "measure": "rhythm variety",
     "value": 2.606860566362209,
     "others": 2.132718750986931,
-    "auc": 0.7970649307195716
+    "auc": 0.7970649307195717
    },
    {
     "measure": "surprise, rhythm",

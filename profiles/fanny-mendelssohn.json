@@ -36,7 +36,7 @@
      0,
      0
     ],
-    "z": 6.9,
+    "z": 7.0,
     "works": 9,
     "per_1000": 3.4,
     "others_per_1000": 0.4,
@@ -58,6 +58,78 @@
       "label": "Lieder, Verlust (OpenScore)",
       "bar": 17,
       "notes": "F5 E5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.4,
+    "works": 7,
+    "per_1000": 3.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/Gartenlieder,_Op.3/6_Im_Wald/lc6034767.mxl",
+      "label": "Gartenlieder, Op.3, Im Wald (OpenScore)",
+      "bar": 24,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/3_Warum_sind_denn_die_Rosen_so_blass/lc5004640.mxl",
+      "label": "Lieder, Op.1, Warum sind denn die Rosen so blass (OpenScore)",
+      "bar": 17,
+      "notes": "E5 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/Gartenlieder,_Op.3/1_Hörst_du_nicht_die_Bäume_rauschen/lc6022950.mxl",
+      "label": "Gartenlieder, Op.3, Hörst du nicht die Bäume rauschen (OpenScore)",
+      "bar": 22,
+      "notes": "Eb5 C#5 B4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/5_Lieder,_Op.10/5_Bergeslust/lc5000446.mxl",
+      "label": "Lieder, Op.10, Bergeslust (OpenScore)",
+      "bar": 11,
+      "notes": "D5 B4 A4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/5_Morgenständchen/lc5004650.mxl",
+      "label": "Lieder, Op.1, Morgenständchen (OpenScore)",
+      "bar": 12,
+      "notes": "E5 C#5 B4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/2_Wanderlied/lc5004632.mxl",
+      "label": "Lieder, Op.1, Wanderlied (OpenScore)",
+      "bar": 7,
+      "notes": "D5 B4 A4 Ab4"
      }
     ]
    },
@@ -111,7 +183,7 @@
     "z": 5.6,
     "works": 4,
     "per_1000": 1.4,
-    "others_per_1000": 0.0,
+    "others_per_1000": 0.1,
     "at": [
      {
       "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/4_Mayenlied/lc5101299.mxl",
@@ -135,78 +207,6 @@
    },
    {
     "moves": [
-     -3,
-     -2,
-     -1
-    ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 5.5,
-    "works": 4,
-    "per_1000": 1.6,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "openscore-lieder:Hensel,_Fanny/5_Lieder,_Op.10/5_Bergeslust/lc5000446.mxl",
-      "label": "Lieder, Op.10, Bergeslust (OpenScore)",
-      "bar": 11,
-      "notes": "D5 B4 A4 Ab4"
-     },
-     {
-      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/5_Morgenständchen/lc5004650.mxl",
-      "label": "Lieder, Op.1, Morgenständchen (OpenScore)",
-      "bar": 12,
-      "notes": "E5 C#5 B4 Bb4"
-     },
-     {
-      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/2_Wanderlied/lc5004632.mxl",
-      "label": "Lieder, Op.1, Wanderlied (OpenScore)",
-      "bar": 7,
-      "notes": "D5 B4 A4 Ab4"
-     }
-    ]
-   },
-   {
-    "moves": [
-     -2,
-     -2,
-     -1
-    ],
-    "rhythm": [
-     2,
-     -2,
-     2
-    ],
-    "z": 5.5,
-    "works": 7,
-    "per_1000": 3.0,
-    "others_per_1000": 0.5,
-    "at": [
-     {
-      "work": "openscore-lieder:Hensel,_Fanny/Gartenlieder,_Op.3/6_Im_Wald/lc6034767.mxl",
-      "label": "Gartenlieder, Op.3, Im Wald (OpenScore)",
-      "bar": 24,
-      "notes": "F#5 E5 D5 C#5"
-     },
-     {
-      "work": "openscore-lieder:Hensel,_Fanny/6_Lieder,_Op.1/3_Warum_sind_denn_die_Rosen_so_blass/lc5004640.mxl",
-      "label": "Lieder, Op.1, Warum sind denn die Rosen so blass (OpenScore)",
-      "bar": 17,
-      "notes": "E5 D5 C5 B4"
-     },
-     {
-      "work": "openscore-lieder:Hensel,_Fanny/Gartenlieder,_Op.3/1_Hörst_du_nicht_die_Bäume_rauschen/lc6022950.mxl",
-      "label": "Gartenlieder, Op.3, Hörst du nicht die Bäume rauschen (OpenScore)",
-      "bar": 22,
-      "notes": "Eb5 C#5 B4 Bb4"
-     }
-    ]
-   },
-   {
-    "moves": [
      -4,
      -1,
      -2
@@ -216,7 +216,7 @@
      0,
      0
     ],
-    "z": 5.3,
+    "z": 5.2,
     "works": 4,
     "per_1000": 2.1,
     "others_per_1000": 0.2,
@@ -244,8 +244,40 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1064,
+   "works": 1053,
    "composers": 97
+  },
+  "harmony": {
+   "works": 20,
+   "by": {
+    "When in Rome": 20
+   },
+   "values": {
+    "chords a bar": 1.6805346306796636,
+    "tonic and dominant": 0.575232627217836,
+    "sevenths": 0.36378954837399047,
+    "diminished sevenths": 0.06364857006058809,
+    "applied chords": 0.12477896257830327,
+    "augmented sixths": 0.01188009986603337,
+    "Neapolitan": 0.003105590062111801,
+    "mixture": 0.018789395534234775,
+    "inversions": 0.4032323281896238,
+    "keys a 10 bars": 1.2068286354933702,
+    "away from home": 0.28340348517119107,
+    "non-chord tones": 0.22815137546881642,
+    "struck dissonance": 0.24662801026699013,
+    "resolved by step": 0.7541537240173749,
+    "suspensions": 0.0044210760380683145
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 131,
+    "composers": 18,
+    "progressions_by": "When in Rome",
+    "progressions_works": 78
+   }
   }
  },
  {

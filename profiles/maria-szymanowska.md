@@ -1,10 +1,10 @@
 # Maria Szymanowska
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Maria Szymanowska: etude, all
 
-7 works; set against 220 works by 17 composers: other composers' etude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 220 works by 17 composers: other composers' etudes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Maria Szymanowska: prelude, all
 
-17 works; set against 146 works by 12 composers: other composers' prelude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+17 works; set against 146 works by 12 composers: other composers' preludes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - even rhythm (a note as long as the one before): 82%, against 60% (77 in 100)

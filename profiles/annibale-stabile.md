@@ -1,10 +1,10 @@
 # Annibale Stabile
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Annibale Stabile: madrigal, all
 
-43 works; set against 272 works by 10 composers: other composers' madrigal of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+43 works; set against 272 works by 10 composers: other composers' madrigals of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 44%, against 50% (18 in 100)

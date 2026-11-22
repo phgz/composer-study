@@ -60,19 +60,19 @@
     "measure": "rising",
     "value": 0.42458277996048516,
     "others": 0.47472453084314,
-    "auc": 0.2458168658826553
+    "auc": 0.2458168658826554
    },
    {
     "measure": "long-short",
     "value": 0.15812510446335457,
-    "others": 0.07650752687768492,
-    "auc": 0.8783236135209819
+    "others": 0.07650752687768493,
+    "auc": 0.8783236135209821
    },
    {
     "measure": "surprise, pitch",
     "value": 2.24911145289482,
     "others": 2.628229833792474,
-    "auc": 0.24059347085662874
+    "auc": 0.24059347085662877
    }
   ],
   "figures": [
@@ -208,7 +208,7 @@
     "measure": "range",
     "value": 14.29375,
     "others": 25.018250000735723,
-    "auc": 0.12291666665403066
+    "auc": 0.12291666665403067
    },
    {
     "measure": "even",
@@ -226,7 +226,7 @@
     "measure": "surprise, pitch",
     "value": 3.055411941106549,
     "others": 2.590034800149373,
-    "auc": 0.766874999995051
+    "auc": 0.7668749999950508
    },
    {
     "measure": "surprise, rhythm",
@@ -279,7 +279,7 @@
      0,
      0
     ],
-    "z": 5.0,
+    "z": 4.9,
     "works": 3,
     "per_1000": 5.4,
     "others_per_1000": 0.6,
@@ -315,10 +315,10 @@
      0,
      0
     ],
-    "z": 5.0,
+    "z": 4.9,
     "works": 4,
     "per_1000": 4.7,
-    "others_per_1000": 0.4,
+    "others_per_1000": 0.5,
     "at": [
      {
       "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugvögel,_MWV_J_9/lc7076589.mxl",
@@ -351,7 +351,7 @@
      0,
      2
     ],
-    "z": 4.7,
+    "z": 4.6,
     "works": 2,
     "per_1000": 3.4,
     "others_per_1000": 0.2,
@@ -441,7 +441,7 @@
      0,
      0
     ],
-    "z": 3.4,
+    "z": 3.3,
     "works": 4,
     "per_1000": 4.0,
     "others_per_1000": 0.7,
@@ -469,7 +469,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1088,
+   "works": 1077,
    "composers": 97
   }
  },
@@ -720,6 +720,221 @@
    "by": "kind, forces, period",
    "works": 235,
    "composers": 32
+  },
+  "harmony": {
+   "works": 24,
+   "by": {
+    "DCML": 24
+   },
+   "values": {
+    "chords a bar": 2.62529938851678,
+    "tonic and dominant": 0.42898292569948476,
+    "sevenths": 0.34997812128378275,
+    "diminished sevenths": 0.07008549770761992,
+    "applied chords": 0.26632199938705514,
+    "augmented sixths": 0.0043424832902299575,
+    "Neapolitan": 0.003692293890250068,
+    "mixture": 0.02063171920996912,
+    "inversions": 0.4687538398224913,
+    "keys a 10 bars": 0.14641367260810967,
+    "away from home": 0.2582107549154345,
+    "changes": 0.1292320551565401,
+    "non-chord tones": 0.20496105420829122,
+    "struck dissonance": 0.27466697219269953,
+    "resolved by step": 0.787989330411043,
+    "suspensions": 0.004865614103279479
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.42898292569948476,
+     "others": 0.589518432865216,
+     "auc": 0.1691729532920417
+    },
+    {
+     "measure": "inversions",
+     "value": 0.4687538398224913,
+     "others": 0.3597414023411429,
+     "auc": 0.7605222831201962
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I64",
+      "V7",
+      "I6"
+     ],
+     "z": 3.9,
+     "works": 9,
+     "per_1000": 1.5,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/mendelssohn_quartets:notes/03op44,1a.notes.tsv",
+       "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 1: Molto allegro vivace (DCML)",
+       "bar": 104
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/04op44,2b.notes.tsv",
+       "label": "String Quartet No. 4 in E Minor, Op. 44, No. 2, movement 2: Scherzo: Allegro di molto (DCML)",
+       "bar": 48
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/03op44,1b.notes.tsv",
+       "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 2: Menuetto: Un poco Allegretto (DCML)",
+       "bar": 49
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i",
+      "#viio7",
+      "i"
+     ],
+     "z": 3.5,
+     "works": 6,
+     "per_1000": 1.2,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/mendelssohn_quartets:notes/04op44,2d.notes.tsv",
+       "label": "String Quartet No. 4 in E Minor, Op. 44, No. 2, movement 4: Presto agitato (DCML)",
+       "bar": 439
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/06op80d.notes.tsv",
+       "label": "String Quartet No. 6 in F Minor, Op. 80, movement 4: Finale: Allegro molto (DCML)",
+       "bar": 435
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/02op13d.notes.tsv",
+       "label": "String Quartet No. 2 in A Minor, Op. 13, movement 4: Presto – Adagio non lento (DCML)",
+       "bar": 54
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "V65",
+      "I"
+     ],
+     "z": 3.4,
+     "works": 7,
+     "per_1000": 1.1,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/mendelssohn_quartets:notes/01op12a.notes.tsv",
+       "label": "String Quartet No. 1 in E-flat Major, Op. 12, movement 1: Adagio non troppo – Allegro non tardante (DCML)",
+       "bar": 38
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/01op12b.notes.tsv",
+       "label": "String Quartet No. 1 in E-flat Major, Op. 12, movement 2: Canzonetta: Allegretto (DCML)",
+       "bar": 68
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/02op13b.notes.tsv",
+       "label": "String Quartet No. 2 in A Minor, Op. 13, movement 2: Adagio non lento (DCML)",
+       "bar": 5
+      }
+     ]
+    },
+    {
+     "chords": [
+      "vi",
+      "V65/vi",
+      "vi"
+     ],
+     "z": 3.2,
+     "works": 5,
+     "per_1000": 1.0,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/mendelssohn_quartets:notes/03op44,1a.notes.tsv",
+       "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 1: Molto allegro vivace (DCML)",
+       "bar": 72
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/05op44,3d.notes.tsv",
+       "label": "String Quartet No. 5 in E-flat Major, Op. 44, No. 3, movement 4: Molto allegro con fuoco (DCML)",
+       "bar": 9
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/04op44,2b.notes.tsv",
+       "label": "String Quartet No. 4 in E Minor, Op. 44, No. 2, movement 2: Scherzo: Allegro di molto (DCML)",
+       "bar": 225
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i6",
+      "iio6",
+      "i64"
+     ],
+     "z": 3.1,
+     "works": 5,
+     "per_1000": 0.9,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/mendelssohn_quartets:notes/03op44,1c.notes.tsv",
+       "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 3: Andante espressivo ma con moto (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/04op44,2d.notes.tsv",
+       "label": "String Quartet No. 4 in E Minor, Op. 44, No. 2, movement 4: Presto agitato (DCML)",
+       "bar": 29
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/05op44,3b.notes.tsv",
+       "label": "String Quartet No. 5 in E-flat Major, Op. 44, No. 3, movement 2: Scherzo: Assai leggiero vivace (DCML)",
+       "bar": 14
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii65",
+      "I64",
+      "V7"
+     ],
+     "z": 3.1,
+     "works": 6,
+     "per_1000": 0.9,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/mendelssohn_quartets:notes/01op12c.notes.tsv",
+       "label": "String Quartet No. 1 in E-flat Major, Op. 12, movement 3: Andante espressivo (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/01op12d.notes.tsv",
+       "label": "String Quartet No. 1 in E-flat Major, Op. 12, movement 4: Molto allegro e vivace (DCML)",
+       "bar": 241
+      },
+      {
+       "work": "dcml/mendelssohn_quartets:notes/03op44,1a.notes.tsv",
+       "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 1: Molto allegro vivace (DCML)",
+       "bar": 69
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "period",
+    "works": 279,
+    "composers": 25,
+    "progressions_by": "DCML",
+    "progressions_works": 176
+   }
   }
  }
 ]

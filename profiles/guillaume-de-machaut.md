@@ -1,10 +1,10 @@
 # Guillaume de Machaut
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Guillaume de Machaut: ballade (voices), all
 
-3 works; set against 1856 works by 39 composers: other composers' works for voices of the Before 1600 period, of any kind (too few ballade).
+3 works; set against 1856 works by 39 composers: other composers' works for voices of the Before 1600 period, of any kind (too few ballades).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Guillaume de Machaut: mass (voices), all
 
-3 works; set against 593 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+3 works; set against 593 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -26,7 +26,7 @@
 
 ### Guillaume de Machaut: song (voices), all
 
-4 works; set against 278 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+4 works; set against 278 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

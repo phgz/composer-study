@@ -27,8 +27,8 @@
    {
     "measure": "surprise, pitch",
     "value": 1.842873060999509,
-    "others": 2.4229188004545983,
-    "auc": 0.201682850919031
+    "others": 2.4295839946046653,
+    "auc": 0.1980032267286327
    }
   ],
   "figures": [
@@ -106,7 +106,7 @@
     "z": 6.2,
     "works": 2,
     "per_1000": 2.9,
-    "others_per_1000": 0.0,
+    "others_per_1000": 0.1,
     "at": [
      {
       "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/2_O_Ma_Belle_Rebelle!/lc5079373.mxl",
@@ -215,7 +215,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1091,
+   "works": 1080,
    "composers": 97
   }
  },

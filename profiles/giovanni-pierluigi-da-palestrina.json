@@ -447,48 +447,48 @@
   "forces": null,
   "period": "all",
   "era": "Before 1600",
-  "works": 10,
+  "works": 8,
   "values": {
-   "steps": 0.7488192886922951,
-   "repeats": 0.1057350946820852,
-   "leaps": 0.05355693402983085,
-   "move": 2.1290888272558073,
-   "rising": 0.4845786411172396,
-   "leap answered": 0.6170534367593191,
-   "range": 9.309999999999999,
-   "register": 68.3,
-   "even": 0.37480509089088476,
-   "long-short": 0.12526454919911525,
-   "rhythm variety": 2.8867487349913032,
-   "surprise, pitch": 2.1617492355601824,
-   "surprise, rhythm": 2.185826618249256,
-   "density": 1.2184297947587244,
-   "lines": 4.1
+   "steps": 0.7406640785029093,
+   "repeats": 0.11407825346587509,
+   "leaps": 0.05010555265055716,
+   "move": 2.1327579048385275,
+   "rising": 0.4817434984779396,
+   "leap answered": 0.6186382245205775,
+   "range": 8.7625,
+   "register": 67.75,
+   "even": 0.3804832755905179,
+   "long-short": 0.12862253354074107,
+   "rhythm variety": 2.8564836376936875,
+   "surprise, pitch": 2.1105694512039204,
+   "surprise, rhythm": 2.11534650795448,
+   "density": 1.2322667694692526,
+   "lines": 4.125
   },
   "traits": [
    {
     "measure": "steps",
-    "value": 0.7488192886922951,
-    "others": 0.6489861985624185,
-    "auc": 0.88449828769274
+    "value": 0.7406640785029093,
+    "others": 0.6489861985624182,
+    "auc": 0.8629284560021901
    },
    {
     "measure": "leaps",
-    "value": 0.05355693402983085,
-    "others": 0.09357188549832522,
-    "auc": 0.1495345754935271
+    "value": 0.05010555265055716,
+    "others": 0.09357188549832528,
+    "auc": 0.1262477734965282
    },
    {
     "measure": "move",
-    "value": 2.1290888272558073,
+    "value": 2.1327579048385275,
     "others": 2.378570254948881,
-    "auc": 0.14434755839054475
+    "auc": 0.15304869247125605
    },
    {
     "measure": "surprise, pitch",
-    "value": 2.1617492355601824,
+    "value": 2.1105694512039204,
     "others": 2.562094540166186,
-    "auc": 0.12451334039000794
+    "auc": 0.08057872188714792
    }
   ],
   "figures": [
@@ -503,17 +503,11 @@
      1,
      -2
     ],
-    "z": 7.4,
-    "works": 6,
-    "per_1000": 5.4,
+    "z": 6.0,
+    "works": 5,
+    "per_1000": 4.8,
     "others_per_1000": 0.3,
     "at": [
-     {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--051-003_palestrina-giovanni-pierluigi-da--missa-de-b-virgine-maria-sanctus.krn",
-      "label": "Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
-      "bar": 22,
-      "notes": "C5 D5 C5 C5"
-     },
      {
       "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-001_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-kyrie.krn",
       "label": "Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
@@ -525,78 +519,12 @@
       "label": "Missa Inviolata, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
       "bar": 95,
       "notes": "F4 G4 F4 F4"
-     }
-    ]
-   },
-   {
-    "moves": [
-     -4,
-     2,
-     2
-    ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 5.9,
-    "works": 7,
-    "per_1000": 5.9,
-    "others_per_1000": 0.7,
-    "at": [
-     {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-003_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-sanctus.krn",
-      "label": "Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
-      "bar": 1,
-      "notes": "A4 F4 G4 A4"
-     },
-     {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--051-003_palestrina-giovanni-pierluigi-da--missa-de-b-virgine-maria-sanctus.krn",
-      "label": "Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
-      "bar": 3,
-      "notes": "A4 F4 G4 A4"
      },
      {
       "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
       "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
-      "bar": 2,
-      "notes": "A4 F4 G4 A4"
-     }
-    ]
-   },
-   {
-    "moves": [
-     2,
-     -2,
-     -1
-    ],
-    "rhythm": [
-     0,
-     1,
-     -2
-    ],
-    "z": 5.3,
-    "works": 4,
-    "per_1000": 4.4,
-    "others_per_1000": 0.5,
-    "at": [
-     {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-001_palestrina-giovanni-pierluigi-da--missa-inviolata-kyrie.krn",
-      "label": "Missa Inviolata, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
-      "bar": 38,
-      "notes": "Bb4 C5 Bb4 A4"
-     },
-     {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--051-003_palestrina-giovanni-pierluigi-da--missa-de-b-virgine-maria-sanctus.krn",
-      "label": "Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
-      "bar": 32,
-      "notes": "Bb4 C5 Bb4 A4"
-     },
-     {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-003_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-sanctus.krn",
-      "label": "Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
-      "bar": 48,
-      "notes": "Bb4 C5 Bb4 A4"
+      "bar": 13,
+      "notes": "C5 D5 C5 C5"
      }
     ]
    },
@@ -611,9 +539,9 @@
      0,
      0
     ],
-    "z": 5.1,
+    "z": 5.5,
     "works": 5,
-    "per_1000": 3.4,
+    "per_1000": 4.2,
     "others_per_1000": 0.3,
     "at": [
      {
@@ -639,36 +567,108 @@
    {
     "moves": [
      2,
-     2,
-     -2
+     1,
+     2
     ],
     "rhythm": [
-     -2,
-     2,
-     1
+     0,
+     0,
+     0
     ],
-    "z": 5.1,
-    "works": 3,
-    "per_1000": 3.4,
-    "others_per_1000": 0.3,
+    "z": 5.0,
+    "works": 7,
+    "per_1000": 10.9,
+    "others_per_1000": 2.5,
     "at": [
      {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--051-003_palestrina-giovanni-pierluigi-da--missa-de-b-virgine-maria-sanctus.krn",
-      "label": "Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
-      "bar": 22,
-      "notes": "Bb4 C5 D5 C5"
-     },
-     {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-001_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-kyrie.krn",
-      "label": "Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
-      "bar": 15,
-      "notes": "Bb4 C5 D5 C5"
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-004_palestrina-giovanni-pierluigi-da--missa-inviolata-agnus-dei.krn",
+      "label": "Missa Inviolata, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern)",
+      "bar": 27,
+      "notes": "D4 E4 F4 G4"
      },
      {
       "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
       "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
-      "bar": 12,
-      "notes": "Bb4 C5 D5 C5"
+      "bar": 32,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-001_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-kyrie.krn",
+      "label": "Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 9,
+      "notes": "G4 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 5,
+    "per_1000": 5.4,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-003_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-sanctus.krn",
+      "label": "Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 1,
+      "notes": "A4 F4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
+      "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 2,
+      "notes": "A4 F4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-001_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-kyrie.krn",
+      "label": "Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 3,
+      "notes": "A4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-001_palestrina-giovanni-pierluigi-da--missa-inviolata-kyrie.krn",
+      "label": "Missa Inviolata, Kyrie, movement 1 (PL-Kk Kk.I.7, kern)",
+      "bar": 38,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-003_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-sanctus.krn",
+      "label": "Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
+      "bar": 48,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--058-002_palestrina-giovanni-pierluigi-da--missa-inviolata-et-in-terra.krn",
+      "label": "Missa Inviolata, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 22,
+      "notes": "Bb4 C5 Bb4 A4"
      }
     ]
    },
@@ -683,8 +683,8 @@
      0,
      0
     ],
-    "z": 5.0,
-    "works": 8,
+    "z": 4.3,
+    "works": 6,
     "per_1000": 7.3,
     "others_per_1000": 1.6,
     "at": [
@@ -701,9 +701,9 @@
       "notes": "F4 G4 A4 Bb4"
      },
      {
-      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--051-003_palestrina-giovanni-pierluigi-da--missa-de-b-virgine-maria-sanctus.krn",
-      "label": "Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern)",
-      "bar": 80,
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-7--052-002_palestrina-giovanni-pierluigi-da--missa-de-sanctis-apostolis-et-in-terra.krn",
+      "label": "Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern)",
+      "bar": 2,
       "notes": "F4 G4 A4 Bb4"
      }
     ]
@@ -998,8 +998,8 @@
    {
     "measure": "surprise, rhythm",
     "value": 2.293295526197885,
-    "others": 1.942831810354337,
-    "auc": 0.7688710382550794
+    "others": 1.9428318103543367,
+    "auc": 0.7688710382550796
    }
   ],
   "figures": [
@@ -1254,8 +1254,8 @@
    {
     "measure": "rising",
     "value": 0.4877074774512139,
-    "others": 0.4459469102474074,
-    "auc": 0.7854682392540508
+    "others": 0.44594691024740746,
+    "auc": 0.785468239254051
    }
   ],
   "figures": [

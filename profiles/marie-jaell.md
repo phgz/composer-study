@@ -1,13 +1,13 @@
 # Marie Jaëll
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Marie Jaëll: song (voice and keyboard), all
 
-17 works; set against 1082 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+17 works; set against 1071 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
-- the ear's surprise, rhythm (bits a note): 2.28, against 1.63 (86 in 100)
+- the ear's surprise, rhythm (bits a note): 2.28, against 1.62 (86 in 100)
 - rhythmic variety (bits): 3.05, against 2.53 (83 in 100)
 - the ear's surprise, pitch (bits a note): 2.95, against 2.42 (78 in 100)
 - repeated notes: 34%, against 23% (78 in 100)

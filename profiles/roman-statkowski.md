@@ -1,10 +1,10 @@
 # Roman Statkowski
 
-4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+4 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Roman Statkowski: dance, all
 
-6 works; set against 429 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 429 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 54%, against 49% (81 in 100)
@@ -23,7 +23,7 @@
 
 ### Roman Statkowski: mazurka, all
 
-3 works; set against 134 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 134 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -34,7 +34,7 @@
 
 ### Roman Statkowski: prelude, all
 
-6 works; set against 157 works by 12 composers: other composers' prelude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 157 works by 12 composers: other composers' preludes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -50,7 +50,7 @@
 
 ### Roman Statkowski: string quartet, all
 
-3 works; set against 276 works by 37 composers: other composers' string quartet of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 276 works by 37 composers: other composers' string quartets of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

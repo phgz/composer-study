@@ -1,10 +1,10 @@
 # Thomas Tallis
 
-7 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+7 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Thomas Tallis: anthem (voices), all
 
-11 works; set against 1809 works by 39 composers: other composers' works for voices of the Before 1600 period, of any kind (too few anthem).
+11 works; set against 1809 works by 39 composers: other composers' works for voices of the Before 1600 period, of any kind (too few anthems).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 2.88, against 1.65 (90 in 100)
@@ -20,7 +20,7 @@
 
 ### Thomas Tallis: hymn (voices), all
 
-17 works; set against 54 works by 7 composers: other composers' hymn (voices) of the Before 1600 period.
+17 works; set against 54 works by 7 composers: other composers' hymns (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 55%, against 67% (19 in 100)
@@ -39,7 +39,7 @@
 
 ### Thomas Tallis: magnificat (voices), all
 
-3 works; set against 47 works by 5 composers: other composers' magnificat (voices) of the Before 1600 period.
+3 works; set against 47 works by 5 composers: other composers' magnificats (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -50,7 +50,7 @@
 
 ### Thomas Tallis: mass (voices), all
 
-3 works; set against 593 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+3 works; set against 593 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -61,7 +61,7 @@
 
 ### Thomas Tallis: motet (voices), all
 
-22 works; set against 600 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+22 works; set against 600 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 2.27, against 1.42 (82 in 100)
@@ -80,7 +80,7 @@
 
 ### Thomas Tallis: partsong (voices), all
 
-3 works; set against 70 works by 2 composers: other composers' partsong (voices) of the Before 1600 period.
+3 works; set against 70 works by 2 composers: other composers' partsongs (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -91,7 +91,7 @@
 
 ### Thomas Tallis: song (voices), all
 
-4 works; set against 278 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+4 works; set against 278 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

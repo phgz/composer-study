@@ -1,10 +1,10 @@
 # Emil Władysław Śmietański
 
-9 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+9 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Emil Władysław Śmietański: concerto (orchestra), all
 
-8 works; set against 26 works by 8 composers: other composers' concerto (orchestra) of the Romantic period.
+8 works; set against 26 works by 8 composers: other composers' concertos (orchestra) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 10.73, against 6.32 (89 in 100)
@@ -18,7 +18,7 @@
 
 ### Emil Władysław Śmietański: dance, all
 
-17 works; set against 416 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+17 works; set against 416 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 31%, against 18% (83 in 100)
@@ -38,7 +38,7 @@
 
 ### Emil Władysław Śmietański: etude (orchestra), all
 
-3 works; set against 224 works by 17 composers: other composers' etude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 224 works by 17 composers: other composers' etudes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -49,7 +49,7 @@
 
 ### Emil Władysław Śmietański: fantasia, all
 
-3 works; set against 21 works by 13 composers: other composers' fantasia of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 21 works by 13 composers: other composers' fantasias of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -60,7 +60,7 @@
 
 ### Emil Władysław Śmietański: fugue, all
 
-6 works; set against 132 works by 23 composers: other composers' fugue, of any period and forces (range, register and density not compared).
+6 works; set against 132 works by 23 composers: other composers' fugues, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 80%, against 64% (90 in 100)
@@ -82,7 +82,7 @@
 
 ### Emil Władysław Śmietański: march, all
 
-5 works; set against 46 works by 18 composers: other composers' march of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 46 works by 18 composers: other composers' marches of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 31%, against 14% (98 in 100)
@@ -106,7 +106,7 @@
 
 ### Emil Władysław Śmietański: mazurka, all
 
-6 works; set against 131 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 131 works by 19 composers: other composers' mazurkas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 36%, against 53% (8 in 100)
@@ -125,7 +125,7 @@
 
 ### Emil Władysław Śmietański: scherzo, all
 
-3 works; set against 40 works by 22 composers: other composers' scherzo of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 40 works by 22 composers: other composers' scherzos of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -136,7 +136,7 @@
 
 ### Emil Władysław Śmietański: sonata, all
 
-5 works; set against 39 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 39 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 25%, against 10% (83 in 100)

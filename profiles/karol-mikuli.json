@@ -59,8 +59,8 @@
    {
     "measure": "surprise, pitch",
     "value": 3.0293717551174746,
-    "others": 2.338692180528338,
-    "auc": 0.8356761537551632
+    "others": 2.3440902075512016,
+    "auc": 0.8340645701420891
    }
   ],
   "figures": [
@@ -75,10 +75,10 @@
      0,
      2
     ],
-    "z": 6.2,
+    "z": 6.1,
     "works": 3,
     "per_1000": 6.4,
-    "others_per_1000": 0.1,
+    "others_per_1000": 0.2,
     "at": [
      {
       "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--2374-n--001-001_mikuli-karol--sieben-lieder-op-27-es-muss-was-wunderbares-sein.krn",
@@ -111,7 +111,7 @@
      0,
      0
     ],
-    "z": 5.5,
+    "z": 5.6,
     "works": 3,
     "per_1000": 10.3,
     "others_per_1000": 0.7,
@@ -139,7 +139,7 @@
   ],
   "compared": {
    "by": "kind, period",
-   "works": 1217,
+   "works": 1206,
    "composers": 115
   }
  }

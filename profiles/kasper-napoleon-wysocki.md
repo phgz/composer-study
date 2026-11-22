@@ -1,10 +1,10 @@
 # Kasper Napoleon Wysocki
 
-4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+4 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Kasper Napoleon Wysocki: dance, all
 
-21 works; set against 414 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+21 works; set against 414 works by 57 composers: other composers' dances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -20,7 +20,7 @@
 
 ### Kasper Napoleon Wysocki: krakowiak, all
 
-9 works; set against 41 works by 10 composers: other composers' krakowiak of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+9 works; set against 41 works by 10 composers: other composers' krakowiaks of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - rhythmic variety (bits): 2.68, against 2.22 (81 in 100)
@@ -37,7 +37,7 @@
 
 ### Kasper Napoleon Wysocki: march, all
 
-3 works; set against 48 works by 18 composers: other composers' march of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 48 works by 18 composers: other composers' marches of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -48,7 +48,7 @@
 
 ### Kasper Napoleon Wysocki: waltz, all
 
-9 works; set against 67 works by 19 composers: other composers' waltz of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+9 works; set against 67 works by 19 composers: other composers' waltzes of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 40%, against 13% (93 in 100)

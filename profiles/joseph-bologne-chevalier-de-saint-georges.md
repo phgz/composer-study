@@ -1,10 +1,10 @@
 # Joseph Bologne, Chevalier de Saint-Georges
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Joseph Bologne, Chevalier de Saint-Georges: rondo (string quartet), all
 
-6 works; set against 66 works by 16 composers: other composers' rondo of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 66 works by 16 composers: other composers' rondos of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 2.60, against 2.29 (76 in 100)
@@ -21,7 +21,7 @@
 
 ### Joseph Bologne, Chevalier de Saint-Georges: string quartet (string quartet), all
 
-12 works; set against 481 works by 10 composers: other composers' string quartet (string quartet) of the Classical period.
+12 works; set against 481 works by 10 composers: other composers' string quartets (string quartet) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: C#5, against Eb5 (25 in 100)

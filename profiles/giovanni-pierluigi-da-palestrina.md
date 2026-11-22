@@ -1,10 +1,10 @@
 # Giovanni Pierluigi da Palestrina
 
-7 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+7 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Giovanni Pierluigi da Palestrina: hymn (voices), all
 
-36 works; set against 35 works by 7 composers: other composers' hymn (voices) of the Before 1600 period.
+36 works; set against 35 works by 7 composers: other composers' hymns (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -17,7 +17,7 @@
 
 ### Giovanni Pierluigi da Palestrina: madrigal (voices), all
 
-101 works; set against 114 works by 6 composers: other composers' madrigal (voices) of the Before 1600 period.
+101 works; set against 114 works by 6 composers: other composers' madrigals (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.32, against 2.57 (23 in 100)
@@ -34,7 +34,7 @@
 
 ### Giovanni Pierluigi da Palestrina: magnificat (voices), all
 
-34 works; set against 20 works by 7 composers: other composers' magnificat of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+34 works; set against 20 works by 7 composers: other composers' magnificats of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps of a fourth or more: 6%, against 10% (19 in 100)
@@ -47,27 +47,27 @@
 
 ### Giovanni Pierluigi da Palestrina: mass, all
 
-10 works; set against 580 works by 38 composers: other composers' mass of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+8 works; set against 580 works by 38 composers: other composers' masses of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
-- moves by step: 75%, against 65% (88 in 100)
-- the ear's surprise, pitch (bits a note): 2.16, against 2.56 (12 in 100)
-- mean move (semitones): 2.13, against 2.38 (14 in 100)
-- leaps of a fourth or more: 5%, against 9% (15 in 100)
+- the ear's surprise, pitch (bits a note): 2.11, against 2.56 (8 in 100)
+- leaps of a fourth or more: 5%, against 9% (13 in 100)
+- moves by step: 74%, against 65% (86 in 100)
+- mean move (semitones): 2.13, against 2.38 (15 in 100)
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
-- up a step, down a step, same (much longer, longer, much shorter): 5.4 in 1,000 figures, against 0.3, in 6 works. At: Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 22 (C5 D5 C5 C5); Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern), bar 15 (C5 D5 C5 C5); Missa Inviolata, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 95 (F4 G4 F4 F4)
-- down a major third, up a step, up a step (as long, as long, as long): 5.9 in 1,000 figures, against 0.7, in 7 works. At: Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 1 (A4 F4 G4 A4); Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 3 (A4 F4 G4 A4); Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 2 (A4 F4 G4 A4)
-- up a step, down a step, down a half step (as long, longer, much shorter): 4.4 in 1,000 figures, against 0.5, in 4 works. At: Missa Inviolata, Kyrie, movement 1 (PL-Kk Kk.I.7, kern), bar 38 (Bb4 C5 Bb4 A4); Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 32 (Bb4 C5 Bb4 A4); Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 48 (Bb4 C5 Bb4 A4)
-- up a step, up a step, down a major third (as long, as long, as long): 3.4 in 1,000 figures, against 0.3, in 5 works. At: Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 37 (F4 G4 A4 F4); Missa de Sanctis Apostolis, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern), bar 41 (F4 G4 A4 F4); Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 24 (Bb4 C5 D5 Bb4)
-- up a step, up a step, down a step (much shorter, much longer, longer): 3.4 in 1,000 figures, against 0.3, in 3 works. At: Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 22 (Bb4 C5 D5 C5); Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern), bar 15 (Bb4 C5 D5 C5); Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 12 (Bb4 C5 D5 C5)
-- up a step, up a step, up a half step (as long, as long, as long): 7.3 in 1,000 figures, against 1.6, in 8 works. At: Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 2 (F4 G4 A4 Bb4); Missa Inviolata, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 53 (F4 G4 A4 Bb4); Missa de B Virgine Maria, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 80 (F4 G4 A4 Bb4)
+- up a step, down a step, same (much longer, longer, much shorter): 4.8 in 1,000 figures, against 0.3, in 5 works. At: Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern), bar 15 (C5 D5 C5 C5); Missa Inviolata, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 95 (F4 G4 F4 F4); Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 13 (C5 D5 C5 C5)
+- up a step, up a step, down a major third (as long, as long, as long): 4.2 in 1,000 figures, against 0.3, in 5 works. At: Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 37 (F4 G4 A4 F4); Missa de Sanctis Apostolis, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern), bar 41 (F4 G4 A4 F4); Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 24 (Bb4 C5 D5 Bb4)
+- up a step, up a half step, up a step (as long, as long, as long): 10.9 in 1,000 figures, against 2.5, in 7 works. At: Missa Inviolata, Agnus Dei, movement 4 (PL-Kk Kk.I.7, kern), bar 27 (D4 E4 F4 G4); Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 32 (G4 A4 Bb4 C5); Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern), bar 9 (G4 A4 Bb4 C5)
+- down a major third, up a step, up a step (as long, as long, as long): 5.4 in 1,000 figures, against 0.7, in 5 works. At: Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 1 (A4 F4 G4 A4); Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 2 (A4 F4 G4 A4); Missa de Sanctis Apostolis, Kyrie, movement 1 (PL-Kk Kk.I.7, kern), bar 3 (A4 F4 G4 A4)
+- up a step, down a step, down a half step (as long, longer, much shorter): 4.2 in 1,000 figures, against 0.5, in 3 works. At: Missa Inviolata, Kyrie, movement 1 (PL-Kk Kk.I.7, kern), bar 38 (Bb4 C5 Bb4 A4); Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 48 (Bb4 C5 Bb4 A4); Missa Inviolata, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 22 (Bb4 C5 Bb4 A4)
+- up a step, up a step, up a half step (as long, as long, as long): 7.3 in 1,000 figures, against 1.6, in 6 works. At: Missa de Sanctis Apostolis, Sanctus, movement 3 (PL-Kk Kk.I.7, kern), bar 2 (F4 G4 A4 Bb4); Missa Inviolata, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 53 (F4 G4 A4 Bb4); Missa de Sanctis Apostolis, Et in terra, movement 2 (PL-Kk Kk.I.7, kern), bar 2 (F4 G4 A4 Bb4)
 
-**All measures:** moves by step 75%; repeated notes 11%; leaps of a fourth or more 5%; mean move (semitones) 2.13; moves that rise 48%; leaps answered by a step back 62%; range of the melody (semitones) 9.3; register of the melody Ab4; even rhythm (a note as long as the one before) 37%; dotted figures (3:1) 13%; rhythmic variety (bits) 2.89; the ear's surprise, pitch (bits a note) 2.16; the ear's surprise, rhythm (bits a note) 2.19; notes a quarter (texture) 1.22; lines (texture) 4.1
+**All measures:** moves by step 74%; repeated notes 11%; leaps of a fourth or more 5%; mean move (semitones) 2.13; moves that rise 48%; leaps answered by a step back 62%; range of the melody (semitones) 8.8; register of the melody Ab4; even rhythm (a note as long as the one before) 38%; dotted figures (3:1) 13%; rhythmic variety (bits) 2.86; the ear's surprise, pitch (bits a note) 2.11; the ear's surprise, rhythm (bits a note) 2.12; notes a quarter (texture) 1.23; lines (texture) 4.1
 
 ### Giovanni Pierluigi da Palestrina: mass (voices), all
 
-107 works; set against 489 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+107 works; set against 489 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -83,7 +83,7 @@
 
 ### Giovanni Pierluigi da Palestrina: motet (voices), all
 
-231 works; set against 391 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+231 works; set against 391 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: B4, against Ab4 (80 in 100)
@@ -101,7 +101,7 @@
 
 ### Giovanni Pierluigi da Palestrina: song (voices), all
 
-9 works; set against 273 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+9 works; set against 273 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 49%, against 45% (79 in 100)

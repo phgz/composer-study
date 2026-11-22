@@ -1,10 +1,10 @@
 # Franciszek Lilius
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Franciszek Lilius: mass, all
 
-15 works; set against 170 works by 20 composers: other composers' mass of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+15 works; set against 170 works by 20 composers: other composers' masses of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - even rhythm (a note as long as the one before): 36%, against 53% (20 in 100)
@@ -23,7 +23,7 @@
 
 ### Franciszek Lilius: mass (voices), all
 
-17 works; set against 20 works by 3 composers: other composers' mass (voices) of the Baroque period.
+17 works; set against 20 works by 3 composers: other composers' masses (voices) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: B3, against A4 (1 in 100)

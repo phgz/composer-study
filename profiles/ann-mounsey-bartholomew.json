@@ -36,7 +36,7 @@
      0,
      2
     ],
-    "z": 6.0,
+    "z": 5.9,
     "works": 3,
     "per_1000": 4.2,
     "others_per_1000": 0.1,
@@ -102,7 +102,7 @@
      0,
      0
     ],
-    "z": 5.0,
+    "z": 4.9,
     "works": 2,
     "per_1000": 4.2,
     "others_per_1000": 0.2,
@@ -188,9 +188,9 @@
      0
     ],
     "rhythm": [
+     -1,
      -2,
-     2,
-     0
+     2
     ],
     "z": 3.7,
     "works": 3,
@@ -200,27 +200,27 @@
      {
       "work": "openscore-lieder:Mounsey_Bartholomew,_Ann/Songs_of_Remembrance/6_Song_of_the_Summer_Winds/lc6649053.mxl",
       "label": "Songs of Remembrance, Song of the Summer Winds (OpenScore)",
-      "bar": 9,
-      "notes": "Eb5 Eb5 Eb5 Eb5"
+      "bar": 11,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "openscore-lieder:Mounsey_Bartholomew,_Ann/Songs_of_Remembrance/3_I_can_bid_thee_now,_Farewell!/lc6648595.mxl",
+      "label": "Songs of Remembrance, I can bid thee now, Farewell! (OpenScore)",
+      "bar": 30,
+      "notes": "F4 F4 F4 F4"
      },
      {
       "work": "openscore-lieder:Mounsey_Bartholomew,_Ann/Songs_of_Remembrance/2_The_Will_o’_the_Wisp/lc6648208.mxl",
       "label": "Songs of Remembrance, The Will o’ the Wisp (OpenScore)",
-      "bar": 11,
+      "bar": 59,
       "notes": "B4 B4 B4 B4"
-     },
-     {
-      "work": "openscore-lieder:Mounsey_Bartholomew,_Ann/Songs_of_Remembrance/4_The_Warrior_Boy/lc6648674.mxl",
-      "label": "Songs of Remembrance, The Warrior Boy (OpenScore)",
-      "bar": 11,
-      "notes": "G4 G4 G4 G4"
      }
     ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1093,
+   "works": 1082,
    "composers": 97
   }
  }

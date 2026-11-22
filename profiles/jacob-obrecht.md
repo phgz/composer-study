@@ -1,10 +1,10 @@
 # Jacob Obrecht
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Jacob Obrecht: mass (voices), all
 
-12 works; set against 584 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+12 works; set against 584 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 75%, against 64% (90 in 100)
@@ -26,7 +26,7 @@
 
 ### Jacob Obrecht: motet (voices), all
 
-4 works; set against 618 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+4 works; set against 618 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

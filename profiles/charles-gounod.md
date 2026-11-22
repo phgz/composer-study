@@ -1,18 +1,18 @@
 # Charles Gounod
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Charles Gounod: song (voice and keyboard), all
 
-8 works; set against 1091 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+8 works; set against 1080 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
-- the ear's surprise, pitch (bits a note): 1.84, against 2.42 (20 in 100)
+- the ear's surprise, pitch (bits a note): 1.84, against 2.43 (20 in 100)
 
 **Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
 - up a step, down a minor third, up a minor third (as long, as long, as long): 2.9 in 1,000 figures, against 0.0, in 2 works. At: Mélodies, O Ma Belle Rebelle! (OpenScore), bar 9 (C5 D5 B4 D5); Mélodies, Chant d’automne (OpenScore), bar 39 (A4 B4 Ab4 B4)
 - down a step, down a fifth, up a step (as long, much longer, much shorter): 2.9 in 1,000 figures, against 0.0, in 2 works. At: Mélodies, Le lever (OpenScore), bar 29 (D5 C5 F4 G4); Mélodies, Aubade (OpenScore), bar 12 (D5 C5 F4 G4)
-- up a step, same, down a minor third (as long, much longer, much shorter): 2.9 in 1,000 figures, against 0.0, in 2 works. At: Mélodies, O Ma Belle Rebelle! (OpenScore), bar 18 (Bb4 C5 C5 A4); Mélodies, Aubade (OpenScore), bar 19 (G4 A4 A4 F#4)
+- up a step, same, down a minor third (as long, much longer, much shorter): 2.9 in 1,000 figures, against 0.1, in 2 works. At: Mélodies, O Ma Belle Rebelle! (OpenScore), bar 18 (Bb4 C5 C5 A4); Mélodies, Aubade (OpenScore), bar 19 (G4 A4 A4 F#4)
 - down a minor third, up a minor third, down a step (as long, as long, as long): 2.9 in 1,000 figures, against 0.1, in 2 works. At: Mélodies, O Ma Belle Rebelle! (OpenScore), bar 9 (D5 B4 D5 C5); Mélodies, Chant d’automne (OpenScore), bar 39 (B4 Ab4 B4 A4)
 - down a step, up a step, down a minor third (as long, as long, as long): 2.9 in 1,000 figures, against 0.1, in 2 works. At: Mélodies, O Ma Belle Rebelle! (OpenScore), bar 9 (D5 C5 D5 B4); Mélodies, Chant d’automne (OpenScore), bar 39 (B4 A4 B4 Ab4)
 - up a half step, down 6, up a half step (as long, much longer, much shorter): 2.9 in 1,000 figures, against 0.1, in 2 works. At: Mélodies, Venise (OpenScore), bar 25 (F#5 G5 C#5 D5); Mélodies, Chant d’automne (OpenScore), bar 23 (Eb5 E5 Bb4 B4)
@@ -21,7 +21,7 @@
 
 ### Charles Gounod: string quartet (string quartet), all
 
-4 works; set against 255 works by 32 composers: other composers' string quartet (string quartet) of the Romantic period.
+4 works; set against 255 works by 32 composers: other composers' string quartets (string quartet) of the Romantic period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

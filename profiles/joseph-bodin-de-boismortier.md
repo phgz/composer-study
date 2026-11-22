@@ -1,10 +1,10 @@
 # Joseph Bodin de Boismortier
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Joseph Bodin de Boismortier: sonata (chamber), all
 
-16 works; set against 260 works by 5 composers: other composers' sonata (chamber) of the Baroque period.
+16 works; set against 260 works by 5 composers: other composers' sonatas (chamber) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: Ab3, against Eb5 (0 in 100)

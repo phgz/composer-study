@@ -1,10 +1,10 @@
 # Walter Parratt
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Walter Parratt: chorale (voice and keyboard), all
 
-13 works; set against 352 works by 2 composers: other composers' chorale, of any period and forces (range, register and density not compared).
+13 works; set against 352 works by 2 composers: other composers' chorales, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - rhythmic variety (bits): 2.86, against 1.72 (99 in 100)
@@ -23,7 +23,7 @@
 
 ### Walter Parratt: song (voice and keyboard), all
 
-13 works; set against 1086 works by 97 composers: other composers' song (voice and keyboard) of the Romantic period.
+13 works; set against 1075 works by 97 composers: other composers' songs (voice and keyboard) of the Romantic period.
 
 **Where it stands apart:** nowhere that clearly.
 

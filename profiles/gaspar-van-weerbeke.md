@@ -1,10 +1,10 @@
 # Gaspar van Weerbeke
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Gaspar van Weerbeke: mass (voices), all
 
-42 works; set against 554 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+42 works; set against 554 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 72%, against 64% (77 in 100)
@@ -23,7 +23,7 @@
 
 ### Gaspar van Weerbeke: motet (voices), all
 
-48 works; set against 574 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+48 works; set against 574 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.10, against 2.32 (21 in 100)
@@ -41,7 +41,7 @@
 
 ### Gaspar van Weerbeke: song (voices), all
 
-5 works; set against 277 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+5 works; set against 277 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 41%, against 45% (18 in 100)

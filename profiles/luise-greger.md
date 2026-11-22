@@ -1,10 +1,10 @@
 # Luise Greger
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Luise Greger: song (voice and keyboard), all
 
-9 works; set against 300 works by 37 composers: other composers' song (voice and keyboard) of the 1890 to 1950 period.
+9 works; set against 300 works by 37 composers: other composers' songs (voice and keyboard) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 3.24, against 2.75 (78 in 100)

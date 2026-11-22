@@ -72,7 +72,7 @@
      0,
      0
     ],
-    "z": 5.4,
+    "z": 5.3,
     "works": 5,
     "per_1000": 1.7,
     "others_per_1000": 0.0,
@@ -129,6 +129,36 @@
    },
    {
     "moves": [
+     -2,
+     0,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/Liebeslieder,_Op.4/2_Komm,_wir_wandeln_zusammen/lc5062139.mxl",
+      "label": "Liebeslieder, Op.4, Komm, wir wandeln zusammen (OpenScore)",
+      "bar": 5,
+      "notes": "Bb4 Ab4 Ab4 F4"
+     },
+     {
+      "work": "openscore-lieder:Cornelius,_Peter/6_Lieder,_Op.5/2_Auf_ein_schlummerndes_Kind/lc5051349.mxl",
+      "label": "Lieder, Op.5, Auf ein schlummerndes Kind (OpenScore)",
+      "bar": 3,
+      "notes": "C5 Bb4 Bb4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
      -5,
      1,
      2
@@ -154,36 +184,6 @@
       "label": "An Bertha, Op.15, In der Ferne (OpenScore)",
       "bar": 20,
       "notes": "E5 B4 C5 D5"
-     }
-    ]
-   },
-   {
-    "moves": [
-     -2,
-     0,
-     -3
-    ],
-    "rhythm": [
-     0,
-     0,
-     2
-    ],
-    "z": 5.1,
-    "works": 2,
-    "per_1000": 1.7,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "openscore-lieder:Cornelius,_Peter/Liebeslieder,_Op.4/2_Komm,_wir_wandeln_zusammen/lc5062139.mxl",
-      "label": "Liebeslieder, Op.4, Komm, wir wandeln zusammen (OpenScore)",
-      "bar": 5,
-      "notes": "Bb4 Ab4 Ab4 F4"
-     },
-     {
-      "work": "openscore-lieder:Cornelius,_Peter/6_Lieder,_Op.5/2_Auf_ein_schlummerndes_Kind/lc5051349.mxl",
-      "label": "Lieder, Op.5, Auf ein schlummerndes Kind (OpenScore)",
-      "bar": 3,
-      "notes": "C5 Bb4 Bb4 G4"
      }
     ]
    },
@@ -226,7 +226,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1066,
+   "works": 1055,
    "composers": 97
   }
  }

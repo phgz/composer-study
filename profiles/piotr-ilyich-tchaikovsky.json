@@ -210,6 +210,72 @@
    "by": "kind, forces, period",
    "works": 49,
    "composers": 5
+  },
+  "harmony": {
+   "works": 12,
+   "by": {
+    "DCML": 12
+   },
+   "values": {
+    "chords a bar": 2.616191273374388,
+    "tonic and dominant": 0.6819755766846608,
+    "sevenths": 0.391900460616838,
+    "diminished sevenths": 0.061549801603945846,
+    "applied chords": 0.09739925410164273,
+    "augmented sixths": 0.013334199713766946,
+    "Neapolitan": 0.0,
+    "mixture": 0.023040100978031306,
+    "inversions": 0.4201597076159933,
+    "keys a 10 bars": 1.5260862693453516,
+    "away from home": 0.3828250801784536,
+    "cadences a 10 bars": 1.5573457870614924,
+    "perfect cadences": 0.2615714084863701,
+    "half cadences": 0.37531250541161026,
+    "deceptive or evaded": 0.005555555555555556,
+    "changes": 0.23556936373658113,
+    "non-chord tones": 0.24400851724628803,
+    "struck dissonance": 0.29696090512880563,
+    "resolved by step": 0.6682332087523056,
+    "suspensions": 0.0061938969400610585
+   },
+   "traits": [],
+   "progressions": [
+    {
+     "chords": [
+      "i",
+      "V65",
+      "i"
+     ],
+     "z": 3.1,
+     "works": 3,
+     "per_1000": 6.2,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/tchaikovsky_seasons:notes/op37a02.notes.tsv",
+       "label": "The Seasons, Op. 37a, movement 2: February: Carnaval (DCML)",
+       "bar": 14
+      },
+      {
+       "work": "dcml/tchaikovsky_seasons:notes/op37a03.notes.tsv",
+       "label": "The Seasons, Op. 37a, movement 3: March: Song of the Lark (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/tchaikovsky_seasons:notes/op37a05.notes.tsv",
+       "label": "The Seasons, Op. 37a, movement 5: May: Starlight Nights (DCML)",
+       "bar": 21
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 44,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 44
+   }
   }
  },
  {
@@ -273,13 +339,13 @@
     "measure": "rising",
     "value": 0.5849769522293077,
     "others": 0.47688581390502255,
-    "auc": 0.9366177549634415
+    "auc": 0.9366177549634414
    },
    {
     "measure": "density",
     "value": 6.5103424746004395,
     "others": 4.8881609398630745,
-    "auc": 0.7900690877845705
+    "auc": 0.7900690877845706
    }
   ],
   "figures": [

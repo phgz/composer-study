@@ -29,6 +29,43 @@
    "by": "kind, forces, period",
    "works": 24,
    "composers": 7
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 3.8186400686400686,
+    "tonic and dominant": 0.6057244808950755,
+    "sevenths": 0.1897041090804627,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.17896323324204116,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.0,
+    "inversions": 0.2913855593680885,
+    "keys a 10 bars": 0.06756756756756757,
+    "away from home": 0.07534246575342465,
+    "cadences a 10 bars": 2.8310006435006434,
+    "perfect cadences": 0.475,
+    "half cadences": 0.42083333333333334,
+    "deceptive or evaded": 0.0,
+    "changes": 0.09621057696172292,
+    "non-chord tones": 0.25491523256455356,
+    "struck dissonance": 0.17482954852795823,
+    "resolved by step": 0.8138530699705444,
+    "suspensions": 0.004451038575667656
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 267,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 242
+   }
   }
  },
  {
@@ -61,6 +98,43 @@
    "by": "kind, period",
    "works": 138,
    "composers": 18
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 3.8186400686400686,
+    "tonic and dominant": 0.6057244808950755,
+    "sevenths": 0.1897041090804627,
+    "diminished sevenths": 0.0,
+    "applied chords": 0.17896323324204116,
+    "augmented sixths": 0.0,
+    "Neapolitan": 0.0,
+    "mixture": 0.0,
+    "inversions": 0.2913855593680885,
+    "keys a 10 bars": 0.06756756756756757,
+    "away from home": 0.07534246575342465,
+    "cadences a 10 bars": 2.8310006435006434,
+    "perfect cadences": 0.475,
+    "half cadences": 0.42083333333333334,
+    "deceptive or evaded": 0.0,
+    "changes": 0.09621057696172292,
+    "non-chord tones": 0.25491523256455356,
+    "struck dissonance": 0.17482954852795823,
+    "resolved by step": 0.8138530699705444,
+    "suspensions": 0.004451038575667656
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "forces, period",
+    "works": 267,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 242
+   }
   }
  },
  {
@@ -310,6 +384,225 @@
    "by": "kind, forces, period",
    "works": 305,
    "composers": 9
+  },
+  "harmony": {
+   "works": 29,
+   "by": {
+    "DCML": 29
+   },
+   "values": {
+    "chords a bar": 2.2965573140638624,
+    "tonic and dominant": 0.612456762787136,
+    "sevenths": 0.170048496497966,
+    "diminished sevenths": 0.008720005240537917,
+    "applied chords": 0.10784504979390377,
+    "augmented sixths": 0.0026451855305945683,
+    "Neapolitan": 0.0006434581752186107,
+    "mixture": 0.002445521354359618,
+    "inversions": 0.3663351005410006,
+    "keys a 10 bars": 0.35873113412976326,
+    "away from home": 0.3736364605026813,
+    "cadences a 10 bars": 1.8671433306156255,
+    "perfect cadences": 0.44949176477413905,
+    "half cadences": 0.31189387682528497,
+    "deceptive or evaded": 0.1207208978760703,
+    "changes": 0.10281337322312352,
+    "non-chord tones": 0.24496230399415966,
+    "struck dissonance": 0.16862590711229836,
+    "resolved by step": 0.7862261913443349,
+    "suspensions": 0.0028918774758978495
+   },
+   "traits": [
+    {
+     "measure": "sevenths",
+     "value": 0.170048496497966,
+     "others": 0.2672756187920702,
+     "auc": 0.15324907267481797
+    },
+    {
+     "measure": "diminished sevenths",
+     "value": 0.008720005240537917,
+     "others": 0.04111542936824739,
+     "auc": 0.16320923203736776
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I64",
+      "V",
+      "I"
+     ],
+     "z": 5.6,
+     "works": 21,
+     "per_1000": 14.8,
+     "others_per_1000": 5.9,
+     "at": [
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa08op17no2b_Andante.notes.tsv",
+       "label": "Keyboard Sonata in C minor, W.A 8, op.17, movement 2: Andante (DCML)",
+       "bar": 22
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa02op05no2a_Allegro_di_molto.notes.tsv",
+       "label": "Keyboard Sonata in D major, W.A 2, op.5, movement 1: Allegro di molto (DCML)",
+       "bar": 33
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa05op05no5a_Allegro_Assai.notes.tsv",
+       "label": "Keyboard Sonata in E major, W.A 5, op.5, movement 1: Allegro assai (DCML)",
+       "bar": 30
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "I",
+      "IV"
+     ],
+     "z": 5.6,
+     "works": 14,
+     "per_1000": 7.3,
+     "others_per_1000": 1.9,
+     "at": [
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa09op17no3b_Allegro.notes.tsv",
+       "label": "Keyboard Sonata in E-flat major, W.A 9, op.17, movement 2: Allegro (DCML)",
+       "bar": 39
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa10op17no4a_Allegro.notes.tsv",
+       "label": "Keyboard Sonata in G major, W.A 10, op.17, movement 1: Allegro (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa04op05no4a_Allegro.notes.tsv",
+       "label": "Keyboard Sonata in E-flat major, W.A 4, op.5, movement 1: Allegro (DCML)",
+       "bar": 32
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "ii",
+      "V"
+     ],
+     "z": 4.9,
+     "works": 5,
+     "per_1000": 2.2,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa10op17no4a_Allegro.notes.tsv",
+       "label": "Keyboard Sonata in G major, W.A 10, op.17, movement 1: Allegro (DCML)",
+       "bar": 32
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa05op05no5a_Allegro_Assai.notes.tsv",
+       "label": "Keyboard Sonata in E major, W.A 5, op.5, movement 1: Allegro assai (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa11op17no5a_Allegro.notes.tsv",
+       "label": "Keyboard Sonata in A major, W.A 11, op.17, movement 1: Allegro (DCML)",
+       "bar": 44
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "IV",
+      "viio"
+     ],
+     "z": 4.8,
+     "works": 3,
+     "per_1000": 2.4,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa12op17no6b_Andante.notes.tsv",
+       "label": "Keyboard Sonata in B-flat major, W.A 12, op.17, movement 2: Andante (DCML)",
+       "bar": 27
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa04op05no4a_Allegro.notes.tsv",
+       "label": "Keyboard Sonata in E-flat major, W.A 4, op.5, movement 1: Allegro (DCML)",
+       "bar": 29
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa09op17no3b_Allegro.notes.tsv",
+       "label": "Keyboard Sonata in E-flat major, W.A 9, op.17, movement 2: Allegro (DCML)",
+       "bar": 40
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V6",
+      "I",
+      "IV"
+     ],
+     "z": 4.7,
+     "works": 8,
+     "per_1000": 3.2,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa09op17no3a_Allegro_Assai.notes.tsv",
+       "label": "Keyboard Sonata in E-flat major, W.A 9, op.17, movement 1: Allegro assai (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa01op05no1a_Allegretto.notes.tsv",
+       "label": "Keyboard Sonata in B-flat major, W.A 1, op.5, movement 1: Allegretto (DCML)",
+       "bar": 56
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa03op05no3a_Allegro.notes.tsv",
+       "label": "Keyboard Sonata in G major, W.A 3, op.5, movement 1: Allegro (DCML)",
+       "bar": 3
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I64",
+      "V"
+     ],
+     "z": 4.6,
+     "works": 12,
+     "per_1000": 6.2,
+     "others_per_1000": 1.9,
+     "at": [
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa11op17no5b_Presto.notes.tsv",
+       "label": "Keyboard Sonata in A major, W.A 11, op.17, movement 2: Presto (DCML)",
+       "bar": 31
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa08op17no2b_Andante.notes.tsv",
+       "label": "Keyboard Sonata in C minor, W.A 8, op.17, movement 2: Andante (DCML)",
+       "bar": 25
+      },
+      {
+       "work": "dcml/jc_bach_sonatas:notes/wa01op05no1b_Tempo_di_Minuetto.notes.tsv",
+       "label": "Keyboard Sonata in B-flat major, W.A 1, op.5, movement 2: Tempo di minuetto (DCML)",
+       "bar": 19
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 251,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 242
+   }
   }
  }
 ]

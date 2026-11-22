@@ -1,10 +1,10 @@
 # Ignacy Jan Paderewski
 
-8 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+8 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Ignacy Jan Paderewski: canon, all
 
-4 works; set against 26 works by 9 composers: other composers' canon, of any period and forces (range, register and density not compared).
+4 works; set against 26 works by 9 composers: other composers' canons, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Ignacy Jan Paderewski: dance, all
 
-5 works; set against 90 works by 18 composers: other composers' dance of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+5 works; set against 90 works by 18 composers: other composers' dances of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -26,7 +26,7 @@
 
 ### Ignacy Jan Paderewski: etude, all
 
-47 works; set against 277 works by 24 composers: other composers' etude, of any period and forces (range, register and density not compared).
+47 works; set against 277 works by 24 composers: other composers' etudes, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - mean move (semitones): 2.51, against 4.61 (12 in 100)
@@ -46,7 +46,7 @@
 
 ### Ignacy Jan Paderewski: etude (chamber), all
 
-4 works; set against 277 works by 24 composers: other composers' etude, of any period and forces (range, register and density not compared).
+4 works; set against 277 works by 24 composers: other composers' etudes, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -57,7 +57,7 @@
 
 ### Ignacy Jan Paderewski: krakowiak, all
 
-3 works; set against 56 works by 16 composers: other composers' krakowiak, of any period and forces (range, register and density not compared).
+3 works; set against 56 works by 16 composers: other composers' krakowiaks, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -68,7 +68,7 @@
 
 ### Ignacy Jan Paderewski: opera, all
 
-38 works; set against 113 works by 7 composers: other composers' opera, of any period and forces (range, register and density not compared).
+38 works; set against 113 works by 7 composers: other composers' operas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -84,7 +84,7 @@
 
 ### Ignacy Jan Paderewski: song, all
 
-7 works; set against 405 works by 45 composers: other composers' song of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 405 works by 45 composers: other composers' songs of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -96,7 +96,7 @@
 
 ### Ignacy Jan Paderewski: suite, all
 
-3 works; set against 248 works by 18 composers: other composers' suite, of any period and forces (range, register and density not compared).
+3 works; set against 248 works by 18 composers: other composers' suites, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

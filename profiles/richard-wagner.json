@@ -27,32 +27,38 @@
    {
     "measure": "range",
     "value": 13.62,
-    "others": 11.868812516173753,
-    "auc": 0.7872665646535202
+    "others": 11.890145113243966,
+    "auc": 0.7841432654592201
    },
    {
     "measure": "even",
     "value": 0.16403993539251066,
-    "others": 0.39493798815615283,
-    "auc": 0.09482581405045673
+    "others": 0.3971515989582624,
+    "auc": 0.0928459208610373
+   },
+   {
+    "measure": "long-short",
+    "value": 0.26728337975571276,
+    "others": 0.15135233612293927,
+    "auc": 0.7521234726604328
    },
    {
     "measure": "rhythm variety",
     "value": 3.0058829126463538,
-    "others": 2.533756932556145,
-    "auc": 0.818597500889472
+    "others": 2.5273388017272738,
+    "auc": 0.8214469456116438
    },
    {
     "measure": "surprise, pitch",
     "value": 3.1363816514583793,
-    "others": 2.419730618863268,
-    "auc": 0.8699556166404573
+    "others": 2.4264067512289325,
+    "auc": 0.8687125240668342
    },
    {
     "measure": "surprise, rhythm",
     "value": 1.986049047477462,
-    "others": 1.6285066575885179,
-    "auc": 0.7692569194834435
+    "others": 1.6275420982817779,
+    "auc": 0.7694491011426845
    }
   ],
   "figures": [
@@ -67,10 +73,10 @@
      -2,
      2
     ],
-    "z": 5.5,
+    "z": 5.6,
     "works": 4,
     "per_1000": 7.9,
-    "others_per_1000": 0.4,
+    "others_per_1000": 0.3,
     "at": [
      {
       "work": "openscore-lieder:Wagner,_Richard/5_Gedichte_für_eine_Frauenstimme_(Wesendonck-Lieder),_WWV_91/5_Träume/lc5026092.mxl",
@@ -95,7 +101,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1094,
+   "works": 1083,
    "composers": 97
   }
  }

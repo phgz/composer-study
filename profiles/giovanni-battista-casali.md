@@ -1,10 +1,10 @@
 # Giovanni Battista Casali
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Giovanni Battista Casali: song (voice and keyboard), all
 
-3 works; set against 135 works by 18 composers: other composers' song (voice and keyboard) of the Classical period.
+3 works; set against 135 works by 18 composers: other composers' songs (voice and keyboard) of the Classical period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

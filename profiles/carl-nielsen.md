@@ -1,10 +1,10 @@
 # Carl Nielsen
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Carl Nielsen: hymn (voices), all
 
-12 works; set against 100 works by 23 composers: other composers' hymn, of any period and forces (range, register and density not compared).
+12 works; set against 100 works by 23 composers: other composers' hymns, of any period and forces (range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 4%, against 19% (12 in 100)
@@ -17,7 +17,7 @@
 
 ### Carl Nielsen: song (voices), all
 
-12 works; set against 400 works by 45 composers: other composers' song of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+12 works; set against 400 works by 45 composers: other composers' songs of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves by step: 68%, against 49% (86 in 100)
@@ -33,7 +33,7 @@
 
 ### Carl Nielsen: string quartet (string quartet), all
 
-4 works; set against 114 works by 19 composers: other composers' string quartet (string quartet) of the 1890 to 1950 period.
+4 works; set against 114 works by 19 composers: other composers' string quartets (string quartet) of the 1890 to 1950 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

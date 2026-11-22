@@ -1,10 +1,10 @@
 # Mauro Giuliani
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Mauro Giuliani: etude (plucked), all
 
-47 works; set against 24 works by 3 composers: other composers' etude (plucked) of the Romantic period.
+47 works; set against 24 works by 3 composers: other composers' etudes (plucked) of the Romantic period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - register of the melody: B3, against D4 (21 in 100)
@@ -18,7 +18,7 @@
 
 ### Mauro Giuliani: sonata (plucked), all
 
-3 works; set against 41 works by 7 composers: other composers' sonata of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 41 works by 7 composers: other composers' sonatas of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

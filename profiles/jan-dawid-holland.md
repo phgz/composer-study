@@ -1,10 +1,10 @@
 # Jan Dawid Holland
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Jan Dawid Holland: dance, all
 
-7 works; set against 190 works by 32 composers: other composers' dance of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+7 works; set against 190 works by 32 composers: other composers' dances of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 1.92, against 2.29 (25 in 100)
@@ -21,7 +21,7 @@
 
 ### Jan Dawid Holland: minuet, all
 
-6 works; set against 136 works by 18 composers: other composers' minuet of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+6 works; set against 136 works by 18 composers: other composers' minuets of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, pitch (bits a note): 1.89, against 2.34 (21 in 100)

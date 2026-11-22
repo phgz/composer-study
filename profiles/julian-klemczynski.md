@@ -1,10 +1,10 @@
 # Julian Klemczyński
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Julian Klemczyński: fantasia, all
 
-3 works; set against 21 works by 13 composers: other composers' fantasia of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 21 works by 13 composers: other composers' fantasias of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Julian Klemczyński: romance, all
 
-3 works; set against 21 works by 15 composers: other composers' romance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+3 works; set against 21 works by 15 composers: other composers' romances of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

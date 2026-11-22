@@ -1,10 +1,10 @@
 # Tadeusz Joteyko
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Tadeusz Joteyko: dance, all
 
-4 works; set against 91 works by 18 composers: other composers' dance of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 91 works by 18 composers: other composers' dances of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Tadeusz Joteyko: sonata, all
 
-12 works; set against 931 works by 45 composers: other composers' sonata, of any period and forces (range, register and density not compared).
+12 works; set against 931 works by 45 composers: other composers' sonatas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** nowhere that clearly.
 
@@ -31,7 +31,7 @@
 
 ### Tadeusz Joteyko: song, all
 
-14 works; set against 398 works by 45 composers: other composers' song of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
+14 works; set against 398 works by 45 composers: other composers' songs of the 1890 to 1950 period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 28%, against 12% (79 in 100)

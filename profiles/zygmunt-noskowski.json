@@ -316,20 +316,20 @@
    {
     "measure": "repeats",
     "value": 0.10394379645435833,
-    "others": 0.21693432884156225,
-    "auc": 0.20456469870947508
+    "others": 0.21765397785844745,
+    "auc": 0.20517477242680215
    },
    {
     "measure": "rhythm variety",
     "value": 1.928489327740511,
-    "others": 2.488351683884658,
-    "auc": 0.22032717646006056
+    "others": 2.4831867455421923,
+    "auc": 0.22236054183529078
    },
    {
     "measure": "surprise, rhythm",
     "value": 1.1324524988433924,
-    "others": 1.580763600524766,
-    "auc": 0.2231706645657588
+    "others": 1.5796306099731032,
+    "auc": 0.22376328176414986
    }
   ],
   "figures": [
@@ -344,10 +344,10 @@
      -2,
      0
     ],
-    "z": 8.5,
+    "z": 8.4,
     "works": 10,
     "per_1000": 2.6,
-    "others_per_1000": 0.2,
+    "others_per_1000": 0.3,
     "at": [
      {
       "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-66-n--001-009_noskowski-zygmunt--piesni-ludowe-op-51-hejze-ha-mazur.krn",
@@ -552,7 +552,7 @@
   ],
   "compared": {
    "by": "kind, period",
-   "works": 1145,
+   "works": 1134,
    "composers": 115
   }
  },

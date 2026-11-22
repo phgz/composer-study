@@ -1,10 +1,10 @@
 # Bartłomiej Pękiel
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Bartłomiej Pękiel: mass, all
 
-38 works; set against 158 works by 20 composers: other composers' mass of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
+38 works; set against 158 works by 20 composers: other composers' masses of the Baroque period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - the ear's surprise, rhythm (bits a note): 2.29, against 1.76 (85 in 100)
@@ -26,7 +26,7 @@
 
 ### Bartłomiej Pękiel: mass (voices), all
 
-6 works; set against 31 works by 3 composers: other composers' mass (voices) of the Baroque period.
+6 works; set against 31 works by 3 composers: other composers' masses (voices) of the Baroque period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 1.67, against 1.17 (82 in 100)

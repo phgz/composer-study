@@ -59,8 +59,8 @@
    {
     "measure": "steps",
     "value": 0.44458695991520675,
-    "others": 0.5386342177473677,
-    "auc": 0.24472046684690354
+    "others": 0.5386342177473676,
+    "auc": 0.24472046684690363
    }
   ],
   "figures": [
@@ -273,6 +273,181 @@
    "by": "kind, forces, period",
    "works": 487,
    "composers": 10
+  },
+  "harmony": {
+   "works": 6,
+   "by": {
+    "DCML": 6
+   },
+   "values": {
+    "chords a bar": 1.8310034299368694,
+    "tonic and dominant": 0.661605282726249,
+    "sevenths": 0.27102361930796376,
+    "diminished sevenths": 0.047692217751963285,
+    "applied chords": 0.10017635070650006,
+    "augmented sixths": 0.012133368550480852,
+    "Neapolitan": 0.004456327985739751,
+    "mixture": 0.0030868121777212682,
+    "inversions": 0.3355870377662744,
+    "keys a 10 bars": 0.25689296290287617,
+    "away from home": 0.3132138212883188,
+    "cadences a 10 bars": 1.4937678831730876,
+    "perfect cadences": 0.5111581404901596,
+    "half cadences": 0.2916812071510102,
+    "deceptive or evaded": 0.02559693232131562,
+    "changes": 0.13689675872711093,
+    "non-chord tones": 0.2061115058523103,
+    "struck dissonance": 0.182030094185438,
+    "resolved by step": 0.7364634242259256,
+    "suspensions": 0.0046357446774960565
+   },
+   "traits": [
+    {
+     "measure": "sevenths",
+     "value": 0.27102361930796376,
+     "others": 0.3175918679610268,
+     "auc": 0.2435897435897436
+    },
+    {
+     "measure": "inversions",
+     "value": 0.3355870377662744,
+     "others": 0.4286117249563903,
+     "auc": 0.12454212454212454
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.25689296290287617,
+     "others": 0.6253892043996675,
+     "auc": 0.11190476190476191
+    },
+    {
+     "measure": "changes",
+     "value": 0.13689675872711093,
+     "others": 0.10121155849898265,
+     "auc": 0.7571428571428571
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V",
+      "i64",
+      "V"
+     ],
+     "z": 3.7,
+     "works": 3,
+     "per_1000": 6.7,
+     "others_per_1000": 0.8,
+     "at": [
+      {
+       "work": "dcml/pleyel_quartets:notes/b309op2n3b.notes.tsv",
+       "label": "String Quartet in G minor, Op. 2, No. 3, B.309, movement 2: Allegro assai (DCML)",
+       "bar": 27
+      },
+      {
+       "work": "dcml/pleyel_quartets:notes/b307op2n1b.notes.tsv",
+       "label": "String Quartet in A major, Op. 2, No. 1, B.307, movement 2: Andante grazioso (DCML)",
+       "bar": 70
+      },
+      {
+       "work": "dcml/pleyel_quartets:notes/b309op2n3a.notes.tsv",
+       "label": "String Quartet in G minor, Op. 2, No. 3, B.309, movement 1: Adagio (DCML)",
+       "bar": 45
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii6",
+      "I64",
+      "V"
+     ],
+     "z": 3.3,
+     "works": 3,
+     "per_1000": 4.8,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/pleyel_quartets:notes/b307op2n1c.notes.tsv",
+       "label": "String Quartet in A major, Op. 2, No. 1, B.307, movement 3: Menuetto (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/pleyel_quartets:notes/b307op2n1a.notes.tsv",
+       "label": "String Quartet in A major, Op. 2, No. 1, B.307, movement 1: Allegro (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/pleyel_quartets:notes/b307op2n1b.notes.tsv",
+       "label": "String Quartet in A major, Op. 2, No. 1, B.307, movement 2: Andante grazioso (DCML)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i64",
+      "V",
+      "i"
+     ],
+     "z": 3.3,
+     "works": 4,
+     "per_1000": 7.6,
+     "others_per_1000": 1.4,
+     "at": [
+      {
+       "work": "dcml/pleyel_quartets:notes/b309op2n3b.notes.tsv",
+       "label": "String Quartet in G minor, Op. 2, No. 3, B.309, movement 2: Allegro assai (DCML)",
+       "bar": 160
+      },
+      {
+       "work": "dcml/pleyel_quartets:notes/b307op2n1b.notes.tsv",
+       "label": "String Quartet in A major, Op. 2, No. 1, B.307, movement 2: Andante grazioso (DCML)",
+       "bar": 71
+      },
+      {
+       "work": "dcml/pleyel_quartets:notes/b309op2n3a.notes.tsv",
+       "label": "String Quartet in G minor, Op. 2, No. 3, B.309, movement 1: Adagio (DCML)",
+       "bar": 45
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V",
+      "I6"
+     ],
+     "z": 3.2,
+     "works": 3,
+     "per_1000": 4.8,
+     "others_per_1000": 0.5,
+     "at": [
+      {
+       "work": "dcml/pleyel_quartets:notes/b307op2n1a.notes.tsv",
+       "label": "String Quartet in A major, Op. 2, No. 1, B.307, movement 1: Allegro (DCML)",
+       "bar": 25
+      },
+      {
+       "work": "dcml/pleyel_quartets:notes/b307op2n1c.notes.tsv",
+       "label": "String Quartet in A major, Op. 2, No. 1, B.307, movement 3: Menuetto (DCML)",
+       "bar": 72
+      },
+      {
+       "work": "dcml/pleyel_quartets:notes/b309op2n3a.notes.tsv",
+       "label": "String Quartet in G minor, Op. 2, No. 3, B.309, movement 1: Adagio (DCML)",
+       "bar": 18
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 91,
+    "composers": 2,
+    "progressions_by": "DCML",
+    "progressions_works": 70
+   }
   }
  },
  {

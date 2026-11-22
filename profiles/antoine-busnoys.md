@@ -1,10 +1,10 @@
 # Antoine Busnoys
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Antoine Busnoys: mass (voices), all
 
-5 works; set against 591 works by 27 composers: other composers' mass (voices) of the Before 1600 period.
+5 works; set against 591 works by 27 composers: other composers' masses (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 17%, against 12% (87 in 100)
@@ -28,7 +28,7 @@
 
 ### Antoine Busnoys: motet (voices), all
 
-3 works; set against 619 works by 18 composers: other composers' motet (voices) of the Before 1600 period.
+3 works; set against 619 works by 18 composers: other composers' motets (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -39,7 +39,7 @@
 
 ### Antoine Busnoys: song (voices), all
 
-57 works; set against 225 works by 19 composers: other composers' song (voices) of the Before 1600 period.
+57 works; set against 225 works by 19 composers: other composers' songs (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 0.87, against 1.57 (21 in 100)

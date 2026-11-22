@@ -59,26 +59,26 @@
    {
     "measure": "repeats",
     "value": 0.22266444184602752,
-    "others": 0.12291555674943071,
-    "auc": 0.8115389436431014
+    "others": 0.12291555674943068,
+    "auc": 0.8115389436431015
    },
    {
     "measure": "even",
     "value": 0.48382266920081896,
     "others": 0.6135535769949924,
-    "auc": 0.24574549617301278
+    "auc": 0.2457454961730128
    },
    {
     "measure": "rhythm variety",
     "value": 2.4676455237859147,
-    "others": 1.8552010511475339,
+    "others": 1.855201051147534,
     "auc": 0.7856368488020345
    },
    {
     "measure": "surprise, rhythm",
     "value": 1.7350695800745504,
     "others": 1.3052116016123199,
-    "auc": 0.7738945184423667
+    "auc": 0.7738945184423666
    }
   ],
   "figures": [
@@ -316,31 +316,31 @@
     "measure": "steps",
     "value": 0.6150331045400474,
     "others": 0.4966844394600496,
-    "auc": 0.7684155594364306
+    "auc": 0.7684155594364307
    },
    {
     "measure": "leaps",
     "value": 0.10304491421853819,
-    "others": 0.19304569367445143,
-    "auc": 0.2183402066019794
+    "others": 0.19304569367445146,
+    "auc": 0.21834020660197942
    },
    {
     "measure": "move",
     "value": 2.520520595476559,
-    "others": 3.4295654545986833,
+    "others": 3.429565454598683,
     "auc": 0.1936371506867057
    },
    {
     "measure": "leap answered",
     "value": 0.4808501683501684,
     "others": 0.23650836657878013,
-    "auc": 0.8616118675368319
+    "auc": 0.8616118675368317
    },
    {
     "measure": "surprise, rhythm",
     "value": 1.7075193248699412,
     "others": 1.2970286922447838,
-    "auc": 0.8241297412788242
+    "auc": 0.8241297412788245
    }
   ],
   "figures": [
@@ -520,7 +520,7 @@
     "measure": "steps",
     "value": 0.567381916155383,
     "others": 0.46346257656424694,
-    "auc": 0.7932367149758455
+    "auc": 0.7932367149758456
    },
    {
     "measure": "leaps",
@@ -538,7 +538,7 @@
     "measure": "register",
     "value": 71.2,
     "others": 73.82306763285025,
-    "auc": 0.17536231884057968
+    "auc": 0.1753623188405797
    }
   ],
   "figures": [
@@ -674,13 +674,13 @@
     "measure": "leap answered",
     "value": 0.13357802400512267,
     "others": 0.24353072479827756,
-    "auc": 0.17045759527643586
+    "auc": 0.1704575952764359
    },
    {
     "measure": "register",
     "value": 76.22222222222223,
     "others": 73.82306763285025,
-    "auc": 0.7734165324745035
+    "auc": 0.7734165324745034
    },
    {
     "measure": "density",
@@ -1037,8 +1037,8 @@
    {
     "measure": "leap answered",
     "value": 0.39528655105578187,
-    "others": 0.2542322782752247,
-    "auc": 0.7808319219609543
+    "others": 0.25423227827522465,
+    "auc": 0.7808319219609542
    }
   ],
   "figures": [
@@ -1358,7 +1358,7 @@
     "measure": "steps",
     "value": 0.567381916155383,
     "others": 0.46346257656424694,
-    "auc": 0.7932367149758455
+    "auc": 0.7932367149758456
    },
    {
     "measure": "leaps",
@@ -1376,7 +1376,7 @@
     "measure": "register",
     "value": 71.2,
     "others": 73.82306763285025,
-    "auc": 0.17536231884057968
+    "auc": 0.1753623188405797
    }
   ],
   "figures": [
@@ -1512,13 +1512,13 @@
     "measure": "leap answered",
     "value": 0.13357802400512267,
     "others": 0.24353072479827756,
-    "auc": 0.17045759527643586
+    "auc": 0.1704575952764359
    },
    {
     "measure": "register",
     "value": 76.22222222222223,
     "others": 73.82306763285025,
-    "auc": 0.7734165324745035
+    "auc": 0.7734165324745034
    },
    {
     "measure": "density",
@@ -1845,6 +1845,43 @@
    "by": "kind, forces, period",
    "works": 30,
    "composers": 5
+  },
+  "harmony": {
+   "works": 4,
+   "by": {
+    "DCML": 4
+   },
+   "values": {
+    "chords a bar": 2.0062604259552796,
+    "tonic and dominant": 0.6732516752666121,
+    "sevenths": 0.2432772953523672,
+    "diminished sevenths": 0.039269318156517505,
+    "applied chords": 0.07990177957479055,
+    "augmented sixths": 0.006645213875995733,
+    "Neapolitan": 0.001184834123222749,
+    "mixture": 0.0035972919470068443,
+    "inversions": 0.4396368342243016,
+    "keys a 10 bars": 0.3173774415899806,
+    "away from home": 0.2600471969540538,
+    "cadences a 10 bars": 1.4352235534484399,
+    "perfect cadences": 0.4152725744281721,
+    "half cadences": 0.350229352838461,
+    "deceptive or evaded": 0.17942433383609854,
+    "changes": 0.07975571401729077,
+    "non-chord tones": 0.2287714270804251,
+    "struck dissonance": 0.2464032080672265,
+    "resolved by step": 0.7878742049212908,
+    "suspensions": 0.0004127682993946065
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 25,
+    "composers": 3,
+    "progressions_by": "DCML",
+    "progressions_works": 24
+   }
   }
  },
  {
@@ -2158,6 +2195,212 @@
    "by": "kind, forces, period",
    "works": 279,
    "composers": 9
+  },
+  "harmony": {
+   "works": 27,
+   "by": {
+    "DCML": 27
+   },
+   "values": {
+    "chords a bar": 2.1995471429072944,
+    "tonic and dominant": 0.628510770811478,
+    "sevenths": 0.2573567053244681,
+    "diminished sevenths": 0.034008999821546475,
+    "applied chords": 0.10284879972592557,
+    "augmented sixths": 0.008625108046723553,
+    "Neapolitan": 0.0012837493154709927,
+    "mixture": 0.0037486609730894957,
+    "inversions": 0.4215614706260674,
+    "keys a 10 bars": 0.45610162604560084,
+    "away from home": 0.3328311912497115,
+    "cadences a 10 bars": 1.6652337346263832,
+    "perfect cadences": 0.4507741693789509,
+    "half cadences": 0.3375899759521996,
+    "deceptive or evaded": 0.1589263083052282,
+    "changes": 0.10097931266298096,
+    "non-chord tones": 0.2607504944604554,
+    "struck dissonance": 0.18638903431648443,
+    "resolved by step": 0.7563011252085494,
+    "suspensions": 0.003382140274905579
+   },
+   "traits": [],
+   "progressions": [
+    {
+     "chords": [
+      "I6",
+      "IV",
+      "I64"
+     ],
+     "z": 6.7,
+     "works": 16,
+     "per_1000": 6.1,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K311-3.notes.tsv",
+       "label": "Piano Sonata no. 9 in D major, K311, movement 3: Presto (DCML)",
+       "bar": 47
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K309-2.notes.tsv",
+       "label": "Piano Sonata no. 7 in C major, K309, movement 2: Andante un poco adagio (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K284-2.notes.tsv",
+       "label": "Piano Sonata no. 6 in D major, K284, movement 2: Rondo en Polonaise - Andante (DCML)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "ii6",
+      "I64"
+     ],
+     "z": 5.9,
+     "works": 15,
+     "per_1000": 6.3,
+     "others_per_1000": 1.6,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K283-1.notes.tsv",
+       "label": "Piano Sonata no. 5 in G major, K283, movement 1: Allegro (DCML)",
+       "bar": 36
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K282-3.notes.tsv",
+       "label": "Piano Sonata no. 4 in E flat major, K282, movement 3: Allegro (DCML)",
+       "bar": 20
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K280-1.notes.tsv",
+       "label": "Piano Sonata no. 2 in F major, K280, movement 1: Allegro assai (DCML)",
+       "bar": 22
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I64",
+      "V7"
+     ],
+     "z": 5.6,
+     "works": 16,
+     "per_1000": 6.7,
+     "others_per_1000": 2.0,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K281-3.notes.tsv",
+       "label": "Piano Sonata no. 3 in B flat major, K281, movement 3: Rondeau – Allegro (DCML)",
+       "bar": 13
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K311-3.notes.tsv",
+       "label": "Piano Sonata no. 9 in D major, K311, movement 3: Presto (DCML)",
+       "bar": 62
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K284-1.notes.tsv",
+       "label": "Piano Sonata no. 6 in D major, K284, movement 1: Allegro (DCML)",
+       "bar": 39
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii6",
+      "I64",
+      "V"
+     ],
+     "z": 5.2,
+     "works": 18,
+     "per_1000": 7.6,
+     "others_per_1000": 2.7,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K284-3.notes.tsv",
+       "label": "Piano Sonata no. 6 in D major, K284, movement 3: Andante (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K310-2.notes.tsv",
+       "label": "Piano Sonata no. 8 in A minor, K310, movement 2: Andante con espressione (DCML)",
+       "bar": 13
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K309-3.notes.tsv",
+       "label": "Piano Sonata no. 7 in C major, K309, movement 3: Rondeau – Allegretto grazioso (DCML)",
+       "bar": 15
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii6",
+      "I64",
+      "V7"
+     ],
+     "z": 5.1,
+     "works": 20,
+     "per_1000": 9.3,
+     "others_per_1000": 3.8,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K279-2.notes.tsv",
+       "label": "Piano Sonata no. 1 in C major, K279, movement 2: Andante (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K281-1.notes.tsv",
+       "label": "Piano Sonata no. 3 in B flat major, K281, movement 1: Allegro (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K284-3.notes.tsv",
+       "label": "Piano Sonata no. 6 in D major, K284, movement 3: Andante (DCML)",
+       "bar": 7
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I6",
+      "ii6"
+     ],
+     "z": 4.7,
+     "works": 6,
+     "per_1000": 1.9,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K283-1.notes.tsv",
+       "label": "Piano Sonata no. 5 in G major, K283, movement 1: Allegro (DCML)",
+       "bar": 35
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K279-1.notes.tsv",
+       "label": "Piano Sonata no. 1 in C major, K279, movement 1: Allegro (DCML)",
+       "bar": 15
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K282-3.notes.tsv",
+       "label": "Piano Sonata no. 4 in E flat major, K282, movement 3: Allegro (DCML)",
+       "bar": 36
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 226,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 217
+   }
   }
  },
  {
@@ -2407,6 +2650,212 @@
    "by": "kind, forces, period",
    "works": 279,
    "composers": 9
+  },
+  "harmony": {
+   "works": 27,
+   "by": {
+    "DCML": 27
+   },
+   "values": {
+    "chords a bar": 2.2327628459631375,
+    "tonic and dominant": 0.661666166774519,
+    "sevenths": 0.2583585728829548,
+    "diminished sevenths": 0.03650758102892994,
+    "applied chords": 0.10489071668234852,
+    "augmented sixths": 0.010225777781994337,
+    "Neapolitan": 0.0013951803068513082,
+    "mixture": 0.01090252584884602,
+    "inversions": 0.3995375945392506,
+    "keys a 10 bars": 0.5704169557411087,
+    "away from home": 0.32633346177052397,
+    "cadences a 10 bars": 1.6863957171634727,
+    "perfect cadences": 0.5211891543091118,
+    "half cadences": 0.3673409830821132,
+    "deceptive or evaded": 0.05977728980602545,
+    "changes": 0.1202047787343204,
+    "non-chord tones": 0.2889313029168523,
+    "struck dissonance": 0.21179573134041063,
+    "resolved by step": 0.7463444178548947,
+    "suspensions": 0.003101709256670532
+   },
+   "traits": [],
+   "progressions": [
+    {
+     "chords": [
+      "I6",
+      "ii6",
+      "I64"
+     ],
+     "z": 7.8,
+     "works": 19,
+     "per_1000": 8.2,
+     "others_per_1000": 1.6,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K570-2.notes.tsv",
+       "label": "Piano Sonata no. 17 in B flat major, K570, movement 2: Adagio (DCML)",
+       "bar": 4
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K333-3.notes.tsv",
+       "label": "Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K545-2.notes.tsv",
+       "label": "Piano Sonata no. 16 in C major, K545, movement 2: Andante (DCML)",
+       "bar": 14
+      }
+     ]
+    },
+    {
+     "chords": [
+      "ii6",
+      "I64",
+      "V7"
+     ],
+     "z": 6.7,
+     "works": 26,
+     "per_1000": 11.3,
+     "others_per_1000": 3.8,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K533-1.notes.tsv",
+       "label": "Piano Sonata no. 15 in F major, K533, movement 1: Allegro (DCML)",
+       "bar": 20
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K330-1.notes.tsv",
+       "label": "Piano Sonata no. 10 in C major, K330, movement 1: Allegro moderato (DCML)",
+       "bar": 32
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K533-3.notes.tsv",
+       "label": "Piano Sonata no. 15 in F major, K533, movement 3: Rondo – Allegretto (DCML)",
+       "bar": 11
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I6",
+      "V42",
+      "I6"
+     ],
+     "z": 5.5,
+     "works": 13,
+     "per_1000": 5.8,
+     "others_per_1000": 1.6,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K533-3.notes.tsv",
+       "label": "Piano Sonata no. 15 in F major, K533, movement 3: Rondo – Allegretto (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K330-1.notes.tsv",
+       "label": "Piano Sonata no. 10 in C major, K330, movement 1: Allegro moderato (DCML)",
+       "bar": 44
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K333-3.notes.tsv",
+       "label": "Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML)",
+       "bar": 25
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "IV64",
+      "I"
+     ],
+     "z": 5.4,
+     "works": 9,
+     "per_1000": 3.5,
+     "others_per_1000": 0.6,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K331-1.notes.tsv",
+       "label": "Piano Sonata no. 11 in A major, K331, movement 1: Andante grazioso (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K545-2.notes.tsv",
+       "label": "Piano Sonata no. 16 in C major, K545, movement 2: Andante (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K457-2.notes.tsv",
+       "label": "Piano Sonata no. 14 in C minor, K457, movement 2: Adagio (DCML)",
+       "bar": 47
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V6",
+      "I",
+      "ii6"
+     ],
+     "z": 5.3,
+     "works": 10,
+     "per_1000": 3.7,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K331-1.notes.tsv",
+       "label": "Piano Sonata no. 11 in A major, K331, movement 1: Andante grazioso (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K333-3.notes.tsv",
+       "label": "Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K570-3.notes.tsv",
+       "label": "Piano Sonata no. 17 in B flat major, K570, movement 3: Allegretto (DCML)",
+       "bar": 3
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V42",
+      "I6",
+      "V42"
+     ],
+     "z": 4.8,
+     "works": 10,
+     "per_1000": 4.3,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K333-3.notes.tsv",
+       "label": "Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML)",
+       "bar": 24
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K533-3.notes.tsv",
+       "label": "Piano Sonata no. 15 in F major, K533, movement 3: Rondo – Allegretto (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/mozart_piano_sonatas:notes/K330-1.notes.tsv",
+       "label": "Piano Sonata no. 10 in C major, K330, movement 1: Allegro moderato (DCML)",
+       "bar": 44
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "kind, forces, period",
+    "works": 226,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 217
+   }
   }
  },
  {
@@ -2438,12 +2887,12 @@
     "measure": "surprise, pitch",
     "value": 2.898147484588302,
     "others": 2.4456885338892937,
-    "auc": 0.8144549368451808
+    "auc": 0.8144549368451806
    },
    {
     "measure": "density",
     "value": 6.311324787580893,
-    "others": 4.37729736235406,
+    "others": 4.377297362354061,
     "auc": 0.7890379621111328
    }
   ],
@@ -3294,7 +3743,7 @@
     "measure": "even",
     "value": 0.7746810751147235,
     "others": 0.7011446414929794,
-    "auc": 0.7888888888888894
+    "auc": 0.788888888888889
    }
   ],
   "figures": [
@@ -3519,6 +3968,227 @@
    "by": "kind, period",
    "works": 22,
    "composers": 5
+  },
+  "harmony": {
+   "works": 5,
+   "by": {
+    "When in Rome": 5
+   },
+   "values": {
+    "chords a bar": 1.2118832012879968,
+    "tonic and dominant": 0.627084374934453,
+    "sevenths": 0.30679975414422106,
+    "diminished sevenths": 0.027571683619859833,
+    "applied chords": 0.1413045555423556,
+    "augmented sixths": 0.0008849557522123894,
+    "Neapolitan": 0.0,
+    "mixture": 0.006217820561821385,
+    "inversions": 0.32333504913989275,
+    "keys a 10 bars": 0.09332134657952103,
+    "away from home": 0.007964601769911504,
+    "non-chord tones": 0.3236784362933566,
+    "struck dissonance": 0.10364657899916889,
+    "resolved by step": 0.5996967152755431,
+    "suspensions": 0.0014093396444633693
+   },
+   "traits": [
+    {
+     "measure": "chords a bar",
+     "value": 1.2118832012879968,
+     "others": 2.3449543179694916,
+     "auc": 0.08034188034188035
+    },
+    {
+     "measure": "inversions",
+     "value": 0.32333504913989275,
+     "others": 0.4003223694286311,
+     "auc": 0.2264957264957265
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.3236784362933566,
+     "others": 0.2415623138691713,
+     "auc": 0.8299145299145299
+    },
+    {
+     "measure": "resolved by step",
+     "value": 0.5996967152755431,
+     "others": 0.7496620878574511,
+     "auc": 0.12735042735042734
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "ii65",
+      "V7",
+      "I"
+     ],
+     "z": 5.9,
+     "works": 4,
+     "per_1000": 9.2,
+     "others_per_1000": 0.7,
+     "at": [
+      {
+       "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+       "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+       "bar": 51
+      },
+      {
+       "work": "tavern-xml:Mozart/K613/Krn/K613.xml",
+       "label": "Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN)",
+       "bar": 137
+      },
+      {
+       "work": "tavern-xml:Mozart/K455/Krn/K455.xml",
+       "label": "Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN)",
+       "bar": 112
+      }
+     ]
+    },
+    {
+     "chords": [
+      "vi",
+      "ii65",
+      "V7"
+     ],
+     "z": 5.7,
+     "works": 3,
+     "per_1000": 5.9,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+       "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+       "bar": 51
+      },
+      {
+       "work": "tavern-xml:Mozart/K455/Krn/K455.xml",
+       "label": "Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN)",
+       "bar": 111
+      },
+      {
+       "work": "tavern-xml:Mozart/K501/Krn/K501.xml",
+       "label": "Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN)",
+       "bar": 97
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "vi"
+     ],
+     "z": 5.4,
+     "works": 4,
+     "per_1000": 9.2,
+     "others_per_1000": 1.0,
+     "at": [
+      {
+       "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+       "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+       "bar": 47
+      },
+      {
+       "work": "tavern-xml:Mozart/K455/Krn/K455.xml",
+       "label": "Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN)",
+       "bar": 7
+      },
+      {
+       "work": "tavern-xml:Mozart/K501/Krn/K501.xml",
+       "label": "Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN)",
+       "bar": 8
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V",
+      "I64"
+     ],
+     "z": 5.2,
+     "works": 2,
+     "per_1000": 5.0,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "tavern-xml:Mozart/K398/Krn/K398.xml",
+       "label": "Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN)",
+       "bar": 1
+      },
+      {
+       "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+       "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+       "bar": 32
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "vi",
+      "ii65"
+     ],
+     "z": 4.4,
+     "works": 3,
+     "per_1000": 4.2,
+     "others_per_1000": 0.2,
+     "at": [
+      {
+       "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+       "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+       "bar": 48
+      },
+      {
+       "work": "tavern-xml:Mozart/K501/Krn/K501.xml",
+       "label": "Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN)",
+       "bar": 97
+      },
+      {
+       "work": "tavern-xml:Mozart/K455/Krn/K455.xml",
+       "label": "Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN)",
+       "bar": 123
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7/IV",
+      "IV64",
+      "I"
+     ],
+     "z": 4.3,
+     "works": 3,
+     "per_1000": 4.2,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "tavern-xml:Mozart/K501/Krn/K501.xml",
+       "label": "Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN)",
+       "bar": 24
+      },
+      {
+       "work": "tavern-xml:Mozart/K398/Krn/K398.xml",
+       "label": "Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN)",
+       "bar": 78
+      },
+      {
+       "work": "tavern-xml:Mozart/K455/Krn/K455.xml",
+       "label": "Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN)",
+       "bar": 105
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 234,
+    "composers": 5,
+    "progressions_by": "both",
+    "progressions_works": 234
+   }
   }
  }
 ]

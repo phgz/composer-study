@@ -1,10 +1,10 @@
 # Béla Bartók
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Béla Bartók: bagatelle (keyboard), all
 
-14 works; set against 126 works by 9 composers: other composers' works for keyboard of the 1890 to 1950 period, of any kind (too few bagatelle).
+14 works; set against 126 works by 9 composers: other composers' works for keyboard of the 1890 to 1950 period, of any kind (too few bagatelles).
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - notes a quarter (texture): 4.09, against 6.45 (22 in 100)
@@ -19,9 +19,17 @@
 
 **All measures:** moves by step 42%; repeated notes 12%; leaps of a fourth or more 29%; mean move (semitones) 3.93; moves that rise 48%; leaps answered by a step back 19%; range of the melody (semitones) 23.2; register of the melody Bb4; even rhythm (a note as long as the one before) 62%; dotted figures (3:1) 9%; rhythmic variety (bits) 1.82; the ear's surprise, pitch (bits a note) 2.10; the ear's surprise, rhythm (bits a note) 1.20; notes a quarter (texture) 4.09; lines (texture) 2.0
 
+**Harmony**, from the analysts' labels of 14 of its works (14 DCML's); set against 35 works by 4 composers: other composers' labelled works for keyboard of the 1890 to 1950 period, of any kind. Changes of key and applied chords are compared within one analyst's labels.
+
+- of its cadences, deceptive or evaded: 34%, against 9% (76 in 100)
+- cadences a 10 bars (DCML): 0.87, against 1.12 (24 in 100)
+- applied chords (V/V and the like): 16%, against 36% (25 in 100)
+
+*All its harmony:* chords a bar 1.64; chords on I or V 41%; seventh chords 47%; diminished sevenths 2%; applied chords (V/V and the like) 16%; augmented sixths 1%; Neapolitan chords 1%; chords from the other mode 7%; chords over a bass not their root 30%; changes of key a 10 bars 0.45; chords away from the home key 21%; cadences a 10 bars (DCML) 0.87; of its cadences, perfect 8%; of its cadences, half 29%; of its cadences, deceptive or evaded 34%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 58%; melody notes outside the chord 41%; of those, struck with the chord (appoggiaturas) 24%; of those, resolved by a step 28%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%
+
 ### Béla Bartók: string quartet (string quartet), all
 
-8 works; set against 110 works by 19 composers: other composers' string quartet (string quartet) of the 1890 to 1950 period.
+8 works; set against 110 works by 19 composers: other composers' string quartets (string quartet) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - moves that rise: 53%, against 49% (79 in 100)

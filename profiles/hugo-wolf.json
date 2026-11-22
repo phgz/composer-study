@@ -28,7 +28,7 @@
     "measure": "register",
     "value": 71.84,
     "others": 69.34562992125984,
-    "auc": 0.789569553805774
+    "auc": 0.7895695538057741
    },
    {
     "measure": "density",
@@ -259,6 +259,74 @@
    "by": "kind, forces, period",
    "works": 284,
    "composers": 37
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "When in Rome": 7
+   },
+   "values": {
+    "chords a bar": 1.6824432426373481,
+    "tonic and dominant": 0.5511253238731639,
+    "sevenths": 0.3614927663986695,
+    "diminished sevenths": 0.05735093075746879,
+    "applied chords": 0.10864602997947008,
+    "augmented sixths": 0.011731781451553116,
+    "Neapolitan": 0.03759089327022269,
+    "mixture": 0.07658208589042188,
+    "inversions": 0.32867991362347787,
+    "keys a 10 bars": 1.7227909818512257,
+    "away from home": 0.40341991553283385,
+    "non-chord tones": 0.21491432037350405,
+    "struck dissonance": 0.13952016800534411,
+    "resolved by step": 0.6651752148574438,
+    "suspensions": 0.00834809748075054
+   },
+   "traits": [
+    {
+     "measure": "tonic and dominant",
+     "value": 0.5511253238731639,
+     "others": 0.3977701927988663,
+     "auc": 0.7991822991822991
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "V7",
+      "I"
+     ],
+     "z": 3.5,
+     "works": 6,
+     "per_1000": 22.3,
+     "others_per_1000": 1.8,
+     "at": [
+      {
+       "work": "openscore-lieder:Wolf,_Hugo/Eichendorff-Lieder/04_Das_Ständchen/lc5024834.mxl",
+       "label": "Eichendorff-Lieder, Das Ständchen (OpenScore)",
+       "bar": 12
+      },
+      {
+       "work": "openscore-lieder:Wolf,_Hugo/Eichendorff-Lieder/20_Waldmädchen/lc5077482.mxl",
+       "label": "Eichendorff-Lieder, Waldmädchen (OpenScore)",
+       "bar": 7
+      },
+      {
+       "work": "openscore-lieder:Wolf,_Hugo/Eichendorff-Lieder/13_Der_Scholar/lc5052792.mxl",
+       "label": "Eichendorff-Lieder, Der Scholar (OpenScore)",
+       "bar": 45
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "period",
+    "works": 58,
+    "composers": 7,
+    "progressions_by": "both",
+    "progressions_works": 58
+   }
   }
  },
  {
@@ -290,7 +358,7 @@
     "measure": "register",
     "value": 78.16666666666667,
     "others": 74.76842105263158,
-    "auc": 0.7848189020939446
+    "auc": 0.7848189020939444
    },
    {
     "measure": "even",
@@ -302,7 +370,7 @@
     "measure": "rhythm variety",
     "value": 2.7681941752689845,
     "others": 2.2506666878445927,
-    "auc": 0.81383701188455
+    "auc": 0.8138370118845498
    }
   ],
   "figures": [

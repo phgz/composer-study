@@ -36,6 +36,38 @@
    "by": "kind, forces, period",
    "works": 301,
    "composers": 37
+  },
+  "harmony": {
+   "works": 7,
+   "by": {
+    "When in Rome": 7
+   },
+   "values": {
+    "chords a bar": 1.402974124592991,
+    "tonic and dominant": 0.5357596112349452,
+    "sevenths": 0.37882896907819824,
+    "diminished sevenths": 0.0805643696830747,
+    "applied chords": 0.11331790426086417,
+    "augmented sixths": 0.024675324675324677,
+    "Neapolitan": 0.002976190476190476,
+    "mixture": 0.04544127934415704,
+    "inversions": 0.3957985916105135,
+    "keys a 10 bars": 1.5677931256661193,
+    "away from home": 0.3731499615492421,
+    "non-chord tones": 0.25279940415422975,
+    "struck dissonance": 0.24520939889603488,
+    "resolved by step": 0.6461561671815128,
+    "suspensions": 0.006061555231792393
+   },
+   "traits": [],
+   "progressions": [],
+   "compared": {
+    "by": "period",
+    "works": 58,
+    "composers": 7,
+    "progressions_by": "both",
+    "progressions_works": 58
+   }
   }
  }
 ]

@@ -1,10 +1,10 @@
 # Claudio Monteverdi
 
-3 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+3 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Claudio Monteverdi: madrigal (voices), Venice
 
-3 works; set against 157 works by 6 composers: other composers' madrigal (voices) of the Before 1600 period.
+3 works; set against 157 works by 6 composers: other composers' madrigals (voices) of the Before 1600 period.
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -13,9 +13,15 @@
 
 **All measures:** moves by step 44%; repeated notes 37%; leaps of a fourth or more 12%; mean move (semitones) 2.62; moves that rise 51%; leaps answered by a step back 13%; range of the melody (semitones) 9.7; register of the melody F#4; even rhythm (a note as long as the one before) 32%; dotted figures (3:1) 19%; rhythmic variety (bits) 2.95; the ear's surprise, pitch (bits a note) 2.65; the ear's surprise, rhythm (bits a note) 2.01; notes a quarter (texture) 1.49; lines (texture) 4.7
 
+**Harmony**, from the analysts' labels of 3 of its works (3 DCML's); set against 0 works by 0 composers: nothing: too few labelled works by others. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: not asked (fewer than 5 labelled works)
+
+*All its harmony:* chords a bar 2.30; chords on I or V 50%; seventh chords 10%; diminished sevenths 3%; applied chords (V/V and the like) 5%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 2%; chords over a bass not their root 42%; changes of key a 10 bars 0.76; chords away from the home key 60%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 18%; melody notes outside the chord 10%; of those, struck with the chord (appoggiaturas) 50%; of those, resolved by a step 57%; melody notes held into a chord they are not in, then falling a step (suspensions) 2%
+
 ### Claudio Monteverdi: madrigal (voices), early
 
-20 works; set against 157 works by 6 composers: other composers' madrigal (voices) of the Before 1600 period.
+20 works; set against 157 works by 6 composers: other composers' madrigals (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - dotted figures (3:1): 8%, against 15% (15 in 100)
@@ -35,9 +41,15 @@
 
 **All measures:** moves by step 53%; repeated notes 30%; leaps of a fourth or more 9%; mean move (semitones) 2.55; moves that rise 46%; leaps answered by a step back 32%; range of the melody (semitones) 12.0; register of the melody B4; even rhythm (a note as long as the one before) 45%; dotted figures (3:1) 8%; rhythmic variety (bits) 2.51; the ear's surprise, pitch (bits a note) 2.61; the ear's surprise, rhythm (bits a note) 2.00; notes a quarter (texture) 2.53; lines (texture) 5.0
 
+**Harmony**, from the analysts' labels of 17 of its works (2 DCML's and 15 When in Rome's); set against 0 works by 0 composers: nothing: too few labelled works by others. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: nowhere that clearly
+
+*All its harmony:* chords a bar 1.66; chords on I or V 59%; seventh chords 5%; diminished sevenths 0%; applied chords (V/V and the like) 2%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 3%; chords over a bass not their root 28%; changes of key a 10 bars 1.33; chords away from the home key 52%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 11%; melody notes outside the chord 12%; of those, struck with the chord (appoggiaturas) 14%; of those, resolved by a step 87%; melody notes held into a chord they are not in, then falling a step (suspensions) 2%
+
 ### Claudio Monteverdi: madrigal (voices), seconda pratica
 
-33 works; set against 157 works by 6 composers: other composers' madrigal (voices) of the Before 1600 period.
+33 works; set against 157 works by 6 composers: other composers' madrigals (voices) of the Before 1600 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - repeated notes: 35%, against 18% (91 in 100)
@@ -54,3 +66,9 @@
 - same, same, same (as long, as long, as long): 4.3 in 1,000 figures, against 0.6, in 13 works. At: Il quarto libro de madrigali, SV 93, movement 19: Piagn’e sospira e quandi caldi raggi (DCML), bar 38 (A4 A4 A4 A4); Il quarto libro de madrigali, no. 12: Ohime`, se tanto amate (music21), bar 5 (C5 C5 C5 C5); Il quarto libro de madrigali, no. 6: Anima mia, perdona (music21), bar 23 (D5 D5 D5 D5)
 
 **All measures:** moves by step 48%; repeated notes 35%; leaps of a fourth or more 10%; mean move (semitones) 2.65; moves that rise 49%; leaps answered by a step back 28%; range of the melody (semitones) 12.3; register of the melody B4; even rhythm (a note as long as the one before) 40%; dotted figures (3:1) 10%; rhythmic variety (bits) 2.75; the ear's surprise, pitch (bits a note) 2.68; the ear's surprise, rhythm (bits a note) 2.09; notes a quarter (texture) 2.61; lines (texture) 5.1
+
+**Harmony**, from the analysts' labels of 21 of its works (12 DCML's and 9 When in Rome's); set against 0 works by 0 composers: nothing: too few labelled works by others. Changes of key and applied chords are compared within one analyst's labels.
+
+- where it stands apart: nowhere that clearly
+
+*All its harmony:* chords a bar 1.72; chords on I or V 60%; seventh chords 5%; diminished sevenths 0%; applied chords (V/V and the like) 3%; augmented sixths 0%; Neapolitan chords 0%; chords from the other mode 6%; chords over a bass not their root 23%; changes of key a 10 bars 1.52; chords away from the home key 52%; chords labelled with a note in place of one of theirs, or added (V(4)), DCML 12%; melody notes outside the chord 13%; of those, struck with the chord (appoggiaturas) 17%; of those, resolved by a step 83%; melody notes held into a chord they are not in, then falling a step (suspensions) 0%

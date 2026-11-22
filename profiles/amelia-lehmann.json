@@ -66,7 +66,7 @@
      -2,
      0
     ],
-    "z": 6.2,
+    "z": 6.4,
     "works": 2,
     "per_1000": 5.8,
     "others_per_1000": 0.1,
@@ -96,7 +96,7 @@
      0,
      2
     ],
-    "z": 4.4,
+    "z": 4.6,
     "works": 2,
     "per_1000": 5.8,
     "others_per_1000": 0.4,
@@ -118,7 +118,7 @@
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1094,
+   "works": 1083,
    "composers": 97
   }
  }

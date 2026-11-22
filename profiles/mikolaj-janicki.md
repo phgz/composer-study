@@ -1,10 +1,10 @@
 # Mikołaj Janicki
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Mikołaj Janicki: rondo, all
 
-4 works; set against 68 works by 16 composers: other composers' rondo of the Classical period, for any forces (too few for these forces: range, register and density not compared).
+4 works; set against 68 works by 16 composers: other composers' rondos of the Classical period, for any forces (too few for these forces: range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 

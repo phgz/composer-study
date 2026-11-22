@@ -1,10 +1,10 @@
 # Leoš Janáček
 
-2 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+2 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Leoš Janáček: sonata (string quartet), all
 
-4 works; set against 939 works by 45 composers: other composers' sonata, of any period and forces (range, register and density not compared).
+4 works; set against 939 works by 45 composers: other composers' sonatas, of any period and forces (range, register and density not compared).
 
 **Where it stands apart:** not asked (fewer than 5 works).
 
@@ -15,7 +15,7 @@
 
 ### Leoš Janáček: string quartet (string quartet), all
 
-8 works; set against 110 works by 19 composers: other composers' string quartet (string quartet) of the 1890 to 1950 period.
+8 works; set against 110 works by 19 composers: other composers' string quartets (string quartet) of the 1890 to 1950 period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - leaps answered by a step back: 11%, against 27% (9 in 100)

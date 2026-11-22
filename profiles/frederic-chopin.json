@@ -360,6 +360,237 @@
    "by": "kind, period",
    "works": 347,
    "composers": 57
+  },
+  "harmony": {
+   "works": 29,
+   "by": {
+    "DCML": 29
+   },
+   "values": {
+    "chords a bar": 1.7402733181966181,
+    "tonic and dominant": 0.5806767384005601,
+    "sevenths": 0.4151475041376555,
+    "diminished sevenths": 0.040283085086261605,
+    "applied chords": 0.22188061989834817,
+    "augmented sixths": 0.006952470887503085,
+    "Neapolitan": 0.008333348837140441,
+    "mixture": 0.024114865430834808,
+    "inversions": 0.19048874128182466,
+    "keys a 10 bars": 0.3117544561053961,
+    "away from home": 0.2955544094613802,
+    "cadences a 10 bars": 0.7719713440734742,
+    "perfect cadences": 0.582518304740527,
+    "half cadences": 0.1625113569558014,
+    "deceptive or evaded": 0.015432098765432098,
+    "changes": 0.2417873460008879,
+    "non-chord tones": 0.30982998832699604,
+    "struck dissonance": 0.3258960095744674,
+    "resolved by step": 0.7391769985084069,
+    "suspensions": 0.00553925382019799
+   },
+   "traits": [
+    {
+     "measure": "inversions",
+     "value": 0.19048874128182466,
+     "others": 0.37419874165151584,
+     "auc": 0.15636147443519618
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.3117544561053961,
+     "others": 1.0480146795480274,
+     "auc": 0.20005945303210468
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 0.7719713440734742,
+     "others": 1.7041549154100484,
+     "auc": 0.17302955665024633
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.30982998832699604,
+     "others": 0.219988537059495,
+     "auc": 0.7657550535077288
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V7/V",
+      "V7",
+      "I"
+     ],
+     "z": 4.9,
+     "works": 11,
+     "per_1000": 9.6,
+     "others_per_1000": 1.0,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI140.notes.tsv",
+       "label": "Mazurka, BI140 (DCML)",
+       "bar": 19
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI93-1op67-1.notes.tsv",
+       "label": "Mazurkas, Op. posth. 67, movement 1 (DCML)",
+       "bar": 13
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI126-4op41-3.notes.tsv",
+       "label": "Mazurkas, Op. 41, movement 3 (DCML)",
+       "bar": 7
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "V7"
+     ],
+     "z": 4.6,
+     "works": 21,
+     "per_1000": 20.0,
+     "others_per_1000": 7.3,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+       "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI85.notes.tsv",
+       "label": "Mazurka, BI85 (DCML)",
+       "bar": 10
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI89-1op24-1.notes.tsv",
+       "label": "Mazurkas, Op. 24, movement 1 (DCML)",
+       "bar": 17
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "IV"
+     ],
+     "z": 4.5,
+     "works": 12,
+     "per_1000": 10.0,
+     "others_per_1000": 1.9,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI126-1op41-4.notes.tsv",
+       "label": "Mazurkas, Op. 41, movement 4 (DCML)",
+       "bar": 15
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI126-4op41-3.notes.tsv",
+       "label": "Mazurkas, Op. 41, movement 3 (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI93-1op67-1.notes.tsv",
+       "label": "Mazurkas, Op. posth. 67, movement 1 (DCML)",
+       "bar": 14
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V7",
+      "I"
+     ],
+     "z": 3.9,
+     "works": 22,
+     "per_1000": 20.7,
+     "others_per_1000": 9.2,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+       "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI122op41-2.notes.tsv",
+       "label": "Mazurkas, Op. 41, movement 2 (DCML)",
+       "bar": 17
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI77-1op17-1.notes.tsv",
+       "label": "Mazurkas, Op. 17, movement 1 (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "V7/V",
+      "V7"
+     ],
+     "z": 3.2,
+     "works": 5,
+     "per_1000": 3.8,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI145-2op50-2.notes.tsv",
+       "label": "Mazurkas, Op. 50, movement 2 (DCML)",
+       "bar": 27
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI77-1op17-1.notes.tsv",
+       "label": "Mazurkas, Op. 17, movement 1 (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+       "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+       "bar": 54
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i",
+      "V7",
+      "i"
+     ],
+     "z": 3.2,
+     "works": 12,
+     "per_1000": 11.1,
+     "others_per_1000": 4.4,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI105-4op30-4.notes.tsv",
+       "label": "Mazurkas, Op. 30, movement 4 (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI115-4op33-4.notes.tsv",
+       "label": "Mazurkas, Op. 33, movement 4 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI77-2op17-2.notes.tsv",
+       "label": "Mazurkas, Op. 17, movement 2 (DCML)",
+       "bar": 8
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 58,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 58
+   }
   }
  },
  {
@@ -390,13 +621,13 @@
    {
     "measure": "long-short",
     "value": 0.21480934209841118,
-    "others": 0.09804030187633554,
+    "others": 0.09804030187633556,
     "auc": 0.7975581435625451
    },
    {
     "measure": "surprise, pitch",
     "value": 1.7755297635568208,
-    "others": 2.2144292944595803,
+    "others": 2.21442929445958,
     "auc": 0.2460180416047749
    }
   ],
@@ -622,6 +853,198 @@
    "by": "kind, period",
    "works": 347,
    "composers": 57
+  },
+  "harmony": {
+   "works": 14,
+   "by": {
+    "DCML": 14
+   },
+   "values": {
+    "chords a bar": 1.8488348630375355,
+    "tonic and dominant": 0.6533050109054314,
+    "sevenths": 0.3557228606916553,
+    "diminished sevenths": 0.028581920982275487,
+    "applied chords": 0.18401187093329047,
+    "augmented sixths": 0.009476637048176821,
+    "Neapolitan": 0.0012755102040816326,
+    "mixture": 0.029263060719866757,
+    "inversions": 0.21454473172662267,
+    "keys a 10 bars": 0.36926330770315735,
+    "away from home": 0.190246088944323,
+    "cadences a 10 bars": 1.2296137466163344,
+    "perfect cadences": 0.6605859010270775,
+    "half cadences": 0.17766884531590413,
+    "deceptive or evaded": 0.0,
+    "changes": 0.1868237118387388,
+    "non-chord tones": 0.25107548932996454,
+    "struck dissonance": 0.27584965276248896,
+    "resolved by step": 0.7968093196779841,
+    "suspensions": 0.003395955319667917
+   },
+   "traits": [
+    {
+     "measure": "inversions",
+     "value": 0.21454473172662267,
+     "others": 0.37419874165151584,
+     "auc": 0.21059113300492613
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.36926330770315735,
+     "others": 1.0480146795480274,
+     "auc": 0.2210591133004926
+    },
+    {
+     "measure": "perfect cadences",
+     "value": 0.6605859010270775,
+     "others": 0.328823695336685,
+     "auc": 0.8601190476190474
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "IV",
+      "I"
+     ],
+     "z": 4.9,
+     "works": 6,
+     "per_1000": 20.1,
+     "others_per_1000": 2.0,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI34op68-3.notes.tsv",
+       "label": "Mazurkas, Op. posth. 68, movement 3 (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-1op07-1.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 1 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-3op07-3.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 3 (DCML)",
+       "bar": 42
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I",
+      "IV"
+     ],
+     "z": 3.6,
+     "works": 4,
+     "per_1000": 8.8,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI34op68-3.notes.tsv",
+       "label": "Mazurkas, Op. posth. 68, movement 3 (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-3op07-3.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 3 (DCML)",
+       "bar": 43
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-4op07-4.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 4 (DCML)",
+       "bar": 33
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V7/V",
+      "V"
+     ],
+     "z": 3.6,
+     "works": 3,
+     "per_1000": 8.8,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI60-3op06-3.notes.tsv",
+       "label": "Mazurkas, Op. 6, movement 3 (DCML)",
+       "bar": 14
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-3op07-3.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 3 (DCML)",
+       "bar": 46
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI38op68-1.notes.tsv",
+       "label": "Mazurkas, Op. posth. 68, movement 1 (DCML)",
+       "bar": 20
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I64",
+      "V7"
+     ],
+     "z": 3.3,
+     "works": 3,
+     "per_1000": 10.0,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-5op07-5.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 5 (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI16-1.notes.tsv",
+       "label": "Mazurkas, BI16-1, movement 1 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI16-2.notes.tsv",
+       "label": "Mazurkas, BI16-2, movement 2 (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV6",
+      "I64",
+      "V7"
+     ],
+     "z": 3.1,
+     "works": 2,
+     "per_1000": 6.3,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-4op07-4.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 4 (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI16-1.notes.tsv",
+       "label": "Mazurkas, BI16-1, movement 1 (DCML)",
+       "bar": 26
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 58,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 58
+   }
   }
  },
  {
@@ -871,6 +1294,137 @@
    "by": "kind, period",
    "works": 347,
    "composers": 57
+  },
+  "harmony": {
+   "works": 12,
+   "by": {
+    "DCML": 12
+   },
+   "values": {
+    "chords a bar": 1.8070722934466799,
+    "tonic and dominant": 0.5071740860709714,
+    "sevenths": 0.45462305691665894,
+    "diminished sevenths": 0.029032477894878506,
+    "applied chords": 0.29905001368870665,
+    "augmented sixths": 0.025740302912554597,
+    "Neapolitan": 0.004246770928794776,
+    "mixture": 0.00697663949803354,
+    "inversions": 0.26380898049372037,
+    "keys a 10 bars": 0.30167819259453826,
+    "away from home": 0.22414788872108385,
+    "cadences a 10 bars": 0.5713286138111336,
+    "perfect cadences": 0.7621212121212121,
+    "half cadences": 0.12424242424242425,
+    "deceptive or evaded": 0.009090909090909092,
+    "changes": 0.21801418827494454,
+    "non-chord tones": 0.3305197734997545,
+    "struck dissonance": 0.2648362549291979,
+    "resolved by step": 0.6503145364470225,
+    "suspensions": 0.005064186887267881
+   },
+   "traits": [
+    {
+     "measure": "applied chords",
+     "value": 0.29905001368870665,
+     "others": 0.15097967455528444,
+     "auc": 0.846264367816092
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.30167819259453826,
+     "others": 1.0480146795480274,
+     "auc": 0.1867816091954023
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 0.5713286138111336,
+     "others": 1.7041549154100484,
+     "auc": 0.09821428571428571
+    },
+    {
+     "measure": "perfect cadences",
+     "value": 0.7621212121212121,
+     "others": 0.328823695336685,
+     "auc": 0.8595779220779222
+    },
+    {
+     "measure": "half cadences",
+     "value": 0.12424242424242425,
+     "others": 0.33905359897168663,
+     "auc": 0.21185064935064937
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.3305197734997545,
+     "others": 0.219988537059495,
+     "auc": 0.8261494252873561
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V7/V",
+      "V7",
+      "I"
+     ],
+     "z": 3.7,
+     "works": 7,
+     "per_1000": 7.8,
+     "others_per_1000": 1.0,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI162-1op63-1.notes.tsv",
+       "label": "Mazurkas, Op. 63, movement 1 (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+       "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+       "bar": 117
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI157-2op59-2.notes.tsv",
+       "label": "Mazurkas, Op. 59, movement 2 (DCML)",
+       "bar": 7
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7/V",
+      "V",
+      "V7/V"
+     ],
+     "z": 3.3,
+     "works": 4,
+     "per_1000": 5.8,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+       "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+       "bar": 110
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI162-1op63-1.notes.tsv",
+       "label": "Mazurkas, Op. 63, movement 1 (DCML)",
+       "bar": 61
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI157-3op59-3.notes.tsv",
+       "label": "Mazurkas, Op. 59, movement 3 (DCML)",
+       "bar": 52
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 58,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 58
+   }
   }
  },
  {
@@ -1182,8 +1736,8 @@
    {
     "measure": "surprise, pitch",
     "value": 1.8295443903132549,
-    "others": 2.535488664505022,
-    "auc": 0.1882017074159565
+    "others": 2.5354886645050216,
+    "auc": 0.18820170741595652
    }
   ],
   "figures": [
@@ -1653,6 +2207,237 @@
    "by": "kind, period",
    "works": 81,
    "composers": 19
+  },
+  "harmony": {
+   "works": 29,
+   "by": {
+    "DCML": 29
+   },
+   "values": {
+    "chords a bar": 1.7402733181966181,
+    "tonic and dominant": 0.5806767384005601,
+    "sevenths": 0.4151475041376555,
+    "diminished sevenths": 0.040283085086261605,
+    "applied chords": 0.22188061989834817,
+    "augmented sixths": 0.006952470887503085,
+    "Neapolitan": 0.008333348837140441,
+    "mixture": 0.024114865430834808,
+    "inversions": 0.19048874128182466,
+    "keys a 10 bars": 0.3117544561053961,
+    "away from home": 0.2955544094613802,
+    "cadences a 10 bars": 0.7719713440734742,
+    "perfect cadences": 0.582518304740527,
+    "half cadences": 0.1625113569558014,
+    "deceptive or evaded": 0.015432098765432098,
+    "changes": 0.2417873460008879,
+    "non-chord tones": 0.30982998832699604,
+    "struck dissonance": 0.3258960095744674,
+    "resolved by step": 0.7391769985084069,
+    "suspensions": 0.00553925382019799
+   },
+   "traits": [
+    {
+     "measure": "inversions",
+     "value": 0.19048874128182466,
+     "others": 0.37419874165151584,
+     "auc": 0.15636147443519618
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.3117544561053961,
+     "others": 1.0480146795480274,
+     "auc": 0.20005945303210468
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 0.7719713440734742,
+     "others": 1.7041549154100484,
+     "auc": 0.17302955665024633
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.30982998832699604,
+     "others": 0.219988537059495,
+     "auc": 0.7657550535077288
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V7/V",
+      "V7",
+      "I"
+     ],
+     "z": 4.9,
+     "works": 11,
+     "per_1000": 9.6,
+     "others_per_1000": 1.0,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI140.notes.tsv",
+       "label": "Mazurka, BI140 (DCML)",
+       "bar": 19
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI93-1op67-1.notes.tsv",
+       "label": "Mazurkas, Op. posth. 67, movement 1 (DCML)",
+       "bar": 13
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI126-4op41-3.notes.tsv",
+       "label": "Mazurkas, Op. 41, movement 3 (DCML)",
+       "bar": 7
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "V7"
+     ],
+     "z": 4.6,
+     "works": 21,
+     "per_1000": 20.0,
+     "others_per_1000": 7.3,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+       "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI85.notes.tsv",
+       "label": "Mazurka, BI85 (DCML)",
+       "bar": 10
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI89-1op24-1.notes.tsv",
+       "label": "Mazurkas, Op. 24, movement 1 (DCML)",
+       "bar": 17
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I",
+      "IV"
+     ],
+     "z": 4.5,
+     "works": 12,
+     "per_1000": 10.0,
+     "others_per_1000": 1.9,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI126-1op41-4.notes.tsv",
+       "label": "Mazurkas, Op. 41, movement 4 (DCML)",
+       "bar": 15
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI126-4op41-3.notes.tsv",
+       "label": "Mazurkas, Op. 41, movement 3 (DCML)",
+       "bar": 8
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI93-1op67-1.notes.tsv",
+       "label": "Mazurkas, Op. posth. 67, movement 1 (DCML)",
+       "bar": 14
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V7",
+      "I"
+     ],
+     "z": 3.9,
+     "works": 22,
+     "per_1000": 20.7,
+     "others_per_1000": 9.2,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+       "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI122op41-2.notes.tsv",
+       "label": "Mazurkas, Op. 41, movement 2 (DCML)",
+       "bar": 17
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI77-1op17-1.notes.tsv",
+       "label": "Mazurkas, Op. 17, movement 1 (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V",
+      "V7/V",
+      "V7"
+     ],
+     "z": 3.2,
+     "works": 5,
+     "per_1000": 3.8,
+     "others_per_1000": 0.3,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI145-2op50-2.notes.tsv",
+       "label": "Mazurkas, Op. 50, movement 2 (DCML)",
+       "bar": 27
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI77-1op17-1.notes.tsv",
+       "label": "Mazurkas, Op. 17, movement 1 (DCML)",
+       "bar": 12
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+       "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+       "bar": 54
+      }
+     ]
+    },
+    {
+     "chords": [
+      "i",
+      "V7",
+      "i"
+     ],
+     "z": 3.2,
+     "works": 12,
+     "per_1000": 11.1,
+     "others_per_1000": 4.4,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI105-4op30-4.notes.tsv",
+       "label": "Mazurkas, Op. 30, movement 4 (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI115-4op33-4.notes.tsv",
+       "label": "Mazurkas, Op. 33, movement 4 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI77-2op17-2.notes.tsv",
+       "label": "Mazurkas, Op. 17, movement 2 (DCML)",
+       "bar": 8
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 58,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 58
+   }
   }
  },
  {
@@ -1884,6 +2669,198 @@
    "by": "kind, period",
    "works": 81,
    "composers": 19
+  },
+  "harmony": {
+   "works": 14,
+   "by": {
+    "DCML": 14
+   },
+   "values": {
+    "chords a bar": 1.8488348630375355,
+    "tonic and dominant": 0.6533050109054314,
+    "sevenths": 0.3557228606916553,
+    "diminished sevenths": 0.028581920982275487,
+    "applied chords": 0.18401187093329047,
+    "augmented sixths": 0.009476637048176821,
+    "Neapolitan": 0.0012755102040816326,
+    "mixture": 0.029263060719866757,
+    "inversions": 0.21454473172662267,
+    "keys a 10 bars": 0.36926330770315735,
+    "away from home": 0.190246088944323,
+    "cadences a 10 bars": 1.2296137466163344,
+    "perfect cadences": 0.6605859010270775,
+    "half cadences": 0.17766884531590413,
+    "deceptive or evaded": 0.0,
+    "changes": 0.1868237118387388,
+    "non-chord tones": 0.25107548932996454,
+    "struck dissonance": 0.27584965276248896,
+    "resolved by step": 0.7968093196779841,
+    "suspensions": 0.003395955319667917
+   },
+   "traits": [
+    {
+     "measure": "inversions",
+     "value": 0.21454473172662267,
+     "others": 0.37419874165151584,
+     "auc": 0.21059113300492613
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.36926330770315735,
+     "others": 1.0480146795480274,
+     "auc": 0.2210591133004926
+    },
+    {
+     "measure": "perfect cadences",
+     "value": 0.6605859010270775,
+     "others": 0.328823695336685,
+     "auc": 0.8601190476190474
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "I",
+      "IV",
+      "I"
+     ],
+     "z": 4.9,
+     "works": 6,
+     "per_1000": 20.1,
+     "others_per_1000": 2.0,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI34op68-3.notes.tsv",
+       "label": "Mazurkas, Op. posth. 68, movement 3 (DCML)",
+       "bar": 6
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-1op07-1.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 1 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-3op07-3.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 3 (DCML)",
+       "bar": 42
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV",
+      "I",
+      "IV"
+     ],
+     "z": 3.6,
+     "works": 4,
+     "per_1000": 8.8,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI34op68-3.notes.tsv",
+       "label": "Mazurkas, Op. posth. 68, movement 3 (DCML)",
+       "bar": 5
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-3op07-3.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 3 (DCML)",
+       "bar": 43
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-4op07-4.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 4 (DCML)",
+       "bar": 33
+      }
+     ]
+    },
+    {
+     "chords": [
+      "I",
+      "V7/V",
+      "V"
+     ],
+     "z": 3.6,
+     "works": 3,
+     "per_1000": 8.8,
+     "others_per_1000": 0.4,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI60-3op06-3.notes.tsv",
+       "label": "Mazurkas, Op. 6, movement 3 (DCML)",
+       "bar": 14
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-3op07-3.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 3 (DCML)",
+       "bar": 46
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI38op68-1.notes.tsv",
+       "label": "Mazurkas, Op. posth. 68, movement 1 (DCML)",
+       "bar": 20
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7",
+      "I64",
+      "V7"
+     ],
+     "z": 3.3,
+     "works": 3,
+     "per_1000": 10.0,
+     "others_per_1000": 1.2,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-5op07-5.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 5 (DCML)",
+       "bar": 1
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI16-1.notes.tsv",
+       "label": "Mazurkas, BI16-1, movement 1 (DCML)",
+       "bar": 2
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI16-2.notes.tsv",
+       "label": "Mazurkas, BI16-2, movement 2 (DCML)",
+       "bar": 2
+      }
+     ]
+    },
+    {
+     "chords": [
+      "IV6",
+      "I64",
+      "V7"
+     ],
+     "z": 3.1,
+     "works": 2,
+     "per_1000": 6.3,
+     "others_per_1000": 0.1,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI61-4op07-4.notes.tsv",
+       "label": "Mazurkas, Op. 7, movement 4 (DCML)",
+       "bar": 3
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI16-1.notes.tsv",
+       "label": "Mazurkas, BI16-1, movement 1 (DCML)",
+       "bar": 26
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 58,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 58
+   }
   }
  },
  {
@@ -1915,7 +2892,7 @@
     "measure": "even",
     "value": 0.5396719612669023,
     "others": 0.39140803660637397,
-    "auc": 0.8127134277184572
+    "auc": 0.8127134277184571
    },
    {
     "measure": "rhythm variety",
@@ -2146,6 +3123,137 @@
    "by": "kind, period",
    "works": 81,
    "composers": 19
+  },
+  "harmony": {
+   "works": 12,
+   "by": {
+    "DCML": 12
+   },
+   "values": {
+    "chords a bar": 1.8070722934466799,
+    "tonic and dominant": 0.5071740860709714,
+    "sevenths": 0.45462305691665894,
+    "diminished sevenths": 0.029032477894878506,
+    "applied chords": 0.29905001368870665,
+    "augmented sixths": 0.025740302912554597,
+    "Neapolitan": 0.004246770928794776,
+    "mixture": 0.00697663949803354,
+    "inversions": 0.26380898049372037,
+    "keys a 10 bars": 0.30167819259453826,
+    "away from home": 0.22414788872108385,
+    "cadences a 10 bars": 0.5713286138111336,
+    "perfect cadences": 0.7621212121212121,
+    "half cadences": 0.12424242424242425,
+    "deceptive or evaded": 0.009090909090909092,
+    "changes": 0.21801418827494454,
+    "non-chord tones": 0.3305197734997545,
+    "struck dissonance": 0.2648362549291979,
+    "resolved by step": 0.6503145364470225,
+    "suspensions": 0.005064186887267881
+   },
+   "traits": [
+    {
+     "measure": "applied chords",
+     "value": 0.29905001368870665,
+     "others": 0.15097967455528444,
+     "auc": 0.846264367816092
+    },
+    {
+     "measure": "keys a 10 bars",
+     "value": 0.30167819259453826,
+     "others": 1.0480146795480274,
+     "auc": 0.1867816091954023
+    },
+    {
+     "measure": "cadences a 10 bars",
+     "value": 0.5713286138111336,
+     "others": 1.7041549154100484,
+     "auc": 0.09821428571428571
+    },
+    {
+     "measure": "perfect cadences",
+     "value": 0.7621212121212121,
+     "others": 0.328823695336685,
+     "auc": 0.8595779220779222
+    },
+    {
+     "measure": "half cadences",
+     "value": 0.12424242424242425,
+     "others": 0.33905359897168663,
+     "auc": 0.21185064935064937
+    },
+    {
+     "measure": "non-chord tones",
+     "value": 0.3305197734997545,
+     "others": 0.219988537059495,
+     "auc": 0.8261494252873561
+    }
+   ],
+   "progressions": [
+    {
+     "chords": [
+      "V7/V",
+      "V7",
+      "I"
+     ],
+     "z": 3.7,
+     "works": 7,
+     "per_1000": 7.8,
+     "others_per_1000": 1.0,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI162-1op63-1.notes.tsv",
+       "label": "Mazurkas, Op. 63, movement 1 (DCML)",
+       "bar": 7
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+       "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+       "bar": 117
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI157-2op59-2.notes.tsv",
+       "label": "Mazurkas, Op. 59, movement 2 (DCML)",
+       "bar": 7
+      }
+     ]
+    },
+    {
+     "chords": [
+      "V7/V",
+      "V",
+      "V7/V"
+     ],
+     "z": 3.3,
+     "works": 4,
+     "per_1000": 5.8,
+     "others_per_1000": 0.0,
+     "at": [
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+       "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+       "bar": 110
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI162-1op63-1.notes.tsv",
+       "label": "Mazurkas, Op. 63, movement 1 (DCML)",
+       "bar": 61
+      },
+      {
+       "work": "dcml/chopin_mazurkas:notes/BI157-3op59-3.notes.tsv",
+       "label": "Mazurkas, Op. 59, movement 3 (DCML)",
+       "bar": 52
+      }
+     ]
+    }
+   ],
+   "compared": {
+    "by": "forces, period",
+    "works": 58,
+    "composers": 5,
+    "progressions_by": "DCML",
+    "progressions_works": 58
+   }
   }
  },
  {
@@ -2154,36 +3262,36 @@
   "forces": "keyboard",
   "period": "Paris",
   "era": "Romantic",
-  "works": 9,
+  "works": 8,
   "values": {
-   "steps": 0.5594854058881183,
-   "repeats": 0.14630762098600764,
-   "leaps": 0.1766970429472801,
-   "move": 3.1088013397100784,
-   "rising": 0.48194971022489486,
-   "leap answered": 0.31889985024328166,
-   "range": 20.38888888888889,
-   "register": 73.44444444444444,
-   "even": 0.4792222550762927,
-   "long-short": 0.0803359187589177,
-   "rhythm variety": 2.5496043206774814,
-   "surprise, pitch": 2.4163130623139346,
-   "surprise, rhythm": 1.7796269196228063,
-   "density": 5.625904812922087,
+   "steps": 0.5521458319016026,
+   "repeats": 0.1546071723883929,
+   "leaps": 0.17617041082956356,
+   "move": 3.143812846136444,
+   "rising": 0.4793164638100031,
+   "leap answered": 0.328087484897925,
+   "range": 20.5625,
+   "register": 73.25,
+   "even": 0.4787083702941626,
+   "long-short": 0.07996124193711573,
+   "rhythm variety": 2.5260288093401906,
+   "surprise, pitch": 2.397845548643973,
+   "surprise, rhythm": 1.7429976875725186,
+   "density": 5.77133405672849,
    "lines": 2.0
   },
   "traits": [
    {
     "measure": "rhythm variety",
-    "value": 2.5496043206774814,
+    "value": 2.5260288093401906,
     "others": 1.9618108138102093,
-    "auc": 0.7925194141820593
+    "auc": 0.7766956938470297
    },
    {
     "measure": "surprise, rhythm",
-    "value": 1.7796269196228063,
-    "others": 1.1554349592554363,
-    "auc": 0.8272346359416773
+    "value": 1.7429976875725186,
+    "others": 1.1554349592554365,
+    "auc": 0.805638965434387
    }
   ],
   "figures": [
@@ -2198,9 +3306,9 @@
      -2,
      2
     ],
-    "z": 4.3,
+    "z": 4.6,
     "works": 3,
-    "per_1000": 1.8,
+    "per_1000": 2.2,
     "others_per_1000": 0.2,
     "at": [
      {
@@ -2234,9 +3342,9 @@
      0,
      2
     ],
-    "z": 4.1,
+    "z": 4.3,
     "works": 3,
-    "per_1000": 1.6,
+    "per_1000": 1.9,
     "others_per_1000": 0.1,
     "at": [
      {
@@ -2261,36 +3369,6 @@
    },
    {
     "moves": [
-     -1,
-     -1,
-     1
-    ],
-    "rhythm": [
-     0,
-     2,
-     -2
-    ],
-    "z": 3.9,
-    "works": 2,
-    "per_1000": 1.3,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "kern/chopin-first-editions:048-1-BH-002.krn",
-      "label": "14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
-      "bar": 8,
-      "notes": "D5 C#5 C5 C#5"
-     },
-     {
-      "work": "mutopia:ChopinFF/O9/chopin_nocturne_op9_n3",
-      "label": "Nocturne No. 3 (Opus 9, No. 3) (Mutopia)",
-      "bar": 10,
-      "notes": "D5 C#5 C5 C#5"
-     }
-    ]
-   },
-   {
-    "moves": [
      2,
      -2,
      -1
@@ -2300,9 +3378,9 @@
      0,
      0
     ],
-    "z": 3.9,
+    "z": 4.1,
     "works": 3,
-    "per_1000": 1.3,
+    "per_1000": 1.6,
     "others_per_1000": 0.1,
     "at": [
      {
@@ -2327,6 +3405,36 @@
    },
    {
     "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:048-1-BH-002.krn",
+      "label": "14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 5,
+      "notes": "F5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:032-1-Sm-002.krn",
+      "label": "[Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 12,
+      "notes": "C#5 C5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
      2,
      1,
      -8
@@ -2336,8 +3444,8 @@
      0,
      0
     ],
-    "z": 3.9,
-    "works": 3,
+    "z": 3.8,
+    "works": 2,
     "per_1000": 1.6,
     "others_per_1000": 0.2,
     "at": [
@@ -2352,42 +3460,36 @@
       "label": "13e Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
       "bar": 20,
       "notes": "C5 D5 Eb5 G4"
-     },
-     {
-      "work": "mutopia:ChopinFF/O9/chopin_nocturne_op9_n3",
-      "label": "Nocturne No. 3 (Opus 9, No. 3) (Mutopia)",
-      "bar": 27,
-      "notes": "C#5 Eb5 E5 Ab4"
      }
     ]
    },
    {
     "moves": [
-     -1,
-     -2,
-     -1
-    ],
-    "rhythm": [
      0,
      2,
      -2
     ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
     "z": 3.7,
     "works": 2,
     "per_1000": 1.3,
-    "others_per_1000": 0.0,
+    "others_per_1000": 0.1,
     "at": [
-     {
-      "work": "kern/chopin-first-editions:048-1-BH-002.krn",
-      "label": "14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
-      "bar": 5,
-      "notes": "F5 E5 D5 C#5"
-     },
      {
       "work": "kern/chopin-first-editions:032-1-Sm-002.krn",
       "label": "[Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern)",
-      "bar": 12,
-      "notes": "C#5 C5 Bb4 A4"
+      "bar": 17,
+      "notes": "C#5 C#5 Eb5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:048-1-BH-001.krn",
+      "label": "13e Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 65,
+      "notes": "Eb5 Eb5 F5 Eb5"
      }
     ]
    }
@@ -2432,8 +3534,8 @@
    {
     "measure": "surprise, rhythm",
     "value": 1.7962291728784072,
-    "others": 1.1554349592554363,
-    "auc": 0.8831441379580115
+    "others": 1.1554349592554365,
+    "auc": 0.8831441379580116
    }
   ],
   "figures": [
@@ -3239,14 +4341,14 @@
    {
     "measure": "leaps",
     "value": 0.36227932590501827,
-    "others": 0.21485514935080283,
+    "others": 0.21485514935080285,
     "auc": 0.8541807527608742
    },
    {
     "measure": "move",
     "value": 5.066585948486217,
     "others": 3.622171002425377,
-    "auc": 0.8576966418751409
+    "auc": 0.8576966418751407
    }
   ],
   "figures": [
@@ -3587,7 +4689,7 @@
   "figures": [],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1082,
+   "works": 1072,
    "composers": 97
   }
  },
@@ -3597,105 +4699,26 @@
   "forces": "voice and keyboard",
   "period": "Warsaw",
   "era": "Romantic",
-  "works": 11,
+  "works": 10,
   "values": {
-   "steps": 0.5093769175744526,
-   "repeats": 0.20614367095894306,
-   "leaps": 0.1379685555272384,
-   "move": 2.8672313751362974,
-   "rising": 0.46377174822439604,
-   "leap answered": 0.35800373868555685,
-   "range": 11.122727272727273,
-   "register": 67.22727272727273,
-   "even": 0.4636142020868828,
-   "long-short": 0.08376185944478654,
-   "rhythm variety": 2.172145828971756,
-   "surprise, pitch": 2.0825066862446486,
-   "surprise, rhythm": 1.471665461741636,
-   "density": 4.649752587263915,
+   "steps": 0.5162201211429214,
+   "repeats": 0.2007737860863335,
+   "leaps": 0.13601737958389928,
+   "move": 2.8262949381818423,
+   "rising": 0.4718510507064101,
+   "leap answered": 0.37380411255411256,
+   "range": 11.235,
+   "register": 67.35,
+   "even": 0.47188038420033296,
+   "long-short": 0.08102693427815408,
+   "rhythm variety": 2.1563437782022867,
+   "surprise, pitch": 2.154521502519286,
+   "surprise, rhythm": 1.4957551085485714,
+   "density": 4.78798169309675,
    "lines": 3.0
   },
-  "traits": [
-   {
-    "measure": "register",
-    "value": 67.22727272727273,
-    "others": 69.68664668330082,
-    "auc": 0.24362973273775948
-   }
-  ],
+  "traits": [],
   "figures": [
-   {
-    "moves": [
-     -2,
-     0,
-     -2
-    ],
-    "rhythm": [
-     0,
-     0,
-     2
-    ],
-    "z": 7.0,
-    "works": 4,
-    "per_1000": 6.3,
-    "others_per_1000": 0.3,
-    "at": [
-     {
-      "work": "kern/chopin-first-editions:074-1-G-001.krn",
-      "label": "Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 9,
-      "notes": "F#4 E4 E4 D4"
-     },
-     {
-      "work": "kern/chopin-first-editions:074-1-G-007.krn",
-      "label": "Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 19,
-      "notes": "B4 A4 A4 G4"
-     },
-     {
-      "work": "kern/chopin-first-editions:074-1-G-016.krn",
-      "label": "Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 38,
-      "notes": "D5 C5 C5 Bb4"
-     }
-    ]
-   },
-   {
-    "moves": [
-     1,
-     4,
-     -2
-    ],
-    "rhythm": [
-     0,
-     0,
-     2
-    ],
-    "z": 6.5,
-    "works": 3,
-    "per_1000": 4.8,
-    "others_per_1000": 0.1,
-    "at": [
-     {
-      "work": "kern/chopin-first-editions:074-1-G-005.krn",
-      "label": "Ce qu'aime une jeune fille in A major op. 74, no. 5 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 4,
-      "notes": "Eb4 E4 Ab4 F#4"
-     },
-     {
-      "work": "kern/chopin-first-editions:074-1-G-001.krn",
-      "label": "Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 21,
-      "notes": "F#4 G4 B4 A4"
-     },
-     {
-      "work": "kern/chopin-first-editions:074-1-G-010.krn",
-      "label": "Wojak, op. 74 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 27,
-      "notes": "G4 Ab4 C5 Bb4"
-     }
-    ]
-   },
    {
     "moves": [
      2,
@@ -3709,7 +4732,7 @@
     ],
     "z": 6.3,
     "works": 2,
-    "per_1000": 4.0,
+    "per_1000": 4.3,
     "others_per_1000": 0.1,
     "at": [
      {
@@ -3737,9 +4760,9 @@
      2,
      0
     ],
-    "z": 5.9,
+    "z": 6.0,
     "works": 2,
-    "per_1000": 4.0,
+    "per_1000": 4.3,
     "others_per_1000": 0.1,
     "at": [
      {
@@ -3758,37 +4781,37 @@
    },
    {
     "moves": [
-     0,
      -2,
-     0
+     0,
+     -2
     ],
     "rhythm": [
      0,
-     2,
-     -2
+     0,
+     2
     ],
-    "z": 5.5,
-    "works": 4,
-    "per_1000": 5.6,
-    "others_per_1000": 0.4,
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.3,
     "at": [
      {
-      "work": "kern/chopin-first-editions:074-1-G-001.krn",
-      "label": "Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 9,
-      "notes": "E4 E4 D4 D4"
+      "work": "kern/chopin-first-editions:074-1-G-007.krn",
+      "label": "Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 19,
+      "notes": "B4 A4 A4 G4"
      },
      {
-      "work": "kern/chopin-first-editions:074-1-G-003.krn",
-      "label": "Smutna rzeka, op. 74 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 24,
-      "notes": "Ab4 Ab4 F#4 F#4"
+      "work": "kern/chopin-first-editions:074-1-G-016.krn",
+      "label": "Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 38,
+      "notes": "D5 C5 C5 Bb4"
      },
      {
-      "work": "kern/chopin-first-editions:074-1-G-012.krn",
-      "label": "Moja pieszczotka, op. 74 (Gebethner, Warsaw; first edition, kern)",
-      "bar": 70,
-      "notes": "F5 F5 Eb5 Eb5"
+      "work": "kern/chopin-first-editions:074-1-G-006.krn",
+      "label": "Precz z moich oczu, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 47,
+      "notes": "G4 F4 F4 Eb4"
      }
     ]
    },
@@ -3805,8 +4828,8 @@
     ],
     "z": 4.8,
     "works": 3,
-    "per_1000": 4.0,
-    "others_per_1000": 0.2,
+    "per_1000": 4.3,
+    "others_per_1000": 0.3,
     "at": [
      {
       "work": "kern/chopin-first-editions:074-1-G-007.krn",
@@ -3827,11 +4850,77 @@
       "notes": "C5 D5 C5 C5"
      }
     ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 4.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:074-1-G-004.krn",
+      "label": "L'orgie in C major op. 74, no. 4 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 10,
+      "notes": "E4 E4 D4 C4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-003.krn",
+      "label": "Smutna rzeka, op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 15,
+      "notes": "C#5 C#5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:074-1-G-012.krn",
+      "label": "Moja pieszczotka, op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 14,
+      "notes": "C#5 B4 Bb4 Bb4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-003.krn",
+      "label": "Smutna rzeka, op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 24,
+      "notes": "B4 A4 Ab4 Ab4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-016.krn",
+      "label": "Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 38,
+      "notes": "C5 Bb4 A4 A4"
+     }
+    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1082,
+   "works": 1072,
    "composers": 97
   }
  },
@@ -3863,7 +4952,7 @@
   "figures": [],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1082,
+   "works": 1072,
    "composers": 97
   }
  },

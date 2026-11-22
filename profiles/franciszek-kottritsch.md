@@ -1,10 +1,10 @@
 # Franciszek Kottritsch
 
-1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+1 units, from score-reader's catalogue version 25 (d37df33). How they are measured: composer-study, `study/profiles.py`.
 
 ### Franciszek Kottritsch: mass (voices), all
 
-8 works; set against 27 works by 3 composers: other composers' mass (voices) of the Classical period.
+8 works; set against 27 works by 3 composers: other composers' masses (voices) of the Classical period.
 
 **Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
 - range of the melody (semitones): 6.1, against 8.6 (17 in 100)

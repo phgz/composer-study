@@ -36,7 +36,7 @@
      0,
      0
     ],
-    "z": 5.7,
+    "z": 5.9,
     "works": 6,
     "per_1000": 2.4,
     "others_per_1000": 0.4,
@@ -72,7 +72,7 @@
      0,
      0
     ],
-    "z": 5.6,
+    "z": 5.5,
     "works": 6,
     "per_1000": 1.9,
     "others_per_1000": 0.2,
@@ -171,42 +171,6 @@
    },
    {
     "moves": [
-     3,
-     -2,
-     -8
-    ],
-    "rhythm": [
-     0,
-     0,
-     0
-    ],
-    "z": 5.3,
-    "works": 3,
-    "per_1000": 1.0,
-    "others_per_1000": 0.0,
-    "at": [
-     {
-      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/01_Chanson_d’avril/lc6877413.mxl",
-      "label": "Mélodies, Op.21, Chanson d’avril (OpenScore)",
-      "bar": 25,
-      "notes": "A4 C5 Bb4 D4"
-     },
-     {
-      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/09_Pastorale/lc6898041.mxl",
-      "label": "Mélodies, Op.21, Pastorale (OpenScore)",
-      "bar": 27,
-      "notes": "Eb5 F#5 E5 Ab4"
-     },
-     {
-      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/03_Vieille_chanson/lc6877589.mxl",
-      "label": "Mélodies, Op.21, Vieille chanson (OpenScore)",
-      "bar": 11,
-      "notes": "B4 D5 C5 E4"
-     }
-    ]
-   },
-   {
-    "moves": [
      -1,
      -2,
      -1
@@ -216,7 +180,7 @@
      0,
      0
     ],
-    "z": 5.2,
+    "z": 5.3,
     "works": 6,
     "per_1000": 2.2,
     "others_per_1000": 0.4,
@@ -240,11 +204,47 @@
       "notes": "C#5 C5 Bb4 A4"
      }
     ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/01_Chanson_d’avril/lc6877413.mxl",
+      "label": "Mélodies, Op.21, Chanson d’avril (OpenScore)",
+      "bar": 25,
+      "notes": "A4 C5 Bb4 D4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/09_Pastorale/lc6898041.mxl",
+      "label": "Mélodies, Op.21, Pastorale (OpenScore)",
+      "bar": 27,
+      "notes": "Eb5 F#5 E5 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Bizet,_Georges/20_Mélodies,_Op.21/03_Vieille_chanson/lc6877589.mxl",
+      "label": "Mélodies, Op.21, Vieille chanson (OpenScore)",
+      "bar": 11,
+      "notes": "B4 D5 C5 E4"
+     }
+    ]
    }
   ],
   "compared": {
    "by": "kind, forces, period",
-   "works": 1073,
+   "works": 1062,
    "composers": 97
   }
  }
