@@ -30,3 +30,9 @@ def test_the_polish_scores_by_the_years_their_records_give():
     assert E.era_of('Marcin Mielczewski')[0] == 'Baroque'
     assert E.era_of('Karol Szymanowski') == ('1890 to 1950', "the sheet's period")
     assert E.era_of('Bauer')[0] is None and 'Bauer' not in P.table()
+
+
+def test_a_composer_joined_in_score_reader_has_one_line():
+    """catalogue version 23: the Polish Scores' Vanhal and Bortnjanskij are Mutopia's Wanhal and Bortniansky, named so in score-reader"""
+    assert E.era_of('Johann Baptist Wanhal') == ('Classical', 'born 1739') and E.era_of('Johann Baptist Vanhal')[0] is None
+    assert E.era_of('Dmitry Bortniansky') == ('Classical', 'born 1751') and 'Dmitrij Stepanovič Bortnjanskij' not in P.table()

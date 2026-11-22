@@ -1,5 +1,5 @@
 {
- "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 16 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself. Version 17 adds 18 of the sheet's composers from CPDL, each in one period, as version 16's. Version 22 adds 341, each in one period, as version 16's; the 53 with no years are left out, as in data/eras.json.",
+ "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 16 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself. Version 17 adds 18 of the sheet's composers from CPDL, each in one period, as version 16's. Version 22 adds 341, each in one period, as version 16's; the 53 with no years are left out, as in data/eras.json. Version 23 takes out two of them, whom score-reader now names under the composer already here, the same men by their dates: Johann Baptist Vanhal (Johann Baptist Wanhal) and Dmitrij Stepanovič Bortnjanskij (Dmitry Bortniansky).",
  "composers": {
   "Ludwig van Beethoven": {
    "source": "the three periods as drawn since Wilhelm von Lenz (1852): early to the Heiligenstadt crisis (1802), middle 1803 to 1814, late from 1815; opus numbers follow composition for the most part, the early works published late taken out by their dates of composition",
@@ -1610,7 +1610,7 @@
    ]
   },
   "Dmitry Bortniansky": {
-   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
+   "source": "2 works in catalogue version 23; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -3374,7 +3374,7 @@
    ]
   },
   "Johann Baptist Wanhal": {
-   "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
+   "source": "11 works in catalogue version 23; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
@@ -5407,15 +5407,6 @@
     }
    ]
   },
-  "Dmitrij Stepanovič Bortnjanskij": {
-   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
-   "periods": [
-    {
-     "name": "all",
-     "why": "one period"
-    }
-   ]
-  },
   "Edward Stefan Łodwigowski": {
    "source": "50 works in catalogue version 22; a composer of the shared levels, not divided",
    "periods": [
@@ -6372,15 +6363,6 @@
   },
   "Johann Baptist Singenberger": {
    "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
-   "periods": [
-    {
-     "name": "all",
-     "why": "one period"
-    }
-   ]
-  },
-  "Johann Baptist Vanhal": {
-   "source": "10 works in catalogue version 22; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
