@@ -88,3 +88,12 @@ def test_a_continuation_quotes_the_unit_at_eight_intervals():
     ws = corpus(4); q = C.quotes_against(ws, sr)
     line = [n[:3] for n in ws[0].lines['p'][10:22]]
     assert q(line) and not q(line[:8])                                                    # 11 intervals of a work; 7 are not a quote
+
+
+def test_a_continuation_starts_where_its_context_ends():
+    ws = corpus(); m = C.Model([('all',) + C.level(ws)])
+    ctx = [(0, 0.5, 64), (0.5, 0.5, 65), (1.0, 3.0, 67)]                                  # the last note held to 4.0
+    rnd = random.Random(2)
+    for _ in range(10):
+        notes, _ = C.sample(m, ctx, 0, 4.0, rnd=rnd, durations=(0.5, 1.0))
+        assert notes[0][0] >= 4.0 - 1e-9 and abs(notes[-1][0] + notes[-1][1] - 8.0) < 1e-9

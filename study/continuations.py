@@ -266,7 +266,7 @@ def sample(model, context, final, length, others=(), lo=None, hi=None, below=Non
             q = r ** (1 / temperature); q /= q.sum(); s = int(rnd.choices(range(A_IOI), weights=q)[0])
             span = snap(prev * 2 ** ((s - 6) / 2), durations); br = -LOG2(float(r[s]))
         else: span, br = prev, 0.0
-        t = line[-1][0] + span
+        t = max(line[-1][0] + span, start)                                 # the context's last note is not cut short
         if grid: t = round(t / grid) * grid; span = t - line[-1][0]
         if span <= 0: continue
         if t >= end - 1e-6: break
