@@ -1,0 +1,326 @@
+{
+ "note": "Philip's ratings of composer-blend's pieces, as CATALOGUE.md records them, with where each piece's notes are read: a score's build() (a path in composer-blend) or the score its render recorded (a *.render.json, from ~/Music_LLM/audio on his Mac). `since`: rated after piece 44's test of the surprise model (18 November 2026), which used the 15 others. Left out: pieces with no single mark (40, 42, 45b, 47, 55), pieces whose notes are in neither form here (41, 43b, 44b, 51b, 53), and the pieces before 24, whose scores are not in this form.",
+ "pieces": [
+  {
+   "piece": "25",
+   "rating": 4.75,
+   "since": false,
+   "sections": [
+    [
+     "pieces/25_plaint_and_musette/piece25.py"
+    ]
+   ]
+  },
+  {
+   "piece": "27",
+   "rating": 5,
+   "since": false,
+   "sections": [
+    [
+     "pieces/27_where_the_voices_meet/voices_meet.py"
+    ]
+   ]
+  },
+  {
+   "piece": "29",
+   "rating": 5,
+   "since": false,
+   "sections": [
+    [
+     "pieces/29_a_tango_overtakes_itself/overtakes.py"
+    ]
+   ]
+  },
+  {
+   "piece": "30",
+   "rating": 3.5,
+   "since": false,
+   "sections": [
+    [
+     "pieces/30_springar_in_c/springar.py"
+    ]
+   ]
+  },
+  {
+   "piece": "31",
+   "rating": 4.5,
+   "since": false,
+   "sections": [
+    [
+     "pieces/31_a_ritornello_comes_into_focus/ritornello.py"
+    ]
+   ]
+  },
+  {
+   "piece": "32",
+   "rating": 3,
+   "since": false,
+   "sections": [
+    [
+     "pieces/32_a_sixth_up_a_seventh_down/sixth.py"
+    ]
+   ]
+  },
+  {
+   "piece": "33",
+   "rating": 3,
+   "since": false,
+   "sections": [
+    [
+     "pieces/33_one_note_longer/longer.py"
+    ]
+   ]
+  },
+  {
+   "piece": "34",
+   "rating": 3.5,
+   "since": false,
+   "sections": [
+    [
+     "pieces/34_a_bell_for_a_rhyme/bell.py"
+    ]
+   ]
+  },
+  {
+   "piece": "35",
+   "rating": 3,
+   "since": false,
+   "sections": [
+    [
+     "pieces/35_mi_contra_fa/mifa.py"
+    ]
+   ]
+  },
+  {
+   "piece": "36",
+   "rating": 3,
+   "since": false,
+   "sections": [
+    [
+     "pieces/36_the_note_that_moves/moves.py"
+    ]
+   ]
+  },
+  {
+   "piece": "37",
+   "rating": 3.25,
+   "since": false,
+   "sections": [
+    [
+     "pieces/37_until_the_pulse_moves/pulse_moves.py"
+    ]
+   ]
+  },
+  {
+   "piece": "37b",
+   "rating": 3.5,
+   "since": false,
+   "sections": [
+    [
+     "pieces/37_until_the_pulse_moves/pulse_moves_2.py"
+    ]
+   ]
+  },
+  {
+   "piece": "38",
+   "rating": 4,
+   "since": false,
+   "sections": [
+    [
+     "pieces/38_where_the_seventh_goes/where_seventh.py"
+    ]
+   ]
+  },
+  {
+   "piece": "39",
+   "rating": 3.75,
+   "since": false,
+   "sections": [
+    [
+     "pieces/39_a_half_step_below/half_step_below.py"
+    ]
+   ]
+  },
+  {
+   "piece": "43",
+   "rating": 4.5,
+   "since": false,
+   "sections": [
+    [
+     "pieces/43_what_the_ties_carry/what_the_ties_carry.py"
+    ]
+   ]
+  },
+  {
+   "piece": "44",
+   "rating": 4.5,
+   "since": true,
+   "said": "part three and the whole: \"Very good. 4.5 stars\"",
+   "sections": [
+    [
+     "pieces/44_mercy_twenty_one_times/ciacona44.py"
+    ],
+    [
+     "pieces/44_mercy_twenty_one_times/lamento44.py"
+    ],
+    [
+     "pieces/44_mercy_twenty_one_times/miserere44.py"
+    ]
+   ]
+  },
+  {
+   "piece": "45",
+   "rating": 4,
+   "since": true,
+   "said": "\"But the piece was good: 4!\"",
+   "sections": [
+    [
+     "pieces/45_under_the_running_voice/organ45.py"
+    ]
+   ]
+  },
+  {
+   "piece": "46",
+   "rating": 4.75,
+   "since": true,
+   "said": "\"I'd rate it 4.75, very good!\"",
+   "sections": [
+    [
+     "pieces/46_the_question_comes_back/piano46.py"
+    ]
+   ]
+  },
+  {
+   "piece": "48",
+   "rating": 4,
+   "since": true,
+   "said": "\"4 stars\"",
+   "sections": [
+    [
+     "pieces/48_a_refrain_for_two_violins/duet48.py"
+    ]
+   ]
+  },
+  {
+   "piece": "49",
+   "rating": 5,
+   "since": true,
+   "said": "5",
+   "sections": [
+    [
+     "pieces/49_the_larks_turn_echoed_below/piano49.py"
+    ]
+   ]
+  },
+  {
+   "piece": "50",
+   "rating": 3,
+   "since": true,
+   "said": "\"This is less my thing: 3\"",
+   "sections": [
+    [
+     "pieces/50_a_call_in_four_octaves/quartet50.py"
+    ]
+   ]
+  },
+  {
+   "piece": "51",
+   "rating": 3,
+   "since": true,
+   "said": "3, \"not a fan of Haydn\"",
+   "sections": [
+    [
+     "pieces/51_three_times_round_an_open_string/quartet51.py"
+    ]
+   ]
+  },
+  {
+   "piece": "52",
+   "rating": 4,
+   "since": true,
+   "said": "4 (the mark alone)",
+   "sections": [
+    [
+     "pieces/52_asked_slowly_answered_low/organ52.py"
+    ]
+   ]
+  },
+  {
+   "piece": "52b",
+   "rating": 4.5,
+   "since": true,
+   "said": "4.5, the bandoneon version",
+   "sections": [
+    [
+     "52b_bandoneon/three_three_two_bandoneon.render.json"
+    ]
+   ]
+  },
+  {
+   "piece": "54",
+   "rating": 3.25,
+   "since": true,
+   "said": "\"Score of 3.25 for piece 54\"",
+   "sections": [
+    [
+     "pieces/54_the_invitation_said_again/duo54.py"
+    ]
+   ]
+  },
+  {
+   "piece": "56",
+   "rating": 4,
+   "since": true,
+   "said": "4, \"even though Berg is not really my thing\"",
+   "sections": [
+    [
+     "pieces/56_a_sixteenth_late/piano56_all.py"
+    ]
+   ]
+  },
+  {
+   "piece": "57",
+   "rating": 3.75,
+   "since": true,
+   "said": "\"I'd say 3.75 (-0.25 personal bias)\"",
+   "sections": [
+    [
+     "57_the_overture_stops_for_light/overture_light.render.json"
+    ]
+   ]
+  },
+  {
+   "piece": "58",
+   "rating": 4,
+   "since": true,
+   "said": "\"a solid 4\", on the whole capture",
+   "sections": [
+    [
+     "58_three_against_the_weather/three_against_the_weather.render.json"
+    ]
+   ]
+  },
+  {
+   "piece": "59",
+   "rating": 4,
+   "since": true,
+   "said": "\"I'd give it a 4\", after the fourth render",
+   "sections": [
+    [
+     "59_drawn_out_and_cut/drawn_out_and_cut.render.json"
+    ]
+   ]
+  },
+  {
+   "piece": "60",
+   "rating": 1,
+   "since": true,
+   "said": "1: \"I think the 2 speed don't work\"",
+   "sections": [
+    [
+     "60_the_ground_does_not_hurry/ground_does_not_hurry.render.json"
+    ]
+   ]
+  }
+ ]
+}
