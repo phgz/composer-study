@@ -1,6 +1,6 @@
 # What training reads, and what it leaves out
 
-The models here (the listener ear, the continuations) are trained on the notes of score-reader's catalogue. A work that can be drawn is not therefore a clean example of its composer: some readings are an editor's performance copy, not the score. These are the first things training filters on, before any count is made. Written on 21 November 2026, from what score-reader's catalogue version 9 reads.
+The models here (the listener ear, the continuations) are trained on the notes of score-reader's catalogue. A work that can be drawn is not therefore a clean example of its composer: some readings are an editor's performance copy, not the score. These are the first things training filters on, before any count is made. Written on 21 November 2026, from what score-reader's catalogue version 9 reads; sections 1 to 3 brought to version 24 on 22 November 2026, which marks what they ask for.
 
 Each model records the catalogue version and the score-reader commit it was trained on, and what it left out, so that a later catalogue shows which models to train again.
 
@@ -11,11 +11,11 @@ Many Mutopia works are read from the MIDI copy the editor wrote beside the print
 - **Ornaments played out.** A copy made with LilyPond's `\articulate` (Mendelssohn's Octet, Satie's *Enfantillages pittoresques*) plays trills and shortens notes.
 - **Tracks out of step.** Beethoven's horn sonata: in the copy, the Rondo's right hand comes 1.005 quarters after the left hand and the horn. score-reader reads that movement as printed; others like it may not be known yet.
 
-score-reader's status already says how each entry is read: compiled, or Mutopia's own MIDI. It does not yet say whether the file compiled is the printed score or a copy made only for MIDI. Until a work carries that (a field for score-reader to add), training finds it here:
-- a main file whose closure holds a `\score` with `\midi` and no `\layout` (a copy only for MIDI);
-- `\articulate` anywhere in the closure;
-- Mutopia's own MIDI;
-- a `midi` judgment with `printed` (the printed score, played alone: kept).
+From catalogue version 24 each work says it (`midi_copy`, in the catalogue and in the ready-read copy's index), on 536 of Mutopia's readings:
+- `a \score that only writes MIDI` (385 readings): the main file's closure holds a `\score` with `\midi` and no `\layout`, a copy only for MIDI;
+- `a \score that only writes MIDI and \articulate` (24): the copy also plays the ornaments out and shortens the notes (`\articulate` alone, in a printed score, would be marked `\articulate`);
+- `Mutopia's own MIDI file` (127): the source does not compile here;
+- a movement read as printed by a judgment (`midi` with `printed`: the printed score, played alone) carries no mark: it is kept.
 
 A work read from such a copy is left out of the counts by default. Where that leaves a narrow unit with too few notes, it may be kept with its notes weighted down, and the model says so.
 
@@ -24,12 +24,17 @@ A work read from such a copy is left out of the counts by default. Where that le
 - IMSLP files marked `realized` (Pierre Gouin's organ files: the ornaments played out as notes). Left out of interval and rhythm counts.
 - An organ file read with `registration` (16' copies removed) is kept; check a few against a typeset copy before trusting their bass.
 - An editor's part already dropped by score-reader (`drop_parts`) stays out.
-- Verovio's MIDI of kern files: whether it plays ornaments out is to be checked before training on kern.
+- Verovio's MIDI of kern files does not play ornaments out (checked for catalogue version 24): a trill, a mordent or a turn is its one written note. The kern readings hold the notes as written.
 - CPDL's second archive (Palestrina and Landini, catalogue version 14) marks an edition that is transposed (`transposed`: a motet in high clefs written a fourth or fifth lower) or halves the note values (`halved`). Intervals, scale degrees and rhythm proportions are kept. Absolute pitch and register are not counted for a transposed work; a halved work's lengths are doubled before lengths are counted.
 
 ## 3. Repeats counted once
 
-An editor's copy for MIDI writes its repeats out, so repeated sections count twice. For counts, a repeated span is counted once; for the listener ear, which hears the piece as played, it may be kept, saying so.
+Some readings play the score's repeats and some do not, by how each source is read. From catalogue version 24 every reading of the ready-read copy says which (`repeats`):
+- `played`: verovio plays a **kern file's repeats (1,507 of the 7,941 kern readings; 9.6% of the kern notes are a span heard again, 10.5% of the Polish Scores'), and an editor's copy for MIDI that unfolds them plays them (201 Mutopia readings);
+- `as printed`: each written bar once, both endings in the order written (LilyPond's MIDI of a printed score, DCML, MusicXML, chant);
+- `not known`: Mutopia's own MIDI files and IMSLP's (194).
+
+Where a kern reading plays them, `heard_again` gives the spans that play bars already heard. For counts, a repeated span is counted once: the notes in `heard_again` are left out. A reading `played` with no spans (an editor's copy) or `not known` is already left out of the counts by section 1, or, for IMSLP's files, kept with its notes weighted down where its unit needs it, saying so. For the listener ear, which hears the piece as played, the repeats are kept: a span heard again is what the ear's memory of the piece predicts best, and the ear is judged on it as played.
 
 ## 4. Each work once, each composer in proportion
 
