@@ -42,7 +42,7 @@ bars where it stands."""
 import collections, math, os, re, sys
 import numpy as np
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from study import ear as E, periods as PD, eras as R
+from study import ear as E, periods as PD, eras as R, harmony as HM
 
 MIN_WORKS = 3
 NAMES = ['C', 'C#', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B']
@@ -155,7 +155,7 @@ def build(works, facts, surprise=None, log=print):
     from study import lines as L
     periods = PD.table(); eras = R.table()
     era = lambda c: (eras.get(c) or {}).get('era')
-    per_work, figs, members, by_id = {}, {}, collections.defaultdict(list), {}
+    per_work, figs, members, by_id, per_harm, progs = {}, {}, collections.defaultdict(list), {}, {}, {}
     for k, w in enumerate(works):
         us = units_of(w, facts, periods)
         if not us: continue
@@ -164,6 +164,9 @@ def build(works, facts, surprise=None, log=print):
         if mw is None: continue
         if surprise and w.id in surprise: mw['surprise, pitch'], mw['surprise, rhythm'] = surprise[w.id][:2]
         per_work[w.id] = mw; figs[w.id] = figures(w, forces); by_id[w.id] = w
+        if w.harmony:                                                      # the analysts' labels: the harmony
+            hm = HM.measure(w, top_line(w, forces))
+            if hm is not None: per_harm[w.id] = hm; progs[w.id] = HM.progressions(w)
         for u in us: members[u].append(w)
         if log and k % 4000 == 0: log(f'  {k} of {len(works)} works measured')
     units = {u: ws for u, ws in members.items() if len(ws) >= MIN_WORKS}
@@ -180,6 +183,11 @@ def build(works, facts, surprise=None, log=print):
             if len(ids) >= MIN_REST: return key, ids
         return None, []
     work_counts = {i: collections.Counter({f: min(len(v), 3) for f, v in figs[i].items()}) for i in per_work}
+    hpool = collections.defaultdict(set)                                      # the labelled works, by (kind, forces, era), (forces, era), era
+    for u, ws in members.items():
+        for w in ws:
+            if w.id in per_harm:
+                hpool[('kind, forces, period', u[1], u[2], era(u[0]))].add(w.id); hpool[('forces, period', u[2], era(u[0]))].add(w.id); hpool[('period', era(u[0]))].add(w.id)
     out = {}
     for u, ws in units.items():
         key, rest = rest_of(u)
@@ -216,7 +224,50 @@ def build(works, facts, surprise=None, log=print):
                                     others_per_1000=round(1000 * others.get(f, 0) / max(1, sum(others.values())), 1), at=pts))
         out[u] = dict(composer=u[0], kind=u[1], forces=u[2], period=u[2 + 1], era=era(u[0]), works=len(ws), values=values, traits=traits,
                       figures=fig_out, compared=dict(by=key[0] if key else None, works=len(rest), composers=len({by_id[i].composer for i in rest})))
+        h = harmony_of(u, ws, per_harm, progs, hpool, by_id, era, L)
+        if h: out[u]['harmony'] = h
     return out
+
+
+def harmony_of(u, ws, per_harm, progs, hpool, by_id, era, L):
+    """a unit's harmony, from its labelled works (3 or more): the measures, the traits against other composers' labelled works
+    (of the kind for the forces in the period; else for the forces in the period; else in the period), its progressions"""
+    mine = [w for w in ws if w.id in per_harm]
+    if len(mine) < MIN_WORKS: return None
+    key, rest = None, []
+    for k in (('kind, forces, period', u[1], u[2], era(u[0])), ('forces, period', u[2], era(u[0])), ('period', era(u[0]))):
+        ids = [i for i in hpool.get(k, ()) if by_id[i].composer != u[0]]
+        if len(ids) >= MIN_REST: key, rest = k, ids; break
+    wt = L.capped({i: 1.0 for i in rest}, [(lambda i: by_id[i].composer, 0.1), (lambda i: by_id[i].collection, 1 / 3)]) if rest else {}
+    values, traits = {}, []
+    for m in HM.MEASURES:
+        xs = [per_harm[w.id][m] for w in mine if per_harm[w.id].get(m) is not None]
+        if not xs: continue
+        values[m] = float(np.mean(xs))
+        ys = [(per_harm[i][m], wt[i]) for i in rest if per_harm[i].get(m) is not None]
+        if len(xs) < MIN_TRAIT or len(ys) < MIN_REST: continue
+        a = auc(xs, [y for y, _ in ys], [w_ for _, w_ in ys])
+        if a >= AUC_CUT or a <= 1 - AUC_CUT:
+            tot = sum(w_ for _, w_ in ys); traits.append(dict(measure=m, value=values[m], others=float(sum(y * w_ for y, w_ in ys) / tot), auc=a))
+    found = []
+    if rest and len(mine) >= MIN_TRAIT:
+        cnt = lambda i: collections.Counter({f: min(len(v), 3) for f, v in progs[i].items()})
+        have = collections.Counter(); where = collections.defaultdict(list)
+        for w in mine:
+            have.update(cnt(w.id))
+            for f, bars in progs[w.id].items(): where[f].append((w, bars))
+        others = collections.Counter(); scale = len(rest) / sum(wt.values())
+        for i in rest:
+            for f, c in cnt(i).items(): others[f] += c * wt[i] * scale
+        z = log_odds(have, others)
+        good = sorted(((s, f) for f, s in z.items() if s > 3 and len(where[f]) >= 2 and have[f] >= 5), reverse=True)
+        for s, f in good[:6]:
+            found.append(dict(chords=list(f), z=round(s, 1), works=len(where[f]), per_1000=round(1000 * have[f] / max(1, sum(have.values())), 1),
+                              others_per_1000=round(1000 * others.get(f, 0) / max(1, sum(others.values())), 1),
+                              at=[dict(work=w.id, label=w.label, bar=bars[0]) for w, bars in sorted(where[f], key=lambda x: -len(x[1]))[:3]]))
+    by = collections.Counter('DCML' if (w.harmony[0].get('by') == 'DCML') else 'When in Rome' for w in mine)
+    return dict(works=len(mine), by=dict(by), values=values, traits=traits, progressions=found,
+                compared=dict(by=key[0] if key else None, works=len(rest), composers=len({by_id[i].composer for i in rest})))
 
 
 MOVE = {0: 'same', 1: 'up a half step', -1: 'down a half step', 2: 'up a step', -2: 'down a step', 3: 'up a minor third', -3: 'down a minor third',
@@ -258,7 +309,33 @@ def markdown(p):
         s.append(f"- {moves} ({rh}): {f['per_1000']} in 1,000 figures, against {f['others_per_1000']}, in {f['works']} works. At: {at}")
     if not p['figures']: s.append('- none stands out' if p['works'] >= MIN_TRAIT else '- not asked')
     s += ['', '**All measures:** ' + '; '.join(f"{WORDS[m]} {fmt(m, p['values'][m])}" for m in MEASURES if p['values'].get(m) is not None), '']
+    h = p.get('harmony')
+    if h:
+        src = ' and '.join(f"{n} {k}'s" if k == 'DCML' else f"{n} When in Rome's" for k, n in h['by'].items())
+        hc = h['compared']; ag = {'kind, forces, period': f"other composers' labelled {what} of the {p['era']} period",
+                                  'forces, period': f"other composers' labelled works for {p['forces']} of the {p['era']} period, of any kind",
+                                  'period': f"other composers' labelled works of the {p['era']} period"}.get(hc['by'], 'nothing: too few labelled works by others')
+        s += [f"**Harmony**, from the analysts' labels of {h['works']} of its works ({src}); set against {hc['works']} works by {hc['composers']} composers: {ag}.", '']
+        for t in sorted(h['traits'], key=lambda t: -abs(t['auc'] - 0.5)):
+            s.append(f"- {HWORDS[t['measure']]}: {hfmt(t['measure'], t['value'])}, against {hfmt(t['measure'], t['others'])} ({t['auc'] * 100:.0f} in 100)")
+        if not h['traits']: s.append('- where it stands apart: ' + ('nowhere that clearly' if h['works'] >= MIN_TRAIT else f'not asked (fewer than {MIN_TRAIT} labelled works)'))
+        for f in h['progressions']:
+            at = '; '.join(f"{a['label']}, bar {a['bar']}" for a in f['at'])
+            s.append(f"- the progression {' – '.join(f['chords'])}: {f['per_1000']} in 1,000, against {f['others_per_1000']}, in {f['works']} works. At: {at}")
+        s += ['', '*All its harmony:* ' + '; '.join(f"{HWORDS[m]} {hfmt(m, h['values'][m])}" for m in HM.MEASURES if h['values'].get(m) is not None), '']
     return '\n'.join(s)
+
+
+HWORDS = {'chords a bar': 'chords a bar', 'tonic and dominant': 'chords on I or V', 'sevenths': 'seventh chords', 'diminished sevenths': 'diminished sevenths',
+          'applied chords': 'applied chords (V/V and the like)', 'augmented sixths': 'augmented sixths', 'Neapolitan': 'Neapolitan chords', 'mixture': 'chords from the other mode',
+          'inversions': 'chords over a bass not their root', 'keys a 10 bars': 'changes of key a 10 bars', 'away from home': 'chords away from the home key',
+          'cadences a 10 bars': 'cadences a 10 bars (DCML)', 'perfect cadences': 'of its cadences, perfect', 'half cadences': 'of its cadences, half',
+          'deceptive or evaded': 'of its cadences, deceptive or evaded', 'non-chord tones': "melody notes outside the chord",
+          'changes': "chords labelled with a note in place of one of theirs, or added (V(4)), DCML", 'struck dissonance': 'of those, struck with the chord (appoggiaturas)', 'resolved by step': 'of those, resolved by a step',
+          'suspensions': 'melody notes held into a chord they are not in, then falling a step (suspensions)'}
+
+
+def hfmt(m, x): return f'{x:.0%}' if m in HM.SHARES else f'{x:.2f}'
 
 
 def slug(composer):
@@ -280,7 +357,8 @@ def write(profiles, out_dir, about):
             f.write(f"# {c}\n\n{len(ps)} units, from score-reader's catalogue version {about.get('catalogue_version')} "
                     f"({about.get('score_reader')}). How they are measured: composer-study, `study/profiles.py`.\n\n" + '\n'.join(markdown(p) for p in ps))
         with open(os.path.join(out_dir, slug(c) + '.json'), 'w', encoding='utf-8') as f: json.dump(ps, f, indent=1, ensure_ascii=False)
-    index = dict(about=about, composers={c: dict(file=slug(c) + '.md', units=[f"{p['kind']}{' (' + p['forces'] + ')' if p['forces'] else ''}, {p['period']}: {p['works']} works" for p in ps])
+    index = dict(about=about, composers={c: dict(file=slug(c) + '.md', units=[f"{p['kind']}{' (' + p['forces'] + ')' if p['forces'] else ''}, {p['period']}: {p['works']} works"
+                                                                                  + (f", {p['harmony']['works']} labelled" if p.get('harmony') else '') for p in ps])
                                           for c, ps in sorted(by.items())})
     with open(os.path.join(out_dir, 'index.json'), 'w', encoding='utf-8') as f: json.dump(index, f, indent=1, ensure_ascii=False)
 
@@ -288,10 +366,11 @@ def write(profiles, out_dir, about):
 def main():
     import argparse, json, os, pickle, sys
     from study import lines as L
-    ap = argparse.ArgumentParser(); ap.add_argument('ready'); ap.add_argument('--facts', required=True); ap.add_argument('--surprise')
+    ap = argparse.ArgumentParser(); ap.add_argument('ready'); ap.add_argument('--facts', help="facts.json; the ready-read copy's own by default"); ap.add_argument('--surprise')
     ap.add_argument('--works'); ap.add_argument('-o', required=True); a = ap.parse_args()
     works = pickle.load(open(a.works, 'rb')) if a.works else L.read(a.ready)
-    facts = json.load(open(a.facts, encoding='utf-8')); facts = facts.get('works', facts); surprise = json.load(open(a.surprise)) if a.surprise else None
+    path = a.facts or os.path.join(a.ready, 'facts.json')                     # the copy's own facts (catalogue version 25), else a checkout's
+    facts = json.load(open(path, encoding='utf-8')); facts = facts.get('works', facts); surprise = json.load(open(a.surprise)) if a.surprise else None
     prof = build(works, facts, surprise, log=print)
     write(prof, a.o, dict(L.record(a.ready), surprise=bool(surprise)))
     print(len(prof), 'units of', len({p['composer'] for p in prof.values()}), 'composers written to', a.o)

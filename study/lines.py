@@ -18,9 +18,11 @@ import collections, csv, io, json, os, re, tarfile
 
 LEFT_OUT = ('midi_copy', 'realized')
 
-Work = collections.namedtuple('Work', 'id composer collection kind label lines final heard_again flags notes length names', defaults=(0, 0.0, None))
+Work = collections.namedtuple('Work', 'id composer collection kind label lines final heard_again flags notes length names harmony',
+                              defaults=(0, 0.0, None, None))
 # lines: {part: [(onset, dur, midi, bar, beat), ...]} (bar and beat where the reading has them); notes: every note of the reading;
-# length: its end, in quarters; names: {part: its name}, where the reading names its parts (a detailed reading's parts.tsv)
+# length: its end, in quarters; names: {part: its name}, where the reading names its parts (a detailed reading's parts.tsv);
+# harmony: the analysts' labels (harmony.tsv: a DCML corpus's, or When in Rome's), each a dict, with `by` the analyst, where the work has them
 
 
 def skyline(notes, eps=1e-3):
@@ -63,13 +65,18 @@ def read(ready_dir, composers=None, min_notes=8, keep=()):
                 if any(k not in keep for k in flags): continue
                 rows = csv.DictReader(io.StringIO(t.extractfile(f'{slug}/{e["folder"]}/notes.tsv').read().decode('utf-8')), delimiter='\t')
                 lines, n_all, length = _lines(rows); lines = {p: l for p, l in lines.items() if len(l) >= min_notes}
-                names = None
+                names = harmony = None
+                if 'harmony.tsv' in e.get('files', []):
+                    harmony = [dict(r, onset=float(r['onset']), dur=float(r['dur']), bar=int(float(r['bar'])) if r['bar'] not in ('', 'None') else None)
+                               for r in csv.DictReader(io.StringIO(t.extractfile(f'{slug}/{e["folder"]}/harmony.tsv').read().decode('utf-8')), delimiter='\t')]
+                    by = e.get('harmony_by') or 'DCML'
+                    for h in harmony: h['by'] = by
                 if 'parts.tsv' in e.get('files', []):
                     names = {r['part']: r['name'] for r in csv.DictReader(io.StringIO(t.extractfile(f'{slug}/{e["folder"]}/parts.tsv').read().decode('utf-8')), delimiter='\t')}
                 if not lines: continue
                 low = min(lines.values(), key=lambda l: sum(n[2] for n in l) / len(l))
                 out.append(Work(e['id'], composer, e['collection'], e['kind'], e['label'], lines, low[-1][2] % 12,
-                                [tuple(x) for x in e.get('heard_again', [])], dict(flags, repeats=e.get('repeats')), n_all, length, names))
+                                [tuple(x) for x in e.get('heard_again', [])], dict(flags, repeats=e.get('repeats')), n_all, length, names, harmony))
     return out
 
 
