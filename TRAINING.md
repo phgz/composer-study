@@ -56,3 +56,13 @@ Not counted: composers after 1950 (under copyright, nearly absent from open coll
 - "Measure only" (works still under copyright, read but not reproduced): may be counted, for the ear and the profiles; not trained on for continuations without Philip's say.
 - Collections whose licence forbids commercial use (ASAP: CC BY-NC-SA 4.0; some CPDL editions, CC BY-NC, named in each work's `licence`): a model trained on them inherits the question. Fine while the project is private; to be looked at before anything is published.
 - The quotation check (score-reader `check`) filters every continuation, whatever it was trained on.
+
+## 6. What each model was trained on
+
+- **The listener's ear** (`study/ear.py`; 22 November 2026): score-reader's catalogue version 24 at 92bb2c2, read from the ready-read copy.
+  - **Lines:** the sounding skyline of each part.
+  - **Left out:** `midi_copy` (536 readings) and `realized`. Repeats are kept as played.
+  - **Weights:** each work weighs one; a composer is held to a tenth and a collection to a third of the whole.
+  - **Measures:** `study/heldout.py` and `study/rated.py`; the numbers are in the README.
+  - It prints what it was trained on (`lines.record`) each time it is trained.
+
