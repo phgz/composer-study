@@ -19,3 +19,14 @@ def test_the_sheet_first_then_the_year_of_birth():
     assert E.era_of('Pierre de La Rue')[0] == 'Before 1600'
     assert E.era_of('Mr. Powlwheel')[0] == 'Baroque'                      # known only by Playford's book of 1685
     assert E.era_of('Nobody') == (None, 'not in data/eras.json')
+
+
+def test_the_polish_scores_by_the_years_their_records_give():
+    """catalogue version 22: a birth year or one about it; a composer known only as active, born about 30 years before; one known
+    only by his death, about 50 years before it; one the collection gives no years is in neither table"""
+    assert E.era_of('Stanisław Moniuszko') == ('Romantic', 'born 1819')
+    assert E.era_of('Grzegorz Gerwazy Gorczycki') == ('Baroque', 'born about 1666')
+    assert E.era_of('Wacław Raszek')[0] == 'Romantic' and E.era_of('Wacław Raszek')[1].startswith('active in 1848 (born about 1818')
+    assert E.era_of('Marcin Mielczewski')[0] == 'Baroque'
+    assert E.era_of('Karol Szymanowski') == ('1890 to 1950', "the sheet's period")
+    assert E.era_of('Bauer')[0] is None and 'Bauer' not in P.table()

@@ -1,5 +1,5 @@
 """Each composer's shared period, by the table data/eras.json: the level a narrow unit falls back to after the composer, and where
-the cap of a tenth is counted (TRAINING.md, section 4). Every answer says how it was found."""
+the caps are counted (a composer's tenth, a collection's third: TRAINING.md, section 4). Every answer says how it was found."""
 import json, os
 
 TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'eras.json')
