@@ -1,0 +1,53 @@
+[
+ {
+  "composer": "Richling",
+  "kind": "mass",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 16,
+  "values": {
+   "steps": 0.5165420303311737,
+   "repeats": 0.23655679426918075,
+   "leaps": 0.12404132616316325,
+   "move": 2.5712980461671613,
+   "rising": 0.4657097631295205,
+   "leap answered": 0.36629267087616546,
+   "range": 9.187499999999998,
+   "register": 62.15625,
+   "even": 0.45196904521428666,
+   "long-short": 0.126311544064655,
+   "rhythm variety": 2.4708290147810157,
+   "surprise, pitch": 3.0067533299635043,
+   "surprise, rhythm": 1.9547240503342889,
+   "density": 2.6351241506277026,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.45196904521428666,
+    "others": 0.5571052178908481,
+    "auc": 0.22641509433962265
+   },
+   {
+    "measure": "long-short",
+    "value": 0.126311544064655,
+    "others": 0.07457598184990233,
+    "auc": 0.7974646226415094
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.0067533299635043,
+    "others": 2.4111778505664696,
+    "auc": 0.8826650943396227
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 106,
+   "composers": 9
+  }
+ }
+]

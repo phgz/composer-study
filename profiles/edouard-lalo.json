@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Édouard Lalo",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.3918198170020349,
+   "repeats": 0.15543413838646938,
+   "leaps": 0.3113218970591015,
+   "move": 5.010485809108694,
+   "rising": 0.5019522178952324,
+   "leap answered": 0.18404704248834194,
+   "range": 24.0,
+   "register": 77.5,
+   "even": 0.45924470554367275,
+   "long-short": 0.13124534203583818,
+   "rhythm variety": 2.684435164108982,
+   "surprise, pitch": 3.208276692801002,
+   "surprise, rhythm": 1.7487297900432694,
+   "density": 4.815861314330558,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

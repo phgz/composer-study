@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Nicola Porpora",
+  "kind": "air",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.3779633180393096,
+   "repeats": 0.24030202949960755,
+   "leaps": 0.2166754336252211,
+   "move": 3.976862803955622,
+   "rising": 0.44597778881900413,
+   "leap answered": 0.2160039600759688,
+   "range": 17.433333333333334,
+   "register": 75.33333333333333,
+   "even": 0.7618287407944874,
+   "long-short": 0.026096755478198775,
+   "rhythm variety": 1.4851019144444593,
+   "surprise, pitch": 2.334422182258696,
+   "surprise, rhythm": 1.1019314861348615,
+   "density": 9.771271456985742,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 28,
+   "composers": 5
+  }
+ }
+]

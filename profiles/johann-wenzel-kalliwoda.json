@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Johann Wenzel Kalliwoda",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.43446548926247713,
+   "repeats": 0.10222348456176235,
+   "leaps": 0.27649355740325576,
+   "move": 4.618608108394599,
+   "rising": 0.4594479506103849,
+   "leap answered": 0.15674273849738327,
+   "range": 26.8125,
+   "register": 74.875,
+   "even": 0.6304033435783095,
+   "long-short": 0.08264524563779241,
+   "rhythm variety": 2.112327043678729,
+   "surprise, pitch": 2.6694521719279,
+   "surprise, rhythm": 1.2147724172699306,
+   "density": 6.2649165955378745,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

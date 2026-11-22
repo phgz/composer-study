@@ -1,0 +1,71 @@
+[
+ {
+  "composer": "Mathias Zieleniewicz",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Baroque",
+  "works": 10,
+  "values": {
+   "steps": 0.6091812022586944,
+   "repeats": 0.17990488827261256,
+   "leaps": 0.11584115866850242,
+   "move": 2.499897505726289,
+   "rising": 0.47466261727249587,
+   "leap answered": 0.46165903890160187,
+   "range": 10.364999999999998,
+   "register": 70.2,
+   "even": 0.4451345278685513,
+   "long-short": 0.08624563365384472,
+   "rhythm variety": 2.4345572352851916,
+   "surprise, pitch": 2.8817475559269026,
+   "surprise, rhythm": 2.107002950162222,
+   "density": 1.655779078473802,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 70.2,
+    "others": 62.111111111111114,
+    "auc": 0.9296296296296298
+   },
+   {
+    "measure": "even",
+    "value": 0.4451345278685513,
+    "others": 0.3210424839025834,
+    "auc": 0.8981481481481481
+   },
+   {
+    "measure": "long-short",
+    "value": 0.08624563365384472,
+    "others": 0.15875141613627708,
+    "auc": 0.11481481481481481
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.4345572352851916,
+    "others": 2.8624511706014566,
+    "auc": 0.12592592592592594
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.107002950162222,
+    "others": 2.2805203792465236,
+    "auc": 0.18518518518518517
+   },
+   {
+    "measure": "density",
+    "value": 1.655779078473802,
+    "others": 1.1013083112850035,
+    "auc": 0.888888888888889
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 27,
+   "composers": 3
+  }
+ }
+]

@@ -1,0 +1,357 @@
+[
+ {
+  "composer": "Jan Barcicki",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5294864239717327,
+   "repeats": 0.15669948613059986,
+   "leaps": 0.10066502794450799,
+   "move": 2.7241458693824536,
+   "rising": 0.46238092036368883,
+   "leap answered": 0.3256493506493506,
+   "range": 15.041666666666666,
+   "register": 76.33333333333333,
+   "even": 0.49904610079136685,
+   "long-short": 0.1594726388509238,
+   "rhythm variety": 2.550760368171179,
+   "surprise, pitch": 2.8382734796751428,
+   "surprise, rhythm": 2.0776849923046457,
+   "density": 4.491119754746539,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.10066502794450799,
+    "others": 0.18759501231481165,
+    "auc": 0.20467769629782184
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1594726388509238,
+    "others": 0.09010880872822183,
+    "auc": 0.8489933649920322
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.550760368171179,
+    "others": 1.9541403112221782,
+    "auc": 0.8202956483217626
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8382734796751428,
+    "others": 2.2477936653281962,
+    "auc": 0.8298918811590951
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.0776849923046457,
+    "others": 1.2849163327590118,
+    "auc": 0.962858853962964
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -7,
+     4,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 3.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--006_barcicki-jan--polonaisso-no-6.krn",
+      "label": "Polonaisso - No. 6 (PL-SA 18/A I 18, kern)",
+      "bar": 20,
+      "notes": "F5 Bb4 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--002_barcicki-jan--polonaisso-no-2.krn",
+      "label": "Polonaisso - No. 2 (PL-SA 18/A I 18, kern)",
+      "bar": 12,
+      "notes": "A5 D5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 3.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--006_barcicki-jan--polonaisso-no-6.krn",
+      "label": "Polonaisso - No. 6 (PL-SA 18/A I 18, kern)",
+      "bar": 28,
+      "notes": "Bb5 Bb5 Ab5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--003_barcicki-jan--polonaisso-no-3.krn",
+      "label": "Polonaisso - No. 3 (PL-SA 18/A I 18, kern)",
+      "bar": 10,
+      "notes": "F#5 F#5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--004_barcicki-jan--polonaisso-no-4.krn",
+      "label": "Polonaisso - No. 4 (PL-SA 18/A I 18, kern)",
+      "bar": 23,
+      "notes": "Bb4 Bb4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 3.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--006_barcicki-jan--polonaisso-no-6.krn",
+      "label": "Polonaisso - No. 6 (PL-SA 18/A I 18, kern)",
+      "bar": 19,
+      "notes": "F5 Eb5 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--003_barcicki-jan--polonaisso-no-3.krn",
+      "label": "Polonaisso - No. 3 (PL-SA 18/A I 18, kern)",
+      "bar": 31,
+      "notes": "B4 A4 Ab4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--004_barcicki-jan--polonaisso-no-4.krn",
+      "label": "Polonaisso - No. 4 (PL-SA 18/A I 18, kern)",
+      "bar": 4,
+      "notes": "Bb4 Ab4 G4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 3.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--001_barcicki-jan--polonaisso-no-1.krn",
+      "label": "Polonaisso - No. 1 (PL-SA 18/A I 18, kern)",
+      "bar": 14,
+      "notes": "Eb5 C5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--003_barcicki-jan--polonaisso-no-3.krn",
+      "label": "Polonaisso - No. 3 (PL-SA 18/A I 18, kern)",
+      "bar": 8,
+      "notes": "D5 B4 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--004_barcicki-jan--polonaisso-no-4.krn",
+      "label": "Polonaisso - No. 4 (PL-SA 18/A I 18, kern)",
+      "bar": 28,
+      "notes": "Ab5 F5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -6,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 3.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--006_barcicki-jan--polonaisso-no-6.krn",
+      "label": "Polonaisso - No. 6 (PL-SA 18/A I 18, kern)",
+      "bar": 24,
+      "notes": "F5 Ab5 D5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--002_barcicki-jan--polonaisso-no-2.krn",
+      "label": "Polonaisso - No. 2 (PL-SA 18/A I 18, kern)",
+      "bar": 16,
+      "notes": "A4 C5 F#4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--003_barcicki-jan--polonaisso-no-3.krn",
+      "label": "Polonaisso - No. 3 (PL-SA 18/A I 18, kern)",
+      "bar": 24,
+      "notes": "B5 D6 Ab5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.4,
+    "works": 4,
+    "per_1000": 5.5,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--003_barcicki-jan--polonaisso-no-3.krn",
+      "label": "Polonaisso - No. 3 (PL-SA 18/A I 18, kern)",
+      "bar": 1,
+      "notes": "Ab5 F#5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--001_barcicki-jan--polonaisso-no-1.krn",
+      "label": "Polonaisso - No. 1 (PL-SA 18/A I 18, kern)",
+      "bar": 24,
+      "notes": "G5 F5 F5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--18-a-i-18--002_barcicki-jan--polonaisso-no-2.krn",
+      "label": "Polonaisso - No. 2 (PL-SA 18/A I 18, kern)",
+      "bar": 8,
+      "notes": "E5 D5 D5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 191,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Jan Barcicki",
+  "kind": "polonaise",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5294864239717327,
+   "repeats": 0.15669948613059986,
+   "leaps": 0.10066502794450799,
+   "move": 2.7241458693824536,
+   "rising": 0.46238092036368883,
+   "leap answered": 0.3256493506493506,
+   "range": 15.041666666666666,
+   "register": 76.33333333333333,
+   "even": 0.49904610079136685,
+   "long-short": 0.1594726388509238,
+   "rhythm variety": 2.550760368171179,
+   "surprise, pitch": 2.8382734796751428,
+   "surprise, rhythm": 2.0776849923046457,
+   "density": 4.491119754746539,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5294864239717327,
+    "others": 0.5823228484464115,
+    "auc": 0.23099415204678364
+   },
+   {
+    "measure": "leaps",
+    "value": 0.10066502794450799,
+    "others": 0.14409736792964462,
+    "auc": 0.13157894736842107
+   },
+   {
+    "measure": "rising",
+    "value": 0.46238092036368883,
+    "others": 0.4344717804314529,
+    "auc": 0.7573099415204679
+   },
+   {
+    "measure": "even",
+    "value": 0.49904610079136685,
+    "others": 0.6362172624742838,
+    "auc": 0.04093567251461989
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1594726388509238,
+    "others": 0.07883936647129153,
+    "auc": 0.9415204678362574
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.550760368171179,
+    "others": 2.0419718003635574,
+    "auc": 0.9561403508771931
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8382734796751428,
+    "others": 2.1753182890145926,
+    "auc": 0.912280701754386
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.0776849923046457,
+    "others": 1.4702169233560063,
+    "auc": 0.9970760233918129
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 8
+  }
+ }
+]

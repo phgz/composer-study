@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Edward Stefan Łodwigowski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.5060235600088625,
+   "repeats": 0.16298010920679093,
+   "leaps": 0.12465756403009087,
+   "move": 2.786492600260716,
+   "rising": 0.5006460394141554,
+   "leap answered": 0.49296536796536794,
+   "range": 12.25,
+   "register": 75.25,
+   "even": 0.39873950925747964,
+   "long-short": 0.16502071454502742,
+   "rhythm variety": 2.506319541077443,
+   "surprise, pitch": 1.878049915929929,
+   "surprise, rhythm": 1.4062715129401067,
+   "density": 4.180855251247319,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 431,
+   "composers": 57
+  }
+ }
+]

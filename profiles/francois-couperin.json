@@ -1,0 +1,2027 @@
+[
+ {
+  "composer": "François Couperin",
+  "kind": "air",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 11,
+  "values": {
+   "steps": 0.6372580667605554,
+   "repeats": 0.10072658490246504,
+   "leaps": 0.14577056103699035,
+   "move": 2.727277755935211,
+   "rising": 0.44947409308030845,
+   "leap answered": 0.29544160216096976,
+   "range": 12.818181818181818,
+   "register": 71.68181818181819,
+   "even": 0.5824304249947118,
+   "long-short": 0.13890400780174578,
+   "rhythm variety": 1.9983335726309919,
+   "surprise, pitch": 2.6640139932003852,
+   "surprise, rhythm": 1.4266013276885976,
+   "density": 3.286118188879742,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.13890400780174578,
+    "others": 0.0801491605498546,
+    "auc": 0.7538543327612992
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 9,
+    "per_1000": 10.4,
+    "others_per_1000": 2.0,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c12n03_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 12, movement 3: Air. Gracieusement et légèrement (DCML)",
+      "bar": 6,
+      "notes": "A4 Ab4 F#4 E4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c13n02_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 13, movement 2: Air. Agréablement (DCML)",
+      "bar": 9,
+      "notes": "Eb4 D4 C4 Bb3"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c06n04_air_diable.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 4: Air de Diable (DCML)",
+      "bar": 14,
+      "notes": "F5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 5,
+    "per_1000": 4.9,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c08n09_air_leger.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 9: Air léger (DCML)",
+      "bar": 1,
+      "notes": "G4 A4 B4 G4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c10n02_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 10, movement 2: Air tendre et louré. Sans lenteur (DCML)",
+      "bar": 18,
+      "notes": "F5 G5 A5 F5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c12n03_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 12, movement 3: Air. Gracieusement et légèrement (DCML)",
+      "bar": 37,
+      "notes": "A3 B3 C#4 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 11,
+    "per_1000": 17.2,
+    "others_per_1000": 6.9,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c13n02_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 13, movement 2: Air. Agréablement (DCML)",
+      "bar": 1,
+      "notes": "C4 Bb3 A3 G3"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c08n09_air_leger.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 9: Air léger (DCML)",
+      "bar": 9,
+      "notes": "A5 G5 F#5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c08n10_air_lentement.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 10: Air tendre. Lentement (DCML)",
+      "bar": 15,
+      "notes": "F5 Eb5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 2,
+    "per_1000": 3.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c06n04_air_diable.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 4: Air de Diable (DCML)",
+      "bar": 7,
+      "notes": "E5 F5 D5 G5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c08n09_air_leger.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 9: Air léger (DCML)",
+      "bar": 8,
+      "notes": "F#5 G5 E5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 3.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c08n11_air_baccantes.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 11: Air de Baccantes. Très animé (DCML)",
+      "bar": 7,
+      "notes": "A5 F#5 E5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c13n02_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 13, movement 2: Air. Agréablement (DCML)",
+      "bar": 15,
+      "notes": "Bb3 G3 F3 F3"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c06n04_air_diable.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 4: Air de Diable (DCML)",
+      "bar": 43,
+      "notes": "Eb5 C5 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 11,
+    "per_1000": 15.9,
+    "others_per_1000": 6.3,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c12n03_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 12, movement 3: Air. Gracieusement et légèrement (DCML)",
+      "bar": 14,
+      "notes": "C#4 B3 A3 Ab3"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c08n09_air_leger.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 9: Air léger (DCML)",
+      "bar": 4,
+      "notes": "E5 D5 C5 B4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c13n02_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 13, movement 2: Air. Agréablement (DCML)",
+      "bar": 1,
+      "notes": "D4 C4 Bb3 A3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 68,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "allemande",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 7,
+  "values": {
+   "steps": 0.5697422508032238,
+   "repeats": 0.064942990724736,
+   "leaps": 0.2255687225687815,
+   "move": 3.2387625411147853,
+   "rising": 0.4631160155853812,
+   "leap answered": 0.2794187465502748,
+   "range": 14.857142857142858,
+   "register": 74.28571428571429,
+   "even": 0.6278723129384042,
+   "long-short": 0.15413313882701843,
+   "rhythm variety": 1.8954096496386212,
+   "surprise, pitch": 2.8213002960429634,
+   "surprise, rhythm": 1.2133063966781097,
+   "density": 4.630999545046678,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 4.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+      "bar": 8,
+      "notes": "D5 E5 C#5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c06n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 2: Allemande (DCML)",
+      "bar": 19,
+      "notes": "F5 G5 E5 F5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 2: Allemande (DCML)",
+      "bar": 17,
+      "notes": "C5 D5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 6,
+    "per_1000": 4.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+      "bar": 11,
+      "notes": "F4 E4 D4 D4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 2: Allemande (DCML)",
+      "bar": 13,
+      "notes": "Bb4 A4 G4 G4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n03_seconde_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 3: Second Allemande (DCML)",
+      "bar": 6,
+      "notes": "Bb4 A4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 5,
+    "per_1000": 5.9,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+      "bar": 8,
+      "notes": "E5 D5 E5 C#5"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/00_allemande.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 1: Allemande (DCML)",
+      "bar": 1,
+      "notes": "G5 F5 G5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c06n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 2: Allemande (DCML)",
+      "bar": 19,
+      "notes": "G5 F5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.2,
+    "works": 4,
+    "per_1000": 3.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c11n03_seconde_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 3: Second Allemande (DCML)",
+      "bar": 13,
+      "notes": "A5 A5 G5 G5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c14n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 2: Allemande (DCML)",
+      "bar": 5,
+      "notes": "B4 B4 A4 A4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 2: Allemande (DCML)",
+      "bar": 21,
+      "notes": "D5 D5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c11n03_seconde_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 3: Second Allemande (DCML)",
+      "bar": 13,
+      "notes": "Bb5 A5 A5 G5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c05n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 2: Allemande (DCML)",
+      "bar": 37,
+      "notes": "Bb4 A4 A4 G4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c14n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 2: Allemande (DCML)",
+      "bar": 5,
+      "notes": "C5 B4 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 43,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "allemande",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.6783438728810169,
+   "repeats": 0.10016747896734224,
+   "leaps": 0.11448146532754935,
+   "move": 2.5020920625488707,
+   "rising": 0.4780444652750952,
+   "leap answered": 0.49944667260843734,
+   "range": 13.2375,
+   "register": 74.25,
+   "even": 0.47803897477691065,
+   "long-short": 0.1990782129803418,
+   "rhythm variety": 2.3901260476952757,
+   "surprise, pitch": 2.6866957939078535,
+   "surprise, rhythm": 1.377213074437503,
+   "density": 4.569196428571429,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 43,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "concerto",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 58,
+  "values": {
+   "steps": 0.6283279731546748,
+   "repeats": 0.07965569786833182,
+   "leaps": 0.1645061140520838,
+   "move": 2.850166213429375,
+   "rising": 0.46442944633052186,
+   "leap answered": 0.3564302469666292,
+   "range": 13.60344827586207,
+   "register": 72.00862068965517,
+   "even": 0.5260491117844315,
+   "long-short": 0.1637513655078452,
+   "rhythm variety": 2.226401561175309,
+   "surprise, pitch": 2.723586464954834,
+   "surprise, rhythm": 1.5260886828330213,
+   "density": 3.3997815326218426,
+   "lines": 2.0172413793103448
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 8.2,
+    "works": 27,
+    "per_1000": 3.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c12n02_badinage.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 12, movement 2: Badinage (& Lentement et patétiquement) (DCML)",
+      "bar": 18,
+      "notes": "Ab3 Ab3 F#3 F#3"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c08n01_ouverture.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 8, movement 1: Ouverture (DCML)",
+      "bar": 38,
+      "notes": "E5 E5 D5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n03_seconde_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 3: Second Allemande (DCML)",
+      "bar": 13,
+      "notes": "A5 A5 G5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.8,
+    "works": 47,
+    "per_1000": 11.2,
+    "others_per_1000": 4.5,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c12n03_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 12, movement 3: Air. Gracieusement et légèrement (DCML)",
+      "bar": 14,
+      "notes": "C#4 B3 A3 Ab3"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c05n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 2: Allemande (DCML)",
+      "bar": 3,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c07n04_fuguete.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 4: Fuguéte (DCML)",
+      "bar": 2,
+      "notes": "D5 C5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.5,
+    "works": 48,
+    "per_1000": 11.3,
+    "others_per_1000": 4.7,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c07n04_fuguete.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 4: Fuguéte (DCML)",
+      "bar": 2,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c05n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 2: Allemande (DCML)",
+      "bar": 4,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c12n02_badinage.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 12, movement 2: Badinage (& Lentement et patétiquement) (DCML)",
+      "bar": 4,
+      "notes": "E4 D4 C#4 B3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 7.5,
+    "works": 22,
+    "per_1000": 3.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c11n08_Rondeau.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 8: Rondeau (DCML)",
+      "bar": 3,
+      "notes": "D5 C5 B4 G4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c05n01_prelude.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 1: Prelude (DCML)",
+      "bar": 4,
+      "notes": "C5 Bb4 A4 F4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c05n04_gavote.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 4: Gavote (DCML)",
+      "bar": 1,
+      "notes": "G5 F5 E5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 32,
+    "per_1000": 5.6,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c12n03_air.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 12, movement 3: Air. Gracieusement et légèrement (DCML)",
+      "bar": 6,
+      "notes": "A4 Ab4 F#4 E4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c05n05_musete.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 5: Muséte (DCML)",
+      "bar": 8,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c13n04_chaconne.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 13, movement 4: Chaconne. Légère (DCML)",
+      "bar": 10,
+      "notes": "C4 B3 A3 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 43,
+    "per_1000": 9.5,
+    "others_per_1000": 4.4,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c07n04_fuguete.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 4: Fuguéte (DCML)",
+      "bar": 6,
+      "notes": "Eb5 D5 C5 Bb4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c05n05_musete.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 5, movement 5: Muséte (DCML)",
+      "bar": 1,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c09n08_caetera.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 9, movement 8: L’et cӕtera, ou Menuets (DCML)",
+      "bar": 1,
+      "notes": "E5 Eb5 C#5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 175,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 26,
+  "values": {
+   "steps": 0.6644023511491963,
+   "repeats": 0.09570749334872296,
+   "leaps": 0.13183631388487407,
+   "move": 2.557551796875162,
+   "rising": 0.481152560002833,
+   "leap answered": 0.3812180963322293,
+   "range": 12.942307692307692,
+   "register": 73.8076923076923,
+   "even": 0.4712784763776714,
+   "long-short": 0.16202859952982354,
+   "rhythm variety": 2.3107008046002053,
+   "surprise, pitch": 2.6011032165219126,
+   "surprise, rhythm": 1.489789976703276,
+   "density": 3.606385578384696,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "density",
+    "value": 3.606385578384696,
+    "others": 8.355430316548752,
+    "auc": 0.22136101446446269
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.8,
+    "works": 12,
+    "per_1000": 4.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c02n05_echos.notes.tsv",
+      "label": "Concert Royal no. 2, movement 5: Échos (DCML)",
+      "bar": 11,
+      "notes": "E5 E5 D5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c03n03_courante.notes.tsv",
+      "label": "Concert Royal no. 3, movement 3: Courante (DCML)",
+      "bar": 9,
+      "notes": "F#5 F#5 E5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+      "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+      "bar": 14,
+      "notes": "F#5 F#5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.6,
+    "works": 10,
+    "per_1000": 4.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c03n01_prelude.notes.tsv",
+      "label": "Concert Royal no. 3, movement 1: Prélude (DCML)",
+      "bar": 7,
+      "notes": "Ab5 A5 Ab5 F#5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c01n01_prelude.notes.tsv",
+      "label": "Concert Royal no. 1, movement 1: Prélude (DCML)",
+      "bar": 14,
+      "notes": "B5 C6 B5 A5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c02n02_allemande_fuguee.notes.tsv",
+      "label": "Concert Royal no. 2, movement 2: Allemande Fuguée (DCML)",
+      "bar": 3,
+      "notes": "F#5 G5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.0,
+    "works": 10,
+    "per_1000": 3.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c03n08_chaconne_legere.notes.tsv",
+      "label": "Concert Royal no. 3, movement 8: Chaconne (DCML)",
+      "bar": 3,
+      "notes": "D5 D5 C5 C5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c02n05_echos.notes.tsv",
+      "label": "Concert Royal no. 2, movement 5: Échos (DCML)",
+      "bar": 46,
+      "notes": "E5 E5 D5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c04n02_allemande.notes.tsv",
+      "label": "Concert Royal no. 4, movement 2: Allemande (DCML)",
+      "bar": 4,
+      "notes": "C#5 C#5 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.9,
+    "works": 11,
+    "per_1000": 3.8,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c02n05_echos.notes.tsv",
+      "label": "Concert Royal no. 2, movement 5: Échos (DCML)",
+      "bar": 19,
+      "notes": "E5 F#5 F#5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c03n02_allemande.notes.tsv",
+      "label": "Concert Royal no. 3, movement 2: Allemande (DCML)",
+      "bar": 3,
+      "notes": "B4 C#5 C#5 B4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c03n03_courante.notes.tsv",
+      "label": "Concert Royal no. 3, movement 3: Courante (DCML)",
+      "bar": 1,
+      "notes": "A4 B4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 17,
+    "per_1000": 9.6,
+    "others_per_1000": 4.0,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c04n04_courante_a_litalienne.notes.tsv",
+      "label": "Concert Royal no. 4, movement 4: Courante à l’italiéne (DCML)",
+      "bar": 1,
+      "notes": "B4 A4 G4 F#4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c02n04_air_contrefugue.notes.tsv",
+      "label": "Concert Royal no. 2, movement 4: Air Contrefugué (DCML)",
+      "bar": 8,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c03n08_chaconne_legere.notes.tsv",
+      "label": "Concert Royal no. 3, movement 8: Chaconne (DCML)",
+      "bar": 44,
+      "notes": "B4 A4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.2,
+    "works": 7,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c01n01_prelude.notes.tsv",
+      "label": "Concert Royal no. 1, movement 1: Prélude (DCML)",
+      "bar": 1,
+      "notes": "G4 A4 G4 A4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c02n05_echos.notes.tsv",
+      "label": "Concert Royal no. 2, movement 5: Échos (DCML)",
+      "bar": 45,
+      "notes": "D5 E5 D5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c03n01_prelude.notes.tsv",
+      "label": "Concert Royal no. 3, movement 1: Prélude (DCML)",
+      "bar": 11,
+      "notes": "D5 E5 D5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 61,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "courante",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.6579053685168335,
+   "repeats": 0.09025932666060055,
+   "leaps": 0.11077161055505004,
+   "move": 2.5011626024158815,
+   "rising": 0.48993085915994694,
+   "leap answered": 0.43440709617180207,
+   "range": 12.333333333333334,
+   "register": 72.33333333333333,
+   "even": 0.31736637381798677,
+   "long-short": 0.3068838068838069,
+   "rhythm variety": 2.8809412562500736,
+   "surprise, pitch": 2.7968515184902802,
+   "surprise, rhythm": 1.9162951560805679,
+   "density": 2.1412348072854335,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "courante",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.7119318181818182,
+   "repeats": 0.07471590909090908,
+   "leaps": 0.11144886363636364,
+   "move": 2.4787136899626114,
+   "rising": 0.46824928897836576,
+   "leap answered": 0.39999999999999997,
+   "range": 13.333333333333334,
+   "register": 74.33333333333333,
+   "even": 0.536024701020203,
+   "long-short": 0.21164479760954147,
+   "rhythm variety": 2.205107850856219,
+   "surprise, pitch": 2.727654466106785,
+   "surprise, rhythm": 1.4446143273105945,
+   "density": 2.8758749385271867,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 22,
+  "values": {
+   "steps": 0.5912517027179525,
+   "repeats": 0.07019705769664995,
+   "leaps": 0.1965078030196791,
+   "move": 3.084824939247621,
+   "rising": 0.4636316607026034,
+   "leap answered": 0.3337374620426809,
+   "range": 13.897727272727273,
+   "register": 73.06818181818181,
+   "even": 0.4786094050798368,
+   "long-short": 0.1837756312784342,
+   "rhythm variety": 2.3630838560533176,
+   "surprise, pitch": 2.871986420748978,
+   "surprise, rhythm": 1.6113972624930804,
+   "density": 3.2406319285316427,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.4786094050798368,
+    "others": 0.6550794809527966,
+    "auc": 0.23657024793388423
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1837756312784342,
+    "others": 0.09490039976620433,
+    "auc": 0.7690082644628099
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.3630838560533176,
+    "others": 1.724978187568416,
+    "auc": 0.7644628099173552
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 8,
+    "per_1000": 2.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c06n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 2: Allemande (DCML)",
+      "bar": 9,
+      "notes": "Bb5 A5 G5 F5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n04_courante.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 4: Courante (DCML)",
+      "bar": 12,
+      "notes": "C#5 C5 Bb4 Ab4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n05_seconde_courante.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 5: Seconde Courante (DCML)",
+      "bar": 15,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 6,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+      "bar": 11,
+      "notes": "F4 E4 D4 D4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 2: Allemande (DCML)",
+      "bar": 13,
+      "notes": "Bb4 A4 G4 G4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n03_seconde_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 3: Second Allemande (DCML)",
+      "bar": 6,
+      "notes": "Bb4 A4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+      "bar": 8,
+      "notes": "D5 E5 C#5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c06n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 6, movement 2: Allemande (DCML)",
+      "bar": 19,
+      "notes": "F5 G5 E5 F5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 2: Allemande (DCML)",
+      "bar": 17,
+      "notes": "C5 D5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 5,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c11n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 2: Allemande (DCML)",
+      "bar": 2,
+      "notes": "G5 G5 F5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c09n03_graces.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 9, movement 3: Les graces. Courante françoise (DCML)",
+      "bar": 13,
+      "notes": "B4 B4 A4 Ab4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n05_seconde_courante.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 5: Seconde Courante (DCML)",
+      "bar": 9,
+      "notes": "D5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -7
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.4,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c11n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 2: Allemande (DCML)",
+      "bar": 4,
+      "notes": "G5 Ab5 Bb5 Eb5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n03_seconde_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 3: Second Allemande (DCML)",
+      "bar": 12,
+      "notes": "F#5 G5 A5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c14n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 14, movement 2: Allemande (DCML)",
+      "bar": 10,
+      "notes": "C#5 D5 E5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c07n02_allemande.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 7, movement 2: Allemande (DCML)",
+      "bar": 7,
+      "notes": "E5 A5 G5 A5"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/00_allemande.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 1: Allemande (DCML)",
+      "bar": 1,
+      "notes": "D5 G5 F5 G5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c11n07_gigue.notes.tsv",
+      "label": "Nouveau Concert, ou Les Goûts-Réunis no. 11, movement 7: Gigue (DCML)",
+      "bar": 37,
+      "notes": "D5 G5 F5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 110,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "dance",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 15,
+  "values": {
+   "steps": 0.6780427264294661,
+   "repeats": 0.09900167168091789,
+   "leaps": 0.11822536155333739,
+   "move": 2.503941353757748,
+   "rising": 0.4845421993785949,
+   "leap answered": 0.4301978304919481,
+   "range": 12.783333333333333,
+   "register": 73.66666666666667,
+   "even": 0.5145069206995382,
+   "long-short": 0.16725040591197982,
+   "rhythm variety": 2.2196430718670244,
+   "surprise, pitch": 2.6961329400943703,
+   "surprise, rhythm": 1.4870292629626403,
+   "density": 3.503907175996449,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6780427264294661,
+    "others": 0.5454747683360401,
+    "auc": 0.7674104319981786
+   },
+   {
+    "measure": "leaps",
+    "value": 0.11822536155333739,
+    "others": 0.21137703325617985,
+    "auc": 0.18868286075383298
+   },
+   {
+    "measure": "move",
+    "value": 2.503941353757748,
+    "others": 3.221089225525287,
+    "auc": 0.18714714274178157
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.8,
+    "works": 9,
+    "per_1000": 4.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c01n05_gigue.notes.tsv",
+      "label": "Concert Royal no. 1, movement 5: Gigue (DCML)",
+      "bar": 14,
+      "notes": "E5 F#5 F#5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c01n02_allemande.notes.tsv",
+      "label": "Concert Royal no. 1, movement 2: Allemande (DCML)",
+      "bar": 5,
+      "notes": "D5 E5 E5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c02n02_allemande_fuguee.notes.tsv",
+      "label": "Concert Royal no. 2, movement 2: Allemande Fuguée (DCML)",
+      "bar": 6,
+      "notes": "A4 B4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 9,
+    "per_1000": 10.3,
+    "others_per_1000": 2.4,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c04n04_courante_a_litalienne.notes.tsv",
+      "label": "Concert Royal no. 4, movement 4: Courante à l’italiéne (DCML)",
+      "bar": 9,
+      "notes": "F#4 G4 A4 B4"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c01n04_gavotte.notes.tsv",
+      "label": "Concert Royal no. 1, movement 4: Gavotte (DCML)",
+      "bar": 3,
+      "notes": "A4 Bb4 C5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c01n06_menuet_en_trio.notes.tsv",
+      "label": "Concert Royal no. 1, movement 6: Menuet en Trio (DCML)",
+      "bar": 1,
+      "notes": "A4 Bb4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.1,
+    "works": 6,
+    "per_1000": 3.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c02n02_allemande_fuguee.notes.tsv",
+      "label": "Concert Royal no. 2, movement 2: Allemande Fuguée (DCML)",
+      "bar": 2,
+      "notes": "E5 D5 E5 F#5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c04n06_rigaudon.notes.tsv",
+      "label": "Concert Royal no. 4, movement 6: Rigaudon (DCML)",
+      "bar": 37,
+      "notes": "F#5 E5 F#5 Ab5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c01n03_sarabande.notes.tsv",
+      "label": "Concert Royal no. 1, movement 3: Sarabande (DCML)",
+      "bar": 5,
+      "notes": "C5 Bb4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c02n02_allemande_fuguee.notes.tsv",
+      "label": "Concert Royal no. 2, movement 2: Allemande Fuguée (DCML)",
+      "bar": 2,
+      "notes": "E5 F#5 G5 F#5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c03n03_courante.notes.tsv",
+      "label": "Concert Royal no. 3, movement 3: Courante (DCML)",
+      "bar": 3,
+      "notes": "D5 E5 F5 E5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c01n02_allemande.notes.tsv",
+      "label": "Concert Royal no. 1, movement 2: Allemande (DCML)",
+      "bar": 13,
+      "notes": "A4 B4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c03n03_courante.notes.tsv",
+      "label": "Concert Royal no. 3, movement 3: Courante (DCML)",
+      "bar": 7,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c04n02_allemande.notes.tsv",
+      "label": "Concert Royal no. 4, movement 2: Allemande (DCML)",
+      "bar": 5,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c01n02_allemande.notes.tsv",
+      "label": "Concert Royal no. 1, movement 2: Allemande (DCML)",
+      "bar": 3,
+      "notes": "E5 D5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 8,
+    "per_1000": 5.6,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "dcml/couperin_concerts:notes/c04n04_courante_a_litalienne.notes.tsv",
+      "label": "Concert Royal no. 4, movement 4: Courante à l’italiéne (DCML)",
+      "bar": 19,
+      "notes": "C#5 D5 C#5 D5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c03n03_courante.notes.tsv",
+      "label": "Concert Royal no. 3, movement 3: Courante (DCML)",
+      "bar": 7,
+      "notes": "F#5 G5 F#5 G5"
+     },
+     {
+      "work": "dcml/couperin_concerts:notes/c03n05_gavotte.notes.tsv",
+      "label": "Concert Royal no. 3, movement 5: Gavotte (DCML)",
+      "bar": 17,
+      "notes": "Ab4 A4 Ab4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 254,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "prelude",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 10,
+  "values": {
+   "steps": 0.592545532293127,
+   "repeats": 0.12074403896775318,
+   "leaps": 0.13993974860554761,
+   "move": 2.699541203607158,
+   "rising": 0.45703975647331435,
+   "leap answered": 0.4027563407554333,
+   "range": 15.229999999999999,
+   "register": 67.3,
+   "even": 0.48273393426792843,
+   "long-short": 0.1543977911778432,
+   "rhythm variety": 2.3979771116039394,
+   "surprise, pitch": 2.8395417949713795,
+   "surprise, rhythm": 1.6822205688529404,
+   "density": 4.2917604505666995,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.12074403896775318,
+    "others": 0.04774681359938692,
+    "auc": 0.8224049000915553
+   },
+   {
+    "measure": "leaps",
+    "value": 0.13993974860554761,
+    "others": 0.22030173082502216,
+    "auc": 0.23175370728275996
+   },
+   {
+    "measure": "move",
+    "value": 2.699541203607158,
+    "others": 3.3603178999732575,
+    "auc": 0.2070814528214367
+   },
+   {
+    "measure": "range",
+    "value": 15.229999999999999,
+    "others": 18.284343434665942,
+    "auc": 0.22695572748822945
+   },
+   {
+    "measure": "even",
+    "value": 0.48273393426792843,
+    "others": 0.7786739359522001,
+    "auc": 0.0925746830241401
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1543977911778432,
+    "others": 0.03964006491757686,
+    "auc": 0.8932194283162704
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.3979771116039394,
+    "others": 1.2852673557603636,
+    "auc": 0.8868257038347241
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.6822205688529404,
+    "others": 0.9540658913438337,
+    "auc": 0.8859230603698622
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 4.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/couperin_clavecin:notes/05_cinquieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 6: Fifth Prelude (DCML)",
+      "bar": 5,
+      "notes": "A4 A4 Ab4 Ab4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/06_sixieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 7: Sixth Prelude (DCML)",
+      "bar": 31,
+      "notes": "D6 D6 C#6 C#6"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/04_quatrieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 5: Fourth Prelude (DCML)",
+      "bar": 14,
+      "notes": "F4 F4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 5,
+    "per_1000": 6.3,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "dcml/couperin_clavecin:notes/05_cinquieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 6: Fifth Prelude (DCML)",
+      "bar": 8,
+      "notes": "Eb4 E4 E4 Eb4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/04_quatrieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 5: Fourth Prelude (DCML)",
+      "bar": 14,
+      "notes": "E4 F4 F4 E4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/08_huitieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 9: Eighth Prelude (DCML)",
+      "bar": 28,
+      "notes": "Eb5 E5 E5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 5,
+    "per_1000": 3.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/couperin_clavecin:notes/05_cinquieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 6: Fifth Prelude (DCML)",
+      "bar": 1,
+      "notes": "B3 C#4 D4 D4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/02_second_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 3: Second Prelude (DCML)",
+      "bar": 13,
+      "notes": "D5 E5 F5 F5"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/03_troisieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 4: Third Prelude (DCML)",
+      "bar": 3,
+      "notes": "C5 D5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 3.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/couperin_clavecin:notes/07_septieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 8: Seventh Prelude (DCML)",
+      "bar": 14,
+      "notes": "G4 G4 A4 Bb4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/05_cinquieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 6: Fifth Prelude (DCML)",
+      "bar": 9,
+      "notes": "F#4 F#4 Ab4 A4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/04_quatrieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 5: Fourth Prelude (DCML)",
+      "bar": 3,
+      "notes": "D4 D4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 5.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/couperin_clavecin:notes/01_premier_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 2: First Prelude (DCML)",
+      "bar": 4,
+      "notes": "F4 E4 E4 F4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/05_cinquieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 6: Fifth Prelude (DCML)",
+      "bar": 8,
+      "notes": "E4 Eb4 Eb4 E4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/04_quatrieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 5: Fourth Prelude (DCML)",
+      "bar": 6,
+      "notes": "F4 E4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.2,
+    "works": 5,
+    "per_1000": 5.0,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/couperin_clavecin:notes/08_huitieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 9: Eighth Prelude (DCML)",
+      "bar": 8,
+      "notes": "G4 G4 F#4 G4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/04_quatrieme_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 5: Fourth Prelude (DCML)",
+      "bar": 11,
+      "notes": "C4 C4 B3 C4"
+     },
+     {
+      "work": "dcml/couperin_clavecin:notes/02_second_prelude.notes.tsv",
+      "label": "L’Art de toucher le clavecin, movement 3: Second Prelude (DCML)",
+      "bar": 8,
+      "notes": "F4 F4 E4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 75,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "prelude",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.62333812656441,
+   "repeats": 0.08628842027268338,
+   "leaps": 0.15890943681962155,
+   "move": 2.7463171192181686,
+   "rising": 0.4785268476872675,
+   "leap answered": 0.2806547619047619,
+   "range": 13.925,
+   "register": 74.25,
+   "even": 0.3900175579848197,
+   "long-short": 0.22662680682814723,
+   "rhythm variety": 2.745039604523915,
+   "surprise, pitch": 2.79263554888473,
+   "surprise, rhythm": 1.8346608892443261,
+   "density": 3.796119914116195,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 109,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "sarabande",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.5500030639732372,
+   "repeats": 0.0772203587937853,
+   "leaps": 0.218367090318768,
+   "move": 3.3613904951471785,
+   "rising": 0.44068816035931935,
+   "leap answered": 0.34722107753357756,
+   "range": 13.96875,
+   "register": 71.875,
+   "even": 0.3801934762605622,
+   "long-short": 0.21153654014761145,
+   "rhythm variety": 2.783137388289929,
+   "surprise, pitch": 3.0704896004413467,
+   "surprise, rhythm": 2.0066646744199037,
+   "density": 2.3466939323007017,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.3801934762605622,
+    "others": 0.5733549640053296,
+    "auc": 0.21949404761904756
+   },
+   {
+    "measure": "long-short",
+    "value": 0.21153654014761145,
+    "others": 0.13031631467501825,
+    "auc": 0.7703373015873014
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.783137388289929,
+    "others": 2.047919375052185,
+    "auc": 0.7951388888888887
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.0704896004413467,
+    "others": 2.86015000804533,
+    "auc": 0.7663690476190474
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.0066646744199037,
+    "others": 1.5709079464665412,
+    "auc": 0.8090277777777776
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 33,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "François Couperin",
+  "kind": "sarabande",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5351078125954432,
+   "repeats": 0.15498442367601248,
+   "leaps": 0.16631543583165354,
+   "move": 2.9229723545721282,
+   "rising": 0.5146011108419248,
+   "leap answered": 0.2871794871794872,
+   "range": 12.866666666666665,
+   "register": 74.0,
+   "even": 0.2250307401903243,
+   "long-short": 0.2709379498918633,
+   "rhythm variety": 3.0095350035335735,
+   "surprise, pitch": 3.154268714858668,
+   "surprise, rhythm": 1.9895256457959238,
+   "density": 2.9129629629629625,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 33,
+   "composers": 4
+  }
+ }
+]

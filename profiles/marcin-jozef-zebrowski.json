@@ -1,0 +1,668 @@
+[
+ {
+  "composer": "Marcin Józef Żebrowski",
+  "kind": "magnificat",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 13,
+  "values": {
+   "steps": 0.5010344702168035,
+   "repeats": 0.2425795812482766,
+   "leaps": 0.13923109908575915,
+   "move": 3.077228250425896,
+   "rising": 0.43853468341054963,
+   "leap answered": 0.18856590140037427,
+   "range": 15.353846153846153,
+   "register": 72.76923076923077,
+   "even": 0.6213106044233274,
+   "long-short": 0.07758071671911398,
+   "rhythm variety": 2.062150783607161,
+   "surprise, pitch": 2.486967095079969,
+   "surprise, rhythm": 1.4930742144208475,
+   "density": 9.728165157490235,
+   "lines": 7.384615384615385
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.43853468341054963,
+    "others": 0.49795980568040465,
+    "auc": 0.16909216909216906
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 7,
+    "per_1000": 5.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-743--001-003_zebrowski-marcin-jozef--magnificat-quia-respexit.krn",
+      "label": "Magnificat, Quia respexit, movement 3 (PL-CZ III-743, kern)",
+      "bar": 13,
+      "notes": "Eb5 C#5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-743--001-007_zebrowski-marcin-jozef--magnificat-deposuit-potentes.krn",
+      "label": "Magnificat, Deposuit potentes, movement 7: Andante (PL-CZ III-743, kern)",
+      "bar": 2,
+      "notes": "F#5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--10e--001-004_zebrowski-marcin-jozef--vespere-ex-d-magnificat.krn",
+      "label": "Vespere ex D, Magnificat, movement 4 (PL-STAb 10e, kern)",
+      "bar": 41,
+      "notes": "Ab5 F#5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 6,
+    "per_1000": 4.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-743--001-008_zebrowski-marcin-jozef--magnificat-esurientes-implevit-bonis.krn",
+      "label": "Magnificat, Esurientes implevit bonis, movement 8 (PL-CZ III-743, kern)",
+      "bar": 46,
+      "notes": "Ab5 Ab5 Ab5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-743--001-009_zebrowski-marcin-jozef--magnificat-suscepit-israel.krn",
+      "label": "Magnificat, Suscepit Israel, movement 9 (PL-CZ III-743, kern)",
+      "bar": 3,
+      "notes": "F5 F5 F5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-743--001-005_zebrowski-marcin-jozef--magnificat-et-misericordia.krn",
+      "label": "Magnificat, Et misericordia, movement 5: Grave (PL-CZ III-743, kern)",
+      "bar": 4,
+      "notes": "Ab4 Ab4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 4,
+    "per_1000": 3.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--10e--001-004_zebrowski-marcin-jozef--vespere-ex-d-magnificat.krn",
+      "label": "Vespere ex D, Magnificat, movement 4 (PL-STAb 10e, kern)",
+      "bar": 13,
+      "notes": "D5 C#5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-743--001-005_zebrowski-marcin-jozef--magnificat-et-misericordia.krn",
+      "label": "Magnificat, Et misericordia, movement 5: Grave (PL-CZ III-743, kern)",
+      "bar": 5,
+      "notes": "C5 B4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-743--001-004_zebrowski-marcin-jozef--magnificat-quia-fecit.krn",
+      "label": "Magnificat, Quia fecit, movement 4: Allegro (PL-CZ III-743, kern)",
+      "bar": 35,
+      "notes": "G4 F#4 F#4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 25,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Marcin Józef Żebrowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 21,
+  "values": {
+   "steps": 0.4604592227857675,
+   "repeats": 0.20666136581893366,
+   "leaps": 0.20009145031721823,
+   "move": 3.606819113940118,
+   "rising": 0.46080861318075367,
+   "leap answered": 0.21368036109378938,
+   "range": 17.70238095238095,
+   "register": 75.33333333333333,
+   "even": 0.5651767195866264,
+   "long-short": 0.06949676601549422,
+   "rhythm variety": 2.2232476837988178,
+   "surprise, pitch": 2.474482147977864,
+   "surprise, rhythm": 1.6905421421144984,
+   "density": 7.297394179332446,
+   "lines": 7.190476190476191
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.20009145031721823,
+    "others": 0.11261873820020726,
+    "auc": 0.792341854403735
+   },
+   {
+    "measure": "move",
+    "value": 3.606819113940118,
+    "others": 2.677894470769119,
+    "auc": 0.8401686138189901
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 6,
+    "per_1000": 2.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-002_zebrowski-marcin-jozef--missa-pastoralis-christe.krn",
+      "label": "Missa Pastoralis, Christe, movement 2 (PL-CZ III-745, kern)",
+      "bar": 5,
+      "notes": "A5 Ab5 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-744--001-003_zebrowski-marcin-jozef--missa-ex-d-patrem.krn",
+      "label": "Missa ex D, Patrem, movement 3 (PL-CZ III-744, kern)",
+      "bar": 9,
+      "notes": "G5 F#5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--10e--001-005_zebrowski-marcin-jozef--vespere-ex-d-gloria-patri.krn",
+      "label": "Vespere ex D, Gloria Patri, movement 5 (PL-STAb 10e, kern)",
+      "bar": 5,
+      "notes": "G5 F#5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 7,
+    "per_1000": 2.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-747--001-002_zebrowski-marcin-jozef--missa-pastoritia-et-in-terra.krn",
+      "label": "Missa Pastoritia, Et in terra, movement 2 (PL-CZ III-747, kern)",
+      "bar": 129,
+      "notes": "F#5 E5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-003_zebrowski-marcin-jozef--missa-pastoralis-et-in-terra.krn",
+      "label": "Missa Pastoralis, Et in terra, movement 3 (PL-CZ III-745, kern)",
+      "bar": 30,
+      "notes": "C#5 B4 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-744--001-003_zebrowski-marcin-jozef--missa-ex-d-patrem.krn",
+      "label": "Missa ex D, Patrem, movement 3 (PL-CZ III-744, kern)",
+      "bar": 17,
+      "notes": "F#5 E5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-744--001-003_zebrowski-marcin-jozef--missa-ex-d-patrem.krn",
+      "label": "Missa ex D, Patrem, movement 3 (PL-CZ III-744, kern)",
+      "bar": 67,
+      "notes": "A5 E5 C#5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-003_zebrowski-marcin-jozef--missa-pastoralis-et-in-terra.krn",
+      "label": "Missa Pastoralis, Et in terra, movement 3 (PL-CZ III-745, kern)",
+      "bar": 5,
+      "notes": "D6 A5 F#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-005_zebrowski-marcin-jozef--missa-pastoralis-patrem.krn",
+      "label": "Missa Pastoralis, Patrem, movement 5 (PL-CZ III-745, kern)",
+      "bar": 3,
+      "notes": "D6 A5 F#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-007_zebrowski-marcin-jozef--missa-pastoralis-et-resurrexit.krn",
+      "label": "Missa Pastoralis, Et resurrexit, movement 7 (PL-CZ III-745, kern)",
+      "bar": 1,
+      "notes": "A5 F#5 D5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-003_zebrowski-marcin-jozef--missa-pastoralis-et-in-terra.krn",
+      "label": "Missa Pastoralis, Et in terra, movement 3 (PL-CZ III-745, kern)",
+      "bar": 5,
+      "notes": "A5 F#5 D5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-005_zebrowski-marcin-jozef--missa-pastoralis-patrem.krn",
+      "label": "Missa Pastoralis, Patrem, movement 5 (PL-CZ III-745, kern)",
+      "bar": 23,
+      "notes": "A5 F#5 D5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--10e--001-005_zebrowski-marcin-jozef--vespere-ex-d-gloria-patri.krn",
+      "label": "Vespere ex D, Gloria Patri, movement 5 (PL-STAb 10e, kern)",
+      "bar": 131,
+      "notes": "E5 B4 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-747--001-002_zebrowski-marcin-jozef--missa-pastoritia-et-in-terra.krn",
+      "label": "Missa Pastoritia, Et in terra, movement 2 (PL-CZ III-747, kern)",
+      "bar": 132,
+      "notes": "A5 E5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-747--001-001_zebrowski-marcin-jozef--missa-pastoritia-kyrie.krn",
+      "label": "Missa Pastoritia, Kyrie, movement 1 (PL-CZ III-747, kern)",
+      "bar": 4,
+      "notes": "A5 E5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-007_zebrowski-marcin-jozef--missa-pastoralis-et-resurrexit.krn",
+      "label": "Missa Pastoralis, Et resurrexit, movement 7 (PL-CZ III-745, kern)",
+      "bar": 1,
+      "notes": "D5 A4 F#4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-005_zebrowski-marcin-jozef--missa-pastoralis-patrem.krn",
+      "label": "Missa Pastoralis, Patrem, movement 5 (PL-CZ III-745, kern)",
+      "bar": 21,
+      "notes": "A5 E5 C#5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-745--001-003_zebrowski-marcin-jozef--missa-pastoralis-et-in-terra.krn",
+      "label": "Missa Pastoralis, Et in terra, movement 3 (PL-CZ III-745, kern)",
+      "bar": 7,
+      "notes": "G5 D5 B4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 181,
+   "composers": 20
+  }
+ },
+ {
+  "composer": "Marcin Józef Żebrowski",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 10,
+  "values": {
+   "steps": 0.5402980887878448,
+   "repeats": 0.19485295871849126,
+   "leaps": 0.12373573119008738,
+   "move": 2.784067678099338,
+   "rising": 0.45602006330148237,
+   "leap answered": 0.2694476112235672,
+   "range": 15.350000000000005,
+   "register": 75.9,
+   "even": 0.504712307161644,
+   "long-short": 0.10927649867135598,
+   "rhythm variety": 2.5442037045264767,
+   "surprise, pitch": 2.412954704459601,
+   "surprise, rhythm": 1.9083464318459555,
+   "density": 9.003258930566252,
+   "lines": 6.7
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.19485295871849126,
+    "others": 0.10499326657121819,
+    "auc": 0.7699839875610368
+   },
+   {
+    "measure": "leaps",
+    "value": 0.12373573119008738,
+    "others": 0.20603466310552568,
+    "auc": 0.19360739334263524
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.5442037045264767,
+    "others": 1.979932222158575,
+    "auc": 0.7513887175735665
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.9083464318459555,
+    "others": 1.381467069548873,
+    "auc": 0.8164077664565946
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 9.4,
+    "works": 7,
+    "per_1000": 7.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-167--001_zebrowski-marcin-jozef--sonata-pro-processione-in-e.krn",
+      "label": "Sonata pro processione in e (PL-CZ I-167, kern)",
+      "bar": 4,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-170--001_zebrowski-marcin-jozef--sonata-pro-processione-in-d.krn",
+      "label": "Sonata pro processione in d (PL-CZ I-170, kern)",
+      "bar": 1,
+      "notes": "D5 E5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-170--002_zebrowski-marcin-jozef--sonata-pro-processione-in-es.krn",
+      "label": "Sonata pro processione in Es (PL-CZ I-170, kern)",
+      "bar": 15,
+      "notes": "G5 A5 Bb5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 6.8,
+    "works": 3,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-260_zebrowski-marcin-jozef--sonata-pro-processione.krn",
+      "label": "[Sonata] pro processione: Adagio (PL-CZ II-260, kern)",
+      "bar": 38,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-168--002_zebrowski-marcin-jozef--sonata-pro-processione-in-es.krn",
+      "label": "Sonata pro processione in Es (PL-CZ I-168, kern)",
+      "bar": 26,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-168--001_zebrowski-marcin-jozef--sonata-pro-processione-in-c.krn",
+      "label": "Sonata pro processione in C (PL-CZ I-168, kern)",
+      "bar": 16,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.2,
+    "works": 3,
+    "per_1000": 2.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-167--002_zebrowski-marcin-jozef--sonata-pro-processione-in-a.krn",
+      "label": "Sonata pro processione in A (PL-CZ I-167, kern)",
+      "bar": 24,
+      "notes": "F#4 E4 E4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-750_zebrowski-marcin-jozef--sonata-pro-processione.krn",
+      "label": "Sonata pro processione (PL-CZ III-750, kern)",
+      "bar": 76,
+      "notes": "E5 D5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-167--001_zebrowski-marcin-jozef--sonata-pro-processione-in-e.krn",
+      "label": "Sonata pro processione in e (PL-CZ I-167, kern)",
+      "bar": 17,
+      "notes": "A4 G4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     -1
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 2.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-167--002_zebrowski-marcin-jozef--sonata-pro-processione-in-a.krn",
+      "label": "Sonata pro processione in A (PL-CZ I-167, kern)",
+      "bar": 23,
+      "notes": "Ab4 F#4 Ab4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-752--001_zebrowski-marcin-jozef--sonata-pro-processione-in-es.krn",
+      "label": "Sonata pro processione in Es (PL-CZ III-752, kern)",
+      "bar": 7,
+      "notes": "G5 F5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-170--002_zebrowski-marcin-jozef--sonata-pro-processione-in-es.krn",
+      "label": "Sonata pro processione in Es (PL-CZ I-170, kern)",
+      "bar": 14,
+      "notes": "G5 A5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-752--001_zebrowski-marcin-jozef--sonata-pro-processione-in-es.krn",
+      "label": "Sonata pro processione in Es (PL-CZ III-752, kern)",
+      "bar": 6,
+      "notes": "Ab5 Bb5 Ab5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-167--001_zebrowski-marcin-jozef--sonata-pro-processione-in-e.krn",
+      "label": "Sonata pro processione in e (PL-CZ I-167, kern)",
+      "bar": 13,
+      "notes": "C5 A4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-168--001_zebrowski-marcin-jozef--sonata-pro-processione-in-c.krn",
+      "label": "Sonata pro processione in C (PL-CZ I-168, kern)",
+      "bar": 1,
+      "notes": "F5 D5 F5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 479,
+   "composers": 15
+  }
+ }
+]

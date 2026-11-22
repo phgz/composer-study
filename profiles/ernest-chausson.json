@@ -1,0 +1,270 @@
+[
+ {
+  "composer": "Ernest Chausson",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.379425613552941,
+   "repeats": 0.4046128743637237,
+   "leaps": 0.09818026134162156,
+   "move": 2.7858347242374575,
+   "rising": 0.4679010868037307,
+   "leap answered": 0.21350095445490183,
+   "range": 11.308333333333332,
+   "register": 69.54166666666667,
+   "even": 0.4046747276099778,
+   "long-short": 0.1212912982423381,
+   "rhythm variety": 2.897102229129303,
+   "surprise, pitch": 2.9165762168481355,
+   "surprise, rhythm": 2.351959296358624,
+   "density": 4.847217396447598,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.4046128743637237,
+    "others": 0.23372527176361574,
+    "auc": 0.8084437305768649
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.9165762168481355,
+    "others": 2.419115990573324,
+    "auc": 0.7729034677173736
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.351959296358624,
+    "others": 1.6261850366117294,
+    "auc": 0.9142463646294404
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -1,
+     0
+    ],
+    "z": 6.7,
+    "works": 4,
+    "per_1000": 4.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/Serres_chaudes,_Op.24/1_Serre_chaude/lc5057840.mxl",
+      "label": "Serres chaudes, Op.24, Serre chaude (OpenScore)",
+      "bar": 7,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/3_Les_Papillons/lc5077660.mxl",
+      "label": "Mélodies, Op.2, Les Papillons (OpenScore)",
+      "bar": 22,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/1_Nanny/lc5077645.mxl",
+      "label": "Mélodies, Op.2, Nanny (OpenScore)",
+      "bar": 20,
+      "notes": "C#5 C#5 C#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 5,
+    "per_1000": 4.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/3_Les_Papillons/lc5077660.mxl",
+      "label": "Mélodies, Op.2, Les Papillons (OpenScore)",
+      "bar": 24,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/6_Hébé/lc5161599.mxl",
+      "label": "Mélodies, Op.2, Hébé (OpenScore)",
+      "bar": 7,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/Serres_chaudes,_Op.24/4_Fauves_las/lc5057851.mxl",
+      "label": "Serres chaudes, Op.24, Fauves las (OpenScore)",
+      "bar": 31,
+      "notes": "F4 F4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 5,
+    "per_1000": 4.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/Serres_chaudes,_Op.24/4_Fauves_las/lc5057851.mxl",
+      "label": "Serres chaudes, Op.24, Fauves las (OpenScore)",
+      "bar": 1,
+      "notes": "C5 C5 C5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/1_Nanny/lc5077645.mxl",
+      "label": "Mélodies, Op.2, Nanny (OpenScore)",
+      "bar": 21,
+      "notes": "C#4 C#4 C#4 D4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/5_Sérénade_italienne/lc5920728.mxl",
+      "label": "Mélodies, Op.2, Sérénade italienne (OpenScore)",
+      "bar": 15,
+      "notes": "C5 C5 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 4,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/Serres_chaudes,_Op.24/1_Serre_chaude/lc5057840.mxl",
+      "label": "Serres chaudes, Op.24, Serre chaude (OpenScore)",
+      "bar": 7,
+      "notes": "G4 G4 F#4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/1_Nanny/lc5077645.mxl",
+      "label": "Mélodies, Op.2, Nanny (OpenScore)",
+      "bar": 36,
+      "notes": "C5 C5 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/Serres_chaudes,_Op.24/4_Fauves_las/lc5057851.mxl",
+      "label": "Serres chaudes, Op.24, Fauves las (OpenScore)",
+      "bar": 10,
+      "notes": "Bb4 Bb4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/Serres_chaudes,_Op.24/3_Lassitude/lc5057847.mxl",
+      "label": "Serres chaudes, Op.24, Lassitude (OpenScore)",
+      "bar": 12,
+      "notes": "F#4 F#4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/1_Nanny/lc5077645.mxl",
+      "label": "Mélodies, Op.2, Nanny (OpenScore)",
+      "bar": 21,
+      "notes": "C#4 C#4 D4 D4"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/Serres_chaudes,_Op.24/4_Fauves_las/lc5057851.mxl",
+      "label": "Serres chaudes, Op.24, Fauves las (OpenScore)",
+      "bar": 1,
+      "notes": "C5 C5 C#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 4,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/5_Sérénade_italienne/lc5920728.mxl",
+      "label": "Mélodies, Op.2, Sérénade italienne (OpenScore)",
+      "bar": 13,
+      "notes": "B4 B4 B4 D5"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/4_La_dernière_feuille/lc5077675.mxl",
+      "label": "Mélodies, Op.2, La dernière feuille (OpenScore)",
+      "bar": 23,
+      "notes": "B4 B4 B4 D5"
+     },
+     {
+      "work": "openscore-lieder:Chausson,_Ernest/7_Mélodies,_Op.2/3_Les_Papillons/lc5077660.mxl",
+      "label": "Mélodies, Op.2, Les Papillons (OpenScore)",
+      "bar": 4,
+      "notes": "B4 B4 B4 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1087,
+   "composers": 97
+  }
+ }
+]

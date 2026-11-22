@@ -1,0 +1,20 @@
+# Annibale Stabile
+
+1 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+
+### Annibale Stabile: madrigal, all
+
+43 works; set against 272 works by 10 composers: other composers' madrigal of the Before 1600 period, for any forces (too few for these forces: range, register and density not compared).
+
+**Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
+- moves that rise: 44%, against 50% (18 in 100)
+
+**Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
+- same, same, down a step (longer, much shorter, much longer): 2.8 in 1,000 figures, against 0.3, in 14 works. At: Il terzo libro de madrigali a cinque voci, Escon dal chiaro viso, movement 1 (PL-GD Ee 2628, kern), bar 14 (D5 D5 D5 C5); Il primo libro de madrigali a cinque voci, Chi fia lasso mai piu, movement 15 (PL-GD Ee 2628, kern), bar 35 (D5 D5 D5 C5); Il primo libro de madrigali a cinque voci, Da l’aurea terra, movement 17 (PL-GD Ee 2628, kern), bar 25 (E5 E5 E5 D5)
+- down a step, down a half step, down a step (as long, much shorter, as long): 1.9 in 1,000 figures, against 0.2, in 8 works. At: Il terzo libro de madrigali a cinque voci, Facea con gli occhi, movement 15 (PL-GD Ee 2628, kern), bar 32 (G5 F5 E5 D5); Il terzo libro de madrigali a cinque voci, Venga Himeneo, movement 3 (PL-GD Ee 2628, kern), bar 19 (D5 C5 B4 A4); Il primo libro de madrigali a cinque voci, Quanta nel freddo Aquario, movement 19 (PL-GD Ee 2628, kern), bar 13 (D5 C5 B4 A4)
+- down a half step, up a half step, same (as long, much longer, much longer): 1.5 in 1,000 figures, against 0.1, in 8 works. At: Il primo libro de madrigali a cinque voci, Qual vaga pastorella, movement 20 (PL-GD Ee 2628, kern), bar 24 (D5 C#5 D5 D5); Il primo libro de madrigali a cinque voci, Solo soletto, movement 9 (PL-GD Ee 2628, kern), bar 20 (D5 C#5 D5 D5); Il primo libro de madrigali a cinque voci, S’altri d’amor sospira, movement 6 (PL-GD Ee 2628, kern), bar 22 (G4 F#4 G4 G4)
+- down a step, down a step, down a half step (longer, much shorter, much longer): 3.9 in 1,000 figures, against 1.2, in 14 works. At: Il primo libro de madrigali a cinque voci, Fede al mondo, movement 4 (PL-GD Ee 2628, kern), bar 21 (A4 G4 F4 E4); Il primo libro de madrigali a cinque voci, Qual vaga pastorella, movement 20 (PL-GD Ee 2628, kern), bar 6 (E5 D5 C5 B4); Il primo libro de madrigali a cinque voci, Qui Maria quiacque, movement 18 (PL-GD Ee 2628, kern), bar 17 (E5 D5 C5 B4)
+- down a step, same, down a half step (much shorter, much longer, as long): 1.3 in 1,000 figures, against 0.1, in 6 works. At: Il primo libro de madrigali a cinque voci, Ma mostra homai, movement 8 (PL-GD Ee 2628, kern), bar 9 (D5 C5 C5 B4); Il primo libro de madrigali a cinque voci, Tirsi qui cadde Liuia, movement 3 (PL-GD Ee 2628, kern), bar 15 (C5 Bb4 Bb4 A4); Il terzo libro de madrigali a cinque voci, Alla riua del Tebro, movement 22 (PL-GD Ee 2628, kern), bar 38 (C5 Bb4 Bb4 A4)
+- down a step, down a half step, up a half step (as long, as long, much longer): 1.7 in 1,000 figures, against 0.3, in 7 works. At: Il terzo libro de madrigali a cinque voci, Fu’l lauro sempre verde, movement 16 (PL-GD Ee 2628, kern), bar 29 (A4 G4 F#4 G4); Il terzo libro de madrigali a cinque voci, Veramente in Amore, movement 7 (PL-GD Ee 2628, kern), bar 7 (A4 G4 F#4 G4); Il primo libro de madrigali a cinque voci, Da l’aurea terra, movement 17 (PL-GD Ee 2628, kern), bar 22 (D5 C5 B4 C5)
+
+**All measures:** moves by step 58%; repeated notes 21%; leaps of a fourth or more 9%; mean move (semitones) 2.37; moves that rise 44%; leaps answered by a step back 39%; range of the melody (semitones) 10.0; register of the melody C5; even rhythm (a note as long as the one before) 37%; dotted figures (3:1) 11%; rhythmic variety (bits) 2.73; the ear's surprise, pitch (bits a note) 2.83; the ear's surprise, rhythm (bits a note) 2.22; notes a quarter (texture) 2.42; lines (texture) 5.0

@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Annibale Stabile",
+  "kind": "madrigal",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 43,
+  "values": {
+   "steps": 0.582554997177028,
+   "repeats": 0.21250945122376458,
+   "leaps": 0.08626449492139607,
+   "move": 2.37223537919044,
+   "rising": 0.44351439006316934,
+   "leap answered": 0.3869162374373332,
+   "range": 10.001162790697673,
+   "register": 71.59302325581395,
+   "even": 0.37244524618687846,
+   "long-short": 0.1118662269436632,
+   "rhythm variety": 2.725484090935681,
+   "surprise, pitch": 2.831157362514678,
+   "surprise, rhythm": 2.2228814230655747,
+   "density": 2.424743499383195,
+   "lines": 5.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.44351439006316934,
+    "others": 0.5006083110827378,
+    "auc": 0.17874660871864598
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.7,
+    "works": 14,
+    "per_1000": 2.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--006-001_stabile-annibale--il-terzo-libro-de-madrigali-a-cinque-voci-escon-dal-chiaro-viso.krn",
+      "label": "Il terzo libro de madrigali a cinque voci, Escon dal chiaro viso, movement 1 (PL-GD Ee 2628, kern)",
+      "bar": 14,
+      "notes": "D5 D5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-015_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-chi-fia-lasso-mai-piu.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Chi fia lasso mai piu, movement 15 (PL-GD Ee 2628, kern)",
+      "bar": 35,
+      "notes": "D5 D5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-017_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-da-l-aurea-terra.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Da l’aurea terra, movement 17 (PL-GD Ee 2628, kern)",
+      "bar": 25,
+      "notes": "E5 E5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 8,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--006-015_stabile-annibale--il-terzo-libro-de-madrigali-a-cinque-voci-facea-con-gli-occhi.krn",
+      "label": "Il terzo libro de madrigali a cinque voci, Facea con gli occhi, movement 15 (PL-GD Ee 2628, kern)",
+      "bar": 32,
+      "notes": "G5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--006-003_stabile-annibale--il-terzo-libro-de-madrigali-a-cinque-voci-venga-himeneo.krn",
+      "label": "Il terzo libro de madrigali a cinque voci, Venga Himeneo, movement 3 (PL-GD Ee 2628, kern)",
+      "bar": 19,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-019_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-quanta-nel-freddo-aquario.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Quanta nel freddo Aquario, movement 19 (PL-GD Ee 2628, kern)",
+      "bar": 13,
+      "notes": "D5 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     2
+    ],
+    "z": 4.5,
+    "works": 8,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-020_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-qual-vaga-pastorella.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Qual vaga pastorella, movement 20 (PL-GD Ee 2628, kern)",
+      "bar": 24,
+      "notes": "D5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-009_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-solo-soletto.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Solo soletto, movement 9 (PL-GD Ee 2628, kern)",
+      "bar": 20,
+      "notes": "D5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-006_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-s-altri-d-amor-sospira.krn",
+      "label": "Il primo libro de madrigali a cinque voci, S’altri d’amor sospira, movement 6 (PL-GD Ee 2628, kern)",
+      "bar": 22,
+      "notes": "G4 F#4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.3,
+    "works": 14,
+    "per_1000": 3.9,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-004_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-fede-al-mondo.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Fede al mondo, movement 4 (PL-GD Ee 2628, kern)",
+      "bar": 21,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-020_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-qual-vaga-pastorella.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Qual vaga pastorella, movement 20 (PL-GD Ee 2628, kern)",
+      "bar": 6,
+      "notes": "E5 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-018_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-qui-maria-quiacque.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Qui Maria quiacque, movement 18 (PL-GD Ee 2628, kern)",
+      "bar": 17,
+      "notes": "E5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.2,
+    "works": 6,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-008_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-ma-mostra-homai.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Ma mostra homai, movement 8 (PL-GD Ee 2628, kern)",
+      "bar": 9,
+      "notes": "D5 C5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-003_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-tirsi-qui-cadde-liuia.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Tirsi qui cadde Liuia, movement 3 (PL-GD Ee 2628, kern)",
+      "bar": 15,
+      "notes": "C5 Bb4 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--006-022_stabile-annibale--il-terzo-libro-de-madrigali-a-cinque-voci-alla-riua-del-tebro.krn",
+      "label": "Il terzo libro de madrigali a cinque voci, Alla riua del Tebro, movement 22 (PL-GD Ee 2628, kern)",
+      "bar": 38,
+      "notes": "C5 Bb4 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.0,
+    "works": 7,
+    "per_1000": 1.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--006-016_stabile-annibale--il-terzo-libro-de-madrigali-a-cinque-voci-fu-l-lauro-sempre-verde.krn",
+      "label": "Il terzo libro de madrigali a cinque voci, Fu’l lauro sempre verde, movement 16 (PL-GD Ee 2628, kern)",
+      "bar": 29,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--006-007_stabile-annibale--il-terzo-libro-de-madrigali-a-cinque-voci-veramente-in-amore.krn",
+      "label": "Il terzo libro de madrigali a cinque voci, Veramente in Amore, movement 7 (PL-GD Ee 2628, kern)",
+      "bar": 7,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-gd/kern/pl-gd--ee-2628--005-017_stabile-annibale--il-primo-libro-de-madrigali-a-cinque-voci-da-l-aurea-terra.krn",
+      "label": "Il primo libro de madrigali a cinque voci, Da l’aurea terra, movement 17 (PL-GD Ee 2628, kern)",
+      "bar": 22,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 272,
+   "composers": 10
+  }
+ }
+]

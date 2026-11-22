@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Luigi Boccherini",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.4642296167031831,
+   "repeats": 0.14759901494178276,
+   "leaps": 0.17778183107335485,
+   "move": 3.499569601592774,
+   "rising": 0.4527074724371794,
+   "leap answered": 0.2036331320419818,
+   "range": 17.925,
+   "register": 73.5,
+   "even": 0.5578555962802331,
+   "long-short": 0.09278243968165276,
+   "rhythm variety": 2.220517547936139,
+   "surprise, pitch": 2.408781267632753,
+   "surprise, rhythm": 1.4517760290408803,
+   "density": 6.248447936867055,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 489,
+   "composers": 10
+  }
+ }
+]

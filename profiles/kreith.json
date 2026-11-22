@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Kreith",
+  "kind": "suite",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5578786412065889,
+   "repeats": 0.14935476247399962,
+   "leaps": 0.13273877839260068,
+   "move": 2.843084330281336,
+   "rising": 0.4206695849774758,
+   "leap answered": 0.37889088247552627,
+   "range": 13.7375,
+   "register": 75.25,
+   "even": 0.5771733372411598,
+   "long-short": 0.06986009364556109,
+   "rhythm variety": 2.0657418723281036,
+   "surprise, pitch": 1.6073118471346945,
+   "surprise, rhythm": 1.2786986005834344,
+   "density": 3.500208521097138,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 247,
+   "composers": 18
+  }
+ }
+]

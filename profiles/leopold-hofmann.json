@@ -1,0 +1,180 @@
+[
+ {
+  "composer": "Leopold Hofmann",
+  "kind": "motet",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.4740588110744892,
+   "repeats": 0.31191321266632926,
+   "leaps": 0.11454438398025078,
+   "move": 2.8691484809053645,
+   "rising": 0.3958754946786862,
+   "leap answered": 0.2482953761214631,
+   "range": 11.908333333333333,
+   "register": 75.5,
+   "even": 0.3764759260457036,
+   "long-short": 0.13304620409348947,
+   "rhythm variety": 2.7979680261905693,
+   "surprise, pitch": 2.4701785394520823,
+   "surprise, rhythm": 2.2332655294984343,
+   "density": 11.26270602833887,
+   "lines": 9.333333333333334
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 2.8691484809053645,
+    "others": 2.4032900876716377,
+    "auc": 0.7587996397380689
+   },
+   {
+    "measure": "rising",
+    "value": 0.3958754946786862,
+    "others": 0.463835199849702,
+    "auc": 0.13525215210524935
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 6.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-001-ac0_hofmann-leopold--motetto-ad-sponsum-animae-veloces-cadentia-1-ac0.krn",
+      "label": "Motetto, Ad sponsum animae veloces [cadentia 1], movement 1 (PL-Kk Kk.I.514, kern)",
+      "bar": 6,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-004_hofmann-leopold--motetto-alleluja.krn",
+      "label": "Motetto, Alleluja, movement 4 (PL-Kk Kk.I.514, kern)",
+      "bar": 85,
+      "notes": "F#5 F#5 F#5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-001-ac0_hofmann-leopold--motetto-ad-sponsum-animae-veloces-cadentia-1-ac0.krn",
+      "label": "Motetto, Ad sponsum animae veloces [cadentia 1], movement 1 (PL-Kk Kk.I.514, kern)",
+      "bar": 20,
+      "notes": "D5 G5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-003-ac0_hofmann-leopold--motetto-veni-o-jesu-chare-cadentia-1-ac0.krn",
+      "label": "Motetto, Veni o Jesu chare [cadentia 1], movement 3 (PL-Kk Kk.I.514, kern)",
+      "bar": 8,
+      "notes": "E4 A4 Ab4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 7.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-004_hofmann-leopold--motetto-alleluja.krn",
+      "label": "Motetto, Alleluja, movement 4 (PL-Kk Kk.I.514, kern)",
+      "bar": 7,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-001-ac0_hofmann-leopold--motetto-ad-sponsum-animae-veloces-cadentia-1-ac0.krn",
+      "label": "Motetto, Ad sponsum animae veloces [cadentia 1], movement 1 (PL-Kk Kk.I.514, kern)",
+      "bar": 8,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-515--001-002_hofmann-leopold--motetto-foris-bella-intus-timores.krn",
+      "label": "Motetto, Foris bella intus timores, movement 2 (PL-Kk Kk.I.515, kern)",
+      "bar": 109,
+      "notes": "G5 G5 G5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 5.6,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-001-ac0_hofmann-leopold--motetto-ad-sponsum-animae-veloces-cadentia-1-ac0.krn",
+      "label": "Motetto, Ad sponsum animae veloces [cadentia 1], movement 1 (PL-Kk Kk.I.514, kern)",
+      "bar": 23,
+      "notes": "F#5 E5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-003-ac0_hofmann-leopold--motetto-veni-o-jesu-chare-cadentia-1-ac0.krn",
+      "label": "Motetto, Veni o Jesu chare [cadentia 1], movement 3 (PL-Kk Kk.I.514, kern)",
+      "bar": 7,
+      "notes": "Ab5 F#5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-514--001-002_hofmann-leopold--motetto-recitativo.krn",
+      "label": "Motetto, Recitativo, movement 2 (PL-Kk Kk.I.514, kern)",
+      "bar": 8,
+      "notes": "F#5 E5 D5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 645,
+   "composers": 33
+  }
+ }
+]

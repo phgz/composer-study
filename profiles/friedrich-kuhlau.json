@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Friedrich Kuhlau",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5855117669733706,
+   "repeats": 0.1567738876201357,
+   "leaps": 0.11873013992946331,
+   "move": 2.782542554755457,
+   "rising": 0.4689602454586441,
+   "leap answered": 0.32701943601842487,
+   "range": 18.0,
+   "register": 75.0,
+   "even": 0.6360363172880561,
+   "long-short": 0.1184795053109736,
+   "rhythm variety": 1.8292908153789413,
+   "surprise, pitch": 2.184086365155009,
+   "surprise, rhythm": 1.1851373849504212,
+   "density": 4.856602510242722,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 7
+  }
+ }
+]

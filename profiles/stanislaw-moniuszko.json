@@ -1,0 +1,1056 @@
+[
+ {
+  "composer": "Stanisław Moniuszko",
+  "kind": "air",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5534497073820727,
+   "repeats": 0.11302607060817761,
+   "leaps": 0.1624039008309547,
+   "move": 3.0119823232323237,
+   "rising": 0.4993703703703704,
+   "leap answered": 0.28103864734299516,
+   "range": 13.666666666666666,
+   "register": 82.66666666666667,
+   "even": 0.5034278006327696,
+   "long-short": 0.07035662749948464,
+   "rhythm variety": 2.5269544583680723,
+   "surprise, pitch": 2.534066324648644,
+   "surprise, rhythm": 1.7396344490430158,
+   "density": 12.813265209445342,
+   "lines": 10.666666666666666
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 157,
+   "composers": 40
+  }
+ },
+ {
+  "composer": "Stanisław Moniuszko",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 14,
+  "values": {
+   "steps": 0.540980887584804,
+   "repeats": 0.1386914266641221,
+   "leaps": 0.16764111488684777,
+   "move": 3.0559840032981094,
+   "rising": 0.47020141312703184,
+   "leap answered": 0.31190836817448175,
+   "range": 17.55357142857143,
+   "register": 77.71428571428571,
+   "even": 0.4578156716761795,
+   "long-short": 0.1392164605716985,
+   "rhythm variety": 2.4237636630597525,
+   "surprise, pitch": 2.297494110892314,
+   "surprise, rhythm": 1.3963034544940491,
+   "density": 10.091752042467117,
+   "lines": 5.714285714285714
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 7.2,
+    "works": 4,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-456-m_moniuszko-stanislaw--polka-jawnuta.krn",
+      "label": "Polka Jawnuta (PL-Wtm R 456/M, kern)",
+      "bar": 4,
+      "notes": "B5 Bb5 B5 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-839-m-1_moniuszko-stanislaw--weselny-mazur.krn",
+      "label": "Weselny Mazur: Vivo (PL-Wtm R 839/M/1, kern)",
+      "bar": 25,
+      "notes": "A4 Ab4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-741-m--002_moniuszko-stanislaw--walc-a-dur.krn",
+      "label": "Walc A-dur (PL-Wtm R 741/M, kern)",
+      "bar": 3,
+      "notes": "A4 Ab4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 6.8,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-456-m_moniuszko-stanislaw--polka-jawnuta.krn",
+      "label": "Polka Jawnuta (PL-Wtm R 456/M, kern)",
+      "bar": 3,
+      "notes": "C#6 C#6 B5 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-741-m--002_moniuszko-stanislaw--walc-a-dur.krn",
+      "label": "Walc A-dur (PL-Wtm R 741/M, kern)",
+      "bar": 2,
+      "notes": "B4 B4 A4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-839-m-1_moniuszko-stanislaw--weselny-mazur.krn",
+      "label": "Weselny Mazur: Vivo (PL-Wtm R 839/M/1, kern)",
+      "bar": 24,
+      "notes": "B4 B4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     -5
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-456-m_moniuszko-stanislaw--polka-jawnuta.krn",
+      "label": "Polka Jawnuta (PL-Wtm R 456/M, kern)",
+      "bar": 33,
+      "notes": "E5 A5 G5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--002_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 13,
+      "notes": "F#5 B5 A5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--004_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 47,
+      "notes": "F#5 B5 A5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.7,
+    "works": 6,
+    "per_1000": 2.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-5-m_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/5/M, kern)",
+      "bar": 3,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-291-m_moniuszko-stanislaw--polonez-koncertowy.krn",
+      "label": "Polonez koncertowy (PL-Wtm R 291/M, kern)",
+      "bar": 5,
+      "notes": "C#6 C#6 C#6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-839-m-1_moniuszko-stanislaw--weselny-mazur.krn",
+      "label": "Weselny Mazur: Vivo (PL-Wtm R 839/M/1, kern)",
+      "bar": 85,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-5-m_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/5/M, kern)",
+      "bar": 24,
+      "notes": "B5 C6 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-291-m_moniuszko-stanislaw--polonez-koncertowy.krn",
+      "label": "Polonez koncertowy (PL-Wtm R 291/M, kern)",
+      "bar": 33,
+      "notes": "Eb6 E6 Eb6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 6,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-329-m_moniuszko-stanislaw--straszny-dwor-polonez-miecznika.krn",
+      "label": "Straszny Dwór - Polonez Miecznika (PL-Wtm R 329/M, kern)",
+      "bar": 5,
+      "notes": "C6 C6 C6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--002_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 27,
+      "notes": "G5 G5 G5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-291-m_moniuszko-stanislaw--polonez-koncertowy.krn",
+      "label": "Polonez koncertowy (PL-Wtm R 291/M, kern)",
+      "bar": 165,
+      "notes": "D6 D6 D6 E6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 421,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Stanisław Moniuszko",
+  "kind": "hymn",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.3197800803350793,
+   "repeats": 0.33072530835616154,
+   "leaps": 0.1808897612340869,
+   "move": 3.486340862327117,
+   "rising": 0.5279842861771262,
+   "leap answered": 0.08923341946597761,
+   "range": 13.485714285714284,
+   "register": 70.78571428571429,
+   "even": 0.3875328904097688,
+   "long-short": 0.14672137423227036,
+   "rhythm variety": 2.4856797902581507,
+   "surprise, pitch": 2.6997857128508116,
+   "surprise, rhythm": 1.8439432148364163,
+   "density": 5.440968058202894,
+   "lines": 8.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3197800803350793,
+    "others": 0.5960806953192737,
+    "auc": 0.08040616245002774
+   },
+   {
+    "measure": "repeats",
+    "value": 0.33072530835616154,
+    "others": 0.1587583220554107,
+    "auc": 0.8055882352997445
+   },
+   {
+    "measure": "move",
+    "value": 3.486340862327117,
+    "others": 2.5358715564487406,
+    "auc": 0.8702100840627836
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.08923341946597761,
+    "others": 0.43653455568806865,
+    "auc": 0.14491225863383658
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 7.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-141-m_moniuszko-stanislaw--paria-hymn-do-boga.krn",
+      "label": "Paria, Hymn do Boga (PL-Wtm R 141/M, kern)",
+      "bar": 13,
+      "notes": "C#5 C#5 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-139-m_moniuszko-stanislaw--paria-hymn-do-bostwa-milosci.krn",
+      "label": "Paria, Hymn do bóstwa miłości: Allegretto. (PL-Wtm R 139/M, kern)",
+      "bar": 53,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-690-m--001-008_moniuszko-stanislaw--sonety-krymskie-hymn-czatyrdah.krn",
+      "label": "Sonety krymskie, Hymn Czatyrdah, movement 8: Maëstoso. (PL-Wtm R 690/M, kern)",
+      "bar": 16,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 5.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-692-m--001-004_moniuszko-stanislaw--sonety-krymskie-hymn-czatyrdah.krn",
+      "label": "Sonety krymskie, Hymn Czatyrdah, movement 4: Molto maestoso. (PL-Wtm R 692/M, kern)",
+      "bar": 30,
+      "notes": "C#5 C5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1740-m--002-007_moniuszko-stanislaw--sonety-krymskie-hymn-czatyrdah.krn",
+      "label": "Sonety krymskie, Hymn Czatyrdah, movement 7: Maëstoso. (PL-Wtm R 1740/M, kern)",
+      "bar": 58,
+      "notes": "C#5 C5 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1740-m--001-008_moniuszko-stanislaw--sonety-krymskie-hymn.krn",
+      "label": "Sonety krymskie, Hymn, movement 8: Maëstoso. (PL-Wtm R 1740/M, kern)",
+      "bar": 59,
+      "notes": "C#5 C5 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 4.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-139-m_moniuszko-stanislaw--paria-hymn-do-bostwa-milosci.krn",
+      "label": "Paria, Hymn do bóstwa miłości: Allegretto. (PL-Wtm R 139/M, kern)",
+      "bar": 56,
+      "notes": "A4 A4 Ab4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-141-m_moniuszko-stanislaw--paria-hymn-do-boga.krn",
+      "label": "Paria, Hymn do Boga (PL-Wtm R 141/M, kern)",
+      "bar": 62,
+      "notes": "D5 D5 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-690-m--001-008_moniuszko-stanislaw--sonety-krymskie-hymn-czatyrdah.krn",
+      "label": "Sonety krymskie, Hymn Czatyrdah, movement 8: Maëstoso. (PL-Wtm R 690/M, kern)",
+      "bar": 20,
+      "notes": "F#5 F#5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 3.4,
+    "works": 4,
+    "per_1000": 7.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-692-m--001-004_moniuszko-stanislaw--sonety-krymskie-hymn-czatyrdah.krn",
+      "label": "Sonety krymskie, Hymn Czatyrdah, movement 4: Molto maestoso. (PL-Wtm R 692/M, kern)",
+      "bar": 19,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-141-m_moniuszko-stanislaw--paria-hymn-do-boga.krn",
+      "label": "Paria, Hymn do Boga (PL-Wtm R 141/M, kern)",
+      "bar": 53,
+      "notes": "F#4 F#4 F#4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-690-m--001-008_moniuszko-stanislaw--sonety-krymskie-hymn-czatyrdah.krn",
+      "label": "Sonety krymskie, Hymn Czatyrdah, movement 8: Maëstoso. (PL-Wtm R 690/M, kern)",
+      "bar": 16,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -1,
+     -2
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 4.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-141-m_moniuszko-stanislaw--paria-hymn-do-boga.krn",
+      "label": "Paria, Hymn do Boga (PL-Wtm R 141/M, kern)",
+      "bar": 39,
+      "notes": "C#5 C#5 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1740-m--001-008_moniuszko-stanislaw--sonety-krymskie-hymn.krn",
+      "label": "Sonety krymskie, Hymn, movement 8: Maëstoso. (PL-Wtm R 1740/M, kern)",
+      "bar": 16,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 4.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-692-m--001-004_moniuszko-stanislaw--sonety-krymskie-hymn-czatyrdah.krn",
+      "label": "Sonety krymskie, Hymn Czatyrdah, movement 4: Molto maestoso. (PL-Wtm R 692/M, kern)",
+      "bar": 32,
+      "notes": "Bb4 C#5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1740-m--002-007_moniuszko-stanislaw--sonety-krymskie-hymn-czatyrdah.krn",
+      "label": "Sonety krymskie, Hymn Czatyrdah, movement 7: Maëstoso. (PL-Wtm R 1740/M, kern)",
+      "bar": 60,
+      "notes": "Bb4 C#5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-1740-m--001-008_moniuszko-stanislaw--sonety-krymskie-hymn.krn",
+      "label": "Sonety krymskie, Hymn, movement 8: Maëstoso. (PL-Wtm R 1740/M, kern)",
+      "bar": 59,
+      "notes": "Bb4 C#5 C5 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 103,
+   "composers": 23
+  }
+ },
+ {
+  "composer": "Stanisław Moniuszko",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 51,
+  "values": {
+   "steps": 0.4578419713884551,
+   "repeats": 0.22882512740262548,
+   "leaps": 0.1583511684071249,
+   "move": 3.0853216804686427,
+   "rising": 0.473997239908428,
+   "leap answered": 0.29746664941217216,
+   "range": 14.399019607843135,
+   "register": 72.3529411764706,
+   "even": 0.4392444620120887,
+   "long-short": 0.14149072138230023,
+   "rhythm variety": 2.5104200093019995,
+   "surprise, pitch": 2.8229061011462306,
+   "surprise, rhythm": 1.770343960389865,
+   "density": 7.391000728617665,
+   "lines": 8.07843137254902
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 11,
+    "per_1000": 2.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-910-m--001-004_moniuszko-stanislaw--litania-ostrobramska-agnus-dei.krn",
+      "label": "Litania Ostrobramska, Agnus Dei, movement 4: Vivace. (PL-Wtm R 910/M, kern)",
+      "bar": 24,
+      "notes": "B5 D6 C6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-130-m--001-005_moniuszko-stanislaw--msza-es-dur-sanctus.krn",
+      "label": "Msza Es-dur, Sanctus, movement 5 (PL-Wtm R 130/M, kern)",
+      "bar": 23,
+      "notes": "D5 F5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-258-m--001-008_moniuszko-stanislaw--msza-agnus.krn",
+      "label": "Msza, Agnus, movement 8 (PL-Wtm R 258/M, kern)",
+      "bar": 2,
+      "notes": "D5 F5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.3,
+    "works": 11,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-779-m_moniuszko-stanislaw--benedictus.krn",
+      "label": "Benedictus: Moderato. (PL-Wtm R 779/M, kern)",
+      "bar": 5,
+      "notes": "A4 A4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-258-m--001-004_moniuszko-stanislaw--msza-credo.krn",
+      "label": "Msza, Credo, movement 4 (PL-Wtm R 258/M, kern)",
+      "bar": 89,
+      "notes": "C5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-711-m--001-002_moniuszko-stanislaw--litania-ostrobramska-christe-audi-nos.krn",
+      "label": "Litania Ostrobramska, Christe audi nos, movement 2: No 2. Grave (PL-Wtm R 711/M, kern)",
+      "bar": 27,
+      "notes": "C6 C6 Bb5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 6.1,
+    "works": 9,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-910-m--001-002_moniuszko-stanislaw--litania-ostrobramska-christe-audi-nos.krn",
+      "label": "Litania Ostrobramska, Christe audi nos, movement 2: No.2. Andante. (PL-Wtm R 910/M, kern)",
+      "bar": 17,
+      "notes": "F5 Eb5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-131-m--001-001_moniuszko-stanislaw--msza-swieta-slowa-odynca-kyrie.krn",
+      "label": "Msza święta słowa Odyńca, Kyrie, movement 1 (PL-Wtm R 131/M, kern)",
+      "bar": 22,
+      "notes": "D5 C5 B4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-258-m--001-007_moniuszko-stanislaw--msza-benedictus.krn",
+      "label": "Msza, Benedictus, movement 7 (PL-Wtm R 258/M, kern)",
+      "bar": 12,
+      "notes": "Eb5 C#5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 10,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-274-m--001-004_moniuszko-stanislaw--cztery-piesni-nabozne-agnus.krn",
+      "label": "Cztery pieśni nabożne, Agnus, movement 4 (PL-Wtm R 274/M, kern)",
+      "bar": 7,
+      "notes": "B4 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-131-m--001-001_moniuszko-stanislaw--msza-swieta-slowa-odynca-kyrie.krn",
+      "label": "Msza święta słowa Odyńca, Kyrie, movement 1 (PL-Wtm R 131/M, kern)",
+      "bar": 27,
+      "notes": "B4 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-274-m--001-002_moniuszko-stanislaw--cztery-piesni-nabozne-gloria.krn",
+      "label": "Cztery pieśni nabożne, Gloria, movement 2 (PL-Wtm R 274/M, kern)",
+      "bar": 21,
+      "notes": "C5 Eb5 C#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 10,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-910-m--001-004_moniuszko-stanislaw--litania-ostrobramska-agnus-dei.krn",
+      "label": "Litania Ostrobramska, Agnus Dei, movement 4: Vivace. (PL-Wtm R 910/M, kern)",
+      "bar": 80,
+      "notes": "B4 D5 G5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-130-m--001-004_moniuszko-stanislaw--msza-es-dur-credo.krn",
+      "label": "Msza Es-dur, Credo, movement 4: Moderato. (PL-Wtm R 130/M, kern)",
+      "bar": 86,
+      "notes": "B4 D5 G5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-275-m--001-004_moniuszko-stanislaw--pienia-zalobne-sanctus.krn",
+      "label": "Pienia żałobne, Sanctus, movement 4: Largo. (PL-Wtm R 275/M, kern)",
+      "bar": 1,
+      "notes": "A3 C4 F4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.8,
+    "works": 10,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-910-m--001-002_moniuszko-stanislaw--litania-ostrobramska-christe-audi-nos.krn",
+      "label": "Litania Ostrobramska, Christe audi nos, movement 2: No.2. Andante. (PL-Wtm R 910/M, kern)",
+      "bar": 86,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-130-m--001-005_moniuszko-stanislaw--msza-es-dur-sanctus.krn",
+      "label": "Msza Es-dur, Sanctus, movement 5 (PL-Wtm R 130/M, kern)",
+      "bar": 46,
+      "notes": "F#5 F5 Eb5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-130-m--001-006_moniuszko-stanislaw--msza-es-dur-benedictus.krn",
+      "label": "Msza Es-dur, Benedictus, movement 6: Moderato. (PL-Wtm R 130/M, kern)",
+      "bar": 41,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 501,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Stanisław Moniuszko",
+  "kind": "waltz",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.5731754002985653,
+   "repeats": 0.12480085531222027,
+   "leaps": 0.16719964045587385,
+   "move": 3.0097381174132414,
+   "rising": 0.4714949397050429,
+   "leap answered": 0.3836537557664352,
+   "range": 19.535714285714285,
+   "register": 78.57142857142857,
+   "even": 0.4925303975638386,
+   "long-short": 0.11624574221315313,
+   "rhythm variety": 2.2691048984149584,
+   "surprise, pitch": 2.275147056594028,
+   "surprise, rhythm": 1.312276261941385,
+   "density": 3.519687679357673,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5731754002985653,
+    "others": 0.4618395318548745,
+    "auc": 0.7506593574118947
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.3836537557664352,
+    "others": 0.2205608564744577,
+    "auc": 0.7881483501836609
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.275147056594028,
+    "others": 1.9136845150558297,
+    "auc": 0.8384606257361921
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 6.3,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--004_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 44,
+      "notes": "D6 C#6 B5 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-5-m_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/5/M, kern)",
+      "bar": 95,
+      "notes": "G5 F#5 E5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--002_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 52,
+      "notes": "G5 F#5 E5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 4,
+    "per_1000": 6.3,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-5-m_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/5/M, kern)",
+      "bar": 2,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--002_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 26,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--004_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 6,
+      "notes": "D6 D6 D6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-5-m_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/5/M, kern)",
+      "bar": 3,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--002_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 41,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--004_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 67,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     4,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-5-m_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/5/M, kern)",
+      "bar": 53,
+      "notes": "F4 Bb4 D5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--002_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 13,
+      "notes": "A4 D5 F#5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--004_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 47,
+      "notes": "A4 D5 F#5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--001_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 9,
+      "notes": "A4 A4 A4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--004_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 7,
+      "notes": "D6 D6 D6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-5-m_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/5/M, kern)",
+      "bar": 64,
+      "notes": "Bb5 Bb5 Bb5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -4,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--003_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 12,
+      "notes": "F6 Eb6 B5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-730-7-m--001_moniuszko-stanislaw--walc.krn",
+      "label": "Walc (PL-Wtm R 730/7/M, kern)",
+      "bar": 38,
+      "notes": "C#6 B5 G5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 69,
+   "composers": 19
+  }
+ }
+]

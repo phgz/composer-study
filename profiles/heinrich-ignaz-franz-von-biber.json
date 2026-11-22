@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Heinrich Ignaz Franz von Biber",
+  "kind": "psalm",
+  "forces": "voices and instruments",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.4556251432792481,
+   "repeats": 0.2729365968858824,
+   "leaps": 0.1741167023879268,
+   "move": 3.3859450143907606,
+   "rising": 0.48088652548808924,
+   "leap answered": 0.2828529657477026,
+   "range": 15.45,
+   "register": 76.5,
+   "even": 0.48663853317191974,
+   "long-short": 0.11185657884463086,
+   "rhythm variety": 2.4745687681538375,
+   "surprise, pitch": 2.8738120263062146,
+   "surprise, rhythm": 1.877793245844399,
+   "density": 4.162662441443773,
+   "lines": 9.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 22,
+   "composers": 10
+  }
+ }
+]

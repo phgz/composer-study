@@ -1,0 +1,489 @@
+[
+ {
+  "composer": "Frank Bridge",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 15,
+  "values": {
+   "steps": 0.40670343253144015,
+   "repeats": 0.2380648341956972,
+   "leaps": 0.19362393236667771,
+   "move": 3.50496435076452,
+   "rising": 0.5200015178281099,
+   "leap answered": 0.2184265201833466,
+   "range": 12.423333333333334,
+   "register": 72.63333333333334,
+   "even": 0.29888023758136983,
+   "long-short": 0.14207675187192176,
+   "rhythm variety": 3.025753931111282,
+   "surprise, pitch": 2.7187985371743535,
+   "surprise, rhythm": 2.1754372089936465,
+   "density": 4.974400762093684,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 3.025753931111282,
+    "others": 2.5888135573719167,
+    "auc": 0.7852626262626262
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 3.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/Come_to_Me_in_my_Dreams,_H.71/lc6474919.mxl",
+      "label": "Come to Me in my Dreams, H.71 (OpenScore)",
+      "bar": 12,
+      "notes": "F4 Eb4 F4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/Fair_Daffodils,_H.51/lc6257518.mxl",
+      "label": "Fair Daffodils, H.51 (OpenScore)",
+      "bar": 14,
+      "notes": "Bb4 Ab4 Bb4 B4"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/So_Early_in_the_Morning,_O/lc30909842.mxl",
+      "label": "So Early in the Morning, O (OpenScore)",
+      "bar": 6,
+      "notes": "Eb6 C#6 Eb6 E6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -3,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/Blow,_Blow_Thou_Winter_Wind,_H.33/lc31741250.mxl",
+      "label": "Blow, Blow Thou Winter Wind, H.33 (OpenScore)",
+      "bar": 13,
+      "notes": "Bb4 Bb4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/So_Early_in_the_Morning,_O/lc30909842.mxl",
+      "label": "So Early in the Morning, O (OpenScore)",
+      "bar": 8,
+      "notes": "D6 D6 B5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/So_Early_in_the_Morning,_O/lc30909842.mxl",
+      "label": "So Early in the Morning, O (OpenScore)",
+      "bar": 10,
+      "notes": "B5 C#6 B5 B5"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/Love_went_a-riding,_H.114/lc6476797.mxl",
+      "label": "Love went a-riding, H.114 (OpenScore)",
+      "bar": 34,
+      "notes": "C5 D5 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/3_Tagore_Songs,_H.164/2_Speak_to_Me,_My_Love!/lc31741739.mxl",
+      "label": "Tagore Songs, H.164, Speak to Me, My Love! (OpenScore)",
+      "bar": 29,
+      "notes": "C#6 Eb6 C#6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/So_Early_in_the_Morning,_O/lc30909842.mxl",
+      "label": "So Early in the Morning, O (OpenScore)",
+      "bar": 23,
+      "notes": "Eb6 C#6 E6 C#6"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/’Tis_but_a_Week,_H.146/lc6451773.mxl",
+      "label": "’Tis but a Week, H.146 (OpenScore)",
+      "bar": 14,
+      "notes": "C#5 B4 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/So_Early_in_the_Morning,_O/lc30909842.mxl",
+      "label": "So Early in the Morning, O (OpenScore)",
+      "bar": 8,
+      "notes": "B5 B5 C#6 B5"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/Love_went_a-riding,_H.114/lc6476797.mxl",
+      "label": "Love went a-riding, H.114 (OpenScore)",
+      "bar": 21,
+      "notes": "B4 B4 C#5 B4"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/3_Tagore_Songs,_H.164/2_Speak_to_Me,_My_Love!/lc31741739.mxl",
+      "label": "Tagore Songs, H.164, Speak to Me, My Love! (OpenScore)",
+      "bar": 29,
+      "notes": "C#6 C#6 Eb6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 2.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/So_Early_in_the_Morning,_O/lc30909842.mxl",
+      "label": "So Early in the Morning, O (OpenScore)",
+      "bar": 5,
+      "notes": "B5 Ab5 A5 B5"
+     },
+     {
+      "work": "openscore-lieder:Bridge,_Frank/_/So_Perverse,_H.61/lc6322601.mxl",
+      "label": "So Perverse, H.61 (OpenScore)",
+      "bar": 30,
+      "notes": "D5 B4 C5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 294,
+   "composers": 37
+  }
+ },
+ {
+  "composer": "Frank Bridge",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.5035751506358596,
+   "repeats": 0.09653073616457739,
+   "leaps": 0.1801530789373214,
+   "move": 3.22274299743805,
+   "rising": 0.5031112995812755,
+   "leap answered": 0.3463015272732377,
+   "range": 25.993749999999988,
+   "register": 75.5,
+   "even": 0.5642218831854122,
+   "long-short": 0.12281074509974842,
+   "rhythm variety": 2.3492760650601663,
+   "surprise, pitch": 2.847735457982364,
+   "surprise, rhythm": 1.6369936412794766,
+   "density": 6.141887316539808,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -3,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.2,
+    "works": 4,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#1",
+      "label": "String Quartet No.1, H.70, movement 1 (OpenScore)",
+      "bar": 6,
+      "notes": "Bb5 B5 Ab5 A5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#2",
+      "label": "String Quartet No.1, H.70, movement 2 (OpenScore)",
+      "bar": 314,
+      "notes": "Bb5 B5 Ab5 A5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#5",
+      "label": "String Quartet No.1, H.70, movement 5: Allegro agitato (OpenScore)",
+      "bar": 240,
+      "notes": "Bb5 B5 Ab5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#1",
+      "label": "String Quartet No.1, H.70, movement 1 (OpenScore)",
+      "bar": 6,
+      "notes": "B5 Ab5 A5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#5",
+      "label": "String Quartet No.1, H.70, movement 5: Allegro agitato (OpenScore)",
+      "bar": 240,
+      "notes": "B5 Ab5 A5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#2",
+      "label": "String Quartet No.1, H.70, movement 2 (OpenScore)",
+      "bar": 314,
+      "notes": "B5 Ab5 A5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.2,_H.115/sq9094235.mxl#3",
+      "label": "String Quartet No.2, H.115, movement 3: Molto Adagio arco (OpenScore)",
+      "bar": 33,
+      "notes": "G5 C6 A5 G5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.2,_H.115/sq9094235.mxl#2",
+      "label": "String Quartet No.2, H.115, movement 2: Allegro vivo Cello (OpenScore)",
+      "bar": 52,
+      "notes": "E5 A5 F#5 E5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#1",
+      "label": "String Quartet No.1, H.70, movement 1 (OpenScore)",
+      "bar": 145,
+      "notes": "A5 D6 B5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.2,_H.115/sq9094235.mxl#1",
+      "label": "String Quartet No.2, H.115, movement 1 (OpenScore)",
+      "bar": 60,
+      "notes": "Bb5 D6 C6 D6"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#4",
+      "label": "String Quartet No.1, H.70, movement 4: Allegretto grazioso arco II<sup>da</sup> (OpenScore)",
+      "bar": 49,
+      "notes": "G5 B5 A5 B5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.2,_H.115/sq9094235.mxl#3",
+      "label": "String Quartet No.2, H.115, movement 3: Molto Adagio arco (OpenScore)",
+      "bar": 2,
+      "notes": "E4 Ab4 F#4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     5,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 1.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#3",
+      "label": "String Quartet No.1, H.70, movement 3: Adagio molto (OpenScore)",
+      "bar": 63,
+      "notes": "D4 C4 F4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.2,_H.115/sq9094235.mxl#3",
+      "label": "String Quartet No.2, H.115, movement 3: Molto Adagio arco (OpenScore)",
+      "bar": 323,
+      "notes": "Bb5 Ab5 C#6 B5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#5",
+      "label": "String Quartet No.1, H.70, movement 5: Allegro agitato (OpenScore)",
+      "bar": 152,
+      "notes": "F#4 E4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#1",
+      "label": "String Quartet No.1, H.70, movement 1 (OpenScore)",
+      "bar": 68,
+      "notes": "A4 B4 B4 C5"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.1,_H.70/sq8938822.mxl#5",
+      "label": "String Quartet No.1, H.70, movement 5: Allegro agitato (OpenScore)",
+      "bar": 227,
+      "notes": "E6 F#6 F#6 G6"
+     },
+     {
+      "work": "openscore-quartets:Bridge,_Frank/String_Quartet_No.2,_H.115/sq9094235.mxl#2",
+      "label": "String Quartet No.2, H.115, movement 2: Allegro vivo Cello (OpenScore)",
+      "bar": 68,
+      "notes": "B4 C#5 C#5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 110,
+   "composers": 19
+  }
+ }
+]

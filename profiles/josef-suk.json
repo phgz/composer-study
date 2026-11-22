@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Josef Suk",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5138604413347011,
+   "repeats": 0.13509778928077093,
+   "leaps": 0.22092853136229793,
+   "move": 3.384858905695392,
+   "rising": 0.49857765980084157,
+   "leap answered": 0.17020430330184375,
+   "range": 27.575,
+   "register": 74.0,
+   "even": 0.5745270164534776,
+   "long-short": 0.11188014601066937,
+   "rhythm variety": 2.316415638712649,
+   "surprise, pitch": 2.603382630448293,
+   "surprise, rhythm": 1.502259537455053,
+   "density": 9.294486378581567,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ }
+]

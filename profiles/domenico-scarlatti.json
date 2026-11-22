@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Domenico Scarlatti",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 129,
+  "values": {
+   "steps": 0.5568211901648307,
+   "repeats": 0.06826892629046859,
+   "leaps": 0.2310829988353802,
+   "move": 3.5809827580770546,
+   "rising": 0.4502584540436486,
+   "leap answered": 0.26721417010599774,
+   "range": 19.132945736434106,
+   "register": 73.0,
+   "even": 0.7128232248301769,
+   "long-short": 0.05444057706685114,
+   "rhythm variety": 1.541338284383263,
+   "surprise, pitch": 2.403311465087295,
+   "surprise, rhythm": 1.0657288061563608,
+   "density": 4.60448920253816,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.403311465087295,
+    "others": 2.6629797766866945,
+    "auc": 0.2424666595454003
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.0,
+    "works": 28,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/scarlatti:L016K306.krn",
+      "label": "Sonata in E-flat major, L.16, K.306: Allegro ([half]=104) (kern)",
+      "bar": 10,
+      "notes": "Eb5 D5 D5 C5"
+     },
+     {
+      "work": "kern/scarlatti:L523K205.krn",
+      "label": "Sonata in F major, L.523, K.205: VIVACE ([half]=108) (kern)",
+      "bar": 9,
+      "notes": "F5 E5 E5 D5"
+     },
+     {
+      "work": "kern/scarlatti:L348K244.krn",
+      "label": "Sonata in G major, L.348, K.244: Allegro ([quarter-dot]=76) (kern)",
+      "bar": 35,
+      "notes": "A5 Ab5 Ab5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.4,
+    "works": 35,
+    "per_1000": 1.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/scarlatti:L016K306.krn",
+      "label": "Sonata in E-flat major, L.16, K.306: Allegro ([half]=104) (kern)",
+      "bar": 2,
+      "notes": "F5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "kern/scarlatti:L010K084.krn",
+      "label": "Sonata in C minor, L.10, K.84: Allegro ([quarter]=152) (kern)",
+      "bar": 18,
+      "notes": "D5 C5 C5 B4"
+     },
+     {
+      "work": "kern/scarlatti:L348K244.krn",
+      "label": "Sonata in G major, L.348, K.244: Allegro ([quarter-dot]=76) (kern)",
+      "bar": 36,
+      "notes": "E5 D5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.3,
+    "works": 34,
+    "per_1000": 1.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/scarlatti:L015K160.krn",
+      "label": "Sonata in D major, L.15, K.160: Allegro ([quarter]=126) (kern)",
+      "bar": 9,
+      "notes": "F#5 D5 A4 F#4"
+     },
+     {
+      "work": "kern/scarlatti:L349K146.krn",
+      "label": "Sonata in G major, L.349, K.146: Allegretto ([eighth]=144) (kern)",
+      "bar": 4,
+      "notes": "B5 G5 D5 B4"
+     },
+     {
+      "work": "dcml/scarlatti_sonatas:notes/K013.notes.tsv",
+      "label": "Sonata, K.13 (DCML)",
+      "bar": 31,
+      "notes": "F#5 D5 A4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 37,
+    "per_1000": 1.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/scarlatti:L523K205.krn",
+      "label": "Sonata in F major, L.523, K.205: VIVACE ([half]=108) (kern)",
+      "bar": 50,
+      "notes": "Eb5 Eb5 C#5 C5"
+     },
+     {
+      "work": "kern/scarlatti:L351K225.krn",
+      "label": "Sonata in C major, L.351, K.225: ALLEGRO [quarter]=126 (kern)",
+      "bar": 26,
+      "notes": "A5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/scarlatti:L319K442.krn",
+      "label": "Sonata in B-flat major, L.319, K.442: Allegro ([quarter-dot]=80) (kern)",
+      "bar": 34,
+      "notes": "G5 G5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 23,
+    "per_1000": 1.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/scarlatti:L523K205.krn",
+      "label": "Sonata in F major, L.523, K.205: VIVACE ([half]=108) (kern)",
+      "bar": 51,
+      "notes": "C5 C5 Bb4 Ab4"
+     },
+     {
+      "work": "dcml/scarlatti_sonatas:notes/K096.notes.tsv",
+      "label": "Sonata, K.96 (DCML)",
+      "bar": 43,
+      "notes": "C#5 C#5 B4 A4"
+     },
+     {
+      "work": "kern/scarlatti:L188K525.krn",
+      "label": "Sonata in F major, L.188, K.525: Allegro ([quarter-dot]=132) (kern)",
+      "bar": 4,
+      "notes": "D5 D5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 34,
+    "per_1000": 1.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/scarlatti:L349K146.krn",
+      "label": "Sonata in G major, L.349, K.146: Allegretto ([eighth]=144) (kern)",
+      "bar": 16,
+      "notes": "A4 Ab4 A4 C#5"
+     },
+     {
+      "work": "dcml/scarlatti_sonatas:notes/K012.notes.tsv",
+      "label": "Sonata, K.12 (DCML)",
+      "bar": 7,
+      "notes": "Bb4 A4 Bb4 D5"
+     },
+     {
+      "work": "dcml/scarlatti_sonatas:notes/K019.notes.tsv",
+      "label": "Sonata, K.19 (DCML)",
+      "bar": 24,
+      "notes": "Ab3 G3 Ab3 C4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 361,
+   "composers": 15
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Gaetano Pugnani",
+  "kind": "trio",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 15,
+  "values": {
+   "steps": 0.4953697623602911,
+   "repeats": 0.18199953468984556,
+   "leaps": 0.1671382072394461,
+   "move": 3.2610453670344817,
+   "rising": 0.440364041995289,
+   "leap answered": 0.20922679036152855,
+   "range": 19.566666666666666,
+   "register": 73.4,
+   "even": 0.5449968052239605,
+   "long-short": 0.11696307063933238,
+   "rhythm variety": 2.338260822884549,
+   "surprise, pitch": 2.4645526005322087,
+   "surprise, rhythm": 1.7100634617030566,
+   "density": 4.660737778444226,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ }
+]

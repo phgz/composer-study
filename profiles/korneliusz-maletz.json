@@ -1,0 +1,41 @@
+[
+ {
+  "composer": "Korneliusz Maletz",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.43479536611330377,
+   "repeats": 0.262686515667837,
+   "leaps": 0.14968953241081226,
+   "move": 3.254708340042106,
+   "rising": 0.49608673388382124,
+   "leap answered": 0.3391140520172778,
+   "range": 13.024999999999999,
+   "register": 83.66666666666667,
+   "even": 0.40370371509444697,
+   "long-short": 0.1340079650778899,
+   "rhythm variety": 2.7331509158441034,
+   "surprise, pitch": 2.65029226042264,
+   "surprise, rhythm": 2.0089818906291756,
+   "density": 10.564634020460636,
+   "lines": 10.5
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.65029226042264,
+    "others": 2.819999944665865,
+    "auc": 0.19468209228350677
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 547,
+   "composers": 37
+  }
+ }
+]

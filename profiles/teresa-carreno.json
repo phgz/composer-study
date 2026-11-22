@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Teresa Carreño",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4339469658882572,
+   "repeats": 0.13346140296220174,
+   "leaps": 0.2142468071686412,
+   "move": 3.5851846047035725,
+   "rising": 0.46080371117531366,
+   "leap answered": 0.2828035702198025,
+   "range": 27.32499999999999,
+   "register": 74.75,
+   "even": 0.6931390834779407,
+   "long-short": 0.033927471172850714,
+   "rhythm variety": 1.7594564732773164,
+   "surprise, pitch": 3.1646256212191637,
+   "surprise, rhythm": 1.2809919980794882,
+   "density": 5.333979951174196,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

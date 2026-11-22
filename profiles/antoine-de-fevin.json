@@ -1,0 +1,294 @@
+[
+ {
+  "composer": "Antoine de Févin",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.7500575807487054,
+   "repeats": 0.10851221273774019,
+   "leaps": 0.06774988040832916,
+   "move": 2.15348885997352,
+   "rising": 0.45476119709628815,
+   "leap answered": 0.48254901960784313,
+   "range": 9.2,
+   "register": 72.0,
+   "even": 0.3146345795839017,
+   "long-short": 0.1542904362049275,
+   "rhythm variety": 3.0964404570294217,
+   "surprise, pitch": 2.2140893407576714,
+   "surprise, rhythm": 2.2123889826957015,
+   "density": 0.9176310606919248,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7500575807487054,
+    "others": 0.6444583019371105,
+    "auc": 0.8845086998869475
+   },
+   {
+    "measure": "move",
+    "value": 2.15348885997352,
+    "others": 2.3535614073219544,
+    "auc": 0.1739183363058344
+   },
+   {
+    "measure": "register",
+    "value": 72.0,
+    "others": 66.97909187830656,
+    "auc": 0.9318295676413623
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1542904362049275,
+    "others": 0.12484160491583869,
+    "auc": 0.7610733784488123
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.0964404570294217,
+    "others": 2.860156747781179,
+    "auc": 0.8583326240923828
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2140893407576714,
+    "others": 2.6124903563294763,
+    "auc": 0.058976207361020536
+   },
+   {
+    "measure": "density",
+    "value": 0.9176310606919248,
+    "others": 1.4464558400411405,
+    "auc": 0.16413770908807152
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     1
+    ],
+    "z": 6.4,
+    "works": 5,
+    "per_1000": 4.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Fva/Fva1001c-Missa_Ave_Maria-Credo.krn",
+      "label": "Missa Ave Maria, Credo: Patrem omnipotentem (kern)",
+      "bar": 18,
+      "notes": "C5 D5 E5 D5"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001e-Missa_Ave_Maria-Agnus.krn",
+      "label": "Missa Ave Maria, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 86,
+      "notes": "C5 D5 E5 D5"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001b-Missa_Ave_Maria-Gloria.krn",
+      "label": "Missa Ave Maria, Gloria: Et in terra pax (kern)",
+      "bar": 111,
+      "notes": "C5 D5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.3,
+    "works": 5,
+    "per_1000": 7.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Fva/Fva1001c-Missa_Ave_Maria-Credo.krn",
+      "label": "Missa Ave Maria, Credo: Patrem omnipotentem (kern)",
+      "bar": 15,
+      "notes": "G4 G4 A4 B4"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001a-Missa_Ave_Maria-Kyrie.krn",
+      "label": "Missa Ave Maria, Kyrie: Kyrie I (kern)",
+      "bar": 4,
+      "notes": "C5 C5 D5 E5"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001d-Missa_Ave_Maria-Sanctus.krn",
+      "label": "Missa Ave Maria, Sanctus (kern)",
+      "bar": 4,
+      "notes": "C5 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 5,
+    "per_1000": 8.8,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/jrp:Fva/Fva1001c-Missa_Ave_Maria-Credo.krn",
+      "label": "Missa Ave Maria, Credo: Patrem omnipotentem (kern)",
+      "bar": 10,
+      "notes": "E5 D5 C5 D5"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001b-Missa_Ave_Maria-Gloria.krn",
+      "label": "Missa Ave Maria, Gloria: Et in terra pax (kern)",
+      "bar": 25,
+      "notes": "B4 A4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001e-Missa_Ave_Maria-Agnus.krn",
+      "label": "Missa Ave Maria, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 49,
+      "notes": "E5 D5 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.0,
+    "works": 4,
+    "per_1000": 7.3,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/jrp:Fva/Fva1001c-Missa_Ave_Maria-Credo.krn",
+      "label": "Missa Ave Maria, Credo: Patrem omnipotentem (kern)",
+      "bar": 10,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001b-Missa_Ave_Maria-Gloria.krn",
+      "label": "Missa Ave Maria, Gloria: Et in terra pax (kern)",
+      "bar": 10,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001e-Missa_Ave_Maria-Agnus.krn",
+      "label": "Missa Ave Maria, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 13,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     1,
+     -2
+    ],
+    "z": 4.6,
+    "works": 4,
+    "per_1000": 4.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Fva/Fva1001e-Missa_Ave_Maria-Agnus.krn",
+      "label": "Missa Ave Maria, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 30,
+      "notes": "D5 E5 D5 C5"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001c-Missa_Ave_Maria-Credo.krn",
+      "label": "Missa Ave Maria, Credo: Patrem omnipotentem (kern)",
+      "bar": 18,
+      "notes": "D5 E5 D5 C5"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001b-Missa_Ave_Maria-Gloria.krn",
+      "label": "Missa Ave Maria, Gloria: Et in terra pax (kern)",
+      "bar": 111,
+      "notes": "D5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     5,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 5,
+    "per_1000": 4.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Fva/Fva1001c-Missa_Ave_Maria-Credo.krn",
+      "label": "Missa Ave Maria, Credo: Patrem omnipotentem (kern)",
+      "bar": 85,
+      "notes": "A4 G4 C5 B4"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001e-Missa_Ave_Maria-Agnus.krn",
+      "label": "Missa Ave Maria, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 31,
+      "notes": "D5 C5 F5 E5"
+     },
+     {
+      "work": "kern/jrp:Fva/Fva1001b-Missa_Ave_Maria-Gloria.krn",
+      "label": "Missa Ave Maria, Gloria: Et in terra pax (kern)",
+      "bar": 6,
+      "notes": "D5 C5 F5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 591,
+   "composers": 27
+  }
+ }
+]

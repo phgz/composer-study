@@ -1,0 +1,3252 @@
+[
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "middle",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.4817406353333609,
+   "repeats": 0.1627271245101443,
+   "leaps": 0.17730803443583068,
+   "move": 3.1582295109755063,
+   "rising": 0.5376260700059327,
+   "leap answered": 0.2416815742397138,
+   "range": 17.666666666666668,
+   "register": 83.33333333333333,
+   "even": 0.521911881093324,
+   "long-short": 0.04530313729973676,
+   "rhythm variety": 2.4729357376611323,
+   "surprise, pitch": 2.4893083286375512,
+   "surprise, rhythm": 1.7569916616348067,
+   "density": 7.487153614279063,
+   "lines": 11.666666666666666
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 321,
+   "composers": 26
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "early",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.5179479664542266,
+   "repeats": 0.18990814763142377,
+   "leaps": 0.14999428500819076,
+   "move": 3.4060617816405916,
+   "rising": 0.48041253020102737,
+   "leap answered": 0.2551399134235536,
+   "range": 22.135714285714283,
+   "register": 70.28571428571429,
+   "even": 0.5123050813846058,
+   "long-short": 0.14961356569053313,
+   "rhythm variety": 2.2369112673775096,
+   "surprise, pitch": 2.2180363247948267,
+   "surprise, rhythm": 1.284560897448353,
+   "density": 3.798368048535774,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.48041253020102737,
+    "others": 0.4459231601306149,
+    "auc": 0.7678571428571429
+   },
+   {
+    "measure": "range",
+    "value": 22.135714285714283,
+    "others": 18.0875,
+    "auc": 0.8071428571428573
+   },
+   {
+    "measure": "register",
+    "value": 70.28571428571429,
+    "others": 73.575,
+    "auc": 0.18928571428571425
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2180363247948267,
+    "others": 2.5836880508053346,
+    "auc": 0.23571428571428574
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 20,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "fantasia",
+  "forces": "keyboard",
+  "period": "early",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.37511391441292374,
+   "repeats": 0.09416626620520474,
+   "leaps": 0.31113078739717814,
+   "move": 4.146990193562381,
+   "rising": 0.4723448784072883,
+   "leap answered": 0.1109846066959065,
+   "range": 26.049999999999994,
+   "register": 70.42857142857143,
+   "even": 0.74176820578423,
+   "long-short": 0.036741895503536,
+   "rhythm variety": 1.3871369075080613,
+   "surprise, pitch": 2.2172367928208554,
+   "surprise, rhythm": 0.998023754528954,
+   "density": 5.170274922347481,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.1109846066959065,
+    "others": 0.24143868487337686,
+    "auc": 0.2364285714162012
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     6,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-1.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 1: Adagio sostenuto (DCML)",
+      "bar": 32,
+      "notes": "A3 F#3 C4 A3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/13-1.notes.tsv",
+      "label": "Sonata no. 13 'quasi una fantasia', op.27/1, movement 1: Andante (DCML)",
+      "bar": 46,
+      "notes": "D4 B3 F4 D4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/13-4.notes.tsv",
+      "label": "Sonata no. 13 'quasi una fantasia', op.27/1, movement 4: Allegro vivace (DCML)",
+      "bar": 73,
+      "notes": "F5 D5 Ab5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -6,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-1.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 1: Adagio sostenuto (DCML)",
+      "bar": 28,
+      "notes": "Eb4 F#4 C4 Eb4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-3.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 3: Presto agitato (DCML)",
+      "bar": 17,
+      "notes": "E4 G4 C#4 E4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/13-1.notes.tsv",
+      "label": "Sonata no. 13 'quasi una fantasia', op.27/1, movement 1: Andante (DCML)",
+      "bar": 12,
+      "notes": "F4 Ab4 D4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -4,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 2.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-3.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 3: Presto agitato (DCML)",
+      "bar": 185,
+      "notes": "C#4 Ab4 E4 C#4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/13-2.notes.tsv",
+      "label": "Sonata no. 13 'quasi una fantasia', op.27/1, movement 2: Allegro molto e vivace (DCML)",
+      "bar": 13,
+      "notes": "G4 D5 Bb4 G4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-1.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 1: Adagio sostenuto (DCML)",
+      "bar": 62,
+      "notes": "C#5 Ab5 E5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/13-3.notes.tsv",
+      "label": "Sonata no. 13 'quasi una fantasia', op.27/1, movement 3: Adagio con espressione (DCML)",
+      "bar": 2,
+      "notes": "C4 C#4 C#4 C4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/13-1.notes.tsv",
+      "label": "Sonata no. 13 'quasi una fantasia', op.27/1, movement 1: Andante (DCML)",
+      "bar": 14,
+      "notes": "G5 Ab5 Ab5 G5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/13-4.notes.tsv",
+      "label": "Sonata no. 13 'quasi una fantasia', op.27/1, movement 4: Allegro vivace (DCML)",
+      "bar": 257,
+      "notes": "G4 Ab4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     3,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-3.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 3: Presto agitato (DCML)",
+      "bar": 1,
+      "notes": "Ab3 C#3 E3 Ab3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/13-2.notes.tsv",
+      "label": "Sonata no. 13 'quasi una fantasia', op.27/1, movement 2: Allegro molto e vivace (DCML)",
+      "bar": 72,
+      "notes": "G3 C3 Eb3 G3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-1.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 1: Adagio sostenuto (DCML)",
+      "bar": 15,
+      "notes": "F#4 B3 D4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     4,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-3.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 3: Presto agitato (DCML)",
+      "bar": 2,
+      "notes": "C#5 E5 Ab5 Ab5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-1.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 1: Adagio sostenuto (DCML)",
+      "bar": 5,
+      "notes": "C#4 E4 Ab4 Ab4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 48,
+   "composers": 25
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "minuet",
+  "forces": "keyboard",
+  "period": "early",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5771510177311558,
+   "repeats": 0.12663387127428138,
+   "leaps": 0.15137128526546137,
+   "move": 3.1241452493123982,
+   "rising": 0.4812129925516051,
+   "leap answered": 0.29766323232747915,
+   "range": 22.15833333333333,
+   "register": 71.5,
+   "even": 0.5713734721416893,
+   "long-short": 0.10612810734070972,
+   "rhythm variety": 2.1340315879299263,
+   "surprise, pitch": 2.3232022001481414,
+   "surprise, rhythm": 1.3220217467212614,
+   "density": 3.465968863642613,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 4.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+      "bar": 59,
+      "notes": "Eb4 D4 Eb4 D4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/06-2.notes.tsv",
+      "label": "Sonata no. 6, op.10/2, movement 2: Menuetto: Allegretto (DCML)",
+      "bar": 23,
+      "notes": "Ab5 G5 Ab5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+      "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+      "bar": 72,
+      "notes": "C5 D5 E5 C5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/01-3.notes.tsv",
+      "label": "Sonata no. 1, op.2/1, movement 3: Menuetto and Trio: Allegretto (DCML)",
+      "bar": 53,
+      "notes": "F4 G4 A4 F4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/11-3.notes.tsv",
+      "label": "Sonata no. 11, op.22, movement 3: Menuetto (DCML)",
+      "bar": 23,
+      "notes": "Eb5 F5 G5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+      "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+      "bar": 68,
+      "notes": "G5 E5 F5 D5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+      "bar": 14,
+      "notes": "Bb5 G5 Ab5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.6,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+      "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+      "bar": 69,
+      "notes": "C5 E5 G5 E5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+      "bar": 12,
+      "notes": "Eb5 G5 Bb5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/01-3.notes.tsv",
+      "label": "Sonata no. 1, op.2/1, movement 3: Menuetto and Trio: Allegretto (DCML)",
+      "bar": 41,
+      "notes": "G4 A4 F4 G4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-3.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 3: Menuetto: Moderato e grazioso (DCML)",
+      "bar": 14,
+      "notes": "F5 G5 Eb5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 4.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/01-3.notes.tsv",
+      "label": "Sonata no. 1, op.2/1, movement 3: Menuetto and Trio: Allegretto (DCML)",
+      "bar": 24,
+      "notes": "C5 Bb4 C5 C#5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/20-2.notes.tsv",
+      "label": "Sonata no. 20, op.49/2, movement 2: Tempo di Menuetto (DCML)",
+      "bar": 30,
+      "notes": "C#5 B4 C#5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 135,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "overture",
+  "forces": "orchestra",
+  "period": "middle",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.4403331116717844,
+   "repeats": 0.2741175330225889,
+   "leaps": 0.14652448037772506,
+   "move": 3.1066735854423713,
+   "rising": 0.4541428833751821,
+   "leap answered": 0.282421740626075,
+   "range": 13.666666666666666,
+   "register": 86.66666666666667,
+   "even": 0.44656829158955436,
+   "long-short": 0.19372530565075308,
+   "rhythm variety": 2.6236180025947196,
+   "surprise, pitch": 2.7351764422156655,
+   "surprise, rhythm": 1.7896822686646232,
+   "density": 8.605029887802585,
+   "lines": 13.666666666666666
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 46,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "rondo",
+  "forces": "keyboard",
+  "period": "early",
+  "era": "Classical",
+  "works": 9,
+  "values": {
+   "steps": 0.49196524056405216,
+   "repeats": 0.07471130495208275,
+   "leaps": 0.253642572709728,
+   "move": 3.8579742554844483,
+   "rising": 0.49577564393317963,
+   "leap answered": 0.20541787022730887,
+   "range": 25.88888888888889,
+   "register": 73.33333333333333,
+   "even": 0.7505836768248361,
+   "long-short": 0.04276128559843692,
+   "rhythm variety": 1.5720603819393895,
+   "surprise, pitch": 2.3455789748402083,
+   "surprise, rhythm": 1.168573260209501,
+   "density": 5.113462007429793,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 25.88888888888889,
+    "others": 20.487777777777772,
+    "auc": 0.8824915824915825
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.3455789748402083,
+    "others": 2.5866757634258217,
+    "auc": 0.20314253647586977
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     5,
+     4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 7,
+    "per_1000": 2.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/15-4.notes.tsv",
+      "label": "Sonata no. 15 ('Pastoral'), op.28, movement 4: Rondo: Allegro ma non troppo (DCML)",
+      "bar": 17,
+      "notes": "F#3 A3 D4 F#4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/04-4.notes.tsv",
+      "label": "Sonata no. 4, op.7, movement 4: Rondo: Poco allegretto e grazioso (DCML)",
+      "bar": 8,
+      "notes": "G3 Bb3 Eb4 G4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/11-4.notes.tsv",
+      "label": "Sonata no. 11, op.22, movement 4: Rondo: Allegretto (DCML)",
+      "bar": 32,
+      "notes": "A3 C4 F4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 7,
+    "per_1000": 2.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/16-3.notes.tsv",
+      "label": "Sonata no. 16, op.31/1, movement 3: Rondo: Allegretto - presto (DCML)",
+      "bar": 46,
+      "notes": "F#4 D4 A3 F#3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/07-4.notes.tsv",
+      "label": "Sonata no. 7, op.10/3, movement 4: Rondo (DCML)",
+      "bar": 35,
+      "notes": "D5 Bb4 F4 D4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/15-4.notes.tsv",
+      "label": "Sonata no. 15 ('Pastoral'), op.28, movement 4: Rondo: Allegro ma non troppo (DCML)",
+      "bar": 118,
+      "notes": "F#5 D5 A4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.7,
+    "works": 5,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/07-4.notes.tsv",
+      "label": "Sonata no. 7, op.10/3, movement 4: Rondo (DCML)",
+      "bar": 13,
+      "notes": "D6 D6 C#6 D6"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/16-3.notes.tsv",
+      "label": "Sonata no. 16, op.31/1, movement 3: Rondo: Allegretto - presto (DCML)",
+      "bar": 4,
+      "notes": "D5 D5 C#5 D5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/08-3.notes.tsv",
+      "label": "Sonata no. 8 'Pathetique', op.13, movement 3: Rondo: Allegro (DCML)",
+      "bar": 2,
+      "notes": "C5 C5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 5,
+    "per_1000": 2.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/15-4.notes.tsv",
+      "label": "Sonata no. 15 ('Pastoral'), op.28, movement 4: Rondo: Allegro ma non troppo (DCML)",
+      "bar": 3,
+      "notes": "F#5 E5 F#5 D5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/11-4.notes.tsv",
+      "label": "Sonata no. 11, op.22, movement 4: Rondo: Allegretto (DCML)",
+      "bar": 73,
+      "notes": "F4 Eb4 F4 C#4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/16-3.notes.tsv",
+      "label": "Sonata no. 16, op.31/1, movement 3: Rondo: Allegretto - presto (DCML)",
+      "bar": 17,
+      "notes": "B5 A5 B5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 4,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/15-4.notes.tsv",
+      "label": "Sonata no. 15 ('Pastoral'), op.28, movement 4: Rondo: Allegro ma non troppo (DCML)",
+      "bar": 3,
+      "notes": "G5 F#5 E5 F#5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/19-2.notes.tsv",
+      "label": "Sonata no. 19, op.49/1, movement 2: Rondo: Allegro (DCML)",
+      "bar": 34,
+      "notes": "Eb5 D5 C5 D5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/09-3.notes.tsv",
+      "label": "Sonata no. 9, op.14/1, movement 3: Rondo: Allegro comodo (DCML)",
+      "bar": 24,
+      "notes": "B4 Bb4 Ab4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.3,
+    "works": 4,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/08-3.notes.tsv",
+      "label": "Sonata no. 8 'Pathetique', op.13, movement 3: Rondo: Allegro (DCML)",
+      "bar": 0,
+      "notes": "C5 D5 Eb5 F5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/09-3.notes.tsv",
+      "label": "Sonata no. 9, op.14/1, movement 3: Rondo: Allegro comodo (DCML)",
+      "bar": 18,
+      "notes": "C#4 Eb4 E4 F#4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/19-2.notes.tsv",
+      "label": "Sonata no. 19, op.49/1, movement 2: Rondo: Allegro (DCML)",
+      "bar": 153,
+      "notes": "A4 B4 C5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 26,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "scherzo",
+  "forces": "keyboard",
+  "period": "early",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.42988538295768103,
+   "repeats": 0.09539818031637914,
+   "leaps": 0.22080219664912606,
+   "move": 3.8261720851526833,
+   "rising": 0.49678763756514766,
+   "leap answered": 0.1724985872272107,
+   "range": 25.891666666666666,
+   "register": 71.91666666666667,
+   "even": 0.5960995810592483,
+   "long-short": 0.06403948227698404,
+   "rhythm variety": 1.9736484320658405,
+   "surprise, pitch": 2.31230733470986,
+   "surprise, rhythm": 1.0965527371981463,
+   "density": 3.7111968002027123,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-2.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 2: Scherzo: Allegretto vivace (DCML)",
+      "bar": 4,
+      "notes": "Bb3 G3 Ab3 Bb3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/10-3.notes.tsv",
+      "label": "Sonata no. 10, op.14/2, movement 3: Scherzo: Allegro assai (DCML)",
+      "bar": 4,
+      "notes": "D5 B4 C5 D5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/12-2.notes.tsv",
+      "label": "Sonata no. 12, op.26, movement 2: Scherzo: Allegro molto (DCML)",
+      "bar": 27,
+      "notes": "G4 E4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/10-3.notes.tsv",
+      "label": "Sonata no. 10, op.14/2, movement 3: Scherzo: Allegro assai (DCML)",
+      "bar": 189,
+      "notes": "G3 B3 D4 G3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/03-3.notes.tsv",
+      "label": "Sonata no. 3, op.2/3, movement 3: Scherzo: Allegro (DCML)",
+      "bar": 81,
+      "notes": "E4 Ab4 B4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     8,
+     -3,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/03-3.notes.tsv",
+      "label": "Sonata no. 3, op.2/3, movement 3: Scherzo: Allegro (DCML)",
+      "bar": 75,
+      "notes": "A3 F4 D4 A3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-2.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 2: Scherzo: Allegretto vivace (DCML)",
+      "bar": 74,
+      "notes": "G4 Eb5 C5 G4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/10-3.notes.tsv",
+      "label": "Sonata no. 10, op.14/2, movement 3: Scherzo: Allegro assai (DCML)",
+      "bar": 25,
+      "notes": "B4 G5 E5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/10-3.notes.tsv",
+      "label": "Sonata no. 10, op.14/2, movement 3: Scherzo: Allegro assai (DCML)",
+      "bar": 202,
+      "notes": "D4 F#4 E4 G4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-2.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 2: Scherzo: Allegretto vivace (DCML)",
+      "bar": 36,
+      "notes": "F4 A4 G4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/03-3.notes.tsv",
+      "label": "Sonata no. 3, op.2/3, movement 3: Scherzo: Allegro (DCML)",
+      "bar": 9,
+      "notes": "F#5 G5 G5 F#5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-2.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 2: Scherzo: Allegretto vivace (DCML)",
+      "bar": 89,
+      "notes": "C3 C#3 C#3 C3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 4.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/03-3.notes.tsv",
+      "label": "Sonata no. 3, op.2/3, movement 3: Scherzo: Allegro (DCML)",
+      "bar": 9,
+      "notes": "E5 F#5 G5 G5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-2.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 2: Scherzo: Allegretto vivace (DCML)",
+      "bar": 89,
+      "notes": "Bb2 C3 C#3 C#3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/10-3.notes.tsv",
+      "label": "Sonata no. 10, op.14/2, movement 3: Scherzo: Allegro assai (DCML)",
+      "bar": 13,
+      "notes": "A5 B5 C6 C6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 56,
+   "composers": 31
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "scherzo",
+  "forces": "string quartet",
+  "period": "early",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5136947375301149,
+   "repeats": 0.1303306475968844,
+   "leaps": 0.21557689316165238,
+   "move": 3.6394165801811003,
+   "rising": 0.5015041741103214,
+   "leap answered": 0.24720835885254344,
+   "range": 23.787499999999966,
+   "register": 75.75,
+   "even": 0.671252657252352,
+   "long-short": 0.04220132066268007,
+   "rhythm variety": 1.7960577930302937,
+   "surprise, pitch": 2.7461797181306,
+   "surprise, rhythm": 1.1779108347601277,
+   "density": 6.776557077036189,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 56,
+   "composers": 31
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "sextet",
+  "forces": "chamber",
+  "period": "early",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.5115427936060243,
+   "repeats": 0.1703953284324775,
+   "leaps": 0.1216079014521781,
+   "move": 2.8451614914877674,
+   "rising": 0.4628186158696744,
+   "leap answered": 0.30285444529630573,
+   "range": 18.266666666666666,
+   "register": 68.33333333333333,
+   "even": 0.6365411094466061,
+   "long-short": 0.05338411788704426,
+   "rhythm variety": 2.040596528186268,
+   "surprise, pitch": 2.5657167084763484,
+   "surprise, rhythm": 1.4749121342407527,
+   "density": 4.904187263967635,
+   "lines": 6.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "early",
+  "era": "Classical",
+  "works": 68,
+  "values": {
+   "steps": 0.45467083545575937,
+   "repeats": 0.10797495822875476,
+   "leaps": 0.2519647646993012,
+   "move": 3.9413253493190163,
+   "rising": 0.47793810051831126,
+   "leap answered": 0.188607775249716,
+   "range": 25.672058823529408,
+   "register": 71.77941176470588,
+   "even": 0.6668299599767115,
+   "long-short": 0.06955931181762472,
+   "rhythm variety": 1.7882771536101636,
+   "surprise, pitch": 2.4049956392186425,
+   "surprise, rhythm": 1.2227780083616022,
+   "density": 4.8988313949973925,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 25.672058823529408,
+    "others": 20.45564853556485,
+    "auc": 0.835743293133153
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 11,
+    "per_1000": 0.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/01-2.notes.tsv",
+      "label": "Sonata no. 1, op.2/1, movement 2: Adagio (DCML)",
+      "bar": 26,
+      "notes": "E5 F5 G5 F#5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/19-2.notes.tsv",
+      "label": "Sonata no. 19, op.49/1, movement 2: Rondo: Allegro (DCML)",
+      "bar": 37,
+      "notes": "A4 Bb4 C5 B4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-3.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 3: Presto agitato (DCML)",
+      "bar": 35,
+      "notes": "C#6 D6 E6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     9,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 11,
+    "per_1000": 0.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/09-3.notes.tsv",
+      "label": "Sonata no. 9, op.14/1, movement 3: Rondo: Allegro comodo (DCML)",
+      "bar": 58,
+      "notes": "F#4 D4 B4 F#4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-3.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 3: Presto agitato (DCML)",
+      "bar": 185,
+      "notes": "Ab3 E3 C#4 Ab3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/18-4.notes.tsv",
+      "label": "Sonata no. 18, op.31/3, movement 4: Presto con fuoco (DCML)",
+      "bar": 152,
+      "notes": "C5 Ab4 F5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 27,
+    "per_1000": 1.6,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/15-2.notes.tsv",
+      "label": "Sonata no. 15 ('Pastoral'), op.28, movement 2: Andante (DCML)",
+      "bar": 51,
+      "notes": "A5 Ab5 A5 Bb5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/19-2.notes.tsv",
+      "label": "Sonata no. 19, op.49/1, movement 2: Rondo: Allegro (DCML)",
+      "bar": 16,
+      "notes": "D5 C#5 D5 Eb5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/03-3.notes.tsv",
+      "label": "Sonata no. 3, op.2/3, movement 3: Scherzo: Allegro (DCML)",
+      "bar": 35,
+      "notes": "G5 F#5 G5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     8,
+     -3,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 11,
+    "per_1000": 0.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/01-4.notes.tsv",
+      "label": "Sonata no. 1, op.2/1, movement 4: Prestissimo (DCML)",
+      "bar": 27,
+      "notes": "G4 Eb5 C5 G4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/03-3.notes.tsv",
+      "label": "Sonata no. 3, op.2/3, movement 3: Scherzo: Allegro (DCML)",
+      "bar": 75,
+      "notes": "A3 F4 D4 A3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-3.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 3: Presto agitato (DCML)",
+      "bar": 178,
+      "notes": "C#4 A4 F#4 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.0,
+    "works": 11,
+    "per_1000": 0.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/09-1.notes.tsv",
+      "label": "Sonata no. 9, op.14/1, movement 1: Allegro (DCML)",
+      "bar": 24,
+      "notes": "F#5 G5 Ab5 F#5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/11-2.notes.tsv",
+      "label": "Sonata no. 11, op.22, movement 2: Adagio con molto espressione (DCML)",
+      "bar": 26,
+      "notes": "Eb6 E6 F6 Eb6"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/02-4.notes.tsv",
+      "label": "Sonata no. 2, op.2/2, movement 4: Rondo: Grazioso (DCML)",
+      "bar": 69,
+      "notes": "C5 C#5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -8,
+     5,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 8,
+    "per_1000": 0.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-1.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 1: Adagio sostenuto (DCML)",
+      "bar": 1,
+      "notes": "E4 Ab3 C#4 E4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/14-3.notes.tsv",
+      "label": "Sonata no. 'quasi una fantasia' ('Moonlight'), op.27/2, movement 3: Presto agitato (DCML)",
+      "bar": 1,
+      "notes": "E4 Ab3 C#4 E4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/01-4.notes.tsv",
+      "label": "Sonata no. 1, op.2/1, movement 4: Prestissimo (DCML)",
+      "bar": 161,
+      "notes": "Ab4 C4 F4 Ab4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 239,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "late",
+  "era": "Classical",
+  "works": 12,
+  "values": {
+   "steps": 0.436726999891852,
+   "repeats": 0.1166901155845258,
+   "leaps": 0.24280746868364267,
+   "move": 4.028943233420613,
+   "rising": 0.4685924856774391,
+   "leap answered": 0.17108917811374405,
+   "range": 29.787499999999998,
+   "register": 75.91666666666667,
+   "even": 0.6282400104625806,
+   "long-short": 0.08010610384130235,
+   "rhythm variety": 1.949528610638543,
+   "surprise, pitch": 2.802192061502627,
+   "surprise, rhythm": 1.2887585050887747,
+   "density": 6.27645398332874,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 29.787499999999998,
+    "others": 20.45564853556485,
+    "auc": 0.9569386331938633
+   },
+   {
+    "measure": "register",
+    "value": 75.91666666666667,
+    "others": 73.47071129707113,
+    "auc": 0.7873082287308227
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -4,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 7,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/30-3.notes.tsv",
+      "label": "Sonata no. 30, op.109, movement 3: Gesangvoll, mit innigster Empfindung: Andante molto cantabile ed espressivo (DCML)",
+      "bar": 69,
+      "notes": "A5 Ab5 E5 Ab5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/31-2.notes.tsv",
+      "label": "Sonata no. 31, op.110, movement 2: Allegro molto (DCML)",
+      "bar": 52,
+      "notes": "F#5 F5 C#5 F5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/29-1.notes.tsv",
+      "label": "Sonata no. 29 (‘Hammerklavier’), op.106, movement 1: Allegro (DCML)",
+      "bar": 246,
+      "notes": "B5 Bb5 F#5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/29-4.notes.tsv",
+      "label": "Sonata no. 29 (‘Hammerklavier’), op.106, movement 4: Introduzione. Largo (DCML)",
+      "bar": 140,
+      "notes": "F5 F#5 Ab5 G5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/29-1.notes.tsv",
+      "label": "Sonata no. 29 (‘Hammerklavier’), op.106, movement 1: Allegro (DCML)",
+      "bar": 209,
+      "notes": "Eb5 E5 F#5 F5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/32-2.notes.tsv",
+      "label": "Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML)",
+      "bar": 77,
+      "notes": "E6 F6 G6 F#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 5,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/31-1.notes.tsv",
+      "label": "Sonata no. 31, op.110, movement 1: Moderato cantabile molto espressivo (DCML)",
+      "bar": 14,
+      "notes": "Eb3 Bb2 Eb3 C#3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/29-4.notes.tsv",
+      "label": "Sonata no. 29 (‘Hammerklavier’), op.106, movement 4: Introduzione. Largo (DCML)",
+      "bar": 4,
+      "notes": "Eb5 Bb4 Eb5 C#5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/32-2.notes.tsv",
+      "label": "Sonata no. 32, op.111, movement 2: Arietta: Adagio molto semplice e cantabile (DCML)",
+      "bar": 78,
+      "notes": "G6 D6 G6 F6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 6,
+    "per_1000": 1.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/29-4.notes.tsv",
+      "label": "Sonata no. 29 (‘Hammerklavier’), op.106, movement 4: Introduzione. Largo (DCML)",
+      "bar": 10,
+      "notes": "A3 A3 A3 A3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/29-3.notes.tsv",
+      "label": "Sonata no. 29 (‘Hammerklavier’), op.106, movement 3: Adagio sostenuto (DCML)",
+      "bar": 7,
+      "notes": "Ab4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/31-3.notes.tsv",
+      "label": "Sonata no. 31, op.110, movement 3: Adagio ma non troppo - Allegro ma non troppo (DCML)",
+      "bar": 5,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     4,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 5,
+    "per_1000": 1.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/31-2.notes.tsv",
+      "label": "Sonata no. 31, op.110, movement 2: Allegro molto (DCML)",
+      "bar": 47,
+      "notes": "Bb4 F#4 Bb4 Ab4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/30-1.notes.tsv",
+      "label": "Sonata no. 30, op.109, movement 1: Vivace ma non troppo - Adagio espressivo (DCML)",
+      "bar": 14,
+      "notes": "Bb5 F#5 Bb5 Ab5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/30-3.notes.tsv",
+      "label": "Sonata no. 30, op.109, movement 3: Gesangvoll, mit innigster Empfindung: Andante molto cantabile ed espressivo (DCML)",
+      "bar": 69,
+      "notes": "Ab5 E5 Ab5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 0.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/29-3.notes.tsv",
+      "label": "Sonata no. 29 (‘Hammerklavier’), op.106, movement 3: Adagio sostenuto (DCML)",
+      "bar": 166,
+      "notes": "F#4 Ab4 A4 Bb4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/30-1.notes.tsv",
+      "label": "Sonata no. 30, op.109, movement 1: Vivace ma non troppo - Adagio espressivo (DCML)",
+      "bar": 9,
+      "notes": "E5 F#5 G5 Ab5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/29-1.notes.tsv",
+      "label": "Sonata no. 29 (‘Hammerklavier’), op.106, movement 1: Allegro (DCML)",
+      "bar": 162,
+      "notes": "F4 G4 Ab4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 239,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "middle",
+  "era": "Classical",
+  "works": 15,
+  "values": {
+   "steps": 0.40329168041967195,
+   "repeats": 0.08675663839665639,
+   "leaps": 0.27725781307078556,
+   "move": 4.2215341127214305,
+   "rising": 0.48698845284300835,
+   "leap answered": 0.15826215348552866,
+   "range": 28.77333333333333,
+   "register": 73.86666666666666,
+   "even": 0.6752796983514481,
+   "long-short": 0.06916906105820018,
+   "rhythm variety": 1.7050906251945928,
+   "surprise, pitch": 2.3997010576429942,
+   "surprise, rhythm": 1.0079916122043064,
+   "density": 5.59544336088183,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.48698845284300835,
+    "others": 0.44065174198962975,
+    "auc": 0.7697350069735008
+   },
+   {
+    "measure": "range",
+    "value": 28.77333333333333,
+    "others": 20.45564853556485,
+    "auc": 0.8730822873082289
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -5,
+     -3,
+     8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 6,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/23-2.notes.tsv",
+      "label": "Sonata no. 23 ('Appassionata'), op.57, movement 2: Andante con moto (DCML)",
+      "bar": 35,
+      "notes": "Ab4 Eb4 C4 Ab4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/21-1.notes.tsv",
+      "label": "Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML)",
+      "bar": 29,
+      "notes": "B4 F#4 Eb4 B4"
+     },
+     {
+      "work": "mutopia:BeethovenLv/O79/LVB_Sonate_79_1",
+      "label": "Sonata No. 25 (1st Movement: Presto alla tedesca) (Op. 79) (Mutopia)",
+      "bar": 196,
+      "notes": "G5 D5 B4 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/23-3.notes.tsv",
+      "label": "Sonata no. 23 ('Appassionata'), op.57, movement 3: Allegro ma non troppo - Presto (DCML)",
+      "bar": 11,
+      "notes": "C4 C#4 C4 B3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/21-3.notes.tsv",
+      "label": "Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML)",
+      "bar": 197,
+      "notes": "G5 Ab5 G5 F#5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/21-1.notes.tsv",
+      "label": "Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML)",
+      "bar": 75,
+      "notes": "E6 F6 E6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 4,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:BeethovenLv/O90/LVB_Sonate_90_2",
+      "label": "Sonata No. 27 (2nd Movement: Nicht zu geschwind) (Op. 90) (Mutopia)",
+      "bar": 68,
+      "notes": "Eb5 F#5 Eb5 A5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/21-1.notes.tsv",
+      "label": "Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML)",
+      "bar": 19,
+      "notes": "D4 F4 D4 Ab4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/23-1.notes.tsv",
+      "label": "Sonata no. 23 ('Appassionata'), op.57, movement 1: Allegro assai (DCML)",
+      "bar": 150,
+      "notes": "Bb2 C#3 Bb2 E3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:BeethovenLv/O79/LVB_Sonate_79_1",
+      "label": "Sonata No. 25 (1st Movement: Presto alla tedesca) (Op. 79) (Mutopia)",
+      "bar": 63,
+      "notes": "Eb4 B3 F#4 B3"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/24-2.notes.tsv",
+      "label": "Sonata no. 24, op.78, movement 2: Allegro vivace (DCML)",
+      "bar": 14,
+      "notes": "Bb5 F#5 C#6 F#5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/23-2.notes.tsv",
+      "label": "Sonata no. 23 ('Appassionata'), op.57, movement 2: Andante con moto (DCML)",
+      "bar": 33,
+      "notes": "F4 C#4 Ab4 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -7,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 6,
+    "per_1000": 1.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "mutopia:BeethovenLv/O79/LVB_Sonate_79_1",
+      "label": "Sonata No. 25 (1st Movement: Presto alla tedesca) (Op. 79) (Mutopia)",
+      "bar": 189,
+      "notes": "G4 D5 G4 D5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/21-1.notes.tsv",
+      "label": "Sonata no. 21 'Waldstein', op.53, movement 1: Allegro con brio (DCML)",
+      "bar": 73,
+      "notes": "B5 F#6 B5 F#6"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/24-2.notes.tsv",
+      "label": "Sonata no. 24, op.78, movement 2: Allegro vivace (DCML)",
+      "bar": 14,
+      "notes": "F#5 C#6 F#5 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -4,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/23-3.notes.tsv",
+      "label": "Sonata no. 23 ('Appassionata'), op.57, movement 3: Allegro ma non troppo - Presto (DCML)",
+      "bar": 353,
+      "notes": "F5 C5 Ab4 F5"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/23-1.notes.tsv",
+      "label": "Sonata no. 23 ('Appassionata'), op.57, movement 1: Allegro assai (DCML)",
+      "bar": 227,
+      "notes": "Bb4 F4 C#4 Bb4"
+     },
+     {
+      "work": "dcml/beethoven_piano_sonatas:notes/21-3.notes.tsv",
+      "label": "Sonata no. 21 'Waldstein', op.53, movement 3: Rondo: Allegretto moderato - Prestissimo (DCML)",
+      "bar": 280,
+      "notes": "C6 G5 Eb5 C6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 239,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "early",
+  "era": "Classical",
+  "works": 14,
+  "values": {
+   "steps": 0.4572374236114813,
+   "repeats": 0.3053898655451888,
+   "leaps": 0.1229318539642523,
+   "move": 2.8738320423238233,
+   "rising": 0.4777313124058167,
+   "leap answered": 0.1511849261849262,
+   "range": 10.599999999999994,
+   "register": 70.28571428571429,
+   "even": 0.4238318165620325,
+   "long-short": 0.21049948848408043,
+   "rhythm variety": 2.2685312089365,
+   "surprise, pitch": 2.4978438908543974,
+   "surprise, rhythm": 1.5644905358812775,
+   "density": 4.905774186877279,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.3053898655451888,
+    "others": 0.15651263642072843,
+    "auc": 0.8078446325785572
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.1511849261849262,
+    "others": 0.41526445041652255,
+    "auc": 0.18254235189621731
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 6.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/8_Lieder,_Op.52/7_Marmotte/lc6491461.mxl",
+      "label": "Lieder, Op.52, Marmotte (OpenScore)",
+      "bar": 2,
+      "notes": "A4 A4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/6_Busslied/lc5125008.mxl",
+      "label": "Lieder, Op.48, Busslied (OpenScore)",
+      "bar": 32,
+      "notes": "B4 B4 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/8_Lieder,_Op.52/3_Das_Liedchen_von_der_Ruhe/lc6491353.mxl",
+      "label": "Lieder, Op.52, Das Liedchen von der Ruhe (OpenScore)",
+      "bar": 12,
+      "notes": "D4 D4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 5,
+    "per_1000": 7.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/1_Bitten/lc5115311.mxl",
+      "label": "Lieder, Op.48, Bitten (OpenScore)",
+      "bar": 27,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/4_Die_Ehre_Gottes_aus_der_Natur/lc5121134.mxl",
+      "label": "Lieder, Op.48, Die Ehre Gottes aus der Natur (OpenScore)",
+      "bar": 10,
+      "notes": "E4 E4 E4 E4"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/3_Vom_Tode/lc5115550.mxl",
+      "label": "Lieder, Op.48, Vom Tode (OpenScore)",
+      "bar": 2,
+      "notes": "F#4 F#4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 5.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/6_Busslied/lc5125008.mxl",
+      "label": "Lieder, Op.48, Busslied (OpenScore)",
+      "bar": 4,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/8_Lieder,_Op.52/3_Das_Liedchen_von_der_Ruhe/lc6491353.mxl",
+      "label": "Lieder, Op.52, Das Liedchen von der Ruhe (OpenScore)",
+      "bar": 12,
+      "notes": "D4 D4 D4 D4"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/1_Bitten/lc5115311.mxl",
+      "label": "Lieder, Op.48, Bitten (OpenScore)",
+      "bar": 27,
+      "notes": "E5 E5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 4.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/8_Lieder,_Op.52/4_Mailied/lc6491377.mxl",
+      "label": "Lieder, Op.52, Mailied (OpenScore)",
+      "bar": 28,
+      "notes": "F4 G4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/8_Lieder,_Op.52/3_Das_Liedchen_von_der_Ruhe/lc6491353.mxl",
+      "label": "Lieder, Op.52, Das Liedchen von der Ruhe (OpenScore)",
+      "bar": 9,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/6_Busslied/lc5125008.mxl",
+      "label": "Lieder, Op.48, Busslied (OpenScore)",
+      "bar": 21,
+      "notes": "A4 B4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.1,
+    "works": 5,
+    "per_1000": 4.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/4_Die_Ehre_Gottes_aus_der_Natur/lc5121134.mxl",
+      "label": "Lieder, Op.48, Die Ehre Gottes aus der Natur (OpenScore)",
+      "bar": 20,
+      "notes": "Bb4 Eb5 Eb5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/1_Bitten/lc5115311.mxl",
+      "label": "Lieder, Op.48, Bitten (OpenScore)",
+      "bar": 9,
+      "notes": "B4 E5 E5 E5"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/5_Gottes_Macht_und_Vorsehung/lc5121692.mxl",
+      "label": "Lieder, Op.48, Gottes Macht und Vorsehung (OpenScore)",
+      "bar": 10,
+      "notes": "C5 F5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 4.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/8_Lieder,_Op.52/4_Mailied/lc6491377.mxl",
+      "label": "Lieder, Op.52, Mailied (OpenScore)",
+      "bar": 23,
+      "notes": "Bb4 Bb4 G4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Beethoven,_Ludwig_van/6_Lieder,_Op.48/6_Busslied/lc5125008.mxl",
+      "label": "Lieder, Op.48, Busslied (OpenScore)",
+      "bar": 64,
+      "notes": "E5 E5 C#5 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 124,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "early",
+  "era": "Classical",
+  "works": 24,
+  "values": {
+   "steps": 0.5294976483357353,
+   "repeats": 0.13647302339621215,
+   "leaps": 0.1703321029725499,
+   "move": 3.265384646314162,
+   "rising": 0.48258213688080226,
+   "leap answered": 0.2371447831159107,
+   "range": 23.572916666666657,
+   "register": 76.04166666666667,
+   "even": 0.6860143659799247,
+   "long-short": 0.04921794146565158,
+   "rhythm variety": 1.8355914945200345,
+   "surprise, pitch": 2.6605936988166516,
+   "surprise, rhythm": 1.3019725102242667,
+   "density": 5.367477767039531,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 23.572916666666657,
+    "others": 20.112411056376573,
+    "auc": 0.7943537212574568
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.2,
+    "works": 11,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n06op18-6_04.notes.tsv",
+      "label": "<font size=\"24\"/>Scherzo (DCML)",
+      "bar": 108,
+      "notes": "C5 Bb4 A4 Ab4"
+     },
+     {
+      "work": "dcml/ABC:notes/n05op18-5_04.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op.18 No.5 (DCML)",
+      "bar": 28,
+      "notes": "C#6 B5 Bb5 A5"
+     },
+     {
+      "work": "dcml/ABC:notes/n03op18-3_01.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op18 No3 (DCML)",
+      "bar": 64,
+      "notes": "A5 G5 F#5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     6,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 7,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n03op18-3_04.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op18 No3 (DCML)",
+      "bar": 153,
+      "notes": "Ab5 F5 B5 Ab5"
+     },
+     {
+      "work": "dcml/ABC:notes/n03op18-3_01.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op18 No3 (DCML)",
+      "bar": 137,
+      "notes": "B5 Ab5 D6 B5"
+     },
+     {
+      "work": "dcml/ABC:notes/n01op18-1_03.notes.tsv",
+      "label": "op.18 no.1 mvmnt.3 (DCML)",
+      "bar": 130,
+      "notes": "D5 B4 F5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 5,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n06op18-6_03.notes.tsv",
+      "label": "<font size=\"24\"/>Scherzo (DCML)",
+      "bar": 41,
+      "notes": "F5 G5 G5 A5"
+     },
+     {
+      "work": "dcml/ABC:notes/n03op18-3_01.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op18 No3 (DCML)",
+      "bar": 70,
+      "notes": "C5 D5 D5 E5"
+     },
+     {
+      "work": "dcml/ABC:notes/n02op18-2_01.notes.tsv",
+      "label": "<font size=\"24\"/>Quartet No.2 in G Major <font size=\"16\"/>Op. 18 no. 2, 1st Movement (DCML)",
+      "bar": 44,
+      "notes": "G5 A5 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     2,
+     0,
+     -2
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n01op18-1_01.notes.tsv",
+      "label": "Op. 18 no. 1 mvmnt 1 (DCML)",
+      "bar": 55,
+      "notes": "G5 G5 G5 Ab5"
+     },
+     {
+      "work": "dcml/ABC:notes/n02op18-2_04.notes.tsv",
+      "label": "<font size=\"24\"/>Quartet No.2 in G Major <font size=\"16\"/>Op.18 No. 2, 4th Movement (DCML)",
+      "bar": 56,
+      "notes": "F#5 F#5 F#5 G5"
+     },
+     {
+      "work": "dcml/ABC:notes/n03op18-3_01.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op18 No3 (DCML)",
+      "bar": 45,
+      "notes": "Eb5 Eb5 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -3,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 8,
+    "per_1000": 1.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n04op18-4_03.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op18 No4 (DCML)",
+      "bar": 52,
+      "notes": "Eb4 Eb4 C4 C4"
+     },
+     {
+      "work": "dcml/ABC:notes/n03op18-3_02.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op18 No3 (DCML)",
+      "bar": 18,
+      "notes": "F6 F6 D6 D6"
+     },
+     {
+      "work": "dcml/ABC:notes/n02op18-2_04.notes.tsv",
+      "label": "<font size=\"24\"/>Quartet No.2 in G Major <font size=\"16\"/>Op.18 No. 2, 4th Movement (DCML)",
+      "bar": 406,
+      "notes": "C6 C6 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 5,
+    "per_1000": 0.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n02op18-2_02.notes.tsv",
+      "label": "<font size=\"24\"/>Quartet No.2 in G Major <font size=\"16\"/>Op. 18, no.2, 2nd Movement (DCML)",
+      "bar": 18,
+      "notes": "B5 C6 G5 E5"
+     },
+     {
+      "work": "dcml/ABC:notes/n06op18-6_03.notes.tsv",
+      "label": "<font size=\"24\"/>Scherzo (DCML)",
+      "bar": 55,
+      "notes": "A4 Bb4 F4 D4"
+     },
+     {
+      "work": "dcml/ABC:notes/n04op18-4_03.notes.tsv",
+      "label": "<font size=\"24\"/>String Quartet Op18 No4 (DCML)",
+      "bar": 66,
+      "notes": "D5 Eb5 Bb4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 422,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "late",
+  "era": "Classical",
+  "works": 27,
+  "values": {
+   "steps": 0.5111985760524349,
+   "repeats": 0.1354217753798021,
+   "leaps": 0.20809073263618846,
+   "move": 3.7406291035879926,
+   "rising": 0.4953123576638461,
+   "leap answered": 0.24205220863635551,
+   "range": 23.564814814814813,
+   "register": 77.4074074074074,
+   "even": 0.5761811141331539,
+   "long-short": 0.09515699598497329,
+   "rhythm variety": 2.1413842178273486,
+   "surprise, pitch": 2.8276222479005035,
+   "surprise, rhythm": 1.338766929092901,
+   "density": 4.967354934341395,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4953123576638461,
+    "others": 0.4521141515559677,
+    "auc": 0.7814895595866221
+   },
+   {
+    "measure": "range",
+    "value": 23.564814814814813,
+    "others": 20.112411056376573,
+    "auc": 0.7903586586536776
+   },
+   {
+    "measure": "register",
+    "value": 77.4074074074074,
+    "others": 74.53180408352821,
+    "auc": 0.7883822104767186
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8276222479005035,
+    "others": 2.5176701077206967,
+    "auc": 0.772057987894514
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.7,
+    "works": 14,
+    "per_1000": 1.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n16op135_03.notes.tsv",
+      "label": "<font size=\"18\"/>QUARTETT fur 2 Violinen, Bratsche und Violoncell Op.135 3rd Movement (DCML)",
+      "bar": 6,
+      "notes": "C#4 Eb4 F4 F4"
+     },
+     {
+      "work": "dcml/ABC:notes/n16op135_01.notes.tsv",
+      "label": "<font size=\"18\"/>QUARTETT fur 2 Violinen, Bratsche und Violoncell Op.135 1st Movement (DCML)",
+      "bar": 95,
+      "notes": "G5 A5 B5 B5"
+     },
+     {
+      "work": "dcml/ABC:notes/n13op130_01.notes.tsv",
+      "label": "<font size=\"24\"/><b>Quartett No. 13</b><font size=\"18\"/> <font size=\"18\"/><b>für 2 Violinen, Bratsche und Violoncell</b><font size=\"18\"/> <font size=\"18\"/><b>Op. 130 1st Movement</b><font size=\"18\"/> <font size=\"14\"/><b>Dem Fürsten Nicolaus von Galitzin gewidmet.</b> (DCML)",
+      "bar": 41,
+      "notes": "Bb5 C6 D6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.3,
+    "works": 6,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n14op131_07.notes.tsv",
+      "label": "n14op131_07 (DCML)",
+      "bar": 5,
+      "notes": "E5 F#5 Ab5 A5"
+     },
+     {
+      "work": "dcml/ABC:notes/n12op127_02.notes.tsv",
+      "label": "String Quartet No12 Op127 (DCML)",
+      "bar": 3,
+      "notes": "Ab4 Bb4 C5 C#5"
+     },
+     {
+      "work": "dcml/ABC:notes/n14op131_02.notes.tsv",
+      "label": "n14op131_02 (DCML)",
+      "bar": 75,
+      "notes": "A5 B5 C#6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 12,
+    "per_1000": 1.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n12op127_03.notes.tsv",
+      "label": "String Quartet No12 Op127 (DCML)",
+      "bar": 180,
+      "notes": "D4 Eb4 Eb4 F4"
+     },
+     {
+      "work": "dcml/ABC:notes/n13op130_03.notes.tsv",
+      "label": "<font size=\"18\"/>Quartett No. 13 für 2 Violinen, Bratsche und Violoncell Op. 130 3rd Movement <font size=\"14\"/>Dem Fürsten Nicolaus von Galitzin gewidmet. (DCML)",
+      "bar": 25,
+      "notes": "G5 Ab5 Ab5 Bb5"
+     },
+     {
+      "work": "dcml/ABC:notes/n16op135_01.notes.tsv",
+      "label": "<font size=\"18\"/>QUARTETT fur 2 Violinen, Bratsche und Violoncell Op.135 1st Movement (DCML)",
+      "bar": 53,
+      "notes": "F#5 G5 G5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.1,
+    "works": 8,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Beethoven,_Ludwig_van/Grosse_Fuge_in_B-flat_major,_Op.133/sq10502527.mxl",
+      "label": "Grosse Fuge in B-flat major, Op.133 (OpenScore)",
+      "bar": 32,
+      "notes": "F5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "dcml/ABC:notes/n12op127_02.notes.tsv",
+      "label": "String Quartet No12 Op127 (DCML)",
+      "bar": 11,
+      "notes": "Bb4 Ab4 Ab4 G4"
+     },
+     {
+      "work": "dcml/ABC:notes/n14op131_02.notes.tsv",
+      "label": "n14op131_02 (DCML)",
+      "bar": 18,
+      "notes": "E5 D5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.1,
+    "works": 8,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n16op135_04.notes.tsv",
+      "label": "<font size=\"18\"/>QUARTETT fur 2 Violinen, Bratsche und Violoncell Op.135 4th Movement (DCML)",
+      "bar": 20,
+      "notes": "C5 D5 D5 C5"
+     },
+     {
+      "work": "dcml/ABC:notes/n14op131_01.notes.tsv",
+      "label": "n14op131_01 (DCML)",
+      "bar": 55,
+      "notes": "E5 F#5 F#5 E5"
+     },
+     {
+      "work": "dcml/ABC:notes/n15op132_01.notes.tsv",
+      "label": "String Quartet No15 Op 132 (DCML)",
+      "bar": 58,
+      "notes": "Bb5 C6 C6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 13,
+    "per_1000": 1.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n13op130_02.notes.tsv",
+      "label": "<font size=\"18\"/>Quartett No. 13 für 2 Violinen, Bratsche und Violoncell Op. 130 2nd Movement <font size=\"14\"/>Dem Fürsten Nicolaus von Galitzin gewidmet. (DCML)",
+      "bar": 17,
+      "notes": "Bb4 Bb4 A4 Bb4"
+     },
+     {
+      "work": "dcml/ABC:notes/n12op127_01.notes.tsv",
+      "label": "String Quartet No12 Op127 (DCML)",
+      "bar": 9,
+      "notes": "Ab4 Ab4 G4 Ab4"
+     },
+     {
+      "work": "dcml/ABC:notes/n15op132_05.notes.tsv",
+      "label": "String Quartet No15 Op 132 (DCML)",
+      "bar": 304,
+      "notes": "A5 A5 Ab5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 422,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "middle",
+  "era": "Classical",
+  "works": 20,
+  "values": {
+   "steps": 0.48374522779551016,
+   "repeats": 0.15981679115222783,
+   "leaps": 0.19400108887142556,
+   "move": 3.578855812871393,
+   "rising": 0.49435209929598256,
+   "leap answered": 0.18279437752486885,
+   "range": 26.579999999999995,
+   "register": 75.55,
+   "even": 0.6214711343914551,
+   "long-short": 0.11164251397131461,
+   "rhythm variety": 2.073022375215325,
+   "surprise, pitch": 2.703276975686671,
+   "surprise, rhythm": 1.4051578115592984,
+   "density": 5.890344235121308,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 26.579999999999995,
+    "others": 20.112411056376573,
+    "auc": 0.9257385016005705
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 5,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n09op59-3_04.notes.tsv",
+      "label": "<font size=\"18\"/><b>DREI QUARTETTE </b><font size=\"14\"/><b>fur 2 Violinen, Bratsche und Violoncell Op.59 No.3, 4th movement</b> (DCML)",
+      "bar": 39,
+      "notes": "F6 G6 G6 A6"
+     },
+     {
+      "work": "dcml/ABC:notes/n07op59-1_04.notes.tsv",
+      "label": "<font size=\"18\"/>DREI QUARTETTE <font size=\"14\"/>fur 2 Violinen, Bratsche und Violoncell Op. 59 No.1 4th Movement (DCML)",
+      "bar": 10,
+      "notes": "F5 G5 G5 A5"
+     },
+     {
+      "work": "dcml/ABC:notes/n07op59-1_02.notes.tsv",
+      "label": "<font size=\"18\"/>DREI QUARTETTE <font size=\"14\"/>fur 2 Violinen, Bratsche und Violoncell Op. 59 No.1 2nd Movement (DCML)",
+      "bar": 232,
+      "notes": "F5 G5 G5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     2,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 5,
+    "per_1000": 0.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n09op59-3_01.notes.tsv",
+      "label": "<font size=\"18\"/><b>DREI QUARTETTE </b><font size=\"14\"/><b>fur 2 Violinen, Bratsche und Violoncell Op.59 No.3, 1st movement</b> (DCML)",
+      "bar": 183,
+      "notes": "D4 F4 G4 B4"
+     },
+     {
+      "work": "dcml/ABC:notes/n10op74_01.notes.tsv",
+      "label": "String Quartet (DCML)",
+      "bar": 137,
+      "notes": "F4 Ab4 Bb4 D5"
+     },
+     {
+      "work": "dcml/ABC:notes/n07op59-1_01.notes.tsv",
+      "label": "<font size=\"18\"/>DREI QUARTETTE <font size=\"14\"/>fur 2 Violinen, Bratsche und Violoncell Op. 59 No.1 (DCML)",
+      "bar": 328,
+      "notes": "G4 Bb4 C5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     8,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 0.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n07op59-1_04.notes.tsv",
+      "label": "<font size=\"18\"/>DREI QUARTETTE <font size=\"14\"/>fur 2 Violinen, Bratsche und Violoncell Op. 59 No.1 4th Movement (DCML)",
+      "bar": 39,
+      "notes": "G5 E5 C6 C6"
+     },
+     {
+      "work": "dcml/ABC:notes/n08op59-2_01.notes.tsv",
+      "label": "<font size=\"18\"/><b>DREI QUARTETTE </b><font size=\"14\"/><b>fur 2 Violinen, Bratsche und Violoncell Op.59 No.2 1st movement</b> (DCML)",
+      "bar": 128,
+      "notes": "D5 B4 G5 G5"
+     },
+     {
+      "work": "dcml/ABC:notes/n07op59-1_02.notes.tsv",
+      "label": "<font size=\"18\"/>DREI QUARTETTE <font size=\"14\"/>fur 2 Violinen, Bratsche und Violoncell Op. 59 No.1 2nd Movement (DCML)",
+      "bar": 415,
+      "notes": "Bb5 G5 Eb6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 0.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n11op95_01.notes.tsv",
+      "label": "<font size=\"18\"/>QUARTETT für 2 Violinen, Bratsche und Violoncello Op. 95 1st Movevment (DCML)",
+      "bar": 42,
+      "notes": "A5 Ab5 Ab5 Ab5"
+     },
+     {
+      "work": "dcml/ABC:notes/n11op95_03.notes.tsv",
+      "label": "n11op95_03 (DCML)",
+      "bar": 28,
+      "notes": "C#4 C4 C4 C4"
+     },
+     {
+      "work": "dcml/ABC:notes/n09op59-3_02.notes.tsv",
+      "label": "<font size=\"18\"/><b>DREI QUARTETTE </b><font size=\"14\"/><b>fur 2 Violinen, Bratsche und Violoncell Op.59 No.3, 2nd movement</b> (DCML)",
+      "bar": 86,
+      "notes": "Eb5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 6,
+    "per_1000": 0.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n09op59-3_01.notes.tsv",
+      "label": "<font size=\"18\"/><b>DREI QUARTETTE </b><font size=\"14\"/><b>fur 2 Violinen, Bratsche und Violoncell Op.59 No.3, 1st movement</b> (DCML)",
+      "bar": 245,
+      "notes": "C4 D4 E4 F4"
+     },
+     {
+      "work": "dcml/ABC:notes/n10op74_02.notes.tsv",
+      "label": "String Quartet (DCML)",
+      "bar": 12,
+      "notes": "C#5 Eb5 F5 F#5"
+     },
+     {
+      "work": "dcml/ABC:notes/n08op59-2_04.notes.tsv",
+      "label": "String Quartet Op 59 No. 2 - Fourth Movement (DCML)",
+      "bar": 345,
+      "notes": "G4 A4 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -9,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 0.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/ABC:notes/n08op59-2_01.notes.tsv",
+      "label": "<font size=\"18\"/><b>DREI QUARTETTE </b><font size=\"14\"/><b>fur 2 Violinen, Bratsche und Violoncell Op.59 No.2 1st movement</b> (DCML)",
+      "bar": 16,
+      "notes": "A4 C4 D4 E4"
+     },
+     {
+      "work": "dcml/ABC:notes/n09op59-3_04.notes.tsv",
+      "label": "<font size=\"18\"/><b>DREI QUARTETTE </b><font size=\"14\"/><b>fur 2 Violinen, Bratsche und Violoncell Op.59 No.3, 4th movement</b> (DCML)",
+      "bar": 59,
+      "notes": "A5 C5 D5 E5"
+     },
+     {
+      "work": "dcml/ABC:notes/n09op59-3_01.notes.tsv",
+      "label": "<font size=\"18\"/><b>DREI QUARTETTE </b><font size=\"14\"/><b>fur 2 Violinen, Bratsche und Violoncell Op.59 No.3, 1st movement</b> (DCML)",
+      "bar": 182,
+      "notes": "D5 F4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 422,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "symphony",
+  "forces": "orchestra",
+  "period": "middle",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.5073407438657765,
+   "repeats": 0.2767891460174208,
+   "leaps": 0.0932179972545056,
+   "move": 2.7526570025400297,
+   "rising": 0.5439515869829357,
+   "leap answered": 0.23613277594060023,
+   "range": 16.333333333333332,
+   "register": 84.66666666666667,
+   "even": 0.5655109452460986,
+   "long-short": 0.06328977371617031,
+   "rhythm variety": 2.304345186500448,
+   "surprise, pitch": 2.5102790060118934,
+   "surprise, rhythm": 1.5354498533566492,
+   "density": 12.340911181793686,
+   "lines": 12.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 30,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "Ludwig van Beethoven",
+  "kind": "variations",
+  "forces": "keyboard",
+  "period": "any period",
+  "era": "Classical",
+  "works": 13,
+  "values": {
+   "steps": 0.4798216395205798,
+   "repeats": 0.07293450541312924,
+   "leaps": 0.26802636507187283,
+   "move": 3.87282102076239,
+   "rising": 0.5001562878474695,
+   "leap answered": 0.16577089833081568,
+   "range": 24.930769230769233,
+   "register": 73.61538461538461,
+   "even": 0.7360006887609107,
+   "long-short": 0.05637301545682524,
+   "rhythm variety": 1.6253411091667078,
+   "surprise, pitch": 2.4668624606948906,
+   "surprise, rhythm": 0.9654861770846459,
+   "density": 5.12794011308995,
+   "lines": 2.3076923076923075
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -5,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 11,
+    "per_1000": 1.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "tavern-xml:Beethoven/B075/Krn/Wo075.xml",
+      "label": "Sieben Variationen über „Kind, willst du ruhig schlafen“ aus „Das unterbrochene Opferfest“ von P. Winter, WoO 75 (TAVERN)",
+      "bar": 71,
+      "notes": "F5 C5 A4 C5"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B073/Krn/Wo073.xml",
+      "label": "Zehn Variationen über „La stessa, la stessissima“ aus „Falstaff“ von A. Salieri, WoO 73 (TAVERN)",
+      "bar": 39,
+      "notes": "Bb4 F4 D4 F4"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B070/Krn/Wo070.xml",
+      "label": "Sechs Variationen über „Nel cor più non mi sento“ von G. Paisiello, WoO 70 (TAVERN)",
+      "bar": 147,
+      "notes": "G4 D4 B3 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -4,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 9,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "tavern-xml:Beethoven/B066/Krn/Wo066.xml",
+      "label": "13 Variationen über „Es war einmal ein alter Mann“ aus „Das rote Käppchen“ von K. Ditters von Dittersdorf, WoO 66 (TAVERN)",
+      "bar": 15,
+      "notes": "E5 Ab5 E5 B4"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B073/Krn/Wo073.xml",
+      "label": "Zehn Variationen über „La stessa, la stessissima“ aus „Falstaff“ von A. Salieri, WoO 73 (TAVERN)",
+      "bar": 43,
+      "notes": "Eb5 G5 Eb5 Bb4"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B077/Krn/Wo077.xml",
+      "label": "Sechs leichte Variationen über ein eigenes Thema, WoO 77 (TAVERN)",
+      "bar": 114,
+      "notes": "G5 B5 G5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 11,
+    "per_1000": 1.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "tavern-xml:Beethoven/B070/Krn/Wo070.xml",
+      "label": "Sechs Variationen über „Nel cor più non mi sento“ von G. Paisiello, WoO 70 (TAVERN)",
+      "bar": 31,
+      "notes": "Ab5 B5 Ab5 E5"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B075/Krn/Wo075.xml",
+      "label": "Sieben Variationen über „Kind, willst du ruhig schlafen“ aus „Das unterbrochene Opferfest“ von P. Winter, WoO 75 (TAVERN)",
+      "bar": 405,
+      "notes": "C#6 E6 C#6 A5"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B072/Krn/Wo072.xml",
+      "label": "Acht Variationen über „Une fièvre brûlante“ aus „Richard Cœur de Lion“ von A. E. M. Grétry, WoO 72 (TAVERN)",
+      "bar": 82,
+      "notes": "B3 D4 B3 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 7,
+    "per_1000": 1.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "tavern-xml:Beethoven/B066/Krn/Wo066.xml",
+      "label": "13 Variationen über „Es war einmal ein alter Mann“ aus „Das rote Käppchen“ von K. Ditters von Dittersdorf, WoO 66 (TAVERN)",
+      "bar": 270,
+      "notes": "C#5 A4 E4 A4"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B078/Krn/Wo078.xml",
+      "label": "Sieben Variationen über „God Save the King“, WoO 78 (TAVERN)",
+      "bar": 102,
+      "notes": "E5 C5 G4 C5"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B075/Krn/Wo075.xml",
+      "label": "Sieben Variationen über „Kind, willst du ruhig schlafen“ aus „Das unterbrochene Opferfest“ von P. Winter, WoO 75 (TAVERN)",
+      "bar": 221,
+      "notes": "A5 F5 C5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     8,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 6,
+    "per_1000": 0.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "tavern-xml:Beethoven/B075/Krn/Wo075.xml",
+      "label": "Sieben Variationen über „Kind, willst du ruhig schlafen“ aus „Das unterbrochene Opferfest“ von P. Winter, WoO 75 (TAVERN)",
+      "bar": 214,
+      "notes": "A4 F5 E5 F5"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B069/Krn/Wo069.xml",
+      "label": "Neun Variationen über „Quant’è più bello“ von G. Paisiello, WoO 69 (TAVERN)",
+      "bar": 106,
+      "notes": "B4 G5 F#5 G5"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B063/Krn/Wo063.xml",
+      "label": "Neun Variationen über einen Marsch von E. Chr. Dressler, WoO 63 (TAVERN)",
+      "bar": 117,
+      "notes": "D5 Bb5 A5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 7,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "tavern-xml:Beethoven/B077/Krn/Wo077.xml",
+      "label": "Sechs leichte Variationen über ein eigenes Thema, WoO 77 (TAVERN)",
+      "bar": 113,
+      "notes": "A4 G4 B4 D5"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B070/Krn/Wo070.xml",
+      "label": "Sechs Variationen über „Nel cor più non mi sento“ von G. Paisiello, WoO 70 (TAVERN)",
+      "bar": 147,
+      "notes": "A3 G3 B3 D4"
+     },
+     {
+      "work": "tavern-xml:Beethoven/B071/Krn/Wo071.xml",
+      "label": "Zwölf Variationen über einen russischen Tanz von P. Wranitzky, WoO 71 (TAVERN)",
+      "bar": 49,
+      "notes": "B4 A4 C#5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 122,
+   "composers": 26
+  }
+ }
+]

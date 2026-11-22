@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Domenico Caudioso",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.516887399810678,
+   "repeats": 0.13771742322534158,
+   "leaps": 0.1903694674088613,
+   "move": 3.76878461677367,
+   "rising": 0.4370123314942848,
+   "leap answered": 0.22450980392156863,
+   "range": 17.666666666666668,
+   "register": 73.33333333333333,
+   "even": 0.7284770732803145,
+   "long-short": 0.03583977381536017,
+   "rhythm variety": 1.5326232335818588,
+   "surprise, pitch": 2.7224812907540135,
+   "surprise, rhythm": 1.1372665842291185,
+   "density": 7.1973124515366145,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 322,
+   "composers": 26
+  }
+ }
+]

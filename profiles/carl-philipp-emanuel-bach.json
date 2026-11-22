@@ -1,0 +1,837 @@
+[
+ {
+  "composer": "Carl Philipp Emanuel Bach",
+  "kind": "fantasia",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 10,
+  "values": {
+   "steps": 0.4925537220145578,
+   "repeats": 0.08319476571164142,
+   "leaps": 0.24084667932540263,
+   "move": 3.5759683393872317,
+   "rising": 0.42148162213868456,
+   "leap answered": 0.17955080986326966,
+   "range": 22.289999999999985,
+   "register": 73.0,
+   "even": 0.7705430412501191,
+   "long-short": 0.06827479427243063,
+   "rhythm variety": 1.195902803420273,
+   "surprise, pitch": 2.729365236280343,
+   "surprise, rhythm": 1.1038479209713277,
+   "density": 4.527403493379106,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.42148162213868456,
+    "others": 0.46242445795686543,
+    "auc": 0.23620879121725497
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.729365236280343,
+    "others": 2.4292662247459944,
+    "auc": 0.7612545787321172
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.4,
+    "works": 9,
+    "per_1000": 14.3,
+    "others_per_1000": 2.6,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq119n07.notes.tsv",
+      "label": "Fantasia and Fugue in C Minor, Wq.119/7 (DCML)",
+      "bar": 12,
+      "notes": "C6 Bb5 Ab5 G5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n14.notes.tsv",
+      "label": "Fantasia in D Major, Wq.117/14 (DCML)",
+      "bar": 1,
+      "notes": "B5 A5 G5 F#5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n12.notes.tsv",
+      "label": "Fantasia in D Minor, Wq.117/12 (DCML)",
+      "bar": 3,
+      "notes": "A4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 8,
+    "per_1000": 12.6,
+    "others_per_1000": 2.4,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq119n07.notes.tsv",
+      "label": "Fantasia and Fugue in C Minor, Wq.119/7 (DCML)",
+      "bar": 12,
+      "notes": "Ab5 G5 F5 Eb5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n14.notes.tsv",
+      "label": "Fantasia in D Major, Wq.117/14 (DCML)",
+      "bar": 1,
+      "notes": "D6 C#6 B5 A5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq113n03.notes.tsv",
+      "label": "Fantasia in D Minor, Wq.113/3 (DCML)",
+      "bar": 1,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 7,
+    "per_1000": 10.9,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq119n07.notes.tsv",
+      "label": "Fantasia and Fugue in C Minor, Wq.119/7 (DCML)",
+      "bar": 12,
+      "notes": "Bb4 Ab4 G4 Ab4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq113n03.notes.tsv",
+      "label": "Fantasia in D Minor, Wq.113/3 (DCML)",
+      "bar": 2,
+      "notes": "G5 F5 E5 F5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n12.notes.tsv",
+      "label": "Fantasia in D Minor, Wq.117/12 (DCML)",
+      "bar": 3,
+      "notes": "E5 D5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 7,
+    "per_1000": 12.0,
+    "others_per_1000": 2.5,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq119n07.notes.tsv",
+      "label": "Fantasia and Fugue in C Minor, Wq.119/7 (DCML)",
+      "bar": 12,
+      "notes": "Bb5 Ab5 G5 F5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n12.notes.tsv",
+      "label": "Fantasia in D Minor, Wq.117/12 (DCML)",
+      "bar": 3,
+      "notes": "G5 F5 E5 D5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n14.notes.tsv",
+      "label": "Fantasia in D Major, Wq.117/14 (DCML)",
+      "bar": 1,
+      "notes": "A5 G5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 7,
+    "per_1000": 9.1,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n12.notes.tsv",
+      "label": "Fantasia in D Minor, Wq.117/12 (DCML)",
+      "bar": 3,
+      "notes": "C#5 B4 A4 G4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n14.notes.tsv",
+      "label": "Fantasia in D Major, Wq.117/14 (DCML)",
+      "bar": 1,
+      "notes": "C#6 B5 A5 G5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq119n07.notes.tsv",
+      "label": "Fantasia and Fugue in C Minor, Wq.119/7 (DCML)",
+      "bar": 12,
+      "notes": "G5 F5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n12.notes.tsv",
+      "label": "Fantasia in D Minor, Wq.117/12 (DCML)",
+      "bar": 1,
+      "notes": "G5 A5 F5 E5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq117n11.notes.tsv",
+      "label": "Fantasia in G Major, Wq.117/11 (DCML)",
+      "bar": 3,
+      "notes": "D5 E5 C5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 45,
+   "composers": 25
+  }
+ },
+ {
+  "composer": "Carl Philipp Emanuel Bach",
+  "kind": "rondo",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.32963758885852845,
+   "repeats": 0.105624000717374,
+   "leaps": 0.34941749466054695,
+   "move": 5.020390489552164,
+   "rising": 0.45178381999382083,
+   "leap answered": 0.11473084603974774,
+   "range": 24.0,
+   "register": 72.28571428571429,
+   "even": 0.6622822577713645,
+   "long-short": 0.04964099972583617,
+   "rhythm variety": 1.829431244405727,
+   "surprise, pitch": 2.7996148529529354,
+   "surprise, rhythm": 1.4175534993051622,
+   "density": 5.013977557009409,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.32963758885852845,
+    "others": 0.4694733801161901,
+    "auc": 0.1869047619047619
+   },
+   {
+    "measure": "leaps",
+    "value": 0.34941749466054695,
+    "others": 0.2269308629328884,
+    "auc": 0.8095238095238095
+   },
+   {
+    "measure": "move",
+    "value": 5.020390489552164,
+    "others": 3.638069925263705,
+    "auc": 0.8827922077922078
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.11473084603974774,
+    "others": 0.21466852386018787,
+    "auc": 0.22597402597402597
+   },
+   {
+    "measure": "register",
+    "value": 72.28571428571429,
+    "others": 73.94772727272728,
+    "auc": 0.22104978354978352
+   },
+   {
+    "measure": "even",
+    "value": 0.6622822577713645,
+    "others": 0.7403747464600757,
+    "auc": 0.24242424242424246
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.7996148529529354,
+    "others": 2.4359730224960083,
+    "auc": 0.9238095238095237
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.4175534993051622,
+    "others": 1.1260857604034666,
+    "auc": 0.7852813852813851
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -3,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 5,
+    "per_1000": 2.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n01.notes.tsv",
+      "label": "Rondo in C Major, Wq.56/1 (DCML)",
+      "bar": 135,
+      "notes": "B5 Ab5 F5 B4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n05.notes.tsv",
+      "label": "Rondo in A Minor, Wq.56/5 (DCML)",
+      "bar": 163,
+      "notes": "F5 D5 B4 F4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq57n03.notes.tsv",
+      "label": "Rondo in G Major, Wq.57/3 (DCML)",
+      "bar": 114,
+      "notes": "C6 A5 F#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.7,
+    "works": 6,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:BachCPE/cpe-bach-rondo",
+      "label": "Rondo in E-flat Major (H.288) (Mutopia)",
+      "bar": 15,
+      "notes": "Ab4 G4 F4 Eb4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n03.notes.tsv",
+      "label": "Rondo in D Major, Wq.56/3 (DCML)",
+      "bar": 7,
+      "notes": "G4 F#4 E4 D4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq57n01.notes.tsv",
+      "label": "Rondo in E Major, Wq.57/1 (DCML)",
+      "bar": 4,
+      "notes": "A4 Ab4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq57n01.notes.tsv",
+      "label": "Rondo in E Major, Wq.57/1 (DCML)",
+      "bar": 4,
+      "notes": "B4 A4 Ab4 F#4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n01.notes.tsv",
+      "label": "Rondo in C Major, Wq.56/1 (DCML)",
+      "bar": 4,
+      "notes": "G4 F4 E4 D4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n03.notes.tsv",
+      "label": "Rondo in D Major, Wq.56/3 (DCML)",
+      "bar": 20,
+      "notes": "E5 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -3,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 5,
+    "per_1000": 2.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n01.notes.tsv",
+      "label": "Rondo in C Major, Wq.56/1 (DCML)",
+      "bar": 47,
+      "notes": "B5 G5 E5 B4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n05.notes.tsv",
+      "label": "Rondo in A Minor, Wq.56/5 (DCML)",
+      "bar": 162,
+      "notes": "E5 C5 A4 E4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq57n01.notes.tsv",
+      "label": "Rondo in E Major, Wq.57/1 (DCML)",
+      "bar": 25,
+      "notes": "E5 C5 A4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n05.notes.tsv",
+      "label": "Rondo in A Minor, Wq.56/5 (DCML)",
+      "bar": 56,
+      "notes": "F4 G4 B4 D5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq57n01.notes.tsv",
+      "label": "Rondo in E Major, Wq.57/1 (DCML)",
+      "bar": 35,
+      "notes": "F4 G4 B4 D5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n01.notes.tsv",
+      "label": "Rondo in C Major, Wq.56/1 (DCML)",
+      "bar": 83,
+      "notes": "A4 B4 Eb5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n01.notes.tsv",
+      "label": "Rondo in C Major, Wq.56/1 (DCML)",
+      "bar": 126,
+      "notes": "C#6 E6 C#6 G5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq57n05.notes.tsv",
+      "label": "Rondo in F Major, Wq.57/5 (DCML)",
+      "bar": 116,
+      "notes": "C5 Eb5 C5 F#4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq56n05.notes.tsv",
+      "label": "Rondo in A Minor, Wq.56/5 (DCML)",
+      "bar": 163,
+      "notes": "B4 D5 B4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 29,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Carl Philipp Emanuel Bach",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 66,
+  "values": {
+   "steps": 0.49074351347004613,
+   "repeats": 0.10033202002745167,
+   "leaps": 0.2414056512115509,
+   "move": 3.848105364167309,
+   "rising": 0.42261197735559947,
+   "leap answered": 0.2188597765959414,
+   "range": 22.339393939393933,
+   "register": 73.04545454545455,
+   "even": 0.6437208217987211,
+   "long-short": 0.09036807597410357,
+   "rhythm variety": 1.93429543260864,
+   "surprise, pitch": 2.745523330408178,
+   "surprise, rhythm": 1.4815567351122698,
+   "density": 4.785251226403392,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 7.3,
+    "works": 35,
+    "per_1000": 2.6,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n02a.notes.tsv",
+      "label": "Sonata in G Major, Wq.50/2, movement 1: Allegretto (DCML)",
+      "bar": 5,
+      "notes": "B4 A4 G4 F#4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq55n06a.notes.tsv",
+      "label": "Sonata in G Major, Wq.55/6, movement 1: Allegretto moderato (DCML)",
+      "bar": 3,
+      "notes": "B4 A4 G4 F#4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n05a.notes.tsv",
+      "label": "Sonata in B-flat Major, Wq.50/5, movement 1: Poco allegro (DCML)",
+      "bar": 28,
+      "notes": "A4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     7,
+     -9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.9,
+    "works": 15,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq55n03c.notes.tsv",
+      "label": "Sonata in B Minor, Wq.55/3, movement 3: Cantabile (DCML)",
+      "bar": 10,
+      "notes": "C#5 B4 F#5 A4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq113n03.notes.tsv",
+      "label": "Fantasia in D Minor, Wq.113/3 (DCML)",
+      "bar": 3,
+      "notes": "D5 C5 G5 Bb4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq55n04c.notes.tsv",
+      "label": "Sonata in A Major, Wq.55/4, movement 3: Allegro (DCML)",
+      "bar": 33,
+      "notes": "Ab5 F#5 C#6 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 6.7,
+    "works": 12,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n02a.notes.tsv",
+      "label": "Sonata in G Major, Wq.50/2, movement 1: Allegretto (DCML)",
+      "bar": 27,
+      "notes": "E5 D5 E5 D5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq57n01.notes.tsv",
+      "label": "Rondo in E Major, Wq.57/1 (DCML)",
+      "bar": 8,
+      "notes": "F#4 E4 F#4 E4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n01a.notes.tsv",
+      "label": "Sonata in F Major, Wq.50/1, movement 1: Allegretto (DCML)",
+      "bar": 11,
+      "notes": "D5 C5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.4,
+    "works": 15,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n02a.notes.tsv",
+      "label": "Sonata in G Major, Wq.50/2, movement 1: Allegretto (DCML)",
+      "bar": 1,
+      "notes": "C5 B4 B4 C5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n05a.notes.tsv",
+      "label": "Sonata in B-flat Major, Wq.50/5, movement 1: Poco allegro (DCML)",
+      "bar": 6,
+      "notes": "F5 E5 E5 F5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n06.notes.tsv",
+      "label": "Sonata in C Minor, Wq.50/6, movement 1: Allegro moderato (DCML)",
+      "bar": 7,
+      "notes": "Eb4 D4 D4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.3,
+    "works": 12,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n05b.notes.tsv",
+      "label": "Sonata in B-flat Major, Wq.50/5, movement 2: Larghetto (DCML)",
+      "bar": 7,
+      "notes": "A4 A4 C5 Bb4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n04b.notes.tsv",
+      "label": "Sonata in D Minor, Wq.50/4, movement 2: Adagio sostenuto (DCML)",
+      "bar": 3,
+      "notes": "F#5 F#5 A5 G5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq55n02a.notes.tsv",
+      "label": "Sonata in F Major, Wq.55/2, movement 1: Andante (DCML)",
+      "bar": 19,
+      "notes": "E5 E5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.1,
+    "works": 19,
+    "per_1000": 1.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n05b.notes.tsv",
+      "label": "Sonata in B-flat Major, Wq.50/5, movement 2: Larghetto (DCML)",
+      "bar": 8,
+      "notes": "A4 C5 Bb4 A4"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq50n05c.notes.tsv",
+      "label": "Sonata in B-flat Major, Wq.50/5, movement 3: Tempo di minuetto (DCML)",
+      "bar": 2,
+      "notes": "D5 F5 Eb5 D5"
+     },
+     {
+      "work": "dcml/cpe_bach_keyboard:notes/wq57n04c.notes.tsv",
+      "label": "Sonata in D Minor, Wq.57/4, movement 3: Allegro (DCML)",
+      "bar": 6,
+      "notes": "A5 C6 Bb5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 268,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Carl Philipp Emanuel Bach",
+  "kind": "sonata",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.33062024441550036,
+   "repeats": 0.05198658903402973,
+   "leaps": 0.41269276799863563,
+   "move": 5.4968248328520986,
+   "rising": 0.4488643428288881,
+   "leap answered": 0.13792885472717994,
+   "range": 19.666666666666668,
+   "register": 75.0,
+   "even": 0.7385370714363576,
+   "long-short": 0.018843937074811454,
+   "rhythm variety": 1.5183699095034608,
+   "surprise, pitch": 3.097691265626984,
+   "surprise, rhythm": 1.2228168173743668,
+   "density": 2.994131558201708,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 317,
+   "composers": 15
+  }
+ }
+]

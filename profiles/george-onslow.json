@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "George Onslow",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4958019055045634,
+   "repeats": 0.13036730379313438,
+   "leaps": 0.21671340578592924,
+   "move": 3.5538802281646813,
+   "rising": 0.4770661395759248,
+   "leap answered": 0.28470387890677745,
+   "range": 22.825,
+   "register": 72.5,
+   "even": 0.705723426741028,
+   "long-short": 0.05294015791429988,
+   "rhythm variety": 1.755298654638903,
+   "surprise, pitch": 2.751638431448171,
+   "surprise, rhythm": 1.2184664578358946,
+   "density": 4.161320726175214,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

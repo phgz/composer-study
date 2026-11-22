@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Vulfran Samin",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.658976410389183,
+   "repeats": 0.12093930216344914,
+   "leaps": 0.08229491497405733,
+   "move": 2.3182335499062487,
+   "rising": 0.47019506097472347,
+   "leap answered": 0.5136363636363637,
+   "range": 8.75,
+   "register": 67.5,
+   "even": 0.38163292776578905,
+   "long-short": 0.1442647311963437,
+   "rhythm variety": 2.7599890713749056,
+   "surprise, pitch": 2.619527626195323,
+   "surprise, rhythm": 2.182505392706801,
+   "density": 1.2421153043896727,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 693,
+   "composers": 38
+  }
+ }
+]

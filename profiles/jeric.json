@@ -1,0 +1,240 @@
+[
+ {
+  "composer": "Jeric",
+  "kind": "suite",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5872372152710376,
+   "repeats": 0.13261743138684384,
+   "leaps": 0.08785411026834063,
+   "move": 2.5129828397511558,
+   "rising": 0.47468295765203816,
+   "leap answered": 0.33736884584342214,
+   "range": 12.239999999999998,
+   "register": 74.0,
+   "even": 0.6941964704710645,
+   "long-short": 0.038303037918665794,
+   "rhythm variety": 1.7218960948104456,
+   "surprise, pitch": 1.775421814441641,
+   "surprise, rhythm": 1.1448629907974026,
+   "density": 4.230086144868997,
+   "lines": 5.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.08785411026834063,
+    "others": 0.19017570817639648,
+    "auc": 0.21504882290048602
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 1.775421814441641,
+    "others": 2.2905606360499573,
+    "auc": 0.20358529493903754
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.2,
+    "works": 5,
+    "per_1000": 8.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-004_jeric--partita-b-minuetto.krn",
+      "label": "Partita B, Minuetto, movement 4 (PL-CZ II-116, kern)",
+      "bar": 15,
+      "notes": "Eb5 D5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-001_jeric--partita-b-allegro.krn",
+      "label": "Partita B, Allegro, movement 1 (PL-CZ II-116, kern)",
+      "bar": 4,
+      "notes": "Eb5 D5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-003_jeric--partita-b-andante.krn",
+      "label": "Partita B, Andante, movement 3 (PL-CZ II-116, kern)",
+      "bar": 4,
+      "notes": "Eb5 D5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 3,
+    "per_1000": 5.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-004_jeric--partita-b-minuetto.krn",
+      "label": "Partita B, Minuetto, movement 4 (PL-CZ II-116, kern)",
+      "bar": 25,
+      "notes": "Eb5 C5 D5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-002_jeric--partita-b-menuetto.krn",
+      "label": "Partita B, Menuetto, movement 2 (PL-CZ II-116, kern)",
+      "bar": 10,
+      "notes": "Eb5 C5 D5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-005_jeric--partita-b-rondo.krn",
+      "label": "Partita B, Rondo, movement 5 (PL-CZ II-116, kern)",
+      "bar": 18,
+      "notes": "Eb4 C4 D4 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 5.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-004_jeric--partita-b-minuetto.krn",
+      "label": "Partita B, Minuetto, movement 4 (PL-CZ II-116, kern)",
+      "bar": 15,
+      "notes": "D5 F5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-003_jeric--partita-b-andante.krn",
+      "label": "Partita B, Andante, movement 3 (PL-CZ II-116, kern)",
+      "bar": 3,
+      "notes": "D5 F5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 4.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-004_jeric--partita-b-minuetto.krn",
+      "label": "Partita B, Minuetto, movement 4 (PL-CZ II-116, kern)",
+      "bar": 14,
+      "notes": "D5 Bb4 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-002_jeric--partita-b-menuetto.krn",
+      "label": "Partita B, Menuetto, movement 2 (PL-CZ II-116, kern)",
+      "bar": 21,
+      "notes": "D5 Bb4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 4.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-004_jeric--partita-b-minuetto.krn",
+      "label": "Partita B, Minuetto, movement 4 (PL-CZ II-116, kern)",
+      "bar": 11,
+      "notes": "C5 A4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-001_jeric--partita-b-allegro.krn",
+      "label": "Partita B, Allegro, movement 1 (PL-CZ II-116, kern)",
+      "bar": 25,
+      "notes": "C5 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 4.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-005_jeric--partita-b-rondo.krn",
+      "label": "Partita B, Rondo, movement 5 (PL-CZ II-116, kern)",
+      "bar": 1,
+      "notes": "D5 D5 Eb5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-116--001-003_jeric--partita-b-andante.krn",
+      "label": "Partita B, Andante, movement 3 (PL-CZ II-116, kern)",
+      "bar": 13,
+      "notes": "D4 D4 Eb4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 246,
+   "composers": 18
+  }
+ }
+]

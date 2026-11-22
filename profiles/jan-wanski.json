@@ -1,0 +1,191 @@
+[
+ {
+  "composer": "Jan Wański",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 8,
+  "values": {
+   "steps": 0.4997690314873614,
+   "repeats": 0.26609163660573915,
+   "leaps": 0.0977873024564134,
+   "move": 2.6729071748152515,
+   "rising": 0.48563614887864204,
+   "leap answered": 0.2258048968575284,
+   "range": 9.8875,
+   "register": 74.5,
+   "even": 0.49185868565526947,
+   "long-short": 0.06358535787883614,
+   "rhythm variety": 2.2165254100489142,
+   "surprise, pitch": 2.3295469092375436,
+   "surprise, rhythm": 1.8161117960927065,
+   "density": 8.491390570259,
+   "lines": 8.5
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -5,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 6.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-002_wanski-jan--missa-solemnissima-christe.krn",
+      "label": "Missa Solemnissima, Christe, movement 2 (PL-SA 55/A I 55, kern)",
+      "bar": 19,
+      "notes": "B4 C5 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-007_wanski-jan--missa-solemnissima-benedictus.krn",
+      "label": "Missa Solemnissima, Benedictus, movement 7 (PL-SA 55/A I 55, kern)",
+      "bar": 6,
+      "notes": "B5 C6 G5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -5,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-007_wanski-jan--missa-solemnissima-benedictus.krn",
+      "label": "Missa Solemnissima, Benedictus, movement 7 (PL-SA 55/A I 55, kern)",
+      "bar": 8,
+      "notes": "B4 C5 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-002_wanski-jan--missa-solemnissima-christe.krn",
+      "label": "Missa Solemnissima, Christe, movement 2 (PL-SA 55/A I 55, kern)",
+      "bar": 20,
+      "notes": "B4 C5 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 5.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-007_wanski-jan--missa-solemnissima-benedictus.krn",
+      "label": "Missa Solemnissima, Benedictus, movement 7 (PL-SA 55/A I 55, kern)",
+      "bar": 19,
+      "notes": "Bb5 G5 A5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-002_wanski-jan--missa-solemnissima-christe.krn",
+      "label": "Missa Solemnissima, Christe, movement 2 (PL-SA 55/A I 55, kern)",
+      "bar": 24,
+      "notes": "A5 F#5 Ab5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 6.7,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-007_wanski-jan--missa-solemnissima-benedictus.krn",
+      "label": "Missa Solemnissima, Benedictus, movement 7 (PL-SA 55/A I 55, kern)",
+      "bar": 19,
+      "notes": "A5 Bb5 G5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-002_wanski-jan--missa-solemnissima-christe.krn",
+      "label": "Missa Solemnissima, Christe, movement 2 (PL-SA 55/A I 55, kern)",
+      "bar": 21,
+      "notes": "B5 C6 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 5.6,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-002_wanski-jan--missa-solemnissima-christe.krn",
+      "label": "Missa Solemnissima, Christe, movement 2 (PL-SA 55/A I 55, kern)",
+      "bar": 22,
+      "notes": "A5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-004_wanski-jan--missa-solemnissima-credo.krn",
+      "label": "Missa Solemnissima, Credo, movement 4 (PL-SA 55/A I 55, kern)",
+      "bar": 12,
+      "notes": "E5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--55-a-i-55--001-006_wanski-jan--missa-solemnissima-pleni-sunt.krn",
+      "label": "Missa Solemnissima, Pleni Sunt, movement 6 (PL-SA 55/A I 55, kern)",
+      "bar": 39,
+      "notes": "D5 C5 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 639,
+   "composers": 34
+  }
+ }
+]

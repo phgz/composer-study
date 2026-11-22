@@ -1,0 +1,59 @@
+[
+ {
+  "composer": "Anton Webern",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "atonal",
+  "era": "1890 to 1950",
+  "works": 10,
+  "values": {
+   "steps": 0.4929975627792832,
+   "repeats": 0.010953773206128092,
+   "leaps": 0.27302272665634203,
+   "move": 3.5368575366596304,
+   "rising": 0.4779940733768222,
+   "leap answered": 0.3056245039309555,
+   "range": 13.5,
+   "register": 67.3,
+   "even": 0.4061399669920432,
+   "long-short": 0.12490696171607181,
+   "rhythm variety": 2.6209514750561946,
+   "surprise, pitch": 2.8837336530529107,
+   "surprise, rhythm": 2.490380615715011,
+   "density": 5.946723172229079,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.010953773206128092,
+    "others": 0.2054245633216557,
+    "auc": 0.01739776951672863
+   },
+   {
+    "measure": "leaps",
+    "value": 0.27302272665634203,
+    "others": 0.17446446681406103,
+    "auc": 0.8175774473358117
+   },
+   {
+    "measure": "register",
+    "value": 67.3,
+    "others": 69.62691449814128,
+    "auc": 0.20219144981412646
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.490380615715011,
+    "others": 1.8969260113222197,
+    "auc": 0.9110235439900869
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 299,
+   "composers": 37
+  }
+ }
+]

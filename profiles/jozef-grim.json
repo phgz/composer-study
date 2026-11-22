@@ -1,0 +1,240 @@
+[
+ {
+  "composer": "Józef Grim",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 15,
+  "values": {
+   "steps": 0.5419403789007761,
+   "repeats": 0.2544031649421799,
+   "leaps": 0.07960217003613959,
+   "move": 2.3892480518776313,
+   "rising": 0.45508192073098813,
+   "leap answered": 0.38147804576376004,
+   "range": 8.476666666666665,
+   "register": 70.13333333333334,
+   "even": 0.5022316345069588,
+   "long-short": 0.04443132062355908,
+   "rhythm variety": 1.8924830299608209,
+   "surprise, pitch": 2.6765954308515254,
+   "surprise, rhythm": 1.5353120527679436,
+   "density": 3.491126479491698,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.07960217003613959,
+    "others": 0.14478477587016067,
+    "auc": 0.16634776098261797
+   },
+   {
+    "measure": "move",
+    "value": 2.3892480518776313,
+    "others": 2.986093400304958,
+    "auc": 0.12334456383172461
+   },
+   {
+    "measure": "long-short",
+    "value": 0.04443132062355908,
+    "others": 0.11288344220333738,
+    "auc": 0.18958659624840649
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.8924830299608209,
+    "others": 2.4902554913093375,
+    "auc": 0.19003541148141406
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     -4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.4,
+    "works": 4,
+    "per_1000": 6.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--003-004_grim-jozef--msza-druga-credo.krn",
+      "label": "Msza druga, Credo, movement 4: Allegro moderato (PL-CZ II-87, kern)",
+      "bar": 7,
+      "notes": "D5 D5 E5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--003-007_grim-jozef--msza-druga-po-podniesieniu.krn",
+      "label": "Msza druga, Po podniesieniu, movement 7: Moderato (PL-CZ II-87, kern)",
+      "bar": 9,
+      "notes": "A4 A4 B4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--002-006_grim-jozef--spiewy-do-dwoch-mszy-benedictus.krn",
+      "label": "Śpiewy do dwóch mszy, Benedictus, movement 6 (PL-CZ II-87, kern)",
+      "bar": 14,
+      "notes": "D5 D5 E5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.3,
+    "works": 3,
+    "per_1000": 8.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--003-004_grim-jozef--msza-druga-credo.krn",
+      "label": "Msza druga, Credo, movement 4: Allegro moderato (PL-CZ II-87, kern)",
+      "bar": 6,
+      "notes": "C5 C5 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--003-005_grim-jozef--msza-druga-offertorium.krn",
+      "label": "Msza druga, Offertorium, movement 5: Andante. (PL-CZ II-87, kern)",
+      "bar": 13,
+      "notes": "G4 G4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--002-006_grim-jozef--spiewy-do-dwoch-mszy-benedictus.krn",
+      "label": "Śpiewy do dwóch mszy, Benedictus, movement 6 (PL-CZ II-87, kern)",
+      "bar": 14,
+      "notes": "D5 D5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 8.3,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--002-006_grim-jozef--spiewy-do-dwoch-mszy-benedictus.krn",
+      "label": "Śpiewy do dwóch mszy, Benedictus, movement 6 (PL-CZ II-87, kern)",
+      "bar": 3,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--002-001_grim-jozef--spiewy-do-dwoch-mszy-kirie.krn",
+      "label": "Śpiewy do dwóch mszy, Kirie, movement 1: Moderato (PL-CZ II-87, kern)",
+      "bar": 7,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--003-004_grim-jozef--msza-druga-credo.krn",
+      "label": "Msza druga, Credo, movement 4: Allegro moderato (PL-CZ II-87, kern)",
+      "bar": 13,
+      "notes": "G4 G4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 11.0,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--002-001_grim-jozef--spiewy-do-dwoch-mszy-kirie.krn",
+      "label": "Śpiewy do dwóch mszy, Kirie, movement 1: Moderato (PL-CZ II-87, kern)",
+      "bar": 7,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--002-006_grim-jozef--spiewy-do-dwoch-mszy-benedictus.krn",
+      "label": "Śpiewy do dwóch mszy, Benedictus, movement 6 (PL-CZ II-87, kern)",
+      "bar": 4,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--002-003_grim-jozef--spiewy-do-dwoch-mszy-credo.krn",
+      "label": "Śpiewy do dwóch mszy, Credo, movement 3 (PL-CZ II-87, kern)",
+      "bar": 12,
+      "notes": "A4 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 8.3,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--003-008_grim-jozef--msza-druga-agnus.krn",
+      "label": "Msza druga, Agnus, movement 8: Andante (PL-CZ II-87, kern)",
+      "bar": 14,
+      "notes": "B4 A4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--003-005_grim-jozef--msza-druga-offertorium.krn",
+      "label": "Msza druga, Offertorium, movement 5: Andante. (PL-CZ II-87, kern)",
+      "bar": 13,
+      "notes": "A4 G4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-87--003-004_grim-jozef--msza-druga-credo.krn",
+      "label": "Msza druga, Credo, movement 4: Allegro moderato (PL-CZ II-87, kern)",
+      "bar": 9,
+      "notes": "B4 A4 A4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 538,
+   "composers": 37
+  }
+ }
+]

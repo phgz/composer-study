@@ -1,0 +1,769 @@
+[
+ {
+  "composer": "Johannes Brahms",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "early",
+  "era": "Romantic",
+  "works": 49,
+  "values": {
+   "steps": 0.4956425395269518,
+   "repeats": 0.17273585222975366,
+   "leaps": 0.15404934963132996,
+   "move": 2.852968462818506,
+   "rising": 0.4610596385672992,
+   "leap answered": 0.3303880353624171,
+   "range": 11.212244897959183,
+   "register": 70.90816326530613,
+   "even": 0.4525152899300998,
+   "long-short": 0.09259688173389968,
+   "rhythm variety": 2.173572220044032,
+   "surprise, pitch": 2.4440719119397722,
+   "surprise, rhythm": 1.4203828764825182,
+   "density": 5.050469131108684,
+   "lines": 3.122448979591837
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.5,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_and_Romances,_Op.14/3_Murrays_Ermordung/lc5695734.mxl",
+      "label": "Lieder and Romances, Op.14, Murrays Ermordung (OpenScore)",
+      "bar": 3,
+      "notes": "C5 B4 A4 C5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_and_Romances,_Op.14/1_Vor_dem_Fenster/lc5695716.mxl",
+      "label": "Lieder and Romances, Op.14, Vor dem Fenster (OpenScore)",
+      "bar": 11,
+      "notes": "C5 B4 A4 C5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/6_Songs,_Op.3/1_Liebestreu/lc5667843.mxl",
+      "label": "Songs, Op.3, Liebestreu (OpenScore)",
+      "bar": 6,
+      "notes": "B4 Bb4 Ab4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/5_Poems,_Op.19/3_In_der_Ferne/lc5069033.mxl",
+      "label": "Poems, Op.19, In der Ferne (OpenScore)",
+      "bar": 26,
+      "notes": "G4 E4 F#4 G4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/Marienlieder,_Op.22/3_Marias_Wallfahrt/lc8708688.mxl",
+      "label": "Marienlieder, Op.22, Marias Wallfahrt (OpenScore)",
+      "bar": 5,
+      "notes": "Eb5 C5 D5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/Marienlieder,_Op.22/5_Ruf_zur_Maria/lc8712648.mxl",
+      "label": "Marienlieder, Op.22, Ruf zur Maria (OpenScore)",
+      "bar": 1,
+      "notes": "Bb4 G4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 5,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/Marienlieder,_Op.22/1_Der_englische_Gruss/lc8707581.mxl",
+      "label": "Marienlieder, Op.22, Der englische Gruss (OpenScore)",
+      "bar": 2,
+      "notes": "Bb4 G4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_and_Romances,_Op.14/1_Vor_dem_Fenster/lc5695716.mxl",
+      "label": "Lieder and Romances, Op.14, Vor dem Fenster (OpenScore)",
+      "bar": 43,
+      "notes": "D5 B4 C5 D5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/5_Poems,_Op.19/3_In_der_Ferne/lc5069033.mxl",
+      "label": "Poems, Op.19, In der Ferne (OpenScore)",
+      "bar": 30,
+      "notes": "A4 F#4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/6_Songs,_Op.3/3_Liebe_und_Frühling_II/lc5004701.mxl",
+      "label": "Songs, Op.3, Liebe und Frühling II (OpenScore)",
+      "bar": 17,
+      "notes": "C#5 B4 C#5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_and_Romances,_Op.14/2_Vom_verwundeten_Knaben/lc5695728.mxl",
+      "label": "Lieder and Romances, Op.14, Vom verwundeten Knaben (OpenScore)",
+      "bar": 16,
+      "notes": "D5 C5 D5 B4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_and_Romances,_Op.14/1_Vor_dem_Fenster/lc5695716.mxl",
+      "label": "Lieder and Romances, Op.14, Vor dem Fenster (OpenScore)",
+      "bar": 21,
+      "notes": "C5 Bb4 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/6_Songs,_Op.3/4_Lied_aus_dem_Gedicht_„Ivan“/lc5667849.mxl",
+      "label": "Songs, Op.3, Lied aus dem Gedicht „Ivan“ (OpenScore)",
+      "bar": 7,
+      "notes": "B4 Bb4 Bb4 B4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/4_Songs,_Op.43/4_Das_Lied_vom_Herrn_von_Falkenstein/lc5067672.mxl",
+      "label": "Songs, Op.43, Das Lied vom Herrn von Falkenstein (OpenScore)",
+      "bar": 44,
+      "notes": "Ab4 G4 G4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/5_Poems,_Op.19/5_An_eine_Äolsharfe/lc5667745.mxl",
+      "label": "Poems, Op.19, An eine Äolsharfe (OpenScore)",
+      "bar": 17,
+      "notes": "Bb4 A4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/Marienlieder,_Op.22/1_Der_englische_Gruss/lc8707581.mxl",
+      "label": "Marienlieder, Op.22, Der englische Gruss (OpenScore)",
+      "bar": 15,
+      "notes": "Bb4 G4 Ab4 G4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/4_Songs,_Op.43/4_Das_Lied_vom_Herrn_von_Falkenstein/lc5067672.mxl",
+      "label": "Songs, Op.43, Das Lied vom Herrn von Falkenstein (OpenScore)",
+      "bar": 39,
+      "notes": "Bb4 G4 Ab4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 987,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Johannes Brahms",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.44928055084305085,
+   "repeats": 0.11494469306969307,
+   "leaps": 0.22265041015041015,
+   "move": 3.5007127268156677,
+   "rising": 0.45911237455355103,
+   "leap answered": 0.18784677763551005,
+   "range": 14.549999999999999,
+   "register": 56.0,
+   "even": 0.4835710366843784,
+   "long-short": 0.08853760518064131,
+   "rhythm variety": 2.395160117836469,
+   "surprise, pitch": 3.1304608817435624,
+   "surprise, rhythm": 1.7895715996158508,
+   "density": 4.198570387677034,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 987,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Johannes Brahms",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "middle",
+  "era": "Romantic",
+  "works": 59,
+  "values": {
+   "steps": 0.473004261471042,
+   "repeats": 0.15268617354526984,
+   "leaps": 0.17968198597463758,
+   "move": 3.0006843693821614,
+   "rising": 0.44895269491492484,
+   "leap answered": 0.34604425933540045,
+   "range": 11.283898305084746,
+   "register": 71.48305084745763,
+   "even": 0.36779381862475297,
+   "long-short": 0.18028148031242128,
+   "rhythm variety": 2.625072234476497,
+   "surprise, pitch": 2.778512186400599,
+   "surprise, rhythm": 1.6520105507919167,
+   "density": 5.5427784898272074,
+   "lines": 3.0338983050847457
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.63/3_An_ein_Bild/lc5925389.mxl",
+      "label": "Lieder und Gesänge, Op.63, An ein Bild (OpenScore)",
+      "bar": 8,
+      "notes": "C5 Eb5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/5_Lieder,_Op.47/4_O_liebliche_Wangen/lc5659823.mxl",
+      "label": "Lieder, Op.47, O liebliche Wangen (OpenScore)",
+      "bar": 12,
+      "notes": "F#4 A4 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.32/2_Nicht_mehr_zu_dir_zu_gehen/lc5846184.mxl",
+      "label": "Lieder und Gesänge, Op.32, Nicht mehr zu dir zu gehen (OpenScore)",
+      "bar": 6,
+      "notes": "F#4 A4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.63/7_Heimweh_I/lc5936324.mxl",
+      "label": "Lieder und Gesänge, Op.63, Heimweh I (OpenScore)",
+      "bar": 5,
+      "notes": "D5 B4 G4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.63/3_An_ein_Bild/lc5925389.mxl",
+      "label": "Lieder und Gesänge, Op.63, An ein Bild (OpenScore)",
+      "bar": 10,
+      "notes": "Ab5 F5 C#5 C5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59/7_Mein_wundes_Herz/lc5058636.mxl",
+      "label": "Lieder und Gesänge, Op.59, Mein wundes Herz (OpenScore)",
+      "bar": 35,
+      "notes": "E5 C#5 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.3,
+    "works": 5,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.57/7_Die_Schnur,_die_Perl_an_Perle/lc5071678.mxl",
+      "label": "Lieder und Gesänge, Op.57, Die Schnur, die Perl an Perle (OpenScore)",
+      "bar": 21,
+      "notes": "E5 C#5 B4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.57/4_Ach,_wende_diesen_Blick/lc5033057.mxl",
+      "label": "Lieder und Gesänge, Op.57, Ach, wende diesen Blick (OpenScore)",
+      "bar": 2,
+      "notes": "C#5 Bb4 Ab4 G4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/5_Lieder,_Op.49/3_Sehnsucht/lc5098713.mxl",
+      "label": "Lieder, Op.49, Sehnsucht (OpenScore)",
+      "bar": 16,
+      "notes": "C#5 Bb4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     3,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59/5_Agnes/lc5087729.mxl",
+      "label": "Lieder und Gesänge, Op.59, Agnes (OpenScore)",
+      "bar": 8,
+      "notes": "D5 D5 F5 D5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/5_Lieder,_Op.49/5_Abenddämmerung/lc4978492.mxl",
+      "label": "Lieder, Op.49, Abenddämmerung (OpenScore)",
+      "bar": 12,
+      "notes": "F#4 F#4 A4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.32/1_Wie_rafft_ich_mich_auf_in_der_Nacht/lc5069058.mxl",
+      "label": "Lieder und Gesänge, Op.32, Wie rafft ich mich auf in der Nacht (OpenScore)",
+      "bar": 60,
+      "notes": "Bb4 Bb4 C#5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 5,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59/3_Regenlied/lc5058091.mxl",
+      "label": "Lieder und Gesänge, Op.59, Regenlied (OpenScore)",
+      "bar": 13,
+      "notes": "B4 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.32/1_Wie_rafft_ich_mich_auf_in_der_Nacht/lc5069058.mxl",
+      "label": "Lieder und Gesänge, Op.32, Wie rafft ich mich auf in der Nacht (OpenScore)",
+      "bar": 24,
+      "notes": "D5 F5 Eb5 D5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/4_Gesänge,_Op.46/3_Die_Schale_der_Vergessenheit/lc5071654.mxl",
+      "label": "Gesänge, Op.46, Die Schale der Vergessenheit (OpenScore)",
+      "bar": 27,
+      "notes": "C5 Eb5 C#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     5
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.63/9_Heimweh_III/lc5940230.mxl",
+      "label": "Lieder und Gesänge, Op.63, Heimweh III (OpenScore)",
+      "bar": 11,
+      "notes": "C#5 Bb4 C#5 F#5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59/3_Regenlied/lc5058091.mxl",
+      "label": "Lieder und Gesänge, Op.59, Regenlied (OpenScore)",
+      "bar": 68,
+      "notes": "A4 F#4 A4 D5"
+     },
+     {
+      "work": "openscore-lieder:Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.63/4_An_die_Tauben/lc5033075.mxl",
+      "label": "Lieder und Gesänge, Op.63, An die Tauben (OpenScore)",
+      "bar": 40,
+      "notes": "C5 A4 C5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 987,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Johannes Brahms",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "middle",
+  "era": "Romantic",
+  "works": 13,
+  "values": {
+   "steps": 0.43264560970172433,
+   "repeats": 0.12384756719653413,
+   "leaps": 0.22399533360114446,
+   "move": 3.612243963010557,
+   "rising": 0.4665307339068787,
+   "leap answered": 0.32222677720972054,
+   "range": 23.59230769230769,
+   "register": 76.0,
+   "even": 0.6348386487306045,
+   "long-short": 0.10958323589777783,
+   "rhythm variety": 2.0370976200083315,
+   "surprise, pitch": 2.8812695933040495,
+   "surprise, rhythm": 1.251334694293236,
+   "density": 5.151346038021005,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -5,
+     1,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 5,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.2,_Op.51_No.2/sq7302602.mxl#4",
+      "label": "String Quartet No.2, Op.51 No.2, movement 4: Finale Allegro non assai (OpenScore)",
+      "bar": 65,
+      "notes": "E6 B5 C6 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.2,_Op.51_No.2/sq7302602.mxl#5",
+      "label": "String Quartet No.2, Op.51 No.2, movement 5 (OpenScore)",
+      "bar": 351,
+      "notes": "E6 B5 C6 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.2,_Op.51_No.2/sq7302602.mxl#3",
+      "label": "String Quartet No.2, Op.51 No.2, movement 3: Quasi Minuetto, moderato (OpenScore)",
+      "bar": 28,
+      "notes": "E6 B5 C6 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.3,_Op.67/sq8928855.mxl#1",
+      "label": "String Quartet No.3, Op.67, movement 1 (OpenScore)",
+      "bar": 3,
+      "notes": "G5 F5 D5 Bb5"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.3,_Op.67/sq8928855.mxl#4",
+      "label": "String Quartet No.3, Op.67, movement 4: Poco Allegretto con Variazioni (OpenScore)",
+      "bar": 103,
+      "notes": "G5 F5 D5 Bb5"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.2,_Op.51_No.2/sq7302602.mxl#1",
+      "label": "String Quartet No.2, Op.51 No.2, movement 1 (OpenScore)",
+      "bar": 59,
+      "notes": "E5 D5 B4 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -4,
+     -8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.1,_Op.51_No.1/sq7108150.mxl#1",
+      "label": "String Quartet No.1, Op.51 No.1, movement 1 (OpenScore)",
+      "bar": 71,
+      "notes": "Eb5 G5 Eb5 G4"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.1,_Op.51_No.1/sq7108150.mxl#4",
+      "label": "String Quartet No.1, Op.51 No.1, movement 4 (OpenScore)",
+      "bar": 178,
+      "notes": "Eb5 G5 Eb5 G4"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.2,_Op.51_No.2/sq7302602.mxl#1",
+      "label": "String Quartet No.2, Op.51 No.2, movement 1 (OpenScore)",
+      "bar": 304,
+      "notes": "F5 A5 F5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     8,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.3,_Op.67/sq8928855.mxl#1",
+      "label": "String Quartet No.3, Op.67, movement 1 (OpenScore)",
+      "bar": 3,
+      "notes": "D5 Bb5 F5 D5"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.3,_Op.67/sq8928855.mxl#4",
+      "label": "String Quartet No.3, Op.67, movement 4: Poco Allegretto con Variazioni (OpenScore)",
+      "bar": 103,
+      "notes": "D5 Bb5 F5 D5"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.3,_Op.67/sq8928855.mxl#3",
+      "label": "String Quartet No.3, Op.67, movement 3: Agitato (Allegretto non troppo) con sord (OpenScore)",
+      "bar": 96,
+      "notes": "A4 F5 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     9,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.3,_Op.67/sq8928855.mxl#1",
+      "label": "String Quartet No.3, Op.67, movement 1 (OpenScore)",
+      "bar": 87,
+      "notes": "G5 G5 E6 E6"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.1,_Op.51_No.1/sq7108150.mxl#1",
+      "label": "String Quartet No.1, Op.51 No.1, movement 1 (OpenScore)",
+      "bar": 27,
+      "notes": "Eb5 Eb5 C6 C6"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.1,_Op.51_No.1/sq7108150.mxl#4",
+      "label": "String Quartet No.1, Op.51 No.1, movement 4 (OpenScore)",
+      "bar": 148,
+      "notes": "D5 D5 B5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     7,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.3,_Op.67/sq8928855.mxl#1",
+      "label": "String Quartet No.3, Op.67, movement 1 (OpenScore)",
+      "bar": 53,
+      "notes": "C#5 Bb4 F5 C5"
+     },
+     {
+      "work": "openscore-quartets:Brahms,_Johannes/String_Quartet_No.3,_Op.67/sq8928855.mxl#4",
+      "label": "String Quartet No.3, Op.67, movement 4: Poco Allegretto con Variazioni (OpenScore)",
+      "bar": 125,
+      "notes": "F#5 Eb5 Bb5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 246,
+   "composers": 32
+  }
+ }
+]

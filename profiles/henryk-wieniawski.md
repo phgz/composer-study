@@ -1,0 +1,75 @@
+# Henryk Wieniawski
+
+4 units, from score-reader's catalogue version 24 (92bb2c2). How they are measured: composer-study, `study/profiles.py`.
+
+### Henryk Wieniawski: concerto (orchestra), all
+
+8 works; set against 26 works by 8 composers: other composers' concerto (orchestra) of the Romantic period.
+
+**Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
+- the ear's surprise, pitch (bits a note): 2.83, against 2.52 (75 in 100)
+
+**Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
+- down a step, down a minor third, down a minor third (as long, as long, as long): 2.6 in 1,000 figures, against 0.4, in 6 works. At: Concerto No. 2, Allegro moderato, movement 1 (PL-Wn Mus.III.108.035, kern), bar 136 (G6 F6 D6 B5); Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern), bar 172 (E5 D5 B4 Ab4); Concerto I op. 14, Rondo, movement 3: Allegro giojoso (PL-Wn Mus.III.80.558, kern), bar 129 (F#6 E6 C#6 Bb5)
+- up a minor third, up a minor third, down a half step (as long, as long, as long): 1.9 in 1,000 figures, against 0.2, in 4 works. At: Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern), bar 115 (F#4 A4 C5 B4); Concerto No. 2, Romance, movement 2 (PL-Wn Mus.III.108.035, kern), bar 91 (B3 D4 F4 E4); Concerto No. 2, Allegro moderato a la Zingara, movement 3 (PL-Wn Mus.III.108.035, kern), bar 123 (B3 D4 F4 E4)
+- up a minor third, down a half step, up a minor third (as long, as long, as long): 1.9 in 1,000 figures, against 0.2, in 4 works. At: Concerto No. 2, Allegro moderato a la Zingara, movement 3 (PL-Wn Mus.III.108.035, kern), bar 100 (B5 D6 C#6 E6); Concerto No. 2, Allegro moderato, movement 1 (PL-Wn Mus.III.108.035, kern), bar 105 (G4 Bb4 A4 C5); Polonaise de concert op. 4: Allegro maestoso. (PL-Wn Mus.III.161.460, kern), bar 11 (C#5 E5 Eb5 F#5)
+- down a major third, down a minor third, down a fourth (as long, as long, as long): 1.7 in 1,000 figures, against 0.1, in 4 works. At: Concerto I op. 14, Rondo, movement 3: Allegro giojoso (PL-Wn Mus.III.80.558, kern), bar 177 (C#6 A5 F#5 C#5); Concerto No. 2, Allegro moderato a la Zingara, movement 3 (PL-Wn Mus.III.108.035, kern), bar 39 (A5 F5 D5 A4); Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern), bar 93 (C#6 A5 F#5 C#5)
+- down a step, down a step, down a half step (much longer, much shorter, as long): 2.2 in 1,000 figures, against 0.4, in 6 works. At: Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern), bar 81 (F#5 E5 D5 C#5); Concerto I op. 14, Rondo, movement 3: Allegro giojoso (PL-Wn Mus.III.80.558, kern), bar 88 (Ab5 F#5 E5 Eb5); Concerto No. 2, Allegro moderato, movement 1 (PL-Wn Mus.III.108.035, kern), bar 72 (A5 G5 F5 E5)
+- down a half step, up a minor third, up a minor third (as long, as long, as long): 1.7 in 1,000 figures, against 0.2, in 4 works. At: Concerto I op. 14, Rondo, movement 3: Allegro giojoso (PL-Wn Mus.III.80.558, kern), bar 126 (B4 Bb4 C#5 E5); Concerto I op. 14, Allegro moderato, movement 1 (PL-Wn Mus.III.80.558, kern), bar 115 (E4 Eb4 F#4 A4); Concerto No. 2, Allegro moderato a la Zingara, movement 3 (PL-Wn Mus.III.108.035, kern), bar 124 (D4 C#4 E4 G4)
+
+**All measures:** moves by step 46%; repeated notes 9%; leaps of a fourth or more 26%; mean move (semitones) 4.39; moves that rise 50%; leaps answered by a step back 19%; range of the melody (semitones) 28.6; register of the melody Eb5; even rhythm (a note as long as the one before) 66%; dotted figures (3:1) 8%; rhythmic variety (bits) 1.89; the ear's surprise, pitch (bits a note) 2.83; the ear's surprise, rhythm (bits a note) 1.45; notes a quarter (texture) 5.19; lines (texture) 2.8
+
+### Henryk Wieniawski: dance, all
+
+7 works; set against 427 works by 57 composers: other composers' dance of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+
+**Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
+- rhythmic variety (bits): 2.82, against 2.19 (84 in 100)
+- even rhythm (a note as long as the one before): 35%, against 53% (17 in 100)
+- dotted figures (3:1): 19%, against 10% (82 in 100)
+- moves that rise: 46%, against 49% (23 in 100)
+
+**Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
+- down a step, down a step, down a minor third (much shorter, much longer, as long): 2.4 in 1,000 figures, against 0.0, in 3 works. At: 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 72 (B5 A5 G5 E5); Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \nMAZOURKA - CARACTERISTIQUE \npar \nH. WIENIAWSKI. \n Op.3 (PL-Wn Mus.III.162.158 Cim., kern), bar 72 (B5 A5 G5 E5); 2me polonaise brillante op. 21: Allegro moderato. (PL-Wn Mus.III.128.987 Cim., kern), bar 25 (C#6 B5 A5 F#5)
+- down a step, up a step, down a step (much longer, much shorter, much shorter): 2.1 in 1,000 figures, against 0.0, in 3 works. At: Deux Mazurkas de Salon op. 12, Chanson polonaise, movement 2: Andantino. (PL-Kj BJ Muz. 15425 III, kern), bar 52 (B4 A4 B4 A4); 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 71 (B5 A5 B5 A5); Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \nMAZOURKA - CARACTERISTIQUE \npar \nH. WIENIAWSKI. \n Op.3 (PL-Wn Mus.III.162.158 Cim., kern), bar 80 (B5 A5 B5 A5)
+- up a step, down a step, down a half step (much shorter, longer, much longer): 2.1 in 1,000 figures, against 0.0, in 3 works. At: Deux Mazurkas de Salon op. 12, Chanson polonaise, movement 2: Andantino. (PL-Kj BJ Muz. 15425 III, kern), bar 9 (C5 D5 C5 B4); 2me polonaise brillante op. 21: Allegro moderato. (PL-Wn Mus.III.128.987 Cim., kern), bar 25 (F#4 Ab4 F#4 F4); Deux mazurkas caractéristiques op. 19, Obertass, movement 1 (PL-Wn Mus.III.161.470, kern), bar 31 (C6 D6 C6 B5)
+- down a half step, down a step, down a step (much longer, as long, as long): 2.1 in 1,000 figures, against 0.1, in 3 works. At: Deux Mazurkas de Salon op. 12, Sielauka, movement 1: SIELAUKA\nla Champêtre. (PL-Kj BJ Muz. 15425 III, kern), bar 25 (F7 E7 D7 C7); Deux mazurkas caractéristiques op. 19, Dudziarz, movement 2: Le Ménétrier - Mazurka. \nII. (PL-Wn Mus.III.161.470, kern), bar 29 (G5 F#5 E5 D5); 2me polonaise brillante op. 21: Allegro moderato. (PL-Wn Mus.III.128.987 Cim., kern), bar 52 (A5 Ab5 F#5 E5)
+- up a half step, same, same (much shorter, much longer, longer): 1.6 in 1,000 figures, against 0.0, in 2 works. At: Deux mazurkas caractéristiques op. 19, Obertass, movement 1 (PL-Wn Mus.III.161.470, kern), bar 12 (C#6 D6 D6 D6); 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 63 (C#4 D4 D4 D4)
+- same, up a step, down a step (much longer, as long, much shorter): 1.6 in 1,000 figures, against 0.0, in 2 works. At: Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \nMAZOURKA - CARACTERISTIQUE \npar \nH. WIENIAWSKI. \n Op.3 (PL-Wn Mus.III.162.158 Cim., kern), bar 30 (E5 E5 F#5 E5); 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 73 (A5 A5 B5 A5)
+
+**All measures:** moves by step 48%; repeated notes 12%; leaps of a fourth or more 22%; mean move (semitones) 3.95; moves that rise 46%; leaps answered by a step back 27%; range of the melody (semitones) 25.1; register of the melody E5; even rhythm (a note as long as the one before) 35%; dotted figures (3:1) 19%; rhythmic variety (bits) 2.82; the ear's surprise, pitch (bits a note) 1.96; the ear's surprise, rhythm (bits a note) 1.49; notes a quarter (texture) 5.02; lines (texture) 2.9
+
+### Henryk Wieniawski: etude, all
+
+8 works; set against 216 works by 17 composers: other composers' etude of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+
+**Where it stands apart:** nowhere that clearly.
+
+**Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
+- down a major third, down a fourth, down a minor third (as long, as long, as long): 5.9 in 1,000 figures, against 1.2, in 7 works. At: L'école moderne.Etudes-caprices pour violon seul op. 10, 4. Le Staccato: Allegro giojoso. (PL-Wn Mus.III.123.982, kern), bar 1 (C#6 A5 E5 C#5); L'école moderne.Etudes-caprices pour violon seul op. 10, 3. L’Etude: Moderato. (PL-Wn Mus.III.123.982, kern), bar 15 (F#5 D5 A4 F#4); L'école moderne.Etudes-caprices pour violon seul op. 10, 5. Alla Saltarella: Scherzando. (PL-Wn Mus.III.123.982, kern), bar 26 (G5 Eb5 Bb4 G4)
+- down a step, down a minor third, down a minor third (as long, as long, as long): 5.3 in 1,000 figures, against 1.1, in 6 works. At: L'école moderne.Etudes-caprices pour violon seul op. 10, 6. Prélude: Allegro moderato. (PL-Wn Mus.III.123.982, kern), bar 46 (F#4 E4 C#4 Bb3); L'école moderne.Etudes-caprices pour violon seul op. 10, 4. Le Staccato: Allegro giojoso. (PL-Wn Mus.III.123.982, kern), bar 1 (E5 D5 B4 Ab4); L'école moderne.Etudes-caprices pour violon seul op. 10, 3. L’Etude: Moderato. (PL-Wn Mus.III.123.982, kern), bar 4 (A5 G5 E5 C#5)
+- up 11, down a step, down 9 (as long, as long, as long): 2.0 in 1,000 figures, against 0.1, in 2 works. At: L'école moderne.Etudes-caprices pour violon seul op. 10, 5. Alla Saltarella: Scherzando. (PL-Wn Mus.III.123.982, kern), bar 64 (Ab5 G6 F6 Ab5); L'école moderne.Etudes-caprices pour violon seul op. 10, 7. La Cadenza: Largo. (PL-Wn Mus.III.123.982, kern), bar 35 (C#6 C7 Bb6 C#6)
+- down a fourth, down a minor third, up a minor third (as long, as long, as long): 3.6 in 1,000 figures, against 0.5, in 5 works. At: L'école moderne.Etudes-caprices pour violon seul op. 10, 4. Le Staccato: Allegro giojoso. (PL-Wn Mus.III.123.982, kern), bar 1 (A5 E5 C#5 E5); L'école moderne.Etudes-caprices pour violon seul op. 10, 5. Alla Saltarella: Scherzando. (PL-Wn Mus.III.123.982, kern), bar 33 (Bb4 F4 D4 F4); L'école moderne.Etudes-caprices pour violon seul op. 10, 1. Le Sautille: Presto. (PL-Wn Mus.III.123.982, kern), bar 7 (Eb5 Bb4 G4 Bb4)
+- up a major third, down a step, down a step (as long, much longer, as long): 1.6 in 1,000 figures, against 0.0, in 2 works. At: L'école moderne.Etudes-caprices pour violon seul op. 10, 6. Prélude: Allegro moderato. (PL-Wn Mus.III.123.982, kern), bar 6 (D6 F#6 E6 D6); L'école moderne.Etudes-caprices pour violon seul op. 10, 7. La Cadenza: Largo. (PL-Wn Mus.III.123.982, kern), bar 12 (C#5 F5 Eb5 C#5)
+- down a minor third, up 10, down a step (as long, as long, as long): 1.6 in 1,000 figures, against 0.0, in 2 works. At: L'école moderne.Etudes-caprices pour violon seul op. 10, 7. La Cadenza: Largo. (PL-Wn Mus.III.123.982, kern), bar 35 (Bb5 G5 F6 Eb6); L'école moderne.Etudes-caprices pour violon seul op. 10, 5. Alla Saltarella: Scherzando. (PL-Wn Mus.III.123.982, kern), bar 23 (Eb5 C5 Bb5 Ab5)
+
+**All measures:** moves by step 34%; repeated notes 11%; leaps of a fourth or more 32%; mean move (semitones) 5.60; moves that rise 48%; leaps answered by a step back 14%; range of the melody (semitones) 32.1; register of the melody F5; even rhythm (a note as long as the one before) 77%; dotted figures (3:1) 3%; rhythmic variety (bits) 1.06; the ear's surprise, pitch (bits a note) 2.23; the ear's surprise, rhythm (bits a note) 0.74; notes a quarter (texture) 4.83; lines (texture) 1.1
+
+### Henryk Wieniawski: mazurka, all
+
+6 works; set against 131 works by 19 composers: other composers' mazurka of the Romantic period, for any forces (too few for these forces: range, register and density not compared).
+
+**Where it stands apart** (how often one of its works stands above one of the others': 75 times in 100 or more, or 25 or fewer):
+- rhythmic variety (bits): 2.98, against 2.64 (86 in 100)
+- moves that rise: 46%, against 50% (21 in 100)
+- even rhythm (a note as long as the one before): 30%, against 40% (22 in 100)
+
+**Its figures** (four-note figures of the melody, with their rhythm, used far more than by the others; where they stand):
+- up a major third, down a half step, down a minor third (much shorter, much longer, shorter): 2.5 in 1,000 figures, against 0.1, in 3 works. At: 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 110 (Bb4 D5 C#5 Bb4); Deux Mazurkas de Salon op. 12, Chanson polonaise, movement 2: Andantino. (PL-Kj BJ Muz. 15425 III, kern), bar 38 (Eb5 G5 F#5 Eb5); Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \nMAZOURKA - CARACTERISTIQUE \npar \nH. WIENIAWSKI. \n Op.3 (PL-Wn Mus.III.162.158 Cim., kern), bar 109 (Bb4 D5 C#5 Bb4)
+- down a minor third, up a step, down a major third (as long, as long, as long): 2.5 in 1,000 figures, against 0.1, in 2 works. At: 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 72 (G5 E5 F#5 D5); Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \nMAZOURKA - CARACTERISTIQUE \npar \nH. WIENIAWSKI. \n Op.3 (PL-Wn Mus.III.162.158 Cim., kern), bar 72 (G5 E5 F#5 D5)
+- down a half step, down a step, down a step (much longer, as long, as long): 2.5 in 1,000 figures, against 0.1, in 2 works. At: Deux Mazurkas de Salon op. 12, Sielauka, movement 1: SIELAUKA\nla Champêtre. (PL-Kj BJ Muz. 15425 III, kern), bar 25 (F7 E7 D7 C7); Deux mazurkas caractéristiques op. 19, Dudziarz, movement 2: Le Ménétrier - Mazurka. \nII. (PL-Wn Mus.III.161.470, kern), bar 29 (G5 F#5 E5 D5)
+- up a half step, up a step, down a step (much shorter, much longer, as long): 2.5 in 1,000 figures, against 0.0, in 2 works. At: Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \nMAZOURKA - CARACTERISTIQUE \npar \nH. WIENIAWSKI. \n Op.3 (PL-Wn Mus.III.162.158 Cim., kern), bar 69 (F#5 G5 A5 G5); 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 78 (F#5 G5 A5 G5)
+- up a step, down a step, down a step (much shorter, much shorter, much longer): 2.5 in 1,000 figures, against 0.2, in 2 works. At: 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 68 (E5 F#5 E5 D5); Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \nMAZOURKA - CARACTERISTIQUE \npar \nH. WIENIAWSKI. \n Op.3 (PL-Wn Mus.III.162.158 Cim., kern), bar 72 (A5 B5 A5 G5)
+- up a step, down a step, same (much longer, much shorter, much longer): 2.5 in 1,000 figures, against 0.2, in 2 works. At: 1-re Mazurka: Allegro moderato. (PL-Wn Mus.III.101.528, kern), bar 73 (A5 B5 A5 A5); Souvenir de Posen/Mazurka op. 3: SOUVENIR DE POSEN. \nMAZOURKA - CARACTERISTIQUE \npar \nH. WIENIAWSKI. \n Op.3 (PL-Wn Mus.III.162.158 Cim., kern), bar 73 (A5 B5 A5 A5)
+
+**All measures:** moves by step 48%; repeated notes 13%; leaps of a fourth or more 22%; mean move (semitones) 3.99; moves that rise 46%; leaps answered by a step back 28%; range of the melody (semitones) 24.5; register of the melody Eb5; even rhythm (a note as long as the one before) 30%; dotted figures (3:1) 20%; rhythmic variety (bits) 2.98; the ear's surprise, pitch (bits a note) 2.00; the ear's surprise, rhythm (bits a note) 1.57; notes a quarter (texture) 4.68; lines (texture) 2.8

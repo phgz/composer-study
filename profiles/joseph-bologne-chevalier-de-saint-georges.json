@@ -1,0 +1,496 @@
+[
+ {
+  "composer": "Joseph Bologne, Chevalier de Saint-Georges",
+  "kind": "rondo",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5242394041290999,
+   "repeats": 0.10952118697666408,
+   "leaps": 0.2062148890527474,
+   "move": 3.36605050106186,
+   "rising": 0.4748604234435201,
+   "leap answered": 0.1556256339583795,
+   "range": 19.216666666666665,
+   "register": 72.5,
+   "even": 0.7642289334426519,
+   "long-short": 0.06208310850060039,
+   "rhythm variety": 1.3756503853811306,
+   "surprise, pitch": 2.6028065864570284,
+   "surprise, rhythm": 1.0281123290822307,
+   "density": 4.836176986669597,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.6028065864570284,
+    "others": 2.2894161355209186,
+    "auc": 0.7617189754224137
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_D_major,_Op.1_No.6/sq10490761.mxl#2",
+      "label": "String Quartet in D major, Op.1 No.6, movement 2: Rondeau (OpenScore)",
+      "bar": 17,
+      "notes": "E4 G4 A4 G4"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_G_minor,_Op.1_No.5/sq8438999.mxl#2",
+      "label": "String Quartet in G minor, Op.1 No.5, movement 2: Rondeau (OpenScore)",
+      "bar": 46,
+      "notes": "C5 Eb5 F5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_major,_Op.1_No.1/sq8437358.mxl#2",
+      "label": "String Quartet in C major, Op.1 No.1, movement 2: Rondeau Tempo di menuetto grazioso (OpenScore)",
+      "bar": 33,
+      "notes": "E5 G5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 4.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_major,_Op.1_No.1/sq8437358.mxl#2",
+      "label": "String Quartet in C major, Op.1 No.1, movement 2: Rondeau Tempo di menuetto grazioso (OpenScore)",
+      "bar": 51,
+      "notes": "C5 E5 C5 B4"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_D_major,_Op.1_No.6/sq10490761.mxl#2",
+      "label": "String Quartet in D major, Op.1 No.6, movement 2: Rondeau (OpenScore)",
+      "bar": 17,
+      "notes": "F4 A4 F4 E4"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_G_minor,_Op.1_No.5/sq8438999.mxl#2",
+      "label": "String Quartet in G minor, Op.1 No.5, movement 2: Rondeau (OpenScore)",
+      "bar": 16,
+      "notes": "Bb4 D5 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_D_major,_Op.1_No.6/sq10490761.mxl#2",
+      "label": "String Quartet in D major, Op.1 No.6, movement 2: Rondeau (OpenScore)",
+      "bar": 15,
+      "notes": "A5 Ab5 A5 A5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_minor,_Op.1_No.4/sq8437280.mxl#2",
+      "label": "String Quartet in C minor, Op.1 No.4, movement 2: Rondeau (OpenScore)",
+      "bar": 41,
+      "notes": "C5 B4 C5 C5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_E-flat_major,_Op.1_No.2/sq8438840.mxl#2",
+      "label": "String Quartet in E-flat major, Op.1 No.2, movement 2: Rondeau menuetto  (OpenScore)",
+      "bar": 7,
+      "notes": "Eb5 D5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 4.0,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_minor,_Op.1_No.4/sq8437280.mxl#2",
+      "label": "String Quartet in C minor, Op.1 No.4, movement 2: Rondeau (OpenScore)",
+      "bar": 7,
+      "notes": "F5 D5 C5 B4"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_D_major,_Op.1_No.6/sq10490761.mxl#2",
+      "label": "String Quartet in D major, Op.1 No.6, movement 2: Rondeau (OpenScore)",
+      "bar": 86,
+      "notes": "D5 B4 A4 Ab4"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_major,_Op.1_No.1/sq8437358.mxl#2",
+      "label": "String Quartet in C major, Op.1 No.1, movement 2: Rondeau Tempo di menuetto grazioso (OpenScore)",
+      "bar": 41,
+      "notes": "F5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 5,
+    "per_1000": 5.2,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_D_major,_Op.1_No.6/sq10490761.mxl#2",
+      "label": "String Quartet in D major, Op.1 No.6, movement 2: Rondeau (OpenScore)",
+      "bar": 7,
+      "notes": "E5 F#5 G5 E5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_major,_Op.1_No.1/sq8437358.mxl#2",
+      "label": "String Quartet in C major, Op.1 No.1, movement 2: Rondeau Tempo di menuetto grazioso (OpenScore)",
+      "bar": 21,
+      "notes": "A5 B5 C6 A5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_G_minor,_Op.1_No.3/sq8438915.mxl#2",
+      "label": "String Quartet in G minor, Op.1 No.3, movement 2: Rondeau Rondeau (OpenScore)",
+      "bar": 2,
+      "notes": "A4 B4 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_major,_Op.1_No.1/sq8437358.mxl#2",
+      "label": "String Quartet in C major, Op.1 No.1, movement 2: Rondeau Tempo di menuetto grazioso (OpenScore)",
+      "bar": 27,
+      "notes": "G4 F#4 G4 D4"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_E-flat_major,_Op.1_No.2/sq8438840.mxl#2",
+      "label": "String Quartet in E-flat major, Op.1 No.2, movement 2: Rondeau menuetto  (OpenScore)",
+      "bar": 25,
+      "notes": "G4 F#4 G4 D4"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_G_minor,_Op.1_No.5/sq8438999.mxl#2",
+      "label": "String Quartet in G minor, Op.1 No.5, movement 2: Rondeau (OpenScore)",
+      "bar": 63,
+      "notes": "G5 F#5 G5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 66,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Joseph Bologne, Chevalier de Saint-Georges",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Classical",
+  "works": 12,
+  "values": {
+   "steps": 0.513768184098956,
+   "repeats": 0.12974851171415275,
+   "leaps": 0.18722724947118066,
+   "move": 3.268799039629388,
+   "rising": 0.4709828946315147,
+   "leap answered": 0.16651311725535095,
+   "range": 19.775,
+   "register": 72.75,
+   "even": 0.712981252742455,
+   "long-short": 0.07453623473118905,
+   "rhythm variety": 1.6713013236662444,
+   "surprise, pitch": 2.542555077076219,
+   "surprise, rhythm": 1.1520719528424388,
+   "density": 4.728207071392364,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 72.75,
+    "others": 74.80822255118233,
+    "auc": 0.24511738438941502
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     4,
+     1,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_E-flat_major,_Op.1_No.2/sq8438840.mxl#2",
+      "label": "String Quartet in E-flat major, Op.1 No.2, movement 2: Rondeau menuetto  (OpenScore)",
+      "bar": 23,
+      "notes": "D5 F#5 G5 D5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_G_minor,_Op.1_No.5/sq8438999.mxl#1",
+      "label": "String Quartet in G minor, Op.1 No.5, movement 1 (OpenScore)",
+      "bar": 20,
+      "notes": "F5 A5 Bb5 F5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_E-flat_major,_Op.1_No.2/sq8438840.mxl#1",
+      "label": "String Quartet in E-flat major, Op.1 No.2, movement 1 (OpenScore)",
+      "bar": 70,
+      "notes": "G5 B5 C6 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_D_major,_Op.1_No.6/sq10490761.mxl#1",
+      "label": "String Quartet in D major, Op.1 No.6, movement 1 (OpenScore)",
+      "bar": 1,
+      "notes": "D5 C#5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_major,_Op.1_No.1/sq8437358.mxl#1",
+      "label": "String Quartet in C major, Op.1 No.1, movement 1 (OpenScore)",
+      "bar": 2,
+      "notes": "F5 E5 G5 F5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_E-flat_major,_Op.1_No.2/sq8438840.mxl#1",
+      "label": "String Quartet in E-flat major, Op.1 No.2, movement 1 (OpenScore)",
+      "bar": 2,
+      "notes": "Ab4 G4 Bb4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_G_minor,_Op.1_No.5/sq8438999.mxl#1",
+      "label": "String Quartet in G minor, Op.1 No.5, movement 1 (OpenScore)",
+      "bar": 2,
+      "notes": "C5 Bb4 Bb4 D5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_minor,_Op.1_No.4/sq8437280.mxl#1",
+      "label": "String Quartet in C minor, Op.1 No.4, movement 1 (OpenScore)",
+      "bar": 65,
+      "notes": "Eb5 C#5 C#5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     6,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_G_minor,_Op.1_No.5/sq8438999.mxl#2",
+      "label": "String Quartet in G minor, Op.1 No.5, movement 2: Rondeau (OpenScore)",
+      "bar": 17,
+      "notes": "D5 C5 F#5 A5"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_major,_Op.1_No.1/sq8437358.mxl#1",
+      "label": "String Quartet in C major, Op.1 No.1, movement 1 (OpenScore)",
+      "bar": 31,
+      "notes": "D5 C5 F#5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -12,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 6.0,
+    "works": 3,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_minor,_Op.1_No.4/sq8437280.mxl#1",
+      "label": "String Quartet in C minor, Op.1 No.4, movement 1 (OpenScore)",
+      "bar": 20,
+      "notes": "G4 G3 G3 G3"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_E-flat_major,_Op.1_No.2/sq8438840.mxl#1",
+      "label": "String Quartet in E-flat major, Op.1 No.2, movement 1 (OpenScore)",
+      "bar": 80,
+      "notes": "Bb4 Bb3 Bb3 Bb3"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_G_minor,_Op.1_No.3/sq8438915.mxl#1",
+      "label": "String Quartet in G minor, Op.1 No.3, movement 1 (OpenScore)",
+      "bar": 50,
+      "notes": "D5 D4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_C_minor,_Op.1_No.4/sq8437280.mxl#1",
+      "label": "String Quartet in C minor, Op.1 No.4, movement 1 (OpenScore)",
+      "bar": 42,
+      "notes": "D4 Eb4 Bb4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Saint-Georges,_Joseph_Bologne/String_Quartet_in_E-flat_major,_Op.1_No.2/sq8438840.mxl#2",
+      "label": "String Quartet in E-flat major, Op.1 No.2, movement 2: Rondeau menuetto  (OpenScore)",
+      "bar": 39,
+      "notes": "A4 Bb4 F5 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 481,
+   "composers": 10
+  }
+ }
+]

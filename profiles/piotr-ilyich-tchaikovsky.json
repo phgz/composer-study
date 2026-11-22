@@ -1,0 +1,491 @@
+[
+ {
+  "composer": "Piotr Ilyich Tchaikovsky",
+  "kind": "character piece",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.44101537042262146,
+   "repeats": 0.11863040549424718,
+   "leaps": 0.28270234519969073,
+   "move": 4.028308462264627,
+   "rising": 0.508562249756794,
+   "leap answered": 0.2675709661762469,
+   "range": 22.995833333333337,
+   "register": 72.25,
+   "even": 0.5847444796951531,
+   "long-short": 0.08601506422657158,
+   "rhythm variety": 2.0979971495959657,
+   "surprise, pitch": 2.180457604222081,
+   "surprise, rhythm": 1.3004511751971206,
+   "density": 4.806393215803174,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 2.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a01.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 1: January: At the Fireside (DCML)",
+      "bar": 12,
+      "notes": "F#4 Ab4 F#4 Ab4"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a02.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 2: February: Carnaval (DCML)",
+      "bar": 3,
+      "notes": "D5 E5 D5 E5"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a09.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 9: September: Hunting Song (DCML)",
+      "bar": 28,
+      "notes": "D5 E5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a09.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 9: September: Hunting Song (DCML)",
+      "bar": 31,
+      "notes": "G6 D6 E6 F#6"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a06.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 6: June: Barcarolle (DCML)",
+      "bar": 6,
+      "notes": "G4 D4 E4 F#4"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a10.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 10: October: Autumn Song (DCML)",
+      "bar": 51,
+      "notes": "Bb4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 2.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a08.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 8: August: Harvest Song (DCML)",
+      "bar": 25,
+      "notes": "A4 Ab4 A4 C5"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a12.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 12: December: Christmas (DCML)",
+      "bar": 42,
+      "notes": "F5 E5 F5 Ab5"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a10.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 10: October: Autumn Song (DCML)",
+      "bar": 7,
+      "notes": "D5 C#5 D5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a04.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 4: April: Snowdrop (DCML)",
+      "bar": 26,
+      "notes": "Ab4 A4 C#5 D5"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a02.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 2: February: Carnaval (DCML)",
+      "bar": 57,
+      "notes": "Eb5 E5 Ab5 A5"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a03.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 3: March: Song of the Lark (DCML)",
+      "bar": 24,
+      "notes": "Ab4 A4 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 4,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a06.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 6: June: Barcarolle (DCML)",
+      "bar": 3,
+      "notes": "D5 G5 F#5 G5"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a08.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 8: August: Harvest Song (DCML)",
+      "bar": 62,
+      "notes": "F#4 B4 Bb4 B4"
+     },
+     {
+      "work": "dcml/tchaikovsky_seasons:notes/op37a11.notes.tsv",
+      "label": "The Seasons, Op. 37a, movement 11: November: Troika (DCML)",
+      "bar": 78,
+      "notes": "B4 E5 Eb5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 49,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Piotr Ilyich Tchaikovsky",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4526567696358536,
+   "repeats": 0.177987298318685,
+   "leaps": 0.21361688101433307,
+   "move": 3.5307969533779873,
+   "rising": 0.5342673352674557,
+   "leap answered": 0.2212405609492988,
+   "range": 20.46666666666667,
+   "register": 83.66666666666667,
+   "even": 0.5098177069299774,
+   "long-short": 0.06173493125124834,
+   "rhythm variety": 2.44355409633433,
+   "surprise, pitch": 2.9701749800737,
+   "surprise, rhythm": 1.8342078346063344,
+   "density": 9.354157501291253,
+   "lines": 13.666666666666666
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 31,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Piotr Ilyich Tchaikovsky",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.47888685995897856,
+   "repeats": 0.1360955615163832,
+   "leaps": 0.2392200661541454,
+   "move": 3.5482307900139403,
+   "rising": 0.5849769522293077,
+   "leap answered": 0.2668485696642422,
+   "range": 24.979999999999997,
+   "register": 75.6,
+   "even": 0.6010075742950016,
+   "long-short": 0.05049958596927788,
+   "rhythm variety": 2.0826799833314875,
+   "surprise, pitch": 2.3662725923229186,
+   "surprise, rhythm": 1.234084938498769,
+   "density": 6.5103424746004395,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5849769522293077,
+    "others": 0.47688581390502255,
+    "auc": 0.9366177549634415
+   },
+   {
+    "measure": "density",
+    "value": 6.5103424746004395,
+    "others": 4.8881609398630745,
+    "auc": 0.7900690877845705
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 3,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#5",
+      "label": "String Quartet No.1, Op.11, movement 5: Finale Allegro giusto (OpenScore)",
+      "bar": 42,
+      "notes": "E5 F5 F#5 B4"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#1",
+      "label": "String Quartet No.1, Op.11, movement 1 (OpenScore)",
+      "bar": 38,
+      "notes": "A5 Bb5 B5 E5"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#2",
+      "label": "String Quartet No.1, Op.11, movement 2 (OpenScore)",
+      "bar": 141,
+      "notes": "D6 Eb6 E6 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.6,
+    "works": 2,
+    "per_1000": 2.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#1",
+      "label": "String Quartet No.1, Op.11, movement 1 (OpenScore)",
+      "bar": 29,
+      "notes": "E4 C#4 C#4 B3"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#2",
+      "label": "String Quartet No.1, Op.11, movement 2 (OpenScore)",
+      "bar": 132,
+      "notes": "A4 F#4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 3.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#1",
+      "label": "String Quartet No.1, Op.11, movement 1 (OpenScore)",
+      "bar": 35,
+      "notes": "E5 F#5 E5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#2",
+      "label": "String Quartet No.1, Op.11, movement 2 (OpenScore)",
+      "bar": 138,
+      "notes": "A5 B5 A5 B5"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#5",
+      "label": "String Quartet No.1, Op.11, movement 5: Finale Allegro giusto (OpenScore)",
+      "bar": 180,
+      "notes": "G4 A4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.3,
+    "works": 3,
+    "per_1000": 3.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#1",
+      "label": "String Quartet No.1, Op.11, movement 1 (OpenScore)",
+      "bar": 55,
+      "notes": "C#6 A5 B5 C#6"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#2",
+      "label": "String Quartet No.1, Op.11, movement 2 (OpenScore)",
+      "bar": 158,
+      "notes": "F#6 D6 E6 F#6"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#5",
+      "label": "String Quartet No.1, Op.11, movement 5: Finale Allegro giusto (OpenScore)",
+      "bar": 68,
+      "notes": "Ab4 E4 F#4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#1",
+      "label": "String Quartet No.1, Op.11, movement 1 (OpenScore)",
+      "bar": 29,
+      "notes": "C#4 C#4 B3 C#4"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#2",
+      "label": "String Quartet No.1, Op.11, movement 2 (OpenScore)",
+      "bar": 132,
+      "notes": "F#4 F#4 E4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     9,
+     -2,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#1",
+      "label": "String Quartet No.1, Op.11, movement 1 (OpenScore)",
+      "bar": 31,
+      "notes": "E4 C#5 B4 E4"
+     },
+     {
+      "work": "openscore-quartets:Tchaikovsky,_Pyotr_Ilyich/String_Quartet_No.1,_Op.11/sq11738245.mxl#2",
+      "label": "String Quartet No.1, Op.11, movement 2 (OpenScore)",
+      "bar": 134,
+      "notes": "A4 F#5 E5 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 254,
+   "composers": 32
+  }
+ }
+]

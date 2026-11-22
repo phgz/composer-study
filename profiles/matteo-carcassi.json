@@ -1,0 +1,150 @@
+[
+ {
+  "composer": "Matteo Carcassi",
+  "kind": "etude",
+  "forces": "plucked",
+  "period": "all",
+  "era": "Romantic",
+  "works": 21,
+  "values": {
+   "steps": 0.3076795645377911,
+   "repeats": 0.14413649964746517,
+   "leaps": 0.3481993632655012,
+   "move": 5.468170800479593,
+   "rising": 0.5064818288496785,
+   "leap answered": 0.17740205518127883,
+   "range": 20.773809523809526,
+   "register": 62.38095238095238,
+   "even": 0.8567858942586375,
+   "long-short": 0.03807689497641278,
+   "rhythm variety": 0.6329612738929631,
+   "surprise, pitch": 2.488670963755771,
+   "surprise, rhythm": 0.38696982146459036,
+   "density": 4.066371711029591,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 62.38095238095238,
+    "others": 59.63,
+    "auc": 0.7657142857142858
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 5,
+    "per_1000": 3.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-13",
+      "label": "25 Studies: No. 13 (Op. 60, No. 13) (Mutopia)",
+      "bar": 1,
+      "notes": "C#4 E4 E4 E4"
+     },
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-18",
+      "label": "25 Studies: No. 18 (Op. 60, No. 18) (Mutopia)",
+      "bar": 5,
+      "notes": "F#4 A4 A4 A4"
+     },
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-02",
+      "label": "Etude 2 (Op. 60, No. 2) (Mutopia)",
+      "bar": 2,
+      "notes": "Ab4 B4 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 6,
+    "per_1000": 3.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-02",
+      "label": "Etude 2 (Op. 60, No. 2) (Mutopia)",
+      "bar": 2,
+      "notes": "E4 A4 A4 A4"
+     },
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-13",
+      "label": "25 Studies: No. 13 (Op. 60, No. 13) (Mutopia)",
+      "bar": 8,
+      "notes": "B3 E4 E4 E4"
+     },
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-07",
+      "label": "Etude 7 (Op. 60, No. 7) (Mutopia)",
+      "bar": 1,
+      "notes": "E3 A3 A3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 6,
+    "per_1000": 3.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-25",
+      "label": "25 Studies: No. 25 (Op. 60, No. 25) (Mutopia)",
+      "bar": 2,
+      "notes": "D5 B4 Ab4 E4"
+     },
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-22",
+      "label": "25 Studies: No. 22 (Op. 60, No. 22) (Mutopia)",
+      "bar": 3,
+      "notes": "F4 D4 B3 G3"
+     },
+     {
+      "work": "mutopia:CarcassiM/O60/carcassi-op60-20",
+      "label": "25 Studies: No. 20 (Op. 60, No. 20) (Mutopia)",
+      "bar": 9,
+      "notes": "D5 B4 Ab4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 50,
+   "composers": 3
+  }
+ }
+]

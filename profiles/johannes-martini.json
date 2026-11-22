@@ -1,0 +1,830 @@
+[
+ {
+  "composer": "Johannes Martini",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 40,
+  "values": {
+   "steps": 0.7193266868622531,
+   "repeats": 0.08691035656733802,
+   "leaps": 0.07415465449282868,
+   "move": 2.2376359890602426,
+   "rising": 0.44499118718329383,
+   "leap answered": 0.5992969286579575,
+   "range": 11.723749999999999,
+   "register": 67.3,
+   "even": 0.3261855429804938,
+   "long-short": 0.12975953471373075,
+   "rhythm variety": 2.8321504102979715,
+   "surprise, pitch": 2.403686799847113,
+   "surprise, rhythm": 2.163831089525749,
+   "density": 0.9298279761844563,
+   "lines": 3.8
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7193266868622531,
+    "others": 0.6448223515530905,
+    "auc": 0.7882415888847817
+   },
+   {
+    "measure": "density",
+    "value": 0.9298279761844563,
+    "others": 1.4503834506906825,
+    "auc": 0.19567624290514055
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     3
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 9.4,
+    "works": 19,
+    "per_1000": 3.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar1003b-Missa_Cucu-Gloria.krn",
+      "label": "Missa Cucu, Gloria: Et in terra pax (kern)",
+      "bar": 7,
+      "notes": "F4 E4 D4 F4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003c-Missa_Cucu-Credo.krn",
+      "label": "Missa Cucu, Credo: Patrem omnipotentem (kern)",
+      "bar": 164,
+      "notes": "C4 B3 A3 C4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003d-Missa_Cucu-Sanctus.krn",
+      "label": "Missa Cucu, Sanctus (kern)",
+      "bar": 66,
+      "notes": "F4 E4 D4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 8.0,
+    "works": 33,
+    "per_1000": 6.2,
+    "others_per_1000": 2.3,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar1002c-Missa_Coda_di_pavon-Credo.krn",
+      "label": "Missa Coda di pavon, Credo: Patrem omnipotentem (kern)",
+      "bar": 3,
+      "notes": "D5 C5 C5 B4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003b-Missa_Cucu-Gloria.krn",
+      "label": "Missa Cucu, Gloria: Et in terra pax (kern)",
+      "bar": 5,
+      "notes": "B4 A4 A4 Ab4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003d-Missa_Cucu-Sanctus.krn",
+      "label": "Missa Cucu, Sanctus (kern)",
+      "bar": 5,
+      "notes": "B4 A4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 7.7,
+    "works": 32,
+    "per_1000": 4.8,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar1003c-Missa_Cucu-Credo.krn",
+      "label": "Missa Cucu, Credo: Patrem omnipotentem (kern)",
+      "bar": 3,
+      "notes": "D4 C4 B3 A3"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003b-Missa_Cucu-Gloria.krn",
+      "label": "Missa Cucu, Gloria: Et in terra pax (kern)",
+      "bar": 3,
+      "notes": "D4 C4 B3 A3"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003e-Missa_Cucu-Agnus.krn",
+      "label": "Missa Cucu, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 3,
+      "notes": "D4 C4 B3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     3
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 7.3,
+    "works": 12,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar1001c-Missa_Cela_sans_plus-Credo.krn",
+      "label": "Missa Cela sans plus, Credo: Patrem omnipotentem (kern)",
+      "bar": 18,
+      "notes": "C#4 C#4 B3 D4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1002b-Missa_Coda_di_pavon-Gloria.krn",
+      "label": "Missa Coda di pavon, Gloria: Et in terra pax (kern)",
+      "bar": 32,
+      "notes": "B4 B4 A4 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1007e-Missa_In_feuers_hitz-Agnus.krn",
+      "label": "Missa In feuers hitz, Agnus Dei: Agnus Dei I, II (kern)",
+      "bar": 16,
+      "notes": "F#4 F#4 E4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 7.3,
+    "works": 13,
+    "per_1000": 1.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar1007e-Missa_In_feuers_hitz-Agnus.krn",
+      "label": "Missa In feuers hitz, Agnus Dei: Agnus Dei I, II (kern)",
+      "bar": 7,
+      "notes": "C5 E5 D5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003b-Missa_Cucu-Gloria.krn",
+      "label": "Missa Cucu, Gloria: Et in terra pax (kern)",
+      "bar": 3,
+      "notes": "C4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003d-Missa_Cucu-Sanctus.krn",
+      "label": "Missa Cucu, Sanctus (kern)",
+      "bar": 3,
+      "notes": "C4 E4 D4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.8,
+    "works": 10,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar1001d-Missa_Cela_sans_plus-Sanctus.krn",
+      "label": "Missa Cela sans plus, Sanctus (kern)",
+      "bar": 94,
+      "notes": "B3 A3 C4 D4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003c-Missa_Cucu-Credo.krn",
+      "label": "Missa Cucu, Credo: Patrem omnipotentem (kern)",
+      "bar": 282,
+      "notes": "E4 D4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar1003d-Missa_Cucu-Sanctus.krn",
+      "label": "Missa Cucu, Sanctus (kern)",
+      "bar": 76,
+      "notes": "B3 A3 C4 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 556,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Johannes Martini",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 60,
+  "values": {
+   "steps": 0.5471569363085996,
+   "repeats": 0.37471441913587555,
+   "leaps": 0.02501002466210268,
+   "move": 1.8821643186576233,
+   "rising": 0.4635148007158954,
+   "leap answered": 0.5769247337092732,
+   "range": 6.338333333333333,
+   "register": 69.10833333333333,
+   "even": 0.418413068777931,
+   "long-short": 0.04682398775012518,
+   "rhythm variety": 2.2541696036749173,
+   "surprise, pitch": 1.4672906037280238,
+   "surprise, rhythm": 1.6875797930684386,
+   "density": 0.7818600377976581,
+   "lines": 2.6
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.37471441913587555,
+    "others": 0.15334456424909249,
+    "auc": 0.7608436666486551
+   },
+   {
+    "measure": "leaps",
+    "value": 0.02501002466210268,
+    "others": 0.08315070134852243,
+    "auc": 0.08744779041786559
+   },
+   {
+    "measure": "move",
+    "value": 1.8821643186576233,
+    "others": 2.3345903254622606,
+    "auc": 0.056886610829260394
+   },
+   {
+    "measure": "range",
+    "value": 6.338333333333333,
+    "others": 9.86981226897271,
+    "auc": 0.15720341293073808
+   },
+   {
+    "measure": "long-short",
+    "value": 0.04682398775012518,
+    "others": 0.1528801059141878,
+    "auc": 0.0912499112649347
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.2541696036749173,
+    "others": 2.7588151786886717,
+    "auc": 0.17289410973917319
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 1.4672906037280238,
+    "others": 2.607133705829901,
+    "auc": 0.0878321031697804
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.6875797930684386,
+    "others": 2.0174994910478583,
+    "auc": 0.23958041198285912
+   },
+   {
+    "measure": "density",
+    "value": 0.7818600377976581,
+    "others": 1.4897851231655077,
+    "auc": 0.1604455659128473
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 23.4,
+    "works": 44,
+    "per_1000": 12.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar2046-Exaltabo_te.krn",
+      "label": "Exaltabo te: Et benedicam (kern)",
+      "bar": 3,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2074-Memento_domine_David.krn",
+      "label": "Memento domine David: Et omnis mansuetudinis (kern)",
+      "bar": 7,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2010-Benedictus_dominus_deus_meus.krn",
+      "label": "Benedictus dominus deus: Et digitos meos (kern)",
+      "bar": 6,
+      "notes": "A4 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 22.6,
+    "works": 44,
+    "per_1000": 11.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar2046-Exaltabo_te.krn",
+      "label": "Exaltabo te: Et benedicam (kern)",
+      "bar": 13,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2075-Miserere_mei_deus.krn",
+      "label": "Miserere mei deus: Secundum magnam (kern)",
+      "bar": 7,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2074-Memento_domine_David.krn",
+      "label": "Memento domine David: Et omnis mansuetudinis (kern)",
+      "bar": 7,
+      "notes": "A4 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 22.1,
+    "works": 43,
+    "per_1000": 11.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar2046-Exaltabo_te.krn",
+      "label": "Exaltabo te: Et benedicam (kern)",
+      "bar": 1,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2033-Domine_clamavi_ad_te.krn",
+      "label": "Domine clamavi ad te: Intende voci mee (kern)",
+      "bar": 1,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2075-Miserere_mei_deus.krn",
+      "label": "Miserere mei deus: Secundum magnam (kern)",
+      "bar": 1,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 21.5,
+    "works": 44,
+    "per_1000": 12.2,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar2046-Exaltabo_te.krn",
+      "label": "Exaltabo te: Et benedicam (kern)",
+      "bar": 3,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2010-Benedictus_dominus_deus_meus.krn",
+      "label": "Benedictus dominus deus: Et digitos meos (kern)",
+      "bar": 6,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2064-Laudate_nomen_domini.krn",
+      "label": "Laudate nomen domini: Laudate, servi (kern)",
+      "bar": 5,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 21.4,
+    "works": 43,
+    "per_1000": 11.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar2040-Domini_est_terra.krn",
+      "label": "Domini est terra: Orbis terrarum (kern)",
+      "bar": 2,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2034-Domine_exaudi_orationem_meam.krn",
+      "label": "Domine exaudi orationem meam: Auribus percipe (kern)",
+      "bar": 15,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2047-Exaltabo_te_domine.krn",
+      "label": "Exaltabo te domine: Nec delectasti (kern)",
+      "bar": 1,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 21.3,
+    "works": 45,
+    "per_1000": 12.3,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar2046-Exaltabo_te.krn",
+      "label": "Exaltabo te: Et benedicam (kern)",
+      "bar": 2,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2010-Benedictus_dominus_deus_meus.krn",
+      "label": "Benedictus dominus deus: Et digitos meos (kern)",
+      "bar": 10,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar2033-Domine_clamavi_ad_te.krn",
+      "label": "Domine clamavi ad te: Intende voci mee (kern)",
+      "bar": 10,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 562,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Johannes Martini",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 21,
+  "values": {
+   "steps": 0.7311476370028255,
+   "repeats": 0.05261041773082374,
+   "leaps": 0.08046936313303076,
+   "move": 2.2772522877503927,
+   "rising": 0.44664118455726637,
+   "leap answered": 0.5482322221818021,
+   "range": 12.173809523809524,
+   "register": 66.9047619047619,
+   "even": 0.3166167591467342,
+   "long-short": 0.12655704941701018,
+   "rhythm variety": 2.8250220703207862,
+   "surprise, pitch": 2.5796396902397825,
+   "surprise, rhythm": 2.1880393538396916,
+   "density": 1.0216022756004788,
+   "lines": 3.4285714285714284
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.05261041773082374,
+    "others": 0.14608330178590978,
+    "auc": 0.13173636704166328
+   },
+   {
+    "measure": "range",
+    "value": 12.173809523809524,
+    "others": 10.12587453888784,
+    "auc": 0.7700854840971614
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.8,
+    "works": 8,
+    "per_1000": 5.2,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar3009-Fuge_la_morie.krn",
+      "label": "Fuge la morie (kern)",
+      "bar": 3,
+      "notes": "G4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3004.a-Des_biens_damours.krn",
+      "label": "Des biens d'amours (kern)",
+      "bar": 4,
+      "notes": "D4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3005-Fault_il_que_heur_soye.krn",
+      "label": "Fault il que heur soye (kern)",
+      "bar": 18,
+      "notes": "A4 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 5,
+    "per_1000": 2.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar3002-Cela_sans_plus.krn",
+      "label": "Cela sans plus (kern)",
+      "bar": 10,
+      "notes": "F4 E4 D4 G4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3016-La_fleur_de_biaulte.krn",
+      "label": "La fleur de biaulté (kern)",
+      "bar": 21,
+      "notes": "F4 E4 D4 G4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3011-Il_est_tel.krn",
+      "label": "Il est tel (kern)",
+      "bar": 30,
+      "notes": "F4 E4 D4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.2,
+    "works": 5,
+    "per_1000": 3.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar3005-Fault_il_que_heur_soye.krn",
+      "label": "Fault il que heur soye (kern)",
+      "bar": 7,
+      "notes": "F4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3011-Il_est_tel.krn",
+      "label": "Il est tel (kern)",
+      "bar": 16,
+      "notes": "F4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3015-Jespoir_mieulx.krn",
+      "label": "J'espoir mieulx (kern)",
+      "bar": 46,
+      "notes": "F4 G4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 12,
+    "per_1000": 6.3,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar3004.a-Des_biens_damours.krn",
+      "label": "Des biens d'amours (kern)",
+      "bar": 4,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3005-Fault_il_que_heur_soye.krn",
+      "label": "Fault il que heur soye (kern)",
+      "bar": 18,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3012-Il_est_tousjours.krn",
+      "label": "Il est tousjours (kern)",
+      "bar": 31,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar3011-Il_est_tel.krn",
+      "label": "Il est tel (kern)",
+      "bar": 19,
+      "notes": "F4 G4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3012-Il_est_tousjours.krn",
+      "label": "Il est tousjours (kern)",
+      "bar": 52,
+      "notes": "C5 D5 B4 A4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3042-Jay_pris_amours_II.krn",
+      "label": "J'ay pris amours II (kern)",
+      "bar": 9,
+      "notes": "F4 G4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     2,
+     -2
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Mar/Mar3004.a-Des_biens_damours.krn",
+      "label": "Des biens d'amours (kern)",
+      "bar": 7,
+      "notes": "E4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3014-Je_remerchi_dieu.krn",
+      "label": "Je remerchi dieu (kern)",
+      "bar": 29,
+      "notes": "E4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Mar/Mar3011-Il_est_tel.krn",
+      "label": "Il est tel (kern)",
+      "bar": 4,
+      "notes": "B4 C5 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 261,
+   "composers": 19
+  }
+ }
+]

@@ -1,0 +1,308 @@
+[
+ {
+  "composer": "Ferdinand Simon Lechleitner",
+  "kind": "magnificat",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.320140990844117,
+   "repeats": 0.4856119386306908,
+   "leaps": 0.09001675732439834,
+   "move": 3.2398631020988744,
+   "rising": 0.4982103797820121,
+   "leap answered": 0.12388888888888888,
+   "range": 17.333333333333332,
+   "register": 78.0,
+   "even": 0.6546314363143632,
+   "long-short": 0.05762872628726287,
+   "rhythm variety": 1.7958173066278988,
+   "surprise, pitch": 2.2943656631966003,
+   "surprise, rhythm": 1.3301992751211589,
+   "density": 10.15619503143578,
+   "lines": 9.333333333333334
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 35,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Ferdinand Simon Lechleitner",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 11,
+  "values": {
+   "steps": 0.5029675138426453,
+   "repeats": 0.23806183908987985,
+   "leaps": 0.11299822453391471,
+   "move": 2.70478217964467,
+   "rising": 0.4798129985252524,
+   "leap answered": 0.3364725194564338,
+   "range": 11.436363636363636,
+   "register": 75.54545454545455,
+   "even": 0.765651370808884,
+   "long-short": 0.031114963794626194,
+   "rhythm variety": 1.2882653963411,
+   "surprise, pitch": 2.5806374784039643,
+   "surprise, rhythm": 1.0574057902926164,
+   "density": 8.904581481536185,
+   "lines": 7.363636363636363
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.765651370808884,
+    "others": 0.4846132366244693,
+    "auc": 0.9095200833940965
+   },
+   {
+    "measure": "long-short",
+    "value": 0.031114963794626194,
+    "others": 0.09970162792999496,
+    "auc": 0.14814008180704663
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.2882653963411,
+    "others": 2.349878941107978,
+    "auc": 0.08359068776349092
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.0574057902926164,
+    "others": 1.8747207830501145,
+    "auc": 0.10625409055921743
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 6,
+    "per_1000": 4.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-001_lechleitner-ferdinand-simon--litania-de-b-v-mariae-kyrie.krn",
+      "label": "Litania de B.V. Mariae, Kyrie, movement 1 (PL-SA 288/A VII 48, kern)",
+      "bar": 19,
+      "notes": "Eb5 G5 F5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-003_lechleitner-ferdinand-simon--litania-de-b-v-mariae-virgo-prudentissima.krn",
+      "label": "Litania de B.V. Mariae, Virgo prudentissima, movement 3 (PL-SA 288/A VII 48, kern)",
+      "bar": 7,
+      "notes": "Eb5 G5 F5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-003_lechleitner-ferdinand-simon--missa-s-luciae-patrem.krn",
+      "label": "Missa S. Luciae, Patrem, movement 3 (PL-SA 290/A VII 50, kern)",
+      "bar": 8,
+      "notes": "C5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 7,
+    "per_1000": 5.9,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-003_lechleitner-ferdinand-simon--missa-s-luciae-patrem.krn",
+      "label": "Missa S. Luciae, Patrem, movement 3 (PL-SA 290/A VII 50, kern)",
+      "bar": 9,
+      "notes": "D5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-002_lechleitner-ferdinand-simon--missa-s-luciae-gloria.krn",
+      "label": "Missa S. Luciae, Gloria, movement 2 (PL-SA 290/A VII 50, kern)",
+      "bar": 26,
+      "notes": "D5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-001_lechleitner-ferdinand-simon--litania-de-b-v-mariae-kyrie.krn",
+      "label": "Litania de B.V. Mariae, Kyrie, movement 1 (PL-SA 288/A VII 48, kern)",
+      "bar": 2,
+      "notes": "F5 G5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 6,
+    "per_1000": 4.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-002_lechleitner-ferdinand-simon--missa-s-luciae-gloria.krn",
+      "label": "Missa S. Luciae, Gloria, movement 2 (PL-SA 290/A VII 50, kern)",
+      "bar": 1,
+      "notes": "D5 E5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-003_lechleitner-ferdinand-simon--missa-s-luciae-patrem.krn",
+      "label": "Missa S. Luciae, Patrem, movement 3 (PL-SA 290/A VII 50, kern)",
+      "bar": 8,
+      "notes": "C5 D5 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-001_lechleitner-ferdinand-simon--litania-de-b-v-mariae-kyrie.krn",
+      "label": "Litania de B.V. Mariae, Kyrie, movement 1 (PL-SA 288/A VII 48, kern)",
+      "bar": 31,
+      "notes": "F5 G5 F5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 6,
+    "per_1000": 4.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-002_lechleitner-ferdinand-simon--missa-s-luciae-gloria.krn",
+      "label": "Missa S. Luciae, Gloria, movement 2 (PL-SA 290/A VII 50, kern)",
+      "bar": 22,
+      "notes": "F5 G5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-004_lechleitner-ferdinand-simon--litania-de-b-v-mariae-speculum-iustitiae.krn",
+      "label": "Litania de B.V. Mariae, Speculum iustitiae, movement 4 (PL-SA 288/A VII 48, kern)",
+      "bar": 9,
+      "notes": "F5 G5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-003_lechleitner-ferdinand-simon--litania-de-b-v-mariae-virgo-prudentissima.krn",
+      "label": "Litania de B.V. Mariae, Virgo prudentissima, movement 3 (PL-SA 288/A VII 48, kern)",
+      "bar": 6,
+      "notes": "F5 G5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 6,
+    "per_1000": 3.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-002_lechleitner-ferdinand-simon--missa-s-luciae-gloria.krn",
+      "label": "Missa S. Luciae, Gloria, movement 2 (PL-SA 290/A VII 50, kern)",
+      "bar": 16,
+      "notes": "F5 G5 E5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-004_lechleitner-ferdinand-simon--litania-de-b-v-mariae-speculum-iustitiae.krn",
+      "label": "Litania de B.V. Mariae, Speculum iustitiae, movement 4 (PL-SA 288/A VII 48, kern)",
+      "bar": 4,
+      "notes": "F5 G5 E5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-003_lechleitner-ferdinand-simon--missa-s-luciae-patrem.krn",
+      "label": "Missa S. Luciae, Patrem, movement 3 (PL-SA 290/A VII 50, kern)",
+      "bar": 116,
+      "notes": "C5 D5 B4 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -7,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 4,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-004_lechleitner-ferdinand-simon--litania-de-b-v-mariae-speculum-iustitiae.krn",
+      "label": "Litania de B.V. Mariae, Speculum iustitiae, movement 4 (PL-SA 288/A VII 48, kern)",
+      "bar": 6,
+      "notes": "D5 F5 Bb4 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--290-a-vii-50--001-005_lechleitner-ferdinand-simon--missa-s-luciae-benedictus.krn",
+      "label": "Missa S. Luciae, Benedictus, movement 5 (PL-SA 290/A VII 50, kern)",
+      "bar": 32,
+      "notes": "Eb5 F#5 B4 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--288-a-vii-48--001-001_lechleitner-ferdinand-simon--litania-de-b-v-mariae-kyrie.krn",
+      "label": "Litania de B.V. Mariae, Kyrie, movement 1 (PL-SA 288/A VII 48, kern)",
+      "bar": 36,
+      "notes": "D5 F5 Bb4 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 191,
+   "composers": 20
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Alexander Mackenzie",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.506900255361191,
+   "repeats": 0.1482758182421413,
+   "leaps": 0.1290459357878116,
+   "move": 2.853228013548714,
+   "rising": 0.5096486050120891,
+   "leap answered": 0.2938740856844305,
+   "range": 10.524999999999995,
+   "register": 68.125,
+   "even": 0.3831193120266998,
+   "long-short": 0.1536274086169701,
+   "rhythm variety": 2.8512607016798617,
+   "surprise, pitch": 2.640053913475725,
+   "surprise, rhythm": 2.0168492212268676,
+   "density": 5.447919696004243,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1091,
+   "composers": 97
+  }
+ }
+]

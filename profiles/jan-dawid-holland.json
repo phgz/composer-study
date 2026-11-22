@@ -1,0 +1,484 @@
+[
+ {
+  "composer": "Jan Dawid Holland",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.5547634651735706,
+   "repeats": 0.11709841089459472,
+   "leaps": 0.1814614554718123,
+   "move": 3.2628789711044734,
+   "rising": 0.4320576302302269,
+   "leap answered": 0.31133537952727774,
+   "range": 18.142857142857142,
+   "register": 74.14285714285714,
+   "even": 0.5231057626321849,
+   "long-short": 0.14611538576944258,
+   "rhythm variety": 2.2654695727793204,
+   "surprise, pitch": 1.9172337380565134,
+   "surprise, rhythm": 1.3799418920046944,
+   "density": 3.9324289999045514,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 1.9172337380565134,
+    "others": 2.289519390383072,
+    "auc": 0.24917051300715418
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 4.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-008_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-alla-polacca.krn",
+      "label": "Text mit Noten und Noten ohne Text, Alla Polacca, movement 8 (D-Hs M B/1674, kern)",
+      "bar": 9,
+      "notes": "Eb5 E5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-004_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-erste-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Erste Menuet, movement 4 (D-Hs M B/1674, kern)",
+      "bar": 6,
+      "notes": "Ab5 A5 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-010_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-minuetto.krn",
+      "label": "Text mit Noten und Noten ohne Text, Minuetto, movement 10 (D-Hs M B/1674, kern)",
+      "bar": 26,
+      "notes": "E4 F4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     2,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 4.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-010_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-minuetto.krn",
+      "label": "Text mit Noten und Noten ohne Text, Minuetto, movement 10 (D-Hs M B/1674, kern)",
+      "bar": 10,
+      "notes": "C5 B4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-014_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 14 (D-Hs M B/1674, kern)",
+      "bar": 15,
+      "notes": "D5 C#5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-005_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 5 (D-Hs M B/1674, kern)",
+      "bar": 15,
+      "notes": "D5 C#5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 4.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-010_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-minuetto.krn",
+      "label": "Text mit Noten und Noten ohne Text, Minuetto, movement 10 (D-Hs M B/1674, kern)",
+      "bar": 19,
+      "notes": "G4 G4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-014_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 14 (D-Hs M B/1674, kern)",
+      "bar": 3,
+      "notes": "A5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-005_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 5 (D-Hs M B/1674, kern)",
+      "bar": 14,
+      "notes": "D5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     3
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 4.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-017_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-berwandelung-einer-befannten-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Berwandelung einer befannten Menuet, movement 17 (D-Hs M B/1674, kern)",
+      "bar": 25,
+      "notes": "G4 Bb4 A4 C5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-008_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-alla-polacca.krn",
+      "label": "Text mit Noten und Noten ohne Text, Alla Polacca, movement 8 (D-Hs M B/1674, kern)",
+      "bar": 2,
+      "notes": "E5 G5 F#5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-008_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-alla-polacca.krn",
+      "label": "Text mit Noten und Noten ohne Text, Alla Polacca, movement 8 (D-Hs M B/1674, kern)",
+      "bar": 13,
+      "notes": "E4 D4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-017_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-berwandelung-einer-befannten-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Berwandelung einer befannten Menuet, movement 17 (D-Hs M B/1674, kern)",
+      "bar": 11,
+      "notes": "D5 C5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-017_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-berwandelung-einer-befannten-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Berwandelung einer befannten Menuet, movement 17 (D-Hs M B/1674, kern)",
+      "bar": 2,
+      "notes": "F5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-014_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 14 (D-Hs M B/1674, kern)",
+      "bar": 6,
+      "notes": "D5 D5 C#5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 190,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Jan Dawid Holland",
+  "kind": "minuet",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5660613397957418,
+   "repeats": 0.11906101882587579,
+   "leaps": 0.17810744738982107,
+   "move": 3.2020507827442484,
+   "rising": 0.4257971930745052,
+   "leap answered": 0.3182807892237716,
+   "range": 17.5,
+   "register": 74.16666666666667,
+   "even": 0.5214767533051983,
+   "long-short": 0.15232736049518866,
+   "rhythm variety": 2.2395257861895055,
+   "surprise, pitch": 1.8851665026764184,
+   "surprise, rhythm": 1.3627764017041313,
+   "density": 3.7619570736932304,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.15232736049518866,
+    "others": 0.07486609314506126,
+    "auc": 0.7570323895274793
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 1.8851665026764184,
+    "others": 2.3439467563824286,
+    "auc": 0.20816816816023645
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     2,
+     0,
+     2
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 7.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-010_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-minuetto.krn",
+      "label": "Text mit Noten und Noten ohne Text, Minuetto, movement 10 (D-Hs M B/1674, kern)",
+      "bar": 10,
+      "notes": "C5 B4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-014_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 14 (D-Hs M B/1674, kern)",
+      "bar": 15,
+      "notes": "D5 C#5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-005_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 5 (D-Hs M B/1674, kern)",
+      "bar": 15,
+      "notes": "D5 C#5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 6.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-010_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-minuetto.krn",
+      "label": "Text mit Noten und Noten ohne Text, Minuetto, movement 10 (D-Hs M B/1674, kern)",
+      "bar": 19,
+      "notes": "G4 G4 F4 E4"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-014_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 14 (D-Hs M B/1674, kern)",
+      "bar": 3,
+      "notes": "A5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-005_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 5 (D-Hs M B/1674, kern)",
+      "bar": 14,
+      "notes": "D5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 5.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-017_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-berwandelung-einer-befannten-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Berwandelung einer befannten Menuet, movement 17 (D-Hs M B/1674, kern)",
+      "bar": 2,
+      "notes": "F5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-014_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 14 (D-Hs M B/1674, kern)",
+      "bar": 6,
+      "notes": "D5 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.4,
+    "works": 2,
+    "per_1000": 5.2,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-010_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-minuetto.krn",
+      "label": "Text mit Noten und Noten ohne Text, Minuetto, movement 10 (D-Hs M B/1674, kern)",
+      "bar": 19,
+      "notes": "A4 G4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-014_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 14 (D-Hs M B/1674, kern)",
+      "bar": 3,
+      "notes": "B5 A5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 5.2,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-013_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-erste-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Erste Menuet, movement 13 (D-Hs M B/1674, kern)",
+      "bar": 2,
+      "notes": "D5 A4 F#4 D4"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-010_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-minuetto.krn",
+      "label": "Text mit Noten und Noten ohne Text, Minuetto, movement 10 (D-Hs M B/1674, kern)",
+      "bar": 6,
+      "notes": "G5 D5 B4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.0,
+    "works": 3,
+    "per_1000": 7.3,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-010_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-minuetto.krn",
+      "label": "Text mit Noten und Noten ohne Text, Minuetto, movement 10 (D-Hs M B/1674, kern)",
+      "bar": 7,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-013_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-erste-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Erste Menuet, movement 13 (D-Hs M B/1674, kern)",
+      "bar": 15,
+      "notes": "G5 F#5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:d-hs/kern/d-hs--m-b-1674--001-014_holland-jan-dawid--text-mit-noten-und-noten-ohne-text-zweite-menuet.krn",
+      "label": "Text mit Noten und Noten ohne Text, Zweite Menuet, movement 14 (D-Hs M B/1674, kern)",
+      "bar": 3,
+      "notes": "D6 C#6 B5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 136,
+   "composers": 18
+  }
+ }
+]

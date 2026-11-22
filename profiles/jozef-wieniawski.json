@@ -1,0 +1,221 @@
+[
+ {
+  "composer": "Józef Wieniawski",
+  "kind": "etude",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.3114668906512929,
+   "repeats": 0.035391682585664726,
+   "leaps": 0.4333596434656442,
+   "move": 6.299937981699183,
+   "rising": 0.5237016863043529,
+   "leap answered": 0.1746786815641523,
+   "range": 36.983333333333334,
+   "register": 72.33333333333333,
+   "even": 0.7026030187068759,
+   "long-short": 0.03346626472839342,
+   "rhythm variety": 1.552730599616444,
+   "surprise, pitch": 2.7216968576987366,
+   "surprise, rhythm": 1.0353606143430718,
+   "density": 5.306848487237155,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-003_wieniawski-jozef--24-etudes-21me-etude.krn",
+      "label": "24 Études, 21me Etude, movement 3: Presto scherzando e capriccioso. (PL-Wnifc 3125/n, kern)",
+      "bar": 60,
+      "notes": "G6 F6 Eb6 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-005_wieniawski-jozef--24-etudes-23me-etude.krn",
+      "label": "24 Études, 23me Etude, movement 5: Presto, con brio. (PL-Wnifc 3125/n, kern)",
+      "bar": 101,
+      "notes": "A6 G6 F6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -6,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-004_wieniawski-jozef--24-etudes-22me-etude.krn",
+      "label": "24 Études, 22me Etude, movement 4 (PL-Wnifc 3125/n, kern)",
+      "bar": 66,
+      "notes": "B5 Ab5 D5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-005_wieniawski-jozef--24-etudes-23me-etude.krn",
+      "label": "24 Études, 23me Etude, movement 5: Presto, con brio. (PL-Wnifc 3125/n, kern)",
+      "bar": 51,
+      "notes": "F6 D6 Ab5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -6,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-004_wieniawski-jozef--24-etudes-22me-etude.krn",
+      "label": "24 Études, 22me Etude, movement 4 (PL-Wnifc 3125/n, kern)",
+      "bar": 66,
+      "notes": "Ab5 D5 B4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-005_wieniawski-jozef--24-etudes-23me-etude.krn",
+      "label": "24 Études, 23me Etude, movement 5: Presto, con brio. (PL-Wnifc 3125/n, kern)",
+      "bar": 52,
+      "notes": "B5 F5 D5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-004_wieniawski-jozef--24-etudes-22me-etude.krn",
+      "label": "24 Études, 22me Etude, movement 4 (PL-Wnifc 3125/n, kern)",
+      "bar": 66,
+      "notes": "D5 B4 D5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-005_wieniawski-jozef--24-etudes-23me-etude.krn",
+      "label": "24 Études, 23me Etude, movement 5: Presto, con brio. (PL-Wnifc 3125/n, kern)",
+      "bar": 51,
+      "notes": "F5 D5 F5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-003_wieniawski-jozef--24-etudes-21me-etude.krn",
+      "label": "24 Études, 21me Etude, movement 3: Presto scherzando e capriccioso. (PL-Wnifc 3125/n, kern)",
+      "bar": 166,
+      "notes": "C4 C#4 Eb4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-002_wieniawski-jozef--24-etudes-20me-etude.krn",
+      "label": "24 Études, 20me Etude, movement 2 (PL-Wnifc 3125/n, kern)",
+      "bar": 7,
+      "notes": "G6 Ab6 Bb6 B6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-001_wieniawski-jozef--24-etudes-19me-etude.krn",
+      "label": "24 Études, 19me Etude, movement 1: Vivo, con spirito, giojoso. (PL-Wnifc 3125/n, kern)",
+      "bar": 38,
+      "notes": "A4 Bb4 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     6,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-004_wieniawski-jozef--24-etudes-22me-etude.krn",
+      "label": "24 Études, 22me Etude, movement 4 (PL-Wnifc 3125/n, kern)",
+      "bar": 66,
+      "notes": "B4 D5 Ab5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--3125-n--001-005_wieniawski-jozef--24-etudes-23me-etude.krn",
+      "label": "24 Études, 23me Etude, movement 5: Presto, con brio. (PL-Wnifc 3125/n, kern)",
+      "bar": 51,
+      "notes": "F5 Ab5 D6 F6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 221,
+   "composers": 17
+  }
+ }
+]

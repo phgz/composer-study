@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Vito Ugolino",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.605884995507637,
+   "repeats": 0.0630755579292293,
+   "leaps": 0.19145491364370973,
+   "move": 3.0598496194255858,
+   "rising": 0.46648248779035373,
+   "leap answered": 0.4132996632996633,
+   "range": 13.333333333333334,
+   "register": 75.0,
+   "even": 0.7777354836676871,
+   "long-short": 0.02233213843383335,
+   "rhythm variety": 1.2314635115554842,
+   "surprise, pitch": 2.3791083285368226,
+   "surprise, rhythm": 1.1428057377006917,
+   "density": 8.051507766248802,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 322,
+   "composers": 26
+  }
+ }
+]

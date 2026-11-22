@@ -1,0 +1,583 @@
+[
+ {
+  "composer": "Marbrianus de Orto",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 29,
+  "values": {
+   "steps": 0.7131823066220071,
+   "repeats": 0.09576685456981322,
+   "leaps": 0.082810197900312,
+   "move": 2.240551439192138,
+   "rising": 0.4487956477145242,
+   "leap answered": 0.5993510304929238,
+   "range": 10.363793103448275,
+   "register": 67.6896551724138,
+   "even": 0.3541608749181003,
+   "long-short": 0.12197440503560822,
+   "rhythm variety": 2.8572672093105007,
+   "surprise, pitch": 2.4524713202328488,
+   "surprise, rhythm": 2.2262367538290153,
+   "density": 1.0157510392344944,
+   "lines": 4.0344827586206895
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7131823066220071,
+    "others": 0.645309517034681,
+    "auc": 0.7682505038366891
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 7.4,
+    "works": 11,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort1002c-Missa_Jay_pris_amours-Credo-first_setting.krn",
+      "label": "Missa J'ay pris amours, Credo (first setting): Patrem (kern)",
+      "bar": 16,
+      "notes": "Ab4 A4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1002d-Missa_Jay_pris_amours-Sanctus.krn",
+      "label": "Missa J'ay pris amours, Sanctus (kern)",
+      "bar": 62,
+      "notes": "Ab4 A4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1005c-Missa_Mi_mi-Credo-Missa_Petite_camusette.krn",
+      "label": "Missa Mi mi (Missa Petite camusette), Credo: Patrem omnipotentem (kern)",
+      "bar": 95,
+      "notes": "Ab4 A4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.9,
+    "works": 9,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort1002c-Missa_Jay_pris_amours-Credo-first_setting.krn",
+      "label": "Missa J'ay pris amours, Credo (first setting): Patrem (kern)",
+      "bar": 22,
+      "notes": "B4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1003b-Missa_La_belle_se_siet-Gloria.krn",
+      "label": "Missa La belle se siet, Gloria: Et in terra pax (kern)",
+      "bar": 40,
+      "notes": "A4 F4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1002c.b-Missa_Jay_pris_amours-Credo-second_setting.krn",
+      "label": "Missa J'ay pris amours, Credo: Patrem (kern)",
+      "bar": 6,
+      "notes": "B4 G4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     2,
+     -2
+    ],
+    "z": 6.8,
+    "works": 14,
+    "per_1000": 2.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort1007-Kyrie_De_beata_virgine.krn",
+      "label": "Kyrie De beata virgine: Kyrie I (kern)",
+      "bar": 44,
+      "notes": "C5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1006e-Missa_Ad_fugam-Agnus.krn",
+      "label": "Missa [Ad fugam], Agnus Dei: Agnus Dei I/III (kern)",
+      "bar": 5,
+      "notes": "F4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1002b-Missa_Jay_pris_amours-Gloria.krn",
+      "label": "Missa J'ay pris amours, Gloria: Et in terra pax (kern)",
+      "bar": 34,
+      "notes": "G4 A4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.6,
+    "works": 7,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort1002c-Missa_Jay_pris_amours-Credo-first_setting.krn",
+      "label": "Missa J'ay pris amours, Credo (first setting): Patrem (kern)",
+      "bar": 58,
+      "notes": "E4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1002c.b-Missa_Jay_pris_amours-Credo-second_setting.krn",
+      "label": "Missa J'ay pris amours, Credo: Patrem (kern)",
+      "bar": 37,
+      "notes": "E4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1002e-Missa_Jay_pris_amours-Agnus.krn",
+      "label": "Missa J'ay pris amours, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 9,
+      "notes": "E4 G4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.2,
+    "works": 18,
+    "per_1000": 2.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort1001d-Missa_Dominicalis-Sanctus.krn",
+      "label": "Missa Dominicalis, Sanctus (kern)",
+      "bar": 51,
+      "notes": "A4 G4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1003a-Missa_La_belle_se_siet-Kyrie.krn",
+      "label": "Missa La belle se siet, Kyrie: Kyrie I (kern)",
+      "bar": 7,
+      "notes": "A4 G4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1009-Credo_a_5.krn",
+      "label": "Credo à 5: Patrem (kern)",
+      "bar": 210,
+      "notes": "A4 G4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     0,
+     1
+    ],
+    "z": 6.0,
+    "works": 6,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort1001c-Missa_Dominicalis-Credo.krn",
+      "label": "Missa Dominicalis, Credo: Patrem omnipotentem (kern)",
+      "bar": 51,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1001e-Missa_Dominicalis-Agnus.krn",
+      "label": "Missa Dominicalis, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 13,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort1009-Credo_a_5.krn",
+      "label": "Credo à 5: Patrem (kern)",
+      "bar": 95,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 567,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Marbrianus de Orto",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 7,
+  "values": {
+   "steps": 0.7327079368709892,
+   "repeats": 0.09582106740397037,
+   "leaps": 0.06870648249816046,
+   "move": 2.1898141587089883,
+   "rising": 0.4599277723098231,
+   "leap answered": 0.388989898989899,
+   "range": 10.135714285714284,
+   "register": 64.28571428571429,
+   "even": 0.32831658641518235,
+   "long-short": 0.12136265532930901,
+   "rhythm variety": 2.876563831206229,
+   "surprise, pitch": 2.3849781523016955,
+   "surprise, rhythm": 2.282998422790598,
+   "density": 0.8916378373202235,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7327079368709892,
+    "others": 0.6230871571484025,
+    "auc": 0.8085648540240149
+   },
+   {
+    "measure": "repeats",
+    "value": 0.09582106740397037,
+    "others": 0.1714402151894841,
+    "auc": 0.18214779735072792
+   },
+   {
+    "measure": "register",
+    "value": 64.28571428571429,
+    "others": 68.14618395963991,
+    "auc": 0.167164934723099
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.282998422790598,
+    "others": 1.9804368734452835,
+    "auc": 0.7559315499052869
+   },
+   {
+    "measure": "density",
+    "value": 0.8916378373202235,
+    "others": 1.486973093303167,
+    "auc": 0.22368870835954438
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 6.2,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort2002-Ave_Maria_mater_gratie.krn",
+      "label": "Ave Maria mater gratie (kern)",
+      "bar": 47,
+      "notes": "F4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2001-Ave_Maria_gratia_plena.krn",
+      "label": "Ave Maria gratia plena (kern)",
+      "bar": 9,
+      "notes": "F4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2006-Lucis_creator_optime.krn",
+      "label": "Lucis creator optime: Qui mane iunctum (kern)",
+      "bar": 75,
+      "notes": "F4 G4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 4,
+    "per_1000": 3.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort2005-Lamentatio_Jeremie_prophete.krn",
+      "label": "Lamentatio Jeremie prophete: Incipit Lamentatio Jeremie prophete (kern)",
+      "bar": 32,
+      "notes": "C4 B3 A3 B3"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2002-Ave_Maria_mater_gratie.krn",
+      "label": "Ave Maria mater gratie (kern)",
+      "bar": 112,
+      "notes": "F4 E4 D4 E4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2006-Lucis_creator_optime.krn",
+      "label": "Lucis creator optime: Qui mane iunctum (kern)",
+      "bar": 24,
+      "notes": "F4 E4 D4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 5,
+    "per_1000": 5.9,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort2001-Ave_Maria_gratia_plena.krn",
+      "label": "Ave Maria gratia plena (kern)",
+      "bar": 38,
+      "notes": "G4 F4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2004-Domine_non_secundum_peccata_nostra.krn",
+      "label": "Domine non secundum peccata nostra (kern)",
+      "bar": 16,
+      "notes": "C4 Bb3 C4 Bb3"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2005-Lamentatio_Jeremie_prophete.krn",
+      "label": "Lamentatio Jeremie prophete: Incipit Lamentatio Jeremie prophete (kern)",
+      "bar": 147,
+      "notes": "B3 A3 B3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     0
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort2004-Domine_non_secundum_peccata_nostra.krn",
+      "label": "Domine non secundum peccata nostra (kern)",
+      "bar": 25,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2002-Ave_Maria_mater_gratie.krn",
+      "label": "Ave Maria mater gratie (kern)",
+      "bar": 5,
+      "notes": "G4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2010-Descendi_in_ortum_meum.krn",
+      "label": "Descendi in ortum meum (kern)",
+      "bar": 6,
+      "notes": "G4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 4.7,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort2001-Ave_Maria_gratia_plena.krn",
+      "label": "Ave Maria gratia plena (kern)",
+      "bar": 8,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2004-Domine_non_secundum_peccata_nostra.krn",
+      "label": "Domine non secundum peccata nostra (kern)",
+      "bar": 82,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2002-Ave_Maria_mater_gratie.krn",
+      "label": "Ave Maria mater gratie (kern)",
+      "bar": 5,
+      "notes": "F4 E4 D4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.0,
+    "works": 4,
+    "per_1000": 2.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Ort/Ort2005-Lamentatio_Jeremie_prophete.krn",
+      "label": "Lamentatio Jeremie prophete: Incipit Lamentatio Jeremie prophete (kern)",
+      "bar": 155,
+      "notes": "D4 E4 D4 C#4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2002-Ave_Maria_mater_gratie.krn",
+      "label": "Ave Maria mater gratie (kern)",
+      "bar": 136,
+      "notes": "F4 G4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Ort/Ort2004-Domine_non_secundum_peccata_nostra.krn",
+      "label": "Domine non secundum peccata nostra (kern)",
+      "bar": 182,
+      "notes": "Bb4 C5 Bb4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 615,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Marbrianus de Orto",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 7,
+  "values": {
+   "steps": 0.7001007318678524,
+   "repeats": 0.09819961723143286,
+   "leaps": 0.11027755069915227,
+   "move": 2.3555199509467677,
+   "rising": 0.39325330257366653,
+   "leap answered": 0.6620314209599923,
+   "range": 11.428571428571429,
+   "register": 67.71428571428571,
+   "even": 0.3641061931009752,
+   "long-short": 0.1154347047978544,
+   "rhythm variety": 2.813728269093303,
+   "surprise, pitch": 2.578035925963072,
+   "surprise, rhythm": 2.2673080608938885,
+   "density": 0.9932464133012816,
+   "lines": 3.857142857142857
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.39325330257366653,
+    "others": 0.4518611736260022,
+    "auc": 0.1783469723766009
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.6620314209599923,
+    "others": 0.4456923784596653,
+    "auc": 0.7953388996316805
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 275,
+   "composers": 19
+  }
+ }
+]

@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Pauline Viardot",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 21,
+  "values": {
+   "steps": 0.5411334217067685,
+   "repeats": 0.19491848695139544,
+   "leaps": 0.1275895345839324,
+   "move": 2.800899889634049,
+   "rising": 0.5434130392222024,
+   "leap answered": 0.31491368511956924,
+   "range": 11.335714285714285,
+   "register": 70.0952380952381,
+   "even": 0.4522950498315596,
+   "long-short": 0.1208873985577937,
+   "rhythm variety": 2.6397731044028143,
+   "surprise, pitch": 2.4899827440187514,
+   "surprise, rhythm": 1.7885649893162494,
+   "density": 5.391838546473339,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5434130392222024,
+    "others": 0.46834774442604293,
+    "auc": 0.8153029213679757
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 11,
+    "per_1000": 5.3,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/5_Madrid,_VWV_1136/lc5974308.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Madrid, VWV 1136 (OpenScore)",
+      "bar": 8,
+      "notes": "D4 E4 F4 G4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/6_Les_filles_de_Cadix,_VWV_1135/lc5975897.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Les filles de Cadix, VWV 1135 (OpenScore)",
+      "bar": 17,
+      "notes": "E4 F#4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/_/Bonjour_mon_cœur!,_VWV_1072/lc6574373.mxl",
+      "label": "Bonjour mon cœur!, VWV 1072 (OpenScore)",
+      "bar": 6,
+      "notes": "F4 G4 Ab4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.0,
+    "works": 7,
+    "per_1000": 3.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/2_Belle_Yoli,_VWV_1134/lc5988382.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Belle Yoli, VWV 1134 (OpenScore)",
+      "bar": 8,
+      "notes": "F#4 F#4 Ab4 A4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/5_Madrid,_VWV_1136/lc5974308.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Madrid, VWV 1136 (OpenScore)",
+      "bar": 7,
+      "notes": "D4 D4 E4 F4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies_et_une_havanaise/6b_Chanson_mélancolique/lc6641170.mxl",
+      "label": "Mélodies et une havanaise, 6b Chanson mélancolique (OpenScore)",
+      "bar": 6,
+      "notes": "D5 D5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 12,
+    "per_1000": 6.0,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/_/Bonjour_mon_cœur!,_VWV_1072/lc6574373.mxl",
+      "label": "Bonjour mon cœur!, VWV 1072 (OpenScore)",
+      "bar": 28,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies_et_une_havanaise/1_La_main/lc6634152.mxl",
+      "label": "Mélodies et une havanaise, La main (OpenScore)",
+      "bar": 2,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/6_Les_filles_de_Cadix,_VWV_1135/lc5975897.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Les filles de Cadix, VWV 1135 (OpenScore)",
+      "bar": 74,
+      "notes": "B3 C#4 D4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.9,
+    "works": 4,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/_/Rossignol,_rossignolet,_VWV_1071/lc6581778.mxl",
+      "label": "Rossignol, rossignolet, VWV 1071 (OpenScore)",
+      "bar": 17,
+      "notes": "A4 F4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/_/Les_Attraits,_VWV_1852/lc6581364.mxl",
+      "label": "Les Attraits, VWV 1852 (OpenScore)",
+      "bar": 11,
+      "notes": "C#5 A4 B4 C#5"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/6_Les_filles_de_Cadix,_VWV_1135/lc5975897.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Les filles de Cadix, VWV 1135 (OpenScore)",
+      "bar": 20,
+      "notes": "B4 G4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -5,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/_/Bonjour_mon_cœur!,_VWV_1072/lc6574373.mxl",
+      "label": "Bonjour mon cœur!, VWV 1072 (OpenScore)",
+      "bar": 5,
+      "notes": "Ab4 Bb4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies_et_une_havanaise/6b_Chanson_mélancolique/lc6641170.mxl",
+      "label": "Mélodies et une havanaise, 6b Chanson mélancolique (OpenScore)",
+      "bar": 6,
+      "notes": "F5 G5 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies,_VWV_1133-11371176/3_Ici-bas_tous_les_lilas_meurent,_VWV_1176/lc5979580.mxl",
+      "label": "Mélodies, VWV 1133-11371176, Ici-bas tous les lilas meurent, VWV 1176 (OpenScore)",
+      "bar": 3,
+      "notes": "G4 A4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 7,
+    "per_1000": 3.8,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies_et_une_havanaise/7c_Havanaise/lc6641589.mxl",
+      "label": "Mélodies et une havanaise, 7c Havanaise (OpenScore)",
+      "bar": 49,
+      "notes": "F#4 G4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies_et_une_havanaise/5_Gentilles_hirondelles/lc6641060.mxl",
+      "label": "Mélodies et une havanaise, Gentilles hirondelles (OpenScore)",
+      "bar": 3,
+      "notes": "B4 C5 D5 C5"
+     },
+     {
+      "work": "openscore-lieder:Viardot,_Pauline/6_Mélodies_et_une_havanaise/3b_J’en_mourrai/lc6639009.mxl",
+      "label": "Mélodies et une havanaise, 3b J’en mourrai (OpenScore)",
+      "bar": 27,
+      "notes": "Eb5 E5 F#5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1078,
+   "composers": 97
+  }
+ }
+]

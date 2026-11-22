@@ -1,0 +1,150 @@
+[
+ {
+  "composer": "Ralph Vaughan Williams",
+  "kind": "partsong",
+  "forces": "voices",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 6,
+  "values": {
+   "steps": 0.5923936823198345,
+   "repeats": 0.15880921042301954,
+   "leaps": 0.13196692098982352,
+   "move": 2.7792613757619105,
+   "rising": 0.45515976263655705,
+   "leap answered": 0.3897619047619048,
+   "range": 15.0,
+   "register": 70.0,
+   "even": 0.356018869875459,
+   "long-short": 0.14635341689605255,
+   "rhythm variety": 2.740454576201019,
+   "surprise, pitch": 2.141333695410442,
+   "surprise, rhythm": 1.8549371256187535,
+   "density": 3.453578989522171,
+   "lines": 4.5
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.141333695410442,
+    "others": 2.6829056157918254,
+    "auc": 0.1924398625429553
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 8.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Rvw-sailor-mrm.mxl",
+      "label": "The Dark Eyed Sailor (CPDL)",
+      "bar": 4,
+      "notes": "B4 C5 D5 E5"
+     },
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Ca'_The_Yowes_-_Vaughan_Williams.mxl",
+      "label": "Ca' the yowes (CPDL)",
+      "bar": 12,
+      "notes": "C#5 D5 E5 F#5"
+     },
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Rvw-ghost-mrm.mxl",
+      "label": "The Lover's Ghost (CPDL)",
+      "bar": 27,
+      "notes": "Bb4 B4 C#5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 8.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Rvw-sailor-mrm.mxl",
+      "label": "The Dark Eyed Sailor (CPDL)",
+      "bar": 7,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Rvw-ghost-mrm.mxl",
+      "label": "The Lover's Ghost (CPDL)",
+      "bar": 5,
+      "notes": "Ab4 Bb4 B4 C#5"
+     },
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Rest.mxl",
+      "label": "Rest (CPDL)",
+      "bar": 23,
+      "notes": "G4 A4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 7.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Rvw-sailor-mrm.mxl",
+      "label": "The Dark Eyed Sailor (CPDL)",
+      "bar": 21,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Rvw-ghost-mrm.mxl",
+      "label": "The Lover's Ghost (CPDL)",
+      "bar": 1,
+      "notes": "F#4 E4 Eb4 C#4"
+     },
+     {
+      "work": "cpdl-3:Ralph_Vaughan_Williams/Sweet_Day.mxl",
+      "label": "Sweet day (CPDL)",
+      "bar": 25,
+      "notes": "E5 D5 C#5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 97,
+   "composers": 7
+  }
+ }
+]

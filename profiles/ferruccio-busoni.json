@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Ferruccio Busoni",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.4924225879333992,
+   "repeats": 0.1148731071162147,
+   "leaps": 0.21885897447542624,
+   "move": 3.667899891202313,
+   "rising": 0.5041770022445373,
+   "leap answered": 0.25307143831202156,
+   "range": 22.75,
+   "register": 71.75,
+   "even": 0.4867292510612361,
+   "long-short": 0.11544133952291577,
+   "rhythm variety": 2.577048469331774,
+   "surprise, pitch": 3.1078207508435174,
+   "surprise, rhythm": 1.9207094088025587,
+   "density": 4.401065257564394,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 22.75,
+    "others": 25.642443609022553,
+    "auc": 0.24744433198380567
+   },
+   {
+    "measure": "register",
+    "value": 71.75,
+    "others": 75.20688259109312,
+    "auc": 0.17519881434355117
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.9207094088025587,
+    "others": 1.488705846755505,
+    "auc": 0.7846153846153847
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#1",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 1 (OpenScore)",
+      "bar": 49,
+      "notes": "Bb4 C5 D5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#4",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 4: Finale Andante con moto, alla Marcia (OpenScore)",
+      "bar": 213,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.2,_Op.26,_BV_225/sq22638631.mxl#2",
+      "label": "String Quartet No.2, Op.26, BV 225, movement 2: Andante con moto arco (OpenScore)",
+      "bar": 26,
+      "notes": "D5 E5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 5,
+    "per_1000": 2.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.2,_Op.26,_BV_225/sq22638631.mxl#1",
+      "label": "String Quartet No.2, Op.26, BV 225, movement 1 (OpenScore)",
+      "bar": 14,
+      "notes": "D5 E5 C#5 D5"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#3",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 3: Menuetto Leggiero e grazioso (OpenScore)",
+      "bar": 69,
+      "notes": "A4 B4 Ab4 A4"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#4",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 4: Finale Andante con moto, alla Marcia (OpenScore)",
+      "bar": 77,
+      "notes": "A4 B4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -7,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#1",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 1 (OpenScore)",
+      "bar": 68,
+      "notes": "A4 D5 G4 C5"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.2,_Op.26,_BV_225/sq22638631.mxl#1",
+      "label": "String Quartet No.2, Op.26, BV 225, movement 1 (OpenScore)",
+      "bar": 182,
+      "notes": "G4 C5 F4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#3",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 3: Menuetto Leggiero e grazioso (OpenScore)",
+      "bar": 1,
+      "notes": "F#4 E4 E4 E4"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#2",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 2: Andante (OpenScore)",
+      "bar": 75,
+      "notes": "F5 Eb5 Eb5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#1",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 1 (OpenScore)",
+      "bar": 92,
+      "notes": "F4 Eb4 Eb4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#2",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 2: Andante (OpenScore)",
+      "bar": 55,
+      "notes": "D5 F5 E5 C5"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#1",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 1 (OpenScore)",
+      "bar": 35,
+      "notes": "C5 Eb5 D5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#1",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 1 (OpenScore)",
+      "bar": 17,
+      "notes": "G4 F#4 G4 G4"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.1,_Op.19,_BV_208/sq11154985.mxl#4",
+      "label": "String Quartet No.1, Op.19, BV 208, movement 4: Finale Andante con moto, alla Marcia (OpenScore)",
+      "bar": 263,
+      "notes": "G4 F#4 G4 G4"
+     },
+     {
+      "work": "openscore-quartets:Busoni,_Ferruccio/String_Quartet_No.2,_Op.26,_BV_225/sq22638631.mxl#1",
+      "label": "String Quartet No.2, Op.26, BV 225, movement 1 (OpenScore)",
+      "bar": 224,
+      "notes": "G5 F#5 G5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 110,
+   "composers": 19
+  }
+ }
+]

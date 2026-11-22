@@ -1,0 +1,594 @@
+[
+ {
+  "composer": "Claudio Monteverdi",
+  "kind": "madrigal",
+  "forces": "voices",
+  "period": "Venice",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.4387311840701671,
+   "repeats": 0.372405870965193,
+   "leaps": 0.12178558729406187,
+   "move": 2.6239917319286676,
+   "rising": 0.5088934777655975,
+   "leap answered": 0.13370547581073897,
+   "range": 9.666666666666666,
+   "register": 66.0,
+   "even": 0.3181520629969772,
+   "long-short": 0.19379656905215734,
+   "rhythm variety": 2.9454906727355685,
+   "surprise, pitch": 2.652761064265901,
+   "surprise, rhythm": 2.0123457791809223,
+   "density": 1.4907867895813494,
+   "lines": 4.666666666666667
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 157,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Claudio Monteverdi",
+  "kind": "madrigal",
+  "forces": "voices",
+  "period": "early",
+  "era": "Before 1600",
+  "works": 20,
+  "values": {
+   "steps": 0.5268696016206285,
+   "repeats": 0.2999657798836822,
+   "leaps": 0.08909917910325058,
+   "move": 2.5484432935043806,
+   "rising": 0.4611891067823942,
+   "leap answered": 0.315709670231729,
+   "range": 12.0125,
+   "register": 71.4,
+   "even": 0.4528099700575104,
+   "long-short": 0.07837145924891006,
+   "rhythm variety": 2.5094258174221378,
+   "surprise, pitch": 2.607633152581115,
+   "surprise, rhythm": 2.0029840354141055,
+   "density": 2.533819743785778,
+   "lines": 5.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.2999657798836822,
+    "others": 0.17579095216502083,
+    "auc": 0.7989665141007326
+   },
+   {
+    "measure": "range",
+    "value": 12.0125,
+    "others": 9.957751686319444,
+    "auc": 0.8208604219356029
+   },
+   {
+    "measure": "even",
+    "value": 0.4528099700575104,
+    "others": 0.36708623467792595,
+    "auc": 0.7634481024656721
+   },
+   {
+    "measure": "long-short",
+    "value": 0.07837145924891006,
+    "others": 0.1456487544971852,
+    "auc": 0.1471663112748099
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.5094258174221378,
+    "others": 2.789692230372673,
+    "auc": 0.2247351814254349
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.0029840354141055,
+    "others": 2.2109527905526787,
+    "auc": 0.21301165025635777
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 7.2,
+    "works": 12,
+    "per_1000": 7.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "music21:monteverdi/madrigal.3.8.mxl",
+      "label": "Il terzo libro de madrigali, no. 8: La piaga c'ho nel core (music21)",
+      "bar": 1,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.16.mxl",
+      "label": "Il terzo libro de madrigali, no. 16: Ma Dove, Oh Lasso Me! (music21)",
+      "bar": 11,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.17.mxl",
+      "label": "Il terzo libro de madrigali, no. 17: Io Pur Verra la Dove Sete (music21)",
+      "bar": 36,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.3,
+    "works": 7,
+    "per_1000": 4.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "music21:monteverdi/madrigal.3.10.mxl",
+      "label": "Il terzo libro de madrigali, no. 10: Poi Ch'ella in Sé Tornó, Deserto e Muto Terza e Ultima Parte (music21)",
+      "bar": 4,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.6.mxl",
+      "label": "Il terzo libro de madrigali, no. 6: O rossignuol ch'in queste verdi fronde (music21)",
+      "bar": 76,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.17.mxl",
+      "label": "Il terzo libro de madrigali, no. 17: Io Pur Verra la Dove Sete (music21)",
+      "bar": 9,
+      "notes": "E5 E5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.3,
+    "works": 7,
+    "per_1000": 4.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "music21:monteverdi/madrigal.3.17.mxl",
+      "label": "Il terzo libro de madrigali, no. 17: Io Pur Verra la Dove Sete (music21)",
+      "bar": 23,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.16.mxl",
+      "label": "Il terzo libro de madrigali, no. 16: Ma Dove, Oh Lasso Me! (music21)",
+      "bar": 11,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.6.mxl",
+      "label": "Il terzo libro de madrigali, no. 6: O rossignuol ch'in queste verdi fronde (music21)",
+      "bar": 76,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 12,
+    "per_1000": 5.9,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "music21:monteverdi/madrigal.3.10.mxl",
+      "label": "Il terzo libro de madrigali, no. 10: Poi Ch'ella in Sé Tornó, Deserto e Muto Terza e Ultima Parte (music21)",
+      "bar": 2,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.8.mxl",
+      "label": "Il terzo libro de madrigali, no. 8: La piaga c'ho nel core (music21)",
+      "bar": 3,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.6.mxl",
+      "label": "Il terzo libro de madrigali, no. 6: O rossignuol ch'in queste verdi fronde (music21)",
+      "bar": 10,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.4,
+    "works": 6,
+    "per_1000": 3.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "music21:monteverdi/madrigal.3.10.mxl",
+      "label": "Il terzo libro de madrigali, no. 10: Poi Ch'ella in Sé Tornó, Deserto e Muto Terza e Ultima Parte (music21)",
+      "bar": 5,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.8.mxl",
+      "label": "Il terzo libro de madrigali, no. 8: La piaga c'ho nel core (music21)",
+      "bar": 7,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.16.mxl",
+      "label": "Il terzo libro de madrigali, no. 16: Ma Dove, Oh Lasso Me! (music21)",
+      "bar": 25,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 7,
+    "per_1000": 3.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "music21:monteverdi/madrigal.3.6.mxl",
+      "label": "Il terzo libro de madrigali, no. 6: O rossignuol ch'in queste verdi fronde (music21)",
+      "bar": 77,
+      "notes": "A4 G4 G4 F#4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.10.mxl",
+      "label": "Il terzo libro de madrigali, no. 10: Poi Ch'ella in Sé Tornó, Deserto e Muto Terza e Ultima Parte (music21)",
+      "bar": 57,
+      "notes": "G5 F5 F5 E5"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.3.1.mxl",
+      "label": "Il terzo libro de madrigali, no. 1: La Giovinetta Pianta (music21)",
+      "bar": 34,
+      "notes": "A4 G4 G4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 157,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Claudio Monteverdi",
+  "kind": "madrigal",
+  "forces": "voices",
+  "period": "seconda pratica",
+  "era": "Before 1600",
+  "works": 33,
+  "values": {
+   "steps": 0.4845243744943151,
+   "repeats": 0.3474435526730804,
+   "leaps": 0.09663327810013501,
+   "move": 2.6546188570284133,
+   "rising": 0.49142700078373874,
+   "leap answered": 0.2788900707286821,
+   "range": 12.334848484848484,
+   "register": 71.4090909090909,
+   "even": 0.39602483749491957,
+   "long-short": 0.10223461974716716,
+   "rhythm variety": 2.7454820983477863,
+   "surprise, pitch": 2.6766178520189063,
+   "surprise, rhythm": 2.0891974833488454,
+   "density": 2.6139798353303703,
+   "lines": 5.090909090909091
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.4845243744943151,
+    "others": 0.6021180942753983,
+    "auc": 0.17651813288369372
+   },
+   {
+    "measure": "repeats",
+    "value": 0.3474435526730804,
+    "others": 0.17579095216502083,
+    "auc": 0.9134325782418153
+   },
+   {
+    "measure": "range",
+    "value": 12.334848484848484,
+    "others": 9.957751686319444,
+    "auc": 0.847893166827727
+   },
+   {
+    "measure": "density",
+    "value": 2.6139798353303703,
+    "others": 2.0577140141183126,
+    "auc": 0.7563482645438312
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 8.7,
+    "works": 24,
+    "per_1000": 10.0,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "dcml/monteverdi_madrigals:notes/5-09.notes.tsv",
+      "label": "Il quinto libro de madrigali, SV 102, movement 9: Troppo ben può questo tiranno amore (DCML)",
+      "bar": 2,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "dcml/monteverdi_madrigals:notes/4-19.notes.tsv",
+      "label": "Il quarto libro de madrigali, SV 93, movement 19: Piagn’e sospira e quandi caldi raggi (DCML)",
+      "bar": 40,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.4.10.mxl",
+      "label": "Il quarto libro de madrigali, no. 10: Voi Pur da me Partite, Anima Dura (music21)",
+      "bar": 2,
+      "notes": "B4 B4 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 8.5,
+    "works": 21,
+    "per_1000": 8.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/monteverdi_madrigals:notes/5-04e.notes.tsv",
+      "label": "Il quinto libro de madrigali, SV 97e, movement 4: Ferrir quel petto, Silvio (DCML)",
+      "bar": 17,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.4.17.mxl",
+      "label": "Il quarto libro de madrigali, no. 17: Anima Dolorosa, Che Vivendo (music21)",
+      "bar": 4,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "dcml/monteverdi_madrigals:notes/4-19.notes.tsv",
+      "label": "Il quarto libro de madrigali, SV 93, movement 19: Piagn’e sospira e quandi caldi raggi (DCML)",
+      "bar": 37,
+      "notes": "A4 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 8.0,
+    "works": 25,
+    "per_1000": 9.1,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "dcml/monteverdi_madrigals:notes/4-19.notes.tsv",
+      "label": "Il quarto libro de madrigali, SV 93, movement 19: Piagn’e sospira e quandi caldi raggi (DCML)",
+      "bar": 39,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "dcml/monteverdi_madrigals:notes/5-04c.notes.tsv",
+      "label": "Il quinto libro de madrigali, SV 97c, movement 4: Dorinda, ah dirò mia, se mia non sei (DCML)",
+      "bar": 15,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.5.6.mxl",
+      "label": "Il quinto libro de madrigali, no. 6: Dorinda, ah, dirò mia, se mia non sei (music21)",
+      "bar": 15,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.5,
+    "works": 15,
+    "per_1000": 5.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "music21:monteverdi/madrigal.4.16.mxl",
+      "label": "Il quarto libro de madrigali, no. 16: Si, Ch'io Vorrei Morire (music21)",
+      "bar": 2,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "dcml/monteverdi_madrigals:notes/4-19.notes.tsv",
+      "label": "Il quarto libro de madrigali, SV 93, movement 19: Piagn’e sospira e quandi caldi raggi (DCML)",
+      "bar": 89,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "dcml/monteverdi_madrigals:notes/5-04c.notes.tsv",
+      "label": "Il quinto libro de madrigali, SV 97c, movement 4: Dorinda, ah dirò mia, se mia non sei (DCML)",
+      "bar": 16,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 5.8,
+    "works": 15,
+    "per_1000": 4.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "music21:monteverdi/madrigal.4.14.mxl",
+      "label": "Il quarto libro de madrigali, no. 14: Quell'augellin che canta (music21)",
+      "bar": 20,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "dcml/monteverdi_madrigals:notes/5-09.notes.tsv",
+      "label": "Il quinto libro de madrigali, SV 102, movement 9: Troppo ben può questo tiranno amore (DCML)",
+      "bar": 38,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "dcml/monteverdi_madrigals:notes/5-04a.notes.tsv",
+      "label": "Il quinto libro de madrigali, SV 97a, movement 4: Ecco, Silvio, colei ch’in odio hai tanto (DCML)",
+      "bar": 67,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 13,
+    "per_1000": 4.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/monteverdi_madrigals:notes/4-19.notes.tsv",
+      "label": "Il quarto libro de madrigali, SV 93, movement 19: Piagn’e sospira e quandi caldi raggi (DCML)",
+      "bar": 38,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.4.12.mxl",
+      "label": "Il quarto libro de madrigali, no. 12: Ohime`, se tanto amate (music21)",
+      "bar": 5,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "music21:monteverdi/madrigal.4.6.mxl",
+      "label": "Il quarto libro de madrigali, no. 6: Anima mia, perdona (music21)",
+      "bar": 23,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 157,
+   "composers": 6
+  }
+ }
+]

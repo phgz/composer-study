@@ -1,0 +1,308 @@
+[
+ {
+  "composer": "Fernando Sor",
+  "kind": "dance",
+  "forces": "plucked",
+  "period": "all",
+  "era": "Classical",
+  "works": 5,
+  "values": {
+   "steps": 0.3727843172554204,
+   "repeats": 0.1483910261304612,
+   "leaps": 0.2826908578073303,
+   "move": 4.033703239072611,
+   "rising": 0.48102940066781114,
+   "leap answered": 0.13214332861857614,
+   "range": 13.799999999999994,
+   "register": 72.3,
+   "even": 0.48484129503839196,
+   "long-short": 0.09012753325848981,
+   "rhythm variety": 2.1069371449111847,
+   "surprise, pitch": 2.4145296517775376,
+   "surprise, rhythm": 1.2160467957254517,
+   "density": 3.7689656529332884,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 6.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:SorF/O2/sor_op2_nr5",
+      "label": "Six Divertissements op. 2 n�5 Valse (O 2) (Mutopia)",
+      "bar": 3,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "mutopia:SorF/O1/sor_op1_2",
+      "label": "Divertissements pour la guitare, n°2 Waltz (Opus 1.2) (Mutopia)",
+      "bar": 3,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 192,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Fernando Sor",
+  "kind": "etude",
+  "forces": "plucked",
+  "period": "all",
+  "era": "Classical",
+  "works": 42,
+  "values": {
+   "steps": 0.3307928214378683,
+   "repeats": 0.1196077756641129,
+   "leaps": 0.3478791413619408,
+   "move": 5.228961980091633,
+   "rising": 0.5054964807442968,
+   "leap answered": 0.17958299062061073,
+   "range": 15.56547619047619,
+   "register": 62.107142857142854,
+   "even": 0.6865910095102793,
+   "long-short": 0.07527195627551565,
+   "rhythm variety": 1.3401594810520143,
+   "surprise, pitch": 2.471023032581434,
+   "surprise, rhythm": 0.9049521252057395,
+   "density": 3.1854990972337474,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 6,
+    "per_1000": 2.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n11",
+      "label": "12 Etudes, No. 11 (Op. 6 No. 11) (Mutopia)",
+      "bar": 5,
+      "notes": "F#4 F#4 F#4 F#4"
+     },
+     {
+      "work": "mutopia:SorF/O35/sorf_op35_no19",
+      "label": "Op. 35, Study No. 19 (Op. 35 No. 19) (Mutopia)",
+      "bar": 11,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n09",
+      "label": "12 Etudes, No. 9 (Op. 6 No. 9) (Mutopia)",
+      "bar": 21,
+      "notes": "A4 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n08",
+      "label": "12 Etudes, No. 8 (Op. 6 No. 8) (Mutopia)",
+      "bar": 27,
+      "notes": "G4 D4 E4 F4"
+     },
+     {
+      "work": "mutopia:SorF/O35/sorf_op35_no16",
+      "label": "Op. 35, Study No. 16 (Op. 35 No. 16) (Mutopia)",
+      "bar": 26,
+      "notes": "C5 G4 A4 Bb4"
+     },
+     {
+      "work": "mutopia:SorF/O35/sorf_op35_no2",
+      "label": "Op. 35, Study No. 2 (Op. 35 No. 2) (Mutopia)",
+      "bar": 23,
+      "notes": "D4 A3 B3 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:SorF/O35/sorf_op35_no19",
+      "label": "Op. 35, Study No. 19 (Op. 35 No. 19) (Mutopia)",
+      "bar": 11,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n06",
+      "label": "12 Etudes, No. 6 (Op. 6 No. 6) (Mutopia)",
+      "bar": 84,
+      "notes": "E4 E4 E4 E4"
+     },
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n12",
+      "label": "12 Etudes, No. 12 (Op. 6 No. 12) (Mutopia)",
+      "bar": 21,
+      "notes": "A4 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 6,
+    "per_1000": 2.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:SorF/O35/sorf_op35_no8",
+      "label": "Op. 35, Study No. 8 (Op. 35 No. 8) (Mutopia)",
+      "bar": 9,
+      "notes": "C#4 F#3 Bb3 C#4"
+     },
+     {
+      "work": "mutopia:SorF/O35/sorf_op35_no9",
+      "label": "Op. 35, Study No. 9 (Op. 35 No. 9) (Mutopia)",
+      "bar": 8,
+      "notes": "B3 E3 Ab3 B3"
+     },
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n11",
+      "label": "12 Etudes, No. 11 (Op. 6 No. 11) (Mutopia)",
+      "bar": 76,
+      "notes": "B3 E3 Ab3 B3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     9,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n12",
+      "label": "12 Etudes, No. 12 (Op. 6 No. 12) (Mutopia)",
+      "bar": 15,
+      "notes": "A3 F#4 F#4 F#4"
+     },
+     {
+      "work": "mutopia:SorF/O35/sorf_op35_no7",
+      "label": "Op. 35, Study No. 7 (Op. 35 No. 7) (Mutopia)",
+      "bar": 7,
+      "notes": "G3 E4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -5,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n08",
+      "label": "12 Etudes, No. 8 (Op. 6 No. 8) (Mutopia)",
+      "bar": 26,
+      "notes": "F#4 G4 D4 E4"
+     },
+     {
+      "work": "mutopia:SorF/O35/sorf_op35_no16",
+      "label": "Op. 35, Study No. 16 (Op. 35 No. 16) (Mutopia)",
+      "bar": 26,
+      "notes": "B4 C5 G4 A4"
+     },
+     {
+      "work": "mutopia:SorF/O6/sorf-op6n02",
+      "label": "12 Etudes, No. 2 (Op. 6 No. 2) (Mutopia)",
+      "bar": 1,
+      "notes": "Ab4 A4 E4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 286,
+   "composers": 24
+  }
+ }
+]

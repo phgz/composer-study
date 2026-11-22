@@ -1,0 +1,216 @@
+[
+ {
+  "composer": "Johann Baptist Schiedermayr",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 8,
+  "values": {
+   "steps": 0.45036862501797975,
+   "repeats": 0.2890396185521381,
+   "leaps": 0.14600563687934442,
+   "move": 2.986097527627362,
+   "rising": 0.47891698482550527,
+   "leap answered": 0.40104545938524266,
+   "range": 11.981249999999998,
+   "register": 84.3125,
+   "even": 0.42031000756210096,
+   "long-short": 0.10612562153098269,
+   "rhythm variety": 2.5942464735316824,
+   "surprise, pitch": 2.8592917281918604,
+   "surprise, rhythm": 2.0791869340238094,
+   "density": 14.327337421100612,
+   "lines": 15.375
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.42031000756210096,
+    "others": 0.5368089266223185,
+    "auc": 0.2356165158233155
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.5942464735316824,
+    "others": 2.2006048927491486,
+    "auc": 0.7519683796757045
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     0,
+     2
+    ],
+    "z": 6.6,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-003_schiedermayr-johann-baptist--messe-in-d-credo.krn",
+      "label": "Messe in D, Credo, movement 3 (PL-CZ III-608, kern)",
+      "bar": 18,
+      "notes": "C#6 C#6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-005_schiedermayr-johann-baptist--messe-in-d-et-resurrexit.krn",
+      "label": "Messe in D, Et resurrexit, movement 5 (PL-CZ III-608, kern)",
+      "bar": 13,
+      "notes": "F#6 F#6 G6 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-003_schiedermayr-johann-baptist--messe-in-d-credo.krn",
+      "label": "Messe in D, Credo, movement 3 (PL-CZ III-608, kern)",
+      "bar": 18,
+      "notes": "C#6 C#6 C#6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-005_schiedermayr-johann-baptist--messe-in-d-et-resurrexit.krn",
+      "label": "Messe in D, Et resurrexit, movement 5 (PL-CZ III-608, kern)",
+      "bar": 13,
+      "notes": "F#6 F#6 F#6 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 8.6,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-003_schiedermayr-johann-baptist--messe-in-d-credo.krn",
+      "label": "Messe in D, Credo, movement 3 (PL-CZ III-608, kern)",
+      "bar": 5,
+      "notes": "D6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-005_schiedermayr-johann-baptist--messe-in-d-et-resurrexit.krn",
+      "label": "Messe in D, Et resurrexit, movement 5 (PL-CZ III-608, kern)",
+      "bar": 17,
+      "notes": "B5 B5 B5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-002_schiedermayr-johann-baptist--messe-in-d-gloria.krn",
+      "label": "Messe in D, Gloria, movement 2 (PL-CZ III-608, kern)",
+      "bar": 26,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 9.7,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-005_schiedermayr-johann-baptist--messe-in-d-et-resurrexit.krn",
+      "label": "Messe in D, Et resurrexit, movement 5 (PL-CZ III-608, kern)",
+      "bar": 13,
+      "notes": "F#6 F#6 F#6 F#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-003_schiedermayr-johann-baptist--messe-in-d-credo.krn",
+      "label": "Messe in D, Credo, movement 3 (PL-CZ III-608, kern)",
+      "bar": 5,
+      "notes": "D6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-002_schiedermayr-johann-baptist--messe-in-d-gloria.krn",
+      "label": "Messe in D, Gloria, movement 2 (PL-CZ III-608, kern)",
+      "bar": 7,
+      "notes": "A5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 10.8,
+    "others_per_1000": 2.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-005_schiedermayr-johann-baptist--messe-in-d-et-resurrexit.krn",
+      "label": "Messe in D, Et resurrexit, movement 5 (PL-CZ III-608, kern)",
+      "bar": 22,
+      "notes": "E6 E6 E6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-002_schiedermayr-johann-baptist--messe-in-d-gloria.krn",
+      "label": "Messe in D, Gloria, movement 2 (PL-CZ III-608, kern)",
+      "bar": 4,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-608--001-003_schiedermayr-johann-baptist--messe-in-d-credo.krn",
+      "label": "Messe in D, Credo, movement 3 (PL-CZ III-608, kern)",
+      "bar": 27,
+      "notes": "D6 D6 D6 D6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 639,
+   "composers": 34
+  }
+ }
+]

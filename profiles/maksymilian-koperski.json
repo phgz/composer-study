@@ -1,0 +1,264 @@
+[
+ {
+  "composer": "Maksymilian Koperski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 17,
+  "values": {
+   "steps": 0.44805583255328246,
+   "repeats": 0.28289835372881933,
+   "leaps": 0.11964570975751265,
+   "move": 2.758250054030814,
+   "rising": 0.5007017091720599,
+   "leap answered": 0.2595474231684414,
+   "range": 11.326470588235296,
+   "register": 83.97058823529412,
+   "even": 0.42066146522314757,
+   "long-short": 0.15530631403508474,
+   "rhythm variety": 2.650339499828658,
+   "surprise, pitch": 2.9009365234395017,
+   "surprise, rhythm": 2.00774100856267,
+   "density": 13.192457003603744,
+   "lines": 15.764705882352942
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5007017091720599,
+    "others": 0.46200077353926905,
+    "auc": 0.769633355906474
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.2595474231684414,
+    "others": 0.397479281052833,
+    "auc": 0.2368610632592242
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-008_koperski-maksymilian--msza-b-benedictus.krn",
+      "label": "Msza B, Benedictus, movement 8 (PL-CZ III-349, kern)",
+      "bar": 93,
+      "notes": "F5 E5 F5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-007_koperski-maksymilian--msza-b-pleni.krn",
+      "label": "Msza B, Pleni, movement 7 (PL-CZ III-349, kern)",
+      "bar": 15,
+      "notes": "F5 E5 F5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-351--001-006_koperski-maksymilian--missa-solemnis-ex-b-sanctus.krn",
+      "label": "Missa Solemnis ex B, Sanctus, movement 6 (PL-CZ III-351, kern)",
+      "bar": 35,
+      "notes": "Eb6 D6 Eb6 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -1,
+     -2
+    ],
+    "z": 6.2,
+    "works": 3,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-008_koperski-maksymilian--msza-b-benedictus.krn",
+      "label": "Msza B, Benedictus, movement 8 (PL-CZ III-349, kern)",
+      "bar": 70,
+      "notes": "Eb6 Eb6 Eb6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-002_koperski-maksymilian--msza-b-gloria.krn",
+      "label": "Msza B, Gloria, movement 2 (PL-CZ III-349, kern)",
+      "bar": 8,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-005_koperski-maksymilian--msza-b-et-resurrexit.krn",
+      "label": "Msza B, Et resurrexit, movement 5 (PL-CZ III-349, kern)",
+      "bar": 33,
+      "notes": "G5 G5 G5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.1,
+    "works": 4,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-351--001-008_koperski-maksymilian--missa-solemnis-ex-b-agnus-dei.krn",
+      "label": "Missa Solemnis ex B, Agnus Dei, movement 8 (PL-CZ III-351, kern)",
+      "bar": 62,
+      "notes": "G5 G5 Ab5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-002_koperski-maksymilian--msza-b-gloria.krn",
+      "label": "Msza B, Gloria, movement 2 (PL-CZ III-349, kern)",
+      "bar": 23,
+      "notes": "A5 A5 Bb5 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-007_koperski-maksymilian--msza-b-pleni.krn",
+      "label": "Msza B, Pleni, movement 7 (PL-CZ III-349, kern)",
+      "bar": 6,
+      "notes": "D6 D6 Eb6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 5.8,
+    "works": 5,
+    "per_1000": 4.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-002_koperski-maksymilian--msza-b-gloria.krn",
+      "label": "Msza B, Gloria, movement 2 (PL-CZ III-349, kern)",
+      "bar": 14,
+      "notes": "F6 F6 F6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-351--001-002_koperski-maksymilian--missa-solemnis-ex-b-gloria.krn",
+      "label": "Missa Solemnis ex B, Gloria, movement 2 (PL-CZ III-351, kern)",
+      "bar": 18,
+      "notes": "D6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-351--001-008_koperski-maksymilian--missa-solemnis-ex-b-agnus-dei.krn",
+      "label": "Missa Solemnis ex B, Agnus Dei, movement 8 (PL-CZ III-351, kern)",
+      "bar": 64,
+      "notes": "Ab5 Ab5 Ab5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-351--001-001_koperski-maksymilian--missa-solemnis-ex-b-kyrie.krn",
+      "label": "Missa Solemnis ex B, Kyrie, movement 1 (PL-CZ III-351, kern)",
+      "bar": 22,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-007_koperski-maksymilian--msza-b-pleni.krn",
+      "label": "Msza B, Pleni, movement 7 (PL-CZ III-349, kern)",
+      "bar": 3,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-351--001-003_koperski-maksymilian--missa-solemnis-ex-b-credo.krn",
+      "label": "Missa Solemnis ex B, Credo, movement 3 (PL-CZ III-351, kern)",
+      "bar": 48,
+      "notes": "Ab5 Ab5 Ab5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.6,
+    "works": 6,
+    "per_1000": 5.6,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-351--001-008_koperski-maksymilian--missa-solemnis-ex-b-agnus-dei.krn",
+      "label": "Missa Solemnis ex B, Agnus Dei, movement 8 (PL-CZ III-351, kern)",
+      "bar": 31,
+      "notes": "Eb6 Eb6 Eb6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-349--001-005_koperski-maksymilian--msza-b-et-resurrexit.krn",
+      "label": "Msza B, Et resurrexit, movement 5 (PL-CZ III-349, kern)",
+      "bar": 4,
+      "notes": "D6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-351--001-002_koperski-maksymilian--missa-solemnis-ex-b-gloria.krn",
+      "label": "Missa Solemnis ex B, Gloria, movement 2 (PL-CZ III-351, kern)",
+      "bar": 28,
+      "notes": "D6 D6 D6 D6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 536,
+   "composers": 37
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Tadeusz Bogoimski",
+  "kind": "air",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.3079623628404116,
+   "repeats": 0.36614740273276863,
+   "leaps": 0.19544886008300644,
+   "move": 4.357956383873681,
+   "rising": 0.4640846437584935,
+   "leap answered": 0.1274074074074074,
+   "range": 16.566666666666663,
+   "register": 82.66666666666667,
+   "even": 0.25600213157478413,
+   "long-short": 0.15281476115538015,
+   "rhythm variety": 2.737543550835563,
+   "surprise, pitch": 2.7279002794430167,
+   "surprise, rhythm": 2.021928977075693,
+   "density": 13.265096932945198,
+   "lines": 11.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 157,
+   "composers": 40
+  }
+ }
+]

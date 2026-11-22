@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Josephine Lang",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 52,
+  "values": {
+   "steps": 0.48619173307301217,
+   "repeats": 0.18146080002331275,
+   "leaps": 0.18963065767059994,
+   "move": 3.1776751732577635,
+   "rising": 0.44580665247279266,
+   "leap answered": 0.30466858082012727,
+   "range": 13.33557692307692,
+   "register": 68.3173076923077,
+   "even": 0.31837837929670143,
+   "long-short": 0.19764566629397848,
+   "rhythm variety": 2.8282152670958207,
+   "surprise, pitch": 2.7772832544054937,
+   "surprise, rhythm": 1.9011610185826688,
+   "density": 6.13379180325887,
+   "lines": 3.0384615384615383
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Lang,_Josephine/_/Auf_der_Reise,_Op.22/lc6095279.mxl",
+      "label": "Auf der Reise, Op.22 (OpenScore)",
+      "bar": 6,
+      "notes": "Eb4 E4 F4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.12/5_Der_Herbst/lc6062682.mxl",
+      "label": "Lieder, Op.12, Der Herbst (OpenScore)",
+      "bar": 56,
+      "notes": "Ab4 A4 Bb4 B4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.25/5_Die_Wolken/lc5115660.mxl",
+      "label": "Lieder, Op.25, Die Wolken (OpenScore)",
+      "bar": 47,
+      "notes": "D5 Eb5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.2,
+    "works": 6,
+    "per_1000": 1.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Lang,_Josephine/Lieder_des_Leids,_Op.29/1_Leb’_wohl,_leb’_wohl_du_schöne_Welt/lc6070235.mxl",
+      "label": "Lieder des Leids, Op.29, Leb’ wohl, leb’ wohl du schöne Welt (OpenScore)",
+      "bar": 9,
+      "notes": "E4 F#4 Ab4 A4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.26/3_Du_denkst_an_mich_so_selten/lc6117742.mxl",
+      "label": "Lieder, Op.26, Du denkst an mich so selten (OpenScore)",
+      "bar": 11,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.10/6_Abschied/lc6073491.mxl",
+      "label": "Lieder, Op.10, Abschied (OpenScore)",
+      "bar": 58,
+      "notes": "Ab4 Bb4 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.25/4_Lied_(Immer_sich_rein_kindlich_erfreu’n)/lc4920211.mxl",
+      "label": "Lieder, Op.25, Lied (Immer sich rein kindlich erfreu’n) (OpenScore)",
+      "bar": 7,
+      "notes": "A4 F#4 E4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.10/6_Abschied/lc6073491.mxl",
+      "label": "Lieder, Op.10, Abschied (OpenScore)",
+      "bar": 16,
+      "notes": "F#4 Eb4 C#4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/_/Am_Bache,_Op.20/lc6093956.mxl",
+      "label": "Am Bache, Op.20 (OpenScore)",
+      "bar": 23,
+      "notes": "Ab4 F4 Eb4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -12,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.26/1_Wiegenlied/lc6117412.mxl",
+      "label": "Lieder, Op.26, Wiegenlied (OpenScore)",
+      "bar": 31,
+      "notes": "F4 Bb4 Bb3 Bb3"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/3_Lieder,_Op.23/1_In_Welschland/lc6009685.mxl",
+      "label": "Lieder, Op.23, In Welschland (OpenScore)",
+      "bar": 10,
+      "notes": "D5 G5 G4 G4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/3_Lieder,_Op.8/2_In_die_Ferne/lc6088768.mxl",
+      "label": "Lieder, Op.8, In die Ferne (OpenScore)",
+      "bar": 111,
+      "notes": "G4 C5 C4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 4.9,
+    "works": 6,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Lang,_Josephine/3_Lieder,_Op.23/3_Der_Himmel_mit_all’_seinen_Sonnen_wär’_mein/lc6067231.mxl",
+      "label": "Lieder, Op.23, Der Himmel mit all’ seinen Sonnen wär’ mein (OpenScore)",
+      "bar": 11,
+      "notes": "Ab4 G4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Deutsche_Lieder,_Op.11/6_Im_Herbst/lc6577737.mxl",
+      "label": "Deutsche Lieder, Op.11, Im Herbst (OpenScore)",
+      "bar": 14,
+      "notes": "B4 Bb4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/Lieder_des_Leids,_Op.29/2_Der_Pfad_den_Du_so_oft_gezogen/lc6079502.mxl",
+      "label": "Lieder des Leids, Op.29, Der Pfad den Du so oft gezogen (OpenScore)",
+      "bar": 12,
+      "notes": "D5 C#5 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -1
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Lang,_Josephine/3_Lieder,_Op.23/3_Der_Himmel_mit_all’_seinen_Sonnen_wär’_mein/lc6067231.mxl",
+      "label": "Lieder, Op.23, Der Himmel mit all’ seinen Sonnen wär’ mein (OpenScore)",
+      "bar": 29,
+      "notes": "A4 Bb4 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/6_Lieder,_Op.25/5_Die_Wolken/lc5115660.mxl",
+      "label": "Lieder, Op.25, Die Wolken (OpenScore)",
+      "bar": 46,
+      "notes": "B4 C5 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Lang,_Josephine/3_Lieder,_Op.36/2_Rausche,_rausche,_froher_Bach!/lc6114679.mxl",
+      "label": "Lieder, Op.36, Rausche, rausche, froher Bach! (OpenScore)",
+      "bar": 8,
+      "notes": "Ab4 A4 B4 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1047,
+   "composers": 97
+  }
+ }
+]

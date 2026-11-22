@@ -1,0 +1,270 @@
+[
+ {
+  "composer": "Jachet de Mantua",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.5918936464839257,
+   "repeats": 0.10616317519276855,
+   "leaps": 0.14566248525886247,
+   "move": 2.833209074199705,
+   "rising": 0.4593206300592748,
+   "leap answered": 0.4201910131212457,
+   "range": 12.6,
+   "register": 57.8,
+   "even": 0.3752283953285016,
+   "long-short": 0.1330275094156733,
+   "rhythm variety": 2.8492908609119802,
+   "surprise, pitch": 2.6277814060763385,
+   "surprise, rhythm": 2.3065088815397075,
+   "density": 1.1413333654096796,
+   "lines": 4.2
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5918936464839257,
+    "others": 0.6560920512439313,
+    "auc": 0.24563868134525144
+   },
+   {
+    "measure": "leaps",
+    "value": 0.14566248525886247,
+    "others": 0.0891960247753226,
+    "auc": 0.92225159335574
+   },
+   {
+    "measure": "move",
+    "value": 2.833209074199705,
+    "others": 2.3489282105820863,
+    "auc": 0.9814728891238271
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 7.9,
+    "works": 4,
+    "per_1000": 4.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-002_jachet-de-mantua--missa-quam-pulchra-es-et-in-terra.krn",
+      "label": "[Missa] Quam pulchra es, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 25,
+      "notes": "G3 E3 G3 F3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-003_jachet-de-mantua--missa-quam-pulchra-es-patrem.krn",
+      "label": "[Missa] Quam pulchra es, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 149,
+      "notes": "C4 A3 C4 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-001_jachet-de-mantua--missa-quam-pulchra-es-kyrie.krn",
+      "label": "[Missa] Quam pulchra es, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 49,
+      "notes": "C4 A3 C4 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 7.3,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-002_jachet-de-mantua--missa-quam-pulchra-es-et-in-terra.krn",
+      "label": "[Missa] Quam pulchra es, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 3,
+      "notes": "F3 C4 D4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-005_jachet-de-mantua--missa-quam-pulchra-es-agnus-dei.krn",
+      "label": "[Missa] Quam pulchra es, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 3,
+      "notes": "F3 C4 D4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-003_jachet-de-mantua--missa-quam-pulchra-es-patrem.krn",
+      "label": "[Missa] Quam pulchra es, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 106,
+      "notes": "F3 C4 D4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 4,
+    "per_1000": 3.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-002_jachet-de-mantua--missa-quam-pulchra-es-et-in-terra.krn",
+      "label": "[Missa] Quam pulchra es, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 99,
+      "notes": "C4 A3 F3 G3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-005_jachet-de-mantua--missa-quam-pulchra-es-agnus-dei.krn",
+      "label": "[Missa] Quam pulchra es, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 53,
+      "notes": "C4 A3 F3 G3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-003_jachet-de-mantua--missa-quam-pulchra-es-patrem.krn",
+      "label": "[Missa] Quam pulchra es, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 145,
+      "notes": "C4 A3 F3 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 4,
+    "per_1000": 5.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-003_jachet-de-mantua--missa-quam-pulchra-es-patrem.krn",
+      "label": "[Missa] Quam pulchra es, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 46,
+      "notes": "C4 A3 Bb3 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-002_jachet-de-mantua--missa-quam-pulchra-es-et-in-terra.krn",
+      "label": "[Missa] Quam pulchra es, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 61,
+      "notes": "C4 A3 Bb3 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-001_jachet-de-mantua--missa-quam-pulchra-es-kyrie.krn",
+      "label": "[Missa] Quam pulchra es, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 18,
+      "notes": "C4 A3 Bb3 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     2
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-001_jachet-de-mantua--missa-quam-pulchra-es-kyrie.krn",
+      "label": "[Missa] Quam pulchra es, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 40,
+      "notes": "F4 F4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-003_jachet-de-mantua--missa-quam-pulchra-es-patrem.krn",
+      "label": "[Missa] Quam pulchra es, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 26,
+      "notes": "C4 C4 D4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-005_jachet-de-mantua--missa-quam-pulchra-es-agnus-dei.krn",
+      "label": "[Missa] Quam pulchra es, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 30,
+      "notes": "Bb3 Bb3 C4 Bb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-005_jachet-de-mantua--missa-quam-pulchra-es-agnus-dei.krn",
+      "label": "[Missa] Quam pulchra es, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 61,
+      "notes": "A3 Bb3 C4 F3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-003_jachet-de-mantua--missa-quam-pulchra-es-patrem.krn",
+      "label": "[Missa] Quam pulchra es, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 38,
+      "notes": "A3 Bb3 C4 F3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--004-001_jachet-de-mantua--missa-quam-pulchra-es-kyrie.krn",
+      "label": "[Missa] Quam pulchra es, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 22,
+      "notes": "E3 F3 G3 C3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 692,
+   "composers": 38
+  }
+ }
+]

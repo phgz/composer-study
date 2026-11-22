@@ -1,0 +1,65 @@
+[
+ {
+  "composer": "Jan Engel",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.5643160877726608,
+   "repeats": 0.20777929903516382,
+   "leaps": 0.14154913893779147,
+   "move": 2.6619741985726035,
+   "rising": 0.43925973516305944,
+   "leap answered": 0.36772727272727274,
+   "range": 10.714285714285714,
+   "register": 80.71428571428571,
+   "even": 0.5081296977194233,
+   "long-short": 0.10635421660027013,
+   "rhythm variety": 2.469302187089813,
+   "surprise, pitch": 2.399602689522214,
+   "surprise, rhythm": 1.9337413230877611,
+   "density": 13.223971714158907,
+   "lines": 12.714285714285714
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     0,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.9,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-10--001-002_engel-jan--requiem-dies-irae.krn",
+      "label": "Requiem, Dies irae, movement 2 (PL-CZ I-10, kern)",
+      "bar": 17,
+      "notes": "Bb5 C6 C6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-10--001-004_engel-jan--requiem-sanctus-et-benedictus.krn",
+      "label": "Requiem, Sanctus et Benedictus, movement 4 (PL-CZ I-10, kern)",
+      "bar": 21,
+      "notes": "Ab5 Bb5 Bb5 Eb6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 640,
+   "composers": 34
+  }
+ }
+]

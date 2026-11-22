@@ -1,0 +1,782 @@
+[
+ {
+  "composer": "Gaspar van Weerbeke",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 42,
+  "values": {
+   "steps": 0.7163895938819993,
+   "repeats": 0.07336762006420415,
+   "leaps": 0.07863998165921157,
+   "move": 2.2796213039776636,
+   "rising": 0.44711926149394926,
+   "leap answered": 0.5807932483489537,
+   "range": 11.773809523809522,
+   "register": 66.66666666666667,
+   "even": 0.3326443616967192,
+   "long-short": 0.1402210671230377,
+   "rhythm variety": 2.8994147292671686,
+   "surprise, pitch": 2.5058939479535276,
+   "surprise, rhythm": 2.252734210479134,
+   "density": 0.9683590456939152,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7163895938819993,
+    "others": 0.6449429063961722,
+    "auc": 0.7717440444140825
+   },
+   {
+    "measure": "repeats",
+    "value": 0.07336762006420415,
+    "others": 0.13848797905214655,
+    "auc": 0.24351253798715145
+   },
+   {
+    "measure": "density",
+    "value": 0.9683590456939152,
+    "others": 1.4483088749954647,
+    "auc": 0.23565391322410703
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     0,
+     -2
+    ],
+    "z": 11.4,
+    "works": 41,
+    "per_1000": 6.1,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0201c-Missa_brevis-Credo.krn",
+      "label": "Missa brevis, Credo, movement 3 (kern)",
+      "bar": 25,
+      "notes": "G4 F4 E4 F4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0204a-Missa_Octavi_toni-Kyrie.krn",
+      "label": "Missa Octavi toni, Kyrie, movement 1 (kern)",
+      "bar": 9,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0103d-Missa_Princesse_damourettes-Sanctus.krn",
+      "label": "Missa Princesse d'amourettes, Sanctus, movement 4 (kern)",
+      "bar": 22,
+      "notes": "A4 G4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 11.2,
+    "works": 32,
+    "per_1000": 3.8,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0201c-Missa_brevis-Credo.krn",
+      "label": "Missa brevis, Credo, movement 3 (kern)",
+      "bar": 26,
+      "notes": "F4 E4 F4 F4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0204a-Missa_Octavi_toni-Kyrie.krn",
+      "label": "Missa Octavi toni, Kyrie, movement 1 (kern)",
+      "bar": 21,
+      "notes": "A4 Ab4 A4 A4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0206-Credo_cardinale.krn",
+      "label": "Credo Cardinale (kern)",
+      "bar": 49,
+      "notes": "A4 Ab4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 9.2,
+    "works": 22,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0104b-Missa_Se_mieulx_ne_vient-Gloria.krn",
+      "label": "Missa Se mieulx ne vient, Gloria, movement 2 (kern)",
+      "bar": 5,
+      "notes": "G4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0101b-Missa_Ave_regina_celorum-Gloria.krn",
+      "label": "Missa Ave regina celorum, Gloria, movement 2 (kern)",
+      "bar": 33,
+      "notes": "C4 A3 G3 F3"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0203c-Missa_Nas_tu_pas-Credo.krn",
+      "label": "Missa N'as tu pas, Credo, movement 3 (kern)",
+      "bar": 61,
+      "notes": "G4 E4 D4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     5,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     2
+    ],
+    "z": 7.2,
+    "works": 18,
+    "per_1000": 1.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0201c-Missa_brevis-Credo.krn",
+      "label": "Missa brevis, Credo, movement 3 (kern)",
+      "bar": 45,
+      "notes": "E4 D4 G4 F#4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0101e-Missa_Ave_regina_celorum-Agnus.krn",
+      "label": "Missa Ave regina celorum, Agnus Dei, movement 5 (kern)",
+      "bar": 9,
+      "notes": "A3 G3 C4 B3"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0101c-Missa_Ave_regina_celorum-Credo.krn",
+      "label": "Missa Ave regina celorum, Credo, movement 3 (kern)",
+      "bar": 81,
+      "notes": "A3 G3 C4 B3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.9,
+    "works": 21,
+    "per_1000": 1.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0206-Credo_cardinale.krn",
+      "label": "Credo Cardinale (kern)",
+      "bar": 256,
+      "notes": "C5 B4 A4 D5"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0101c-Missa_Ave_regina_celorum-Credo.krn",
+      "label": "Missa Ave regina celorum, Credo, movement 3 (kern)",
+      "bar": 81,
+      "notes": "Bb3 A3 G3 C4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0101a-Missa_Ave_regina_celorum-Kyrie.krn",
+      "label": "Missa Ave regina celorum, Kyrie, movement 1 (kern)",
+      "bar": 76,
+      "notes": "Eb4 D4 C4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 6.6,
+    "works": 10,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0103d-Missa_Princesse_damourettes-Sanctus.krn",
+      "label": "Missa Princesse d'amourettes, Sanctus, movement 4 (kern)",
+      "bar": 19,
+      "notes": "A4 Ab4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0205-Credo.krn",
+      "label": "Credo (kern)",
+      "bar": 5,
+      "notes": "G4 F#4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0101d-Missa_Ave_regina_celorum-Sanctus.krn",
+      "label": "Missa Ave regina celorum, Sanctus, movement 4 (kern)",
+      "bar": 20,
+      "notes": "C4 B3 C4 Bb3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 554,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Gaspar van Weerbeke",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 48,
+  "values": {
+   "steps": 0.6856879599328228,
+   "repeats": 0.14355739204993886,
+   "leaps": 0.056025050069428005,
+   "move": 2.097266804925073,
+   "rising": 0.4536705403132814,
+   "leap answered": 0.6554673114875321,
+   "range": 9.238541666666666,
+   "register": 67.4375,
+   "even": 0.3247976856370172,
+   "long-short": 0.12500456388385264,
+   "rhythm variety": 2.7818009592575024,
+   "surprise, pitch": 2.541581636412681,
+   "surprise, rhythm": 2.1474411173434027,
+   "density": 0.9272844543265051,
+   "lines": 4.041666666666667
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 2.097266804925073,
+    "others": 2.317894506133583,
+    "auc": 0.2096485593499998
+   },
+   {
+    "measure": "density",
+    "value": 0.9272844543265051,
+    "others": 1.480056033480417,
+    "auc": 0.24862551123780707
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     0,
+     -2
+    ],
+    "z": 11.7,
+    "works": 33,
+    "per_1000": 7.3,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0302b-Quam_pulchra_es-Alma_redemptoris_mater.krn",
+      "label": "Motet cycle Quam pulchra es, Alma redemptoris mater, movement 2 (kern)",
+      "bar": 5,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0502-Magnificat_octavi_toni.krn",
+      "label": "Magnificat Octavi toni (kern)",
+      "bar": 5,
+      "notes": "A4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0301d-Ave_mundi_domina-Anima_mea_liquefacta_est.krn",
+      "label": "Motet cycle Ave mundi domina, Anima mea liquefacta est, movement 4 (kern)",
+      "bar": 24,
+      "notes": "A4 G4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 8.6,
+    "works": 39,
+    "per_1000": 7.8,
+    "others_per_1000": 2.4,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0502-Magnificat_octavi_toni.krn",
+      "label": "Magnificat Octavi toni (kern)",
+      "bar": 12,
+      "notes": "C5 B4 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0501f-Sabato_sancto_Lectio_tertia.krn",
+      "label": "Lamentatio Ieremiae prophetae, Sabato sancto. Lectio tertia, movement 6 (kern)",
+      "bar": 56,
+      "notes": "G4 F#4 G4 G4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0415-Ave_verum_corpus.krn",
+      "label": "Ave verum corpus (kern)",
+      "bar": 20,
+      "notes": "F4 E4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     3
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 7.8,
+    "works": 16,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0302b-Quam_pulchra_es-Alma_redemptoris_mater.krn",
+      "label": "Motet cycle Quam pulchra es, Alma redemptoris mater, movement 2 (kern)",
+      "bar": 6,
+      "notes": "G4 F#4 G4 Bb4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0412-Adonay_sanctissime_domine_deus.krn",
+      "label": "Adonay sanctissime Domine Deus (kern)",
+      "bar": 13,
+      "notes": "G4 F#4 G4 Bb4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0414-Anima_Christi_sanctifica_me.krn",
+      "label": "Anima Christi sanctifica me (kern)",
+      "bar": 13,
+      "notes": "A4 Ab4 A4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.4,
+    "works": 25,
+    "per_1000": 5.4,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0420-Stabat_mater.krn",
+      "label": "Stabat mater (kern)",
+      "bar": 27,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0403-Ave_regina_celorum.krn",
+      "label": "Ave regina celorum (kern)",
+      "bar": 3,
+      "notes": "D4 C4 Bb3 A3"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0502-Magnificat_octavi_toni.krn",
+      "label": "Magnificat Octavi toni (kern)",
+      "bar": 26,
+      "notes": "E5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 7.0,
+    "works": 31,
+    "per_1000": 6.1,
+    "others_per_1000": 2.1,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0302h-Quam_pulchra_es-Tota_pulchra_es.krn",
+      "label": "Motet cycle Quam pulchra es, Tota pulchra es, movement 8 (kern)",
+      "bar": 15,
+      "notes": "F4 F4 E4 F4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0501b-In_coena_Domini_Lectio_secunda.krn",
+      "label": "Lamentatio Ieremiae prophetae, In coena Domini. Lectio secunda, movement 2 (kern)",
+      "bar": 64,
+      "notes": "D4 D4 C#4 D4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0418-Verbum_caro_factum_est.krn",
+      "label": "Verbum caro factum est (kern)",
+      "bar": 21,
+      "notes": "A4 A4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.6,
+    "works": 10,
+    "per_1000": 2.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0502-Magnificat_octavi_toni.krn",
+      "label": "Magnificat Octavi toni (kern)",
+      "bar": 111,
+      "notes": "G4 C5 B4 C5"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0408-Ave_stella_matutina.krn",
+      "label": "Ave stella matutina (kern)",
+      "bar": 24,
+      "notes": "G4 C5 B4 C5"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0303e-In_honorem_sancti_spiritus-Loquebantur_variis_linguis.krn",
+      "label": "In honorem sancti spiritus, Loquebantur variis linguis, movement 5 (kern)",
+      "bar": 31,
+      "notes": "G4 C5 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 574,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Gaspar van Weerbeke",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.5784705512201823,
+   "repeats": 0.23156937557331064,
+   "leaps": 0.062162428045359666,
+   "move": 2.1561128526645765,
+   "rising": 0.40964862369562416,
+   "leap answered": 0.5903030303030303,
+   "range": 8.8,
+   "register": 65.8,
+   "even": 0.39351274437918793,
+   "long-short": 0.15979549463872172,
+   "rhythm variety": 2.799399056434787,
+   "surprise, pitch": 2.3585948651185067,
+   "surprise, rhythm": 2.1374350201979206,
+   "density": 0.9358920150900364,
+   "lines": 3.4
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.23156937557331064,
+    "others": 0.1422822319364724,
+    "auc": 0.7620571670208315
+   },
+   {
+    "measure": "rising",
+    "value": 0.40964862369562416,
+    "others": 0.45152344987835374,
+    "auc": 0.17566590187158346
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.3585948651185067,
+    "others": 2.6158497859467738,
+    "auc": 0.24386361426220496
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     3,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 9.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0503-Bon_temps_Adieu_mes_amours.krn",
+      "label": "Bon temps / Adieu mes amours (kern)",
+      "bar": 8,
+      "notes": "F#4 E4 G4 G4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0503.2-Bon_temps_Adieu_mes_amours.krn",
+      "label": "Bon temps / Adieu mes amours (kern)",
+      "bar": 8,
+      "notes": "F#4 E4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 13.2,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0503-Bon_temps_Adieu_mes_amours.krn",
+      "label": "Bon temps / Adieu mes amours (kern)",
+      "bar": 31,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0503.2-Bon_temps_Adieu_mes_amours.krn",
+      "label": "Bon temps / Adieu mes amours (kern)",
+      "bar": 31,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0504-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 21,
+      "notes": "F4 F4 F4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 9.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0504-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 12,
+      "notes": "F4 D4 E4 F4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0504.2-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 12,
+      "notes": "F4 D4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 9.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0504-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 13,
+      "notes": "E4 F4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0504.2-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 13,
+      "notes": "E4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 9.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0504-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 53,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0504.2-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 53,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0503-Bon_temps_Adieu_mes_amours.krn",
+      "label": "Bon temps / Adieu mes amours (kern)",
+      "bar": 32,
+      "notes": "G4 G4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 9.9,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/jrp:Gas/Gas0504-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 20,
+      "notes": "E4 F4 F4 F4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0504.2-Que_fait_le_cocu_au_bois.krn",
+      "label": "Que fait le cocu au bois (kern)",
+      "bar": 20,
+      "notes": "E4 F4 F4 F4"
+     },
+     {
+      "work": "kern/jrp:Gas/Gas0503-Bon_temps_Adieu_mes_amours.krn",
+      "label": "Bon temps / Adieu mes amours (kern)",
+      "bar": 31,
+      "notes": "F#4 G4 G4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 277,
+   "composers": 19
+  }
+ }
+]

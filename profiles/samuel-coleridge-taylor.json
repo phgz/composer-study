@@ -1,0 +1,41 @@
+[
+ {
+  "composer": "Samuel Coleridge-Taylor",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.5452317191745815,
+   "repeats": 0.16206741342022635,
+   "leaps": 0.15603478664798137,
+   "move": 2.9502221519278025,
+   "rising": 0.4947859433794899,
+   "leap answered": 0.3913785866910867,
+   "range": 12.76875,
+   "register": 70.4375,
+   "even": 0.29924949219795627,
+   "long-short": 0.18749396316388972,
+   "rhythm variety": 2.9183924585501932,
+   "surprise, pitch": 2.3682628407277315,
+   "surprise, rhythm": 2.0027792394175226,
+   "density": 5.909909375262458,
+   "lines": 3.25
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5452317191745815,
+    "others": 0.43817878890633777,
+    "auc": 0.7753322259136213
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 301,
+   "composers": 37
+  }
+ }
+]

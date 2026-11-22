@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Stephen Foster",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4149224576103488,
+   "repeats": 0.34558096013478745,
+   "leaps": 0.1738003968994352,
+   "move": 3.273022124406348,
+   "rising": 0.4375177700788728,
+   "leap answered": 0.26160990712074306,
+   "range": 14.666666666666666,
+   "register": 68.0,
+   "even": 0.6014817935244514,
+   "long-short": 0.07055997753290616,
+   "rhythm variety": 1.9356022160443933,
+   "surprise, pitch": 2.259199854120867,
+   "surprise, rhythm": 1.7468697645208442,
+   "density": 5.732253086419753,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1096,
+   "composers": 97
+  }
+ }
+]

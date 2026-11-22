@@ -1,0 +1,720 @@
+[
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "air",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.609721452572444,
+   "repeats": 0.12525706700627928,
+   "leaps": 0.15751820224993382,
+   "move": 2.7298464941490477,
+   "rising": 0.4384898506536791,
+   "leap answered": 0.34005734189557724,
+   "range": 15.691666666666668,
+   "register": 73.5,
+   "even": 0.5495164658759016,
+   "long-short": 0.055960996273106835,
+   "rhythm variety": 2.084016786985209,
+   "surprise, pitch": 2.6128819987879006,
+   "surprise, rhythm": 1.4860139079216381,
+   "density": 4.686534439663621,
+   "lines": 4.5
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     5,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 7.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#37",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Deuxième air de furies (Mutopia)",
+      "bar": 1,
+      "notes": "D5 C5 F5 E5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#10",
+      "label": "Hippolyte et Aricie, Acte Premier, Scène III: Premier Air (Mutopia)",
+      "bar": 2,
+      "notes": "C5 Bb4 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 6.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#36",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Premier air infernal (Mutopia)",
+      "bar": 4,
+      "notes": "G5 C6 C6 C6"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#63",
+      "label": "Hippolyte et Aricie, Acte Troisième, Scène VII: Deuxième air des matelots (Mutopia)",
+      "bar": 24,
+      "notes": "D4 G4 G4 G4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#37",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Deuxième air de furies (Mutopia)",
+      "bar": 18,
+      "notes": "C5 F5 F5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 75,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "chorus",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.44502794237898224,
+   "repeats": 0.3192098056886491,
+   "leaps": 0.14608729161598483,
+   "move": 3.15569594132242,
+   "rising": 0.4901384553704764,
+   "leap answered": 0.23052600817288701,
+   "range": 14.712499999999999,
+   "register": 74.5,
+   "even": 0.5033287591654431,
+   "long-short": 0.06514498902379477,
+   "rhythm variety": 2.2736655342401786,
+   "surprise, pitch": 2.374760324012496,
+   "surprise, rhythm": 1.7131645502725277,
+   "density": 10.856063246296772,
+   "lines": 11.375
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 13,
+  "values": {
+   "steps": 0.600513952964591,
+   "repeats": 0.13925875266782253,
+   "leaps": 0.168076991880226,
+   "move": 2.888544238879833,
+   "rising": 0.47670631563054316,
+   "leap answered": 0.28605006105006103,
+   "range": 13.469230769230766,
+   "register": 74.6923076923077,
+   "even": 0.4902058523769247,
+   "long-short": 0.10454295481206576,
+   "rhythm variety": 2.289457927209874,
+   "surprise, pitch": 2.5747780593422176,
+   "surprise, rhythm": 1.7389892091747492,
+   "density": 3.6322956551563843,
+   "lines": 5.076923076923077
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 5.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#77",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Premier menuet (Mutopia)",
+      "bar": 2,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#78",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Deuxième menuet (Mutopia)",
+      "bar": 21,
+      "notes": "C5 C5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 5.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#96",
+      "label": "Hippolyte et Aricie, Acte Cinquième, Scène VI: Marche, choeur (Mutopia)",
+      "bar": 6,
+      "notes": "F#5 Ab5 A5 A5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#64",
+      "label": "Hippolyte et Aricie, Acte Troisième, Scène VII: Premier rigaudon (Mutopia)",
+      "bar": 3,
+      "notes": "A4 B4 C5 C5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#8",
+      "label": "Hippolyte et Aricie, Acte Premier, Scène III: Marche (Mutopia)",
+      "bar": 32,
+      "notes": "A4 B4 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 5.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#8",
+      "label": "Hippolyte et Aricie, Acte Premier, Scène III: Marche (Mutopia)",
+      "bar": 11,
+      "notes": "E5 E5 D5 D5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#100",
+      "label": "Hippolyte et Aricie, Acte Cinquième, Scène VI: Deuxième menuet (Mutopia)",
+      "bar": 15,
+      "notes": "A5 A5 G5 G5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#77",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Premier menuet (Mutopia)",
+      "bar": 18,
+      "notes": "E5 E5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 5,
+    "per_1000": 9.3,
+    "others_per_1000": 2.2,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#102",
+      "label": "Hippolyte et Aricie, Acte Cinquième, Scène VI: Première gavotte (Mutopia)",
+      "bar": 1,
+      "notes": "B4 C#5 D5 E5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#103",
+      "label": "Hippolyte et Aricie, Acte Cinquième, Scène VI: Deuxième gavotte (Mutopia)",
+      "bar": 1,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#78",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Deuxième menuet (Mutopia)",
+      "bar": 27,
+      "notes": "B4 C#5 D5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 277,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "gavotte",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.6751810393927771,
+   "repeats": 0.09189274796294358,
+   "leaps": 0.14131703494476797,
+   "move": 2.5230731743889643,
+   "rising": 0.5007216224321488,
+   "leap answered": 0.3643849206349206,
+   "range": 12.95,
+   "register": 75.5,
+   "even": 0.4359679655944465,
+   "long-short": 0.10091780020476818,
+   "rhythm variety": 2.502217610909168,
+   "surprise, pitch": 2.589578238181054,
+   "surprise, rhythm": 1.9875951173894915,
+   "density": 4.121153846153846,
+   "lines": 4.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 27,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "march",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.6130140021269054,
+   "repeats": 0.11717919177596597,
+   "leaps": 0.17521859860569536,
+   "move": 2.9614677743048836,
+   "rising": 0.4337702880043765,
+   "leap answered": 0.2518518518518518,
+   "range": 15.533333333333331,
+   "register": 73.66666666666667,
+   "even": 0.40443126052882156,
+   "long-short": 0.15885153446129055,
+   "rhythm variety": 2.554515960470382,
+   "surprise, pitch": 2.533466892925069,
+   "surprise, rhythm": 1.830319964158382,
+   "density": 4.004781731969897,
+   "lines": 7.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 88,
+   "composers": 30
+  }
+ },
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "minuet",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.47737943003288275,
+   "repeats": 0.2273592589209597,
+   "leaps": 0.17681692242114236,
+   "move": 3.2203921568627454,
+   "rising": 0.44642156862745097,
+   "leap answered": 0.2482638888888889,
+   "range": 12.674999999999997,
+   "register": 76.25,
+   "even": 0.5783896643430125,
+   "long-short": 0.07481722212292076,
+   "rhythm variety": 2.0456715250464543,
+   "surprise, pitch": 2.5627875393741206,
+   "surprise, rhythm": 1.6592527828391939,
+   "density": 3.437251984126984,
+   "lines": 4.25
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 38,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "opera",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 101,
+  "values": {
+   "steps": 0.4788371680978105,
+   "repeats": 0.238155429144627,
+   "leaps": 0.16929359916236644,
+   "move": 3.0986639766235657,
+   "rising": 0.49272713228298093,
+   "leap answered": 0.21749110032352084,
+   "range": 14.388118811881187,
+   "register": 71.72277227722772,
+   "even": 0.4408974659141842,
+   "long-short": 0.10564873393913947,
+   "rhythm variety": 2.3830865156610375,
+   "surprise, pitch": 2.7256813734592957,
+   "surprise, rhythm": 1.8123710590494249,
+   "density": 5.276517738615936,
+   "lines": 5.01980198019802
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.7256813734592957,
+    "others": 2.4105206384943854,
+    "auc": 0.7551888521380934
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 16,
+    "per_1000": 3.8,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#21",
+      "label": "Hippolyte et Aricie, Acte Premier, Scène IV: Bruit de tonnerre (Mutopia)",
+      "bar": 1,
+      "notes": "G3 G3 G3 G3"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#79",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Rondeau, choeur (Mutopia)",
+      "bar": 1,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#73",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Choeur (Mutopia)",
+      "bar": 3,
+      "notes": "E5 E5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 34,
+    "per_1000": 6.4,
+    "others_per_1000": 2.3,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#35",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Pluton, chœur: Que l’Averne, que le Ténare (Mutopia)",
+      "bar": 6,
+      "notes": "Bb4 Ab4 G4 F4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#21",
+      "label": "Hippolyte et Aricie, Acte Premier, Scène IV: Bruit de tonnerre (Mutopia)",
+      "bar": 26,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#38",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Chœur: Pluton commande, vengeons notre Roi. (Mutopia)",
+      "bar": 1,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 17,
+    "per_1000": 2.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#79",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Rondeau, choeur (Mutopia)",
+      "bar": 2,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#77",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Premier menuet (Mutopia)",
+      "bar": 2,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#73",
+      "label": "Hippolyte et Aricie, Acte Quatrième, Scène III: Choeur (Mutopia)",
+      "bar": 23,
+      "notes": "D6 D6 D6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 38,
+    "per_1000": 7.2,
+    "others_per_1000": 3.3,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#35",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Pluton, chœur: Que l’Averne, que le Ténare (Mutopia)",
+      "bar": 6,
+      "notes": "Ab4 G4 F4 Eb4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#21",
+      "label": "Hippolyte et Aricie, Acte Premier, Scène IV: Bruit de tonnerre (Mutopia)",
+      "bar": 26,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#37",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Deuxième air de furies (Mutopia)",
+      "bar": 1,
+      "notes": "F5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 17,
+    "per_1000": 3.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#38",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Chœur: Pluton commande, vengeons notre Roi. (Mutopia)",
+      "bar": 1,
+      "notes": "E5 D5 C5 Bb4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#37",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Deuxième air de furies (Mutopia)",
+      "bar": 1,
+      "notes": "E5 D5 C5 Bb4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#47",
+      "label": "Hippolyte et Aricie, Acte Second, Scène VI: Entr'acte (Mutopia)",
+      "bar": 1,
+      "notes": "F#5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 36,
+    "per_1000": 7.1,
+    "others_per_1000": 3.2,
+    "at": [
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#35",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Pluton, chœur: Que l’Averne, que le Ténare (Mutopia)",
+      "bar": 6,
+      "notes": "C5 Bb4 Ab4 G4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#38",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Chœur: Pluton commande, vengeons notre Roi. (Mutopia)",
+      "bar": 1,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#37",
+      "label": "Hippolyte et Aricie, Acte Second, Scène III: Deuxième air de furies (Mutopia)",
+      "bar": 1,
+      "notes": "D5 C5 Bb4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 48,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "opera",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5408827079859005,
+   "repeats": 0.23939757841782772,
+   "leaps": 0.11837838821357809,
+   "move": 2.499995677283259,
+   "rising": 0.4662828094200642,
+   "leap answered": 0.1738927738927739,
+   "range": 16.2,
+   "register": 75.66666666666667,
+   "even": 0.3184270921844021,
+   "long-short": 0.3446241732060445,
+   "rhythm variety": 2.631593633353205,
+   "surprise, pitch": 2.794851201242119,
+   "surprise, rhythm": 1.7101437849395866,
+   "density": 4.851868012090088,
+   "lines": 4.666666666666667
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 48,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Jean-Philippe Rameau",
+  "kind": "rondo",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.43679295806620105,
+   "repeats": 0.31706243587743743,
+   "leaps": 0.11363981234765981,
+   "move": 3.1770893935076896,
+   "rising": 0.422250641080859,
+   "leap answered": 0.12709030100334448,
+   "range": 12.333333333333334,
+   "register": 76.0,
+   "even": 0.5401551724137931,
+   "long-short": 0.08893589743589743,
+   "rhythm variety": 1.8435136123410512,
+   "surprise, pitch": 1.870353097852668,
+   "surprise, rhythm": 0.9373637806260217,
+   "density": 6.339282623745241,
+   "lines": 8.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 109,
+   "composers": 42
+  }
+ }
+]

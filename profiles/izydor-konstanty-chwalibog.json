@@ -1,0 +1,59 @@
+[
+ {
+  "composer": "Izydor Konstanty Chwalibóg",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.6060748113800455,
+   "repeats": 0.20987640765428484,
+   "leaps": 0.08476923801992343,
+   "move": 2.2726443926443927,
+   "rising": 0.4246505346505347,
+   "leap answered": 0.3916083916083916,
+   "range": 10.666666666666664,
+   "register": 71.66666666666667,
+   "even": 0.5457580187190118,
+   "long-short": 0.06647405583575797,
+   "rhythm variety": 2.048902547028774,
+   "surprise, pitch": 2.7631439279551944,
+   "surprise, rhythm": 1.671833854711308,
+   "density": 3.546723187804808,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6060748113800455,
+    "others": 0.46654680791710434,
+    "auc": 0.9186554456718765
+   },
+   {
+    "measure": "leaps",
+    "value": 0.08476923801992343,
+    "others": 0.1444389045421279,
+    "auc": 0.17612258712851023
+   },
+   {
+    "measure": "move",
+    "value": 2.2726443926443927,
+    "others": 2.9836912679740726,
+    "auc": 0.12061344857754441
+   },
+   {
+    "measure": "even",
+    "value": 0.5457580187190118,
+    "others": 0.45457208869004856,
+    "auc": 0.7553732469001752
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 547,
+   "composers": 37
+  }
+ }
+]

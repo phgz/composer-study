@@ -1,0 +1,78 @@
+[
+ {
+  "composer": "Josef Renner",
+  "kind": "mass",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 6,
+  "values": {
+   "steps": 0.5331526576037914,
+   "repeats": 0.19967809992395102,
+   "leaps": 0.1266862738687656,
+   "move": 2.564321674247401,
+   "rising": 0.528424055609577,
+   "leap answered": 0.3184816156736447,
+   "range": 7.916666666666667,
+   "register": 74.33333333333333,
+   "even": 0.4927289906612311,
+   "long-short": 0.06931101728367993,
+   "rhythm variety": 2.309969813407327,
+   "surprise, pitch": 2.675102225134616,
+   "surprise, rhythm": 1.8925009935261468,
+   "density": 2.8126189996185076,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.528424055609577,
+    "others": 0.46406734668375493,
+    "auc": 0.8397988505747126
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 6.8,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-471--001-003-pc1_renner-josef--missa-tertia-credo-post-correcturam-pc1.krn",
+      "label": "Missa tertia, Credo [post correcturam], movement 3 (PL-Kk Kk.I.471, kern)",
+      "bar": 5,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-471--001-002_renner-josef--missa-tertia-gloria.krn",
+      "label": "Missa tertia, Gloria, movement 2 (PL-Kk Kk.I.471, kern)",
+      "bar": 34,
+      "notes": "D5 E5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-471--001-001_renner-josef--missa-tertia-kyrie.krn",
+      "label": "Missa tertia, Kyrie, movement 1 (PL-Kk Kk.I.471, kern)",
+      "bar": 37,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 116,
+   "composers": 9
+  }
+ }
+]

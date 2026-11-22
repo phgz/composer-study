@@ -1,0 +1,78 @@
+[
+ {
+  "composer": "Chiquinha Gonzaga",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.40856970840368406,
+   "repeats": 0.2539013701327239,
+   "leaps": 0.18246952677011175,
+   "move": 3.2258500967900345,
+   "rising": 0.45766671295406725,
+   "leap answered": 0.3606191357661946,
+   "range": 12.424999999999999,
+   "register": 67.70833333333333,
+   "even": 0.41385182936332904,
+   "long-short": 0.09117774087829589,
+   "rhythm variety": 2.511898454149905,
+   "surprise, pitch": 2.685148694086888,
+   "surprise, rhythm": 1.8504493695869473,
+   "density": 7.916328142312712,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "density",
+    "value": 7.916328142312712,
+    "others": 5.5481236662848135,
+    "auc": 0.76492964119263
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 4.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Gonzaga,_Chiquinha/_/Dona_Adelaide/lc6610193.mxl",
+      "label": "Dona Adelaide (OpenScore)",
+      "bar": 13,
+      "notes": "B4 B4 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:Gonzaga,_Chiquinha/_/Trigueira/lc6611874.mxl",
+      "label": "Trigueira (OpenScore)",
+      "bar": 11,
+      "notes": "A4 A4 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Gonzaga,_Chiquinha/_/Espanha_e_Brasil/lc6610246.mxl",
+      "label": "Espanha e Brasil (OpenScore)",
+      "bar": 16,
+      "notes": "F#4 F#4 F#4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1087,
+   "composers": 97
+  }
+ }
+]

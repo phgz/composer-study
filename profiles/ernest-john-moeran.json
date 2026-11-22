@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Ernest John Moeran",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.5780640375268541,
+   "repeats": 0.07158725177329593,
+   "leaps": 0.1249375508578261,
+   "move": 2.8977397341915485,
+   "rising": 0.49369896894928184,
+   "leap answered": 0.2076190476190476,
+   "range": 24.7,
+   "register": 75.33333333333333,
+   "even": 0.5764677928639631,
+   "long-short": 0.08929743681409986,
+   "rhythm variety": 2.3746197531553963,
+   "surprise, pitch": 2.42236519019952,
+   "surprise, rhythm": 1.6936886995688731,
+   "density": 5.7858073899130735,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 115,
+   "composers": 19
+  }
+ }
+]

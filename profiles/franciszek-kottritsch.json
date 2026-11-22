@@ -1,0 +1,90 @@
+[
+ {
+  "composer": "Franciszek Kottritsch",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Classical",
+  "works": 8,
+  "values": {
+   "steps": 0.5552974530295187,
+   "repeats": 0.30311298523494407,
+   "leaps": 0.045487832968087394,
+   "move": 2.0351050827791584,
+   "rising": 0.4625351280494868,
+   "leap answered": 0.6465574866310161,
+   "range": 6.0875,
+   "register": 72.375,
+   "even": 0.5481831480558159,
+   "long-short": 0.08621858540092492,
+   "rhythm variety": 2.1031396907304494,
+   "surprise, pitch": 2.213655547230141,
+   "surprise, rhythm": 1.6911536507936527,
+   "density": 2.220020457908915,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 2.0351050827791584,
+    "others": 2.479081542807524,
+    "auc": 0.2222222222222222
+   },
+   {
+    "measure": "range",
+    "value": 6.0875,
+    "others": 8.587037037037035,
+    "auc": 0.16898148148148148
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.213655547230141,
+    "others": 2.5056959814293185,
+    "auc": 0.20833333333333334
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 3.2,
+    "works": 5,
+    "per_1000": 11.0,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-389--001-007_kottritsch-franciszek--missa-no-1-agnus.krn",
+      "label": "[Missa] No. 1., Agnus, movement 7 (PL-Kk Kk.I.389, kern)",
+      "bar": 11,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-389--001-006_kottritsch-franciszek--missa-no-1-benedictus.krn",
+      "label": "[Missa] No. 1., Benedictus, movement 6 (PL-Kk Kk.I.389, kern)",
+      "bar": 13,
+      "notes": "B4 A4 Ab4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-389--001-008_kottritsch-franciszek--missa-no-1-dona.krn",
+      "label": "[Missa] No. 1., Dona, movement 8 (PL-Kk Kk.I.389, kern)",
+      "bar": 14,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 27,
+   "composers": 3
+  }
+ }
+]

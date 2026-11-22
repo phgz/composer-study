@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Heinrich Isaac",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.7150496977924442,
+   "repeats": 0.11556127606615459,
+   "leaps": 0.07561377805304277,
+   "move": 2.166172982273552,
+   "rising": 0.4799212777153954,
+   "leap answered": 0.516607314340589,
+   "range": 11.0,
+   "register": 70.5,
+   "even": 0.4147996352693961,
+   "long-short": 0.10472608405468718,
+   "rhythm variety": 2.77785421821231,
+   "surprise, pitch": 2.3650887744644447,
+   "surprise, rhythm": 2.1046843082742557,
+   "density": 1.1165263868877329,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 592,
+   "composers": 27
+  }
+ }
+]

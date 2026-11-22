@@ -1,0 +1,4183 @@
+[
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "ballade",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.3862387392077626,
+   "repeats": 0.1169022870594784,
+   "leaps": 0.3174537539438077,
+   "move": 4.602766800951282,
+   "rising": 0.4660108082297521,
+   "leap answered": 0.14705312757243366,
+   "range": 32.0,
+   "register": 74.0,
+   "even": 0.6836560597851586,
+   "long-short": 0.04434311752955984,
+   "rhythm variety": 1.7504540275342595,
+   "surprise, pitch": 2.509975657471922,
+   "surprise, rhythm": 1.3971520207894659,
+   "density": 6.225173617291658,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 104,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "concerto",
+  "forces": "keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.46110390902420456,
+   "repeats": 0.05668341657144671,
+   "leaps": 0.30977621442673065,
+   "move": 4.1749448685937285,
+   "rising": 0.4885317131206229,
+   "leap answered": 0.17947701242040812,
+   "range": 30.5,
+   "register": 77.5,
+   "even": 0.6802448372343042,
+   "long-short": 0.051577293210252916,
+   "rhythm variety": 1.7001967729572984,
+   "surprise, pitch": 2.977565092732114,
+   "surprise, rhythm": 1.747360879794451,
+   "density": 6.1916093537054016,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.977565092732114,
+    "others": 2.590387583301135,
+    "auc": 0.859722222198075
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.747360879794451,
+    "others": 1.129991055590697,
+    "auc": 0.8069444444095653
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.1,
+    "works": 5,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:011-1a-Sm-003.krn",
+      "label": "Concerto e-minor, cz.3 Rondo, Op. 11 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 60,
+      "notes": "B5 C#6 Eb6 E6"
+     },
+     {
+      "work": "kern/chopin-first-editions:021-1a-BH-003.krn",
+      "label": "Koncert f-moll cz. 3, Op. 21 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 186,
+      "notes": "Eb6 F6 G6 Ab6"
+     },
+     {
+      "work": "kern/chopin-first-editions:021-1a-BH-001.krn",
+      "label": "SECOND CONCERTO pour le Piano Avec Accompagnemt de l’Orchestre ou avec Quintuor, Op. 21 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 27,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 37,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 47,
+  "values": {
+   "steps": 0.5566367274734926,
+   "repeats": 0.11557323996555503,
+   "leaps": 0.17665415330187945,
+   "move": 3.2689049929588023,
+   "rising": 0.47497651389369244,
+   "leap answered": 0.351793269053532,
+   "range": 20.531914893617014,
+   "register": 72.8936170212766,
+   "even": 0.4573395754568375,
+   "long-short": 0.14450456924142588,
+   "rhythm variety": 2.472290619511869,
+   "surprise, pitch": 1.943012194963351,
+   "surprise, rhythm": 1.2186917872437129,
+   "density": 4.58986502726744,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.5,
+    "works": 12,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI140.notes.tsv",
+      "label": "Mazurka, BI140 (DCML)",
+      "bar": 81,
+      "notes": "B4 C#5 B4 A4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI105-2op30-2.notes.tsv",
+      "label": "Mazurkas, Op. 30, movement 2 (DCML)",
+      "bar": 19,
+      "notes": "B4 C#5 B4 A4"
+     },
+     {
+      "work": "kern/chopin-first-editions:018-1-BH.krn",
+      "label": "GRANDE VALSE BRILLANTE, Op. 18 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 9,
+      "notes": "Bb5 C6 Bb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 10,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+      "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+      "bar": 3,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:069-1-MEIf-001.krn",
+      "label": "Valse No. 1, Op. 69 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 18,
+      "notes": "C#5 Eb5 C#5 C5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI140.notes.tsv",
+      "label": "Mazurka, BI140 (DCML)",
+      "bar": 11,
+      "notes": "C5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.8,
+    "works": 10,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:070-1-MEIf-001.krn",
+      "label": "Valse No. 3, Op. 70 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 33,
+      "notes": "Ab5 Ab5 F#5 F#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:034_1-1-BH.krn",
+      "label": "No. 1 Grande Valse Brillante, Op. 34 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 61,
+      "notes": "C7 C7 Bb6 Bb6"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI105-4op30-4.notes.tsv",
+      "label": "Mazurkas, Op. 30, movement 4 (DCML)",
+      "bar": 74,
+      "notes": "Bb5 Bb5 Ab5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     1
+    ],
+    "z": 6.7,
+    "works": 8,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+      "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+      "bar": 3,
+      "notes": "E5 D5 C#5 B4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI89-4op24-4.notes.tsv",
+      "label": "Mazurkas, Op. 24, movement 4 (DCML)",
+      "bar": 63,
+      "notes": "Ab4 F#4 F4 Eb4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI89-3op24-3.notes.tsv",
+      "label": "Mazurkas, Op. 24, movement 3 (DCML)",
+      "bar": 5,
+      "notes": "Bb4 Ab4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 6,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:018-1-BH.krn",
+      "label": "GRANDE VALSE BRILLANTE, Op. 18 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 27,
+      "notes": "F5 G5 F5 Eb5"
+     },
+     {
+      "work": "kern/chopin-first-editions:070-1-MEIf-001.krn",
+      "label": "Valse No. 3, Op. 70 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 2,
+      "notes": "Eb6 F6 Eb6 C#6"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI93-1op67-1.notes.tsv",
+      "label": "Mazurkas, Op. posth. 67, movement 1 (DCML)",
+      "bar": 8,
+      "notes": "E5 F#5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.6,
+    "works": 8,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:044-1-ME.krn",
+      "label": "Polonaise, Op. 44 (Mechetti, Vienna; first edition, kern)",
+      "bar": 21,
+      "notes": "Ab5 A5 B5 A5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI105-2op30-2.notes.tsv",
+      "label": "Mazurkas, Op. 30, movement 2 (DCML)",
+      "bar": 18,
+      "notes": "Ab4 A4 B4 A4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI126-3op41-1.notes.tsv",
+      "label": "Mazurkas, Op. 41, movement 1 (DCML)",
+      "bar": 16,
+      "notes": "G5 Ab5 Bb5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 347,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 24,
+  "values": {
+   "steps": 0.5017923852730806,
+   "repeats": 0.08521855079944629,
+   "leaps": 0.23462740360499013,
+   "move": 3.63003911353692,
+   "rising": 0.493824249976724,
+   "leap answered": 0.3294170302672054,
+   "range": 21.399999999999995,
+   "register": 74.54166666666667,
+   "even": 0.44985773278356556,
+   "long-short": 0.21480934209841118,
+   "rhythm variety": 2.282723910297886,
+   "surprise, pitch": 1.7755297635568208,
+   "surprise, rhythm": 1.1301687320055451,
+   "density": 4.933364303543236,
+   "lines": 2.0416666666666665
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.21480934209841118,
+    "others": 0.09804030187633554,
+    "auc": 0.7975581435625451
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 1.7755297635568208,
+    "others": 2.2144292944595803,
+    "auc": 0.2460180416047749
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:022-1-Sm.krn",
+      "label": "Polonaise, Op. 22 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 53,
+      "notes": "C7 B6 G6 A6"
+     },
+     {
+      "work": "kern/chopin-first-editions:071_1-1-MEIf.krn",
+      "label": "1re. POLONAISE, Op. 71 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 34,
+      "notes": "A6 Ab6 E6 F#6"
+     },
+     {
+      "work": "kern/chopin-first-editions:014-1-KI.krn",
+      "label": "KRAKOWIAK, Op. 14 (Kistner, Leipzig; first edition, kern)",
+      "bar": 259,
+      "notes": "Bb5 A5 F5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     1
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-3op06-3.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 3 (DCML)",
+      "bar": 11,
+      "notes": "Ab5 F#5 F5 F#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-4op07-4.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 4 (DCML)",
+      "bar": 1,
+      "notes": "Bb4 Ab4 G4 Ab4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-1op06-1.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 1: Mazurka in F sharp minor, op. 6 no. 1 (DCML)",
+      "bar": 25,
+      "notes": "Ab4 F#4 F4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -5,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:022-1-Sm.krn",
+      "label": "Polonaise, Op. 22 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 55,
+      "notes": "E5 D5 A4 F#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:071_1-1-MEIf.krn",
+      "label": "1re. POLONAISE, Op. 71 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 36,
+      "notes": "C5 Bb4 F4 D5"
+     },
+     {
+      "work": "kern/chopin-first-editions:014-1-KI.krn",
+      "label": "KRAKOWIAK, Op. 14 (Kistner, Leipzig; first edition, kern)",
+      "bar": 666,
+      "notes": "Ab5 F#5 C#5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:071_1-1-MEIf.krn",
+      "label": "1re. POLONAISE, Op. 71 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 24,
+      "notes": "A4 D5 C#5 A4"
+     },
+     {
+      "work": "kern/chopin-first-editions:014-1-KI.krn",
+      "label": "KRAKOWIAK, Op. 14 (Kistner, Leipzig; first edition, kern)",
+      "bar": 550,
+      "notes": "D6 G6 F#6 D6"
+     },
+     {
+      "work": "kern/chopin-first-editions:022-1-Sm.krn",
+      "label": "Polonaise, Op. 22 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 383,
+      "notes": "Eb6 Ab6 G6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -2,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:071_1-1-MEIf.krn",
+      "label": "1re. POLONAISE, Op. 71 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 31,
+      "notes": "B5 F#6 E6 B5"
+     },
+     {
+      "work": "kern/chopin-first-editions:014-1-KI.krn",
+      "label": "KRAKOWIAK, Op. 14 (Kistner, Leipzig; first edition, kern)",
+      "bar": 395,
+      "notes": "G5 D6 C6 G5"
+     },
+     {
+      "work": "kern/chopin-first-editions:022-1-Sm.krn",
+      "label": "Polonaise, Op. 22 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 383,
+      "notes": "Bb5 F6 Eb6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     1,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-1op06-1.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 1: Mazurka in F sharp minor, op. 6 no. 1 (DCML)",
+      "bar": 1,
+      "notes": "F#4 F4 F#4 Ab4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-3op06-3.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 3 (DCML)",
+      "bar": 11,
+      "notes": "F#5 F5 F#5 Ab5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-4op07-4.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 4 (DCML)",
+      "bar": 1,
+      "notes": "Ab4 G4 Ab4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 347,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 16,
+  "values": {
+   "steps": 0.5847279444957185,
+   "repeats": 0.06674576154541252,
+   "leaps": 0.1977864243314028,
+   "move": 3.122535654868418,
+   "rising": 0.4767752545977378,
+   "leap answered": 0.3903150257279422,
+   "range": 18.293749999999996,
+   "register": 71.5,
+   "even": 0.5916646461299486,
+   "long-short": 0.12298314648426112,
+   "rhythm variety": 2.0948559754900824,
+   "surprise, pitch": 2.200084436952223,
+   "surprise, rhythm": 1.126868670179444,
+   "density": 3.646884399325862,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 4,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI157-3op59-3.notes.tsv",
+      "label": "Mazurkas, Op. 59, movement 3 (DCML)",
+      "bar": 2,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI163op67-4.notes.tsv",
+      "label": "Mazurkas, Op. posth. 67, movement 4 (DCML)",
+      "bar": 18,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "kern/chopin-first-editions:064-1a-BH-001.krn",
+      "label": "Valse No. 1, Op. 64 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 31,
+      "notes": "Ab5 Bb5 Ab5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI157-2op59-2.notes.tsv",
+      "label": "Mazurkas, Op. 59, movement 2 (DCML)",
+      "bar": 21,
+      "notes": "C5 G4 Ab4 F4"
+     },
+     {
+      "work": "kern/chopin-first-editions:064-1a-BH-003.krn",
+      "label": "Valse No. 3, Op. 64 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 17,
+      "notes": "C5 G4 Ab4 F4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+      "bar": 52,
+      "notes": "G5 D5 Eb5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 5,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:064-1a-BH-003.krn",
+      "label": "Valse No. 3, Op. 64 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 147,
+      "notes": "E5 C5 Eb5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:061-1-BH.krn",
+      "label": "Polonaise Fantaisie, Op. 61 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 119,
+      "notes": "Eb5 B4 D5 C5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI163op67-4.notes.tsv",
+      "label": "Mazurkas, Op. posth. 67, movement 4 (DCML)",
+      "bar": 13,
+      "notes": "C5 Ab4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     5,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 5,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+      "bar": 45,
+      "notes": "Ab5 G5 C6 Bb5"
+     },
+     {
+      "work": "kern/chopin-first-editions:061-1-BH.krn",
+      "label": "Polonaise Fantaisie, Op. 61 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 52,
+      "notes": "Eb5 D5 G5 F5"
+     },
+     {
+      "work": "kern/chopin-first-editions:064-1a-BH-003.krn",
+      "label": "Valse No. 3, Op. 64 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 50,
+      "notes": "Ab4 G4 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.8,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-3op56-3.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 3 (DCML)",
+      "bar": 17,
+      "notes": "Bb4 A4 G4 A4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-2op56-2.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 2 (DCML)",
+      "bar": 39,
+      "notes": "D5 C#5 B4 C#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+      "bar": 188,
+      "notes": "E5 Eb5 C#5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -5,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 4,
+    "per_1000": 1.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+      "bar": 47,
+      "notes": "F5 G5 D5 Eb5"
+     },
+     {
+      "work": "kern/chopin-first-editions:064-1a-BH-003.krn",
+      "label": "Valse No. 3, Op. 64 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 51,
+      "notes": "F5 G5 D5 Eb5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI157-2op59-2.notes.tsv",
+      "label": "Mazurkas, Op. 59, movement 2 (DCML)",
+      "bar": 20,
+      "notes": "F5 G5 D5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 347,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "ecossaise",
+  "forces": "keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5639396077314001,
+   "repeats": 0.0030303030303030303,
+   "leaps": 0.33803437359226,
+   "move": 4.402012184950154,
+   "rising": 0.4834652226234281,
+   "leap answered": 0.42250449355712516,
+   "range": 24.899999999999995,
+   "register": 79.66666666666667,
+   "even": 0.5723135934559139,
+   "long-short": 0.2789998343670651,
+   "rhythm variety": 1.551671719545525,
+   "surprise, pitch": 1.2167491942851394,
+   "surprise, rhythm": 0.6099473559607681,
+   "density": 7.942564589493799,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 104,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "etude",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 16,
+  "values": {
+   "steps": 0.4265952162959413,
+   "repeats": 0.06800899500020557,
+   "leaps": 0.35523142323690143,
+   "move": 4.187289189546954,
+   "rising": 0.49035574227337203,
+   "leap answered": 0.19448158364558474,
+   "range": 26.21562499999999,
+   "register": 75.21875,
+   "even": 0.8168912515905955,
+   "long-short": 0.03319621069864193,
+   "rhythm variety": 0.8454313802413567,
+   "surprise, pitch": 2.0491718949950397,
+   "surprise, rhythm": 0.4777578427409679,
+   "density": 8.373152102940493,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -5,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 5,
+    "per_1000": 1.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-007.krn",
+      "label": "Etude No. 7, Op.10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 16,
+      "notes": "E6 B5 E6 B5"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-006.krn",
+      "label": "6.me ETUDE, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 33,
+      "notes": "F5 C5 F5 C5"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-011.krn",
+      "label": "11me. Étude, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 48,
+      "notes": "C#5 Ab4 C#5 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -8,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-011.krn",
+      "label": "11me. Étude, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 5,
+      "notes": "C6 E5 B5 E5"
+     },
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-007.krn",
+      "label": "Etude No. 7, Op.10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 3,
+      "notes": "F5 A4 E5 A4"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-005.krn",
+      "label": "5me. ÉTUDE, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 111,
+      "notes": "C6 E5 B5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 1.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-007.krn",
+      "label": "Etude No. 7, Op.10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 16,
+      "notes": "B5 E6 B5 E6"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-006.krn",
+      "label": "6.me ETUDE, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 33,
+      "notes": "C5 F5 C5 F5"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-012.krn",
+      "label": "12.me ĖTUDE, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 78,
+      "notes": "C3 F3 C3 F3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -6,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-011.krn",
+      "label": "11me. Étude, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 23,
+      "notes": "C#7 G6 C7 G6"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-006.krn",
+      "label": "6.me ETUDE, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 33,
+      "notes": "F#5 C5 F5 C5"
+     },
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-007.krn",
+      "label": "Etude No. 7, Op.10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 15,
+      "notes": "F6 B5 E6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-002.krn",
+      "label": "2me ÉTUDE, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 3,
+      "notes": "A5 Bb5 C#6 C6"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-004.krn",
+      "label": "4me ÉTUDE, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 4,
+      "notes": "Ab5 A5 C6 B5"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-008.krn",
+      "label": "8me. Étude, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 16,
+      "notes": "D5 Eb5 F#5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-007.krn",
+      "label": "Etude No. 7, Op.10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 4,
+      "notes": "E5 A4 D5 A4"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-011.krn",
+      "label": "11me. Étude, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 38,
+      "notes": "Ab6 C#6 F#6 C#6"
+     },
+     {
+      "work": "kern/chopin-first-editions:025-1b-LE-005.krn",
+      "label": "5me. ÉTUDE, Op. 25 (Lemoine, Paris; first edition, kern)",
+      "bar": 112,
+      "notes": "B5 E5 A5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 202,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "etude",
+  "forces": "keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.3512161540804842,
+   "repeats": 0.05390886188740264,
+   "leaps": 0.46171464938379037,
+   "move": 5.523372207299284,
+   "rising": 0.5056319788900814,
+   "leap answered": 0.1968673975155773,
+   "range": 28.625,
+   "register": 76.4375,
+   "even": 0.7603336374788802,
+   "long-short": 0.016319495736980626,
+   "rhythm variety": 0.9899780791407302,
+   "surprise, pitch": 1.8295443903132549,
+   "surprise, rhythm": 0.5432920056525355,
+   "density": 7.068347562234759,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 1.8295443903132549,
+    "others": 2.535488664505022,
+    "auc": 0.1882017074159565
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     12,
+     -10,
+     12
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-010.krn",
+      "label": "Etude No. 10, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 1,
+      "notes": "Ab4 Ab5 Bb4 Bb5"
+     },
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-005.krn",
+      "label": "Etude No. 5, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 7,
+      "notes": "Ab5 Ab6 Bb5 Bb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     12,
+     -7,
+     12
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-010.krn",
+      "label": "Etude No. 10, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 73,
+      "notes": "Ab4 Ab5 C#5 C#6"
+     },
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-005.krn",
+      "label": "Etude No. 5, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 7,
+      "notes": "Eb5 Eb6 Ab5 Ab6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -5,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-008.krn",
+      "label": "Etude No. 8, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 76,
+      "notes": "E4 D4 A3 G3"
+     },
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-005.krn",
+      "label": "Etude No. 5, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 19,
+      "notes": "Bb5 Ab5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     7,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-001.krn",
+      "label": "Etude No. 1, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 13,
+      "notes": "D4 C4 G4 C5"
+     },
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-005.krn",
+      "label": "Etude No. 5, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 19,
+      "notes": "Eb5 C#5 Ab5 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     5,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-005.krn",
+      "label": "Etude No. 5, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 19,
+      "notes": "C#5 Ab5 C#6 Eb6"
+     },
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-001.krn",
+      "label": "Etude No. 1, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 13,
+      "notes": "C4 G4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -5,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-008.krn",
+      "label": "Etude No. 8, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 41,
+      "notes": "B5 A5 E5 B5"
+     },
+     {
+      "work": "kern/chopin-first-editions:010-1b-Sm-005.krn",
+      "label": "Etude No. 5, Op. 10 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 69,
+      "notes": "Ab5 F#5 C#5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 202,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "impromptu",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.5359789777175796,
+   "repeats": 0.02411065547819273,
+   "leaps": 0.2943389974951588,
+   "move": 3.895402386402293,
+   "rising": 0.48961511397041596,
+   "leap answered": 0.27711088225358455,
+   "range": 26.0,
+   "register": 72.5,
+   "even": 0.7587677805482984,
+   "long-short": 0.044642684161305124,
+   "rhythm variety": 1.3933170376895232,
+   "surprise, pitch": 2.4422753740376293,
+   "surprise, rhythm": 0.9450675288022994,
+   "density": 5.059216676470971,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 104,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "mazurka",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 30,
+  "values": {
+   "steps": 0.592933187228502,
+   "repeats": 0.08210198279968388,
+   "leaps": 0.1581318601756029,
+   "move": 3.0067596955595386,
+   "rising": 0.4709701791739066,
+   "leap answered": 0.4014997556530654,
+   "range": 17.093333333333327,
+   "register": 72.33333333333333,
+   "even": 0.4139931597880942,
+   "long-short": 0.17153277850043536,
+   "rhythm variety": 2.5749359473181253,
+   "surprise, pitch": 1.9084022093054762,
+   "surprise, rhythm": 1.279436799657661,
+   "density": 3.8250874889956474,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 9,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+      "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+      "bar": 3,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI140.notes.tsv",
+      "label": "Mazurka, BI140 (DCML)",
+      "bar": 11,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI89-1op24-1.notes.tsv",
+      "label": "Mazurkas, Op. 24, movement 1 (DCML)",
+      "bar": 20,
+      "notes": "Eb5 F5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 9,
+    "per_1000": 2.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI145-2op50-2.notes.tsv",
+      "label": "Mazurkas, Op. 50, movement 2 (DCML)",
+      "bar": 10,
+      "notes": "C5 Bb4 A4 Bb4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI105-2op30-2.notes.tsv",
+      "label": "Mazurkas, Op. 30, movement 2 (DCML)",
+      "bar": 18,
+      "notes": "B4 A4 Ab4 A4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI126-3op41-1.notes.tsv",
+      "label": "Mazurkas, Op. 41, movement 1 (DCML)",
+      "bar": 17,
+      "notes": "Bb5 Ab5 G5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     1,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 6,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI89-4op24-4.notes.tsv",
+      "label": "Mazurkas, Op. 24, movement 4 (DCML)",
+      "bar": 63,
+      "notes": "F#4 Ab4 F#4 F4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI89-3op24-3.notes.tsv",
+      "label": "Mazurkas, Op. 24, movement 3 (DCML)",
+      "bar": 5,
+      "notes": "Ab4 Bb4 Ab4 G4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI126-4op41-3.notes.tsv",
+      "label": "Mazurkas, Op. 41, movement 3 (DCML)",
+      "bar": 7,
+      "notes": "B4 C#5 B4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI115-2op33-2.notes.tsv",
+      "label": "Mazurkas, Op. 33, movement 2 (DCML)",
+      "bar": 7,
+      "notes": "C#5 D5 C#5 B4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI115-4op33-4.notes.tsv",
+      "label": "Mazurkas, Op. 33, movement 4 (DCML)",
+      "bar": 17,
+      "notes": "E3 F3 E3 D3"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI140.notes.tsv",
+      "label": "Mazurka, BI140 (DCML)",
+      "bar": 31,
+      "notes": "E5 F5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 8,
+    "per_1000": 2.5,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI126-3op41-1.notes.tsv",
+      "label": "Mazurkas, Op. 41, movement 1 (DCML)",
+      "bar": 16,
+      "notes": "E5 Eb5 E5 F#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI145-2op50-2.notes.tsv",
+      "label": "Mazurkas, Op. 50, movement 2 (DCML)",
+      "bar": 11,
+      "notes": "Bb4 A4 Bb4 C5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI105-2op30-2.notes.tsv",
+      "label": "Mazurkas, Op. 30, movement 2 (DCML)",
+      "bar": 18,
+      "notes": "A4 Ab4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI105-2op30-2.notes.tsv",
+      "label": "Mazurkas, Op. 30, movement 2 (DCML)",
+      "bar": 17,
+      "notes": "F#4 Ab4 A4 Ab4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI126-1op41-4.notes.tsv",
+      "label": "Mazurkas, Op. 41, movement 4 (DCML)",
+      "bar": 18,
+      "notes": "Bb4 C5 C#5 C5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI145-2op50-2.notes.tsv",
+      "label": "Mazurkas, Op. 50, movement 2 (DCML)",
+      "bar": 13,
+      "notes": "Bb4 C5 C#5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 81,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "mazurka",
+  "forces": "keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 14,
+  "values": {
+   "steps": 0.5140563659014336,
+   "repeats": 0.09231559387396128,
+   "leaps": 0.18927586540593094,
+   "move": 3.251154210917595,
+   "rising": 0.5127660865461479,
+   "leap answered": 0.3259044126653035,
+   "range": 18.635714285714283,
+   "register": 72.85714285714286,
+   "even": 0.37542885099423556,
+   "long-short": 0.23160602114742504,
+   "rhythm variety": 2.530832679947889,
+   "surprise, pitch": 1.7477915903972427,
+   "surprise, rhythm": 1.2117210103614677,
+   "density": 3.989125944711776,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     1
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-3op06-3.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 3 (DCML)",
+      "bar": 11,
+      "notes": "Ab5 F#5 F5 F#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-4op07-4.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 4 (DCML)",
+      "bar": 1,
+      "notes": "Bb4 Ab4 G4 Ab4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-1op06-1.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 1: Mazurka in F sharp minor, op. 6 no. 1 (DCML)",
+      "bar": 25,
+      "notes": "Ab4 F#4 F4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI16-1.notes.tsv",
+      "label": "Mazurkas, BI16-1, movement 1 (DCML)",
+      "bar": 1,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-3op06-3.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 3 (DCML)",
+      "bar": 42,
+      "notes": "Ab5 Bb5 B5 Bb5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-2op06-2.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 2 (DCML)",
+      "bar": 20,
+      "notes": "Bb4 C5 C#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI38op68-1.notes.tsv",
+      "label": "Mazurkas, Op. posth. 68, movement 1 (DCML)",
+      "bar": 4,
+      "notes": "G4 B4 C5 D5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-1op07-1.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 1 (DCML)",
+      "bar": 25,
+      "notes": "C5 E5 F5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     1,
+     0
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-5op07-5.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 5 (DCML)",
+      "bar": 5,
+      "notes": "E5 D5 E5 D5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI60-1op06-1.notes.tsv",
+      "label": "Mazurkas, Op. 6, movement 1: Mazurka in F sharp minor, op. 6 no. 1 (DCML)",
+      "bar": 24,
+      "notes": "Ab4 F#4 Ab4 F#4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-1op07-1.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 1 (DCML)",
+      "bar": 51,
+      "notes": "C5 Bb4 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-3op07-3.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 3 (DCML)",
+      "bar": 11,
+      "notes": "Bb4 C5 C#5 Eb5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI16-1.notes.tsv",
+      "label": "Mazurkas, BI16-1, movement 1 (DCML)",
+      "bar": 9,
+      "notes": "C#5 Eb5 E5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-4op07-4.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 4 (DCML)",
+      "bar": 1,
+      "notes": "Ab4 Bb4 Ab4 G4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI61-3op07-3.notes.tsv",
+      "label": "Mazurkas, Op. 7, movement 3 (DCML)",
+      "bar": 12,
+      "notes": "C#5 Eb5 C#5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 81,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "mazurka",
+  "forces": "keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.5860804571891703,
+   "repeats": 0.0666837924907181,
+   "leaps": 0.1960012476092318,
+   "move": 3.102971967001862,
+   "rising": 0.4838935848284869,
+   "leap answered": 0.41716862884663514,
+   "range": 16.64166666666666,
+   "register": 71.0,
+   "even": 0.5396719612669023,
+   "long-short": 0.13970376456947634,
+   "rhythm variety": 2.282287495139873,
+   "surprise, pitch": 2.2012863528519993,
+   "surprise, rhythm": 1.2149220642977083,
+   "density": 3.507335019190096,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.5396719612669023,
+    "others": 0.39140803660637397,
+    "auc": 0.8127134277184572
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.282287495139873,
+    "others": 2.6836245096818194,
+    "auc": 0.19886743886243888
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 5,
+    "per_1000": 3.6,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI157-1op59-1.notes.tsv",
+      "label": "Mazurkas, Op. 59, movement 1 (DCML)",
+      "bar": 56,
+      "notes": "E5 Eb5 D5 C#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI163op67-4.notes.tsv",
+      "label": "Mazurkas, Op. posth. 67, movement 4 (DCML)",
+      "bar": 14,
+      "notes": "G4 F#4 F4 E4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI168op68-4.notes.tsv",
+      "label": "Mazurkas, Op. posth. 68, movement 4 (DCML)",
+      "bar": 1,
+      "notes": "C#5 C5 B4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 5,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI162-2op63-2.notes.tsv",
+      "label": "Mazurkas, Op. 63, movement 2 (DCML)",
+      "bar": 6,
+      "notes": "Bb4 Ab4 G4 F#4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-3op56-3.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 3 (DCML)",
+      "bar": 193,
+      "notes": "G5 F5 E5 Eb5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI157-2op59-2.notes.tsv",
+      "label": "Mazurkas, Op. 59, movement 2 (DCML)",
+      "bar": 104,
+      "notes": "G5 F5 E5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 6,
+    "per_1000": 3.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+      "bar": 172,
+      "notes": "E5 Eb5 C#5 Eb5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI162-2op63-2.notes.tsv",
+      "label": "Mazurkas, Op. 63, movement 2 (DCML)",
+      "bar": 2,
+      "notes": "Ab4 G4 F4 G4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI157-3op59-3.notes.tsv",
+      "label": "Mazurkas, Op. 59, movement 3 (DCML)",
+      "bar": 15,
+      "notes": "D5 C#5 B4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI157-3op59-3.notes.tsv",
+      "label": "Mazurkas, Op. 59, movement 3 (DCML)",
+      "bar": 2,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI163op67-4.notes.tsv",
+      "label": "Mazurkas, Op. posth. 67, movement 4 (DCML)",
+      "bar": 18,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI167op67-2.notes.tsv",
+      "label": "Mazurkas, Op. posth. 67, movement 2 (DCML)",
+      "bar": 21,
+      "notes": "F5 G5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-1op56-1.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 1 (DCML)",
+      "bar": 46,
+      "notes": "D6 Eb6 C6 Bb5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI162-1op63-1.notes.tsv",
+      "label": "Mazurkas, Op. 63, movement 1 (DCML)",
+      "bar": 17,
+      "notes": "F5 F#5 Eb5 C#5"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-2op56-2.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 2 (DCML)",
+      "bar": 59,
+      "notes": "B4 C5 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI153-3op56-3.notes.tsv",
+      "label": "Mazurkas, Op. 56, movement 3 (DCML)",
+      "bar": 78,
+      "notes": "Eb4 Eb4 D4 C4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI157-3op59-3.notes.tsv",
+      "label": "Mazurkas, Op. 59, movement 3 (DCML)",
+      "bar": 148,
+      "notes": "F#4 F#4 F4 Eb4"
+     },
+     {
+      "work": "dcml/chopin_mazurkas:notes/BI162-2op63-2.notes.tsv",
+      "label": "Mazurkas, Op. 63, movement 2 (DCML)",
+      "bar": 9,
+      "notes": "C#5 C#5 C5 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 81,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "nocturne",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 9,
+  "values": {
+   "steps": 0.5594854058881183,
+   "repeats": 0.14630762098600764,
+   "leaps": 0.1766970429472801,
+   "move": 3.1088013397100784,
+   "rising": 0.48194971022489486,
+   "leap answered": 0.31889985024328166,
+   "range": 20.38888888888889,
+   "register": 73.44444444444444,
+   "even": 0.4792222550762927,
+   "long-short": 0.0803359187589177,
+   "rhythm variety": 2.5496043206774814,
+   "surprise, pitch": 2.4163130623139346,
+   "surprise, rhythm": 1.7796269196228063,
+   "density": 5.625904812922087,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 2.5496043206774814,
+    "others": 1.9618108138102093,
+    "auc": 0.7925194141820593
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7796269196228063,
+    "others": 1.1554349592554363,
+    "auc": 0.8272346359416773
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -5
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:037-1-BH-002.krn",
+      "label": "Nocturne II, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 36,
+      "notes": "C5 B4 A4 E4"
+     },
+     {
+      "work": "kern/chopin-first-editions:037-1-BH-001.krn",
+      "label": "Nocturne 1, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 14,
+      "notes": "Eb5 D5 C5 G4"
+     },
+     {
+      "work": "kern/chopin-first-editions:032-1-Sm-001.krn",
+      "label": "1e. Nocturne, Op. 32 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 5,
+      "notes": "F#5 F5 Eb5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:032-1-Sm-002.krn",
+      "label": "[Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 14,
+      "notes": "C5 C#5 C5 C5"
+     },
+     {
+      "work": "kern/chopin-first-editions:037-1-BH-001.krn",
+      "label": "Nocturne 1, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 10,
+      "notes": "D5 Eb5 D5 D5"
+     },
+     {
+      "work": "kern/chopin-first-editions:048-1-BH-002.krn",
+      "label": "14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 41,
+      "notes": "C#5 D5 C#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:048-1-BH-002.krn",
+      "label": "14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 8,
+      "notes": "D5 C#5 C5 C#5"
+     },
+     {
+      "work": "mutopia:ChopinFF/O9/chopin_nocturne_op9_n3",
+      "label": "Nocturne No. 3 (Opus 9, No. 3) (Mutopia)",
+      "bar": 10,
+      "notes": "D5 C#5 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -1,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:032-1-Sm-001.krn",
+      "label": "1e. Nocturne, Op. 32 (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 7,
+      "notes": "B4 C#5 B4 Bb4"
+     },
+     {
+      "work": "kern/chopin-first-editions:032-1-Sm-002.krn",
+      "label": "[Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 9,
+      "notes": "C#5 Eb5 C#5 C5"
+     },
+     {
+      "work": "kern/chopin-first-editions:027-1-BH-002.krn",
+      "label": "Nocturne II, Op. 27 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 21,
+      "notes": "A4 B4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:037-1-BH-002.krn",
+      "label": "Nocturne II, Op. 37 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 3,
+      "notes": "A4 B4 C5 E4"
+     },
+     {
+      "work": "kern/chopin-first-editions:048-1-BH-001.krn",
+      "label": "13e Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 20,
+      "notes": "C5 D5 Eb5 G4"
+     },
+     {
+      "work": "mutopia:ChopinFF/O9/chopin_nocturne_op9_n3",
+      "label": "Nocturne No. 3 (Opus 9, No. 3) (Mutopia)",
+      "bar": 27,
+      "notes": "C#5 Eb5 E5 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:048-1-BH-002.krn",
+      "label": "14. Nocturne, Op. 48 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 5,
+      "notes": "F5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:032-1-Sm-002.krn",
+      "label": "[Nocturne No. 2.], [Op. 32] (M. Schlesinger, Paris; first edition, kern)",
+      "bar": 12,
+      "notes": "C#5 C5 Bb4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 104,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "nocturne",
+  "forces": "keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.5587040780807139,
+   "repeats": 0.10406642725256281,
+   "leaps": 0.1637145147395383,
+   "move": 3.026770815626695,
+   "rising": 0.47631961769069686,
+   "leap answered": 0.36000231095124713,
+   "range": 20.635714285714275,
+   "register": 74.0,
+   "even": 0.4697719255509177,
+   "long-short": 0.07068682738581492,
+   "rhythm variety": 2.4530090860271776,
+   "surprise, pitch": 2.3970543143183276,
+   "surprise, rhythm": 1.7962291728784072,
+   "density": 5.740395590566284,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 2.4530090860271776,
+    "others": 1.9618108138102093,
+    "auc": 0.7617515450217136
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7962291728784072,
+    "others": 1.1554349592554363,
+    "auc": 0.8831441379580115
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-003.krn",
+      "label": "3. Nocturne, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 17,
+      "notes": "Eb5 F5 Eb5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-001.krn",
+      "label": "Nocturne 1er, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 51,
+      "notes": "Eb5 F5 Eb5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-002.krn",
+      "label": "2d Nocturne, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 1,
+      "notes": "F5 G5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -5,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:015-1a-BH-002.krn",
+      "label": "Nocturne 2me, Op. 15. (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 60,
+      "notes": "Bb3 F#3 C#3 Bb3"
+     },
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-002.krn",
+      "label": "2d Nocturne, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 33,
+      "notes": "G5 Eb5 Bb4 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-003.krn",
+      "label": "3. Nocturne, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 12,
+      "notes": "Eb5 C#5 Eb5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-001.krn",
+      "label": "Nocturne 1er, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 52,
+      "notes": "Bb5 Ab5 Bb5 Ab5"
+     },
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-002.krn",
+      "label": "2d Nocturne, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 26,
+      "notes": "F5 Eb5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:015-1a-BH-002.krn",
+      "label": "Nocturne 2me, Op. 15. (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 7,
+      "notes": "Bb4 B4 Bb4 Ab4"
+     },
+     {
+      "work": "kern/chopin-first-editions:015-1a-BH-001.krn",
+      "label": "1er Nocturne, Op. 15 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 12,
+      "notes": "A5 Bb5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -8,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-002.krn",
+      "label": "2d Nocturne, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 6,
+      "notes": "G5 B4 C5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-003.krn",
+      "label": "3. Nocturne, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 47,
+      "notes": "F5 A4 Bb4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:015-1a-BH-001.krn",
+      "label": "1er Nocturne, Op. 15 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 1,
+      "notes": "F5 E5 D5 E5"
+     },
+     {
+      "work": "kern/chopin-first-editions:009-1-KI-003.krn",
+      "label": "3. Nocturne, Op. 9 (Kistner, Leipzig; first edition, kern)",
+      "bar": 12,
+      "notes": "E5 Eb5 C#5 Eb5"
+     },
+     {
+      "work": "kern/chopin-first-editions:072-1-MEIf-001-nocturne.krn",
+      "label": "Nocturne, Op. 72 (J. Meissonnier Fils, Paris; first edition, kern)",
+      "bar": 35,
+      "notes": "B4 Bb4 Ab4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 104,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "nocturne",
+  "forces": "keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.5412631409335312,
+   "repeats": 0.09276651117711408,
+   "leaps": 0.2086206650565378,
+   "move": 3.3063559367908155,
+   "rising": 0.49647088104482673,
+   "leap answered": 0.3702580685743041,
+   "range": 25.0875,
+   "register": 72.5,
+   "even": 0.5358194213488209,
+   "long-short": 0.07772370276616426,
+   "rhythm variety": 2.393149001814803,
+   "surprise, pitch": 2.68920442929785,
+   "surprise, rhythm": 1.9062809994294119,
+   "density": 4.272101247062832,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 104,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "polonaise",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.47094366817943983,
+   "repeats": 0.22083584235075418,
+   "leaps": 0.1944823763177085,
+   "move": 3.8166686819050315,
+   "rising": 0.5029677157980744,
+   "leap answered": 0.21893147794383397,
+   "range": 31.333333333333332,
+   "register": 73.66666666666667,
+   "even": 0.5422642231058967,
+   "long-short": 0.08910651332438334,
+   "rhythm variety": 2.3235440467066653,
+   "surprise, pitch": 2.200104896947693,
+   "surprise, rhythm": 1.269354439221291,
+   "density": 9.158918027080803,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.22083584235075418,
+    "others": 0.10712146524006452,
+    "auc": 0.7682401656361532
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     -5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:044-1-ME.krn",
+      "label": "Polonaise, Op. 44 (Mechetti, Vienna; first edition, kern)",
+      "bar": 35,
+      "notes": "Eb5 F5 F#5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:053-1-BH.krn",
+      "label": "POLONAISE, Op. 53 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 88,
+      "notes": "C#5 Eb5 E5 B4"
+     },
+     {
+      "work": "kern/chopin-first-editions:026-1-BH-001.krn",
+      "label": "Polonaise 1, Op. 26. (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 62,
+      "notes": "C5 D5 Eb5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:040-1-TR-001.krn",
+      "label": "Polonaise No. 1, Op. 40 (Troupenas, Paris; first edition, kern)",
+      "bar": 8,
+      "notes": "B5 C#6 B5 A5"
+     },
+     {
+      "work": "kern/chopin-first-editions:026-1-BH-002.krn",
+      "label": "POLONAISE 2, Op. 26 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 76,
+      "notes": "C#5 Eb5 C#5 B4"
+     },
+     {
+      "work": "kern/chopin-first-editions:044-1-ME.krn",
+      "label": "Polonaise, Op. 44 (Mechetti, Vienna; first edition, kern)",
+      "bar": 170,
+      "notes": "B5 C#6 B5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:044-1-ME.krn",
+      "label": "Polonaise, Op. 44 (Mechetti, Vienna; first edition, kern)",
+      "bar": 41,
+      "notes": "Ab6 G6 F#6 F6"
+     },
+     {
+      "work": "kern/chopin-first-editions:053-1-BH.krn",
+      "label": "POLONAISE, Op. 53 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 133,
+      "notes": "G5 F#5 F5 E5"
+     },
+     {
+      "work": "kern/chopin-first-editions:026-1-BH-001.krn",
+      "label": "Polonaise 1, Op. 26. (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 56,
+      "notes": "Eb6 D6 C#6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 2.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:026-1-BH-001.krn",
+      "label": "Polonaise 1, Op. 26. (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 5,
+      "notes": "F5 F#5 F5 F#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:053-1-BH.krn",
+      "label": "POLONAISE, Op. 53 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 25,
+      "notes": "G4 Ab4 G4 Ab4"
+     },
+     {
+      "work": "kern/chopin-first-editions:044-1-ME.krn",
+      "label": "Polonaise, Op. 44 (Mechetti, Vienna; first edition, kern)",
+      "bar": 11,
+      "notes": "Ab4 A4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.7,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:026-1-BH-001.krn",
+      "label": "Polonaise 1, Op. 26. (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 6,
+      "notes": "F#5 F5 F#5 Ab5"
+     },
+     {
+      "work": "kern/chopin-first-editions:040-1-TR-001.krn",
+      "label": "Polonaise No. 1, Op. 40 (Troupenas, Paris; first edition, kern)",
+      "bar": 3,
+      "notes": "A4 Ab4 A4 B4"
+     },
+     {
+      "work": "kern/chopin-first-editions:026-1-BH-002.krn",
+      "label": "POLONAISE 2, Op. 26 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 10,
+      "notes": "Eb4 D4 Eb4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:040-1-TR-002.krn",
+      "label": "POLONAISE. No. 2, Op. 40 (Troupenas, Paris; first edition, kern)",
+      "bar": 9,
+      "notes": "Ab4 G4 G4 G4"
+     },
+     {
+      "work": "kern/chopin-first-editions:026-1-BH-001.krn",
+      "label": "Polonaise 1, Op. 26. (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 7,
+      "notes": "E5 Eb5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/chopin-first-editions:026-1-BH-002.krn",
+      "label": "POLONAISE 2, Op. 26 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 39,
+      "notes": "F#4 F4 F4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 54,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "prelude",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 25,
+  "values": {
+   "steps": 0.36068383958311306,
+   "repeats": 0.1818655255718301,
+   "leaps": 0.29986727583344314,
+   "move": 4.182166257377684,
+   "rising": 0.49275094189086865,
+   "leap answered": 0.20792755387382603,
+   "range": 21.895999999999994,
+   "register": 70.58,
+   "even": 0.6226263008609585,
+   "long-short": 0.07165948789115385,
+   "rhythm variety": 1.5576266207350284,
+   "surprise, pitch": 2.2388583826764226,
+   "surprise, rhythm": 1.0290813633749654,
+   "density": 6.118879990841459,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.7,
+    "works": 8,
+    "per_1000": 5.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-015.krn",
+      "label": "Prelude No. 15, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 28,
+      "notes": "Ab3 Ab3 Ab3 Ab3"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-006.krn",
+      "label": "Prelude in B minor op. 28, no. 6 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 1,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-017.krn",
+      "label": "Preludium No. 17, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 1,
+      "notes": "C4 C4 C4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 5,
+    "per_1000": 3.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-023.krn",
+      "label": "Preludium No. 23, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 1,
+      "notes": "D5 C5 A4 F4"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-008.krn",
+      "label": "No. 8, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 1,
+      "notes": "B4 A4 F#4 D4"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-024.krn",
+      "label": "Prelude No. 24, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 66,
+      "notes": "E6 D6 B5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-012.krn",
+      "label": "Prelude No. 12, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 5,
+      "notes": "E5 E5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-006.krn",
+      "label": "Prelude in B minor op. 28, no. 6 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 6,
+      "notes": "D5 D5 C#5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-020.krn",
+      "label": "Prelude in C minor op. 28, no. 20 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 5,
+      "notes": "Eb5 Eb5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-012.krn",
+      "label": "Prelude No. 12, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 5,
+      "notes": "E5 Eb5 Eb5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-020.krn",
+      "label": "Prelude in C minor op. 28, no. 20 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 5,
+      "notes": "Eb5 D5 D5 C5"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-015.krn",
+      "label": "Prelude No. 15, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 62,
+      "notes": "E5 Eb5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-018.krn",
+      "label": "Preludium No. 18, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 1,
+      "notes": "A3 Bb3 G3 Bb3"
+     },
+     {
+      "work": "kern/chopin-first-editions:045-1a-ME-001.krn",
+      "label": "Prelude, Op. 45 (Mechetti, Vienna; first edition, kern)",
+      "bar": 79,
+      "notes": "F5 F#5 Eb5 F#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-012.krn",
+      "label": "Prelude No. 12, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 12,
+      "notes": "C#5 D5 B4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-008.krn",
+      "label": "No. 8, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 29,
+      "notes": "Ab4 B4 Bb4 F#4"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-017.krn",
+      "label": "Preludium No. 17, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 9,
+      "notes": "Bb4 C#5 C5 Ab4"
+     },
+     {
+      "work": "kern/chopin-first-editions:028-1-BH-016.krn",
+      "label": "Preludium No. 16, Op. 28 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 40,
+      "notes": "C#6 E6 Eb6 B5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 138,
+   "composers": 12
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "rondo",
+  "forces": "keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.42893473821993605,
+   "repeats": 0.08214428531633568,
+   "leaps": 0.29178495660306547,
+   "move": 4.220017789696537,
+   "rising": 0.4925191394757032,
+   "leap answered": 0.18004280255704475,
+   "range": 33.0,
+   "register": 77.0,
+   "even": 0.6816976480130537,
+   "long-short": 0.08584524792252501,
+   "rhythm variety": 1.7421067808046087,
+   "surprise, pitch": 2.5716028527541597,
+   "surprise, rhythm": 1.435439732456078,
+   "density": 7.579473525897979,
+   "lines": 2.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 107,
+   "composers": 42
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "scherzo",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.39410457934109466,
+   "repeats": 0.10570647770378423,
+   "leaps": 0.36227932590501827,
+   "move": 5.066585948486217,
+   "rising": 0.49229334880928366,
+   "leap answered": 0.2049802691289277,
+   "range": 34.6,
+   "register": 73.6,
+   "even": 0.7253296677054124,
+   "long-short": 0.06118067575862555,
+   "rhythm variety": 1.6917923054224775,
+   "surprise, pitch": 2.4673691277034013,
+   "surprise, rhythm": 1.2640773815546091,
+   "density": 2.9518445598124043,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.36227932590501827,
+    "others": 0.21485514935080283,
+    "auc": 0.8541807527608742
+   },
+   {
+    "measure": "move",
+    "value": 5.066585948486217,
+    "others": 3.622171002425377,
+    "auc": 0.8576966418751409
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     9,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:054-1-BH.krn",
+      "label": "Scherzo, Op. 54 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 223,
+      "notes": "A5 F#6 E6 D6"
+     },
+     {
+      "work": "kern/chopin-first-editions:031-1-BH.krn",
+      "label": "Scherzo, Op. 31 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 337,
+      "notes": "B3 Ab4 F#4 E4"
+     },
+     {
+      "work": "kern/chopin-first-editions:039-1-BH.krn",
+      "label": "3ème Scherzo pour le Piano, Op. 39 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 279,
+      "notes": "Ab6 F7 Eb7 C#7"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:020-1-BH.krn",
+      "label": "Scherzo, Op. 20 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 25,
+      "notes": "G6 F#6 F6 E6"
+     },
+     {
+      "work": "kern/chopin-first-editions:031-1-BH.krn",
+      "label": "Scherzo, Op. 31 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 55,
+      "notes": "A5 Ab5 G5 F#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:054-1-BH.krn",
+      "label": "Scherzo, Op. 54 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 211,
+      "notes": "Ab3 G3 F#3 F3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 4,
+    "per_1000": 1.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:031-1-BH.krn",
+      "label": "Scherzo, Op. 31 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 50,
+      "notes": "F6 Eb6 C#6 Ab5"
+     },
+     {
+      "work": "kern/chopin-first-editions:035-1a-TR-002.krn",
+      "label": "Sonate Bb minor, Scherzo, Op. 35 (Troupenas, Paris; first edition, kern)",
+      "bar": 8,
+      "notes": "Bb4 Ab4 F#4 C#4"
+     },
+     {
+      "work": "kern/chopin-first-editions:054-1-BH.krn",
+      "label": "Scherzo, Op. 54 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 232,
+      "notes": "F5 Eb5 C#5 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     8,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:039-1-BH.krn",
+      "label": "3ème Scherzo pour le Piano, Op. 39 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 145,
+      "notes": "F4 C#5 C5 Bb4"
+     },
+     {
+      "work": "kern/chopin-first-editions:054-1-BH.krn",
+      "label": "Scherzo, Op. 54 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 219,
+      "notes": "C#4 A4 Ab4 F#4"
+     },
+     {
+      "work": "kern/chopin-first-editions:035-1a-TR-002.krn",
+      "label": "Sonate Bb minor, Scherzo, Op. 35 (Troupenas, Paris; first edition, kern)",
+      "bar": 115,
+      "notes": "Bb4 F#5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.0,
+    "works": 2,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:031-1-BH.krn",
+      "label": "Scherzo, Op. 31 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 278,
+      "notes": "B4 C#5 B4 A4"
+     },
+     {
+      "work": "kern/chopin-first-editions:020-1-BH.krn",
+      "label": "Scherzo, Op. 20 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 78,
+      "notes": "B3 C#4 B3 A3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 38,
+   "composers": 22
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "sonata",
+  "forces": "chamber",
+  "period": "late",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.32782205544571186,
+   "repeats": 0.1214365819800308,
+   "leaps": 0.4190160895141017,
+   "move": 5.2513398315028486,
+   "rising": 0.48699655173448864,
+   "leap answered": 0.13926987443476613,
+   "range": 28.5,
+   "register": 67.5,
+   "even": 0.5549115418327796,
+   "long-short": 0.08920030204302373,
+   "rhythm variety": 2.1933629656541354,
+   "surprise, pitch": 3.2190288105953377,
+   "surprise, rhythm": 1.4940558269478241,
+   "density": 5.144662584061141,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 28,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4453295304267485,
+   "repeats": 0.18109068740409606,
+   "leaps": 0.2512088756321773,
+   "move": 4.008438588867408,
+   "rising": 0.49997339108780914,
+   "leap answered": 0.3120410458661929,
+   "range": 27.0,
+   "register": 70.25,
+   "even": 0.643851132942245,
+   "long-short": 0.10165291812960381,
+   "rhythm variety": 1.7002808631976263,
+   "surprise, pitch": 2.5074355924615137,
+   "surprise, rhythm": 0.9662404191754467,
+   "density": 4.919943908840056,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 28,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.42664621549513637,
+   "repeats": 0.11034291554378683,
+   "leaps": 0.30461612932122667,
+   "move": 4.356316874106243,
+   "rising": 0.5025148252635916,
+   "leap answered": 0.20371417209480397,
+   "range": 31.375,
+   "register": 75.25,
+   "even": 0.6662906499987641,
+   "long-short": 0.07228264620464915,
+   "rhythm variety": 1.8618575921486786,
+   "surprise, pitch": 2.627310525241087,
+   "surprise, rhythm": 1.2972286287191728,
+   "density": 4.592341078785619,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 28,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4368846228877807,
+   "repeats": 0.04623278075757366,
+   "leaps": 0.258002536636038,
+   "move": 3.830953484408485,
+   "rising": 0.44297436295863646,
+   "leap answered": 0.2144316551184935,
+   "range": 32.5,
+   "register": 70.0,
+   "even": 0.7506450853922666,
+   "long-short": 0.04849467266528665,
+   "rhythm variety": 1.45806473637698,
+   "surprise, pitch": 2.6289387596830776,
+   "surprise, rhythm": 0.9425251237468686,
+   "density": 4.569838363850867,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 28,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.7215311599718026,
+   "repeats": 0.08364794631674684,
+   "leaps": 0.10822335666733851,
+   "move": 2.3930090090090093,
+   "rising": 0.4482440622440622,
+   "leap answered": 0.8055555555555555,
+   "range": 8.666666666666666,
+   "register": 69.66666666666667,
+   "even": 0.358977436697644,
+   "long-short": 0.14879791822797003,
+   "rhythm variety": 2.490671624852005,
+   "surprise, pitch": 1.640243840090596,
+   "surprise, rhythm": 1.0640287630265655,
+   "density": 4.1256386124799205,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1082,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 11,
+  "values": {
+   "steps": 0.5093769175744526,
+   "repeats": 0.20614367095894306,
+   "leaps": 0.1379685555272384,
+   "move": 2.8672313751362974,
+   "rising": 0.46377174822439604,
+   "leap answered": 0.35800373868555685,
+   "range": 11.122727272727273,
+   "register": 67.22727272727273,
+   "even": 0.4636142020868828,
+   "long-short": 0.08376185944478654,
+   "rhythm variety": 2.172145828971756,
+   "surprise, pitch": 2.0825066862446486,
+   "surprise, rhythm": 1.471665461741636,
+   "density": 4.649752587263915,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 67.22727272727273,
+    "others": 69.68664668330082,
+    "auc": 0.24362973273775948
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 7.0,
+    "works": 4,
+    "per_1000": 6.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:074-1-G-001.krn",
+      "label": "Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 9,
+      "notes": "F#4 E4 E4 D4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-007.krn",
+      "label": "Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 19,
+      "notes": "B4 A4 A4 G4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-016.krn",
+      "label": "Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 38,
+      "notes": "D5 C5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 4.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:074-1-G-005.krn",
+      "label": "Ce qu'aime une jeune fille in A major op. 74, no. 5 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 4,
+      "notes": "Eb4 E4 Ab4 F#4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-001.krn",
+      "label": "Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 21,
+      "notes": "F#4 G4 B4 A4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-010.krn",
+      "label": "Wojak, op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 27,
+      "notes": "G4 Ab4 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 6.3,
+    "works": 2,
+    "per_1000": 4.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:074-1-G-007.krn",
+      "label": "Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 11,
+      "notes": "F#4 Ab4 F#4 E4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-016.krn",
+      "label": "Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 9,
+      "notes": "G4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 4.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:074-1-G-007.krn",
+      "label": "Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 20,
+      "notes": "E4 D4 E4 F#4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-004.krn",
+      "label": "L'orgie in C major op. 74, no. 4 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 10,
+      "notes": "D4 C4 D4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 5.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:074-1-G-001.krn",
+      "label": "Życzenie, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 9,
+      "notes": "E4 E4 D4 D4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-003.krn",
+      "label": "Smutna rzeka, op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 24,
+      "notes": "Ab4 Ab4 F#4 F#4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-012.krn",
+      "label": "Moja pieszczotka, op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 70,
+      "notes": "F5 F5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 4.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:074-1-G-007.krn",
+      "label": "Poseł, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 19,
+      "notes": "A4 B4 A4 A4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-012.krn",
+      "label": "Moja pieszczotka, op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 25,
+      "notes": "Ab4 Bb4 Ab4 Ab4"
+     },
+     {
+      "work": "kern/chopin-first-editions:074-1-G-016.krn",
+      "label": "Piosnka litewska, Op. 74 (Gebethner, Warsaw; first edition, kern)",
+      "bar": 38,
+      "notes": "C5 D5 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1082,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.6743215295407028,
+   "repeats": 0.07247075428431164,
+   "leaps": 0.13762940677436927,
+   "move": 2.603277080699024,
+   "rising": 0.46904483999610935,
+   "leap answered": 0.514176245210728,
+   "range": 11.283333333333331,
+   "register": 69.0,
+   "even": 0.5355303016536185,
+   "long-short": 0.10023778096067253,
+   "rhythm variety": 2.209240222270457,
+   "surprise, pitch": 2.0932791719005226,
+   "surprise, rhythm": 1.406789225226306,
+   "density": 4.5641657261798345,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1082,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "trio",
+  "forces": "chamber",
+  "period": "Warsaw",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4301193787388808,
+   "repeats": 0.05824847793116101,
+   "leaps": 0.31295351277283406,
+   "move": 4.055243915030641,
+   "rising": 0.4778184483697416,
+   "leap answered": 0.3108106476322137,
+   "range": 26.666666666666668,
+   "register": 70.0,
+   "even": 0.6154917117593169,
+   "long-short": 0.10412477783364828,
+   "rhythm variety": 1.963936929573631,
+   "surprise, pitch": 3.018969302303455,
+   "surprise, rhythm": 1.4598075282097926,
+   "density": 6.155432861958885,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 21,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "waltz",
+  "forces": "keyboard",
+  "period": "Paris",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.4992805834955416,
+   "repeats": 0.1393018139709868,
+   "leaps": 0.22242319944680577,
+   "move": 3.733966478431476,
+   "rising": 0.4682153949729756,
+   "leap answered": 0.28743633801989554,
+   "range": 22.625,
+   "register": 74.375,
+   "even": 0.5492737392780342,
+   "long-short": 0.08507121690131444,
+   "rhythm variety": 2.2213163704584495,
+   "surprise, pitch": 1.8643957871413397,
+   "surprise, rhythm": 1.0263941024896335,
+   "density": 3.7137469905058147,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 2.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:034_1-1-BH.krn",
+      "label": "No. 1 Grande Valse Brillante, Op. 34 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 13,
+      "notes": "Eb6 F6 Eb6 C#6"
+     },
+     {
+      "work": "kern/chopin-first-editions:034_3-1-BH-003.krn",
+      "label": "Valse No. 3, Op. 34 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 18,
+      "notes": "D5 E5 D5 C5"
+     },
+     {
+      "work": "kern/chopin-first-editions:018-1-BH.krn",
+      "label": "GRANDE VALSE BRILLANTE, Op. 18 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 17,
+      "notes": "Bb5 C6 Bb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:018-1-BH.krn",
+      "label": "GRANDE VALSE BRILLANTE, Op. 18 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 9,
+      "notes": "Bb5 C6 Bb5 Ab5"
+     },
+     {
+      "work": "kern/chopin-first-editions:034_1-1-BH.krn",
+      "label": "No. 1 Grande Valse Brillante, Op. 34 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 1,
+      "notes": "Eb4 F4 Eb4 C#4"
+     },
+     {
+      "work": "kern/chopin-first-editions:070-1-MEIf-002.krn",
+      "label": "Valse No. 4, Op. 70 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 9,
+      "notes": "Eb5 F5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:070-1-MEIf-002.krn",
+      "label": "Valse No. 4, Op. 70 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 42,
+      "notes": "Ab4 Bb4 Ab4 G4"
+     },
+     {
+      "work": "kern/chopin-first-editions:034_2-1-BH-002.krn",
+      "label": "No. 2. Grande Valse Brillante pour le Piano composée par Fréd. Chopin, Op. 34 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 59,
+      "notes": "F#4 Ab4 F#4 F4"
+     },
+     {
+      "work": "kern/chopin-first-editions:070-1-MEIf-001.krn",
+      "label": "Valse No. 3, Op. 70 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 8,
+      "notes": "F#5 Ab5 F#5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:042-1-BH.krn",
+      "label": "VALSE, Op. 42 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 47,
+      "notes": "G5 F5 Eb5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:034_1-1-BH.krn",
+      "label": "No. 1 Grande Valse Brillante, Op. 34 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 23,
+      "notes": "G5 F5 Eb5 C#5"
+     },
+     {
+      "work": "kern/chopin-first-editions:069-1-MEIf-001.krn",
+      "label": "Valse No. 1, Op. 69 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 8,
+      "notes": "F5 Eb5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.7,
+    "works": 5,
+    "per_1000": 2.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:070-1-MEIf-002.krn",
+      "label": "Valse No. 4, Op. 70 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 1,
+      "notes": "Bb4 Ab4 G4 F4"
+     },
+     {
+      "work": "kern/chopin-first-editions:018-1-BH.krn",
+      "label": "GRANDE VALSE BRILLANTE, Op. 18 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 173,
+      "notes": "Ab5 F#5 F5 Eb5"
+     },
+     {
+      "work": "kern/chopin-first-editions:034_2-1-BH-002.krn",
+      "label": "No. 2. Grande Valse Brillante pour le Piano composée par Fréd. Chopin, Op. 34 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 27,
+      "notes": "D5 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 4,
+    "per_1000": 2.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/chopin-first-editions:070-1-MEIf-002.krn",
+      "label": "Valse No. 4, Op. 70 (Meissonnier fils, Paris; first edition, kern)",
+      "bar": 3,
+      "notes": "C5 Eb5 C#5 C5"
+     },
+     {
+      "work": "kern/chopin-first-editions:042-1-BH.krn",
+      "label": "VALSE, Op. 42 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 122,
+      "notes": "D4 F4 Eb4 D4"
+     },
+     {
+      "work": "kern/chopin-first-editions:034_2-1-BH-002.krn",
+      "label": "No. 2. Grande Valse Brillante pour le Piano composée par Fréd. Chopin, Op. 34 (Breitkopf & Härtel, Leipzig; first edition, kern)",
+      "bar": 27,
+      "notes": "B4 D5 C5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 62,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Frédéric Chopin",
+  "kind": "waltz",
+  "forces": "keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5983308649258443,
+   "repeats": 0.058535799670879,
+   "leaps": 0.19524358576292936,
+   "move": 3.050237775161751,
+   "rising": 0.450433274650136,
+   "leap answered": 0.3267311120252297,
+   "range": 20.666666666666668,
+   "register": 73.66666666666667,
+   "even": 0.7835733256968402,
+   "long-short": 0.05429626390560203,
+   "rhythm variety": 1.3476105201882789,
+   "surprise, pitch": 1.9228901412390016,
+   "surprise, rhythm": 0.5660238989701437,
+   "density": 3.379917405931588,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 62,
+   "composers": 19
+  }
+ }
+]

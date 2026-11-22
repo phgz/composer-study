@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Ethel Smyth",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.45431401290441825,
+   "repeats": 0.11179627294672276,
+   "leaps": 0.26720668297638844,
+   "move": 3.9814137360620405,
+   "rising": 0.4967573463486451,
+   "leap answered": 0.19095496743542814,
+   "range": 25.187499999999993,
+   "register": 77.25,
+   "even": 0.49192546886241617,
+   "long-short": 0.08244902669378588,
+   "rhythm variety": 2.63109727256776,
+   "surprise, pitch": 3.3493512556415763,
+   "surprise, rhythm": 1.8101300115035461,
+   "density": 5.083019653742603,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

@@ -1,0 +1,246 @@
+[
+ {
+  "composer": "Alexander Borodin",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.5408385611144593,
+   "repeats": 0.14509648828544858,
+   "leaps": 0.22077498546387636,
+   "move": 3.2631700968965363,
+   "rising": 0.4684822952672052,
+   "leap answered": 0.26226690774785866,
+   "range": 27.16874999999998,
+   "register": 73.875,
+   "even": 0.6687812432336016,
+   "long-short": 0.06817772889137176,
+   "rhythm variety": 1.8076842695222404,
+   "surprise, pitch": 2.5654981926009466,
+   "surprise, rhythm": 1.1805805999855714,
+   "density": 4.21506289035316,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 27.16874999999998,
+    "others": 22.97821839063002,
+    "auc": 0.8181816643816183
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -7,
+     7,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 4,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#1",
+      "label": "String Quartet No.2, movement 1 (OpenScore)",
+      "bar": 6,
+      "notes": "B4 E4 B4 E4"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.1/sq8811375.mxl#4",
+      "label": "String Quartet No.1, movement 4: Andante arco arco arco (OpenScore)",
+      "bar": 55,
+      "notes": "A5 D5 A5 D5"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#2",
+      "label": "String Quartet No.2, movement 2: Scherzo Allegro (OpenScore)",
+      "bar": 74,
+      "notes": "E5 A4 E5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.1/sq8811375.mxl#1",
+      "label": "String Quartet No.1, movement 1 (OpenScore)",
+      "bar": 90,
+      "notes": "F#5 E5 F#5 C#5"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#2",
+      "label": "String Quartet No.2, movement 2: Scherzo Allegro (OpenScore)",
+      "bar": 21,
+      "notes": "C6 Bb5 C6 G5"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#4",
+      "label": "String Quartet No.2, movement 4: Finale Andante (OpenScore)",
+      "bar": 70,
+      "notes": "B4 A4 B4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#4",
+      "label": "String Quartet No.2, movement 4: Finale Andante (OpenScore)",
+      "bar": 55,
+      "notes": "B4 F#5 E5 C#5"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.1/sq8811375.mxl#1",
+      "label": "String Quartet No.1, movement 1 (OpenScore)",
+      "bar": 83,
+      "notes": "E4 B4 A4 F#4"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.1/sq8811375.mxl#3",
+      "label": "String Quartet No.1, movement 3: Scherzo Prestissimo (OpenScore)",
+      "bar": 317,
+      "notes": "D5 A5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 5,
+    "per_1000": 2.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#4",
+      "label": "String Quartet No.2, movement 4: Finale Andante (OpenScore)",
+      "bar": 91,
+      "notes": "Eb4 E4 E4 F4"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.1/sq8811375.mxl#2",
+      "label": "String Quartet No.1, movement 2: Andante con moto (OpenScore)",
+      "bar": 39,
+      "notes": "Ab4 A4 A4 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.1/sq8811375.mxl#1",
+      "label": "String Quartet No.1, movement 1 (OpenScore)",
+      "bar": 308,
+      "notes": "D4 Eb4 Eb4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.1/sq8811375.mxl#1",
+      "label": "String Quartet No.1, movement 1 (OpenScore)",
+      "bar": 72,
+      "notes": "E5 E5 C#5 B4"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.1/sq8811375.mxl#4",
+      "label": "String Quartet No.1, movement 4: Andante arco arco arco (OpenScore)",
+      "bar": 117,
+      "notes": "F5 F5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#4",
+      "label": "String Quartet No.2, movement 4: Finale Andante (OpenScore)",
+      "bar": 69,
+      "notes": "C#5 B4 D5 A4"
+     },
+     {
+      "work": "openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#2",
+      "label": "String Quartet No.2, movement 2: Scherzo Allegro (OpenScore)",
+      "bar": 178,
+      "notes": "E5 D5 F5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 251,
+   "composers": 32
+  }
+ }
+]

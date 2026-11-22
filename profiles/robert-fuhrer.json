@@ -1,0 +1,47 @@
+[
+ {
+  "composer": "Robert Führer",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.5429109183289882,
+   "repeats": 0.2337425211438102,
+   "leaps": 0.1125120415294321,
+   "move": 2.408570957712524,
+   "rising": 0.4794422621945212,
+   "leap answered": 0.42200577200577194,
+   "range": 6.658333333333334,
+   "register": 71.58333333333333,
+   "even": 0.4598270648364911,
+   "long-short": 0.14880772977774503,
+   "rhythm variety": 2.413605621664742,
+   "surprise, pitch": 2.9397294895693737,
+   "surprise, rhythm": 1.8947381872104427,
+   "density": 3.602667155176079,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5429109183289882,
+    "others": 0.46685121222096493,
+    "auc": 0.799002413684239
+   },
+   {
+    "measure": "move",
+    "value": 2.408570957712524,
+    "others": 2.983036200190612,
+    "auc": 0.11661020769532508
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 547,
+   "composers": 37
+  }
+ }
+]

@@ -1,0 +1,411 @@
+[
+ {
+  "composer": "Zygmunt Stojowski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 7,
+  "values": {
+   "steps": 0.5762815108819337,
+   "repeats": 0.08933698416973186,
+   "leaps": 0.14682142847637888,
+   "move": 3.151697626681272,
+   "rising": 0.5077803012179788,
+   "leap answered": 0.2564743412927128,
+   "range": 27.81428571428571,
+   "register": 72.0,
+   "even": 0.5197416382438264,
+   "long-short": 0.06654057140610772,
+   "rhythm variety": 2.3573738571105407,
+   "surprise, pitch": 2.3889210705422106,
+   "surprise, rhythm": 1.448275583061101,
+   "density": 4.535948140880416,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 3.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1350-fp-4575--001-002_stojowski-zygmunt--idylles-polonaises-op-24-no-2-l-appel-des-moissonneurs.krn",
+      "label": "Idylles Polonaises Op. 24, No. 2 L’Appel Des Moissonneurs, movement 2 (PL-Wtm 1350 fp 4575, kern)",
+      "bar": 9,
+      "notes": "Bb4 G4 F4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1936-fp-6535_stojowski-zygmunt--mazurka-op-8-no-2.krn",
+      "label": "Mazurka Op. 8 No. 2 (PL-Wtm 1936 fp 6535, kern)",
+      "bar": 46,
+      "notes": "G5 E5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1348-fp-4573_stojowski-zygmunt--danses-humoresques-op-12-no-5-mazurka.krn",
+      "label": "Danses Humoresques Op. 12/No. 5. Mazurka (PL-Wtm 1348 fp 4573, kern)",
+      "bar": 21,
+      "notes": "B5 Ab5 F#5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1351-fp-4576--001-002_stojowski-zygmunt--vier-stucke-quatre-morceaux-op-26-2-in-tempo-di-minuetto.krn",
+      "label": "Vier Stücke/Quatre morceaux Op. 26, 2. In tempo di Minuetto (PL-Wtm 1351 fp 4576, kern)",
+      "bar": 108,
+      "notes": "F5 E5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1350-fp-4575--001-003_stojowski-zygmunt--idylles-polonaises-op-24-no-4-vision-de-danse.krn",
+      "label": "Idylles Polonaises Op. 24, No. 4 Vision De Danse, movement 3 (PL-Wtm 1290 fp 4575, kern)",
+      "bar": 18,
+      "notes": "C5 B4 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1350-fp-4575--001-001_stojowski-zygmunt--idylles-polonaises-op-24-no-1-solitude.krn",
+      "label": "Idylles Polonaises Op. 24, No. 1 Solitude, movement 1 (PL-Wtm 1350 fp 4575, kern)",
+      "bar": 70,
+      "notes": "Bb5 A5 C6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 5.2,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1350-fp-4575--001-003_stojowski-zygmunt--idylles-polonaises-op-24-no-4-vision-de-danse.krn",
+      "label": "Idylles Polonaises Op. 24, No. 4 Vision De Danse, movement 3 (PL-Wtm 1290 fp 4575, kern)",
+      "bar": 65,
+      "notes": "D5 C5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1348-fp-4573_stojowski-zygmunt--danses-humoresques-op-12-no-5-mazurka.krn",
+      "label": "Danses Humoresques Op. 12/No. 5. Mazurka (PL-Wtm 1348 fp 4573, kern)",
+      "bar": 5,
+      "notes": "C#5 B4 C#5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2048-fp-7089_stojowski-zygmunt--danses-humoresques-op-12-no-3-mazurka.krn",
+      "label": "Danses Humoresques Op. 12/No. 3. Mazurka (PL-Wtm 2048 fp 7089, kern)",
+      "bar": 7,
+      "notes": "A5 G5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 5.2,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1936-fp-6535_stojowski-zygmunt--mazurka-op-8-no-2.krn",
+      "label": "Mazurka Op. 8 No. 2 (PL-Wtm 1936 fp 6535, kern)",
+      "bar": 44,
+      "notes": "B5 C6 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1350-fp-4575--001-003_stojowski-zygmunt--idylles-polonaises-op-24-no-4-vision-de-danse.krn",
+      "label": "Idylles Polonaises Op. 24, No. 4 Vision De Danse, movement 3 (PL-Wtm 1290 fp 4575, kern)",
+      "bar": 61,
+      "notes": "E5 F5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1350-fp-4575--001-002_stojowski-zygmunt--idylles-polonaises-op-24-no-2-l-appel-des-moissonneurs.krn",
+      "label": "Idylles Polonaises Op. 24, No. 2 L’Appel Des Moissonneurs, movement 2 (PL-Wtm 1350 fp 4575, kern)",
+      "bar": 2,
+      "notes": "A4 Bb4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     2
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1348-fp-4573_stojowski-zygmunt--danses-humoresques-op-12-no-5-mazurka.krn",
+      "label": "Danses Humoresques Op. 12/No. 5. Mazurka (PL-Wtm 1348 fp 4573, kern)",
+      "bar": 3,
+      "notes": "C#5 B4 Bb4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1350-fp-4575--001-001_stojowski-zygmunt--idylles-polonaises-op-24-no-1-solitude.krn",
+      "label": "Idylles Polonaises Op. 24, No. 1 Solitude, movement 1 (PL-Wtm 1350 fp 4575, kern)",
+      "bar": 12,
+      "notes": "Eb5 C#5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1351-fp-4576--001-002_stojowski-zygmunt--vier-stucke-quatre-morceaux-op-26-2-in-tempo-di-minuetto.krn",
+      "label": "Vier Stücke/Quatre morceaux Op. 26, 2. In tempo di Minuetto (PL-Wtm 1351 fp 4576, kern)",
+      "bar": 34,
+      "notes": "A4 C5 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1350-fp-4575--001-003_stojowski-zygmunt--idylles-polonaises-op-24-no-4-vision-de-danse.krn",
+      "label": "Idylles Polonaises Op. 24, No. 4 Vision De Danse, movement 3 (PL-Wtm 1290 fp 4575, kern)",
+      "bar": 47,
+      "notes": "B3 D4 C4 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 88,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Zygmunt Stojowski",
+  "kind": "mazurka",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.5017305772883867,
+   "repeats": 0.1477419320218509,
+   "leaps": 0.18270871567017613,
+   "move": 3.508359325779376,
+   "rising": 0.4700514126921911,
+   "leap answered": 0.19291930228100443,
+   "range": 24.633333333333336,
+   "register": 73.33333333333333,
+   "even": 0.5196173015395337,
+   "long-short": 0.048018616343654986,
+   "rhythm variety": 2.3010031658490964,
+   "surprise, pitch": 2.0800324850769862,
+   "surprise, rhythm": 1.4127428856447128,
+   "density": 4.220841318950794,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 149,
+   "composers": 30
+  }
+ },
+ {
+  "composer": "Zygmunt Stojowski",
+  "kind": "polonaise",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.6030673749105521,
+   "repeats": 0.04160462304555992,
+   "leaps": 0.12048602249722414,
+   "move": 2.9191908271535696,
+   "rising": 0.5114640204272773,
+   "leap answered": 0.32030779482053845,
+   "range": 29.26666666666665,
+   "register": 71.33333333333333,
+   "even": 0.46098609149129494,
+   "long-short": 0.09429773311849284,
+   "rhythm variety": 2.6068121780939038,
+   "surprise, pitch": 2.62795415479836,
+   "surprise, rhythm": 1.5555600613198408,
+   "density": 5.113936328711623,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 97,
+   "composers": 34
+  }
+ },
+ {
+  "composer": "Zygmunt Stojowski",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.23573814154340167,
+   "repeats": 0.05459945141399567,
+   "leaps": 0.5197549033872649,
+   "move": 6.87544253825897,
+   "rising": 0.5449530917114677,
+   "leap answered": 0.06455728385865829,
+   "range": 35.48333333333333,
+   "register": 67.33333333333333,
+   "even": 0.5697618190387094,
+   "long-short": 0.04580256929853265,
+   "rhythm variety": 2.1997182510272415,
+   "surprise, pitch": 2.9634014255807437,
+   "surprise, rhythm": 1.4262371147163966,
+   "density": 5.330742265527788,
+   "lines": 3.6666666666666665
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 940,
+   "composers": 45
+  }
+ },
+ {
+  "composer": "Zygmunt Stojowski",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 6,
+  "values": {
+   "steps": 0.4620666929713258,
+   "repeats": 0.18015197142175624,
+   "leaps": 0.1403766914666058,
+   "move": 2.997652941417178,
+   "rising": 0.48908134916939544,
+   "leap answered": 0.20547522445598623,
+   "range": 14.308333333333332,
+   "register": 72.5,
+   "even": 0.5557788547835812,
+   "long-short": 0.06413396378906004,
+   "rhythm variety": 2.1674217042993664,
+   "surprise, pitch": 2.6481798602160116,
+   "surprise, rhythm": 1.56098370033321,
+   "density": 4.641456732605836,
+   "lines": 2.8333333333333335
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.06413396378906004,
+    "others": 0.11479594073492619,
+    "auc": 0.24977891525101845
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 5.6,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-184-99--001-001_stojowski-zygmunt--piec-piesni-op-11-no-1-letni-wieczor.krn",
+      "label": "Pięć pięśni op. 11, No. 1. Letni wieczór, movement 1 (PL-Wtm A-43.184/99, kern)",
+      "bar": 5,
+      "notes": "Ab4 A4 Ab4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1351-fp-4576--001-001_stojowski-zygmunt--vier-stucke-quatre-morceaux-op-26-1-melodie.krn",
+      "label": "Vier Stücke/Quatre morceaux Op. 26, 1. Mélodie (PL-Wtm 1351 fp 4576, kern)",
+      "bar": 2,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-43-184-99--001-004_stojowski-zygmunt--piec-piesni-op-11-no-4-ach-jak-mi-smutno.krn",
+      "label": "Pięć pięśni op. 11, No. 4. Ach, jak mi smutno, movement 4: Lento e mesto. (PL-Wtm A-43.184/99, kern)",
+      "bar": 28,
+      "notes": "Ab4 A4 Ab4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 406,
+   "composers": 45
+  }
+ }
+]

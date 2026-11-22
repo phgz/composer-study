@@ -1,0 +1,526 @@
+[
+ {
+  "composer": "Franciszek Mirecki",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 19,
+  "values": {
+   "steps": 0.5415907428051728,
+   "repeats": 0.1524197175147534,
+   "leaps": 0.0689152884603885,
+   "move": 2.535417330545735,
+   "rising": 0.462580673433052,
+   "leap answered": 0.18459383753501402,
+   "range": 10.784210526315789,
+   "register": 73.39473684210526,
+   "even": 0.5061020523542448,
+   "long-short": 0.030570249601782222,
+   "rhythm variety": 2.100518681551737,
+   "surprise, pitch": 2.2161516827822236,
+   "surprise, rhythm": 1.5975804907845914,
+   "density": 5.95141108861099,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.0689152884603885,
+    "others": 0.18145371132061366,
+    "auc": 0.12451626837842315
+   },
+   {
+    "measure": "move",
+    "value": 2.535417330545735,
+    "others": 3.348605324694978,
+    "auc": 0.16706843701192137
+   },
+   {
+    "measure": "long-short",
+    "value": 0.030570249601782222,
+    "others": 0.10658166608326015,
+    "auc": 0.20072283558180115
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.5975804907845914,
+    "others": 1.2310273839176515,
+    "auc": 0.759502877794025
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 7.3,
+    "works": 5,
+    "per_1000": 7.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-004_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-4.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 4., movement 4 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 3,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-017_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-17.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 17., movement 17 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 2,
+      "notes": "B4 A4 Ab4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-009_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-9.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 9., movement 9 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 1,
+      "notes": "C5 Bb4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.9,
+    "works": 4,
+    "per_1000": 9.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-016_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-16.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 16., movement 16 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 16,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-020_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-20.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 20., movement 20 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 2,
+      "notes": "D5 C#5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-015_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-15.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 15., movement 15 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 4,
+      "notes": "G4 F#4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 4.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-008_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-8.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 8., movement 8 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 2,
+      "notes": "C5 B4 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-011_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-11.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 11., movement 11 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 7,
+      "notes": "F5 E5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 5.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-004_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-4.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 4., movement 4 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 3,
+      "notes": "D5 E5 F5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-016_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-16.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 16., movement 16 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 13,
+      "notes": "B4 C#5 D5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-001_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-1.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 1., movement 1 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 6,
+      "notes": "E5 D5 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-013_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-13.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 13., movement 13 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 10,
+      "notes": "A5 G5 F#5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-016_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-16.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 16., movement 16 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 4,
+      "notes": "A4 G4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 4,
+    "per_1000": 7.6,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-016_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-16.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 16., movement 16 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 16,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-015_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-15.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 15., movement 15 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 4,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-014_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-14.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 14., movement 14 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 7,
+      "notes": "F5 Eb5 D5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 416,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Franciszek Mirecki",
+  "kind": "krakowiak",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 19,
+  "values": {
+   "steps": 0.5415907428051728,
+   "repeats": 0.1524197175147534,
+   "leaps": 0.0689152884603885,
+   "move": 2.535417330545735,
+   "rising": 0.462580673433052,
+   "leap answered": 0.18459383753501402,
+   "range": 10.784210526315789,
+   "register": 73.39473684210526,
+   "even": 0.5061020523542448,
+   "long-short": 0.030570249601782222,
+   "rhythm variety": 2.100518681551737,
+   "surprise, pitch": 2.2161516827822236,
+   "surprise, rhythm": 1.5975804907845914,
+   "density": 5.95141108861099,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.0689152884603885,
+    "others": 0.16774720917304264,
+    "auc": 0.16888053470844228
+   },
+   {
+    "measure": "move",
+    "value": 2.535417330545735,
+    "others": 3.1176321408868612,
+    "auc": 0.2218880534754633
+   },
+   {
+    "measure": "long-short",
+    "value": 0.030570249601782222,
+    "others": 0.08472716030095098,
+    "auc": 0.2075187969797874
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 4,
+    "per_1000": 9.3,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-016_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-16.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 16., movement 16 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 16,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-020_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-20.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 20., movement 20 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 2,
+      "notes": "D5 C#5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-015_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-15.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 15., movement 15 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 4,
+      "notes": "G4 F#4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 7.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-016_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-16.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 16., movement 16 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 16,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-015_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-15.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 15., movement 15 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 4,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-014_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-14.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 14., movement 14 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 7,
+      "notes": "F5 Eb5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.7,
+    "works": 5,
+    "per_1000": 7.6,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-004_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-4.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 4., movement 4 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 3,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-017_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-17.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 17., movement 17 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 2,
+      "notes": "B4 A4 Ab4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-009_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-9.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 9., movement 9 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 1,
+      "notes": "C5 Bb4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 5.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-020_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-20.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 20., movement 20 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 2,
+      "notes": "C#5 B4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-015_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-15.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 15., movement 15 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 4,
+      "notes": "F#4 E4 D4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-011_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-11.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 11., movement 11 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 11,
+      "notes": "A5 G5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 4,
+    "per_1000": 5.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-011_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-11.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 11., movement 11 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 5,
+      "notes": "B4 B4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-002_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-2.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 2., movement 2 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 7,
+      "notes": "F5 F5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-016_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-16.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 16., movement 16 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 4,
+      "notes": "F#4 F#4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 4.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-008_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-8.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 8., movement 8 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 2,
+      "notes": "C5 B4 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--muz-6961-ii--001-011_mirecki-franciszek--krakowiaki-ofiarowane-polkom-no-11.krn",
+      "label": "Krakowiaki ofiarowane Polkom, No. 11., movement 11 (PL-Kj Muz. 6961 II, kern)",
+      "bar": 7,
+      "notes": "F5 E5 G5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 31,
+   "composers": 10
+  }
+ }
+]

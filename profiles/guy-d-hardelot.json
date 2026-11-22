@@ -1,0 +1,90 @@
+[
+ {
+  "composer": "Guy d'Hardelot",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 9,
+  "values": {
+   "steps": 0.4290615838804346,
+   "repeats": 0.2766418900191535,
+   "leaps": 0.14329607707589,
+   "move": 2.9874471902081394,
+   "rising": 0.5057485968388672,
+   "leap answered": 0.16996119539979188,
+   "range": 11.911111111111111,
+   "register": 68.55555555555556,
+   "even": 0.254301225986523,
+   "long-short": 0.22598500605000643,
+   "rhythm variety": 3.0668993704428904,
+   "surprise, pitch": 2.7364273887644512,
+   "surprise, rhythm": 2.019855308458885,
+   "density": 6.593159333942765,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.254301225986523,
+    "others": 0.394976076618449,
+    "auc": 0.24089131379442025
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.0668993704428904,
+    "others": 2.532988487204519,
+    "auc": 0.8489737690433105
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.019855308458885,
+    "others": 1.628011472380422,
+    "auc": 0.7649461690167894
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 4.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Hardelot,_Guy_d’/_/Bouquet_de_violettes/lc6627964.mxl",
+      "label": "Bouquet de violettes (OpenScore)",
+      "bar": 9,
+      "notes": "Bb4 Ab4 Ab4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Hardelot,_Guy_d’/_/I_knew/lc6629643.mxl",
+      "label": "I knew (OpenScore)",
+      "bar": 13,
+      "notes": "G4 F4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Hardelot,_Guy_d’/_/In_1822/lc6629787.mxl",
+      "label": "In 1822 (OpenScore)",
+      "bar": 36,
+      "notes": "D5 C5 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1090,
+   "composers": 97
+  }
+ }
+]

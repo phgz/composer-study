@@ -1,0 +1,345 @@
+[
+ {
+  "composer": "Johann Joachim Quantz",
+  "kind": "dance",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Baroque",
+  "works": 11,
+  "values": {
+   "steps": 0.3087749397567052,
+   "repeats": 0.09414049655478916,
+   "leaps": 0.43181649286917895,
+   "move": 4.789379797602155,
+   "rising": 0.4816493158406056,
+   "leap answered": 0.1918209550809996,
+   "range": 12.668181818181814,
+   "register": 75.0,
+   "even": 0.7900681809356948,
+   "long-short": 0.022575496211452366,
+   "rhythm variety": 0.7115301075962044,
+   "surprise, pitch": 2.404824172411018,
+   "surprise, rhythm": 0.4552725314191362,
+   "density": 2.114466175264375,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3087749397567052,
+    "others": 0.5502850814056929,
+    "auc": 0.19897084048027444
+   },
+   {
+    "measure": "leaps",
+    "value": 0.43181649286917895,
+    "others": 0.23123523972264817,
+    "auc": 0.8336192109777015
+   },
+   {
+    "measure": "move",
+    "value": 4.789379797602155,
+    "others": 3.6039273232563653,
+    "auc": 0.8078902229845627
+   },
+   {
+    "measure": "range",
+    "value": 12.668181818181814,
+    "others": 17.485849056603772,
+    "auc": 0.09090909090909091
+   },
+   {
+    "measure": "register",
+    "value": 75.0,
+    "others": 61.20754716981132,
+    "auc": 0.9090909090909091
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.404824172411018,
+    "others": 2.7961071907101593,
+    "auc": 0.16638078902229844
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.4552725314191362,
+    "others": 0.9113069838554938,
+    "auc": 0.20411663807890223
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 5.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#11",
+      "label": "Minuetto, movement 11: Var: 10 (Mutopia)",
+      "bar": 17,
+      "notes": "E5 Eb5 E5 A4"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#5",
+      "label": "Minuetto, movement 5: Var: 4 (Mutopia)",
+      "bar": 18,
+      "notes": "E5 Eb5 E5 A4"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#6",
+      "label": "Minuetto, movement 6: Var: 5 (Mutopia)",
+      "bar": 17,
+      "notes": "E5 Eb5 E5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 4.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#9",
+      "label": "Minuetto, movement 9: Var: 8 (Mutopia)",
+      "bar": 1,
+      "notes": "B4 E5 B4 B4"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#10",
+      "label": "Minuetto, movement 10: Var: 9 (Mutopia)",
+      "bar": 1,
+      "notes": "B4 E5 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 4.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#5",
+      "label": "Minuetto, movement 5: Var: 4 (Mutopia)",
+      "bar": 1,
+      "notes": "A4 B4 E5 B4"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#11",
+      "label": "Minuetto, movement 11: Var: 10 (Mutopia)",
+      "bar": 1,
+      "notes": "A4 B4 E5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     7,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 4.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#2",
+      "label": "Minuetto, movement 2: Var: 1 (Mutopia)",
+      "bar": 18,
+      "notes": "A4 E5 B4 E5"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#4",
+      "label": "Minuetto, movement 4: Var: 3 (Mutopia)",
+      "bar": 18,
+      "notes": "A4 E5 B4 E5"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#5",
+      "label": "Minuetto, movement 5: Var: 4 (Mutopia)",
+      "bar": 18,
+      "notes": "A4 E5 B4 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 4.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#9",
+      "label": "Minuetto, movement 9: Var: 8 (Mutopia)",
+      "bar": 1,
+      "notes": "B4 B4 E5 B4"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#10",
+      "label": "Minuetto, movement 10: Var: 9 (Mutopia)",
+      "bar": 1,
+      "notes": "B4 B4 E5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     7,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 4.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#2",
+      "label": "Minuetto, movement 2: Var: 1 (Mutopia)",
+      "bar": 18,
+      "notes": "E5 A4 E5 B4"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#4",
+      "label": "Minuetto, movement 4: Var: 3 (Mutopia)",
+      "bar": 18,
+      "notes": "E5 A4 E5 B4"
+     },
+     {
+      "work": "mutopia:QuantzJJ/Minuetto#5",
+      "label": "Minuetto, movement 5: Var: 4 (Mutopia)",
+      "bar": 18,
+      "notes": "E5 A4 E5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 53,
+   "composers": 1
+  }
+ },
+ {
+  "composer": "Johann Joachim Quantz",
+  "kind": "minuet",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Baroque",
+  "works": 11,
+  "values": {
+   "steps": 0.3087749397567052,
+   "repeats": 0.09414049655478916,
+   "leaps": 0.43181649286917895,
+   "move": 4.789379797602155,
+   "rising": 0.4816493158406056,
+   "leap answered": 0.1918209550809996,
+   "range": 12.668181818181814,
+   "register": 75.0,
+   "even": 0.7900681809356948,
+   "long-short": 0.022575496211452366,
+   "rhythm variety": 0.7115301075962044,
+   "surprise, pitch": 2.404824172411018,
+   "surprise, rhythm": 0.4552725314191362,
+   "density": 2.114466175264375,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3087749397567052,
+    "others": 0.6033283110399021,
+    "auc": 0.17042217042217042
+   },
+   {
+    "measure": "leaps",
+    "value": 0.43181649286917895,
+    "others": 0.18164196697989873,
+    "auc": 0.8738668738668739
+   },
+   {
+    "measure": "move",
+    "value": 4.789379797602155,
+    "others": 3.037437802890169,
+    "auc": 0.8635068635068636
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.1918209550809996,
+    "others": 0.40578173316675215,
+    "auc": 0.21768971768971765
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 0.7115301075962044,
+    "others": 1.4764920555426448,
+    "auc": 0.19062419062419061
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.4552725314191362,
+    "others": 1.2644048728994637,
+    "auc": 0.038332038332038326
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 31,
+   "composers": 7
+  }
+ }
+]

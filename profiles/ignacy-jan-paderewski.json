@@ -1,0 +1,821 @@
+[
+ {
+  "composer": "Ignacy Jan Paderewski",
+  "kind": "canon",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.6224697830202417,
+   "repeats": 0.14953267934919312,
+   "leaps": 0.10240345790804506,
+   "move": 2.569340946356052,
+   "rising": 0.4447788254537145,
+   "leap answered": 0.5149038461538462,
+   "range": 11.074999999999998,
+   "register": 67.0,
+   "even": 0.7142260412937105,
+   "long-short": 0.022417153996101363,
+   "rhythm variety": 1.5352908087308685,
+   "surprise, pitch": 2.6298316778822577,
+   "surprise, rhythm": 1.49780092187634,
+   "density": 4.125605230876976,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 26,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Ignacy Jan Paderewski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 5,
+  "values": {
+   "steps": 0.4663119955597311,
+   "repeats": 0.1439021932589434,
+   "leaps": 0.1742525046014443,
+   "move": 3.3665958365787576,
+   "rising": 0.4878878564450922,
+   "leap answered": 0.3235851122058019,
+   "range": 26.179999999999996,
+   "register": 72.6,
+   "even": 0.5534192540328946,
+   "long-short": 0.060092379337224874,
+   "rhythm variety": 2.137932795086435,
+   "surprise, pitch": 2.519995821248181,
+   "surprise, rhythm": 1.5949642847730847,
+   "density": 4.588188354863161,
+   "lines": 2.2
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r254--003_paderewski-ignacy-jan--krakowiak-ii.krn",
+      "label": "Krakowiak II: Allegro giocoso. (PL-Wumfc R254, kern)",
+      "bar": 35,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r254--002_paderewski-ignacy-jan--krakowiak-i.krn",
+      "label": "Krakowiak I: Allegretto. (PL-Wumfc R254, kern)",
+      "bar": 19,
+      "notes": "E5 Eb5 C#5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r311--001_paderewski-ignacy-jan--mazurka.krn",
+      "label": "[Mazurka] (PL-Wumfc R311, kern)",
+      "bar": 21,
+      "notes": "Bb5 A5 G5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 90,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Ignacy Jan Paderewski",
+  "kind": "etude",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 47,
+  "values": {
+   "steps": 0.6936037462145972,
+   "repeats": 0.059770950702733,
+   "leaps": 0.11087401209343953,
+   "move": 2.5111011645497876,
+   "rising": 0.4716215871185203,
+   "leap answered": 0.5049333176210523,
+   "range": 10.248936170212765,
+   "register": 71.09574468085107,
+   "even": 0.8045423278147509,
+   "long-short": 0.02964786793539088,
+   "rhythm variety": 0.7779413170054197,
+   "surprise, pitch": 2.611588295289324,
+   "surprise, rhythm": 0.6411407284968861,
+   "density": 1.9074698488290907,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6936037462145972,
+    "others": 0.39346516853785446,
+    "auc": 0.8739766548969142
+   },
+   {
+    "measure": "leaps",
+    "value": 0.11087401209343953,
+    "others": 0.3111486541053605,
+    "auc": 0.15801738867038267
+   },
+   {
+    "measure": "move",
+    "value": 2.5111011645497876,
+    "others": 4.611230247843557,
+    "auc": 0.1243562378183196
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.5049333176210523,
+    "others": 0.19244013222422982,
+    "auc": 0.8235824605825178
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 13.8,
+    "works": 24,
+    "per_1000": 16.3,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-008_paderewski-ignacy-jan--exercises-1-exercise-8.krn",
+      "label": "[Exercises 1], [Exercise] 8, movement 8 (PL-Wumfc R282, kern)",
+      "bar": 3,
+      "notes": "A4 G4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-016_paderewski-ignacy-jan--exercises-1-exercise-16.krn",
+      "label": "[Exercises 1], [Exercise] 16, movement 16 (PL-Wumfc R282, kern)",
+      "bar": 9,
+      "notes": "E5 D5 E5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--003-006_paderewski-ignacy-jan--exercises-3-exercise-6.krn",
+      "label": "[Exercises 3], [Exercise] 6, movement 6 (PL-Wumfc R282, kern)",
+      "bar": 6,
+      "notes": "D5 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 11.8,
+    "works": 19,
+    "per_1000": 14.8,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-016_paderewski-ignacy-jan--exercises-1-exercise-16.krn",
+      "label": "[Exercises 1], [Exercise] 16, movement 16 (PL-Wumfc R282, kern)",
+      "bar": 6,
+      "notes": "B4 C#5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-008_paderewski-ignacy-jan--exercises-1-exercise-8.krn",
+      "label": "[Exercises 1], [Exercise] 8, movement 8 (PL-Wumfc R282, kern)",
+      "bar": 3,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--003-006_paderewski-ignacy-jan--exercises-3-exercise-6.krn",
+      "label": "[Exercises 3], [Exercise] 6, movement 6 (PL-Wumfc R282, kern)",
+      "bar": 1,
+      "notes": "D5 E5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 11.7,
+    "works": 23,
+    "per_1000": 15.6,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-008_paderewski-ignacy-jan--exercises-1-exercise-8.krn",
+      "label": "[Exercises 1], [Exercise] 8, movement 8 (PL-Wumfc R282, kern)",
+      "bar": 9,
+      "notes": "C5 D5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-006_paderewski-ignacy-jan--exercises-1-exercise-6.krn",
+      "label": "[Exercises 1], [Exercise] 6, movement 6 (PL-Wumfc R282, kern)",
+      "bar": 3,
+      "notes": "G4 A4 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--002-010_paderewski-ignacy-jan--exercises-2-exercise-10.krn",
+      "label": "[Exercises 2], [Exercise] 10, movement 10 (PL-Wumfc R282, kern)",
+      "bar": 1,
+      "notes": "C5 D5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 11.3,
+    "works": 23,
+    "per_1000": 18.1,
+    "others_per_1000": 2.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-016_paderewski-ignacy-jan--exercises-1-exercise-16.krn",
+      "label": "[Exercises 1], [Exercise] 16, movement 16 (PL-Wumfc R282, kern)",
+      "bar": 6,
+      "notes": "A4 B4 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-011_paderewski-ignacy-jan--exercises-1-exercise-11.krn",
+      "label": "[Exercises 1], [Exercise] 11, movement 11 (PL-Wumfc R282, kern)",
+      "bar": 4,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-013_paderewski-ignacy-jan--exercises-1-exercise-13.krn",
+      "label": "[Exercises 1], [Exercise] 13, movement 13 (PL-Wumfc R282, kern)",
+      "bar": 4,
+      "notes": "D4 E4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 11.0,
+    "works": 22,
+    "per_1000": 15.9,
+    "others_per_1000": 2.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-008_paderewski-ignacy-jan--exercises-1-exercise-8.krn",
+      "label": "[Exercises 1], [Exercise] 8, movement 8 (PL-Wumfc R282, kern)",
+      "bar": 8,
+      "notes": "D5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--003-008_paderewski-ignacy-jan--exercises-3-exercise-8.krn",
+      "label": "[Exercises 3], [Exercise] 8, movement 8 (PL-Wumfc R282, kern)",
+      "bar": 14,
+      "notes": "D5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-006_paderewski-ignacy-jan--exercises-1-exercise-6.krn",
+      "label": "[Exercises 1], [Exercise] 6, movement 6 (PL-Wumfc R282, kern)",
+      "bar": 3,
+      "notes": "A4 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 10.8,
+    "works": 22,
+    "per_1000": 12.6,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-008_paderewski-ignacy-jan--exercises-1-exercise-8.krn",
+      "label": "[Exercises 1], [Exercise] 8, movement 8 (PL-Wumfc R282, kern)",
+      "bar": 5,
+      "notes": "F#4 E4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--001-013_paderewski-ignacy-jan--exercises-1-exercise-13.krn",
+      "label": "[Exercises 1], [Exercise] 13, movement 13 (PL-Wumfc R282, kern)",
+      "bar": 7,
+      "notes": "B4 A4 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r282--002-010_paderewski-ignacy-jan--exercises-2-exercise-10.krn",
+      "label": "[Exercises 2], [Exercise] 10, movement 10 (PL-Wumfc R282, kern)",
+      "bar": 2,
+      "notes": "B4 A4 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 277,
+   "composers": 24
+  }
+ },
+ {
+  "composer": "Ignacy Jan Paderewski",
+  "kind": "etude",
+  "forces": "chamber",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5989548525446842,
+   "repeats": 0.1509983031968604,
+   "leaps": 0.09432768079281305,
+   "move": 2.362854349951124,
+   "rising": 0.4629765395894428,
+   "leap answered": 0.36442307692307696,
+   "range": 14.162500000000001,
+   "register": 83.5,
+   "even": 0.6393745302999249,
+   "long-short": 0.0675445788071326,
+   "rhythm variety": 1.8208395234296852,
+   "surprise, pitch": 2.6277481458373635,
+   "surprise, rhythm": 1.4067972836720877,
+   "density": 5.149638105488728,
+   "lines": 3.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 277,
+   "composers": 24
+  }
+ },
+ {
+  "composer": "Ignacy Jan Paderewski",
+  "kind": "krakowiak",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.5009830508686344,
+   "repeats": 0.08493613230455337,
+   "leaps": 0.15967954640723522,
+   "move": 3.320559858216626,
+   "rising": 0.4956196006328099,
+   "leap answered": 0.3261423761423761,
+   "range": 32.333333333333336,
+   "register": 72.66666666666667,
+   "even": 0.5345876456103799,
+   "long-short": 0.05505592634635519,
+   "rhythm variety": 2.265332190951812,
+   "surprise, pitch": 2.6797594197211665,
+   "surprise, rhythm": 1.7024304117698899,
+   "density": 5.588531196878161,
+   "lines": 2.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 56,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Ignacy Jan Paderewski",
+  "kind": "opera",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 38,
+  "values": {
+   "steps": 0.4621942757621726,
+   "repeats": 0.15598049377618925,
+   "leaps": 0.16345309639029648,
+   "move": 3.315598507582107,
+   "rising": 0.6020663664933646,
+   "leap answered": 0.2447619963316995,
+   "range": 16.989473684210527,
+   "register": 85.11842105263158,
+   "even": 0.564427995151615,
+   "long-short": 0.07509980332860415,
+   "rhythm variety": 1.9487239557268567,
+   "surprise, pitch": 2.5083910603912467,
+   "surprise, rhythm": 1.5366256793142286,
+   "density": 14.961329695956193,
+   "lines": 25.105263157894736
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 9,
+    "per_1000": 3.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-010_paderewski-ignacy-jan--manru-erster-akt-viii-scene-chore.krn",
+      "label": "Manru, Erster Akt. VIII. Scene. Chöre, movement 10 (PL-Wumfc N26880, kern)",
+      "bar": 28,
+      "notes": "Eb6 Eb6 Eb6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-006_paderewski-ignacy-jan--manru-erster-akt-vi-scene.krn",
+      "label": "Manru, Erster Akt. VI. Scene, movement 6 (PL-Wumfc N26880, kern)",
+      "bar": 180,
+      "notes": "Eb6 Eb6 Eb6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26881--001-008_paderewski-ignacy-jan--manru-zweite-akt-v-scene-moderato.krn",
+      "label": "Manru, Zweite Akt. V. Scene. Moderato, movement 8 (PL-Wumfc N26881, kern)",
+      "bar": 65,
+      "notes": "G6 G6 G6 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 5,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26881--001-010_paderewski-ignacy-jan--manru-zweite-akt-vi-scene.krn",
+      "label": "Manru, Zweite Akt. VI. Scene, movement 10 (PL-Wumfc N26881, kern)",
+      "bar": 33,
+      "notes": "G4 Ab4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26882--001-006_paderewski-ignacy-jan--manru-dritter-akt-ii-scene-nr-49.krn",
+      "label": "Manru, Dritter Akt. II. Scene. Nr 49, movement 6 (PL-Wumfc N26882, kern)",
+      "bar": 23,
+      "notes": "B6 C7 B6 A6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-001_paderewski-ignacy-jan--manru-erster-akt-i-scene.krn",
+      "label": "Manru, Erster Akt. I. Scene, movement 1 (PL-Wumfc N26880, kern)",
+      "bar": 106,
+      "notes": "C#6 D6 C#6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26882--001-004_paderewski-ignacy-jan--manru-dritter-akt-i-scene-nr-34-allegretto.krn",
+      "label": "Manru, Dritter Akt. I. Scene. Nr 34 Allegretto, movement 4 (PL-Wumfc N26882, kern)",
+      "bar": 10,
+      "notes": "B5 B5 C6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26882--001-016_paderewski-ignacy-jan--manru-dritter-akt-v-scene-nr-155-moderato.krn",
+      "label": "Manru, Dritter Akt. V Scene. Nr 155 Moderato, movement 16 (PL-Wumfc N26882, kern)",
+      "bar": 87,
+      "notes": "D6 D6 Eb6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-008_paderewski-ignacy-jan--manru-erster-akt-viii-scene.krn",
+      "label": "Manru, Erster Akt. VIII. Scene, movement 8: VIII. Scene. Die Vorigen Mädchen. \\nSpäter Männer. \\nAllegretto. (PL-Wumfc N26880, kern)",
+      "bar": 111,
+      "notes": "C#6 C#6 D6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 10,
+    "per_1000": 6.0,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-006_paderewski-ignacy-jan--manru-erster-akt-vi-scene.krn",
+      "label": "Manru, Erster Akt. VI. Scene, movement 6 (PL-Wumfc N26880, kern)",
+      "bar": 171,
+      "notes": "A6 A6 A6 A6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26881--001-006_paderewski-ignacy-jan--manru-zweite-akt-iv-scene.krn",
+      "label": "Manru, Zweite Akt. IV. Scene, movement 6 (PL-Wumfc N26881, kern)",
+      "bar": 114,
+      "notes": "G6 G6 G6 G6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26881--001-002_paderewski-ignacy-jan--manru-zweite-akt-i-scene-nr-12-andantino.krn",
+      "label": "Manru, Zweite Akt. I. Scene. Nr 12 Andantino, movement 2 (PL-Wumfc N26881, kern)",
+      "bar": 109,
+      "notes": "G5 G5 G5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 6,
+    "per_1000": 2.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26882--001-006_paderewski-ignacy-jan--manru-dritter-akt-ii-scene-nr-49.krn",
+      "label": "Manru, Dritter Akt. II. Scene. Nr 49, movement 6 (PL-Wumfc N26882, kern)",
+      "bar": 21,
+      "notes": "E6 F#6 G6 F#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-006_paderewski-ignacy-jan--manru-erster-akt-vi-scene.krn",
+      "label": "Manru, Erster Akt. VI. Scene, movement 6 (PL-Wumfc N26880, kern)",
+      "bar": 179,
+      "notes": "C6 D6 Eb6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-007_paderewski-ignacy-jan--manru-erster-akt-vii-scene.krn",
+      "label": "Manru, Erster Akt. VII. Scene, movement 7 (PL-Wumfc N26880, kern)",
+      "bar": 207,
+      "notes": "C#6 Eb6 E6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-011_paderewski-ignacy-jan--manru-erster-akt-ix-scene.krn",
+      "label": "Manru, Erster Akt. IX. Scene, movement 11 (PL-Wumfc N26880, kern)",
+      "bar": 107,
+      "notes": "F#6 G6 G6 F#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26880--001-010_paderewski-ignacy-jan--manru-erster-akt-viii-scene-chore.krn",
+      "label": "Manru, Erster Akt. VIII. Scene. Chöre, movement 10 (PL-Wumfc N26880, kern)",
+      "bar": 42,
+      "notes": "C#6 D6 D6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--n26882--001-016_paderewski-ignacy-jan--manru-dritter-akt-v-scene-nr-155-moderato.krn",
+      "label": "Manru, Dritter Akt. V Scene. Nr 155 Moderato, movement 16 (PL-Wumfc N26882, kern)",
+      "bar": 93,
+      "notes": "G6 Ab6 Ab6 G6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 113,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Ignacy Jan Paderewski",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 7,
+  "values": {
+   "steps": 0.4176530674039484,
+   "repeats": 0.16624821418888416,
+   "leaps": 0.25024156209656306,
+   "move": 3.715547693419134,
+   "rising": 0.4868031560587754,
+   "leap answered": 0.19551451696045774,
+   "range": 15.450000000000001,
+   "register": 71.42857142857143,
+   "even": 0.41401856094271094,
+   "long-short": 0.08889360457428667,
+   "rhythm variety": 2.4550106507179623,
+   "surprise, pitch": 2.5203889424533457,
+   "surprise, rhythm": 1.4832649071227364,
+   "density": 4.879183661755521,
+   "lines": 2.857142857142857
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -7,
+     7,
+     -7
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 4.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r244--001-004_paderewski-ignacy-jan--6-melodies-op-18-vocal-piece.krn",
+      "label": "6 Mélodies op. 18, [Vocal piece], movement 4 (PL-Wumfc R244, kern)",
+      "bar": 19,
+      "notes": "B4 E4 B4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r244--001-005_paderewski-ignacy-jan--6-melodies-op-18-vocal-piece.krn",
+      "label": "6 Mélodies op. 18, [Vocal piece], movement 5 (PL-Wumfc R244, kern)",
+      "bar": 31,
+      "notes": "C#5 F#4 C#5 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 4.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r244--001-002_paderewski-ignacy-jan--6-melodies-op-18-vocal-piece.krn",
+      "label": "6 Mélodies op. 18, [Vocal piece], movement 2 (PL-Wumfc R244, kern)",
+      "bar": 16,
+      "notes": "C5 Bb4 Ab4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r244--001-004_paderewski-ignacy-jan--6-melodies-op-18-vocal-piece.krn",
+      "label": "6 Mélodies op. 18, [Vocal piece], movement 4 (PL-Wumfc R244, kern)",
+      "bar": 70,
+      "notes": "F#5 E5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wumfc/kern/pl-wumfc--r244--001-006_paderewski-ignacy-jan--6-melodies-op-18-vocal-piece.krn",
+      "label": "6 Mélodies op. 18, [Vocal piece], movement 6 (PL-Wumfc R244, kern)",
+      "bar": 32,
+      "notes": "B4 A4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 405,
+   "composers": 45
+  }
+ },
+ {
+  "composer": "Ignacy Jan Paderewski",
+  "kind": "suite",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.4944092667973265,
+   "repeats": 0.18743404191165383,
+   "leaps": 0.13217372732298105,
+   "move": 2.9120430595193323,
+   "rising": 0.473807548505564,
+   "leap answered": 0.3140817237202779,
+   "range": 20.933333333333326,
+   "register": 80.0,
+   "even": 0.6493821817431531,
+   "long-short": 0.048495331345823796,
+   "rhythm variety": 1.9337946668270904,
+   "surprise, pitch": 2.4444140619207557,
+   "surprise, rhythm": 1.27654154388326,
+   "density": 5.713320836131506,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 248,
+   "composers": 18
+  }
+ }
+]

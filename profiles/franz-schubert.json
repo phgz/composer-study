@@ -1,0 +1,1332 @@
+[
+ {
+  "composer": "Franz Schubert",
+  "kind": "dance",
+  "forces": "string quartet",
+  "period": "before 1822",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5216316863257222,
+   "repeats": 0.13668432955314547,
+   "leaps": 0.13302764128627875,
+   "move": 2.8419521792168183,
+   "rising": 0.4915619398342345,
+   "leap answered": 0.37745098039215685,
+   "range": 14.983333333333334,
+   "register": 77.66666666666667,
+   "even": 0.5933836804733105,
+   "long-short": 0.04597012332812229,
+   "rhythm variety": 1.9160521593235835,
+   "surprise, pitch": 2.189605070729556,
+   "surprise, rhythm": 1.075720822603626,
+   "density": 3.9399873582703306,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 431,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Franz Schubert",
+  "kind": "impromptu",
+  "forces": "keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.41319658294648515,
+   "repeats": 0.11443444515155807,
+   "leaps": 0.22481368033636112,
+   "move": 3.6169241194080994,
+   "rising": 0.4706553599518743,
+   "leap answered": 0.1610151927569605,
+   "range": 24.857142857142858,
+   "register": 72.85714285714286,
+   "even": 0.7438254717228275,
+   "long-short": 0.07004842893932509,
+   "rhythm variety": 1.4228024317375585,
+   "surprise, pitch": 2.221948078059568,
+   "surprise, rhythm": 0.8524170944106685,
+   "density": 5.379521199306095,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/4/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 4 (ASAP)",
+      "bar": 171,
+      "notes": "Eb6 C#6 Bb5 C#6"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op142/1/xml_score.musicxml",
+      "label": "Impromptu, D.935 (Op. 142) No. 1 (ASAP)",
+      "bar": 20,
+      "notes": "Eb5 C#5 Bb4 C#5"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/2/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 2 (ASAP)",
+      "bar": 27,
+      "notes": "Ab4 F#4 Eb4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 4,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/2/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 2 (ASAP)",
+      "bar": 48,
+      "notes": "Ab4 B4 D5 B4"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/4/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 4 (ASAP)",
+      "bar": 169,
+      "notes": "Bb5 C#6 E6 C#6"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op142/3/xml_score.musicxml",
+      "label": "Impromptu, D.935 (Op. 142) No. 3 (ASAP)",
+      "bar": 112,
+      "notes": "E4 G4 Bb4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     5,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "asap:Schubert/Impromptu_op142/1/xml_score.musicxml",
+      "label": "Impromptu, D.935 (Op. 142) No. 1 (ASAP)",
+      "bar": 81,
+      "notes": "F#3 Bb3 Eb4 F#4"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/2/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 2 (ASAP)",
+      "bar": 27,
+      "notes": "B3 Eb4 Ab4 B4"
+     },
+     {
+      "work": "mutopia:SchubertF/D935/SchubertF-D935-4-Impromptu",
+      "label": "Impromptu in f-moll (D935 (Op. 142 No 4., 1827)) (Mutopia)",
+      "bar": 8,
+      "notes": "Ab4 C5 F5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:SchubertF/D935/SchubertF-D935-4-Impromptu",
+      "label": "Impromptu in f-moll (D935 (Op. 142 No 4., 1827)) (Mutopia)",
+      "bar": 189,
+      "notes": "Ab6 Eb6 Ab6 C7"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/4/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 4 (ASAP)",
+      "bar": 103,
+      "notes": "Ab3 Eb3 Ab3 C4"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/1/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 1 (ASAP)",
+      "bar": 70,
+      "notes": "B4 F#4 B4 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "asap:Schubert/Impromptu_op142/1/xml_score.musicxml",
+      "label": "Impromptu, D.935 (Op. 142) No. 1 (ASAP)",
+      "bar": 75,
+      "notes": "E4 F#4 Eb4 F#4"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/2/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 2 (ASAP)",
+      "bar": 52,
+      "notes": "Ab5 Bb5 G5 Bb5"
+     },
+     {
+      "work": "mutopia:SchubertF/D935/SchubertF-D935-4-Impromptu",
+      "label": "Impromptu in f-moll (D935 (Op. 142 No 4., 1827)) (Mutopia)",
+      "bar": 93,
+      "notes": "C#5 Eb5 C5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "asap:Schubert/Impromptu_op142/1/xml_score.musicxml",
+      "label": "Impromptu, D.935 (Op. 142) No. 1 (ASAP)",
+      "bar": 21,
+      "notes": "Ab4 C5 Eb5 C#5"
+     },
+     {
+      "work": "mutopia:SchubertF/D935/SchubertF-D935-4-Impromptu",
+      "label": "Impromptu in f-moll (D935 (Op. 142 No 4., 1827)) (Mutopia)",
+      "bar": 193,
+      "notes": "Ab6 C7 Eb7 C#7"
+     },
+     {
+      "work": "asap:Schubert/Impromptu_op.90_D.899/1/xml_score.musicxml",
+      "label": "Impromptu, D.899 (Op. 90) No. 1 (ASAP)",
+      "bar": 67,
+      "notes": "B4 Eb5 F#5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 288,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Franz Schubert",
+  "kind": "minuet",
+  "forces": "string quartet",
+  "period": "before 1822",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5216316863257222,
+   "repeats": 0.13668432955314547,
+   "leaps": 0.13302764128627875,
+   "move": 2.8419521792168183,
+   "rising": 0.4915619398342345,
+   "leap answered": 0.37745098039215685,
+   "range": 14.983333333333334,
+   "register": 77.66666666666667,
+   "even": 0.5933836804733105,
+   "long-short": 0.04597012332812229,
+   "rhythm variety": 1.9160521593235835,
+   "surprise, pitch": 2.189605070729556,
+   "surprise, rhythm": 1.075720822603626,
+   "density": 3.9399873582703306,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 207,
+   "composers": 47
+  }
+ },
+ {
+  "composer": "Franz Schubert",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "before 1822",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.43097132133076954,
+   "repeats": 0.16972509900213714,
+   "leaps": 0.2255820970962462,
+   "move": 3.6289801858142554,
+   "rising": 0.4866014346316345,
+   "leap answered": 0.24028641533309672,
+   "range": 25.51666666666667,
+   "register": 73.66666666666667,
+   "even": 0.5902517948050089,
+   "long-short": 0.12205535726075523,
+   "rhythm variety": 2.2268754898133922,
+   "surprise, pitch": 2.631203363944624,
+   "surprise, rhythm": 1.4284869863920555,
+   "density": 5.17242641137378,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 40,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Franz Schubert",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "before 1822",
+  "era": "Romantic",
+  "works": 20,
+  "values": {
+   "steps": 0.3925804050963807,
+   "repeats": 0.28117074598363445,
+   "leaps": 0.15187124921498057,
+   "move": 3.0137353453016287,
+   "rising": 0.49387418827142104,
+   "leap answered": 0.26830261270647016,
+   "range": 10.805000000000001,
+   "register": 70.575,
+   "even": 0.3374750307463614,
+   "long-short": 0.1932449728454079,
+   "rhythm variety": 2.6544976478967173,
+   "surprise, pitch": 2.584949934894653,
+   "surprise, rhythm": 1.673049284368733,
+   "density": 3.5240936965457186,
+   "lines": 2.15
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     3,
+     -5
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 6.3,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub33.krn",
+      "label": "Litanei auf das Fest Aller Seelen (kern)",
+      "bar": 9,
+      "notes": "G4 G4 Bb4 F4"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Gretchen_am_Spinnrade,_D.118/lc7111114.mxl",
+      "label": "Gretchen am Spinnrade, D.118 (OpenScore)",
+      "bar": 6,
+      "notes": "A4 A4 C5 G4"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Der_Erlkönig,_D.328/lc29062370.mxl",
+      "label": "Der Erlkönig, D.328 (OpenScore)",
+      "bar": 62,
+      "notes": "D5 D5 F5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub30.krn",
+      "label": "An mein Klavier (kern)",
+      "bar": 13,
+      "notes": "A4 C#5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Im_Gegenwärtigen_Vergangenes,_D.710/lc28789279.mxl",
+      "label": "Im Gegenwärtigen Vergangenes, D.710 (OpenScore)",
+      "bar": 48,
+      "notes": "D4 F#4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 4,
+    "per_1000": 2.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Die_Forelle,_Op.32,_D550d/lc6900961.mxl",
+      "label": "Die Forelle, Op.32, D550d (OpenScore)",
+      "bar": 17,
+      "notes": "C#5 C5 Eb5 C#5"
+     },
+     {
+      "work": "kern/schubert-songs:schub02.krn",
+      "label": "Das Rosenband (kern)",
+      "bar": 3,
+      "notes": "C#5 C5 Eb5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Das_Rosenband,_D.280/lc5946872.mxl",
+      "label": "Das Rosenband, D.280 (OpenScore)",
+      "bar": 3,
+      "notes": "C#5 C5 Eb5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub30.krn",
+      "label": "An mein Klavier (kern)",
+      "bar": 3,
+      "notes": "D5 C#5 E5 D5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Im_Gegenwärtigen_Vergangenes,_D.710/lc28789279.mxl",
+      "label": "Im Gegenwärtigen Vergangenes, D.710 (OpenScore)",
+      "bar": 8,
+      "notes": "C#4 C4 Eb4 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Gretchen_am_Spinnrade,_D.118/lc7111114.mxl",
+      "label": "Gretchen am Spinnrade, D.118 (OpenScore)",
+      "bar": 101,
+      "notes": "D5 E5 F5 F5"
+     },
+     {
+      "work": "kern/schubert-songs:schub32.krn",
+      "label": "An die Musik (kern)",
+      "bar": 15,
+      "notes": "B4 C#5 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/An_die_Musik,_D.547/lc6180725.mxl",
+      "label": "An die Musik, D.547 (OpenScore)",
+      "bar": 15,
+      "notes": "B4 C#5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub02.krn",
+      "label": "Das Rosenband (kern)",
+      "bar": 5,
+      "notes": "Eb5 B4 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Das_Rosenband,_D.280/lc5946872.mxl",
+      "label": "Das Rosenband, D.280 (OpenScore)",
+      "bar": 5,
+      "notes": "Eb5 B4 C5 C5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/_/Liebesrausch,_D.179/lc7071193.mxl",
+      "label": "Liebesrausch, D.179 (OpenScore)",
+      "bar": 7,
+      "notes": "Bb4 F#4 G4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 974,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Franz Schubert",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "late",
+  "era": "Romantic",
+  "works": 105,
+  "values": {
+   "steps": 0.4332007966694619,
+   "repeats": 0.23968675969533923,
+   "leaps": 0.1613781377829541,
+   "move": 3.076844452413837,
+   "rising": 0.46371498380030635,
+   "leap answered": 0.22659132648998442,
+   "range": 12.055238095238092,
+   "register": 70.70476190476191,
+   "even": 0.36224094721695327,
+   "long-short": 0.18752396241800698,
+   "rhythm variety": 2.59755421015578,
+   "surprise, pitch": 2.3563219048868547,
+   "surprise, rhythm": 1.5255838530578507,
+   "density": 5.718733085389115,
+   "lines": 2.6952380952380954
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 14,
+    "per_1000": 1.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Die_schöne_Müllerin,_D.795/17_Die_böse_Farbe/lc4985934.mxl",
+      "label": "Die schöne Müllerin, D.795, Die böse Farbe (OpenScore)",
+      "bar": 7,
+      "notes": "Eb5 F#5 E5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/4_Lieder,_Op.96/4_Fischerweise,_D.881/lc6487832.mxl",
+      "label": "Lieder, Op.96, Fischerweise, D.881 (OpenScore)",
+      "bar": 36,
+      "notes": "C#5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/schubert_winterreise:notes/n04.notes.tsv",
+      "label": "Winterreise, D. 911, Op. 89, movement 4: Erstarrung (DCML)",
+      "bar": 16,
+      "notes": "D5 F5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -5,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.8,
+    "works": 8,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/schubert_winterreise:notes/n19.notes.tsv",
+      "label": "Winterreise, D. 911, Op. 89, movement 19: Täuschung (DCML)",
+      "bar": 18,
+      "notes": "Ab5 A5 E5 E5"
+     },
+     {
+      "work": "dcml/schubert_winterreise:notes/n13.notes.tsv",
+      "label": "Winterreise, D. 911, Op. 89, movement 13: Die Post (DCML)",
+      "bar": 12,
+      "notes": "G4 Ab4 Eb4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Schwanengesang,_D.957/07_Abschied/lc4978506.mxl",
+      "label": "Schwanengesang, D.957, Abschied (OpenScore)",
+      "bar": 42,
+      "notes": "C5 C#5 Ab4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 8,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub26.krn",
+      "label": "Lachen und Weinen (kern)",
+      "bar": 23,
+      "notes": "C5 C#5 Bb4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Op.59/4_Lachen_und_Weinen/lc4982491.mxl",
+      "label": "Op.59, Lachen und Weinen (OpenScore)",
+      "bar": 31,
+      "notes": "C5 C#5 Bb4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Op.60/1_Greisengesang,_D.778/lc4982505.mxl",
+      "label": "Op.60, Greisengesang, D.778 (OpenScore)",
+      "bar": 44,
+      "notes": "Bb3 B3 Ab3 F#3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.7,
+    "works": 9,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub08.krn",
+      "label": "Horch, horch, die Lerch (kern)",
+      "bar": 15,
+      "notes": "C5 Eb5 Eb5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Die_schöne_Müllerin,_D.795/18_Trockne_Blumen/lc4985949.mxl",
+      "label": "Die schöne Müllerin, D.795, Trockne Blumen (OpenScore)",
+      "bar": 5,
+      "notes": "B4 D5 D5 D5"
+     },
+     {
+      "work": "kern/schubert-songs:schub05.krn",
+      "label": "Das Fischermaedchen (kern)",
+      "bar": 28,
+      "notes": "C#5 E5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.5,
+    "works": 13,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Die_schöne_Müllerin,_D.795/3_Halt!/lc4985937.mxl",
+      "label": "Die schöne Müllerin, D.795, Halt! (OpenScore)",
+      "bar": 48,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Die_schöne_Müllerin,_D.795/18_Trockne_Blumen/lc4985949.mxl",
+      "label": "Die schöne Müllerin, D.795, Trockne Blumen (OpenScore)",
+      "bar": 38,
+      "notes": "F#5 E5 Eb5 E5"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Schwanengesang,_D.957/07_Abschied/lc4978506.mxl",
+      "label": "Schwanengesang, D.957, Abschied (OpenScore)",
+      "bar": 37,
+      "notes": "Bb4 Ab4 G4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 5.3,
+    "works": 7,
+    "per_1000": 0.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/schubert-songs:schub01.krn",
+      "label": "Du bist die Ruh (kern)",
+      "bar": 16,
+      "notes": "G4 F4 G4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Schubert,_Franz/Op.59/3_Du_bist_die_Ruh/lc4919879.mxl",
+      "label": "Op.59, Du bist die Ruh (OpenScore)",
+      "bar": 23,
+      "notes": "G4 F4 G4 Ab4"
+     },
+     {
+      "work": "dcml/schubert_winterreise:notes/n20.notes.tsv",
+      "label": "Winterreise, D. 911, Op. 89, movement 20: Der Wegweiser (DCML)",
+      "bar": 12,
+      "notes": "A4 G4 A4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 974,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Franz Schubert",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "before 1822",
+  "era": "Romantic",
+  "works": 17,
+  "values": {
+   "steps": 0.5457950618685077,
+   "repeats": 0.11621848272586716,
+   "leaps": 0.16720087337669454,
+   "move": 3.1985145396807813,
+   "rising": 0.4798594657653767,
+   "leap answered": 0.3390554386802315,
+   "range": 21.099999999999994,
+   "register": 75.29411764705883,
+   "even": 0.5874775992270748,
+   "long-short": 0.07290033963310105,
+   "rhythm variety": 2.1162286001414845,
+   "surprise, pitch": 2.4712727251602886,
+   "surprise, rhythm": 1.3420670666912835,
+   "density": 4.923960327202003,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 7.1,
+    "works": 8,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_B-flat_major,_D.36,_No.3/sq30897104.mxl#4",
+      "label": "String Quartet in B-flat major, D.36, No.3, movement 4: Allegretto (OpenScore)",
+      "bar": 3,
+      "notes": "Bb4 C5 D5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_minor,_D.18,_No.1/sq26227081.mxl#1",
+      "label": "String Quartet in G minor, D.18, No.1, movement 1 (OpenScore)",
+      "bar": 3,
+      "notes": "Eb5 F5 G5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E-flat_major,_D.87,_No.10/sq26745994.mxl#4",
+      "label": "String Quartet in E-flat major, D.87, No.10, movement 4: Allegro (OpenScore)",
+      "bar": 28,
+      "notes": "Bb5 C6 D6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 7,
+    "per_1000": 2.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_C_minor,_D.703,_No.12/sq7648382.mxl",
+      "label": "String Quartet in C minor, D.703, No.12 (OpenScore)",
+      "bar": 90,
+      "notes": "B4 C5 A4 G4"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E_major,_D.353,_No.11/sq27306670.mxl#4",
+      "label": "String Quartet in E major, D.353, No.11, movement 4: Rondo Allegro vivace (OpenScore)",
+      "bar": 7,
+      "notes": "Eb5 E5 C#5 B4"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E-flat_major,_D.87,_No.10/sq26745994.mxl#1",
+      "label": "String Quartet in E-flat major, D.87, No.10, movement 1 (OpenScore)",
+      "bar": 53,
+      "notes": "D5 Eb5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_B-flat_major,_D.36,_No.3/sq30897104.mxl#1",
+      "label": "String Quartet in B-flat major, D.36, No.3, movement 1 (OpenScore)",
+      "bar": 65,
+      "notes": "G5 E5 F5 G5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E_major,_D.353,_No.11/sq27306670.mxl#4",
+      "label": "String Quartet in E major, D.353, No.11, movement 4: Rondo Allegro vivace (OpenScore)",
+      "bar": 36,
+      "notes": "Ab5 F5 F#5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E-flat_major,_D.87,_No.10/sq26745994.mxl#1",
+      "label": "String Quartet in E-flat major, D.87, No.10, movement 1 (OpenScore)",
+      "bar": 13,
+      "notes": "F4 D4 Eb4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.1,
+    "works": 6,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E-flat_major,_D.87,_No.10/sq26745994.mxl#4",
+      "label": "String Quartet in E-flat major, D.87, No.10, movement 4: Allegro (OpenScore)",
+      "bar": 66,
+      "notes": "C5 D5 Eb5 G5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E-flat_major,_D.87,_No.10/sq26745994.mxl#2",
+      "label": "String Quartet in E-flat major, D.87, No.10, movement 2: Scherzo Prestissimo (OpenScore)",
+      "bar": 7,
+      "notes": "C5 D5 Eb5 G5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_minor,_D.18,_No.1/sq26227081.mxl#1",
+      "label": "String Quartet in G minor, D.18, No.1, movement 1 (OpenScore)",
+      "bar": 53,
+      "notes": "C5 D5 Eb5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     9,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 2,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_minor,_D.18,_No.1/sq26227081.mxl#2",
+      "label": "String Quartet in G minor, D.18, No.1, movement 2: Menuetto con Sordini (OpenScore)",
+      "bar": 7,
+      "notes": "C5 A5 Bb5 C6"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E_major,_D.353,_No.11/sq27306670.mxl#4",
+      "label": "String Quartet in E major, D.353, No.11, movement 4: Rondo Allegro vivace (OpenScore)",
+      "bar": 16,
+      "notes": "B4 Ab5 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_minor,_D.18,_No.1/sq26227081.mxl#2",
+      "label": "String Quartet in G minor, D.18, No.1, movement 2: Menuetto con Sordini (OpenScore)",
+      "bar": 1,
+      "notes": "C6 A5 F5 F5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E_major,_D.353,_No.11/sq27306670.mxl#1",
+      "label": "String Quartet in E major, D.353, No.11, movement 1 (OpenScore)",
+      "bar": 12,
+      "notes": "B6 Ab6 E6 E6"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_E_major,_D.353,_No.11/sq27306670.mxl#2",
+      "label": "String Quartet in E major, D.353, No.11, movement 2: Andante (OpenScore)",
+      "bar": 87,
+      "notes": "E6 C#6 A5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 230,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Franz Schubert",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "late",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.3976450843591735,
+   "repeats": 0.2450661980491857,
+   "leaps": 0.19157406783198275,
+   "move": 3.8505731566103614,
+   "rising": 0.506858605364715,
+   "leap answered": 0.1774879224365953,
+   "range": 23.312499999999996,
+   "register": 76.41666666666667,
+   "even": 0.579379925623383,
+   "long-short": 0.10920070521376606,
+   "rhythm variety": 2.207900257009842,
+   "surprise, pitch": 2.8406737133132336,
+   "surprise, rhythm": 1.3864255376583898,
+   "density": 4.777288386263943,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.2450661980491857,
+    "others": 0.12865022454706124,
+    "auc": 0.8165239726027397
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 4,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#1",
+      "label": "String Quartet in G major, D.887, No.15, movement 1 (OpenScore)",
+      "bar": 177,
+      "notes": "D5 F5 F5 F5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#2",
+      "label": "String Quartet in G major, D.887, No.15, movement 2: Andante un poco moto (OpenScore)",
+      "bar": 123,
+      "notes": "D5 F5 F5 F5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#3",
+      "label": "String Quartet in G major, D.887, No.15, movement 3: Scherzo Allegro vivace (OpenScore)",
+      "bar": 39,
+      "notes": "C6 Eb6 Eb6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_D_minor,_D.810,_No.14_(“Death_and_the_Maiden”)/sq7397765.mxl#4",
+      "label": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”), movement 4: Presto. (OpenScore)",
+      "bar": 41,
+      "notes": "C6 C6 C6 E6"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#4",
+      "label": "String Quartet in G major, D.887, No.15, movement 4: Allegro assai (OpenScore)",
+      "bar": 14,
+      "notes": "D4 D4 D4 F#4"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_D_minor,_D.810,_No.14_(“Death_and_the_Maiden”)/sq7397765.mxl#1",
+      "label": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”), movement 1 (OpenScore)",
+      "bar": 44,
+      "notes": "F5 F5 F5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 6,
+    "per_1000": 1.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_D_minor,_D.810,_No.14_(“Death_and_the_Maiden”)/sq7397765.mxl#2",
+      "label": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”), movement 2: Andante con moto (OpenScore)",
+      "bar": 125,
+      "notes": "D5 G5 G5 G5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_D_minor,_D.810,_No.14_(“Death_and_the_Maiden”)/sq7397765.mxl#3",
+      "label": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”), movement 3: Scherzo Allegro molto (OpenScore)",
+      "bar": 87,
+      "notes": "E6 A6 A6 A6"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#4",
+      "label": "String Quartet in G major, D.887, No.15, movement 4: Allegro assai (OpenScore)",
+      "bar": 19,
+      "notes": "F5 Bb5 Bb5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -12,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 5,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#4",
+      "label": "String Quartet in G major, D.887, No.15, movement 4: Allegro assai (OpenScore)",
+      "bar": 75,
+      "notes": "C6 C5 C5 C5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_D_minor,_D.810,_No.14_(“Death_and_the_Maiden”)/sq7397765.mxl#3",
+      "label": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”), movement 3: Scherzo Allegro molto (OpenScore)",
+      "bar": 141,
+      "notes": "A4 A3 A3 A3"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_D_minor,_D.810,_No.14_(“Death_and_the_Maiden”)/sq7397765.mxl#2",
+      "label": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”), movement 2: Andante con moto (OpenScore)",
+      "bar": 147,
+      "notes": "G5 G4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 7,
+    "per_1000": 1.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#4",
+      "label": "String Quartet in G major, D.887, No.15, movement 4: Allegro assai (OpenScore)",
+      "bar": 31,
+      "notes": "C6 C6 C6 D6"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_D_minor,_D.810,_No.14_(“Death_and_the_Maiden”)/sq7397765.mxl#2",
+      "label": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”), movement 2: Andante con moto (OpenScore)",
+      "bar": 117,
+      "notes": "A5 A5 A5 B5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#3",
+      "label": "String Quartet in G major, D.887, No.15, movement 3: Scherzo Allegro vivace (OpenScore)",
+      "bar": 11,
+      "notes": "E5 E5 E5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#1",
+      "label": "String Quartet in G major, D.887, No.15, movement 1 (OpenScore)",
+      "bar": 154,
+      "notes": "A3 D4 E4 F4"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_G_major,_D.887,_No.15/sq17329942.mxl#4",
+      "label": "String Quartet in G major, D.887, No.15, movement 4: Allegro assai (OpenScore)",
+      "bar": 208,
+      "notes": "F#4 B4 C#5 D5"
+     },
+     {
+      "work": "openscore-quartets:Schubert,_Franz/String_Quartet_in_D_minor,_D.810,_No.14_(“Death_and_the_Maiden”)/sq7397765.mxl#1",
+      "label": "String Quartet in D minor, D.810, No.14 (“Death and the Maiden”), movement 1 (OpenScore)",
+      "bar": 19,
+      "notes": "A4 D5 E5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 230,
+   "composers": 32
+  }
+ }
+]

@@ -1,0 +1,233 @@
+[
+ {
+  "composer": "Lambert Kraus",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 18,
+  "values": {
+   "steps": 0.5093236518470798,
+   "repeats": 0.32384804783684346,
+   "leaps": 0.07782946756077724,
+   "move": 2.6482507966875937,
+   "rising": 0.40630083148349083,
+   "leap answered": 0.48365316275764036,
+   "range": 11.458333333333334,
+   "register": 73.91666666666667,
+   "even": 0.4423946658982796,
+   "long-short": 0.067766240329199,
+   "rhythm variety": 2.4656641114653315,
+   "surprise, pitch": 2.3803937722360113,
+   "surprise, rhythm": 1.903040237510618,
+   "density": 7.638830962341604,
+   "lines": 8.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 8.6,
+    "works": 3,
+    "per_1000": 7.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--78-a-ii-18--001-003_kraus-lambert--requiem-ex-dis-dies-irae.krn",
+      "label": "Requiem ex Dis, Dies irae, movement 3 (PL-SA 78/A II 18, kern)",
+      "bar": 11,
+      "notes": "Bb5 C6 Bb5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-365--001-005_kraus-lambert--requiem-quid-sum-miser.krn",
+      "label": "Requiem, Quid sum miser, movement 5 (PL-CZ III-365, kern)",
+      "bar": 3,
+      "notes": "Bb5 C6 Bb5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-365--001-003_kraus-lambert--requiem-kyrie.krn",
+      "label": "Requiem, Kyrie, movement 3 (PL-CZ III-365, kern)",
+      "bar": 1,
+      "notes": "Bb5 C6 Bb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     2,
+     -2
+    ],
+    "z": 8.0,
+    "works": 4,
+    "per_1000": 7.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--78-a-ii-18--001-008_kraus-lambert--requiem-ex-dis-agnus-dei.krn",
+      "label": "Requiem ex Dis, Agnus Dei, movement 8 (PL-SA 78/A II 18, kern)",
+      "bar": 5,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-365--001-012_kraus-lambert--requiem-agnus-dei.krn",
+      "label": "Requiem, Agnus Dei, movement 12 (PL-CZ III-365, kern)",
+      "bar": 5,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--78-a-ii-18--001-005_kraus-lambert--requiem-ex-dis-responde-mihi.krn",
+      "label": "Requiem ex Dis, Responde mihi, movement 5 (PL-SA 78/A II 18, kern)",
+      "bar": 28,
+      "notes": "Bb4 Bb4 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 7.2,
+    "works": 5,
+    "per_1000": 7.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--78-a-ii-18--001-003_kraus-lambert--requiem-ex-dis-dies-irae.krn",
+      "label": "Requiem ex Dis, Dies irae, movement 3 (PL-SA 78/A II 18, kern)",
+      "bar": 50,
+      "notes": "Ab5 G5 F5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-365--001-003_kraus-lambert--requiem-kyrie.krn",
+      "label": "Requiem, Kyrie, movement 3 (PL-CZ III-365, kern)",
+      "bar": 62,
+      "notes": "Ab5 G5 F5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-365--001-011_kraus-lambert--requiem-osanna.krn",
+      "label": "Requiem, Osanna, movement 11 (PL-CZ III-365, kern)",
+      "bar": 10,
+      "notes": "Ab5 G5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 7.0,
+    "works": 2,
+    "per_1000": 4.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-365--001-005_kraus-lambert--requiem-quid-sum-miser.krn",
+      "label": "Requiem, Quid sum miser, movement 5 (PL-CZ III-365, kern)",
+      "bar": 3,
+      "notes": "Bb5 Ab5 Ab5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--78-a-ii-18--001-003_kraus-lambert--requiem-ex-dis-dies-irae.krn",
+      "label": "Requiem ex Dis, Dies irae, movement 3 (PL-SA 78/A II 18, kern)",
+      "bar": 48,
+      "notes": "Bb5 Ab5 Ab5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 7.0,
+    "works": 2,
+    "per_1000": 4.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--78-a-ii-18--001-003_kraus-lambert--requiem-ex-dis-dies-irae.krn",
+      "label": "Requiem ex Dis, Dies irae, movement 3 (PL-SA 78/A II 18, kern)",
+      "bar": 11,
+      "notes": "Ab5 Bb5 C6 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-365--001-005_kraus-lambert--requiem-quid-sum-miser.krn",
+      "label": "Requiem, Quid sum miser, movement 5 (PL-CZ III-365, kern)",
+      "bar": 3,
+      "notes": "Ab5 Bb5 C6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 7.0,
+    "works": 2,
+    "per_1000": 4.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--78-a-ii-18--001-003_kraus-lambert--requiem-ex-dis-dies-irae.krn",
+      "label": "Requiem ex Dis, Dies irae, movement 3 (PL-SA 78/A II 18, kern)",
+      "bar": 11,
+      "notes": "G5 Ab5 Bb5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-365--001-005_kraus-lambert--requiem-quid-sum-miser.krn",
+      "label": "Requiem, Quid sum miser, movement 5 (PL-CZ III-365, kern)",
+      "bar": 3,
+      "notes": "G5 Ab5 Bb5 C6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 629,
+   "composers": 34
+  }
+ }
+]

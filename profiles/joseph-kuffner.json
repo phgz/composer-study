@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Joseph Küffner",
+  "kind": "air",
+  "forces": "plucked",
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.33302678915687606,
+   "repeats": 0.07760751086341151,
+   "leaps": 0.2824574093724342,
+   "move": 4.310822771678431,
+   "rising": 0.5743962088404473,
+   "leap answered": 0.011111111111111112,
+   "range": 17.666666666666668,
+   "register": 59.666666666666664,
+   "even": 0.9141397166174756,
+   "long-short": 0.020642739854562515,
+   "rhythm variety": 0.556210686076536,
+   "surprise, pitch": 1.6774673017626462,
+   "surprise, rhythm": 0.5016096828348894,
+   "density": 4.541373239436619,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 24,
+   "composers": 11
+  }
+ }
+]

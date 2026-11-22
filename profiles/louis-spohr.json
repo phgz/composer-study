@@ -1,0 +1,264 @@
+[
+ {
+  "composer": "Louis Spohr",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5963224100566556,
+   "repeats": 0.08909102795608795,
+   "leaps": 0.18017945539738783,
+   "move": 3.137093602919888,
+   "rising": 0.4475977784956314,
+   "leap answered": 0.3344380740032914,
+   "range": 23.25,
+   "register": 74.8,
+   "even": 0.6223472798381302,
+   "long-short": 0.0929671371135487,
+   "rhythm variety": 2.1228492237685175,
+   "surprise, pitch": 2.615405527814564,
+   "surprise, rhythm": 1.540161804246966,
+   "density": 2.874874550917279,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5963224100566556,
+    "others": 0.494889329997361,
+    "auc": 0.7779679220440794
+   },
+   {
+    "measure": "density",
+    "value": 2.874874550917279,
+    "others": 4.965511321193512,
+    "auc": 0.11003383061018679
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 8.9,
+    "works": 5,
+    "per_1000": 5.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#1",
+      "label": "String Quartet No.1, Op.4 No.1, movement 1 (OpenScore)",
+      "bar": 84,
+      "notes": "G5 F#5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#3",
+      "label": "String Quartet No.1, Op.4 No.1, movement 3: Adagio Sopra una Corda (OpenScore)",
+      "bar": 20,
+      "notes": "G5 F#5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#4",
+      "label": "String Quartet No.1, Op.4 No.1, movement 4: Allegro (OpenScore)",
+      "bar": 87,
+      "notes": "G5 F#5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 7.6,
+    "works": 3,
+    "per_1000": 3.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#3",
+      "label": "String Quartet No.1, Op.4 No.1, movement 3: Adagio Sopra una Corda (OpenScore)",
+      "bar": 20,
+      "notes": "D5 G5 F#5 E5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#4",
+      "label": "String Quartet No.1, Op.4 No.1, movement 4: Allegro (OpenScore)",
+      "bar": 87,
+      "notes": "D5 G5 F#5 E5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#5",
+      "label": "String Quartet No.1, Op.4 No.1, movement 5 (OpenScore)",
+      "bar": 244,
+      "notes": "G4 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 4,
+    "per_1000": 5.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#3",
+      "label": "String Quartet No.1, Op.4 No.1, movement 3: Adagio Sopra una Corda (OpenScore)",
+      "bar": 20,
+      "notes": "F#5 E5 D5 C5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#1",
+      "label": "String Quartet No.1, Op.4 No.1, movement 1 (OpenScore)",
+      "bar": 84,
+      "notes": "F#5 E5 D5 C5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#4",
+      "label": "String Quartet No.1, Op.4 No.1, movement 4: Allegro (OpenScore)",
+      "bar": 88,
+      "notes": "F#5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     5,
+     -7
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.7,
+    "works": 3,
+    "per_1000": 3.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#3",
+      "label": "String Quartet No.1, Op.4 No.1, movement 3: Adagio Sopra una Corda (OpenScore)",
+      "bar": 19,
+      "notes": "B5 E5 A5 D5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#4",
+      "label": "String Quartet No.1, Op.4 No.1, movement 4: Allegro (OpenScore)",
+      "bar": 85,
+      "notes": "B5 E5 A5 D5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#5",
+      "label": "String Quartet No.1, Op.4 No.1, movement 5 (OpenScore)",
+      "bar": 242,
+      "notes": "E5 A4 D5 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     5,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     1
+    ],
+    "z": 6.7,
+    "works": 3,
+    "per_1000": 3.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#3",
+      "label": "String Quartet No.1, Op.4 No.1, movement 3: Adagio Sopra una Corda (OpenScore)",
+      "bar": 19,
+      "notes": "A5 D5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#4",
+      "label": "String Quartet No.1, Op.4 No.1, movement 4: Allegro (OpenScore)",
+      "bar": 86,
+      "notes": "A5 D5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#5",
+      "label": "String Quartet No.1, Op.4 No.1, movement 5 (OpenScore)",
+      "bar": 243,
+      "notes": "D5 G4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -7,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 3.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#3",
+      "label": "String Quartet No.1, Op.4 No.1, movement 3: Adagio Sopra una Corda (OpenScore)",
+      "bar": 19,
+      "notes": "E5 A5 D5 G5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#4",
+      "label": "String Quartet No.1, Op.4 No.1, movement 4: Allegro (OpenScore)",
+      "bar": 86,
+      "notes": "E5 A5 D5 G5"
+     },
+     {
+      "work": "openscore-quartets:Spohr,_Louis/String_Quartet_No.1,_Op.4_No.1/sq27975730.mxl#5",
+      "label": "String Quartet No.1, Op.4 No.1, movement 5 (OpenScore)",
+      "bar": 243,
+      "notes": "A4 D5 G4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 254,
+   "composers": 32
+  }
+ }
+]

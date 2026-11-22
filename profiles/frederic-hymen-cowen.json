@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Frederic Hymen Cowen",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4982881940687847,
+   "repeats": 0.20289348095255266,
+   "leaps": 0.1320981643766454,
+   "move": 2.8427199618771657,
+   "rising": 0.44228852141291153,
+   "leap answered": 0.3710536398467433,
+   "range": 13.0,
+   "register": 69.33333333333333,
+   "even": 0.3419041986585624,
+   "long-short": 0.11179069640997291,
+   "rhythm variety": 2.6316292296840893,
+   "surprise, pitch": 2.239288771415574,
+   "surprise, rhythm": 1.474437109874854,
+   "density": 5.46019302175253,
+   "lines": 3.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1096,
+   "composers": 97
+  }
+ }
+]

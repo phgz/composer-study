@@ -1,0 +1,294 @@
+[
+ {
+  "composer": "Michał Orłowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 13,
+  "values": {
+   "steps": 0.3429246575781534,
+   "repeats": 0.41085792476862854,
+   "leaps": 0.1161367969784659,
+   "move": 3.133905136219414,
+   "rising": 0.44557693818671207,
+   "leap answered": 0.2211405280879643,
+   "range": 14.461538461538462,
+   "register": 74.46153846153847,
+   "even": 0.7417446559458084,
+   "long-short": 0.046553246159718675,
+   "rhythm variety": 1.4182606877247597,
+   "surprise, pitch": 1.9343533960130033,
+   "surprise, rhythm": 1.234358045184533,
+   "density": 8.143048842112528,
+   "lines": 6.923076923076923
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3429246575781534,
+    "others": 0.5208805626668359,
+    "auc": 0.17681369039516118
+   },
+   {
+    "measure": "repeats",
+    "value": 0.41085792476862854,
+    "others": 0.2442076431799536,
+    "auc": 0.769912630628204
+   },
+   {
+    "measure": "even",
+    "value": 0.7417446559458084,
+    "others": 0.48413163851356644,
+    "auc": 0.8605232074162318
+   },
+   {
+    "measure": "long-short",
+    "value": 0.046553246159718675,
+    "others": 0.09879880564777677,
+    "auc": 0.24040108346051928
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.4182606877247597,
+    "others": 2.347634489453491,
+    "auc": 0.13504478503351974
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 1.9343533960130033,
+    "others": 2.6074847459432147,
+    "auc": 0.12065594298155581
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.234358045184533,
+    "others": 1.8655152971168045,
+    "auc": 0.1710153265984196
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 13,
+    "per_1000": 12.4,
+    "others_per_1000": 4.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-008_orlowski-michal--missa-ex-g-patrem.krn",
+      "label": "Missa ex G, Patrem, movement 8 (PL-CZ II-188, kern)",
+      "bar": 2,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-004_orlowski-michal--missa-ex-g-domine-deus.krn",
+      "label": "Missa ex G, Domine Deus, movement 4 (PL-CZ II-188, kern)",
+      "bar": 18,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-006_orlowski-michal--missa-ex-g-quoniam.krn",
+      "label": "Missa ex G, Quoniam, movement 6 (PL-CZ II-188, kern)",
+      "bar": 1,
+      "notes": "C4 C4 C4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 3.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-009_orlowski-michal--missa-ex-g-et-incarnatus.krn",
+      "label": "Missa ex G, Et incarnatus, movement 9 (PL-CZ II-188, kern)",
+      "bar": 5,
+      "notes": "C5 A4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-011_orlowski-michal--missa-ex-g-sanctus.krn",
+      "label": "Missa ex G, Sanctus, movement 11 (PL-CZ II-188, kern)",
+      "bar": 26,
+      "notes": "G5 E5 C#5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-002_orlowski-michal--missa-ex-g-gloria.krn",
+      "label": "Missa ex G, Gloria, movement 2 (PL-CZ II-188, kern)",
+      "bar": 14,
+      "notes": "C5 A4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 6,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-012_orlowski-michal--missa-ex-g-benedictus.krn",
+      "label": "Missa ex G, Benedictus, movement 12 (PL-CZ II-188, kern)",
+      "bar": 32,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-006_orlowski-michal--missa-ex-g-quoniam.krn",
+      "label": "Missa ex G, Quoniam, movement 6 (PL-CZ II-188, kern)",
+      "bar": 13,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-004_orlowski-michal--missa-ex-g-domine-deus.krn",
+      "label": "Missa ex G, Domine Deus, movement 4 (PL-CZ II-188, kern)",
+      "bar": 29,
+      "notes": "A5 G5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.1,
+    "works": 6,
+    "per_1000": 4.6,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-012_orlowski-michal--missa-ex-g-benedictus.krn",
+      "label": "Missa ex G, Benedictus, movement 12 (PL-CZ II-188, kern)",
+      "bar": 32,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-006_orlowski-michal--missa-ex-g-quoniam.krn",
+      "label": "Missa ex G, Quoniam, movement 6 (PL-CZ II-188, kern)",
+      "bar": 13,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-010_orlowski-michal--missa-ex-g-et-resurrexit.krn",
+      "label": "Missa ex G, Et resurrexit, movement 10 (PL-CZ II-188, kern)",
+      "bar": 65,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 9,
+    "per_1000": 5.2,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-011_orlowski-michal--missa-ex-g-sanctus.krn",
+      "label": "Missa ex G, Sanctus, movement 11 (PL-CZ II-188, kern)",
+      "bar": 6,
+      "notes": "F#5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-001_orlowski-michal--missa-ex-g-kyrie.krn",
+      "label": "Missa ex G, Kyrie, movement 1 (PL-CZ II-188, kern)",
+      "bar": 50,
+      "notes": "B4 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-008_orlowski-michal--missa-ex-g-patrem.krn",
+      "label": "Missa ex G, Patrem, movement 8 (PL-CZ II-188, kern)",
+      "bar": 3,
+      "notes": "B5 C6 C6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 8,
+    "per_1000": 5.2,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-011_orlowski-michal--missa-ex-g-sanctus.krn",
+      "label": "Missa ex G, Sanctus, movement 11 (PL-CZ II-188, kern)",
+      "bar": 6,
+      "notes": "F#5 F#5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-003_orlowski-michal--missa-ex-g-laudamus.krn",
+      "label": "Missa ex G, Laudamus, movement 3 (PL-CZ II-188, kern)",
+      "bar": 58,
+      "notes": "C#5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-188--001-008_orlowski-michal--missa-ex-g-patrem.krn",
+      "label": "Missa ex G, Patrem, movement 8 (PL-CZ II-188, kern)",
+      "bar": 3,
+      "notes": "B5 B5 C6 C6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 189,
+   "composers": 20
+  }
+ }
+]

@@ -1,0 +1,78 @@
+[
+ {
+  "composer": "Luise Adolpha Le Beau",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.4653080251536161,
+   "repeats": 0.2824453872832576,
+   "leaps": 0.16704312275273075,
+   "move": 3.055850499336096,
+   "rising": 0.4112507906387223,
+   "leap answered": 0.2774972888474961,
+   "range": 12.264285714285714,
+   "register": 71.28571428571429,
+   "even": 0.4337852884063488,
+   "long-short": 0.18440694517978237,
+   "rhythm variety": 2.4259421758480317,
+   "surprise, pitch": 2.834672819738309,
+   "surprise, rhythm": 1.5055154704933489,
+   "density": 5.6088026495054475,
+   "lines": 3.2857142857142856
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4112507906387223,
+    "others": 0.4690487300771342,
+    "auc": 0.24674539315478178
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.7,
+    "works": 7,
+    "per_1000": 10.1,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Le_Beau,_Luise_Adolpha/2_Duette,_Op.6/1_Frühlingsanfang/lc5883528.mxl",
+      "label": "Duette, Op.6, Frühlingsanfang (OpenScore)",
+      "bar": 4,
+      "notes": "Eb5 C#5 C#5 C#5"
+     },
+     {
+      "work": "openscore-lieder:Le_Beau,_Luise_Adolpha/5_Lieder,_Op.7/5_Wiegenlied/lc6577137.mxl",
+      "label": "Lieder, Op.7, Wiegenlied (OpenScore)",
+      "bar": 23,
+      "notes": "E5 D5 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Le_Beau,_Luise_Adolpha/2_Duette,_Op.6/2_Abendlied/lc5883655.mxl",
+      "label": "Duette, Op.6, Abendlied (OpenScore)",
+      "bar": 16,
+      "notes": "B4 A4 A4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1092,
+   "composers": 97
+  }
+ }
+]

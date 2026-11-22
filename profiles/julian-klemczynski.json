@@ -1,0 +1,66 @@
+[
+ {
+  "composer": "Julian Klemczyński",
+  "kind": "fantasia",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.27499983533509564,
+   "repeats": 0.12327412590121507,
+   "leaps": 0.38790285656496254,
+   "move": 5.691807455875836,
+   "rising": 0.5582054277258371,
+   "leap answered": 0.07831067827963441,
+   "range": 33.550000000000004,
+   "register": 74.33333333333333,
+   "even": 0.6267074141829702,
+   "long-short": 0.02576920226217758,
+   "rhythm variety": 1.5165736222628092,
+   "surprise, pitch": 2.1143642707783172,
+   "surprise, rhythm": 0.8539341982777627,
+   "density": 9.539966705928324,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "Julian Klemczyński",
+  "kind": "romance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.27499983533509564,
+   "repeats": 0.12327412590121507,
+   "leaps": 0.38790285656496254,
+   "move": 5.691807455875836,
+   "rising": 0.5582054277258371,
+   "leap answered": 0.07831067827963441,
+   "range": 33.550000000000004,
+   "register": 74.33333333333333,
+   "even": 0.6267074141829702,
+   "long-short": 0.02576920226217758,
+   "rhythm variety": 1.5165736222628092,
+   "surprise, pitch": 2.1143642707783172,
+   "surprise, rhythm": 0.8539341982777627,
+   "density": 9.539966705928324,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 15
+  }
+ }
+]

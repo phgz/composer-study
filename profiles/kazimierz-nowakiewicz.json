@@ -1,0 +1,239 @@
+[
+ {
+  "composer": "Kazimierz Nowakiewicz",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 21,
+  "values": {
+   "steps": 0.43610756764886077,
+   "repeats": 0.3070661931236612,
+   "leaps": 0.10134697608851706,
+   "move": 2.7833927057814196,
+   "rising": 0.43875294242158336,
+   "leap answered": 0.2777559926076163,
+   "range": 10.902380952380952,
+   "register": 77.71428571428571,
+   "even": 0.565749587473509,
+   "long-short": 0.06608897501773572,
+   "rhythm variety": 2.1200523209430715,
+   "surprise, pitch": 2.715247094451987,
+   "surprise, rhythm": 1.8360250352191307,
+   "density": 10.394484390022248,
+   "lines": 10.380952380952381
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--27c--001-002_nowakiewicz-kazimierz--missa-in-b-gloria.krn",
+      "label": "Missa in B, Gloria, movement 2 (PL-STAb 27c, kern)",
+      "bar": 23,
+      "notes": "F5 G5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--27c--001-007_nowakiewicz-kazimierz--missa-in-b-pleni-sunt.krn",
+      "label": "Missa in B, Pleni sunt, movement 7 (PL-STAb 27c, kern)",
+      "bar": 3,
+      "notes": "F5 G5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     2,
+     -4
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -2
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--27c--001-002_nowakiewicz-kazimierz--missa-in-b-gloria.krn",
+      "label": "Missa in B, Gloria, movement 2 (PL-STAb 27c, kern)",
+      "bar": 22,
+      "notes": "D5 F5 G5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--27c--001-007_nowakiewicz-kazimierz--missa-in-b-pleni-sunt.krn",
+      "label": "Missa in B, Pleni sunt, movement 7 (PL-STAb 27c, kern)",
+      "bar": 2,
+      "notes": "D5 F5 G5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 13,
+    "per_1000": 14.0,
+    "others_per_1000": 5.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--26a--001-002_nowakiewicz-kazimierz--missa-in-d-gloria.krn",
+      "label": "Missa in D, Gloria, movement 2 (PL-STAb 26a, kern)",
+      "bar": 1,
+      "notes": "D6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--26a--001-010_nowakiewicz-kazimierz--missa-in-d-dona-nobis.krn",
+      "label": "Missa in D, Dona nobis, movement 10 (PL-STAb 26a, kern)",
+      "bar": 12,
+      "notes": "G5 G5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--26a--001-007_nowakiewicz-kazimierz--missa-in-d-benedictus.krn",
+      "label": "Missa in D, Benedictus, movement 7 (PL-STAb 26a, kern)",
+      "bar": 30,
+      "notes": "Ab5 Ab5 Ab5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--27c--001-002_nowakiewicz-kazimierz--missa-in-b-gloria.krn",
+      "label": "Missa in B, Gloria, movement 2 (PL-STAb 27c, kern)",
+      "bar": 23,
+      "notes": "Eb5 D5 Eb5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--27c--001-007_nowakiewicz-kazimierz--missa-in-b-pleni-sunt.krn",
+      "label": "Missa in B, Pleni sunt, movement 7 (PL-STAb 27c, kern)",
+      "bar": 3,
+      "notes": "Eb5 D5 Eb5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--26a--001-007_nowakiewicz-kazimierz--missa-in-d-benedictus.krn",
+      "label": "Missa in D, Benedictus, movement 7 (PL-STAb 26a, kern)",
+      "bar": 8,
+      "notes": "D5 C#5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 8,
+    "per_1000": 6.6,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--26a--001-001_nowakiewicz-kazimierz--missa-in-d-kyrie.krn",
+      "label": "Missa in D, Kyrie, movement 1 (PL-STAb 26a, kern)",
+      "bar": 94,
+      "notes": "B5 B5 B5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--27c--001-010_nowakiewicz-kazimierz--missa-in-b-dona-nobis.krn",
+      "label": "Missa in B, Dona nobis, movement 10 (PL-STAb 27c, kern)",
+      "bar": 20,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--19a_nowakiewicz-kazimierz--salve-regina.krn",
+      "label": "Salve Regina (PL-STAb 19a, kern)",
+      "bar": 36,
+      "notes": "G5 G5 G5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--26a--001-007_nowakiewicz-kazimierz--missa-in-d-benedictus.krn",
+      "label": "Missa in D, Benedictus, movement 7 (PL-STAb 26a, kern)",
+      "bar": 22,
+      "notes": "Ab5 Ab5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--26a--001-003_nowakiewicz-kazimierz--missa-in-d-credo.krn",
+      "label": "Missa in D, Credo, movement 3 (PL-STAb 26a, kern)",
+      "bar": 14,
+      "notes": "F#5 F#5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--26a--001-001_nowakiewicz-kazimierz--missa-in-d-kyrie.krn",
+      "label": "Missa in D, Kyrie, movement 1 (PL-STAb 26a, kern)",
+      "bar": 103,
+      "notes": "C#6 C#6 D6 D6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 626,
+   "composers": 34
+  }
+ }
+]

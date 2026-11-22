@@ -1,0 +1,3524 @@
+[
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "air",
+  "forces": null,
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5715523744667823,
+   "repeats": 0.10313411686254896,
+   "leaps": 0.12448756843298875,
+   "move": 2.7717061059486623,
+   "rising": 0.5234961311290827,
+   "leap answered": 0.3146081349206349,
+   "range": 12.712499999999999,
+   "register": 82.25,
+   "even": 0.5564097888533615,
+   "long-short": 0.04634045200082936,
+   "rhythm variety": 2.2471244488288793,
+   "surprise, pitch": 2.8460347386952973,
+   "surprise, rhythm": 1.8820951680199731,
+   "density": 13.630878849044917,
+   "lines": 9.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 23,
+   "composers": 11
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.4852455587430011,
+   "repeats": 0.22266444184602752,
+   "leaps": 0.1331290622850725,
+   "move": 3.0858900207931117,
+   "rising": 0.44372194440555274,
+   "leap answered": 0.22595598845598844,
+   "range": 13.30833333333333,
+   "register": 78.83333333333333,
+   "even": 0.48382266920081896,
+   "long-short": 0.06163599469779137,
+   "rhythm variety": 2.4676455237859147,
+   "surprise, pitch": 2.4608496311221586,
+   "surprise, rhythm": 1.7350695800745504,
+   "density": 6.588258195592981,
+   "lines": 7.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.22266444184602752,
+    "others": 0.12291555674943071,
+    "auc": 0.8115389436431014
+   },
+   {
+    "measure": "even",
+    "value": 0.48382266920081896,
+    "others": 0.6135535769949924,
+    "auc": 0.24574549617301278
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.4676455237859147,
+    "others": 1.8552010511475339,
+    "auc": 0.7856368488020345
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7350695800745504,
+    "others": 1.3052116016123199,
+    "auc": 0.7738945184423667
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 6.5,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV417/MozartHornConcerto2#3",
+      "label": "Mozart Horn Concerto No. 2 (K 417), movement 3: Rondo (Mutopia)",
+      "bar": 11,
+      "notes": "F5 Eb5 D5 Eb5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#3",
+      "label": "Clarinet concerto (KV 622), movement 3: Rondo: Allegro (Mutopia)",
+      "bar": 77,
+      "notes": "A5 G5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 9.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#1",
+      "label": "Clarinet concerto (KV 622), movement 1: Allegro (Mutopia)",
+      "bar": 48,
+      "notes": "C#6 B5 B5 A5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV417/MozartHornConcerto2#1",
+      "label": "Mozart Horn Concerto No. 2 (K 417), movement 1: Allegro maestoso (Mutopia)",
+      "bar": 23,
+      "notes": "G5 F5 F5 Eb5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#3",
+      "label": "Clarinet concerto (KV 622), movement 3: Rondo: Allegro (Mutopia)",
+      "bar": 129,
+      "notes": "F#6 E6 E6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV417/MozartHornConcerto2#3",
+      "label": "Mozart Horn Concerto No. 2 (K 417), movement 3: Rondo (Mutopia)",
+      "bar": 12,
+      "notes": "C5 Bb4 Bb4 Bb4"
+     },
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#1",
+      "label": "Clarinet concerto (KV 622), movement 1: Allegro (Mutopia)",
+      "bar": 48,
+      "notes": "B5 A5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV417/MozartHornConcerto2#1",
+      "label": "Mozart Horn Concerto No. 2 (K 417), movement 1: Allegro maestoso (Mutopia)",
+      "bar": 21,
+      "notes": "Bb5 C6 Ab5 G5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#3",
+      "label": "Clarinet concerto (KV 622), movement 3: Rondo: Allegro (Mutopia)",
+      "bar": 40,
+      "notes": "E6 F#6 D6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 8.1,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#3",
+      "label": "Clarinet concerto (KV 622), movement 3: Rondo: Allegro (Mutopia)",
+      "bar": 13,
+      "notes": "E6 E6 E6 E6"
+     },
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#1",
+      "label": "Clarinet concerto (KV 622), movement 1: Allegro (Mutopia)",
+      "bar": 23,
+      "notes": "E6 E6 E6 E6"
+     },
+     {
+      "work": "mutopia:MozartWA/KV417/MozartHornConcerto2#1",
+      "label": "Mozart Horn Concerto No. 2 (K 417), movement 1: Allegro maestoso (Mutopia)",
+      "bar": 17,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 9.3,
+    "others_per_1000": 2.0,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#3",
+      "label": "Clarinet concerto (KV 622), movement 3: Rondo: Allegro (Mutopia)",
+      "bar": 9,
+      "notes": "E6 E6 E6 E6"
+     },
+     {
+      "work": "mutopia:MozartWA/KV622/MozartK622#1",
+      "label": "Clarinet concerto (KV 622), movement 1: Allegro (Mutopia)",
+      "bar": 23,
+      "notes": "E6 E6 E6 E6"
+     },
+     {
+      "work": "mutopia:MozartWA/KV417/MozartHornConcerto2#3",
+      "label": "Mozart Horn Concerto No. 2 (K 417), movement 3: Rondo (Mutopia)",
+      "bar": 16,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 319,
+   "composers": 26
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "dance",
+  "forces": null,
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.6150331045400474,
+   "repeats": 0.1282241018464706,
+   "leaps": 0.10304491421853819,
+   "move": 2.520520595476559,
+   "rising": 0.4792921181896497,
+   "leap answered": 0.4808501683501684,
+   "range": 10.825000000000001,
+   "register": 76.0,
+   "even": 0.5856146705053273,
+   "long-short": 0.08709704090883474,
+   "rhythm variety": 2.1399822191252107,
+   "surprise, pitch": 2.5397205776124467,
+   "surprise, rhythm": 1.7075193248699412,
+   "density": 3.4911985634253537,
+   "lines": 3.5
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6150331045400474,
+    "others": 0.4966844394600496,
+    "auc": 0.7684155594364306
+   },
+   {
+    "measure": "leaps",
+    "value": 0.10304491421853819,
+    "others": 0.19304569367445143,
+    "auc": 0.2183402066019794
+   },
+   {
+    "measure": "move",
+    "value": 2.520520595476559,
+    "others": 3.4295654545986833,
+    "auc": 0.1936371506867057
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.4808501683501684,
+    "others": 0.23650836657878013,
+    "auc": 0.8616118675368319
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7075193248699412,
+    "others": 1.2970286922447838,
+    "auc": 0.8241297412788242
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 10.3,
+    "others_per_1000": 1.3,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no6",
+      "label": "12 Duets (No. 6: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 16,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no2",
+      "label": "12 Duets (No. 2: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 4,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no9",
+      "label": "12 Duets (No. 9: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 25,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 9.0,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no11",
+      "label": "12 Duets (No. 11: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 7,
+      "notes": "D5 C5 D5 E5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no6",
+      "label": "12 Duets (No. 6: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 29,
+      "notes": "G4 F4 G4 A4"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no9",
+      "label": "12 Duets (No. 9: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 23,
+      "notes": "D5 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 3,
+    "per_1000": 6.4,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no4",
+      "label": "12 Duets (No. 4: Polonaise) (K.V. 487) (Mutopia)",
+      "bar": 3,
+      "notes": "B5 A5 A5 G5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no11",
+      "label": "12 Duets (No. 11: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 7,
+      "notes": "E5 D5 D5 C5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no9",
+      "label": "12 Duets (No. 9: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 23,
+      "notes": "E5 D5 D5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 162,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.43150624080450284,
+   "repeats": 0.13387650647021873,
+   "leaps": 0.30297395156293816,
+   "move": 4.165397975059023,
+   "rising": 0.44676919875719967,
+   "leap answered": 0.19668190950840203,
+   "range": 20.85,
+   "register": 75.25,
+   "even": 0.7368673826310325,
+   "long-short": 0.044736100927979736,
+   "rhythm variety": 1.4780510862526928,
+   "surprise, pitch": 2.7284028637876183,
+   "surprise, rhythm": 1.0946831815020874,
+   "density": 4.16307472103778,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 20,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "dance",
+  "forces": "string quartet",
+  "period": "Salzburg",
+  "era": "Classical",
+  "works": 5,
+  "values": {
+   "steps": 0.567381916155383,
+   "repeats": 0.13884311714098949,
+   "leaps": 0.13567668219733303,
+   "move": 2.968567701273673,
+   "rising": 0.4250023319976769,
+   "leap answered": 0.31331400966183576,
+   "range": 19.439999999999998,
+   "register": 71.2,
+   "even": 0.6303774307939747,
+   "long-short": 0.04937778863675183,
+   "rhythm variety": 1.9052028951811604,
+   "surprise, pitch": 2.517845814132567,
+   "surprise, rhythm": 1.3754891023011426,
+   "density": 3.340536258415127,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.567381916155383,
+    "others": 0.46346257656424694,
+    "auc": 0.7932367149758455
+   },
+   {
+    "measure": "leaps",
+    "value": 0.13567668219733303,
+    "others": 0.21889208239698696,
+    "auc": 0.16340579710144926
+   },
+   {
+    "measure": "move",
+    "value": 2.968567701273673,
+    "others": 3.5828531515824307,
+    "auc": 0.20652173913043473
+   },
+   {
+    "measure": "register",
+    "value": 71.2,
+    "others": 73.82306763285025,
+    "auc": 0.17536231884057968
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 10.3,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k173-03.krn",
+      "label": "String Quartet No. 13 in D Minor, movement 3: Menuetto (kern)",
+      "bar": 53,
+      "notes": "F5 E5 F5 E5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_in_C_major,_K.170/sq35524196.mxl#2",
+      "label": "String Quartet in C major, K.170, movement 2: Menuetto (OpenScore)",
+      "bar": 33,
+      "notes": "G4 F#4 G4 F#4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.8_in_F_major,_K.168/sq31275512.mxl#3",
+      "label": "String Quartet No.8 in F major, K.168, movement 3: Menuetto senza sord. (OpenScore)",
+      "bar": 30,
+      "notes": "Bb4 A4 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 6.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k173-03.krn",
+      "label": "String Quartet No. 13 in D Minor, movement 3: Menuetto (kern)",
+      "bar": 2,
+      "notes": "C#5 C#5 C#5 D5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_in_C_major,_K.170/sq35524196.mxl#2",
+      "label": "String Quartet in C major, K.170, movement 2: Menuetto (OpenScore)",
+      "bar": 42,
+      "notes": "E4 E4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 7.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_in_C_major,_K.170/sq35524196.mxl#2",
+      "label": "String Quartet in C major, K.170, movement 2: Menuetto (OpenScore)",
+      "bar": 33,
+      "notes": "F#4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/mozart-quartets:k173-03.krn",
+      "label": "String Quartet No. 13 in D Minor, movement 3: Menuetto (kern)",
+      "bar": 53,
+      "notes": "G5 Ab5 G5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 71,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "dance",
+  "forces": "string quartet",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 9,
+  "values": {
+   "steps": 0.4645157907439641,
+   "repeats": 0.1542750071066303,
+   "leaps": 0.2128446594597898,
+   "move": 3.8199697676699222,
+   "rising": 0.47418620636791936,
+   "leap answered": 0.13357802400512267,
+   "range": 17.894444444444446,
+   "register": 76.22222222222223,
+   "even": 0.6177910415540335,
+   "long-short": 0.10997975154201509,
+   "rhythm variety": 1.9932834616660802,
+   "surprise, pitch": 2.506970207031888,
+   "surprise, rhythm": 1.2601682177229399,
+   "density": 4.471086010868048,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.13357802400512267,
+    "others": 0.24353072479827756,
+    "auc": 0.17045759527643586
+   },
+   {
+    "measure": "register",
+    "value": 76.22222222222223,
+    "others": 73.82306763285025,
+    "auc": 0.7734165324745035
+   },
+   {
+    "measure": "density",
+    "value": 4.471086010868048,
+    "others": 3.421224815109856,
+    "auc": 0.8686258722490607
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 6.4,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.20_in_D_major,_K.499/sq15308401.mxl#2",
+      "label": "String Quartet No.20 in D major, K.499, movement 2: Menuetto Allegretto (OpenScore)",
+      "bar": 6,
+      "notes": "A5 B5 A5 G5"
+     },
+     {
+      "work": "kern/mozart-quartets:k298-02.krn",
+      "label": "Quartet No. 4 in A Major for flute, violin, viola and cello, movement 2: Menuetto (kern)",
+      "bar": 17,
+      "notes": "A5 B5 A5 G5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major,_K.465_(Op._10,_No._6)/sq7471661.mxl#3",
+      "label": "String Quartet No.19 in C major, K.465 (Op. 10, No. 6), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 1,
+      "notes": "G5 A5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 4.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 3,
+      "notes": "Ab4 G4 G4 F4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major,_K.465_(Op._10,_No._6)/sq7471661.mxl#3",
+      "label": "String Quartet No.19 in C major, K.465 (Op. 10, No. 6), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 17,
+      "notes": "C5 B4 B4 A4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#3",
+      "label": "String Quartet No.21 in D major, K.575, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 24,
+      "notes": "D6 C#6 C#6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 4,
+      "notes": "G4 F4 F4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#3",
+      "label": "String Quartet No.21 in D major, K.575, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 23,
+      "notes": "F#6 E6 E6 D6"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major,_K.465_(Op._10,_No._6)/sq7471661.mxl#3",
+      "label": "String Quartet No.19 in C major, K.465 (Op. 10, No. 6), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 17,
+      "notes": "B4 A4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k298-02.krn",
+      "label": "Quartet No. 4 in A Major for flute, violin, viola and cello, movement 2: Menuetto (kern)",
+      "bar": 17,
+      "notes": "E5 D5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 4,
+      "notes": "F4 Eb4 F4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.23_in_F_major,_K.590/sq15624112.mxl#3",
+      "label": "String Quartet No.23 in F major, K.590, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 4,
+      "notes": "D6 C6 D6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 5.1,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 3,
+      "notes": "Bb4 Ab4 Ab4 G4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#3",
+      "label": "String Quartet No.21 in D major, K.575, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 23,
+      "notes": "E6 D6 D6 C#6"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major,_K.465_(Op._10,_No._6)/sq7471661.mxl#3",
+      "label": "String Quartet No.19 in C major, K.465 (Op. 10, No. 6), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 17,
+      "notes": "D5 C5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 5,
+    "per_1000": 5.9,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.15_in_D_minor,_K.421417b_(Op._10,_No._2)/sq7294793.mxl#3",
+      "label": "String Quartet No.15 in D minor, K.421417b (Op. 10, No. 2), movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 3,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#3",
+      "label": "String Quartet No.21 in D major, K.575, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 1,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 13,
+      "notes": "F5 F5 F5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 71,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "dance",
+  "forces": "string quartet",
+  "period": "youth",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5792142085579943,
+   "repeats": 0.052580414631858585,
+   "leaps": 0.1787147823133574,
+   "move": 3.2390517693372187,
+   "rising": 0.4556686448076562,
+   "leap answered": 0.3294546636937941,
+   "range": 18.662499999999998,
+   "register": 74.75,
+   "even": 0.5458783961089106,
+   "long-short": 0.09129724308252739,
+   "rhythm variety": 2.341819316129215,
+   "surprise, pitch": 2.3288232843040824,
+   "surprise, rhythm": 1.4322164728192281,
+   "density": 3.265168965327911,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 71,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "divertimento",
+  "forces": "chamber",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.6449350428144501,
+   "repeats": 0.11195475449435593,
+   "leaps": 0.10866818414084638,
+   "move": 2.513365797078263,
+   "rising": 0.46190548406199,
+   "leap answered": 0.3280193236714976,
+   "range": 13.0,
+   "register": 74.66666666666667,
+   "even": 0.577935229232701,
+   "long-short": 0.04752747592707499,
+   "rhythm variety": 2.189555313236628,
+   "surprise, pitch": 2.599420968559308,
+   "surprise, rhythm": 1.6923816316295046,
+   "density": 3.5298490125354984,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "divertimento",
+  "forces": "string quartet",
+  "period": "youth",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.5672163750153728,
+   "repeats": 0.10077168949436759,
+   "leaps": 0.18543090723760247,
+   "move": 3.4175905222029033,
+   "rising": 0.40024311237876775,
+   "leap answered": 0.2561884669479606,
+   "range": 16.666666666666668,
+   "register": 74.0,
+   "even": 0.5628960094814356,
+   "long-short": 0.060413417668014384,
+   "rhythm variety": 2.3266599848929905,
+   "surprise, pitch": 2.6853417848149896,
+   "surprise, rhythm": 1.543599667392966,
+   "density": 6.095546694888104,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 397,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "duet",
+  "forces": null,
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 13,
+  "values": {
+   "steps": 0.6047695808242002,
+   "repeats": 0.12404183383272227,
+   "leaps": 0.09634272445058335,
+   "move": 2.529458758608787,
+   "rising": 0.47385761120032804,
+   "leap answered": 0.39528655105578187,
+   "range": 11.069230769230767,
+   "register": 74.65384615384616,
+   "even": 0.6235687041774501,
+   "long-short": 0.07292481366811102,
+   "rhythm variety": 1.960775677888053,
+   "surprise, pitch": 2.4744994357621986,
+   "surprise, rhythm": 1.6223577322241047,
+   "density": 3.2253618586829322,
+   "lines": 2.6153846153846154
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.39528655105578187,
+    "others": 0.2542322782752247,
+    "auc": 0.7808319219609543
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 10,
+    "per_1000": 16.1,
+    "others_per_1000": 4.4,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no6",
+      "label": "12 Duets (No. 6: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 7,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no1",
+      "label": "12 Duets (No. 1: Allegro) (K.V. 487) (Mutopia)",
+      "bar": 10,
+      "notes": "D5 E5 F5 G5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no2",
+      "label": "12 Duets (No. 2: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 4,
+      "notes": "D5 E5 F5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 7,
+    "per_1000": 8.1,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no6",
+      "label": "12 Duets (No. 6: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 16,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no2",
+      "label": "12 Duets (No. 2: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 4,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no1",
+      "label": "12 Duets (No. 1: Allegro) (K.V. 487) (Mutopia)",
+      "bar": 22,
+      "notes": "F4 G4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 8,
+    "per_1000": 12.8,
+    "others_per_1000": 3.8,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no6",
+      "label": "12 Duets (No. 6: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 5,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no1",
+      "label": "12 Duets (No. 1: Allegro) (K.V. 487) (Mutopia)",
+      "bar": 6,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no7",
+      "label": "12 Duets (No. 7: Adagio) (K.V. 487) (Mutopia)",
+      "bar": 5,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 6,
+    "per_1000": 6.7,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no11",
+      "label": "12 Duets (No. 11: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 7,
+      "notes": "D5 C5 D5 E5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no6",
+      "label": "12 Duets (No. 6: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 29,
+      "notes": "G4 F4 G4 A4"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no8",
+      "label": "12 Duets (No. 8: Allegro) (K.V. 487) (Mutopia)",
+      "bar": 50,
+      "notes": "D5 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 4.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no2",
+      "label": "12 Duets (No. 2: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 4,
+      "notes": "E5 F5 G5 E5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no6",
+      "label": "12 Duets (No. 6: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 44,
+      "notes": "D5 Eb5 F5 D5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no7",
+      "label": "12 Duets (No. 7: Adagio) (K.V. 487) (Mutopia)",
+      "bar": 14,
+      "notes": "E5 F5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 5,
+    "per_1000": 5.4,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "mutopia:MozartWA/KV487/no12",
+      "label": "12 Duets (No. 12: Allegro) (K.V. 487) (Mutopia)",
+      "bar": 7,
+      "notes": "F5 G5 A5 F5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no10",
+      "label": "12 Duets (No. 10: Andante) (K.V. 487) (Mutopia)",
+      "bar": 1,
+      "notes": "C5 D5 E5 C5"
+     },
+     {
+      "work": "mutopia:MozartWA/KV487/no11",
+      "label": "12 Duets (No. 11: Menuetto) (K.V. 487) (Mutopia)",
+      "bar": 7,
+      "notes": "C5 D5 E5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 42,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "fugue",
+  "forces": "keyboard",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.6826893564778502,
+   "repeats": 0.035071238938510364,
+   "leaps": 0.169972411080074,
+   "move": 2.6696735719251223,
+   "rising": 0.4584443114624904,
+   "leap answered": 0.3549305555555556,
+   "range": 15.0,
+   "register": 70.66666666666667,
+   "even": 0.5472863218449099,
+   "long-short": 0.10479214816854195,
+   "rhythm variety": 2.351234979317786,
+   "surprise, pitch": 2.7791069563050357,
+   "surprise, rhythm": 1.6094276072838778,
+   "density": 2.8988830761425546,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 132,
+   "composers": 23
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "minuet",
+  "forces": null,
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.6338541649204567,
+   "repeats": 0.12140977821735705,
+   "leaps": 0.07410866056311383,
+   "move": 2.357679197086591,
+   "rising": 0.49783318909296226,
+   "leap answered": 0.49905303030303033,
+   "range": 9.7375,
+   "register": 74.75,
+   "even": 0.6220048934585258,
+   "long-short": 0.06512417098892058,
+   "rhythm variety": 2.012159953657581,
+   "surprise, pitch": 2.5658526553977494,
+   "surprise, rhythm": 1.6463654630884077,
+   "density": 2.2716211299613156,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 112,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "minuet",
+  "forces": "string quartet",
+  "period": "Salzburg",
+  "era": "Classical",
+  "works": 5,
+  "values": {
+   "steps": 0.567381916155383,
+   "repeats": 0.13884311714098949,
+   "leaps": 0.13567668219733303,
+   "move": 2.968567701273673,
+   "rising": 0.4250023319976769,
+   "leap answered": 0.31331400966183576,
+   "range": 19.439999999999998,
+   "register": 71.2,
+   "even": 0.6303774307939747,
+   "long-short": 0.04937778863675183,
+   "rhythm variety": 1.9052028951811604,
+   "surprise, pitch": 2.517845814132567,
+   "surprise, rhythm": 1.3754891023011426,
+   "density": 3.340536258415127,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.567381916155383,
+    "others": 0.46346257656424694,
+    "auc": 0.7932367149758455
+   },
+   {
+    "measure": "leaps",
+    "value": 0.13567668219733303,
+    "others": 0.21889208239698696,
+    "auc": 0.16340579710144926
+   },
+   {
+    "measure": "move",
+    "value": 2.968567701273673,
+    "others": 3.5828531515824307,
+    "auc": 0.20652173913043473
+   },
+   {
+    "measure": "register",
+    "value": 71.2,
+    "others": 73.82306763285025,
+    "auc": 0.17536231884057968
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 10.3,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k173-03.krn",
+      "label": "String Quartet No. 13 in D Minor, movement 3: Menuetto (kern)",
+      "bar": 53,
+      "notes": "F5 E5 F5 E5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_in_C_major,_K.170/sq35524196.mxl#2",
+      "label": "String Quartet in C major, K.170, movement 2: Menuetto (OpenScore)",
+      "bar": 33,
+      "notes": "G4 F#4 G4 F#4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.8_in_F_major,_K.168/sq31275512.mxl#3",
+      "label": "String Quartet No.8 in F major, K.168, movement 3: Menuetto senza sord. (OpenScore)",
+      "bar": 30,
+      "notes": "Bb4 A4 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 2,
+    "per_1000": 6.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k173-03.krn",
+      "label": "String Quartet No. 13 in D Minor, movement 3: Menuetto (kern)",
+      "bar": 2,
+      "notes": "C#5 C#5 C#5 D5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_in_C_major,_K.170/sq35524196.mxl#2",
+      "label": "String Quartet in C major, K.170, movement 2: Menuetto (OpenScore)",
+      "bar": 42,
+      "notes": "E4 E4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 7.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_in_C_major,_K.170/sq35524196.mxl#2",
+      "label": "String Quartet in C major, K.170, movement 2: Menuetto (OpenScore)",
+      "bar": 33,
+      "notes": "F#4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/mozart-quartets:k173-03.krn",
+      "label": "String Quartet No. 13 in D Minor, movement 3: Menuetto (kern)",
+      "bar": 53,
+      "notes": "G5 Ab5 G5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 71,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "minuet",
+  "forces": "string quartet",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 9,
+  "values": {
+   "steps": 0.4645157907439641,
+   "repeats": 0.1542750071066303,
+   "leaps": 0.2128446594597898,
+   "move": 3.8199697676699222,
+   "rising": 0.47418620636791936,
+   "leap answered": 0.13357802400512267,
+   "range": 17.894444444444446,
+   "register": 76.22222222222223,
+   "even": 0.6177910415540335,
+   "long-short": 0.10997975154201509,
+   "rhythm variety": 1.9932834616660802,
+   "surprise, pitch": 2.506970207031888,
+   "surprise, rhythm": 1.2601682177229399,
+   "density": 4.471086010868048,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.13357802400512267,
+    "others": 0.24353072479827756,
+    "auc": 0.17045759527643586
+   },
+   {
+    "measure": "register",
+    "value": 76.22222222222223,
+    "others": 73.82306763285025,
+    "auc": 0.7734165324745035
+   },
+   {
+    "measure": "density",
+    "value": 4.471086010868048,
+    "others": 3.421224815109856,
+    "auc": 0.8686258722490607
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 6.4,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.20_in_D_major,_K.499/sq15308401.mxl#2",
+      "label": "String Quartet No.20 in D major, K.499, movement 2: Menuetto Allegretto (OpenScore)",
+      "bar": 6,
+      "notes": "A5 B5 A5 G5"
+     },
+     {
+      "work": "kern/mozart-quartets:k298-02.krn",
+      "label": "Quartet No. 4 in A Major for flute, violin, viola and cello, movement 2: Menuetto (kern)",
+      "bar": 17,
+      "notes": "A5 B5 A5 G5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major,_K.465_(Op._10,_No._6)/sq7471661.mxl#3",
+      "label": "String Quartet No.19 in C major, K.465 (Op. 10, No. 6), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 1,
+      "notes": "G5 A5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 4.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 3,
+      "notes": "Ab4 G4 G4 F4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major,_K.465_(Op._10,_No._6)/sq7471661.mxl#3",
+      "label": "String Quartet No.19 in C major, K.465 (Op. 10, No. 6), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 17,
+      "notes": "C5 B4 B4 A4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#3",
+      "label": "String Quartet No.21 in D major, K.575, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 24,
+      "notes": "D6 C#6 C#6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 4,
+      "notes": "G4 F4 F4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#3",
+      "label": "String Quartet No.21 in D major, K.575, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 23,
+      "notes": "F#6 E6 E6 D6"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major,_K.465_(Op._10,_No._6)/sq7471661.mxl#3",
+      "label": "String Quartet No.19 in C major, K.465 (Op. 10, No. 6), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 17,
+      "notes": "B4 A4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k298-02.krn",
+      "label": "Quartet No. 4 in A Major for flute, violin, viola and cello, movement 2: Menuetto (kern)",
+      "bar": 17,
+      "notes": "E5 D5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 4,
+      "notes": "F4 Eb4 F4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.23_in_F_major,_K.590/sq15624112.mxl#3",
+      "label": "String Quartet No.23 in F major, K.590, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 4,
+      "notes": "D6 C6 D6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 5.1,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 3,
+      "notes": "Bb4 Ab4 Ab4 G4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#3",
+      "label": "String Quartet No.21 in D major, K.575, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 23,
+      "notes": "E6 D6 D6 C#6"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.19_in_C_major,_K.465_(Op._10,_No._6)/sq7471661.mxl#3",
+      "label": "String Quartet No.19 in C major, K.465 (Op. 10, No. 6), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 17,
+      "notes": "D5 C5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 5,
+    "per_1000": 5.9,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.15_in_D_minor,_K.421417b_(Op._10,_No._2)/sq7294793.mxl#3",
+      "label": "String Quartet No.15 in D minor, K.421417b (Op. 10, No. 2), movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 3,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#3",
+      "label": "String Quartet No.21 in D major, K.575, movement 3: Menuetto Allegretto (OpenScore)",
+      "bar": 1,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#3",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 3: Menuetto Allegro (OpenScore)",
+      "bar": 13,
+      "notes": "F5 F5 F5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 71,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "minuet",
+  "forces": "string quartet",
+  "period": "youth",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5792142085579943,
+   "repeats": 0.052580414631858585,
+   "leaps": 0.1787147823133574,
+   "move": 3.2390517693372187,
+   "rising": 0.4556686448076562,
+   "leap answered": 0.3294546636937941,
+   "range": 18.662499999999998,
+   "register": 74.75,
+   "even": 0.5458783961089106,
+   "long-short": 0.09129724308252739,
+   "rhythm variety": 2.341819316129215,
+   "surprise, pitch": 2.3288232843040824,
+   "surprise, rhythm": 1.4322164728192281,
+   "density": 3.265168965327911,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 71,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "quintet",
+  "forces": "chamber",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.46999428385590947,
+   "repeats": 0.17818094421568492,
+   "leaps": 0.16706017785336846,
+   "move": 3.405303556171611,
+   "rising": 0.49694671808492785,
+   "leap answered": 0.18903443895601546,
+   "range": 22.225,
+   "register": 74.0,
+   "even": 0.6421583080596813,
+   "long-short": 0.05452863141872141,
+   "rhythm variety": 2.0394123047776995,
+   "surprise, pitch": 2.5724140849147745,
+   "surprise, rhythm": 1.4825342884534904,
+   "density": 5.4405791953084375,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "rondo",
+  "forces": "keyboard",
+  "period": "Salzburg",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5421507705889106,
+   "repeats": 0.08178827445602148,
+   "leaps": 0.21639711054065675,
+   "move": 3.6554967315764295,
+   "rising": 0.4460455640171243,
+   "leap answered": 0.24292473399616255,
+   "range": 18.462499999999977,
+   "register": 74.5,
+   "even": 0.6578973317221171,
+   "long-short": 0.12108763442005666,
+   "rhythm variety": 1.905293006898979,
+   "surprise, pitch": 2.5077613511422365,
+   "surprise, rhythm": 1.2419476425316416,
+   "density": 4.766299432164823,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 30,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "rondo",
+  "forces": "string quartet",
+  "period": "Salzburg",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5782252939893868,
+   "repeats": 0.07145801406109309,
+   "leaps": 0.20752253557131456,
+   "move": 3.4689359341960975,
+   "rising": 0.4220946403969862,
+   "leap answered": 0.25680288463286394,
+   "range": 18.75,
+   "register": 75.0,
+   "even": 0.7111190277204045,
+   "long-short": 0.05910375707688921,
+   "rhythm variety": 1.6784732152902078,
+   "surprise, pitch": 2.2038308330781,
+   "surprise, rhythm": 1.2183901815161058,
+   "density": 6.091724716884189,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 56,
+   "composers": 16
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "sonata",
+  "forces": "chamber",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.44896652061786013,
+   "repeats": 0.18456710555870892,
+   "leaps": 0.20377853520596423,
+   "move": 3.786491972447029,
+   "rising": 0.43539222949335316,
+   "leap answered": 0.23483951069589462,
+   "range": 20.966666666666665,
+   "register": 72.33333333333333,
+   "even": 0.5738302570557003,
+   "long-short": 0.10176571716115763,
+   "rhythm variety": 2.2550676790031603,
+   "surprise, pitch": 2.9445888459654985,
+   "surprise, rhythm": 1.7011350141691388,
+   "density": 8.104550369619952,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 328,
+   "composers": 15
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "Salzburg",
+  "era": "Classical",
+  "works": 27,
+  "values": {
+   "steps": 0.539412082689894,
+   "repeats": 0.08707211834428452,
+   "leaps": 0.18705559461504503,
+   "move": 3.282382304755414,
+   "rising": 0.4553927468168413,
+   "leap answered": 0.25437236327724194,
+   "range": 19.109259259259254,
+   "register": 74.5925925925926,
+   "even": 0.6535804489966617,
+   "long-short": 0.07229706412261824,
+   "rhythm variety": 1.9618667935332514,
+   "surprise, pitch": 2.5767821327380283,
+   "surprise, rhythm": 1.3459808925313965,
+   "density": 5.207535795643829,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 13,
+    "per_1000": 1.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K280-3.notes.tsv",
+      "label": "Piano Sonata no. 2 in F major, K280, movement 3: Presto (DCML)",
+      "bar": 60,
+      "notes": "E5 F5 D5 B4"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K281-2.notes.tsv",
+      "label": "Piano Sonata no. 3 in B flat major, K281, movement 2: Andante amoroso (DCML)",
+      "bar": 13,
+      "notes": "G4 Ab4 F4 D4"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K309-1.notes.tsv",
+      "label": "Piano Sonata no. 7 in C major, K309, movement 1: Allegro con spirito (DCML)",
+      "bar": 36,
+      "notes": "B5 C6 A5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.6,
+    "works": 8,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K309-1.notes.tsv",
+      "label": "Piano Sonata no. 7 in C major, K309, movement 1: Allegro con spirito (DCML)",
+      "bar": 18,
+      "notes": "C6 C6 D6 C6"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K310-2.notes.tsv",
+      "label": "Piano Sonata no. 8 in A minor, K310, movement 2: Andante con espressione (DCML)",
+      "bar": 1,
+      "notes": "Bb4 Bb4 C5 Bb4"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K309-3.notes.tsv",
+      "label": "Piano Sonata no. 7 in C major, K309, movement 3: Rondeau – Allegretto grazioso (DCML)",
+      "bar": 19,
+      "notes": "C5 C5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 9,
+    "per_1000": 1.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K309-3.notes.tsv",
+      "label": "Piano Sonata no. 7 in C major, K309, movement 3: Rondeau – Allegretto grazioso (DCML)",
+      "bar": 24,
+      "notes": "F#5 G5 E5 F5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K283-1.notes.tsv",
+      "label": "Piano Sonata no. 5 in G major, K283, movement 1: Allegro (DCML)",
+      "bar": 34,
+      "notes": "Ab5 A5 F#5 G5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K310-3.notes.tsv",
+      "label": "Piano Sonata no. 8 in A minor, K310, movement 3: Rondeau – Allegro (DCML)",
+      "bar": 57,
+      "notes": "E5 F5 D5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 10,
+    "per_1000": 1.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K284-3.notes.tsv",
+      "label": "Piano Sonata no. 6 in D major, K284, movement 3: Andante (DCML)",
+      "bar": 19,
+      "notes": "A5 F#5 G5 E5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K310-1.notes.tsv",
+      "label": "Piano Sonata no. 8 in A minor, K310, movement 1: Allegro con spirito (DCML)",
+      "bar": 23,
+      "notes": "D6 B5 C6 A5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K283-1.notes.tsv",
+      "label": "Piano Sonata no. 5 in G major, K283, movement 1: Allegro (DCML)",
+      "bar": 20,
+      "notes": "A4 F#4 G4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 8,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K283-1.notes.tsv",
+      "label": "Piano Sonata no. 5 in G major, K283, movement 1: Allegro (DCML)",
+      "bar": 34,
+      "notes": "C6 B5 Ab5 A5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K309-1.notes.tsv",
+      "label": "Piano Sonata no. 7 in C major, K309, movement 1: Allegro con spirito (DCML)",
+      "bar": 6,
+      "notes": "F5 E5 C#5 D5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K280-1.notes.tsv",
+      "label": "Piano Sonata no. 2 in F major, K280, movement 1: Allegro assai (DCML)",
+      "bar": 46,
+      "notes": "F5 E5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 9,
+    "per_1000": 1.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K280-1.notes.tsv",
+      "label": "Piano Sonata no. 2 in F major, K280, movement 1: Allegro assai (DCML)",
+      "bar": 23,
+      "notes": "G4 Bb4 A4 Bb4"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K281-3.notes.tsv",
+      "label": "Piano Sonata no. 3 in B flat major, K281, movement 3: Rondeau – Allegro (DCML)",
+      "bar": 5,
+      "notes": "C5 Eb5 D5 Eb5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K283-1.notes.tsv",
+      "label": "Piano Sonata no. 5 in G major, K283, movement 1: Allegro (DCML)",
+      "bar": 18,
+      "notes": "D4 F4 E4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 279,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 27,
+  "values": {
+   "steps": 0.5499558148388434,
+   "repeats": 0.08848761598969251,
+   "leaps": 0.1757454449106661,
+   "move": 3.1565831428856885,
+   "rising": 0.4590375569164976,
+   "leap answered": 0.24065391648622908,
+   "range": 20.45,
+   "register": 74.77777777777777,
+   "even": 0.7010886969925394,
+   "long-short": 0.048905118014902584,
+   "rhythm variety": 1.782919211007405,
+   "surprise, pitch": 2.5127632355635665,
+   "surprise, rhythm": 1.3272281785631774,
+   "density": 4.916244950850036,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 9,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K330-3.notes.tsv",
+      "label": "Piano Sonata no. 10 in C major, K330, movement 3: Allegretto (DCML)",
+      "bar": 16,
+      "notes": "F5 E5 C#5 D5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K545-3.notes.tsv",
+      "label": "Piano Sonata no. 16 in C major, K545, movement 3: Rondo – Allegretto (DCML)",
+      "bar": 6,
+      "notes": "F5 E5 C#5 D5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K576-3.notes.tsv",
+      "label": "Piano Sonata no. 18 in D major, K576, movement 3: Allegretto (DCML)",
+      "bar": 14,
+      "notes": "G5 F#5 Eb5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 9,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K332-3.notes.tsv",
+      "label": "Piano Sonata no. 12 in F major, K332, movement 3: Allegro assai (DCML)",
+      "bar": 65,
+      "notes": "G5 E5 G5 F#5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K576-3.notes.tsv",
+      "label": "Piano Sonata no. 18 in D major, K576, movement 3: Allegretto (DCML)",
+      "bar": 42,
+      "notes": "D6 B5 D6 C#6"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K533-3.notes.tsv",
+      "label": "Piano Sonata no. 15 in F major, K533, movement 3: Rondo – Allegretto (DCML)",
+      "bar": 4,
+      "notes": "Bb5 G5 Bb5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.8,
+    "works": 14,
+    "per_1000": 1.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K533-1.notes.tsv",
+      "label": "Piano Sonata no. 15 in F major, K533, movement 1: Allegro (DCML)",
+      "bar": 21,
+      "notes": "F4 A4 G4 F4"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K330-2.notes.tsv",
+      "label": "Piano Sonata no. 10 in C major, K330, movement 2: Andante cantabile (DCML)",
+      "bar": 7,
+      "notes": "C5 E5 D5 C5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K333-2.notes.tsv",
+      "label": "Piano Sonata no. 13 in B flat major, K333, movement 2: Andante cantabile (DCML)",
+      "bar": 7,
+      "notes": "Eb4 G4 F4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 12,
+    "per_1000": 1.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K333-3.notes.tsv",
+      "label": "Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML)",
+      "bar": 4,
+      "notes": "D5 Eb5 D5 C5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K576-2.notes.tsv",
+      "label": "Piano Sonata no. 18 in D major, K576, movement 2: Adagio (DCML)",
+      "bar": 5,
+      "notes": "C#5 D5 C#5 B4"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K533-1.notes.tsv",
+      "label": "Piano Sonata no. 15 in F major, K533, movement 1: Allegro (DCML)",
+      "bar": 45,
+      "notes": "A5 Bb5 A5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 8,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K576-2.notes.tsv",
+      "label": "Piano Sonata no. 18 in D major, K576, movement 2: Adagio (DCML)",
+      "bar": 59,
+      "notes": "E5 F5 F#5 A5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K330-3.notes.tsv",
+      "label": "Piano Sonata no. 10 in C major, K330, movement 3: Allegretto (DCML)",
+      "bar": 23,
+      "notes": "D5 Eb5 E5 G5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K533-1.notes.tsv",
+      "label": "Piano Sonata no. 15 in F major, K533, movement 1: Allegro (DCML)",
+      "bar": 29,
+      "notes": "E5 F5 F#5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 7,
+    "per_1000": 0.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K533-1.notes.tsv",
+      "label": "Piano Sonata no. 15 in F major, K533, movement 1: Allegro (DCML)",
+      "bar": 56,
+      "notes": "D5 G5 E5 C5"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K333-3.notes.tsv",
+      "label": "Piano Sonata no. 13 in B flat major, K333, movement 3: Allegretto grazioso (DCML)",
+      "bar": 15,
+      "notes": "C5 F5 D5 Bb4"
+     },
+     {
+      "work": "dcml/mozart_piano_sonatas:notes/K330-3.notes.tsv",
+      "label": "Piano Sonata no. 10 in C major, K330, movement 3: Allegretto (DCML)",
+      "bar": 17,
+      "notes": "D5 G5 E5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 279,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 5,
+  "values": {
+   "steps": 0.5306487032806925,
+   "repeats": 0.19407360162143417,
+   "leaps": 0.12053060782910582,
+   "move": 2.724805841631338,
+   "rising": 0.43969742980177984,
+   "leap answered": 0.36271787474456063,
+   "range": 11.939999999999998,
+   "register": 70.5,
+   "even": 0.45047866127073205,
+   "long-short": 0.17263031503176396,
+   "rhythm variety": 2.575995163217835,
+   "surprise, pitch": 2.898147484588302,
+   "surprise, rhythm": 1.805178218802893,
+   "density": 6.311324787580893,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.898147484588302,
+    "others": 2.4456885338892937,
+    "auc": 0.8144549368451808
+   },
+   {
+    "measure": "density",
+    "value": 6.311324787580893,
+    "others": 4.37729736235406,
+    "auc": 0.7890379621111328
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 133,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "Salzburg",
+  "era": "Classical",
+  "works": 31,
+  "values": {
+   "steps": 0.5883789247011068,
+   "repeats": 0.11330487729283559,
+   "leaps": 0.15987801485106118,
+   "move": 3.1116489805073466,
+   "rising": 0.4324266161241389,
+   "leap answered": 0.30915589370471963,
+   "range": 19.05806451612903,
+   "register": 73.09677419354838,
+   "even": 0.6007886031206603,
+   "long-short": 0.07779699392062701,
+   "rhythm variety": 2.140504791632308,
+   "surprise, pitch": 2.4979262803789912,
+   "surprise, rhythm": 1.4644501884231882,
+   "density": 5.339308770248086,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.7,
+    "works": 8,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.6_in_B-flat_major,_K.159/sq23655934.mxl#1",
+      "label": "String Quartet No.6 in B-flat major, K.159, movement 1 (OpenScore)",
+      "bar": 12,
+      "notes": "E5 D5 C5 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.9_in_A_major,_K.169/sq26846629.mxl#1",
+      "label": "String Quartet No.9 in A major, K.169, movement 1 (OpenScore)",
+      "bar": 2,
+      "notes": "Ab5 F#5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.9_in_A_major,_K.169/sq26846629.mxl#4",
+      "label": "String Quartet No.9 in A major, K.169, movement 4: Rondeau Allegro (OpenScore)",
+      "bar": 9,
+      "notes": "Eb5 C#5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.4,
+    "works": 7,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.6_in_B-flat_major,_K.159/sq23655934.mxl#1",
+      "label": "String Quartet No.6 in B-flat major, K.159, movement 1 (OpenScore)",
+      "bar": 13,
+      "notes": "C5 Bb4 A4 A4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.9_in_A_major,_K.169/sq26846629.mxl#2",
+      "label": "String Quartet No.9 in A major, K.169, movement 2: Andante (OpenScore)",
+      "bar": 12,
+      "notes": "G5 F5 E5 E5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_in_C_major,_K.170/sq35524196.mxl#3",
+      "label": "String Quartet in C major, K.170, movement 3: Un poco adagio (OpenScore)",
+      "bar": 7,
+      "notes": "D5 C5 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k285-03.krn",
+      "label": "Quartet No. 1 in D Major for flute, violin, viola and cello, movement 3: Rondo: Allegro (kern)",
+      "bar": 3,
+      "notes": "A5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/mozart-quartets:k172-01.krn",
+      "label": "String Quartet No. 12 in B-flat Major, movement 1: Allegro spiritoso (kern)",
+      "bar": 22,
+      "notes": "C6 C6 Bb5 A5"
+     },
+     {
+      "work": "kern/mozart-quartets:k173-01.krn",
+      "label": "String Quartet No. 13 in D Minor, movement 1: Allegro moderato (kern)",
+      "bar": 14,
+      "notes": "D5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 10,
+    "per_1000": 2.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k285-03.krn",
+      "label": "Quartet No. 1 in D Major for flute, violin, viola and cello, movement 3: Rondo: Allegro (kern)",
+      "bar": 7,
+      "notes": "A5 G5 F#5 E5"
+     },
+     {
+      "work": "kern/mozart-quartets:k172-04.krn",
+      "label": "String Quartet No. 12 in B-flat Major, movement 4: Allegro assai (kern)",
+      "bar": 5,
+      "notes": "F5 Eb5 D5 C5"
+     },
+     {
+      "work": "kern/mozart-quartets:k173-04.krn",
+      "label": "String Quartet No. 13 in D Minor, movement 4: Allegro moderato (kern)",
+      "bar": 32,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.6_in_B-flat_major,_K.159/sq23655934.mxl#1",
+      "label": "String Quartet No.6 in B-flat major, K.159, movement 1 (OpenScore)",
+      "bar": 25,
+      "notes": "D5 Bb4 A4 A4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_in_C_major,_K.170/sq35524196.mxl#1",
+      "label": "String Quartet in C major, K.170, movement 1 (OpenScore)",
+      "bar": 58,
+      "notes": "E5 C5 B4 B4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.7_in_E-flat_major,_K.160159a/sq23739586.mxl#1",
+      "label": "String Quartet No.7 in E-flat major, K.160159a, movement 1 (OpenScore)",
+      "bar": 20,
+      "notes": "G5 Eb5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.6,
+    "works": 9,
+    "per_1000": 1.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k285-03.krn",
+      "label": "Quartet No. 1 in D Major for flute, violin, viola and cello, movement 3: Rondo: Allegro (kern)",
+      "bar": 3,
+      "notes": "B5 A5 A5 G5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.9_in_A_major,_K.169/sq26846629.mxl#1",
+      "label": "String Quartet No.9 in A major, K.169, movement 1 (OpenScore)",
+      "bar": 14,
+      "notes": "Ab4 F#4 F#4 E4"
+     },
+     {
+      "work": "kern/mozart-quartets:k172-04.krn",
+      "label": "String Quartet No. 12 in B-flat Major, movement 4: Allegro assai (kern)",
+      "bar": 48,
+      "notes": "A4 G4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 397,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 47,
+  "values": {
+   "steps": 0.5268922112804751,
+   "repeats": 0.1420013373319376,
+   "leaps": 0.16454573319941382,
+   "move": 3.2553253379036566,
+   "rising": 0.4571952866917804,
+   "leap answered": 0.26110811858398913,
+   "range": 20.146808510638298,
+   "register": 75.76595744680851,
+   "even": 0.6124828760719866,
+   "long-short": 0.09510740347135198,
+   "rhythm variety": 2.1225884681925096,
+   "surprise, pitch": 2.692316822462613,
+   "surprise, rhythm": 1.4749013441116867,
+   "density": 5.141518962033506,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.6,
+    "works": 15,
+    "per_1000": 1.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.23_in_F_major,_K.590/sq15624112.mxl#1",
+      "label": "String Quartet No.23 in F major, K.590, movement 1 (OpenScore)",
+      "bar": 11,
+      "notes": "Bb4 D5 C5 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.23_in_F_major,_K.590/sq15624112.mxl#4",
+      "label": "String Quartet No.23 in F major, K.590, movement 4: Allegro (OpenScore)",
+      "bar": 47,
+      "notes": "F4 A4 G4 F4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.18_in_A_major,_K.464_(Op._10,_No._5)/sq7078259.mxl",
+      "label": "String Quartet No.18 in A major, K.464 (Op. 10, No. 5) (OpenScore)",
+      "bar": 7,
+      "notes": "A4 C#5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     6,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.5,
+    "works": 11,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.20_in_D_major,_K.499/sq15308401.mxl#3",
+      "label": "String Quartet No.20 in D major, K.499, movement 3: Adagio (OpenScore)",
+      "bar": 15,
+      "notes": "D5 C#5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.14_in_G_major,_K.387_(Op._10,_No._1)/sq7103818.mxl#1",
+      "label": "String Quartet No.14 in G major, K.387 (Op. 10, No. 1), movement 1 (OpenScore)",
+      "bar": 22,
+      "notes": "D5 C#5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.20_in_D_major,_K.499/sq15308401.mxl#4",
+      "label": "String Quartet No.20 in D major, K.499, movement 4: Allegro (OpenScore)",
+      "bar": 115,
+      "notes": "A4 Ab4 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     6
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.3,
+    "works": 11,
+    "per_1000": 1.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.22_in_B-flat_major,_K.589/sq15730717.mxl#1",
+      "label": "String Quartet No.22 in B-flat major, K.589, movement 1 (OpenScore)",
+      "bar": 116,
+      "notes": "C5 Bb4 A4 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.14_in_G_major,_K.387_(Op._10,_No._1)/sq7103818.mxl#1",
+      "label": "String Quartet No.14 in G major, K.387 (Op. 10, No. 1), movement 1 (OpenScore)",
+      "bar": 22,
+      "notes": "E5 D5 C#5 G5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.20_in_D_major,_K.499/sq15308401.mxl#3",
+      "label": "String Quartet No.20 in D major, K.499, movement 3: Adagio (OpenScore)",
+      "bar": 15,
+      "notes": "E5 D5 C#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.4,
+    "works": 12,
+    "per_1000": 1.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.20_in_D_major,_K.499/sq15308401.mxl#4",
+      "label": "String Quartet No.20 in D major, K.499, movement 4: Allegro (OpenScore)",
+      "bar": 3,
+      "notes": "G5 F#5 A5 G5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.23_in_F_major,_K.590/sq15624112.mxl#1",
+      "label": "String Quartet No.23 in F major, K.590, movement 1 (OpenScore)",
+      "bar": 18,
+      "notes": "C5 B4 D5 C5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.17_in_B-flat_major,_K.458_(Op._10,_No._3)/sq7353137.mxl#1",
+      "label": "String Quartet No.17 in B-flat major, K.458 (Op. 10, No. 3), movement 1 (OpenScore)",
+      "bar": 106,
+      "notes": "F4 E4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 20,
+    "per_1000": 1.9,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.14_in_G_major,_K.387_(Op._10,_No._1)/sq7103818.mxl#2",
+      "label": "String Quartet No.14 in G major, K.387 (Op. 10, No. 1), movement 2 (OpenScore)",
+      "bar": 30,
+      "notes": "B5 Bb5 A5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.16_in_E-flat_major,_K.428421b_(Op._10,_No._4)/sq7302710.mxl#4",
+      "label": "String Quartet No.16 in E-flat major, K.428421b (Op. 10, No. 4), movement 4: Allegro vivace (OpenScore)",
+      "bar": 112,
+      "notes": "F5 E5 Eb5 D5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.18_in_A_major,_K.464_(Op._10,_No._5)/sq7075297.mxl",
+      "label": "String Quartet No.18 in A major, K.464 (Op. 10, No. 5) (OpenScore)",
+      "bar": 81,
+      "notes": "D5 C#5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     6,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.0,
+    "works": 7,
+    "per_1000": 0.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.20_in_D_major,_K.499/sq15308401.mxl#3",
+      "label": "String Quartet No.20 in D major, K.499, movement 3: Adagio (OpenScore)",
+      "bar": 15,
+      "notes": "C#5 G5 F#5 E5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.20_in_D_major,_K.499/sq15308401.mxl#4",
+      "label": "String Quartet No.20 in D major, K.499, movement 4: Allegro (OpenScore)",
+      "bar": 115,
+      "notes": "Ab4 D5 C#5 B4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.22_in_B-flat_major,_K.589/sq15730717.mxl#1",
+      "label": "String Quartet No.22 in B-flat major, K.589, movement 1 (OpenScore)",
+      "bar": 116,
+      "notes": "A4 Eb5 D5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 397,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "youth",
+  "era": "Classical",
+  "works": 18,
+  "values": {
+   "steps": 0.5482294786707178,
+   "repeats": 0.12468289189439294,
+   "leaps": 0.1576399749713173,
+   "move": 3.1352721033674467,
+   "rising": 0.45653935663813194,
+   "leap answered": 0.2928175834976283,
+   "range": 19.09444444444444,
+   "register": 74.66666666666667,
+   "even": 0.5982668805404925,
+   "long-short": 0.0591550868866842,
+   "rhythm variety": 2.112523440122619,
+   "surprise, pitch": 2.423413776342036,
+   "surprise, rhythm": 1.4181177914953922,
+   "density": 4.811232187453855,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 8.1,
+    "works": 4,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k080-04.krn",
+      "label": "String Quartet No. 1 in G Major, movement Mvmt. 4: Rondo: Allegro (kern)",
+      "bar": 3,
+      "notes": "C5 B4 A4 A4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.4_in_C_major,_K.157/sq9199617.mxl#1",
+      "label": "String Quartet No.4 in C major, K.157, movement 1 (OpenScore)",
+      "bar": 43,
+      "notes": "C5 B4 A4 A4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.4_in_C_major,_K.157/sq9199617.mxl#3",
+      "label": "String Quartet No.4 in C major, K.157, movement 3: Presto (OpenScore)",
+      "bar": 27,
+      "notes": "C5 B4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k080-04.krn",
+      "label": "String Quartet No. 1 in G Major, movement Mvmt. 4: Rondo: Allegro (kern)",
+      "bar": 24,
+      "notes": "D5 D5 D5 C5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.1_in_G_major,_K.8073f/sq15230467.mxl#1",
+      "label": "String Quartet No.1 in G major, K.8073f, movement 1 (OpenScore)",
+      "bar": 12,
+      "notes": "F#5 F#5 F#5 E5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.1_in_G_major,_K.8073f/sq15230467.mxl#4",
+      "label": "String Quartet No.1 in G major, K.8073f, movement 4: Rondo (OpenScore)",
+      "bar": 25,
+      "notes": "D5 D5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 7.2,
+    "works": 4,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.4_in_C_major,_K.157/sq9199617.mxl#3",
+      "label": "String Quartet No.4 in C major, K.157, movement 3: Presto (OpenScore)",
+      "bar": 25,
+      "notes": "B4 B4 A4 B4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.3_in_G_major,_K.156_(K._134b)/sq22643731.mxl#2",
+      "label": "String Quartet No.3 in G major, K.156 (K. 134b), movement 2: Adagio (OpenScore)",
+      "bar": 5,
+      "notes": "A5 A5 G5 A5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.2_in_D_major,_K.155134a/sq12113164.mxl#1",
+      "label": "String Quartet No.2 in D major, K.155134a, movement 1 (OpenScore)",
+      "bar": 14,
+      "notes": "Ab5 Ab5 F#5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.6,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k080-03.krn",
+      "label": "String Quartet No. 1 in G Major, movement Mvmt. 3: Menuetto (kern)",
+      "bar": 38,
+      "notes": "F#5 E5 D5 B4"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.4_in_C_major,_K.157/sq9199617.mxl#1",
+      "label": "String Quartet No.4 in C major, K.157, movement 1 (OpenScore)",
+      "bar": 13,
+      "notes": "B5 A5 G5 E5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.5_in_F_major,_K.158/sq22923826.mxl#3",
+      "label": "String Quartet No.5 in F major, K.158, movement 3: Tempo di Menuetto (OpenScore)",
+      "bar": 0,
+      "notes": "E5 D5 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.4,
+    "works": 6,
+    "per_1000": 2.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k080-04.krn",
+      "label": "String Quartet No. 1 in G Major, movement Mvmt. 4: Rondo: Allegro (kern)",
+      "bar": 9,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.1_in_G_major,_K.8073f/sq15230467.mxl#4",
+      "label": "String Quartet No.1 in G major, K.8073f, movement 4: Rondo (OpenScore)",
+      "bar": 9,
+      "notes": "B5 A5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.4_in_C_major,_K.157/sq9199617.mxl#3",
+      "label": "String Quartet No.4 in C major, K.157, movement 3: Presto (OpenScore)",
+      "bar": 25,
+      "notes": "E5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     10
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.1,
+    "works": 5,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/mozart-quartets:k080-04.krn",
+      "label": "String Quartet No. 1 in G Major, movement Mvmt. 4: Rondo: Allegro (kern)",
+      "bar": 22,
+      "notes": "F#4 E4 D4 C5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.1_in_G_major,_K.8073f/sq15230467.mxl#4",
+      "label": "String Quartet No.1 in G major, K.8073f, movement 4: Rondo (OpenScore)",
+      "bar": 23,
+      "notes": "F#4 E4 D4 C5"
+     },
+     {
+      "work": "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.2_in_D_major,_K.155134a/sq12113164.mxl#2",
+      "label": "String Quartet No.2 in D major, K.155134a, movement 2: Andante (OpenScore)",
+      "bar": 37,
+      "notes": "C#5 B4 A4 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 397,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "symphony",
+  "forces": "orchestra",
+  "period": "youth",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5192187235753399,
+   "repeats": 0.16281467801467026,
+   "leaps": 0.19315679795010532,
+   "move": 3.1644568217642997,
+   "rising": 0.4124313441157508,
+   "leap answered": 0.26633417594680153,
+   "range": 12.675,
+   "register": 80.75,
+   "even": 0.5135206670582836,
+   "long-short": 0.06186941335907875,
+   "rhythm variety": 2.3991009383774298,
+   "surprise, pitch": 2.7995831003200076,
+   "surprise, rhythm": 1.8763397109460938,
+   "density": 7.399158887926772,
+   "lines": 7.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 29,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "trio",
+  "forces": "chamber",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.6202731489413004,
+   "repeats": 0.0898190216943001,
+   "leaps": 0.12229691812765309,
+   "move": 2.637475729481393,
+   "rising": 0.49637896622147654,
+   "leap answered": 0.32702020202020204,
+   "range": 20.18333333333332,
+   "register": 74.0,
+   "even": 0.6004000009767961,
+   "long-short": 0.047072116259700064,
+   "rhythm variety": 2.2650739901721635,
+   "surprise, pitch": 2.812459582798429,
+   "surprise, rhythm": 1.7052125024603262,
+   "density": 5.279185123262442,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 21,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Wolfgang Amadeus Mozart",
+  "kind": "variations",
+  "forces": "keyboard",
+  "period": "Vienna",
+  "era": "Classical",
+  "works": 5,
+  "values": {
+   "steps": 0.4844396803198527,
+   "repeats": 0.07959548708459518,
+   "leaps": 0.22864045619702567,
+   "move": 3.641262321181597,
+   "rising": 0.5050991493737862,
+   "leap answered": 0.1793065800733352,
+   "range": 23.96,
+   "register": 74.4,
+   "even": 0.7746810751147235,
+   "long-short": 0.04347225628283417,
+   "rhythm variety": 1.494137226600656,
+   "surprise, pitch": 2.640125999793897,
+   "surprise, rhythm": 0.9337550582671659,
+   "density": 5.548113490946195,
+   "lines": 2.6
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.7746810751147235,
+    "others": 0.7011446414929794,
+    "auc": 0.7888888888888894
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -5,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "tavern-xml:Mozart/K455/Krn/K455.xml",
+      "label": "Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN)",
+      "bar": 129,
+      "notes": "C#6 D6 A5 B5"
+     },
+     {
+      "work": "tavern-xml:Mozart/K613/Krn/K613.xml",
+      "label": "Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN)",
+      "bar": 345,
+      "notes": "B4 C5 G4 A4"
+     },
+     {
+      "work": "tavern-xml:Mozart/K398/Krn/K398.xml",
+      "label": "Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN)",
+      "bar": 157,
+      "notes": "E3 F3 C3 D3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     7,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 5,
+    "per_1000": 1.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "tavern-xml:Mozart/K398/Krn/K398.xml",
+      "label": "Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN)",
+      "bar": 156,
+      "notes": "A5 F5 C6 A5"
+     },
+     {
+      "work": "tavern-xml:Mozart/K613/Krn/K613.xml",
+      "label": "Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN)",
+      "bar": 154,
+      "notes": "A4 F4 C5 A4"
+     },
+     {
+      "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+      "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+      "bar": 33,
+      "notes": "F#5 D5 A5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "tavern-xml:Mozart/K398/Krn/K398.xml",
+      "label": "Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN)",
+      "bar": 157,
+      "notes": "F3 C3 D3 E3"
+     },
+     {
+      "work": "tavern-xml:Mozart/K613/Krn/K613.xml",
+      "label": "Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN)",
+      "bar": 397,
+      "notes": "C4 G3 A3 B3"
+     },
+     {
+      "work": "tavern-xml:Mozart/K501/Krn/K501.xml",
+      "label": "Andante mit fünf Variationen für Klavier zu vier Händen, K. 501 (TAVERN)",
+      "bar": 101,
+      "notes": "G5 D5 E5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 5,
+    "per_1000": 2.0,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+      "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+      "bar": 108,
+      "notes": "C#5 D5 Eb5 E5"
+     },
+     {
+      "work": "tavern-xml:Mozart/K613/Krn/K613.xml",
+      "label": "Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN)",
+      "bar": 308,
+      "notes": "D4 Eb4 E4 F4"
+     },
+     {
+      "work": "tavern-xml:Mozart/K398/Krn/K398.xml",
+      "label": "Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN)",
+      "bar": 140,
+      "notes": "A5 Bb5 B5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     5,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "tavern-xml:Mozart/K455/Krn/K455.xml",
+      "label": "Zehn Variationen über „Unser dummer Pöbel meint“ aus Glucks „Die Pilgrime von Mekka“, K. 455 (TAVERN)",
+      "bar": 17,
+      "notes": "Eb4 E4 A4 Ab4"
+     },
+     {
+      "work": "tavern-xml:Mozart/K613/Krn/K613.xml",
+      "label": "Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN)",
+      "bar": 77,
+      "notes": "B4 C5 F5 E5"
+     },
+     {
+      "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+      "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+      "bar": 108,
+      "notes": "Ab5 A5 D6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     4,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 4,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "tavern-xml:Mozart/K573/Krn/K573.xml",
+      "label": "Neun Variationen über ein Menuett von J.-P. Duport, K. 573 (TAVERN)",
+      "bar": 73,
+      "notes": "A4 D5 F#5 A5"
+     },
+     {
+      "work": "tavern-xml:Mozart/K398/Krn/K398.xml",
+      "label": "Sechs Variationen über „Salve tu, Domine“ aus Paisiellos „I filosofi immaginarii“, K. 398 (TAVERN)",
+      "bar": 83,
+      "notes": "G4 C5 E5 G5"
+     },
+     {
+      "work": "tavern-xml:Mozart/K613/Krn/K613.xml",
+      "label": "Acht Variationen über „Ein Weib ist das herrlichste Ding“, K. 613 (TAVERN)",
+      "bar": 327,
+      "notes": "C5 F5 A5 C6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 22,
+   "composers": 5
+  }
+ }
+]

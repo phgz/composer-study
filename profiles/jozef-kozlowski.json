@@ -1,0 +1,276 @@
+[
+ {
+  "composer": "Józef Kozłowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 15,
+  "values": {
+   "steps": 0.5378722331251938,
+   "repeats": 0.21317422378470288,
+   "leaps": 0.10929990975619355,
+   "move": 2.5855581956830793,
+   "rising": 0.41600492549100715,
+   "leap answered": 0.25521230561553143,
+   "range": 10.393333333333334,
+   "register": 81.76666666666667,
+   "even": 0.2748804853331586,
+   "long-short": 0.25330078445305454,
+   "rhythm variety": 2.8108253587612992,
+   "surprise, pitch": 2.7244685371689616,
+   "surprise, rhythm": 2.134058225513184,
+   "density": 13.550078963197844,
+   "lines": 19.6
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.2748804853331586,
+    "others": 0.5427482022787351,
+    "auc": 0.08010286326612494
+   },
+   {
+    "measure": "long-short",
+    "value": 0.25330078445305454,
+    "others": 0.0804488971158124,
+    "auc": 0.7693889850788408
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.8108253587612992,
+    "others": 2.1879978415338233,
+    "auc": 0.8738076273214943
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.134058225513184,
+    "others": 1.7185329990568303,
+    "auc": 0.7994804887705944
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 8.6,
+    "works": 6,
+    "per_1000": 6.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ II-129, kern)",
+      "bar": 18,
+      "notes": "B5 B5 C#6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-357--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ III-357, kern)",
+      "bar": 18,
+      "notes": "B5 B5 C#6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-012_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 12 (PL-CZ II-129, kern)",
+      "bar": 18,
+      "notes": "B5 B5 C#6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 7.9,
+    "works": 4,
+    "per_1000": 5.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ II-129, kern)",
+      "bar": 63,
+      "notes": "Eb6 F6 Eb6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-357--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ III-357, kern)",
+      "bar": 63,
+      "notes": "Eb6 F6 Eb6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-012_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 12 (PL-CZ II-129, kern)",
+      "bar": 29,
+      "notes": "Eb6 F6 Eb6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 6.8,
+    "works": 4,
+    "per_1000": 4.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-012_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 12 (PL-CZ II-129, kern)",
+      "bar": 28,
+      "notes": "F6 F6 Eb6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-357--001-012_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 12 (PL-CZ III-357, kern)",
+      "bar": 28,
+      "notes": "F6 F6 Eb6 F6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ II-129, kern)",
+      "bar": 66,
+      "notes": "F6 F6 Eb6 F6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.8,
+    "works": 6,
+    "per_1000": 5.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-002_kozlowski-jozef--requiem-dies-irae.krn",
+      "label": "Requiem, Dies irae, movement 2 (PL-CZ II-129, kern)",
+      "bar": 175,
+      "notes": "Eb6 D6 D6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-357--001-011_kozlowski-jozef--requiem-quia-pius-es.krn",
+      "label": "Requiem, Quia pius es, movement 11 (PL-CZ III-357, kern)",
+      "bar": 23,
+      "notes": "Bb4 A4 A4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ II-129, kern)",
+      "bar": 19,
+      "notes": "B5 Bb5 Bb5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.7,
+    "works": 4,
+    "per_1000": 5.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ II-129, kern)",
+      "bar": 17,
+      "notes": "C#6 B5 B5 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-357--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ III-357, kern)",
+      "bar": 17,
+      "notes": "C#6 B5 B5 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-012_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 12 (PL-CZ II-129, kern)",
+      "bar": 17,
+      "notes": "C#6 B5 B5 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.7,
+    "works": 5,
+    "per_1000": 6.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ II-129, kern)",
+      "bar": 62,
+      "notes": "F6 Eb6 F6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-357--001-001_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 1 (PL-CZ III-357, kern)",
+      "bar": 62,
+      "notes": "F6 Eb6 F6 Eb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-129--001-012_kozlowski-jozef--requiem-requiem.krn",
+      "label": "Requiem, movement 12 (PL-CZ II-129, kern)",
+      "bar": 28,
+      "notes": "F6 Eb6 F6 Eb6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 631,
+   "composers": 34
+  }
+ }
+]

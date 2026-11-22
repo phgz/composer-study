@@ -1,0 +1,360 @@
+[
+ {
+  "composer": "Gioachino Rossini",
+  "kind": "air",
+  "forces": "voices and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.44813501346360635,
+   "repeats": 0.17803849682853945,
+   "leaps": 0.22993054037134988,
+   "move": 3.8050080120407674,
+   "rising": 0.4572102960670719,
+   "leap answered": 0.2651266174485989,
+   "range": 19.5,
+   "register": 72.0,
+   "even": 0.5270313971775566,
+   "long-short": 0.09392295701673009,
+   "rhythm variety": 2.31657545361392,
+   "surprise, pitch": 2.715071328049891,
+   "surprise, rhythm": 1.4739463418492005,
+   "density": 5.886362676446062,
+   "lines": 3.3333333333333335
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 157,
+   "composers": 40
+  }
+ },
+ {
+  "composer": "Gioachino Rossini",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5870397092619315,
+   "repeats": 0.12219015552348884,
+   "leaps": 0.0770135214579659,
+   "move": 2.4391549750040316,
+   "rising": 0.5426866634413804,
+   "leap answered": 0.44545454545454544,
+   "range": 10.800000000000002,
+   "register": 72.66666666666667,
+   "even": 0.37901470510166163,
+   "long-short": 0.07967032967032966,
+   "rhythm variety": 2.554062405780982,
+   "surprise, pitch": 2.9057553988110674,
+   "surprise, rhythm": 1.7815875966908905,
+   "density": 3.525090125870708,
+   "lines": 5.666666666666667
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 646,
+   "composers": 33
+  }
+ },
+ {
+  "composer": "Gioachino Rossini",
+  "kind": "partsong",
+  "forces": "voices and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.3846131303117865,
+   "repeats": 0.23122356409438344,
+   "leaps": 0.24244321341093716,
+   "move": 4.318950671669645,
+   "rising": 0.4984929430398745,
+   "leap answered": 0.19103641456582632,
+   "range": 21.389999999999993,
+   "register": 72.4,
+   "even": 0.5755513216369812,
+   "long-short": 0.09204687882253113,
+   "rhythm variety": 2.0980982153193892,
+   "surprise, pitch": 2.477756041766968,
+   "surprise, rhythm": 1.2924545300319457,
+   "density": 6.270276953125192,
+   "lines": 4.6
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.3846131303117865,
+    "others": 0.5758048407268215,
+    "auc": 0.10927835051546393
+   },
+   {
+    "measure": "leaps",
+    "value": 0.24244321341093716,
+    "others": 0.1283289612442327,
+    "auc": 0.843298969072165
+   },
+   {
+    "measure": "move",
+    "value": 4.318950671669645,
+    "others": 2.636007619955551,
+    "auc": 0.9690721649484537
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.19103641456582632,
+    "others": 0.3775008245003428,
+    "auc": 0.16907216494845362
+   },
+   {
+    "measure": "even",
+    "value": 0.5755513216369812,
+    "others": 0.34863549843737035,
+    "auc": 0.8144329896907216
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.0980982153193892,
+    "others": 2.7785957514969164,
+    "auc": 0.20412371134020618
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.2924545300319457,
+    "others": 2.0360027127898634,
+    "auc": 0.051546391752577324
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 4.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "cpdl:Gioachino_Rossini/016_IlCarnevalediVenezia.mxl",
+      "label": "Il Carnevale di Venezia (CPDL)",
+      "bar": 7,
+      "notes": "B5 C6 C6 C6"
+     },
+     {
+      "work": "cpdl:Gioachino_Rossini/024_Ros-QPas.mxl",
+      "label": "Quartetto Pastorale (CPDL)",
+      "bar": 10,
+      "notes": "C#5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "cpdl:Gioachino_Rossini/024_Ros-QPas.mxl",
+      "label": "Quartetto Pastorale (CPDL)",
+      "bar": 8,
+      "notes": "A4 E4 F#4 G4"
+     },
+     {
+      "work": "cpdl:Gioachino_Rossini/016_IlCarnevalediVenezia.mxl",
+      "label": "Il Carnevale di Venezia (CPDL)",
+      "bar": 35,
+      "notes": "E5 B4 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:Gioachino_Rossini/024_Ros-QPas.mxl",
+      "label": "Quartetto Pastorale (CPDL)",
+      "bar": 30,
+      "notes": "B5 C6 D6 D6"
+     },
+     {
+      "work": "cpdl:Gioachino_Rossini/016_IlCarnevalediVenezia.mxl",
+      "label": "Il Carnevale di Venezia (CPDL)",
+      "bar": 37,
+      "notes": "C#5 D5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:Gioachino_Rossini/017_Ros-DallOriente.mxl",
+      "label": "Dall' oriente l'astro del giorno (CPDL)",
+      "bar": 110,
+      "notes": "E4 E4 E4 F4"
+     },
+     {
+      "work": "cpdl:Gioachino_Rossini/016_IlCarnevalediVenezia.mxl",
+      "label": "Il Carnevale di Venezia (CPDL)",
+      "bar": 65,
+      "notes": "C#6 C#6 C#6 D6"
+     },
+     {
+      "work": "cpdl:Gioachino_Rossini/023_LaPasseggiata.mxl",
+      "label": "La Passeggiata (CPDL)",
+      "bar": 63,
+      "notes": "F#4 F#4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:Gioachino_Rossini/016_IlCarnevalediVenezia.mxl",
+      "label": "Il Carnevale di Venezia (CPDL)",
+      "bar": 7,
+      "notes": "C6 C6 B5 B5"
+     },
+     {
+      "work": "cpdl:Gioachino_Rossini/023_LaPasseggiata.mxl",
+      "label": "La Passeggiata (CPDL)",
+      "bar": 39,
+      "notes": "Ab4 Ab4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl:Gioachino_Rossini/020_IGondolieri-Piano_Coro.mxl",
+      "label": "I Gondolieri (CPDL)",
+      "bar": 149,
+      "notes": "Eb4 C4 Eb4 C4"
+     },
+     {
+      "work": "cpdl:Gioachino_Rossini/024_Ros-QPas.mxl",
+      "label": "Quartetto Pastorale (CPDL)",
+      "bar": 7,
+      "notes": "A4 F#4 A4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 97,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Gioachino Rossini",
+  "kind": "song",
+  "forces": "voices and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.4702052748277536,
+   "repeats": 0.11715046856365614,
+   "leaps": 0.2161937852862231,
+   "move": 3.4060697389811314,
+   "rising": 0.4454032784185817,
+   "leap answered": 0.326968006538153,
+   "range": 20.333333333333332,
+   "register": 74.33333333333333,
+   "even": 0.5541945660486719,
+   "long-short": 0.06825842047946597,
+   "rhythm variety": 2.0708111337136454,
+   "surprise, pitch": 2.4330517752747443,
+   "surprise, rhythm": 1.1776379784812188,
+   "density": 7.979441298999962,
+   "lines": 5.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 1219,
+   "composers": 115
+  }
+ }
+]

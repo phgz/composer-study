@@ -1,0 +1,276 @@
+[
+ {
+  "composer": "Corona Schröter",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 25,
+  "values": {
+   "steps": 0.6387332107866682,
+   "repeats": 0.13545149998588868,
+   "leaps": 0.09048750318331437,
+   "move": 2.378844904525305,
+   "rising": 0.44825491646994897,
+   "leap answered": 0.4467893217893218,
+   "range": 10.686,
+   "register": 69.3,
+   "even": 0.5069179242312398,
+   "long-short": 0.10190958382171844,
+   "rhythm variety": 1.9460381626302399,
+   "surprise, pitch": 2.885561632476525,
+   "surprise, rhythm": 1.586746432427361,
+   "density": 5.663192864940348,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6387332107866682,
+    "others": 0.5370307560855231,
+    "auc": 0.7668217518801328
+   },
+   {
+    "measure": "move",
+    "value": 2.378844904525305,
+    "others": 2.7738311587646485,
+    "auc": 0.16579122083014144
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.9460381626302399,
+    "others": 2.4495503127872382,
+    "auc": 0.19342789598108745
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.885561632476525,
+    "others": 2.4862404780608736,
+    "auc": 0.7873349478175632
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 10,
+    "per_1000": 9.4,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/04_An_den_Mond/lc6019093.mxl",
+      "label": "Lieder, An den Mond (OpenScore)",
+      "bar": 3,
+      "notes": "C5 Bb4 Ab4 G4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/18_Amor_im_Tanz/lc6050547.mxl",
+      "label": "Lieder, Amor im Tanz (OpenScore)",
+      "bar": 7,
+      "notes": "E5 D5 C5 B4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/16_Amor_und_Bachus/lc6050218.mxl",
+      "label": "Lieder, Amor und Bachus (OpenScore)",
+      "bar": 12,
+      "notes": "A4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 6.9,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/02_Aufmunterung_zur_Freude/lc6017336.mxl",
+      "label": "Lieder, Aufmunterung zur Freude (OpenScore)",
+      "bar": 4,
+      "notes": "E4 F4 G4 A4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/08_Der_Eistanz/lc6029206.mxl",
+      "label": "Lieder, Der Eistanz (OpenScore)",
+      "bar": 10,
+      "notes": "C#4 D4 E4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/06_Der_kurze_Frühling/lc6021037.mxl",
+      "label": "Lieder, Der kurze Frühling (OpenScore)",
+      "bar": 6,
+      "notes": "B4 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 7.7,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/22_An_eine_Blume/lc6053984.mxl",
+      "label": "Lieder, An eine Blume (OpenScore)",
+      "bar": 1,
+      "notes": "F4 G4 A4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/08_Der_Eistanz/lc6029206.mxl",
+      "label": "Lieder, Der Eistanz (OpenScore)",
+      "bar": 10,
+      "notes": "D4 E4 F#4 G4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/02_Aufmunterung_zur_Freude/lc6017336.mxl",
+      "label": "Lieder, Aufmunterung zur Freude (OpenScore)",
+      "bar": 4,
+      "notes": "F4 G4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 6,
+    "per_1000": 5.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/22_An_eine_Blume/lc6053984.mxl",
+      "label": "Lieder, An eine Blume (OpenScore)",
+      "bar": 8,
+      "notes": "F4 G4 E4 F4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/19_An_einer_Freundin_Geburtstag/lc6051638.mxl",
+      "label": "Lieder, An einer Freundin Geburtstag (OpenScore)",
+      "bar": 7,
+      "notes": "Bb4 C5 A4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/02_Aufmunterung_zur_Freude/lc6017336.mxl",
+      "label": "Lieder, Aufmunterung zur Freude (OpenScore)",
+      "bar": 27,
+      "notes": "Bb4 C5 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.7,
+    "works": 6,
+    "per_1000": 6.0,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/06_Der_kurze_Frühling/lc6021037.mxl",
+      "label": "Lieder, Der kurze Frühling (OpenScore)",
+      "bar": 4,
+      "notes": "A4 G4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/16_Amor_und_Bachus/lc6050218.mxl",
+      "label": "Lieder, Amor und Bachus (OpenScore)",
+      "bar": 8,
+      "notes": "D5 C5 Bb4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/04_An_den_Mond/lc6019093.mxl",
+      "label": "Lieder, An den Mond (OpenScore)",
+      "bar": 2,
+      "notes": "D5 C5 Bb4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 15,
+    "per_1000": 18.0,
+    "others_per_1000": 6.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/02_Aufmunterung_zur_Freude/lc6017336.mxl",
+      "label": "Lieder, Aufmunterung zur Freude (OpenScore)",
+      "bar": 2,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/12_Die_Silberquelle/lc6039262.mxl",
+      "label": "Lieder, Die Silberquelle (OpenScore)",
+      "bar": 6,
+      "notes": "Ab4 G4 F4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Schröter,_Corona/25_Lieder/06_Der_kurze_Frühling/lc6021037.mxl",
+      "label": "Lieder, Der kurze Frühling (OpenScore)",
+      "bar": 4,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 113,
+   "composers": 18
+  }
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "composer": "Luigi Cherubini",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.4755122809369918,
+   "repeats": 0.20422509559828153,
+   "leaps": 0.1683726341547971,
+   "move": 3.24438713592233,
+   "rising": 0.46283373786407767,
+   "leap answered": 0.27875,
+   "range": 15.5125,
+   "register": 82.375,
+   "even": 0.4131132182602771,
+   "long-short": 0.10222246793454223,
+   "rhythm variety": 2.734872877879764,
+   "surprise, pitch": 3.364775291854931,
+   "surprise, rhythm": 2.2074532279163037,
+   "density": 14.398799352968572,
+   "lines": 24.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 643,
+   "composers": 34
+  }
+ },
+ {
+  "composer": "Luigi Cherubini",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5434448046819,
+   "repeats": 0.11729159665450883,
+   "leaps": 0.17454407034300673,
+   "move": 3.3597201401812704,
+   "rising": 0.46998558105422694,
+   "leap answered": 0.32609733479798925,
+   "range": 26.25,
+   "register": 74.75,
+   "even": 0.635826890457162,
+   "long-short": 0.06167422744223999,
+   "rhythm variety": 1.9401540123909269,
+   "surprise, pitch": 2.7982646812128635,
+   "surprise, rhythm": 1.3354739350187923,
+   "density": 5.858886898816584,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 489,
+   "composers": 10
+  }
+ }
+]

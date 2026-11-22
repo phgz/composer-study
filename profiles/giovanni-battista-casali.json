@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Giovanni Battista Casali",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.5437735855324349,
+   "repeats": 0.08910348401498845,
+   "leaps": 0.12017991442770204,
+   "move": 2.7841859586638606,
+   "rising": 0.4258327744243237,
+   "leap answered": 0.3525641025641026,
+   "range": 11.333333333333334,
+   "register": 74.0,
+   "even": 0.469755232727369,
+   "long-short": 0.13271978336993817,
+   "rhythm variety": 2.44930394886179,
+   "surprise, pitch": 2.5622113488576264,
+   "surprise, rhythm": 1.7962688687789656,
+   "density": 2.841119958378272,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 135,
+   "composers": 18
+  }
+ }
+]

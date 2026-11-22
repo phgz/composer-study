@@ -1,0 +1,233 @@
+[
+ {
+  "composer": "Juliusz Zarębski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.5403964088910665,
+   "repeats": 0.10668460036335937,
+   "leaps": 0.20243352283573948,
+   "move": 3.3829234978671616,
+   "rising": 0.5225631931637144,
+   "leap answered": 0.29058787268273284,
+   "range": 26.25,
+   "register": 75.71428571428571,
+   "even": 0.5968369794830336,
+   "long-short": 0.10035635586775384,
+   "rhythm variety": 2.0617136994100993,
+   "surprise, pitch": 2.4445964097963864,
+   "surprise, rhythm": 1.2850329792860398,
+   "density": 4.798698694728117,
+   "lines": 2.5714285714285716
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -5,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-699-cim_zarebski-juliusz--valse-caprice-op-24.krn",
+      "label": "Valse Caprice op. 24: Allegro moderato. (PL-Wn Mus.III.72.699 Cim., kern)",
+      "bar": 188,
+      "notes": "E7 F7 C7 D7"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-534--001-002_zarebski-juliusz--etrennes-op-27-valse.krn",
+      "label": "Etrennes op. 27, Valse, movement 2: Tempo giusto. ([half-dot]=76.) (PL-Wn Mus.III.72.534, kern)",
+      "bar": 199,
+      "notes": "Bb6 B6 F#6 Ab6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-83-735-cim_zarebski-juliusz--divertissement-a-la-polonaise-op-12-no-2.krn",
+      "label": "Divertissement à la polonaise op. 12 no. 2: Allegro ma non troppo. (PL-Wn Mus.III.83.735 Cim., kern)",
+      "bar": 100,
+      "notes": "F6 F#6 C#6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-699-cim_zarebski-juliusz--valse-caprice-op-24.krn",
+      "label": "Valse Caprice op. 24: Allegro moderato. (PL-Wn Mus.III.72.699 Cim., kern)",
+      "bar": 188,
+      "notes": "D7 E7 F7 C7"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-534--001-002_zarebski-juliusz--etrennes-op-27-valse.krn",
+      "label": "Etrennes op. 27, Valse, movement 2: Tempo giusto. ([half-dot]=76.) (PL-Wn Mus.III.72.534, kern)",
+      "bar": 199,
+      "notes": "Ab6 Bb6 B6 F#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-83-735-cim_zarebski-juliusz--divertissement-a-la-polonaise-op-12-no-2.krn",
+      "label": "Divertissement à la polonaise op. 12 no. 2: Allegro ma non troppo. (PL-Wn Mus.III.83.735 Cim., kern)",
+      "bar": 100,
+      "notes": "Eb6 F6 F#6 C#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 4,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-534--001-003_zarebski-juliusz--etrennes-op-27-menuet.krn",
+      "label": "Etrennes op. 27, Menuet, movement 3 (PL-Wn Mus.III.72.534, kern)",
+      "bar": 6,
+      "notes": "Bb4 F4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-534--001-002_zarebski-juliusz--etrennes-op-27-valse.krn",
+      "label": "Etrennes op. 27, Valse, movement 2: Tempo giusto. ([half-dot]=76.) (PL-Wn Mus.III.72.534, kern)",
+      "bar": 199,
+      "notes": "B6 F#6 Ab6 Bb6"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-10209-iii-1_zarebski-juliusz--divertissement-a-la-polonaise-op-12-no-1.krn",
+      "label": "Divertissement à la polonaise op. 12 no. 1 (PL-Kj BJ Muz. 10209 III 1, kern)",
+      "bar": 35,
+      "notes": "D5 A4 B4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-534--001-003_zarebski-juliusz--etrennes-op-27-menuet.krn",
+      "label": "Etrennes op. 27, Menuet, movement 3 (PL-Wn Mus.III.72.534, kern)",
+      "bar": 1,
+      "notes": "G4 Ab4 F4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-10206-iii-2_zarebski-juliusz--gavotte-op-29-no-2.krn",
+      "label": "Gavotte op. 29 no. 2 (PL-Kj BJ Muz. 10206 III 2, kern)",
+      "bar": 30,
+      "notes": "A4 Bb4 G4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     3,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kj/kern/pl-kj--bj-muz-10206-iii-2_zarebski-juliusz--gavotte-op-29-no-2.krn",
+      "label": "Gavotte op. 29 no. 2 (PL-Kj BJ Muz. 10206 III 2, kern)",
+      "bar": 54,
+      "notes": "A4 E4 G4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-83-735-cim_zarebski-juliusz--divertissement-a-la-polonaise-op-12-no-2.krn",
+      "label": "Divertissement à la polonaise op. 12 no. 2: Allegro ma non troppo. (PL-Wn Mus.III.83.735 Cim., kern)",
+      "bar": 184,
+      "notes": "B4 F#4 A4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-534--001-003_zarebski-juliusz--etrennes-op-27-menuet.krn",
+      "label": "Etrennes op. 27, Menuet, movement 3 (PL-Wn Mus.III.72.534, kern)",
+      "bar": 9,
+      "notes": "C#5 C5 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wn/kern/pl-wn--mus-iii-72-699-cim_zarebski-juliusz--valse-caprice-op-24.krn",
+      "label": "Valse Caprice op. 24: Allegro moderato. (PL-Wn Mus.III.72.699 Cim., kern)",
+      "bar": 5,
+      "notes": "D5 C#5 C5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 428,
+   "composers": 57
+  }
+ }
+]

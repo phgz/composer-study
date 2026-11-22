@@ -1,0 +1,53 @@
+[
+ {
+  "composer": "Johann Baptist Zangl",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.5321853844697934,
+   "repeats": 0.24116081860585,
+   "leaps": 0.10963115928849794,
+   "move": 2.5400801044966586,
+   "rising": 0.49600392261661685,
+   "leap answered": 0.30933817140713693,
+   "range": 9.658333333333331,
+   "register": 66.66666666666667,
+   "even": 0.46036581975250646,
+   "long-short": 0.12283126417704987,
+   "rhythm variety": 2.4681891175081927,
+   "surprise, pitch": 2.672207010134645,
+   "surprise, rhythm": 1.9039077193156089,
+   "density": 2.920839442341954,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.10963115928849794,
+    "others": 0.14431908805408658,
+    "auc": 0.24701786097438835
+   },
+   {
+    "measure": "move",
+    "value": 2.5400801044966586,
+    "others": 2.982402421169965,
+    "auc": 0.17192071036439308
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.672207010134645,
+    "others": 2.81989433141424,
+    "auc": 0.2240356280311023
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 547,
+   "composers": 37
+  }
+ }
+]

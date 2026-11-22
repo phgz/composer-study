@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Jehan Hérissant",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.632581548698497,
+   "repeats": 0.19417279233633733,
+   "leaps": 0.08889461079502194,
+   "move": 2.404041872637394,
+   "rising": 0.4783851894930697,
+   "leap answered": 0.39285439285439283,
+   "range": 8.166666666666666,
+   "register": 69.0,
+   "even": 0.3926615610876196,
+   "long-short": 0.1382828316783186,
+   "rhythm variety": 2.812954645121275,
+   "surprise, pitch": 2.360316884062457,
+   "surprise, rhythm": 2.2450192869806997,
+   "density": 1.366304003720466,
+   "lines": 4.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 694,
+   "composers": 38
+  }
+ }
+]

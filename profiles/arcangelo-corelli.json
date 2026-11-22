@@ -1,0 +1,1262 @@
+[
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "allemande",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 7,
+  "values": {
+   "steps": 0.5418309404222443,
+   "repeats": 0.1069850437971901,
+   "leaps": 0.22727441704517215,
+   "move": 3.037475575243176,
+   "rising": 0.42155682285412893,
+   "leap answered": 0.4008306900472799,
+   "range": 12.985714285714284,
+   "register": 74.85714285714286,
+   "even": 0.3940247687964014,
+   "long-short": 0.2480268779516764,
+   "rhythm variety": 2.321835466267377,
+   "surprise, pitch": 2.70323972834968,
+   "surprise, rhythm": 1.4977252710200923,
+   "density": 5.302770397082212,
+   "lines": 3.857142857142857
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.4008306900472799,
+    "others": 0.29365642585277535,
+    "auc": 0.7598784194528877
+   },
+   {
+    "measure": "even",
+    "value": 0.3940247687964014,
+    "others": 0.643072453508089,
+    "auc": 0.1945288753799392
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.321835466267377,
+    "others": 1.8372646691566616,
+    "auc": 0.7659574468085106
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.4,
+    "works": 2,
+    "per_1000": 5.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n05b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 5, movement 2: Allemanda: Allegro (DCML)",
+      "bar": 2,
+      "notes": "E4 A4 Ab4 A4"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n11c.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 11, movement 3: Allemanda: Allegro (DCML)",
+      "bar": 13,
+      "notes": "D5 G5 F#5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 47,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "concerto",
+  "forces": "strings",
+  "period": "all",
+  "era": "Baroque",
+  "works": 68,
+  "values": {
+   "steps": 0.4771899868777196,
+   "repeats": 0.0975098966619105,
+   "leaps": 0.2836854526695283,
+   "move": 3.6741097679670425,
+   "rising": 0.45321256710423347,
+   "leap answered": 0.25033154561693305,
+   "range": 15.863970588235293,
+   "register": 74.20588235294117,
+   "even": 0.5269775439322069,
+   "long-short": 0.12451691739970233,
+   "rhythm variety": 2.0150099896682634,
+   "surprise, pitch": 2.560834285196556,
+   "surprise, rhythm": 1.4487666602687757,
+   "density": 6.4608161902184,
+   "lines": 6.588235294117647
+  },
+  "traits": [
+   {
+    "measure": "density",
+    "value": 6.4608161902184,
+    "others": 9.661453371318219,
+    "auc": 0.22667342799188642
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.6,
+    "works": 15,
+    "per_1000": 2.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/corelli:op6/op6n8-06.krn",
+      "label": "op6n8-06, movement 6 (kern)",
+      "bar": 19,
+      "notes": "C#5 D5 C#5 D5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n1-05.krn",
+      "label": "op6n1-05, movement 5 (kern)",
+      "bar": 31,
+      "notes": "C#4 D4 C#4 D4"
+     },
+     {
+      "work": "kern/corelli:op6/op6n2-04.krn",
+      "label": "op6n2-04, movement 4 (kern)",
+      "bar": 49,
+      "notes": "E4 F4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -4,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 11,
+    "per_1000": 2.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/corelli:op6/op6n6-02.krn",
+      "label": "op6n6-02, movement 2 (kern)",
+      "bar": 9,
+      "notes": "A4 D5 Bb4 D5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n5-01.krn",
+      "label": "op6n5-01, movement 1 (kern)",
+      "bar": 34,
+      "notes": "D5 G5 Eb5 G5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n6-04.krn",
+      "label": "op6n6-04, movement 4 (kern)",
+      "bar": 56,
+      "notes": "E5 A5 F5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 15,
+    "per_1000": 2.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/corelli:op6/op6n6-02.krn",
+      "label": "op6n6-02, movement 2 (kern)",
+      "bar": 2,
+      "notes": "C5 F5 E5 F5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n12-02.krn",
+      "label": "op6n12-02, movement 2 (kern)",
+      "bar": 23,
+      "notes": "C5 F5 E5 F5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n11-02.krn",
+      "label": "op6n11-02, movement 2 (kern)",
+      "bar": 11,
+      "notes": "C4 F4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 10,
+    "per_1000": 2.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/corelli:op6/op6n6-02.krn",
+      "label": "op6n6-02, movement 2 (kern)",
+      "bar": 9,
+      "notes": "D5 A4 D5 Bb4"
+     },
+     {
+      "work": "kern/corelli:op6/op6n5-01.krn",
+      "label": "op6n5-01, movement 1 (kern)",
+      "bar": 34,
+      "notes": "G5 D5 G5 Eb5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n6-04.krn",
+      "label": "op6n6-04, movement 4 (kern)",
+      "bar": 56,
+      "notes": "A5 E5 A5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 10,
+    "per_1000": 2.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/corelli:op6/op6n5-01.krn",
+      "label": "op6n5-01, movement 1 (kern)",
+      "bar": 34,
+      "notes": "Eb5 G5 D5 G5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n6-04.krn",
+      "label": "op6n6-04, movement 4 (kern)",
+      "bar": 56,
+      "notes": "F5 A5 E5 A5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n6-02.krn",
+      "label": "op6n6-02, movement 2 (kern)",
+      "bar": 10,
+      "notes": "Bb4 D5 A4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     4,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 10,
+    "per_1000": 2.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/corelli:op6/op6n5-01.krn",
+      "label": "op6n5-01, movement 1 (kern)",
+      "bar": 34,
+      "notes": "G5 Eb5 G5 D5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n6-04.krn",
+      "label": "op6n6-04, movement 4 (kern)",
+      "bar": 56,
+      "notes": "A5 F5 A5 E5"
+     },
+     {
+      "work": "kern/corelli:op6/op6n10-05.krn",
+      "label": "op6n10-05, movement 5 (kern)",
+      "bar": 2,
+      "notes": "E5 C5 E5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 29,
+   "composers": 1
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "courante",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.4418327841939782,
+   "repeats": 0.04985523753977867,
+   "leaps": 0.30200663244026216,
+   "move": 3.6154943707137734,
+   "rising": 0.47188524239245294,
+   "leap answered": 0.29919355562737915,
+   "range": 15.474999999999998,
+   "register": 74.875,
+   "even": 0.5517414017142879,
+   "long-short": 0.12745680672450876,
+   "rhythm variety": 1.9963408439469765,
+   "surprise, pitch": 2.840703277501497,
+   "surprise, rhythm": 1.388969869471245,
+   "density": 3.1714033352008153,
+   "lines": 3.75
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 6.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n03b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 3, movement 2: Corrente: Allegro (DCML)",
+      "bar": 13,
+      "notes": "Ab4 B4 E5 B4"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n11b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 11, movement 2: Corrente: Allegro (DCML)",
+      "bar": 24,
+      "notes": "B4 D5 G5 D5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n01b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 1, movement 2: Corrente: Allegro (DCML)",
+      "bar": 13,
+      "notes": "B4 D5 G5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 6.3,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n03b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 3, movement 2: Corrente: Allegro (DCML)",
+      "bar": 9,
+      "notes": "F#5 B5 F#5 Ab5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n11b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 11, movement 2: Corrente: Allegro (DCML)",
+      "bar": 43,
+      "notes": "F4 Bb4 F4 G4"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n01b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 1, movement 2: Corrente: Allegro (DCML)",
+      "bar": 13,
+      "notes": "D5 G5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     -8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 3,
+    "per_1000": 5.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n09b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 9, movement 2: Corrente: Allegro (DCML)",
+      "bar": 15,
+      "notes": "D4 F4 Bb4 D4"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n03b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 3, movement 2: Corrente: Allegro (DCML)",
+      "bar": 14,
+      "notes": "C#5 E5 A5 C#5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n01b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 1, movement 2: Corrente: Allegro (DCML)",
+      "bar": 14,
+      "notes": "E5 G5 C6 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n03b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 3, movement 2: Corrente: Allegro (DCML)",
+      "bar": 17,
+      "notes": "F#5 B5 F#5 B5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n11b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 11, movement 2: Corrente: Allegro (DCML)",
+      "bar": 14,
+      "notes": "Bb4 Eb5 Bb4 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n03b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 3, movement 2: Corrente: Allegro (DCML)",
+      "bar": 16,
+      "notes": "B5 F#5 B5 F#5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n11b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 11, movement 2: Corrente: Allegro (DCML)",
+      "bar": 14,
+      "notes": "Eb5 Bb4 Eb5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 2,
+    "per_1000": 4.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n01b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 1, movement 2: Corrente: Allegro (DCML)",
+      "bar": 19,
+      "notes": "B4 C5 D5 B4"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n11b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 11, movement 2: Corrente: Allegro (DCML)",
+      "bar": 60,
+      "notes": "D5 Eb5 F5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 39,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "dance",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 26,
+  "values": {
+   "steps": 0.4776492892567171,
+   "repeats": 0.06954844182814843,
+   "leaps": 0.2697833617670686,
+   "move": 3.357830362394441,
+   "rising": 0.4539430756304099,
+   "leap answered": 0.3476232173338948,
+   "range": 13.91153846153846,
+   "register": 75.15384615384616,
+   "even": 0.5614561731649503,
+   "long-short": 0.14783642603582425,
+   "rhythm variety": 1.8753575704472267,
+   "surprise, pitch": 2.7536303705891476,
+   "surprise, rhythm": 1.3314302821045534,
+   "density": 3.865311346740057,
+   "lines": 3.8461538461538463
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     5,
+     -5,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 8,
+    "per_1000": 5.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n07e.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 7, movement 5: Giga: Allegro (DCML)",
+      "bar": 1,
+      "notes": "C5 F5 C5 D5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n03b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 3, movement 2: Corrente: Allegro (DCML)",
+      "bar": 9,
+      "notes": "F#5 B5 F#5 Ab5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n04d.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 4, movement 4: Giga: Allegro (DCML)",
+      "bar": 10,
+      "notes": "B4 E5 B4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 7,
+    "per_1000": 4.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n07e.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 7, movement 5: Giga: Allegro (DCML)",
+      "bar": 25,
+      "notes": "A5 F5 G5 A5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n12c.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 12, movement 3: Giga: Allegro (DCML)",
+      "bar": 10,
+      "notes": "B5 G5 A5 B5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n03b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 3, movement 2: Corrente: Allegro (DCML)",
+      "bar": 10,
+      "notes": "Ab5 E5 F#5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 32,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "gavotte",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.47864411671601215,
+   "repeats": 0.03645472805745611,
+   "leaps": 0.31563722251772836,
+   "move": 3.5827235517425913,
+   "rising": 0.42606445247173724,
+   "leap answered": 0.3361064000188444,
+   "range": 13.0,
+   "register": 74.875,
+   "even": 0.5518183969140907,
+   "long-short": 0.07518796992481203,
+   "rhythm variety": 1.9184690170834882,
+   "surprise, pitch": 2.6608151590481928,
+   "surprise, rhythm": 1.371934871966916,
+   "density": 2.992137594367015,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 27,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "gigue",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.3883325923648521,
+   "repeats": 0.04002849910569951,
+   "leaps": 0.27962351897537474,
+   "move": 3.453420987536348,
+   "rising": 0.5015933416190232,
+   "leap answered": 0.29027036048064087,
+   "range": 17.0,
+   "register": 75.0,
+   "even": 0.8814724316876604,
+   "long-short": 0.02103057368601855,
+   "rhythm variety": 0.79126261961902,
+   "surprise, pitch": 2.6724895951398477,
+   "surprise, rhythm": 0.6025462949546495,
+   "density": 3.3248354608145214,
+   "lines": 3.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 34,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "prelude",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 11,
+  "values": {
+   "steps": 0.5610796275965355,
+   "repeats": 0.11900722915073227,
+   "leaps": 0.21974660536009424,
+   "move": 3.1755842728655135,
+   "rising": 0.40324839817539787,
+   "leap answered": 0.35734360004694926,
+   "range": 14.945454545454544,
+   "register": 74.18181818181819,
+   "even": 0.38762282333083814,
+   "long-short": 0.20800591527233506,
+   "rhythm variety": 2.3998905422868138,
+   "surprise, pitch": 2.8954106712388823,
+   "surprise, rhythm": 1.8224372141350862,
+   "density": 4.410277128272485,
+   "lines": 3.909090909090909
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.11900722915073227,
+    "others": 0.061638862665087855,
+    "auc": 0.7888211079700441
+   },
+   {
+    "measure": "even",
+    "value": 0.38762282333083814,
+    "others": 0.7168394472066242,
+    "auc": 0.10874373853097259
+   },
+   {
+    "measure": "long-short",
+    "value": 0.20800591527233506,
+    "others": 0.06714298732626442,
+    "auc": 0.8343500471160046
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.3998905422868138,
+    "others": 1.4487998268813589,
+    "auc": 0.8220998859296732
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.8224372141350862,
+    "others": 1.055311878989241,
+    "auc": 0.8412438625204582
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 6.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n05a.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 5, movement 1: Preludio: Adagio (DCML)",
+      "bar": 12,
+      "notes": "A5 G5 F#5 E5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n11a.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 11, movement 1: Preludio: Largo (DCML)",
+      "bar": 20,
+      "notes": "F5 Eb5 D5 C5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n12a.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 12, movement 1: Preludio: Largo (DCML)",
+      "bar": 21,
+      "notes": "A5 G5 F#5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 112,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "sarabande",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5411652759478847,
+   "repeats": 0.1181964573268921,
+   "leaps": 0.20878348704435656,
+   "move": 2.9909090909090907,
+   "rising": 0.4553030303030304,
+   "leap answered": 0.4444444444444444,
+   "range": 9.0,
+   "register": 77.16666666666667,
+   "even": 0.5641975308641975,
+   "long-short": 0.23434343434343433,
+   "rhythm variety": 1.8989317564568025,
+   "surprise, pitch": 2.8709554333686462,
+   "surprise, rhythm": 1.7078089380405068,
+   "density": 4.246527777777778,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "sonata",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 196,
+  "values": {
+   "steps": 0.5353718176193344,
+   "repeats": 0.07871543192593522,
+   "leaps": 0.24678928967308675,
+   "move": 3.403715343769477,
+   "rising": 0.437780456454441,
+   "leap answered": 0.35687984651822224,
+   "range": 14.997959183673467,
+   "register": 74.85714285714286,
+   "even": 0.5303632728944757,
+   "long-short": 0.11997145696527126,
+   "rhythm variety": 2.0722872087112982,
+   "surprise, pitch": 2.747848483865337,
+   "surprise, rhythm": 1.5767814213962263,
+   "density": 3.677175156414046,
+   "lines": 3.4642857142857144
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.5,
+    "works": 36,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op01n06b.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 6, movement 2: Largo (DCML)",
+      "bar": 3,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/corelli:notes/op01n09b.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 9, movement 2: Adagio - Allegro (DCML)",
+      "bar": 16,
+      "notes": "G5 A5 G5 F#5"
+     },
+     {
+      "work": "dcml/corelli:notes/op03n08b.notes.tsv",
+      "label": "Sonata da chiesa, op. 3, no. 8, movement 2: Allegro (DCML)",
+      "bar": 3,
+      "notes": "G5 A5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.0,
+    "works": 33,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op01n03b.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 3, movement 2: Allegro (DCML)",
+      "bar": 6,
+      "notes": "B4 E5 Eb5 E5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n05b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 5, movement 2: Allemanda: Allegro (DCML)",
+      "bar": 2,
+      "notes": "E4 A4 Ab4 A4"
+     },
+     {
+      "work": "dcml/corelli:notes/op01n07a.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 7, movement 1: Allegro (DCML)",
+      "bar": 4,
+      "notes": "D5 G5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 21,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/corelli:op5/op5n3-04.krn",
+      "label": "op5n3-04, movement 4 (kern)",
+      "bar": 1,
+      "notes": "B4 D5 G5 D5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n03b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 3, movement 2: Corrente: Allegro (DCML)",
+      "bar": 13,
+      "notes": "Ab4 B4 E5 B4"
+     },
+     {
+      "work": "kern/corelli:op5/op5n4-03.krn",
+      "label": "op5n4-03, movement 3 (kern)",
+      "bar": 9,
+      "notes": "B4 D5 G5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 22,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/corelli:op5/op5n5-04.krn",
+      "label": "op5n5-04, movement 4 (kern)",
+      "bar": 5,
+      "notes": "F5 Bb5 F5 D5"
+     },
+     {
+      "work": "kern/corelli:op5/op5n2-03.krn",
+      "label": "op5n2-03, movement 3 (kern)",
+      "bar": 3,
+      "notes": "F5 Bb5 F5 D5"
+     },
+     {
+      "work": "kern/corelli:op5/op5n3-04.krn",
+      "label": "op5n3-04, movement 4 (kern)",
+      "bar": 1,
+      "notes": "D5 G5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.5,
+    "works": 31,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op03n08b.notes.tsv",
+      "label": "Sonata da chiesa, op. 3, no. 8, movement 2: Allegro (DCML)",
+      "bar": 13,
+      "notes": "G5 A5 G5 F5"
+     },
+     {
+      "work": "dcml/corelli:notes/op01n05b.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 5, movement 2: Allegro (DCML)",
+      "bar": 13,
+      "notes": "F5 G5 F5 Eb5"
+     },
+     {
+      "work": "dcml/corelli:notes/op01n02a.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 2, movement 1: Grave (DCML)",
+      "bar": 1,
+      "notes": "A4 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.2,
+    "works": 35,
+    "per_1000": 1.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op04n10e.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 10, movement 5: Tempo di Gavotta: Presto (DCML)",
+      "bar": 7,
+      "notes": "F#4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/corelli:op5/op5n2-04.krn",
+      "label": "op5n2-04, movement 4 (kern)",
+      "bar": 9,
+      "notes": "B4 C5 B4 C5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n09d.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 9, movement 4: Tempo di Gavotta: Allegro (DCML)",
+      "bar": 22,
+      "notes": "A4 Bb4 A4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 80,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Arcangelo Corelli",
+  "kind": "trio sonata",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Baroque",
+  "works": 147,
+  "values": {
+   "steps": 0.5757841786390601,
+   "repeats": 0.08198557494390157,
+   "leaps": 0.2114196751416151,
+   "move": 3.1087028880734975,
+   "rising": 0.4207434091862346,
+   "leap answered": 0.39932206898280453,
+   "range": 14.443537414965984,
+   "register": 74.93197278911565,
+   "even": 0.4904048165386198,
+   "long-short": 0.13276558820752102,
+   "rhythm variety": 2.2023526918493253,
+   "surprise, pitch": 2.7374239326507057,
+   "surprise, rhythm": 1.6789412693296002,
+   "density": 3.9184218138751956,
+   "lines": 3.891156462585034
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 31,
+    "per_1000": 3.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op01n06b.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 6, movement 2: Largo (DCML)",
+      "bar": 3,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/corelli:notes/op01n09b.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 9, movement 2: Adagio - Allegro (DCML)",
+      "bar": 16,
+      "notes": "G5 A5 G5 F#5"
+     },
+     {
+      "work": "dcml/corelli:notes/op03n08b.notes.tsv",
+      "label": "Sonata da chiesa, op. 3, no. 8, movement 2: Allegro (DCML)",
+      "bar": 3,
+      "notes": "G5 A5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.2,
+    "works": 26,
+    "per_1000": 2.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op03n08b.notes.tsv",
+      "label": "Sonata da chiesa, op. 3, no. 8, movement 2: Allegro (DCML)",
+      "bar": 13,
+      "notes": "G5 A5 G5 F5"
+     },
+     {
+      "work": "dcml/corelli:notes/op01n05b.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 5, movement 2: Allegro (DCML)",
+      "bar": 13,
+      "notes": "F5 G5 F5 Eb5"
+     },
+     {
+      "work": "dcml/corelli:notes/op01n02a.notes.tsv",
+      "label": "Sonata da chiesa, op. 1, no. 2, movement 1: Grave (DCML)",
+      "bar": 1,
+      "notes": "A4 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.2,
+    "works": 25,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/corelli:notes/op03n08d.notes.tsv",
+      "label": "Sonata da chiesa, op. 3, no. 8, movement 4: Allegro (DCML)",
+      "bar": 4,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "dcml/corelli:notes/op04n01b.notes.tsv",
+      "label": "Sonata da camera, op. 4, no. 1, movement 2: Corrente: Allegro (DCML)",
+      "bar": 9,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "dcml/corelli:notes/op03n03c.notes.tsv",
+      "label": "Sonata da chiesa, op. 3, no. 3, movement 3: Largo (DCML)",
+      "bar": 2,
+      "notes": "Eb5 D5 C5 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 47,
+   "composers": 2
+  }
+ }
+]

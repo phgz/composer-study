@@ -1,0 +1,276 @@
+[
+ {
+  "composer": "Loyset Compère",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 26,
+  "values": {
+   "steps": 0.7328822720932487,
+   "repeats": 0.16342014719380554,
+   "leaps": 0.05131966202418765,
+   "move": 1.9784354735428014,
+   "rising": 0.4427075563623705,
+   "leap answered": 0.5443986568986569,
+   "range": 9.319230769230769,
+   "register": 67.11538461538461,
+   "even": 0.36733922764489707,
+   "long-short": 0.12707877232874476,
+   "rhythm variety": 2.7698829731629053,
+   "surprise, pitch": 2.2894344767609,
+   "surprise, rhythm": 2.110194733817512,
+   "density": 0.9980649123588837,
+   "lines": 3.3461538461538463
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7328822720932487,
+    "others": 0.6547298258127227,
+    "auc": 0.751386026113349
+   },
+   {
+    "measure": "leaps",
+    "value": 0.05131966202418765,
+    "others": 0.08574836701554975,
+    "auc": 0.24740064147084367
+   },
+   {
+    "measure": "move",
+    "value": 1.9784354735428014,
+    "others": 2.3352416444690713,
+    "auc": 0.10089175315116067
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2894344767609,
+    "others": 2.626654883724507,
+    "auc": 0.19557095580939785
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.2,
+    "works": 20,
+    "per_1000": 13.9,
+    "others_per_1000": 3.9,
+    "at": [
+     {
+      "work": "kern/jrp:Com/Com3031-Pour_estre_ou_nombre_des_loyaulx.krn",
+      "label": "Pour estre ou nombre des loyaulx (kern)",
+      "bar": 9,
+      "notes": "Bb4 Bb4 A4 Bb4"
+     },
+     {
+      "work": "kern/jrp:Com/Com3029-Pensant_au_bien_que_ma_dame_ma_fait.krn",
+      "label": "Pensant au bien que m'a dame m'a fait: J'ay confort doulx (kern)",
+      "bar": 28,
+      "notes": "G4 G4 F#4 G4"
+     },
+     {
+      "work": "kern/jrp:Com/Com3036-Se_pis_ne_vient_damours_je_me_contente.krn",
+      "label": "Se pis ne vient d'amours je me contente (kern)",
+      "bar": 7,
+      "notes": "A4 A4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 13,
+    "per_1000": 5.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/jrp:Com/Com3028-Nous_sommes_de_lordre_de_Saint_Babouin.krn",
+      "label": "Nous sommes de l'ordre de Saint Babouin (kern)",
+      "bar": 13,
+      "notes": "B4 C5 C5 D5"
+     },
+     {
+      "work": "kern/jrp:Com/Com3035-Se_mieulx_ne_vient_damours_peu_me_contente.krn",
+      "label": "Se mieulx ne vient d'amours peu me contente (kern)",
+      "bar": 36,
+      "notes": "F#4 G4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Com/Com3001-Alons_fere_nos_barbes.krn",
+      "label": "Alons fere nos barbes (kern)",
+      "bar": 28,
+      "notes": "F#4 G4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.6,
+    "works": 20,
+    "per_1000": 12.1,
+    "others_per_1000": 3.6,
+    "at": [
+     {
+      "work": "kern/jrp:Com/Com3031-Pour_estre_ou_nombre_des_loyaulx.krn",
+      "label": "Pour estre ou nombre des loyaulx (kern)",
+      "bar": 9,
+      "notes": "C5 Bb4 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Com/Com3047-Voles_oir_une_chanson.krn",
+      "label": "Volés oïr une chanson (kern)",
+      "bar": 28,
+      "notes": "E4 D4 D4 C#4"
+     },
+     {
+      "work": "kern/jrp:Com/Com3036-Se_pis_ne_vient_damours_je_me_contente.krn",
+      "label": "Se pis ne vient d'amours je me contente (kern)",
+      "bar": 6,
+      "notes": "B4 A4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 5.2,
+    "works": 6,
+    "per_1000": 3.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Com/Com3041-Tout_mal_me_vient_Dieu_mercy_et_fortune.krn",
+      "label": "Tout mal me vient Dieu mercy et fortune (kern)",
+      "bar": 5,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "kern/jrp:Com/Com3027-Ne_vous_hastez_pas_en_malheure.krn",
+      "label": "Ne vous hastez pas en malheure (kern)",
+      "bar": 26,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "kern/jrp:Com/Com3032-Puis_que_si_bien_mest_advenu.krn",
+      "label": "Puis que si bien m'est advenu (kern)",
+      "bar": 32,
+      "notes": "C4 D4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     2
+    ],
+    "z": 5.0,
+    "works": 7,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Com/Com3001-Alons_fere_nos_barbes.krn",
+      "label": "Alons fere nos barbes (kern)",
+      "bar": 15,
+      "notes": "A4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Com/Com3035-Se_mieulx_ne_vient_damours_peu_me_contente.krn",
+      "label": "Se mieulx ne vient d'amours peu me contente (kern)",
+      "bar": 21,
+      "notes": "A4 G4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Com/Com3030-Pleut_or_a_Dieu_que_naymasse_jamais.krn",
+      "label": "Pleut or a Dieu que n'aymasse jamais (kern)",
+      "bar": 3,
+      "notes": "A4 G4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.9,
+    "works": 6,
+    "per_1000": 3.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Com/Com3031-Pour_estre_ou_nombre_des_loyaulx.krn",
+      "label": "Pour estre ou nombre des loyaulx (kern)",
+      "bar": 8,
+      "notes": "A4 G4 F4 Bb4"
+     },
+     {
+      "work": "kern/jrp:Com/Com3028-Nous_sommes_de_lordre_de_Saint_Babouin.krn",
+      "label": "Nous sommes de l'ordre de Saint Babouin (kern)",
+      "bar": 5,
+      "notes": "B4 A4 G4 C5"
+     },
+     {
+      "work": "kern/jrp:Com/Com3039-Sourdes_regretz_avironez_mon_cueur.krn",
+      "label": "Sourdes regretz avironez mon cueur (kern)",
+      "bar": 30,
+      "notes": "A4 G4 F4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 256,
+   "composers": 19
+  }
+ }
+]

@@ -1,0 +1,725 @@
+[
+ {
+  "composer": "Felix Mendelssohn",
+  "kind": "character piece",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.43950400844464976,
+   "repeats": 0.12855821030284129,
+   "leaps": 0.2090437776645858,
+   "move": 3.584412803413466,
+   "rising": 0.46439177421589667,
+   "leap answered": 0.3016606642657063,
+   "range": 18.333333333333332,
+   "register": 71.66666666666667,
+   "even": 0.4461671306320239,
+   "long-short": 0.05760903185895453,
+   "rhythm variety": 2.457171163305912,
+   "surprise, pitch": 2.673145293487597,
+   "surprise, rhythm": 1.6737038071191215,
+   "density": 5.062201789336953,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 58,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Felix Mendelssohn",
+  "kind": "duet",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.4774417307892243,
+   "repeats": 0.2040740196970016,
+   "leaps": 0.1206434585864276,
+   "move": 2.782616886361272,
+   "rising": 0.42458277996048516,
+   "leap answered": 0.28896050512755317,
+   "range": 11.26666666666666,
+   "register": 71.16666666666667,
+   "even": 0.4071610063962396,
+   "long-short": 0.15812510446335457,
+   "rhythm variety": 2.4876935416447985,
+   "surprise, pitch": 2.24911145289482,
+   "surprise, rhythm": 1.4608740489458736,
+   "density": 7.75516881260576,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.42458277996048516,
+    "others": 0.47472453084314,
+    "auc": 0.2458168658826553
+   },
+   {
+    "measure": "long-short",
+    "value": 0.15812510446335457,
+    "others": 0.07650752687768492,
+    "auc": 0.8783236135209819
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.24911145289482,
+    "others": 2.628229833792474,
+    "auc": 0.24059347085662874
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 6.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugvögel,_MWV_J_9/lc7076589.mxl",
+      "label": "Duets, Op.63, Abschiedslied der Zugvögel, MWV J 9 (OpenScore)",
+      "bar": 6,
+      "notes": "D5 C5 Bb4 G4"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/6_Maiglöckchen_und_die_Blümelein,_MWV_J_7/lc7380386.mxl",
+      "label": "Duets, Op.63, Maiglöckchen und die Blümelein, MWV J 7 (OpenScore)",
+      "bar": 2,
+      "notes": "F#5 E5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/4_Herbstlied,_MWV_J_11/lc7374512.mxl",
+      "label": "Duets, Op.63, Herbstlied, MWV J 11 (OpenScore)",
+      "bar": 4,
+      "notes": "D5 E5 F#5 D5"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/6_Maiglöckchen_und_die_Blümelein,_MWV_J_7/lc7380386.mxl",
+      "label": "Duets, Op.63, Maiglöckchen und die Blümelein, MWV J 7 (OpenScore)",
+      "bar": 13,
+      "notes": "C5 D5 E5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 2,
+    "per_1000": 5.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugvögel,_MWV_J_9/lc7076589.mxl",
+      "label": "Duets, Op.63, Abschiedslied der Zugvögel, MWV J 9 (OpenScore)",
+      "bar": 6,
+      "notes": "C5 Bb4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/6_Maiglöckchen_und_die_Blümelein,_MWV_J_7/lc7380386.mxl",
+      "label": "Duets, Op.63, Maiglöckchen und die Blümelein, MWV J 7 (OpenScore)",
+      "bar": 15,
+      "notes": "E5 D5 B4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 49,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Felix Mendelssohn",
+  "kind": "psalm",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.41453160476073925,
+   "repeats": 0.20903370446140315,
+   "leaps": 0.21576294349300953,
+   "move": 3.239267132059587,
+   "rising": 0.49519069783586084,
+   "leap answered": 0.32104823813583405,
+   "range": 14.29375,
+   "register": 79.375,
+   "even": 0.4452232887865252,
+   "long-short": 0.1254867389832001,
+   "rhythm variety": 2.5284175893273937,
+   "surprise, pitch": 3.055411941106549,
+   "surprise, rhythm": 1.9520420648302257,
+   "density": 7.135628754135714,
+   "lines": 11.0
+  },
+  "traits": [
+   {
+    "measure": "leap answered",
+    "value": 0.32104823813583405,
+    "others": 0.1601065875098358,
+    "auc": 0.9020312499970253
+   },
+   {
+    "measure": "range",
+    "value": 14.29375,
+    "others": 25.018250000735723,
+    "auc": 0.12291666665403066
+   },
+   {
+    "measure": "even",
+    "value": 0.4452232887865252,
+    "others": 0.6620293338963109,
+    "auc": 0.1468749999963145
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.5284175893273937,
+    "others": 1.7661910499737066,
+    "auc": 0.8371875000242717
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.055411941106549,
+    "others": 2.590034800149373,
+    "auc": 0.766874999995051
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.9520420648302257,
+    "others": 1.1980359086957637,
+    "auc": 0.8406250000078975
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 36,
+   "composers": 11
+  }
+ },
+ {
+  "composer": "Felix Mendelssohn",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 11,
+  "values": {
+   "steps": 0.5001325414117652,
+   "repeats": 0.20027663186249847,
+   "leaps": 0.11763770488054882,
+   "move": 2.7321320054061355,
+   "rising": 0.4208571468378653,
+   "leap answered": 0.3227564974839783,
+   "range": 11.090909090909086,
+   "register": 71.27272727272727,
+   "even": 0.4584210485610878,
+   "long-short": 0.1554607192405272,
+   "rhythm variety": 2.4494439420982435,
+   "surprise, pitch": 2.4970324919904145,
+   "surprise, rhythm": 1.640559405419102,
+   "density": 7.118919509821768,
+   "lines": 3.5454545454545454
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 5.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugvögel,_MWV_J_9/lc7076589.mxl",
+      "label": "Duets, Op.63, Abschiedslied der Zugvögel, MWV J 9 (OpenScore)",
+      "bar": 6,
+      "notes": "C5 Bb4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Gesänge,_Op.86/1_Das_Fenster,_MWV_K_29/lc6989284.mxl",
+      "label": "Gesänge, Op.86, Das Fenster, MWV K 29 (OpenScore)",
+      "bar": 22,
+      "notes": "D5 C5 A4 G4"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/6_Maiglöckchen_und_die_Blümelein,_MWV_J_7/lc7380386.mxl",
+      "label": "Duets, Op.63, Maiglöckchen und die Blümelein, MWV J 7 (OpenScore)",
+      "bar": 15,
+      "notes": "E5 D5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugvögel,_MWV_J_9/lc7076589.mxl",
+      "label": "Duets, Op.63, Abschiedslied der Zugvögel, MWV J 9 (OpenScore)",
+      "bar": 12,
+      "notes": "Eb5 G5 F5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/1_Ich_wollt’,_meine_Lieb’_ergösse_sich,_MWV_J_5/lc7074684.mxl",
+      "label": "Duets, Op.63, Ich wollt’, meine Lieb’ ergösse sich, MWV J 5 (OpenScore)",
+      "bar": 2,
+      "notes": "B4 Eb5 C#5 B4"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Gesänge,_Op.86/1_Das_Fenster,_MWV_K_29/lc6989284.mxl",
+      "label": "Gesänge, Op.86, Das Fenster, MWV K 29 (OpenScore)",
+      "bar": 26,
+      "notes": "G4 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.7,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/4_Herbstlied,_MWV_J_11/lc7374512.mxl",
+      "label": "Duets, Op.63, Herbstlied, MWV J 11 (OpenScore)",
+      "bar": 4,
+      "notes": "D5 E5 F#5 D5"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/6_Maiglöckchen_und_die_Blümelein,_MWV_J_7/lc7380386.mxl",
+      "label": "Duets, Op.63, Maiglöckchen und die Blümelein, MWV J 7 (OpenScore)",
+      "bar": 13,
+      "notes": "C5 D5 E5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 4.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugvögel,_MWV_J_9/lc7076589.mxl",
+      "label": "Duets, Op.63, Abschiedslied der Zugvögel, MWV J 9 (OpenScore)",
+      "bar": 6,
+      "notes": "D5 C5 Bb4 G4"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/6_Maiglöckchen_und_die_Blümelein,_MWV_J_7/lc7380386.mxl",
+      "label": "Duets, Op.63, Maiglöckchen und die Blümelein, MWV J 7 (OpenScore)",
+      "bar": 2,
+      "notes": "F#5 E5 D5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Gesänge,_Op.86/5_Der_Mond,_MWV_K_122/lc6995255.mxl",
+      "label": "Gesänge, Op.86, Der Mond, MWV K 122 (OpenScore)",
+      "bar": 10,
+      "notes": "C#5 B4 Bb4 A4"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Gesänge,_Op.86/1_Das_Fenster,_MWV_K_29/lc6989284.mxl",
+      "label": "Gesänge, Op.86, Das Fenster, MWV K 29 (OpenScore)",
+      "bar": 15,
+      "notes": "F#5 E5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 4,
+    "per_1000": 4.0,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/3_Gruss,_MWV_J_8/lc7163985.mxl",
+      "label": "Duets, Op.63, Gruss, MWV J 8 (OpenScore)",
+      "bar": 10,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Gesänge,_Op.86/5_Der_Mond,_MWV_K_122/lc6995255.mxl",
+      "label": "Gesänge, Op.86, Der Mond, MWV K 122 (OpenScore)",
+      "bar": 3,
+      "notes": "B4 B4 B4 B4"
+     },
+     {
+      "work": "openscore-lieder:Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugvögel,_MWV_J_9/lc7076589.mxl",
+      "label": "Duets, Op.63, Abschiedslied der Zugvögel, MWV J 9 (OpenScore)",
+      "bar": 42,
+      "notes": "G4 G4 G4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1088,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Felix Mendelssohn",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 24,
+  "values": {
+   "steps": 0.5061576088503611,
+   "repeats": 0.1344188222692855,
+   "leaps": 0.158493906355469,
+   "move": 3.0498999057947493,
+   "rising": 0.4553085164634367,
+   "leap answered": 0.2590607867199568,
+   "range": 22.995833333333334,
+   "register": 72.79166666666667,
+   "even": 0.6722505564739176,
+   "long-short": 0.0864816757736937,
+   "rhythm variety": 1.8859175288848025,
+   "surprise, pitch": 2.567746766993259,
+   "surprise, rhythm": 1.1534456774833355,
+   "density": 5.063641002904127,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.0,
+    "works": 8,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/mendelssohn_quartets:notes/01op12d.notes.tsv",
+      "label": "String Quartet No. 1 in E-flat Major, Op. 12, movement 4: Molto allegro e vivace (DCML)",
+      "bar": 25,
+      "notes": "F4 Ab4 G4 F4"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/04op44,2b.notes.tsv",
+      "label": "String Quartet No. 4 in E Minor, Op. 44, No. 2, movement 2: Scherzo: Allegro di molto (DCML)",
+      "bar": 4,
+      "notes": "C#4 E4 Eb4 C#4"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/05op44,3c.notes.tsv",
+      "label": "String Quartet No. 5 in E-flat Major, Op. 44, No. 3, movement 3: Adagio non troppo (DCML)",
+      "bar": 16,
+      "notes": "Bb4 C#5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -5,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 7,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/mendelssohn_quartets:notes/03op44,1d.notes.tsv",
+      "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 4: Presto con brio (DCML)",
+      "bar": 2,
+      "notes": "C#4 D4 A3 D4"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/03op44,1b.notes.tsv",
+      "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 2: Menuetto: Un poco Allegretto (DCML)",
+      "bar": 64,
+      "notes": "Bb4 B4 F#4 B4"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/03op44,1a.notes.tsv",
+      "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 1: Molto allegro vivace (DCML)",
+      "bar": 73,
+      "notes": "F4 F#4 C#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 10,
+    "per_1000": 1.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/mendelssohn_quartets:notes/03op44,1d.notes.tsv",
+      "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 4: Presto con brio (DCML)",
+      "bar": 90,
+      "notes": "D5 C#5 E5 G5"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/01op12d.notes.tsv",
+      "label": "String Quartet No. 1 in E-flat Major, Op. 12, movement 4: Molto allegro e vivace (DCML)",
+      "bar": 81,
+      "notes": "G5 F#5 A5 C6"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/05op44,3b.notes.tsv",
+      "label": "String Quartet No. 5 in E-flat Major, Op. 44, No. 3, movement 2: Scherzo: Assai leggiero vivace (DCML)",
+      "bar": 99,
+      "notes": "D5 C#5 E5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 8,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/mendelssohn_quartets:notes/03op44,1d.notes.tsv",
+      "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 4: Presto con brio (DCML)",
+      "bar": 121,
+      "notes": "D4 E4 C#4 E4"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/03op44,1a.notes.tsv",
+      "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 1: Molto allegro vivace (DCML)",
+      "bar": 98,
+      "notes": "D5 E5 C#5 E5"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/04op44,2a.notes.tsv",
+      "label": "String Quartet No. 4 in E Minor, Op. 44, No. 2, movement 1: Allegro assai appassionato (DCML)",
+      "bar": 40,
+      "notes": "D6 E6 C#6 E6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     0,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 6,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/mendelssohn_quartets:notes/05op44,3c.notes.tsv",
+      "label": "String Quartet No. 5 in E-flat Major, Op. 44, No. 3, movement 3: Adagio non troppo (DCML)",
+      "bar": 27,
+      "notes": "Eb4 F#4 F#4 Eb4"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/05op44,3d.notes.tsv",
+      "label": "String Quartet No. 5 in E-flat Major, Op. 44, No. 3, movement 4: Molto allegro con fuoco (DCML)",
+      "bar": 2,
+      "notes": "D5 F5 F5 D5"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/02op13a.notes.tsv",
+      "label": "String Quartet No. 2 in A Minor, Op. 13, movement 1: Adagio – Allegro vivace (DCML)",
+      "bar": 215,
+      "notes": "B3 D4 D4 B3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 13,
+    "per_1000": 1.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/mendelssohn_quartets:notes/05op44,3a.notes.tsv",
+      "label": "String Quartet No. 5 in E-flat Major, Op. 44, No. 3, movement 1: Allegro vivace (DCML)",
+      "bar": 107,
+      "notes": "C6 Bb5 A5 D6"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/03op44,1c.notes.tsv",
+      "label": "String Quartet No. 3 in D Major, Op. 44, No. 1, movement 3: Andante espressivo ma con moto (DCML)",
+      "bar": 111,
+      "notes": "E5 D5 C#5 F#5"
+     },
+     {
+      "work": "dcml/mendelssohn_quartets:notes/04op44,2d.notes.tsv",
+      "label": "String Quartet No. 4 in E Minor, Op. 44, No. 2, movement 4: Presto agitato (DCML)",
+      "bar": 52,
+      "notes": "A4 G4 F#4 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 235,
+   "composers": 32
+  }
+ }
+]

@@ -1,0 +1,522 @@
+[
+ {
+  "composer": "Edvard Grieg",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.4601505799803263,
+   "repeats": 0.16258780566390035,
+   "leaps": 0.17758396336896132,
+   "move": 3.4280775937286156,
+   "rising": 0.4993406322394843,
+   "leap answered": 0.26339954163483575,
+   "range": 19.96,
+   "register": 71.6,
+   "even": 0.528982640670071,
+   "long-short": 0.07000571707306236,
+   "rhythm variety": 2.3166943598880794,
+   "surprise, pitch": 1.6452114101727726,
+   "surprise, rhythm": 1.0735998974084768,
+   "density": 2.7371635986974265,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 1.6452114101727726,
+    "others": 2.244453352755919,
+    "auc": 0.11777040009996861
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.3,
+    "works": 2,
+    "per_1000": 5.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op12n02.notes.tsv",
+      "label": "Lyric Pieces, Op. 12, movement 2: Vals (DCML)",
+      "bar": 12,
+      "notes": "D5 C5 D5 C5"
+     },
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op68n06.notes.tsv",
+      "label": "Lyric Pieces, Op. 68, movement 6: Valse melancolique (DCML)",
+      "bar": 71,
+      "notes": "F5 Eb5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 5.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op68n06.notes.tsv",
+      "label": "Lyric Pieces, Op. 68, movement 6: Valse melancolique (DCML)",
+      "bar": 55,
+      "notes": "C#5 B4 C#5 C#5"
+     },
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op12n02.notes.tsv",
+      "label": "Lyric Pieces, Op. 12, movement 2: Vals (DCML)",
+      "bar": 14,
+      "notes": "B4 A4 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 8.3,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op12n02.notes.tsv",
+      "label": "Lyric Pieces, Op. 12, movement 2: Vals (DCML)",
+      "bar": 37,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op68n06.notes.tsv",
+      "label": "Lyric Pieces, Op. 68, movement 6: Valse melancolique (DCML)",
+      "bar": 2,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     },
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op47n01.notes.tsv",
+      "label": "Lyric Pieces, Op. 47, movement 1: Valse-Impromptu (DCML)",
+      "bar": 43,
+      "notes": "D4 D4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 7.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op12n02.notes.tsv",
+      "label": "Lyric Pieces, Op. 12, movement 2: Vals (DCML)",
+      "bar": 37,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op68n06.notes.tsv",
+      "label": "Lyric Pieces, Op. 68, movement 6: Valse melancolique (DCML)",
+      "bar": 2,
+      "notes": "Eb5 Eb5 Eb5 Eb5"
+     },
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op47n01.notes.tsv",
+      "label": "Lyric Pieces, Op. 47, movement 1: Valse-Impromptu (DCML)",
+      "bar": 45,
+      "notes": "C#4 C#4 C#4 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 4.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op68n06.notes.tsv",
+      "label": "Lyric Pieces, Op. 68, movement 6: Valse melancolique (DCML)",
+      "bar": 3,
+      "notes": "Eb5 Eb5 Eb5 D5"
+     },
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op47n01.notes.tsv",
+      "label": "Lyric Pieces, Op. 47, movement 1: Valse-Impromptu (DCML)",
+      "bar": 43,
+      "notes": "D4 D4 D4 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 5.5,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op68n02.notes.tsv",
+      "label": "Lyric Pieces, Op. 68, movement 2: Bestemors menuet (DCML)",
+      "bar": 1,
+      "notes": "B4 A4 A4 G4"
+     },
+     {
+      "work": "dcml/grieg_lyric_pieces:notes/op12n02.notes.tsv",
+      "label": "Lyric Pieces, Op. 12, movement 2: Vals (DCML)",
+      "bar": 8,
+      "notes": "Ab4 F#4 F#4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 430,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Edvard Grieg",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.31507746819441906,
+   "repeats": 0.3244165095333244,
+   "leaps": 0.17441031965096138,
+   "move": 3.6999696010048155,
+   "rising": 0.4799549829134893,
+   "leap answered": 0.17002939771421582,
+   "range": 25.4,
+   "register": 76.3,
+   "even": 0.48856318238508933,
+   "long-short": 0.099201177495362,
+   "rhythm variety": 2.412514519394018,
+   "surprise, pitch": 2.27749182618764,
+   "surprise, rhythm": 1.327735587388546,
+   "density": 4.634579549515987,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.31507746819441906,
+    "others": 0.5008732649287029,
+    "auc": 0.05719104099378045
+   },
+   {
+    "measure": "repeats",
+    "value": 0.3244165095333244,
+    "others": 0.12872000599060796,
+    "auc": 0.9298803701030739
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.27749182618764,
+    "others": 2.7545004439306924,
+    "auc": 0.1734187250443427
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 6.8,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#5",
+      "label": "String Quartet No.1, Op.27, movement 5 (OpenScore)",
+      "bar": 648,
+      "notes": "G5 Ab5 Ab5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#3",
+      "label": "String Quartet No.1, Op.27, movement 3: Intermezzo Allegro molto marcato (OpenScore)",
+      "bar": 50,
+      "notes": "B3 C4 C4 C4"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#4",
+      "label": "String Quartet No.1, Op.27, movement 4 (OpenScore)",
+      "bar": 54,
+      "notes": "C#4 D4 D4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     -1,
+     -2
+    ],
+    "z": 6.3,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#3",
+      "label": "String Quartet No.1, Op.27, movement 3: Intermezzo Allegro molto marcato (OpenScore)",
+      "bar": 49,
+      "notes": "C4 C4 B3 C4"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#5",
+      "label": "String Quartet No.1, Op.27, movement 5 (OpenScore)",
+      "bar": 647,
+      "notes": "Ab5 Ab5 G5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.1,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#1",
+      "label": "String Quartet No.1, Op.27, movement 1 (OpenScore)",
+      "bar": 33,
+      "notes": "A5 D6 D6 D6"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#4",
+      "label": "String Quartet No.1, Op.27, movement 4 (OpenScore)",
+      "bar": 48,
+      "notes": "B3 E4 E4 E4"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#2",
+      "label": "String Quartet No.1, Op.27, movement 2: Romanze Andantino (OpenScore)",
+      "bar": 51,
+      "notes": "F5 Bb5 Bb5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -4,
+     4
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#4",
+      "label": "String Quartet No.1, Op.27, movement 4 (OpenScore)",
+      "bar": 23,
+      "notes": "D5 C#5 A4 C#5"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#1",
+      "label": "String Quartet No.1, Op.27, movement 1 (OpenScore)",
+      "bar": 136,
+      "notes": "Bb5 A5 F5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#5",
+      "label": "String Quartet No.1, Op.27, movement 5 (OpenScore)",
+      "bar": 577,
+      "notes": "D5 D5 D5 C#5"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#4",
+      "label": "String Quartet No.1, Op.27, movement 4 (OpenScore)",
+      "bar": 193,
+      "notes": "A5 A5 A5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#1",
+      "label": "String Quartet No.1, Op.27, movement 1 (OpenScore)",
+      "bar": 320,
+      "notes": "Ab4 Ab4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#4",
+      "label": "String Quartet No.1, Op.27, movement 4 (OpenScore)",
+      "bar": 193,
+      "notes": "A5 Ab5 Ab5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#5",
+      "label": "String Quartet No.1, Op.27, movement 5 (OpenScore)",
+      "bar": 577,
+      "notes": "D5 C#5 C#5 C#5"
+     },
+     {
+      "work": "openscore-quartets:Grieg,_Edvard/String_Quartet_No.1,_Op.27/sq9631717.mxl#1",
+      "label": "String Quartet No.1, Op.27, movement 1 (OpenScore)",
+      "bar": 587,
+      "notes": "B4 Bb4 Bb4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 254,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Edvard Grieg",
+  "kind": "waltz",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4886210607963034,
+   "repeats": 0.18681684663211423,
+   "leaps": 0.13989040197239566,
+   "move": 3.1956401231511853,
+   "rising": 0.4915879308744353,
+   "leap answered": 0.3133403361344538,
+   "range": 19.7,
+   "register": 72.25,
+   "even": 0.4965576421549539,
+   "long-short": 0.07927361340719621,
+   "rhythm variety": 2.47886061607272,
+   "surprise, pitch": 1.6533381112403274,
+   "surprise, rhythm": 1.187335672840768,
+   "density": 2.6525151044323896,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 72,
+   "composers": 19
+  }
+ }
+]

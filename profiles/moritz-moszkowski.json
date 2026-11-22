@@ -1,0 +1,1443 @@
+[
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "capriccio",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.3719902583332555,
+   "repeats": 0.06398140563109347,
+   "leaps": 0.374688108922807,
+   "move": 4.860563312025603,
+   "rising": 0.4703156682895919,
+   "leap answered": 0.22142084612262755,
+   "range": 29.8,
+   "register": 71.0,
+   "even": 0.8145855051883467,
+   "long-short": 0.0416062183467624,
+   "rhythm variety": 1.1663642729458132,
+   "surprise, pitch": 2.2491916651608963,
+   "surprise, rhythm": 0.6691536004665362,
+   "density": 5.456800493082517,
+   "lines": 2.2
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.31246202003288476,
+   "repeats": 0.04738651515352867,
+   "leaps": 0.4430132163238251,
+   "move": 4.994303637623857,
+   "rising": 0.4912204640077375,
+   "leap answered": 0.1349372084440997,
+   "range": 31.666666666666668,
+   "register": 77.0,
+   "even": 0.8441380074419585,
+   "long-short": 0.05081572105949953,
+   "rhythm variety": 0.9705496057478452,
+   "surprise, pitch": 2.506144796475164,
+   "surprise, rhythm": 0.7328432481485617,
+   "density": 4.878916905610306,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 31,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 31,
+  "values": {
+   "steps": 0.46012030542042526,
+   "repeats": 0.10255834328147537,
+   "leaps": 0.25568639112425956,
+   "move": 3.8159390569503526,
+   "rising": 0.5101171983505636,
+   "leap answered": 0.21843512590820705,
+   "range": 25.433870967741928,
+   "register": 75.59677419354838,
+   "even": 0.6080457830302518,
+   "long-short": 0.0949665770804418,
+   "rhythm variety": 1.9969449889806978,
+   "surprise, pitch": 2.3092363517833725,
+   "surprise, rhythm": 1.1742167916631339,
+   "density": 4.512507381809023,
+   "lines": 2.2580645161290325
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.6,
+    "works": 13,
+    "per_1000": 2.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 23,
+      "notes": "F#5 E5 C#5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-869-69--001-003_moszkowski-moritz--skizzen-op-10-iii-mazurka.krn",
+      "label": "Skizzen Op. 10, III. Mazurka, movement 3: Allegro. (PL-Wtm A-24.869/69, kern)",
+      "bar": 23,
+      "notes": "F#5 E5 C#5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-878-69--001-004_moszkowski-moritz--suite-pour-piano-iv-presto-alla-giga.krn",
+      "label": "Suite pour piano, IV. Presto alla Giga, movement 4 (PL-Wtm A-24.878/69, kern)",
+      "bar": 9,
+      "notes": "B4 A4 F#4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.4,
+    "works": 14,
+    "per_1000": 2.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-922-69_moszkowski-moritz--valse-brillante.krn",
+      "label": "Valse brillante (PL-Wtm A-24.922/69, kern)",
+      "bar": 47,
+      "notes": "B4 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-27-633-73_moszkowski-moritz--tarantelle-op-27-no-ii.krn",
+      "label": "Tarantelle Op. 27 No. II (PL-Wtm A.27.633/73, kern)",
+      "bar": 32,
+      "notes": "Eb5 F#5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-894-69_moszkowski-moritz--polonaise-op-45-no-1.krn",
+      "label": "Polonaise Op. 45 No. 1 (PL-Wtm A-24.894/69, kern)",
+      "bar": 47,
+      "notes": "G5 Bb5 Ab5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.5,
+    "works": 8,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 5,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-872-69--001-002_moszkowski-moritz--boabdil-balletmusik-scherzo-valse.krn",
+      "label": "Boabdil/Balletmusik, Scherzo-Valse, movement 2: Allegretto con moto. (PL-Wtm A-24.872/69, kern)",
+      "bar": 146,
+      "notes": "A5 B5 A5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-892-69_moszkowski-moritz--menuett-op-17-no-2.krn",
+      "label": "Menuett Op. 17 No. 2 (PL-Wtm A-24.892/69, kern)",
+      "bar": 2,
+      "notes": "G4 A4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 5,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-26-893-72_moszkowski-moritz--mazurka-op-15.krn",
+      "label": "Mazurka Op. 15 (PL-Wtm A.26.893/72, kern)",
+      "bar": 14,
+      "notes": "Bb3 A3 C4 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-27-633-73_moszkowski-moritz--tarantelle-op-27-no-ii.krn",
+      "label": "Tarantelle Op. 27 No. II (PL-Wtm A.27.633/73, kern)",
+      "bar": 173,
+      "notes": "F#5 F5 Ab5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2919-fp-9953--001-004_moszkowski-moritz--funf-clavierstucke-op-18-4-marcia.krn",
+      "label": "Fünf Clavierstücke Op. 18, 4. Marcia (PL-Wtm 2919 fp 9953, kern)",
+      "bar": 15,
+      "notes": "G4 F#4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 9,
+    "per_1000": 1.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-922-69_moszkowski-moritz--valse-brillante.krn",
+      "label": "Valse brillante (PL-Wtm A-24.922/69, kern)",
+      "bar": 17,
+      "notes": "Eb6 Bb5 G5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-878-69--001-004_moszkowski-moritz--suite-pour-piano-iv-presto-alla-giga.krn",
+      "label": "Suite pour piano, IV. Presto alla Giga, movement 4 (PL-Wtm A-24.878/69, kern)",
+      "bar": 9,
+      "notes": "G5 D5 B4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-872-69--001-002_moszkowski-moritz--boabdil-balletmusik-scherzo-valse.krn",
+      "label": "Boabdil/Balletmusik, Scherzo-Valse, movement 2: Allegretto con moto. (PL-Wtm A-24.872/69, kern)",
+      "bar": 58,
+      "notes": "C5 G4 E4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     -2
+    ],
+    "z": 5.3,
+    "works": 4,
+    "per_1000": 0.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 5,
+      "notes": "A4 B4 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-872-69--001-002_moszkowski-moritz--boabdil-balletmusik-scherzo-valse.krn",
+      "label": "Boabdil/Balletmusik, Scherzo-Valse, movement 2: Allegretto con moto. (PL-Wtm A-24.872/69, kern)",
+      "bar": 145,
+      "notes": "F#5 Ab5 A5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-869-69--001-003_moszkowski-moritz--skizzen-op-10-iii-mazurka.krn",
+      "label": "Skizzen Op. 10, III. Mazurka, movement 3: Allegro. (PL-Wtm A-24.869/69, kern)",
+      "bar": 5,
+      "notes": "A4 B4 C5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 402,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "etude",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.3972384918286089,
+   "repeats": 0.07714862815284101,
+   "leaps": 0.298353858559548,
+   "move": 4.243597983069835,
+   "rising": 0.5316898346842446,
+   "leap answered": 0.17265111094130467,
+   "range": 31.925,
+   "register": 76.20833333333333,
+   "even": 0.7973992144513797,
+   "long-short": 0.034684232968504765,
+   "rhythm variety": 0.9897572755025936,
+   "surprise, pitch": 2.279746633947233,
+   "surprise, rhythm": 0.6670320277690162,
+   "density": 7.339049340179284,
+   "lines": 2.1666666666666665
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 7,
+    "per_1000": 3.6,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-897-69_moszkowski-moritz--etude-op-24-no-1.krn",
+      "label": "Etude Op. 24 No. 1 (PL-Wtm A-24.897/69, kern)",
+      "bar": 20,
+      "notes": "Eb6 C6 A5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-687-81_moszkowski-moritz--l-agilita-etude-op-75-no-ii.krn",
+      "label": "L'Agilità/Etude Op. 75 No. II (PL-Wtm A.32.687/81, kern)",
+      "bar": 8,
+      "notes": "C#7 Bb6 G6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-23-904-69_moszkowski-moritz--etude-op-34-no-2.krn",
+      "label": "Etude Op. 34 No. 2: Molto allegro. (PL-Wtm A.23.904/69, kern)",
+      "bar": 151,
+      "notes": "D7 B6 Ab6 F6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-896-69_moszkowski-moritz--caprice-etude-op-70.krn",
+      "label": "Caprice-Étude Op. 70 (PL-Wtm A-24.896/69, kern)",
+      "bar": 2,
+      "notes": "E5 B4 C5 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-23-904-69_moszkowski-moritz--etude-op-34-no-2.krn",
+      "label": "Etude Op. 34 No. 2: Molto allegro. (PL-Wtm A.23.904/69, kern)",
+      "bar": 5,
+      "notes": "B4 F#4 G4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-868-69_moszkowski-moritz--etude-op-24-no-iii.krn",
+      "label": "Etude Op. 24 No. III: Vivace. (PL-Wtm A-24.868/69, kern)",
+      "bar": 31,
+      "notes": "A6 E6 F6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 5,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-896-69_moszkowski-moritz--caprice-etude-op-70.krn",
+      "label": "Caprice-Étude Op. 70 (PL-Wtm A-24.896/69, kern)",
+      "bar": 2,
+      "notes": "A4 B4 C5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-868-69_moszkowski-moritz--etude-op-24-no-iii.krn",
+      "label": "Etude Op. 24 No. III: Vivace. (PL-Wtm A-24.868/69, kern)",
+      "bar": 114,
+      "notes": "Eb6 F6 F#6 A6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-897-69_moszkowski-moritz--etude-op-24-no-1.krn",
+      "label": "Etude Op. 24 No. 1 (PL-Wtm A-24.897/69, kern)",
+      "bar": 22,
+      "notes": "B5 C#6 D6 F6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-689-81--001-001_moszkowski-moritz--etudes-de-virtuosite-op-72-no-7-en-mi-bemol-majeur.krn",
+      "label": "Études de Virtuosité Op. 72, No. 7 en Mi bemol majeur, movement 1 (PL-Wtm A.32.689/81, kern)",
+      "bar": 19,
+      "notes": "Eb4 C4 A3 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-896-69_moszkowski-moritz--caprice-etude-op-70.krn",
+      "label": "Caprice-Étude Op. 70 (PL-Wtm A-24.896/69, kern)",
+      "bar": 21,
+      "notes": "C#5 Bb4 G4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-897-69_moszkowski-moritz--etude-op-24-no-1.krn",
+      "label": "Etude Op. 24 No. 1 (PL-Wtm A-24.897/69, kern)",
+      "bar": 36,
+      "notes": "Ab5 F5 D5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-688-81--001-002_moszkowski-moritz--etudes-de-virtuosite-op-72-no-6-en-fa-majeur.krn",
+      "label": "Études de Virtuosité Op. 72, No. 6 en Fa majeur, movement 2 (PL-Wtm A.32.688/81, kern)",
+      "bar": 24,
+      "notes": "C#6 F#5 F5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-688-81--001-001_moszkowski-moritz--etudes-de-virtuosite-op-72-no-5-en-ut-majeur.krn",
+      "label": "Études de Virtuosité Op. 72, No. 5 en Ut majeur, movement 1 (PL-Wtm A.32.688/81, kern)",
+      "bar": 14,
+      "notes": "B5 E5 Eb5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-900-69_moszkowski-moritz--etude-de-legato-op-81-no-3.krn",
+      "label": "Etude de Legato Op. 81 No. 3 (PL-Wtm A-24.900/69, kern)",
+      "bar": 29,
+      "notes": "Bb4 Eb4 D4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -6,
+     1,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-896-69_moszkowski-moritz--caprice-etude-op-70.krn",
+      "label": "Caprice-Étude Op. 70 (PL-Wtm A-24.896/69, kern)",
+      "bar": 1,
+      "notes": "Bb5 E5 F5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-32-687-81_moszkowski-moritz--l-agilita-etude-op-75-no-ii.krn",
+      "label": "L'Agilità/Etude Op. 75 No. II (PL-Wtm A.32.687/81, kern)",
+      "bar": 18,
+      "notes": "C5 F#4 G4 Eb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-897-69_moszkowski-moritz--etude-op-24-no-1.krn",
+      "label": "Etude Op. 24 No. 1 (PL-Wtm A-24.897/69, kern)",
+      "bar": 18,
+      "notes": "Bb5 E5 F5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 212,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "march",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5070512266693824,
+   "repeats": 0.13782866164280488,
+   "leaps": 0.2110807925622352,
+   "move": 3.3960691374496594,
+   "rising": 0.5002564836205249,
+   "leap answered": 0.1285478148685696,
+   "range": 20.666666666666668,
+   "register": 73.66666666666667,
+   "even": 0.5615787192923034,
+   "long-short": 0.15600544682752746,
+   "rhythm variety": 2.253695691459209,
+   "surprise, pitch": 2.2209284634911897,
+   "surprise, rhythm": 1.3453732894299388,
+   "density": 3.908145086234223,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 48,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "mazurka",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.5767842929794728,
+   "repeats": 0.04537008750673754,
+   "leaps": 0.2057903130005844,
+   "move": 3.219803389209167,
+   "rising": 0.4899701354507619,
+   "leap answered": 0.28074485495291335,
+   "range": 24.666666666666668,
+   "register": 74.33333333333333,
+   "even": 0.4316238208513741,
+   "long-short": 0.20951934630271132,
+   "rhythm variety": 2.7527285514290267,
+   "surprise, pitch": 2.1797087024974613,
+   "surprise, rhythm": 1.4437470065838138,
+   "density": 4.083062138104958,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 4,
+    "per_1000": 3.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-887-69_moszkowski-moritz--mazurka-op-34-no-3.krn",
+      "label": "Mazurka Op. 34 No. 3 (PL-Wtm A-24.887/69, kern)",
+      "bar": 8,
+      "notes": "C#5 Eb5 C#5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-899-69--001-001_moszkowski-moritz--polonaise-volkstanze-op-55-i-mazurka.krn",
+      "label": "Polonaise Volkstänze Op. 55, I. Mazurka, movement 1 (PL-Wtm A-24.899/69, kern)",
+      "bar": 16,
+      "notes": "E5 F#5 E5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 43,
+      "notes": "A4 B4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     3,
+     9
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 13,
+      "notes": "A4 B4 D5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-869-69--001-003_moszkowski-moritz--skizzen-op-10-iii-mazurka.krn",
+      "label": "Skizzen Op. 10, III. Mazurka, movement 3: Allegro. (PL-Wtm A-24.869/69, kern)",
+      "bar": 13,
+      "notes": "A4 B4 D5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -4,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 24,
+      "notes": "A4 F#4 D4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-869-69--001-003_moszkowski-moritz--skizzen-op-10-iii-mazurka.krn",
+      "label": "Skizzen Op. 10, III. Mazurka, movement 3: Allegro. (PL-Wtm A-24.869/69, kern)",
+      "bar": 24,
+      "notes": "A4 F#4 D4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     3,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 22,
+      "notes": "G5 Eb5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-869-69--001-003_moszkowski-moritz--skizzen-op-10-iii-mazurka.krn",
+      "label": "Skizzen Op. 10, III. Mazurka, movement 3: Allegro. (PL-Wtm A-24.869/69, kern)",
+      "bar": 22,
+      "notes": "G5 Eb5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -4,
+     3
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 22,
+      "notes": "A5 G5 Eb5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-869-69--001-003_moszkowski-moritz--skizzen-op-10-iii-mazurka.krn",
+      "label": "Skizzen Op. 10, III. Mazurka, movement 3: Allegro. (PL-Wtm A-24.869/69, kern)",
+      "bar": 22,
+      "notes": "A5 G5 Eb5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 2.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-14-413_moszkowski-moritz--mazurka-op-10-no-3.krn",
+      "label": "Mazurka Op. 10 No. 3 (PL-Wtm A.14.413, kern)",
+      "bar": 27,
+      "notes": "B5 A5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-887-69_moszkowski-moritz--mazurka-op-34-no-3.krn",
+      "label": "Mazurka Op. 34 No. 3 (PL-Wtm A-24.887/69, kern)",
+      "bar": 34,
+      "notes": "Eb5 C#5 B4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-869-69--001-003_moszkowski-moritz--skizzen-op-10-iii-mazurka.krn",
+      "label": "Skizzen Op. 10, III. Mazurka, movement 3: Allegro. (PL-Wtm A-24.869/69, kern)",
+      "bar": 27,
+      "notes": "B5 A5 G5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 131,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "polonaise",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.48365695430535743,
+   "repeats": 0.02971179402848005,
+   "leaps": 0.33777234189260213,
+   "move": 4.672635572648941,
+   "rising": 0.48681838292441576,
+   "leap answered": 0.3167695930339413,
+   "range": 21.166666666666668,
+   "register": 79.16666666666667,
+   "even": 0.5184256024372527,
+   "long-short": 0.11029811708589876,
+   "rhythm variety": 2.274610903491673,
+   "surprise, pitch": 2.442262195893008,
+   "surprise, rhythm": 1.633592463400144,
+   "density": 6.676505523728619,
+   "lines": 2.3333333333333335
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.02971179402848005,
+    "others": 0.11966928980537837,
+    "auc": 0.07128134347214
+   },
+   {
+    "measure": "leaps",
+    "value": 0.33777234189260213,
+    "others": 0.19239357038324262,
+    "auc": 0.8050994939156725
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -3,
+     -9
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-894-69_moszkowski-moritz--polonaise-op-45-no-1.krn",
+      "label": "Polonaise Op. 45 No. 1 (PL-Wtm A-24.894/69, kern)",
+      "bar": 28,
+      "notes": "Bb5 Ab5 F5 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-899-69--001-001_moszkowski-moritz--polonaise-volkstanze-op-55-i-mazurka.krn",
+      "label": "Polonaise Volkstänze Op. 55, I. Mazurka, movement 1 (PL-Wtm A-24.899/69, kern)",
+      "bar": 13,
+      "notes": "C#6 B5 Ab5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2919-fp-9953--001-005_moszkowski-moritz--funf-clavierstucke-op-18-5-polonaise.krn",
+      "label": "Fünf Clavierstücke Op. 18, 5. Polonaise (PL-Wtm 2919 fp 9953, kern)",
+      "bar": 28,
+      "notes": "G5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-899-69--001-002_moszkowski-moritz--polonaise-volkstanze-op-55-ii-mazurka.krn",
+      "label": "Polonaise Volkstänze Op. 55, II. Mazurka, movement 2 (PL-Wtm A-24.899/69, kern)",
+      "bar": 41,
+      "notes": "Bb5 Ab5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2919-fp-9953--001-005_moszkowski-moritz--funf-clavierstucke-op-18-5-polonaise.krn",
+      "label": "Fünf Clavierstücke Op. 18, 5. Polonaise (PL-Wtm 2919 fp 9953, kern)",
+      "bar": 8,
+      "notes": "G5 D5 Eb5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-894-69_moszkowski-moritz--polonaise-op-45-no-1.krn",
+      "label": "Polonaise Op. 45 No. 1 (PL-Wtm A-24.894/69, kern)",
+      "bar": 149,
+      "notes": "F6 C6 C#6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-894-69_moszkowski-moritz--polonaise-op-45-no-1.krn",
+      "label": "Polonaise Op. 45 No. 1 (PL-Wtm A-24.894/69, kern)",
+      "bar": 21,
+      "notes": "Ab4 F4 Eb4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-899-69--001-002_moszkowski-moritz--polonaise-volkstanze-op-55-ii-mazurka.krn",
+      "label": "Polonaise Volkstänze Op. 55, II. Mazurka, movement 2 (PL-Wtm A-24.899/69, kern)",
+      "bar": 53,
+      "notes": "Ab5 F5 Eb5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2919-fp-9953--001-005_moszkowski-moritz--funf-clavierstucke-op-18-5-polonaise.krn",
+      "label": "Fünf Clavierstücke Op. 18, 5. Polonaise (PL-Wtm 2919 fp 9953, kern)",
+      "bar": 147,
+      "notes": "Bb4 G4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.6,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-894-69_moszkowski-moritz--polonaise-op-45-no-1.krn",
+      "label": "Polonaise Op. 45 No. 1 (PL-Wtm A-24.894/69, kern)",
+      "bar": 80,
+      "notes": "F4 Bb4 D5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2919-fp-9953--001-005_moszkowski-moritz--funf-clavierstucke-op-18-5-polonaise.krn",
+      "label": "Fünf Clavierstücke Op. 18, 5. Polonaise (PL-Wtm 2919 fp 9953, kern)",
+      "bar": 51,
+      "notes": "G4 C5 E5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-899-69--001-001_moszkowski-moritz--polonaise-volkstanze-op-55-i-mazurka.krn",
+      "label": "Polonaise Volkstänze Op. 55, I. Mazurka, movement 1 (PL-Wtm A-24.899/69, kern)",
+      "bar": 31,
+      "notes": "Ab6 F#6 F6 F#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-899-69--001-002_moszkowski-moritz--polonaise-volkstanze-op-55-ii-mazurka.krn",
+      "label": "Polonaise Volkstänze Op. 55, II. Mazurka, movement 2 (PL-Wtm A-24.899/69, kern)",
+      "bar": 8,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2919-fp-9953--001-005_moszkowski-moritz--funf-clavierstucke-op-18-5-polonaise.krn",
+      "label": "Fünf Clavierstücke Op. 18, 5. Polonaise (PL-Wtm 2919 fp 9953, kern)",
+      "bar": 106,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 56,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "romance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5425350072428778,
+   "repeats": 0.035502172863351035,
+   "leaps": 0.2229060035409625,
+   "move": 3.4127855145690087,
+   "rising": 0.5486523972621343,
+   "leap answered": 0.3330887051681444,
+   "range": 24.666666666666668,
+   "register": 74.33333333333333,
+   "even": 0.6806767351012816,
+   "long-short": 0.051250498838435604,
+   "rhythm variety": 1.866182195252371,
+   "surprise, pitch": 2.1834449853583706,
+   "surprise, rhythm": 1.16439575781559,
+   "density": 5.387129162916146,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 15
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "scherzo",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.45496772591857004,
+   "repeats": 0.0477627441244621,
+   "leaps": 0.21807279598366988,
+   "move": 3.422045098836288,
+   "rising": 0.5972474154067191,
+   "leap answered": 0.26078466613101026,
+   "range": 29.375,
+   "register": 79.375,
+   "even": 0.7020549205359746,
+   "long-short": 0.03128486229619533,
+   "rhythm variety": 1.5845734139825396,
+   "surprise, pitch": 2.334873677370311,
+   "surprise, rhythm": 0.9512030583514538,
+   "density": 5.626735463702969,
+   "lines": 2.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 39,
+   "composers": 22
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.46597341802171516,
+   "repeats": 0.09469826786355569,
+   "leaps": 0.22611182681841183,
+   "move": 3.588576664153246,
+   "rising": 0.5194493724949077,
+   "leap answered": 0.3135980053701573,
+   "range": 22.44999999999999,
+   "register": 73.5,
+   "even": 0.5244011366992353,
+   "long-short": 0.11342694993277697,
+   "rhythm variety": 2.45665057518628,
+   "surprise, pitch": 2.4867164639900525,
+   "surprise, rhythm": 1.472152790811071,
+   "density": 5.7439176347195895,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 1221,
+   "composers": 115
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "suite",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.4335568405806134,
+   "repeats": 0.08388635792206789,
+   "leaps": 0.3266585937194053,
+   "move": 4.405969794973522,
+   "rising": 0.4872593097488195,
+   "leap answered": 0.18661027640655237,
+   "range": 30.25,
+   "register": 74.0,
+   "even": 0.7919306036973279,
+   "long-short": 0.03719740397449524,
+   "rhythm variety": 1.2256999726473221,
+   "surprise, pitch": 2.508899015246375,
+   "surprise, rhythm": 0.7239595983859867,
+   "density": 7.533601023611592,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 247,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Moritz Moszkowski",
+  "kind": "waltz",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 10,
+  "values": {
+   "steps": 0.3539829044921231,
+   "repeats": 0.15567257854220445,
+   "leaps": 0.2628237569956556,
+   "move": 3.7268833729996436,
+   "rising": 0.5488111252414719,
+   "leap answered": 0.18229343432893427,
+   "range": 26.95,
+   "register": 76.75,
+   "even": 0.7088322424499841,
+   "long-short": 0.04451940544773698,
+   "rhythm variety": 1.5764113031210936,
+   "surprise, pitch": 2.3125466589582713,
+   "surprise, rhythm": 0.9010856940960796,
+   "density": 3.464363006046812,
+   "lines": 2.5
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.3125466589582713,
+    "others": 1.9101475814136903,
+    "auc": 0.8285844392401769
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 6,
+    "per_1000": 3.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-922-69_moszkowski-moritz--valse-brillante.krn",
+      "label": "Valse brillante (PL-Wtm A-24.922/69, kern)",
+      "bar": 47,
+      "notes": "B4 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2090-fp-7100_moszkowski-moritz--laurin-valse-coquette.krn",
+      "label": "Laurin/Valse coquette (PL-Wtm 2090 fp 7100, kern)",
+      "bar": 16,
+      "notes": "F#4 A4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-872-69--001-002_moszkowski-moritz--boabdil-balletmusik-scherzo-valse.krn",
+      "label": "Boabdil/Balletmusik, Scherzo-Valse, movement 2: Allegretto con moto. (PL-Wtm A-24.872/69, kern)",
+      "bar": 177,
+      "notes": "Ab4 B4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 5,
+    "per_1000": 3.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-922-69_moszkowski-moritz--valse-brillante.krn",
+      "label": "Valse brillante (PL-Wtm A-24.922/69, kern)",
+      "bar": 47,
+      "notes": "A4 B4 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-891-69_moszkowski-moritz--waltzer-op-17-no-3.krn",
+      "label": "Waltzer Op. 17 No. 3 (PL-Wtm A-24.891/69, kern)",
+      "bar": 196,
+      "notes": "F#4 Ab4 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-872-69--001-002_moszkowski-moritz--boabdil-balletmusik-scherzo-valse.krn",
+      "label": "Boabdil/Balletmusik, Scherzo-Valse, movement 2: Allegretto con moto. (PL-Wtm A-24.872/69, kern)",
+      "bar": 177,
+      "notes": "F#4 Ab4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 4,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-922-69_moszkowski-moritz--valse-brillante.krn",
+      "label": "Valse brillante (PL-Wtm A-24.922/69, kern)",
+      "bar": 17,
+      "notes": "Eb6 Bb5 G5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-872-69--001-002_moszkowski-moritz--boabdil-balletmusik-scherzo-valse.krn",
+      "label": "Boabdil/Balletmusik, Scherzo-Valse, movement 2: Allegretto con moto. (PL-Wtm A-24.872/69, kern)",
+      "bar": 58,
+      "notes": "C5 G4 E4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-909-69_moszkowski-moritz--valse-tourbillon-op-89-no-5.krn",
+      "label": "Valse-Tourbillon Op. 89 No. 5 (PL-Wtm A-24.909/69, kern)",
+      "bar": 51,
+      "notes": "B6 F#6 Eb6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-909-69_moszkowski-moritz--valse-tourbillon-op-89-no-5.krn",
+      "label": "Valse-Tourbillon Op. 89 No. 5 (PL-Wtm A-24.909/69, kern)",
+      "bar": 10,
+      "notes": "B4 Eb5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--1759-sp-9954_moszkowski-moritz--walc.krn",
+      "label": "Walc: Tempo di valse. (PL-Wtm 1759 śp 9954, kern)",
+      "bar": 21,
+      "notes": "B4 Eb5 F#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-922-69_moszkowski-moritz--valse-brillante.krn",
+      "label": "Valse brillante (PL-Wtm A-24.922/69, kern)",
+      "bar": 205,
+      "notes": "Eb5 G5 Bb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-891-69_moszkowski-moritz--waltzer-op-17-no-3.krn",
+      "label": "Waltzer Op. 17 No. 3 (PL-Wtm A-24.891/69, kern)",
+      "bar": 161,
+      "notes": "F#4 Ab4 A4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-910-69_moszkowski-moritz--valse-tendre-op-89-no-4.krn",
+      "label": "Valse Tendre Op. 89 No. 4 (PL-Wtm A-24.910/69, kern)",
+      "bar": 35,
+      "notes": "A5 B5 C6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--2090-fp-7100_moszkowski-moritz--laurin-valse-coquette.krn",
+      "label": "Laurin/Valse coquette (PL-Wtm 2090 fp 7100, kern)",
+      "bar": 88,
+      "notes": "A5 B5 C6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     -5,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-872-69--001-002_moszkowski-moritz--boabdil-balletmusik-scherzo-valse.krn",
+      "label": "Boabdil/Balletmusik, Scherzo-Valse, movement 2: Allegretto con moto. (PL-Wtm A-24.872/69, kern)",
+      "bar": 58,
+      "notes": "E5 C5 G4 E4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-909-69_moszkowski-moritz--valse-tourbillon-op-89-no-5.krn",
+      "label": "Valse-Tourbillon Op. 89 No. 5 (PL-Wtm A-24.909/69, kern)",
+      "bar": 51,
+      "notes": "Eb6 B5 F#5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--a-24-891-69_moszkowski-moritz--waltzer-op-17-no-3.krn",
+      "label": "Waltzer Op. 17 No. 3 (PL-Wtm A-24.891/69, kern)",
+      "bar": 62,
+      "notes": "Ab4 E4 B3 Ab3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 65,
+   "composers": 19
+  }
+ }
+]

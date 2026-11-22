@@ -1,0 +1,137 @@
+[
+ {
+  "composer": "Helena Munktell",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 11,
+  "values": {
+   "steps": 0.4248746281891474,
+   "repeats": 0.22315458513845873,
+   "leaps": 0.19035133037681182,
+   "move": 3.139687482571034,
+   "rising": 0.47244710454983313,
+   "leap answered": 0.25834324012322163,
+   "range": 12.27727272727273,
+   "register": 70.36363636363636,
+   "even": 0.396104342460999,
+   "long-short": 0.1114562700194413,
+   "rhythm variety": 2.7711768505807566,
+   "surprise, pitch": 2.7804271799023508,
+   "surprise, rhythm": 1.9192987624273143,
+   "density": 5.6059398490125805,
+   "lines": 3.090909090909091
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 4.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "openscore-lieder:Munktell,_Helena/_/Österns_natt/lc6652787.mxl",
+      "label": "Österns natt (OpenScore)",
+      "bar": 3,
+      "notes": "C#5 C#5 B4 A4"
+     },
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/03_Ce_qu’entendent_les_nuits/lc6654215.mxl",
+      "label": "Songs, Ce qu’entendent les nuits (OpenScore)",
+      "bar": 17,
+      "notes": "Eb5 Eb5 C#5 B4"
+     },
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/08_Exil_d’Amour/lc6656152.mxl",
+      "label": "Songs, Exil d’Amour (OpenScore)",
+      "bar": 40,
+      "notes": "A4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 3.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/03_Ce_qu’entendent_les_nuits/lc6654215.mxl",
+      "label": "Songs, Ce qu’entendent les nuits (OpenScore)",
+      "bar": 32,
+      "notes": "B4 C5 D5 D5"
+     },
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/09_Si_tu_le_voulais/lc6656431.mxl",
+      "label": "Songs, Si tu le voulais (OpenScore)",
+      "bar": 29,
+      "notes": "D4 Eb4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/01_Sérénade/lc6654094.mxl",
+      "label": "Songs, Sérénade (OpenScore)",
+      "bar": 10,
+      "notes": "Ab4 A4 B4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 2,
+    "per_1000": 3.4,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/08_Exil_d’Amour/lc6656152.mxl",
+      "label": "Songs, Exil d’Amour (OpenScore)",
+      "bar": 6,
+      "notes": "F#4 A4 Ab4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Munktell,_Helena/10_Songs/07_La_dernière_berceuse/lc6655859.mxl",
+      "label": "Songs, La dernière berceuse (OpenScore)",
+      "bar": 10,
+      "notes": "C#5 E5 Eb5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1088,
+   "composers": 97
+  }
+ }
+]

@@ -1,0 +1,180 @@
+[
+ {
+  "composer": "Franciszek Lessel",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.5604474617780465,
+   "repeats": 0.3328544158379241,
+   "leaps": 0.04406571966541981,
+   "move": 2.3588840927095434,
+   "rising": 0.5243815209846043,
+   "leap answered": 0.5228571428571429,
+   "range": 8.699999999999998,
+   "register": 74.16666666666667,
+   "even": 0.39970690282637267,
+   "long-short": 0.07399745669824744,
+   "rhythm variety": 2.6387449211734455,
+   "surprise, pitch": 2.150185365262151,
+   "surprise, rhythm": 2.0700775960361075,
+   "density": 4.539011908733106,
+   "lines": 13.166666666666666
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.04406571966541981,
+    "others": 0.14463506607636648,
+    "auc": 0.04398294744005694
+   },
+   {
+    "measure": "move",
+    "value": 2.3588840927095434,
+    "others": 2.9832756549617105,
+    "auc": 0.1936140677117536
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.150185365262151,
+    "others": 2.8224100983774814,
+    "auc": 0.14257866147085174
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.4,
+    "works": 3,
+    "per_1000": 11.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-006_lessel-franciszek--msza-b-agnus-dei.krn",
+      "label": "Msza B, Agnus Dei, movement 6 (PL-CZ II-148, kern)",
+      "bar": 74,
+      "notes": "C5 D5 Eb5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-004_lessel-franciszek--msza-b-offertorium.krn",
+      "label": "Msza B, Offertorium, movement 4 (PL-CZ II-148, kern)",
+      "bar": 61,
+      "notes": "G5 A5 Bb5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-001_lessel-franciszek--msza-b-kyrie.krn",
+      "label": "Msza B, Kyrie, movement 1 (PL-CZ II-148, kern)",
+      "bar": 31,
+      "notes": "C5 D5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 13.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-003_lessel-franciszek--msza-b-credo.krn",
+      "label": "Msza B, Credo, movement 3 (PL-CZ II-148, kern)",
+      "bar": 53,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-005_lessel-franciszek--msza-b-sanctus.krn",
+      "label": "Msza B, Sanctus, movement 5 (PL-CZ II-148, kern)",
+      "bar": 11,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 2,
+    "per_1000": 11.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-003_lessel-franciszek--msza-b-credo.krn",
+      "label": "Msza B, Credo, movement 3 (PL-CZ II-148, kern)",
+      "bar": 122,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-005_lessel-franciszek--msza-b-sanctus.krn",
+      "label": "Msza B, Sanctus, movement 5 (PL-CZ II-148, kern)",
+      "bar": 103,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 13.2,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-003_lessel-franciszek--msza-b-credo.krn",
+      "label": "Msza B, Credo, movement 3 (PL-CZ II-148, kern)",
+      "bar": 54,
+      "notes": "F5 F5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--ii-148--001-005_lessel-franciszek--msza-b-sanctus.krn",
+      "label": "Msza B, Sanctus, movement 5 (PL-CZ II-148, kern)",
+      "bar": 11,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 547,
+   "composers": 37
+  }
+ }
+]

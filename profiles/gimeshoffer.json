@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Gimeshoffer",
+  "kind": "suite",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.49696401684740693,
+   "repeats": 0.14869608294629866,
+   "leaps": 0.12517923071915502,
+   "move": 2.890511146406807,
+   "rising": 0.4729076039853042,
+   "leap answered": 0.12528115159694106,
+   "range": 12.666666666666666,
+   "register": 77.0,
+   "even": 0.5323089246923223,
+   "long-short": 0.09534667301034438,
+   "rhythm variety": 2.38744936917239,
+   "surprise, pitch": 1.9403750909944695,
+   "surprise, rhythm": 1.5237455370167037,
+   "density": 3.610184005829803,
+   "lines": 5.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 248,
+   "composers": 18
+  }
+ }
+]

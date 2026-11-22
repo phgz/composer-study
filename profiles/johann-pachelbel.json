@@ -1,0 +1,821 @@
+[
+ {
+  "composer": "Johann Pachelbel",
+  "kind": "air",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.6141593330261613,
+   "repeats": 0.10972867480198867,
+   "leaps": 0.15539339408325423,
+   "move": 2.7572648399801225,
+   "rising": 0.4712693764966039,
+   "leap answered": 0.3650626733219963,
+   "range": 13.65,
+   "register": 70.16666666666667,
+   "even": 0.44097424413772446,
+   "long-short": 0.11217388067383345,
+   "rhythm variety": 2.7851993568246396,
+   "surprise, pitch": 2.75645426875873,
+   "surprise, rhythm": 2.1613232465189616,
+   "density": 4.709218294689246,
+   "lines": 4.666666666666667
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.44097424413772446,
+    "others": 0.6388005088317116,
+    "auc": 0.1414005098884267
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.7851993568246396,
+    "others": 1.8162297433621308,
+    "auc": 0.912775528559271
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.1613232465189616,
+    "others": 1.3271366495673513,
+    "auc": 0.9316839106172695
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.0,
+    "works": 4,
+    "per_1000": 4.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.651e-3hexar_m.mid",
+      "label": "Aria and 6 Variations in F major, P.195 (IMSLP)",
+      "bar": 14,
+      "notes": "A4 Bb4 Bb4 A4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.43e2-6hexar_m.mid",
+      "label": "Aria and 8 Variations in F minor, P.198 (IMSLP)",
+      "bar": 10,
+      "notes": "G4 Ab4 Ab4 G4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.e58e-2hexar_m.mid",
+      "label": "Aria and 5 Variations in E minor, P.194 (IMSLP)",
+      "bar": 22,
+      "notes": "F#5 G5 G5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.e58e-2hexar_m.mid",
+      "label": "Aria and 5 Variations in E minor, P.194 (IMSLP)",
+      "bar": 7,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.651e-3hexar_m.mid",
+      "label": "Aria and 6 Variations in F major, P.195 (IMSLP)",
+      "bar": 4,
+      "notes": "F5 E5 D5 C5"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.ae68-1hexar_m.mid",
+      "label": "Aria and 6 Variations in D minor, P.193 (IMSLP)",
+      "bar": 11,
+      "notes": "F5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.e58e-2hexar_m.mid",
+      "label": "Aria and 5 Variations in E minor, P.194 (IMSLP)",
+      "bar": 25,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.ae68-1hexar_m.mid",
+      "label": "Aria and 6 Variations in D minor, P.193 (IMSLP)",
+      "bar": 11,
+      "notes": "G5 F5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 3,
+    "per_1000": 4.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.43e2-6hexar_m.mid",
+      "label": "Aria and 8 Variations in F minor, P.198 (IMSLP)",
+      "bar": 10,
+      "notes": "Bb4 Ab4 G4 Ab4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.e5a0-4hexar_m.mid",
+      "label": "Aria and 6 Variations in G minor, P.196 (IMSLP)",
+      "bar": 3,
+      "notes": "F5 Eb5 D5 Eb5"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.e58e-2hexar_m.mid",
+      "label": "Aria and 5 Variations in E minor, P.194 (IMSLP)",
+      "bar": 20,
+      "notes": "D5 C5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.0,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.ae68-1hexar_m.mid",
+      "label": "Aria and 6 Variations in D minor, P.193 (IMSLP)",
+      "bar": 42,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.e58e-2hexar_m.mid",
+      "label": "Aria and 5 Variations in E minor, P.194 (IMSLP)",
+      "bar": 48,
+      "notes": "D5 E5 F#5 G5"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.651e-3hexar_m.mid",
+      "label": "Aria and 6 Variations in F major, P.195 (IMSLP)",
+      "bar": 37,
+      "notes": "F4 G4 A4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 75,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Johann Pachelbel",
+  "kind": "fugue",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 12,
+  "values": {
+   "steps": 0.7538344613962145,
+   "repeats": 0.057205452157502064,
+   "leaps": 0.11191449562795308,
+   "move": 2.435297878641179,
+   "rising": 0.4676853762145338,
+   "leap answered": 0.3972112268131538,
+   "range": 16.562499999999996,
+   "register": 68.33333333333333,
+   "even": 0.5519981977078052,
+   "long-short": 0.0644794873030085,
+   "rhythm variety": 2.28740995275757,
+   "surprise, pitch": 2.3500079041864974,
+   "surprise, rhythm": 1.9205459547548827,
+   "density": 3.3636194897429514,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.3500079041864974,
+    "others": 2.6382269610354476,
+    "auc": 0.18126884151593448
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.9205459547548827,
+    "others": 1.5226930700980306,
+    "auc": 0.7957714254952625
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 4,
+    "per_1000": 6.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 2,
+      "notes": "F4 G4 F4 G4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.dc57-pachelbel_magnificat_fuge_5_09.mid",
+      "label": "Magnificat Fugue, P.322 (IMSLP)",
+      "bar": 6,
+      "notes": "C4 D4 C4 D4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.8c6c-pachelbel_magnificat_fuge_5_11.mid",
+      "label": "Magnificat Fugue, P.324 (IMSLP)",
+      "bar": 6,
+      "notes": "F4 G4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 6,
+    "per_1000": 9.8,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 1,
+      "notes": "D4 C4 D4 C4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.dc57-pachelbel_magnificat_fuge_5_09.mid",
+      "label": "Magnificat Fugue, P.322 (IMSLP)",
+      "bar": 2,
+      "notes": "D4 C4 D4 C4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.147a-pachelbel_magnificat_fuge_5_10.mid",
+      "label": "Magnificat Fugue, P.323 (IMSLP)",
+      "bar": 10,
+      "notes": "G4 F4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 6,
+    "per_1000": 11.0,
+    "others_per_1000": 1.9,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.dc57-pachelbel_magnificat_fuge_5_09.mid",
+      "label": "Magnificat Fugue, P.322 (IMSLP)",
+      "bar": 2,
+      "notes": "C4 D4 C4 D4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 1,
+      "notes": "C4 D4 C4 D4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.10c0-pachelbel_magnificat_fuge_5_06.mid",
+      "label": "Magnificat Fugue, P.319 (IMSLP)",
+      "bar": 9,
+      "notes": "G4 A4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.359d-pachelbel_magnificat_fuge_5_04.mid",
+      "label": "Magnificat Fugue, P.317 (IMSLP)",
+      "bar": 3,
+      "notes": "E4 F4 G4 F4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.9d29-pachelbel_magnificat_fuge_5_12.mid",
+      "label": "Magnificat Fugue, P.325 (IMSLP)",
+      "bar": 16,
+      "notes": "A4 Bb4 C5 Bb4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.af01-pachelbel_magnificat_fuge_5_01.mid",
+      "label": "Magnificat Fugue, P.314 (IMSLP)",
+      "bar": 22,
+      "notes": "E5 F5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 4.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.359d-pachelbel_magnificat_fuge_5_04.mid",
+      "label": "Magnificat Fugue, P.317 (IMSLP)",
+      "bar": 3,
+      "notes": "F4 G4 F4 E4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.9d29-pachelbel_magnificat_fuge_5_12.mid",
+      "label": "Magnificat Fugue, P.325 (IMSLP)",
+      "bar": 16,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.af01-pachelbel_magnificat_fuge_5_01.mid",
+      "label": "Magnificat Fugue, P.314 (IMSLP)",
+      "bar": 22,
+      "notes": "F5 G5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 4.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 5,
+      "notes": "C4 F4 E4 F4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.9d29-pachelbel_magnificat_fuge_5_12.mid",
+      "label": "Magnificat Fugue, P.325 (IMSLP)",
+      "bar": 2,
+      "notes": "C4 F4 E4 F4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.af01-pachelbel_magnificat_fuge_5_01.mid",
+      "label": "Magnificat Fugue, P.314 (IMSLP)",
+      "bar": 23,
+      "notes": "C5 F5 E5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 91,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Pachelbel",
+  "kind": "magnificat",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 12,
+  "values": {
+   "steps": 0.7538344613962145,
+   "repeats": 0.057205452157502064,
+   "leaps": 0.11191449562795308,
+   "move": 2.435297878641179,
+   "rising": 0.4676853762145338,
+   "leap answered": 0.3972112268131538,
+   "range": 16.562499999999996,
+   "register": 68.33333333333333,
+   "even": 0.5519981977078052,
+   "long-short": 0.0644794873030085,
+   "rhythm variety": 2.28740995275757,
+   "surprise, pitch": 2.3500079041864974,
+   "surprise, rhythm": 1.9205459547548827,
+   "density": 3.3636194897429514,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7538344613962145,
+    "others": 0.47237346122384816,
+    "auc": 0.9987179487170531
+   },
+   {
+    "measure": "repeats",
+    "value": 0.057205452157502064,
+    "others": 0.3080990101943256,
+    "auc": 0.0
+   },
+   {
+    "measure": "move",
+    "value": 2.435297878641179,
+    "others": 2.8926295338028676,
+    "auc": 0.18717948715889066
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 6,
+    "per_1000": 6.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 3,
+      "notes": "E4 D4 E4 F4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.84f2-pachelbel_magnificat_fuge_5_05.mid",
+      "label": "Magnificat Fugue, P.318 (IMSLP)",
+      "bar": 21,
+      "notes": "E5 D5 E5 F5"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.6991-pachelbel_magnificat_fuge_5_03.mid",
+      "label": "Magnificat Fugue, P.316 (IMSLP)",
+      "bar": 2,
+      "notes": "B4 A4 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 6.1,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 2,
+      "notes": "F4 G4 F4 G4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.dc57-pachelbel_magnificat_fuge_5_09.mid",
+      "label": "Magnificat Fugue, P.322 (IMSLP)",
+      "bar": 6,
+      "notes": "C4 D4 C4 D4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.8c6c-pachelbel_magnificat_fuge_5_11.mid",
+      "label": "Magnificat Fugue, P.324 (IMSLP)",
+      "bar": 6,
+      "notes": "F4 G4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 4.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 5,
+      "notes": "C4 F4 E4 F4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.9d29-pachelbel_magnificat_fuge_5_12.mid",
+      "label": "Magnificat Fugue, P.325 (IMSLP)",
+      "bar": 2,
+      "notes": "C4 F4 E4 F4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.af01-pachelbel_magnificat_fuge_5_01.mid",
+      "label": "Magnificat Fugue, P.314 (IMSLP)",
+      "bar": 23,
+      "notes": "C5 F5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 5,
+    "per_1000": 6.1,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.8c6c-pachelbel_magnificat_fuge_5_11.mid",
+      "label": "Magnificat Fugue, P.324 (IMSLP)",
+      "bar": 6,
+      "notes": "G4 F4 G4 Eb4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.10c0-pachelbel_magnificat_fuge_5_06.mid",
+      "label": "Magnificat Fugue, P.319 (IMSLP)",
+      "bar": 9,
+      "notes": "A4 G4 A4 F4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 23,
+      "notes": "A5 G5 A5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 6,
+    "per_1000": 5.5,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.8c6c-pachelbel_magnificat_fuge_5_11.mid",
+      "label": "Magnificat Fugue, P.324 (IMSLP)",
+      "bar": 7,
+      "notes": "F4 Eb4 F4 D4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 2,
+      "notes": "G4 F4 G4 E4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.84f2-pachelbel_magnificat_fuge_5_05.mid",
+      "label": "Magnificat Fugue, P.318 (IMSLP)",
+      "bar": 23,
+      "notes": "G5 F5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 6,
+    "per_1000": 11.0,
+    "others_per_1000": 3.5,
+    "at": [
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.dc57-pachelbel_magnificat_fuge_5_09.mid",
+      "label": "Magnificat Fugue, P.322 (IMSLP)",
+      "bar": 2,
+      "notes": "C4 D4 C4 D4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.4961-pachelbel_magnificat_fuge_5_08.mid",
+      "label": "Magnificat Fugue, P.321 (IMSLP)",
+      "bar": 1,
+      "notes": "C4 D4 C4 D4"
+     },
+     {
+      "work": "imslp:Pachelbel_Johann/WIMA.10c0-pachelbel_magnificat_fuge_5_06.mid",
+      "label": "Magnificat Fugue, P.319 (IMSLP)",
+      "bar": 9,
+      "notes": "G4 A4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 26,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Johann Pachelbel",
+  "kind": "variations",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.6141593330261613,
+   "repeats": 0.10972867480198867,
+   "leaps": 0.15539339408325423,
+   "move": 2.7572648399801225,
+   "rising": 0.4712693764966039,
+   "leap answered": 0.3650626733219963,
+   "range": 13.65,
+   "register": 70.16666666666667,
+   "even": 0.44097424413772446,
+   "long-short": 0.11217388067383345,
+   "rhythm variety": 2.7851993568246396,
+   "surprise, pitch": 2.75645426875873,
+   "surprise, rhythm": 2.1613232465189616,
+   "density": 4.709218294689246,
+   "lines": 4.666666666666667
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.10972867480198867,
+    "others": 0.04708965586244988,
+    "auc": 0.8268817204467981
+   },
+   {
+    "measure": "range",
+    "value": 13.65,
+    "others": 16.239964158727766,
+    "auc": 0.24659498207328978
+   },
+   {
+    "measure": "even",
+    "value": 0.44097424413772446,
+    "others": 0.6742927092586435,
+    "auc": 0.17634408597922324
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.7851993568246396,
+    "others": 1.5589621492991785,
+    "auc": 0.9381123058457108
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.1613232465189616,
+    "others": 1.1784552159781172,
+    "auc": 0.9455197132416204
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 39,
+   "composers": 2
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Charles Koechlin",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.6608608341195334,
+   "repeats": 0.06131624414904886,
+   "leaps": 0.13827433934599534,
+   "move": 3.083747157247232,
+   "rising": 0.4760849037057018,
+   "leap answered": 0.31588044876462307,
+   "range": 27.25,
+   "register": 76.5,
+   "even": 0.6736768834261037,
+   "long-short": 0.06094880190129078,
+   "rhythm variety": 1.7490915051170894,
+   "surprise, pitch": 2.6677914702139454,
+   "surprise, rhythm": 1.311075588220945,
+   "density": 5.132732525983773,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ }
+]

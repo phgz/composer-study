@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Giuseppe Giuliano",
+  "kind": "sonata",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.4529644822999932,
+   "repeats": 0.2037912102002517,
+   "leaps": 0.1836870091822521,
+   "move": 3.4796396115756942,
+   "rising": 0.42471718648683865,
+   "leap answered": 0.20688488426921534,
+   "range": 16.866666666666656,
+   "register": 73.16666666666667,
+   "even": 0.6323231062328624,
+   "long-short": 0.057017678864848126,
+   "rhythm variety": 2.021637548893446,
+   "surprise, pitch": 2.5264435619444954,
+   "surprise, rhythm": 1.4992745657288378,
+   "density": 4.293586548751013,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.2037912102002517,
+    "others": 0.10744878705180856,
+    "auc": 0.7518252070260917
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 7.6,
+    "works": 4,
+    "per_1000": 3.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#2",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 2: Largo (Mutopia)",
+      "bar": 5,
+      "notes": "C#5 D5 C#5 B4"
+     },
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#3",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 3: Minuetto (Mutopia)",
+      "bar": 15,
+      "notes": "Ab5 A5 Ab5 F#5"
+     },
+     {
+      "work": "mutopia:GiulianoG/es/es-lys#2",
+      "label": "Sonata in Ess Per Mandolino, e Basso, movement 2: Largo (Mutopia)",
+      "bar": 3,
+      "notes": "D5 Eb5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.6,
+    "works": 3,
+    "per_1000": 3.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:GiulianoG/es/es-lys#3",
+      "label": "Sonata in Ess Per Mandolino, e Basso, movement 3: Allegro (Mutopia)",
+      "bar": 42,
+      "notes": "G5 G5 G5 B4"
+     },
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#1",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 1: Allegro (Mutopia)",
+      "bar": 12,
+      "notes": "B5 B5 B5 Eb5"
+     },
+     {
+      "work": "mutopia:GiulianoG/es/es-lys#1",
+      "label": "Sonata in Ess Per Mandolino, e Basso, movement 1: Allegro (Mutopia)",
+      "bar": 42,
+      "notes": "Bb4 Bb4 Bb4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 7.4,
+    "works": 4,
+    "per_1000": 5.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#3",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 3: Minuetto (Mutopia)",
+      "bar": 1,
+      "notes": "A5 Ab5 F#5 E5"
+     },
+     {
+      "work": "mutopia:GiulianoG/es/es-lys#3",
+      "label": "Sonata in Ess Per Mandolino, e Basso, movement 3: Allegro (Mutopia)",
+      "bar": 29,
+      "notes": "Ab5 G5 F5 Eb5"
+     },
+     {
+      "work": "mutopia:GiulianoG/es/es-lys#1",
+      "label": "Sonata in Ess Per Mandolino, e Basso, movement 1: Allegro (Mutopia)",
+      "bar": 17,
+      "notes": "Eb5 D5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.1,
+    "works": 3,
+    "per_1000": 3.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#3",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 3: Minuetto (Mutopia)",
+      "bar": 9,
+      "notes": "C#5 A4 A4 A4"
+     },
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#1",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 1: Allegro (Mutopia)",
+      "bar": 5,
+      "notes": "C#5 A4 A4 A4"
+     },
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#2",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 2: Largo (Mutopia)",
+      "bar": 31,
+      "notes": "C#5 A4 A4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.7,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#2",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 2: Largo (Mutopia)",
+      "bar": 1,
+      "notes": "B4 A4 Ab4 F#4"
+     },
+     {
+      "work": "mutopia:GiulianoG/es/es-lys#2",
+      "label": "Sonata in Ess Per Mandolino, e Basso, movement 2: Largo (Mutopia)",
+      "bar": 12,
+      "notes": "Bb5 Ab5 G5 F5"
+     },
+     {
+      "work": "mutopia:GiulianoG/es/es-lys#3",
+      "label": "Sonata in Ess Per Mandolino, e Basso, movement 3: Allegro (Mutopia)",
+      "bar": 60,
+      "notes": "Bb4 Ab4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 6.5,
+    "works": 3,
+    "per_1000": 3.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#2",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 2: Largo (Mutopia)",
+      "bar": 5,
+      "notes": "D5 C#5 B4 B4"
+     },
+     {
+      "work": "mutopia:GiulianoG/e/e-lys#3",
+      "label": "Sonata in E Per Mandolino, e Basso, movement 3: Minuetto (Mutopia)",
+      "bar": 18,
+      "notes": "A5 Ab5 F#5 F#5"
+     },
+     {
+      "work": "mutopia:GiulianoG/es/es-lys#3",
+      "label": "Sonata in Ess Per Mandolino, e Basso, movement 3: Allegro (Mutopia)",
+      "bar": 9,
+      "notes": "Ab5 G5 F5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 380,
+   "composers": 15
+  }
+ }
+]

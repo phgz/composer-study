@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Pauline Duchambge",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.4349562545915982,
+   "repeats": 0.2187877067610588,
+   "leaps": 0.15989405930675216,
+   "move": 3.128388451611869,
+   "rising": 0.4819352157619218,
+   "leap answered": 0.24479166666666666,
+   "range": 10.5,
+   "register": 69.875,
+   "even": 0.3721728169528681,
+   "long-short": 0.15858147606868836,
+   "rhythm variety": 2.763046970854635,
+   "surprise, pitch": 2.681414798165933,
+   "surprise, rhythm": 1.817848219542042,
+   "density": 4.9223093097629,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 134,
+   "composers": 18
+  }
+ }
+]

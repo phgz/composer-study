@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Marcin Mielczewski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.4234957498381151,
+   "repeats": 0.41061094041781077,
+   "leaps": 0.06663601899969512,
+   "move": 2.502974299525524,
+   "rising": 0.5064501745732977,
+   "leap answered": 0.2467948717948718,
+   "range": 7.0,
+   "register": 77.875,
+   "even": 0.36473141149109095,
+   "long-short": 0.13493958991002808,
+   "rhythm variety": 2.6967266887704193,
+   "surprise, pitch": 2.4700975346917615,
+   "surprise, rhythm": 1.9822448584499925,
+   "density": 6.8429135882265255,
+   "lines": 24.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 198,
+   "composers": 20
+  }
+ }
+]

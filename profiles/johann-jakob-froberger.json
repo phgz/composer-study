@@ -1,0 +1,66 @@
+[
+ {
+  "composer": "Johann Jakob Froberger",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.5957291856717144,
+   "repeats": 0.21250760201909627,
+   "leaps": 0.11766177096636866,
+   "move": 2.4347063867941308,
+   "rising": 0.4590032756681681,
+   "leap answered": 0.23273809523809524,
+   "range": 12.6875,
+   "register": 68.75,
+   "even": 0.2318190460669274,
+   "long-short": 0.22833731710850352,
+   "rhythm variety": 3.1672296475468347,
+   "surprise, pitch": 3.0291026753556034,
+   "surprise, rhythm": 2.4986032838248677,
+   "density": 2.8725256769374417,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 128,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Johann Jakob Froberger",
+  "kind": "suite",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.5957291856717144,
+   "repeats": 0.21250760201909627,
+   "leaps": 0.11766177096636866,
+   "move": 2.4347063867941308,
+   "rising": 0.4590032756681681,
+   "leap answered": 0.23273809523809524,
+   "range": 12.6875,
+   "register": 68.75,
+   "even": 0.2318190460669274,
+   "long-short": 0.22833731710850352,
+   "rhythm variety": 3.1672296475468347,
+   "surprise, pitch": 3.0291026753556034,
+   "surprise, rhythm": 2.4986032838248677,
+   "density": 2.8725256769374417,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 127,
+   "composers": 2
+  }
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "composer": "Harry Burleigh",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.36182961358787136,
+   "repeats": 0.248985828303954,
+   "leaps": 0.2015020244549221,
+   "move": 3.413317639873334,
+   "rising": 0.48894916830823953,
+   "leap answered": 0.28995135575616793,
+   "range": 11.9125,
+   "register": 70.8125,
+   "even": 0.34558862981694327,
+   "long-short": 0.15912990199496538,
+   "rhythm variety": 2.9785063775828697,
+   "surprise, pitch": 2.6721622198749415,
+   "surprise, rhythm": 2.1025150201333074,
+   "density": 4.852770427594075,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 2.9785063775828697,
+    "others": 2.6006262004103537,
+    "auc": 0.771594684385382
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 301,
+   "composers": 37
+  }
+ }
+]

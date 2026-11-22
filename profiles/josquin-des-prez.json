@@ -1,0 +1,762 @@
+[
+ {
+  "composer": "Josquin Des Prez",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 75,
+  "values": {
+   "steps": 0.6721510912489205,
+   "repeats": 0.10443276508247783,
+   "leaps": 0.08722321782089788,
+   "move": 2.383305954004223,
+   "rising": 0.45792219695781217,
+   "leap answered": 0.5307683785539682,
+   "range": 11.542,
+   "register": 67.38666666666667,
+   "even": 0.36676863194421616,
+   "long-short": 0.15114241593504746,
+   "rhythm variety": 2.839760471143296,
+   "surprise, pitch": 2.425315328928482,
+   "surprise, rhythm": 2.090388254056002,
+   "density": 0.9721399249763781,
+   "lines": 4.173333333333333
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -4,
+     2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 9.6,
+    "works": 32,
+    "per_1000": 2.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos1102c-Missa_La_sol_fa_re_mi-Credo.krn",
+      "label": "Missa La sol fa re mi, Credo: Patrem (kern)",
+      "bar": 49,
+      "notes": "C5 B4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos0501d-Missa_Lami_Baudichon-Sanctus.krn",
+      "label": "Missa L'ami Baudichon, Sanctus: Pleni (kern)",
+      "bar": 45,
+      "notes": "C5 B4 G4 A4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1202b-Missa_Sine_nomine-Gloria.krn",
+      "label": "Missa Sine nomine, Gloria: Et in terra pax (kern)",
+      "bar": 75,
+      "notes": "C5 B4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 8.5,
+    "works": 27,
+    "per_1000": 1.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos0901d-Missa_Malheur_me_bat-Sanctus.krn",
+      "label": "Missa Malheur me bat, Sanctus (kern)",
+      "bar": 54,
+      "notes": "E4 D4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos0802e-Missa_Fortuna_desperata-Agnus.krn",
+      "label": "Missa Fortuna desperata, Agnus dei: Agnus Dei I (kern)",
+      "bar": 3,
+      "notes": "B4 A4 C5 B4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1102c-Missa_La_sol_fa_re_mi-Credo.krn",
+      "label": "Missa La sol fa re mi, Credo: Patrem (kern)",
+      "bar": 23,
+      "notes": "B4 A4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 8.5,
+    "works": 57,
+    "per_1000": 4.9,
+    "others_per_1000": 1.9,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos0603c-Missa_Lhomme_arme_super_voces_musicales-Credo.krn",
+      "label": "Missa L'homme armé super voces musicales, Credo: Patrem (kern)",
+      "bar": 11,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos0901e-Missa_Malheur_me_bat-Agnus.krn",
+      "label": "Missa Malheur me bat, Agnus dei: Agnus dei I (kern)",
+      "bar": 5,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1304-Credo_Quarti_toni.krn",
+      "label": "Credo [Quarti toni] (kern)",
+      "bar": 35,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.4,
+    "works": 18,
+    "per_1000": 1.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos1302-Credo_De_tous_biens_playne.krn",
+      "label": "Credo De tous biens playne: Factorem celi (kern)",
+      "bar": 15,
+      "notes": "G4 E4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos0801c-Missa_Faisant_regretz-Credo.krn",
+      "label": "Missa Faisant regretz, Credo: Patrem (kern)",
+      "bar": 6,
+      "notes": "G4 E4 F4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1202c-Missa_Sine_nomine-Credo.krn",
+      "label": "Missa Sine nomine, Credo: Patrem omnipotentem (kern)",
+      "bar": 27,
+      "notes": "G4 E4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -4
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 6.7,
+    "works": 17,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos0603c-Missa_Lhomme_arme_super_voces_musicales-Credo.krn",
+      "label": "Missa L'homme armé super voces musicales, Credo: Patrem (kern)",
+      "bar": 32,
+      "notes": "A4 C5 B4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos0501d-Missa_Lami_Baudichon-Sanctus.krn",
+      "label": "Missa L'ami Baudichon, Sanctus: Pleni (kern)",
+      "bar": 45,
+      "notes": "A4 C5 B4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1102b-Missa_La_sol_fa_re_mi-Gloria.krn",
+      "label": "Missa La sol fa re mi, Gloria: Et in terra pax (kern)",
+      "bar": 20,
+      "notes": "A4 C5 B4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.4,
+    "works": 17,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos0801b-Missa_Faisant_regretz-Gloria.krn",
+      "label": "Missa Faisant regretz, Gloria: Et in terra pax (kern)",
+      "bar": 76,
+      "notes": "C5 D5 C5 D5"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos0901e-Missa_Malheur_me_bat-Agnus.krn",
+      "label": "Missa Malheur me bat, Agnus dei: Agnus dei I (kern)",
+      "bar": 23,
+      "notes": "D4 E4 D4 E4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos0801c-Missa_Faisant_regretz-Credo.krn",
+      "label": "Missa Faisant regretz, Credo: Patrem (kern)",
+      "bar": 15,
+      "notes": "G4 A4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 521,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "Josquin Des Prez",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 44,
+  "values": {
+   "steps": 0.6513337594703894,
+   "repeats": 0.15388673904953737,
+   "leaps": 0.0747926353290092,
+   "move": 2.309026097931668,
+   "rising": 0.45474005561415304,
+   "leap answered": 0.5099951519117518,
+   "range": 10.753409090909088,
+   "register": 68.20454545454545,
+   "even": 0.3395261245486371,
+   "long-short": 0.14037957098704393,
+   "rhythm variety": 2.947335678779046,
+   "surprise, pitch": 2.4048027478350664,
+   "surprise, rhythm": 2.169732204373042,
+   "density": 0.9336776884525275,
+   "lines": 4.409090909090909
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 9.1,
+    "works": 14,
+    "per_1000": 2.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos1807-Qui_habitat_in_adjutorio_altissimi.krn",
+      "label": "Jos1807-Qui habitat in adjutorio altissimi (kern)",
+      "bar": 43,
+      "notes": "F#4 F#4 E4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2313-Benedicta_es_celorum.krn",
+      "label": "Jos2313-Benedicta es celorum (kern)",
+      "bar": 30,
+      "notes": "F#4 F#4 E4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2409-O_virgo_prudentissima.krn",
+      "label": "Jos2409-O virgo prudentissima (kern)",
+      "bar": 28,
+      "notes": "F#4 F#4 E4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 8.3,
+    "works": 22,
+    "per_1000": 3.4,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2403-Illibata_dei_virgo.krn",
+      "label": "Jos2403-Illibata dei virgo (kern)",
+      "bar": 32,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1704-In_exitu_Israel_de_Egypto.krn",
+      "label": "Jos1704-In exitu Israel de Egypto (kern)",
+      "bar": 80,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2105-Huc_me_sydereo--a_5.krn",
+      "label": "Jos2105-Huc me sydereo--a 5 (kern)",
+      "bar": 23,
+      "notes": "A4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 8.2,
+    "works": 29,
+    "per_1000": 3.7,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos1807-Qui_habitat_in_adjutorio_altissimi.krn",
+      "label": "Jos1807-Qui habitat in adjutorio altissimi (kern)",
+      "bar": 6,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2302-Alma_redemptoris_mater__Ave_regina_celorum.krn",
+      "label": "Jos2302-Alma redemptoris mater Ave regina celorum (kern)",
+      "bar": 17,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2403-Illibata_dei_virgo.krn",
+      "label": "Jos2403-Illibata dei virgo (kern)",
+      "bar": 35,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.7,
+    "works": 16,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2514-Vultum_tuum_deprecabuntur.krn",
+      "label": "Jos2514-Vultum tuum deprecabuntur: Secunda pars: Sancta dei genitrix (kern)",
+      "bar": 47,
+      "notes": "Bb4 Bb4 Bb4 C5"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1908-In_principio_erat_verbum.krn",
+      "label": "Jos1908-In principio erat verbum (kern)",
+      "bar": 55,
+      "notes": "C5 C5 C5 D5"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2601-Absolve_Quaesumus_Domine.krn",
+      "label": "Jos2601-Absolve Quaesumus Domine: Requiescant (kern)",
+      "bar": 15,
+      "notes": "Bb4 Bb4 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.5,
+    "works": 30,
+    "per_1000": 4.2,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2203-Qui_velatus.krn",
+      "label": "Jos2203-Qui velatus: [Secunda pars:] Hora qui ductus tercia (kern)",
+      "bar": 66,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2403-Illibata_dei_virgo.krn",
+      "label": "Jos2403-Illibata dei virgo (kern)",
+      "bar": 3,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1903-Factum_est_autem.krn",
+      "label": "Jos1903-Factum est autem (kern)",
+      "bar": 36,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.5,
+    "works": 27,
+    "per_1000": 4.4,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos1904-Homo_quidam_fecit_cenam.krn",
+      "label": "Jos1904-Homo quidam fecit cenam (kern)",
+      "bar": 9,
+      "notes": "E5 D5 C5 B4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2403-Illibata_dei_virgo.krn",
+      "label": "Jos2403-Illibata dei virgo (kern)",
+      "bar": 2,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos1714-Memor_esto_verbi_tui.krn",
+      "label": "Jos1714-Memor esto verbi tui (kern)",
+      "bar": 93,
+      "notes": "A4 G4 F4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 578,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Josquin Des Prez",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 39,
+  "values": {
+   "steps": 0.6517504769823207,
+   "repeats": 0.1665989889200712,
+   "leaps": 0.0693000709927589,
+   "move": 2.3087616260051798,
+   "rising": 0.4500652177714065,
+   "leap answered": 0.5174758840974011,
+   "range": 10.473076923076922,
+   "register": 67.73076923076923,
+   "even": 0.3475991131029598,
+   "long-short": 0.1630197771560815,
+   "rhythm variety": 2.8665077403066763,
+   "surprise, pitch": 2.2142517522871787,
+   "surprise, rhythm": 1.956694605990641,
+   "density": 1.0354313555055996,
+   "lines": 4.128205128205129
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.2142517522871787,
+    "others": 2.629825952367717,
+    "auc": 0.1655877808206221
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.956694605990641,
+    "others": 2.1846045642281764,
+    "auc": 0.24967458600211223
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.4,
+    "works": 8,
+    "per_1000": 3.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2828-Plus_nulz_regrets.krn",
+      "label": "Jos2828-Plus nulz regrets (kern)",
+      "bar": 49,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2905-Du_mien_amant.krn",
+      "label": "Jos2905-Du mien amant: Or au facteur (kern)",
+      "bar": 48,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos3010-Se_congie_prens.krn",
+      "label": "Jos3010-Se congie prens (kern)",
+      "bar": 7,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 4.6,
+    "works": 18,
+    "per_1000": 6.4,
+    "others_per_1000": 2.3,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2905-Du_mien_amant.krn",
+      "label": "Jos2905-Du mien amant: Or au facteur (kern)",
+      "bar": 5,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos3010-Se_congie_prens.krn",
+      "label": "Jos3010-Se congie prens (kern)",
+      "bar": 9,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2822-Le_villain.krn",
+      "label": "Jos2822-Le villain (kern)",
+      "bar": 8,
+      "notes": "A4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.6,
+    "works": 15,
+    "per_1000": 5.7,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2803-Adieu_mes_amours.krn",
+      "label": "Jos2803-Adieu mes amours (kern)",
+      "bar": 15,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2822-Le_villain.krn",
+      "label": "Jos2822-Le villain (kern)",
+      "bar": 33,
+      "notes": "F4 E4 D4 C4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2828-Plus_nulz_regrets.krn",
+      "label": "Jos2828-Plus nulz regrets (kern)",
+      "bar": 17,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.4,
+    "works": 11,
+    "per_1000": 3.1,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2804-Baisiez_moy.krn",
+      "label": "Baisiez moy (kern)",
+      "bar": 7,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2905-Du_mien_amant.krn",
+      "label": "Jos2905-Du mien amant: Or au facteur (kern)",
+      "bar": 73,
+      "notes": "G4 G4 G4 G4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2921-Plusieurs_regretz.krn",
+      "label": "Jos2921-Plusieurs regretz (kern)",
+      "bar": 7,
+      "notes": "G4 G4 G4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     1,
+     -2,
+     0
+    ],
+    "z": 4.3,
+    "works": 8,
+    "per_1000": 2.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2904-Douleur_me_bat.krn",
+      "label": "Douleur me bat (kern)",
+      "bar": 9,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2703-Cela_sans_plus.krn",
+      "label": "Jos2703-Cela sans plus (kern)",
+      "bar": 28,
+      "notes": "F4 G4 A4 Bb4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2715-Ile_fantazies_de_Joskin.krn",
+      "label": "Jos2715-Ile fantazies de Joskin (kern)",
+      "bar": 22,
+      "notes": "F4 G4 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.2,
+    "works": 5,
+    "per_1000": 2.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Jos/Jos2828-Plus_nulz_regrets.krn",
+      "label": "Jos2828-Plus nulz regrets (kern)",
+      "bar": 59,
+      "notes": "G4 A4 G4 F#4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2707-En_lombre_dung_buissonnet.krn",
+      "label": "En l'ombre d'ung buissonnet (kern)",
+      "bar": 3,
+      "notes": "G4 A4 G4 F#4"
+     },
+     {
+      "work": "kern/jrp:Jos/Jos2703-Cela_sans_plus.krn",
+      "label": "Jos2703-Cela sans plus (kern)",
+      "bar": 35,
+      "notes": "F4 G4 F4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 243,
+   "composers": 19
+  }
+ }
+]

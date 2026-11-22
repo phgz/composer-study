@@ -1,0 +1,270 @@
+[
+ {
+  "composer": "Václav Kalous",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 8,
+  "values": {
+   "steps": 0.5087840597747295,
+   "repeats": 0.3027920689844086,
+   "leaps": 0.10851030529061423,
+   "move": 2.8063762478216834,
+   "rising": 0.41617643817466565,
+   "leap answered": 0.21541132478632477,
+   "range": 14.375,
+   "register": 77.25,
+   "even": 0.378543814204622,
+   "long-short": 0.16659351296486458,
+   "rhythm variety": 2.7635159964059395,
+   "surprise, pitch": 2.3955335273318785,
+   "surprise, rhythm": 1.9938519462284217,
+   "density": 10.505541812785006,
+   "lines": 11.625
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.378543814204622,
+    "others": 0.5374257811701241,
+    "auc": 0.20484036690789176
+   },
+   {
+    "measure": "long-short",
+    "value": 0.16659351296486458,
+    "others": 0.08410895910711473,
+    "auc": 0.7684616327418503
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.7635159964059395,
+    "others": 2.1981049121046077,
+    "auc": 0.8264543548265999
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -1,
+     -2
+    ],
+    "z": 7.3,
+    "works": 3,
+    "per_1000": 5.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-002_kalous-vaclav--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.473, kern)",
+      "bar": 10,
+      "notes": "D5 D5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-003_kalous-vaclav--missa-solemnis-patrem.krn",
+      "label": "Missa Solemnis, Patrem, movement 3 (PL-Kk Kk.I.473i, kern)",
+      "bar": 125,
+      "notes": "F#4 F#4 F#4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-001_kalous-vaclav--missa-solemnis-kyrie.krn",
+      "label": "Missa solemnis, Kyrie, movement 1 (PL-Kk Kk.I.473, kern)",
+      "bar": 175,
+      "notes": "F#4 F#4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     -1
+    ],
+    "z": 6.4,
+    "works": 3,
+    "per_1000": 4.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-002_kalous-vaclav--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.473, kern)",
+      "bar": 11,
+      "notes": "D4 D4 D4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-003_kalous-vaclav--missa-solemnis-patrem.krn",
+      "label": "Missa Solemnis, Patrem, movement 3 (PL-Kk Kk.I.473i, kern)",
+      "bar": 125,
+      "notes": "F#4 F#4 F#4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-001_kalous-vaclav--missa-solemnis-kyrie.krn",
+      "label": "Missa solemnis, Kyrie, movement 1 (PL-Kk Kk.I.473, kern)",
+      "bar": 173,
+      "notes": "F#4 F#4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 4.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-008_kalous-vaclav--missa-solemnis-dona.krn",
+      "label": "Missa Solemnis, Dona, movement 8 (PL-Kk Kk.I.473, kern)",
+      "bar": 27,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-002_kalous-vaclav--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.473, kern)",
+      "bar": 31,
+      "notes": "B5 A5 Ab5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-001_kalous-vaclav--missa-solemnis-kyrie.krn",
+      "label": "Missa solemnis, Kyrie, movement 1 (PL-Kk Kk.I.473, kern)",
+      "bar": 35,
+      "notes": "B5 A5 Ab5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 4.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-005_kalous-vaclav--missa-solemnis-benedictus.krn",
+      "label": "Missa solemnis, Benedictus, movement 5 (PL-Kk Kk.I.473, kern)",
+      "bar": 8,
+      "notes": "D5 C#5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-007_kalous-vaclav--missa-solemnis-agnus.krn",
+      "label": "Missa solemnis, Agnus, movement 7 (PL-Kk Kk.I.473, kern)",
+      "bar": 26,
+      "notes": "G5 F#5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-001_kalous-vaclav--missa-solemnis-kyrie.krn",
+      "label": "Missa solemnis, Kyrie, movement 1 (PL-Kk Kk.I.473, kern)",
+      "bar": 34,
+      "notes": "A5 Ab5 B5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 4.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-002_kalous-vaclav--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.473, kern)",
+      "bar": 11,
+      "notes": "D4 D4 D4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-003_kalous-vaclav--missa-solemnis-patrem.krn",
+      "label": "Missa Solemnis, Patrem, movement 3 (PL-Kk Kk.I.473i, kern)",
+      "bar": 125,
+      "notes": "F#4 F#4 F#4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-001_kalous-vaclav--missa-solemnis-kyrie.krn",
+      "label": "Missa solemnis, Kyrie, movement 1 (PL-Kk Kk.I.473, kern)",
+      "bar": 175,
+      "notes": "F#4 F#4 F#4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 4.8,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-001_kalous-vaclav--missa-solemnis-kyrie.krn",
+      "label": "Missa solemnis, Kyrie, movement 1 (PL-Kk Kk.I.473, kern)",
+      "bar": 15,
+      "notes": "A5 A5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-007_kalous-vaclav--missa-solemnis-agnus.krn",
+      "label": "Missa solemnis, Agnus, movement 7 (PL-Kk Kk.I.473, kern)",
+      "bar": 25,
+      "notes": "A5 A5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-473--001-002_kalous-vaclav--missa-solemnis-gloria.krn",
+      "label": "Missa solemnis, Gloria, movement 2 (PL-Kk Kk.I.473, kern)",
+      "bar": 24,
+      "notes": "B5 B5 B5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 639,
+   "composers": 34
+  }
+ }
+]

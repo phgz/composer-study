@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Mikołaj Zieleński",
+  "kind": "fantasia",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.6941847384037301,
+   "repeats": 0.09464022636927061,
+   "leaps": 0.10563609077682695,
+   "move": 2.4900041791894147,
+   "rising": 0.4537652471254488,
+   "leap answered": 0.5020481310803891,
+   "range": 12.666666666666666,
+   "register": 71.33333333333333,
+   "even": 0.5474980063795853,
+   "long-short": 0.07607085896559582,
+   "rhythm variety": 2.1892433887511795,
+   "surprise, pitch": 2.4510579530281644,
+   "surprise, rhythm": 1.724819738551668,
+   "density": 1.1481730172192757,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 52,
+   "composers": 25
+  }
+ }
+]

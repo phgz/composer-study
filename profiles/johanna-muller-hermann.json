@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Johanna Müller-Hermann",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.449588600558886,
+   "repeats": 0.05759402783058576,
+   "leaps": 0.26866663228908516,
+   "move": 3.9914681941142467,
+   "rising": 0.4808454342386232,
+   "leap answered": 0.34500036295005804,
+   "range": 24.424999999999997,
+   "register": 75.5,
+   "even": 0.531914227577076,
+   "long-short": 0.10090547411585582,
+   "rhythm variety": 2.3257925269531885,
+   "surprise, pitch": 3.362997837495465,
+   "surprise, rhythm": 1.6339253238956104,
+   "density": 5.560850168747916,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

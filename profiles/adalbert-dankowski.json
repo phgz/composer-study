@@ -1,0 +1,538 @@
+[
+ {
+  "composer": "Adalbert Dankowski",
+  "kind": "magnificat",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 7,
+  "values": {
+   "steps": 0.5843030429333484,
+   "repeats": 0.22404885775944663,
+   "leaps": 0.04622075349999228,
+   "move": 2.1775347959075826,
+   "rising": 0.4854554243375761,
+   "leap answered": 0.4509310297545592,
+   "range": 9.142857142857142,
+   "register": 76.21428571428571,
+   "even": 0.564685514964143,
+   "long-short": 0.0513467026713179,
+   "rhythm variety": 2.0053019546807174,
+   "surprise, pitch": 2.4079253190146894,
+   "surprise, rhythm": 1.6694863339888186,
+   "density": 9.618494261870007,
+   "lines": 9.142857142857142
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.04622075349999228,
+    "others": 0.10936188866006114,
+    "auc": 0.17490637283159544
+   },
+   {
+    "measure": "move",
+    "value": 2.1775347959075826,
+    "others": 2.6608364524659995,
+    "auc": 0.17372632815505348
+   },
+   {
+    "measure": "even",
+    "value": 0.564685514964143,
+    "others": 0.45026076286990124,
+    "auc": 0.7731421628102024
+   },
+   {
+    "measure": "long-short",
+    "value": 0.0513467026713179,
+    "others": 0.11027466543521859,
+    "auc": 0.19312536986606266
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.0053019546807174,
+    "others": 2.577230784867442,
+    "auc": 0.17456726284737764
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.6694863339888186,
+    "others": 1.992313189506049,
+    "auc": 0.24157030336984714
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     5,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 2,
+    "per_1000": 3.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-116--001-005_dankowski-adalbert--vesperae-solenne-magnificat.krn",
+      "label": "Vesperae Solenne, Magnificat, movement 5 (PL-CZ III-116, kern)",
+      "bar": 164,
+      "notes": "B4 E5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--5a--001-008_dankowski-adalbert--vespere-ex-c-de-confessoribus-magnificat.krn",
+      "label": "Vespere ex C de Confessoribus, Magnificat, movement 8 (PL-STAb 5a, kern)",
+      "bar": 48,
+      "notes": "D5 G5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 4.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-111--001-006_dankowski-adalbert--vesperae-d-magnificat.krn",
+      "label": "Vesperae D, Magnificat, movement 6 (PL-CZ III-111, kern)",
+      "bar": 22,
+      "notes": "D5 C#5 B4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-116--001-005_dankowski-adalbert--vesperae-solenne-magnificat.krn",
+      "label": "Vesperae Solenne, Magnificat, movement 5 (PL-CZ III-116, kern)",
+      "bar": 30,
+      "notes": "D5 C#5 B4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--27-a-i-27--001-006_dankowski-adalbert--vespere-de-confessore-magnificat.krn",
+      "label": "Vespere de confessore, Magnificat, movement 6 (PL-SA 27/A I 27, kern)",
+      "bar": 37,
+      "notes": "C5 B4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -5
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-111--001-006_dankowski-adalbert--vesperae-d-magnificat.krn",
+      "label": "Vesperae D, Magnificat, movement 6 (PL-CZ III-111, kern)",
+      "bar": 16,
+      "notes": "F#5 Ab5 A5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--5a--001-008_dankowski-adalbert--vespere-ex-c-de-confessoribus-magnificat.krn",
+      "label": "Vespere ex C de Confessoribus, Magnificat, movement 8 (PL-STAb 5a, kern)",
+      "bar": 44,
+      "notes": "E5 F#5 G5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--27-a-i-27--001-006_dankowski-adalbert--vespere-de-confessore-magnificat.krn",
+      "label": "Vespere de confessore, Magnificat, movement 6 (PL-SA 27/A I 27, kern)",
+      "bar": 1,
+      "notes": "E5 D5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-111--001-006_dankowski-adalbert--vesperae-d-magnificat.krn",
+      "label": "Vesperae D, Magnificat, movement 6 (PL-CZ III-111, kern)",
+      "bar": 26,
+      "notes": "C#5 B4 C#5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--3a--001-005_dankowski-adalbert--vespere-pastorales-magnificat.krn",
+      "label": "Vespere Pastorales, Magnificat, movement 5 (PL-STAb 3a, kern)",
+      "bar": 5,
+      "notes": "B5 A5 B5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -4,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-116--001-005_dankowski-adalbert--vesperae-solenne-magnificat.krn",
+      "label": "Vesperae Solenne, Magnificat, movement 5 (PL-CZ III-116, kern)",
+      "bar": 17,
+      "notes": "E5 F#5 D5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--3a--001-005_dankowski-adalbert--vespere-pastorales-magnificat.krn",
+      "label": "Vespere Pastorales, Magnificat, movement 5 (PL-STAb 3a, kern)",
+      "bar": 1,
+      "notes": "E5 F#5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-116--001-005_dankowski-adalbert--vesperae-solenne-magnificat.krn",
+      "label": "Vesperae Solenne, Magnificat, movement 5 (PL-CZ III-116, kern)",
+      "bar": 17,
+      "notes": "F#5 D5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--3a--001-005_dankowski-adalbert--vespere-pastorales-magnificat.krn",
+      "label": "Vespere Pastorales, Magnificat, movement 5 (PL-STAb 3a, kern)",
+      "bar": 1,
+      "notes": "F#5 D5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-111--001-006_dankowski-adalbert--vesperae-d-magnificat.krn",
+      "label": "Vesperae D, Magnificat, movement 6 (PL-CZ III-111, kern)",
+      "bar": 26,
+      "notes": "F#5 D5 D5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 108,
+   "composers": 29
+  }
+ },
+ {
+  "composer": "Adalbert Dankowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 56,
+  "values": {
+   "steps": 0.620310936130637,
+   "repeats": 0.2276986143467797,
+   "leaps": 0.044965242601588476,
+   "move": 2.093597364735723,
+   "rising": 0.4737238469860999,
+   "leap answered": 0.37709484843148744,
+   "range": 8.6375,
+   "register": 77.23214285714286,
+   "even": 0.5484049208767432,
+   "long-short": 0.07867042295890173,
+   "rhythm variety": 2.251991072019313,
+   "surprise, pitch": 2.2620651975100006,
+   "surprise, rhythm": 1.6665762569105418,
+   "density": 10.906219454992598,
+   "lines": 10.625
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.620310936130637,
+    "others": 0.4993792972857795,
+    "auc": 0.7527728825764539
+   },
+   {
+    "measure": "leaps",
+    "value": 0.044965242601588476,
+    "others": 0.10836843575123006,
+    "auc": 0.19695511460697532
+   },
+   {
+    "measure": "move",
+    "value": 2.093597364735723,
+    "others": 2.722146845565782,
+    "auc": 0.16860507851789364
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.5,
+    "works": 15,
+    "per_1000": 2.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-99--001-004_dankowski-adalbert--missa-d-quoniam.krn",
+      "label": "Missa D, Quoniam, movement 4 (PL-CZ III-99, kern)",
+      "bar": 5,
+      "notes": "F#5 E5 F#5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-105--001-004_dankowski-adalbert--missa-d-quoniam.krn",
+      "label": "Missa D, Quoniam, movement 4 (PL-CZ III-105, kern)",
+      "bar": 27,
+      "notes": "E5 D5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-99--001-001_dankowski-adalbert--missa-d-kyrie.krn",
+      "label": "Missa D, Kyrie, movement 1 (PL-CZ III-99, kern)",
+      "bar": 25,
+      "notes": "F#5 E5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.4,
+    "works": 16,
+    "per_1000": 2.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-99--001-001_dankowski-adalbert--missa-d-kyrie.krn",
+      "label": "Missa D, Kyrie, movement 1 (PL-CZ III-99, kern)",
+      "bar": 99,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--5a--001-012_dankowski-adalbert--vespere-ex-c-de-confessoribus-gloria-patri.krn",
+      "label": "Vespere ex C de Confessoribus, Gloria patri, movement 12 (PL-STAb 5a, kern)",
+      "bar": 32,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-112--001-004_dankowski-adalbert--vesperae-d-gloria-patri.krn",
+      "label": "Vesperae D, Gloria patri, movement 4 (PL-CZ III-112, kern)",
+      "bar": 36,
+      "notes": "D5 E5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 7.1,
+    "works": 13,
+    "per_1000": 1.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-stab/kern/pl-stab--5a--001-012_dankowski-adalbert--vespere-ex-c-de-confessoribus-gloria-patri.krn",
+      "label": "Vespere ex C de Confessoribus, Gloria patri, movement 12 (PL-STAb 5a, kern)",
+      "bar": 31,
+      "notes": "B4 C5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-99--001-001_dankowski-adalbert--missa-d-kyrie.krn",
+      "label": "Missa D, Kyrie, movement 1 (PL-CZ III-99, kern)",
+      "bar": 98,
+      "notes": "C#5 D5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-112--001-004_dankowski-adalbert--vesperae-d-gloria-patri.krn",
+      "label": "Vesperae D, Gloria patri, movement 4 (PL-CZ III-112, kern)",
+      "bar": 36,
+      "notes": "C#5 D5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 7.0,
+    "works": 13,
+    "per_1000": 2.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-99--001-004_dankowski-adalbert--missa-d-quoniam.krn",
+      "label": "Missa D, Quoniam, movement 4 (PL-CZ III-99, kern)",
+      "bar": 4,
+      "notes": "G5 F#5 E5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-105--001-004_dankowski-adalbert--missa-d-quoniam.krn",
+      "label": "Missa D, Quoniam, movement 4 (PL-CZ III-105, kern)",
+      "bar": 27,
+      "notes": "F5 E5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-105--001-009_dankowski-adalbert--missa-d-benedictus.krn",
+      "label": "Missa D, Benedictus, movement 9 (PL-CZ III-105, kern)",
+      "bar": 2,
+      "notes": "F5 E5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.8,
+    "works": 19,
+    "per_1000": 2.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-106--001-006_dankowski-adalbert--missa-e-benedcitus.krn",
+      "label": "Missa E, Benedcitus, movement 6 (PL-CZ III-106, kern)",
+      "bar": 4,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-106--001-005_dankowski-adalbert--missa-e-sanctus.krn",
+      "label": "Missa E, Sanctus, movement 5 (PL-CZ III-106, kern)",
+      "bar": 6,
+      "notes": "E5 F#5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-108--001-007_dankowski-adalbert--litaniae-es-agnus-dei.krn",
+      "label": "Litaniae Es, Agnus Dei, movement 7 (PL-CZ III-108, kern)",
+      "bar": 24,
+      "notes": "C5 D5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 32,
+    "per_1000": 6.0,
+    "others_per_1000": 2.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-105--001-009_dankowski-adalbert--missa-d-benedictus.krn",
+      "label": "Missa D, Benedictus, movement 9 (PL-CZ III-105, kern)",
+      "bar": 6,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-99--001-009_dankowski-adalbert--missa-d-benedictus.krn",
+      "label": "Missa D, Benedictus, movement 9 (PL-CZ III-99, kern)",
+      "bar": 35,
+      "notes": "D5 C#5 B4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-109--001-001_dankowski-adalbert--missa-c-kyrie.krn",
+      "label": "Missa C, Kyrie, movement 1 (PL-CZ III-109, kern)",
+      "bar": 2,
+      "notes": "F5 E5 D5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 591,
+   "composers": 34
+  }
+ }
+]

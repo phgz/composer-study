@@ -1,0 +1,296 @@
+[
+ {
+  "composer": "Augusta Holmès",
+  "kind": "serenade",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.4400678485481365,
+   "repeats": 0.0668017196073721,
+   "leaps": 0.2465787862427687,
+   "move": 3.438136640434897,
+   "rising": 0.46419049143293795,
+   "leap answered": 0.31356532356532363,
+   "range": 12.8,
+   "register": 70.0,
+   "even": 0.45636534963144715,
+   "long-short": 0.13170315700849095,
+   "rhythm variety": 2.6478998554151767,
+   "surprise, pitch": 2.381866201503206,
+   "surprise, rhythm": 1.881423437464137,
+   "density": 6.458210152164059,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.0668017196073721,
+    "others": 0.1658464993401034,
+    "auc": 0.16529576674965785
+   },
+   {
+    "measure": "leaps",
+    "value": 0.2465787862427687,
+    "others": 0.20499036644401555,
+    "auc": 0.806803756662075
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 21,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Augusta Holmès",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 73,
+  "values": {
+   "steps": 0.44331670431010095,
+   "repeats": 0.1573847008591026,
+   "leaps": 0.19520941739129713,
+   "move": 3.3418599613722315,
+   "rising": 0.5023266228579335,
+   "leap answered": 0.2745243603724143,
+   "range": 12.879452054794518,
+   "register": 69.42465753424658,
+   "even": 0.3979650724451632,
+   "long-short": 0.1295005874665285,
+   "rhythm variety": 2.716788326571698,
+   "surprise, pitch": 2.107093441583676,
+   "surprise, rhythm": 1.6421614537259732,
+   "density": 5.430099307893717,
+   "lines": 3.0684931506849313
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.9,
+    "works": 15,
+    "per_1000": 2.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Contes_divins/1_L’aubépine_de_Saint_Patrick/lc5903060.mxl",
+      "label": "Contes divins, L’aubépine de Saint Patrick (OpenScore)",
+      "bar": 3,
+      "notes": "C5 A4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/20_Mélodies/03_La_barque_des_amours/lc5911190.mxl",
+      "label": "Mélodies, La barque des amours (OpenScore)",
+      "bar": 8,
+      "notes": "Bb4 G4 F4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Mélodies_pour_piano_et_chant/13_Le_brick_l’Espérance/lc6007571.mxl",
+      "label": "Mélodies pour piano et chant, Le brick l’Espérance (OpenScore)",
+      "bar": 2,
+      "notes": "Bb4 G4 F4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 6.7,
+    "works": 7,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Mélodies_pour_piano_et_chant/01_Noël/lc5001730.mxl",
+      "label": "Mélodies pour piano et chant, Noël (OpenScore)",
+      "bar": 4,
+      "notes": "A4 G4 F4 G4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/_/Le_ruban_rose/lc6189719.mxl",
+      "label": "Le ruban rose (OpenScore)",
+      "bar": 14,
+      "notes": "D5 C5 Bb4 C5"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Paysages_d’amour/4_Parmi_les_meules/lc5995173.mxl",
+      "label": "Paysages d’amour, Parmi les meules (OpenScore)",
+      "bar": 26,
+      "notes": "B4 A4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.0,
+    "works": 5,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/_/Le_ruban_rose/lc6189719.mxl",
+      "label": "Le ruban rose (OpenScore)",
+      "bar": 14,
+      "notes": "C5 Bb4 C5 D5"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Contes_divins/5_La_légende_de_Saint_Amour/lc5905678.mxl",
+      "label": "Contes divins, La légende de Saint Amour (OpenScore)",
+      "bar": 18,
+      "notes": "E4 D4 E4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Mélodies_pour_piano_et_chant/01_Noël/lc5001730.mxl",
+      "label": "Mélodies pour piano et chant, Noël (OpenScore)",
+      "bar": 4,
+      "notes": "G4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 5.8,
+    "works": 5,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Mélodies_pour_piano_et_chant/01_Noël/lc5001730.mxl",
+      "label": "Mélodies pour piano et chant, Noël (OpenScore)",
+      "bar": 4,
+      "notes": "C5 A4 G4 F4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/_/Le_ruban_rose/lc6189719.mxl",
+      "label": "Le ruban rose (OpenScore)",
+      "bar": 13,
+      "notes": "F5 D5 C5 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Paysages_d’amour/1_Dans_les_boutons_d’or/lc5995356.mxl",
+      "label": "Paysages d’amour, Dans les boutons d’or (OpenScore)",
+      "bar": 10,
+      "notes": "D5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     7
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 7,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Mélodies_pour_piano_et_chant/02_Le_clairon_fleuri/lc5989917.mxl",
+      "label": "Mélodies pour piano et chant, Le clairon fleuri (OpenScore)",
+      "bar": 6,
+      "notes": "A4 G4 F4 C5"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Les_Sérénades/1_Sérénade_printanière/lc5001684.mxl",
+      "label": "Les Sérénades, Sérénade printanière (OpenScore)",
+      "bar": 3,
+      "notes": "Eb4 C#4 B3 F#4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Mélodies_pour_piano_et_chant/06_Réponse_d’Éros/lc5998497.mxl",
+      "label": "Mélodies pour piano et chant, Réponse d’Éros (OpenScore)",
+      "bar": 10,
+      "notes": "B4 A4 G4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -12,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.7,
+    "works": 5,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Les_Heures/2_L’Heure_d’Or/lc5712146.mxl",
+      "label": "Les Heures, L’Heure d’Or (OpenScore)",
+      "bar": 9,
+      "notes": "E5 E4 F#4 G4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Mélodies_pour_piano_et_chant/07_Chanson_catalane/lc6000428.mxl",
+      "label": "Mélodies pour piano et chant, Chanson catalane (OpenScore)",
+      "bar": 23,
+      "notes": "Eb5 Eb4 F4 F#4"
+     },
+     {
+      "work": "openscore-lieder:Holmès,_Augusta_Mary_Anne/Mélodies_pour_piano_et_chant/04_Chanson_des_gars_d’Irlande/lc5989993.mxl",
+      "label": "Mélodies pour piano et chant, Chanson des gars d’Irlande (OpenScore)",
+      "bar": 22,
+      "notes": "Ab5 Ab4 Bb4 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1026,
+   "composers": 97
+  }
+ }
+]

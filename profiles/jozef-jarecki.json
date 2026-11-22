@@ -1,0 +1,126 @@
+[
+ {
+  "composer": "Józef Jarecki",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 7,
+  "values": {
+   "steps": 0.39419973611996983,
+   "repeats": 0.4152897319309197,
+   "leaps": 0.08146172785350202,
+   "move": 2.57523497800127,
+   "rising": 0.4472442034137858,
+   "leap answered": 0.27380952380952384,
+   "range": 10.47142857142857,
+   "register": 71.57142857142857,
+   "even": 0.4794192431509873,
+   "long-short": 0.10077161856850372,
+   "rhythm variety": 2.371878029118391,
+   "surprise, pitch": 2.7643643864937593,
+   "surprise, rhythm": 1.9869991589678164,
+   "density": 5.424368593275863,
+   "lines": 5.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.4152897319309197,
+    "others": 0.24474869396360868,
+    "auc": 0.8260203248867014
+   },
+   {
+    "measure": "leaps",
+    "value": 0.08146172785350202,
+    "others": 0.14448812049976986,
+    "auc": 0.1824348795848428
+   },
+   {
+    "measure": "move",
+    "value": 2.57523497800127,
+    "others": 2.982401835797441,
+    "auc": 0.21443513092663707
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.6,
+    "works": 4,
+    "per_1000": 8.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-37--001-005_jarecki-jozef--requiem-benedicus.krn",
+      "label": "Requiem, Benedicus, movement 5 (PL-CZ I-37, kern)",
+      "bar": 11,
+      "notes": "Bb4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-37--001-006_jarecki-jozef--requiem-agnus.krn",
+      "label": "Requiem, Agnus, movement 6 (PL-CZ I-37, kern)",
+      "bar": 1,
+      "notes": "F5 F5 E5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-37--001-002_jarecki-jozef--requiem-dies-irae.krn",
+      "label": "Requiem, Dies irae, movement 2 (PL-CZ I-37, kern)",
+      "bar": 33,
+      "notes": "Ab4 Ab4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 8.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-37--001-005_jarecki-jozef--requiem-benedicus.krn",
+      "label": "Requiem, Benedicus, movement 5 (PL-CZ I-37, kern)",
+      "bar": 11,
+      "notes": "Bb4 A4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-37--001-006_jarecki-jozef--requiem-agnus.krn",
+      "label": "Requiem, Agnus, movement 6 (PL-CZ I-37, kern)",
+      "bar": 14,
+      "notes": "Eb5 D5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-37--001-007_jarecki-jozef--requiem-lux-aeterna.krn",
+      "label": "Requiem, Lux aeterna, movement 7 (PL-CZ I-37, kern)",
+      "bar": 17,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 546,
+   "composers": 37
+  }
+ }
+]

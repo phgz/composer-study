@@ -1,0 +1,783 @@
+[
+ {
+  "composer": "Kasper Napoleon Wysocki",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 21,
+  "values": {
+   "steps": 0.3924427835318087,
+   "repeats": 0.2656848074652244,
+   "leaps": 0.19465650927240088,
+   "move": 3.804043231976891,
+   "rising": 0.4629039218894746,
+   "leap answered": 0.24273337453594349,
+   "range": 20.157142857142855,
+   "register": 76.42857142857143,
+   "even": 0.5570633430291536,
+   "long-short": 0.09347692333533009,
+   "rhythm variety": 2.034936896122776,
+   "surprise, pitch": 2.0184249385186397,
+   "surprise, rhythm": 1.1100361425407055,
+   "density": 5.347381623134474,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.2,
+    "works": 7,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-001_wysocki-kasper-napoleon--la-legerte-n-1.krn",
+      "label": "La Légèrté, N. 1., movement 1: N 1. (PL-Wtm R 2139, kern)",
+      "bar": 4,
+      "notes": "D5 D5 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2132_wysocki-kasper-napoleon--marsz.krn",
+      "label": "Marsz (PL-Wtm R 2132, kern)",
+      "bar": 21,
+      "notes": "F#4 F#4 F#4 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-004_wysocki-kasper-napoleon--la-legerte-n-4.krn",
+      "label": "La Légèrté, N. 4., movement 4 (PL-Wtm R 2139, kern)",
+      "bar": 9,
+      "notes": "B6 B6 B6 C7"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     9
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.0,
+    "works": 7,
+    "per_1000": 2.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-007_wysocki-kasper-napoleon--la-legerte-n-7.krn",
+      "label": "La Légèrté, N. 7., movement 7: N. 7. Energico (PL-Wtm R 2139, kern)",
+      "bar": 1,
+      "notes": "A5 A5 A5 F#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-kc/kern/pl-kc--40160-iii_wysocki-kasper-napoleon--walc-rewolucyjny.krn",
+      "label": "Walc rewolucyjny (PL-Kc 40160 III, kern)",
+      "bar": 82,
+      "notes": "G4 G4 G4 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-001_wysocki-kasper-napoleon--la-legerte-n-1.krn",
+      "label": "La Légèrté, N. 1., movement 1: N 1. (PL-Wtm R 2139, kern)",
+      "bar": 7,
+      "notes": "D5 D5 D5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-007_wysocki-kasper-napoleon--la-legerte-n-7.krn",
+      "label": "La Légèrté, N. 7., movement 7: N. 7. Energico (PL-Wtm R 2139, kern)",
+      "bar": 13,
+      "notes": "A5 A5 A5 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-001_wysocki-kasper-napoleon--la-legerte-n-1.krn",
+      "label": "La Légèrté, N. 1., movement 1: N 1. (PL-Wtm R 2139, kern)",
+      "bar": 3,
+      "notes": "G5 G5 G5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-003_wysocki-kasper-napoleon--la-legerte-n-3.krn",
+      "label": "La Légèrté, N. 3., movement 3: N. 3. D: bravura (PL-Wtm R 2139, kern)",
+      "bar": 17,
+      "notes": "D6 D6 D6 F#6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 8,
+    "per_1000": 2.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-007_wysocki-kasper-napoleon--la-legerte-n-7.krn",
+      "label": "La Légèrté, N. 7., movement 7: N. 7. Energico (PL-Wtm R 2139, kern)",
+      "bar": 10,
+      "notes": "B5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-005_wysocki-kasper-napoleon--la-legerte-n-5.krn",
+      "label": "La Légèrté, N. 5., movement 5 (PL-Wtm R 2139, kern)",
+      "bar": 6,
+      "notes": "E6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-001_wysocki-kasper-napoleon--la-legerte-n-1.krn",
+      "label": "La Légèrté, N. 1., movement 1: N 1. (PL-Wtm R 2139, kern)",
+      "bar": 7,
+      "notes": "E5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 6.2,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-006_wysocki-kasper-napoleon--la-legerte-n-6.krn",
+      "label": "La Légèrté, N. 6., movement 6: N 6. (PL-Wtm R 2139, kern)",
+      "bar": 17,
+      "notes": "D6 F#6 E6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-2--001-003_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-3.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 3., movement 3: Allegro molto. (PL-Wtm III.40.856/2, kern)",
+      "bar": 2,
+      "notes": "G5 B5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kc/kern/pl-kc--40160-iii_wysocki-kasper-napoleon--walc-rewolucyjny.krn",
+      "label": "Walc rewolucyjny (PL-Kc 40160 III, kern)",
+      "bar": 169,
+      "notes": "G4 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.1,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2132_wysocki-kasper-napoleon--marsz.krn",
+      "label": "Marsz (PL-Wtm R 2132, kern)",
+      "bar": 2,
+      "notes": "A5 G5 E5 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-001_wysocki-kasper-napoleon--la-legerte-n-1.krn",
+      "label": "La Légèrté, N. 1., movement 1: N 1. (PL-Wtm R 2139, kern)",
+      "bar": 14,
+      "notes": "D6 C6 A5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-006_wysocki-kasper-napoleon--la-legerte-n-6.krn",
+      "label": "La Légèrté, N. 6., movement 6: N 6. (PL-Wtm R 2139, kern)",
+      "bar": 14,
+      "notes": "A6 G6 E6 C#6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 414,
+   "composers": 57
+  }
+ },
+ {
+  "composer": "Kasper Napoleon Wysocki",
+  "kind": "krakowiak",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 9,
+  "values": {
+   "steps": 0.5202797047840005,
+   "repeats": 0.12413680293448143,
+   "leaps": 0.19558058620070892,
+   "move": 3.2247860941000406,
+   "rising": 0.4367497933735363,
+   "leap answered": 0.3424970808892514,
+   "range": 21.25555555555555,
+   "register": 72.11111111111111,
+   "even": 0.3824487504527056,
+   "long-short": 0.11268396943376274,
+   "rhythm variety": 2.6799739559942393,
+   "surprise, pitch": 2.1518812406387218,
+   "surprise, rhythm": 1.373758873552214,
+   "density": 6.609828445880684,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.3824487504527056,
+    "others": 0.529496295720139,
+    "auc": 0.20459482038429405
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.6799739559942393,
+    "others": 2.2175744788350062,
+    "auc": 0.8088415483234208
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 3.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-1--001-001_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-1.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 1., movement 1: Allegro determinato. (PL-Wtm III.40.856/1, kern)",
+      "bar": 38,
+      "notes": "B5 C6 B5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-2--001-004_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-4.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 4., movement 4: Moderato (PL-Wtm III.40.856/2, kern)",
+      "bar": 7,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2161_wysocki-kasper-napoleon--krakowiak.krn",
+      "label": "Krakowiak (PL-Wtm R 2161, kern)",
+      "bar": 7,
+      "notes": "F#4 G4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2161_wysocki-kasper-napoleon--krakowiak.krn",
+      "label": "Krakowiak (PL-Wtm R 2161, kern)",
+      "bar": 7,
+      "notes": "F#4 F#4 G4 F#4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-2--001-003_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-3.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 3., movement 3: Allegro molto. (PL-Wtm III.40.856/2, kern)",
+      "bar": 40,
+      "notes": "E5 E5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-2--001-004_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-4.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 4., movement 4: Moderato (PL-Wtm III.40.856/2, kern)",
+      "bar": 7,
+      "notes": "B4 B4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.3,
+    "works": 2,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-1--001-002_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-2.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 2., movement 2: Moderato con grazia. (PL-Wtm III.40.856/1, kern)",
+      "bar": 2,
+      "notes": "A4 A4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-2--001-002_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-2.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 2., movement 2: Allegro non tanto. (PL-Wtm III.40.856/2, kern)",
+      "bar": 36,
+      "notes": "E4 E4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.2,
+    "works": 3,
+    "per_1000": 1.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-1--001-001_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-1.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 1., movement 1: Allegro determinato. (PL-Wtm III.40.856/1, kern)",
+      "bar": 12,
+      "notes": "A5 B5 A5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-2--001-004_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-4.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 4., movement 4: Moderato (PL-Wtm III.40.856/2, kern)",
+      "bar": 47,
+      "notes": "Bb4 C5 Bb4 Ab4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-1--001-002_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-2.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 2., movement 2: Moderato con grazia. (PL-Wtm III.40.856/1, kern)",
+      "bar": 34,
+      "notes": "D5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.0,
+    "works": 2,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2161_wysocki-kasper-napoleon--krakowiak.krn",
+      "label": "Krakowiak (PL-Wtm R 2161, kern)",
+      "bar": 3,
+      "notes": "A4 D5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--iii-40-856-1--001-001_wysocki-kasper-napoleon--quatre-krakowiaks-op-1-krakowiak-no-1.krn",
+      "label": "Quatre Krakowiaks op. 1, Krakowiak. No. 1., movement 1: Allegro determinato. (PL-Wtm III.40.856/1, kern)",
+      "bar": 143,
+      "notes": "B4 E5 D5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 10
+  }
+ },
+ {
+  "composer": "Kasper Napoleon Wysocki",
+  "kind": "march",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.38584343968350376,
+   "repeats": 0.2888623671508737,
+   "leaps": 0.18220338881864725,
+   "move": 3.682848099292922,
+   "rising": 0.4878280799588119,
+   "leap answered": 0.27697680741159003,
+   "range": 20.0,
+   "register": 74.33333333333333,
+   "even": 0.3715698919012789,
+   "long-short": 0.2066944298792337,
+   "rhythm variety": 2.832204842649002,
+   "surprise, pitch": 2.4211645728734648,
+   "surprise, rhythm": 1.5945530555110021,
+   "density": 7.743776670088937,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 48,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Kasper Napoleon Wysocki",
+  "kind": "waltz",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 9,
+  "values": {
+   "steps": 0.26680564356238523,
+   "repeats": 0.39950695876741765,
+   "leaps": 0.19788347249534405,
+   "move": 4.423698747415064,
+   "rising": 0.4807499977156336,
+   "leap answered": 0.13155519055742004,
+   "range": 19.11111111111111,
+   "register": 81.44444444444444,
+   "even": 0.7935090859815597,
+   "long-short": 0.03653070838892955,
+   "rhythm variety": 1.1241438540759048,
+   "surprise, pitch": 1.7507220916136161,
+   "surprise, rhythm": 0.6848077738724313,
+   "density": 3.2861364514034435,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.26680564356238523,
+    "others": 0.47579079582282435,
+    "auc": 0.13853142405054975
+   },
+   {
+    "measure": "repeats",
+    "value": 0.39950695876741765,
+    "others": 0.13421313627700565,
+    "auc": 0.9307480871688522
+   },
+   {
+    "measure": "even",
+    "value": 0.7935090859815597,
+    "others": 0.601235020458368,
+    "auc": 0.8302189866397517
+   },
+   {
+    "measure": "long-short",
+    "value": 0.03653070838892955,
+    "others": 0.08935738382370181,
+    "auc": 0.20021250758955678
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.1241438540759048,
+    "others": 1.9818113766938412,
+    "auc": 0.15207664729522652
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.6848077738724313,
+    "others": 1.0716371112132643,
+    "auc": 0.1965488215488216
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.7,
+    "works": 6,
+    "per_1000": 10.1,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-002_wysocki-kasper-napoleon--la-legerte-n-2.krn",
+      "label": "La Légèrté, N. 2., movement 2: N. 2. Con grazio (PL-Wtm R 2139, kern)",
+      "bar": 0,
+      "notes": "D6 D6 D6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-004_wysocki-kasper-napoleon--la-legerte-n-4.krn",
+      "label": "La Légèrté, N. 4., movement 4 (PL-Wtm R 2139, kern)",
+      "bar": 2,
+      "notes": "G5 G5 G5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-006_wysocki-kasper-napoleon--la-legerte-n-6.krn",
+      "label": "La Légèrté, N. 6., movement 6: N 6. (PL-Wtm R 2139, kern)",
+      "bar": 0,
+      "notes": "D6 D6 D6 E6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.3,
+    "works": 6,
+    "per_1000": 7.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-007_wysocki-kasper-napoleon--la-legerte-n-7.krn",
+      "label": "La Légèrté, N. 7., movement 7: N. 7. Energico (PL-Wtm R 2139, kern)",
+      "bar": 10,
+      "notes": "B5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-005_wysocki-kasper-napoleon--la-legerte-n-5.krn",
+      "label": "La Légèrté, N. 5., movement 5 (PL-Wtm R 2139, kern)",
+      "bar": 6,
+      "notes": "E6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-001_wysocki-kasper-napoleon--la-legerte-n-1.krn",
+      "label": "La Légèrté, N. 1., movement 1: N 1. (PL-Wtm R 2139, kern)",
+      "bar": 7,
+      "notes": "E5 D5 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.1,
+    "works": 7,
+    "per_1000": 11.7,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kc/kern/pl-kc--40160-iii_wysocki-kasper-napoleon--walc-rewolucyjny.krn",
+      "label": "Walc rewolucyjny (PL-Kc 40160 III, kern)",
+      "bar": 163,
+      "notes": "C4 C4 C4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-003_wysocki-kasper-napoleon--la-legerte-n-3.krn",
+      "label": "La Légèrté, N. 3., movement 3: N. 3. D: bravura (PL-Wtm R 2139, kern)",
+      "bar": 2,
+      "notes": "D6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-006_wysocki-kasper-napoleon--la-legerte-n-6.krn",
+      "label": "La Légèrté, N. 6., movement 6: N 6. (PL-Wtm R 2139, kern)",
+      "bar": 2,
+      "notes": "D6 D6 D6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 7,
+    "per_1000": 11.7,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-001_wysocki-kasper-napoleon--la-legerte-n-1.krn",
+      "label": "La Légèrté, N. 1., movement 1: N 1. (PL-Wtm R 2139, kern)",
+      "bar": 1,
+      "notes": "D6 D6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-007_wysocki-kasper-napoleon--la-legerte-n-7.krn",
+      "label": "La Légèrté, N. 7., movement 7: N. 7. Energico (PL-Wtm R 2139, kern)",
+      "bar": 0,
+      "notes": "A5 A5 A5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-003_wysocki-kasper-napoleon--la-legerte-n-3.krn",
+      "label": "La Légèrté, N. 3., movement 3: N. 3. D: bravura (PL-Wtm R 2139, kern)",
+      "bar": 0,
+      "notes": "D6 D6 D6 D6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.9,
+    "works": 5,
+    "per_1000": 6.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-001_wysocki-kasper-napoleon--la-legerte-n-1.krn",
+      "label": "La Légèrté, N. 1., movement 1: N 1. (PL-Wtm R 2139, kern)",
+      "bar": 4,
+      "notes": "D5 D5 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-004_wysocki-kasper-napoleon--la-legerte-n-4.krn",
+      "label": "La Légèrté, N. 4., movement 4 (PL-Wtm R 2139, kern)",
+      "bar": 9,
+      "notes": "B6 B6 B6 C7"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-002_wysocki-kasper-napoleon--la-legerte-n-2.krn",
+      "label": "La Légèrté, N. 2., movement 2: N. 2. Con grazio (PL-Wtm R 2139, kern)",
+      "bar": 8,
+      "notes": "B5 B5 B5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.1,
+    "works": 4,
+    "per_1000": 6.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2139--001-006_wysocki-kasper-napoleon--la-legerte-n-6.krn",
+      "label": "La Légèrté, N. 6., movement 6: N 6. (PL-Wtm R 2139, kern)",
+      "bar": 7,
+      "notes": "F#6 E6 D6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-kc/kern/pl-kc--40160-iii_wysocki-kasper-napoleon--walc-rewolucyjny.krn",
+      "label": "Walc rewolucyjny (PL-Kc 40160 III, kern)",
+      "bar": 128,
+      "notes": "E5 D5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wtm/kern/pl-wtm--r-2160_wysocki-kasper-napoleon--valse-etiudentino.krn",
+      "label": "Valse etiudentino (PL-Wtm R 2160, kern)",
+      "bar": 10,
+      "notes": "B4 A4 G4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 67,
+   "composers": 19
+  }
+ }
+]

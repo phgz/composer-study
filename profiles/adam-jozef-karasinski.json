@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Adam Józef Karasiński",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.44908233634178624,
+   "repeats": 0.2158908799070856,
+   "leaps": 0.16314883066059893,
+   "move": 3.303932772640145,
+   "rising": 0.5199883979319089,
+   "leap answered": 0.19658175804638273,
+   "range": 19.25,
+   "register": 73.25,
+   "even": 0.4435849699567873,
+   "long-short": 0.09322195629263233,
+   "rhythm variety": 2.6951936536338756,
+   "surprise, pitch": 2.328730517497037,
+   "surprise, rhythm": 1.4906497572643924,
+   "density": 4.095498119091054,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 91,
+   "composers": 18
+  }
+ }
+]

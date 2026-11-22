@@ -1,0 +1,270 @@
+[
+ {
+  "composer": "Wilhelm Stenhammar",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 8,
+  "values": {
+   "steps": 0.5802002482344492,
+   "repeats": 0.10718225000088905,
+   "leaps": 0.16642041692133827,
+   "move": 3.158789781785896,
+   "rising": 0.45159791135677435,
+   "leap answered": 0.2998849498470249,
+   "range": 26.04375,
+   "register": 74.375,
+   "even": 0.5287508594822891,
+   "long-short": 0.1819488619727966,
+   "rhythm variety": 2.394677946649873,
+   "surprise, pitch": 2.6804770457731713,
+   "surprise, rhythm": 1.3864130067839926,
+   "density": 7.141249556085813,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.45159791135677435,
+    "others": 0.49369062676677034,
+    "auc": 0.21077935222672067
+   },
+   {
+    "measure": "long-short",
+    "value": 0.1819488619727966,
+    "others": 0.09235028024887129,
+    "auc": 0.8325477154424523
+   },
+   {
+    "measure": "density",
+    "value": 7.141249556085813,
+    "others": 5.655206395683601,
+    "auc": 0.7727949681897051
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#2",
+      "label": "String Quartet No.1, Op.2, movement 2: Mesto Sehr einfach, aber mit der innigst (OpenScore)",
+      "bar": 19,
+      "notes": "C#6 C6 C6 Bb5"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#1",
+      "label": "String Quartet No.1, Op.2, movement 1 (OpenScore)",
+      "bar": 66,
+      "notes": "A5 Ab5 Ab5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#3",
+      "label": "String Quartet No.1, Op.2, movement 3: Molto tranquillo e commodo (OpenScore)",
+      "bar": 74,
+      "notes": "F4 E4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#1",
+      "label": "String Quartet No.1, Op.2, movement 1 (OpenScore)",
+      "bar": 66,
+      "notes": "B5 A5 Ab5 Ab5"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#2",
+      "label": "String Quartet No.1, Op.2, movement 2: Mesto Sehr einfach, aber mit der innigst (OpenScore)",
+      "bar": 19,
+      "notes": "Eb6 C#6 C6 C6"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#3",
+      "label": "String Quartet No.1, Op.2, movement 3: Molto tranquillo e commodo (OpenScore)",
+      "bar": 73,
+      "notes": "G4 F4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#4",
+      "label": "String Quartet No.1, Op.2, movement 4: Allegro energico arco (OpenScore)",
+      "bar": 342,
+      "notes": "Eb6 Eb6 C#6 C6"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.4/sq26531671.mxl#4",
+      "label": "String Quartet No.4, movement 4: Aria variata „Och riddaren han talte til (OpenScore)",
+      "bar": 2,
+      "notes": "D5 D5 C5 B4"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#1",
+      "label": "String Quartet No.1, Op.2, movement 1 (OpenScore)",
+      "bar": 52,
+      "notes": "D5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 4,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#4",
+      "label": "String Quartet No.1, Op.2, movement 4: Allegro energico arco (OpenScore)",
+      "bar": 6,
+      "notes": "Ab5 G5 F5 C5"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.4/sq26531671.mxl#3",
+      "label": "String Quartet No.4, movement 3: Scherzo Allegro (OpenScore)",
+      "bar": 26,
+      "notes": "C5 B4 A4 E4"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.4/sq26531671.mxl#1",
+      "label": "String Quartet No.4, movement 1 (OpenScore)",
+      "bar": 214,
+      "notes": "C5 B4 A4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.4/sq26531671.mxl#4",
+      "label": "String Quartet No.4, movement 4: Aria variata „Och riddaren han talte til (OpenScore)",
+      "bar": 223,
+      "notes": "B4 Ab4 F4 C#4"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#1",
+      "label": "String Quartet No.1, Op.2, movement 1 (OpenScore)",
+      "bar": 57,
+      "notes": "F5 D5 B4 G4"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#4",
+      "label": "String Quartet No.1, Op.2, movement 4: Allegro energico arco (OpenScore)",
+      "bar": 21,
+      "notes": "F5 D5 B4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -5,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 1.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.4/sq26531671.mxl#1",
+      "label": "String Quartet No.4, movement 1 (OpenScore)",
+      "bar": 1,
+      "notes": "F5 E5 B4 C5"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.1,_Op.2/sq9767416.mxl#3",
+      "label": "String Quartet No.1, Op.2, movement 3: Molto tranquillo e commodo (OpenScore)",
+      "bar": 51,
+      "notes": "Ab5 G5 D5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Stenhammar,_Wilhelm/String_Quartet_No.4/sq26531671.mxl#4",
+      "label": "String Quartet No.4, movement 4: Aria variata „Och riddaren han talte til (OpenScore)",
+      "bar": 138,
+      "notes": "D5 C#5 Ab4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 110,
+   "composers": 19
+  }
+ }
+]

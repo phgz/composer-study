@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Jean Cras",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5502654990082557,
+   "repeats": 0.09046865423083075,
+   "leaps": 0.13860121197331438,
+   "move": 2.954230029186526,
+   "rising": 0.4777713778256045,
+   "leap answered": 0.2670600040942952,
+   "range": 26.6375,
+   "register": 77.0,
+   "even": 0.5027346921338944,
+   "long-short": 0.07529400559846361,
+   "rhythm variety": 2.5302146468357583,
+   "surprise, pitch": 3.0661573083866926,
+   "surprise, rhythm": 1.5943002795117203,
+   "density": 3.7491019815576103,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ }
+]

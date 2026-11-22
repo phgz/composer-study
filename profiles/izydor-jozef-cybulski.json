@@ -1,0 +1,83 @@
+[
+ {
+  "composer": "Izydor Józef Cybulski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.2976962408737556,
+   "repeats": 0.17588197628328103,
+   "leaps": 0.17686240355993865,
+   "move": 3.4283791689892156,
+   "rising": 0.42046435324239906,
+   "leap answered": 0.21621145667198297,
+   "range": 11.941666666666668,
+   "register": 78.16666666666667,
+   "even": 0.7029011591194533,
+   "long-short": 0.03132058324270779,
+   "rhythm variety": 1.4824063126986893,
+   "surprise, pitch": 3.1737007101007833,
+   "surprise, rhythm": 1.2466683426747178,
+   "density": 8.043649696674853,
+   "lines": 9.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.2976962408737556,
+    "others": 0.5153791301922747,
+    "auc": 0.07690861542986675
+   },
+   {
+    "measure": "leaps",
+    "value": 0.17686240355993865,
+    "others": 0.10069406439920817,
+    "auc": 0.8361659217360585
+   },
+   {
+    "measure": "move",
+    "value": 3.4283791689892156,
+    "others": 2.64356271033503,
+    "auc": 0.8827199210127997
+   },
+   {
+    "measure": "even",
+    "value": 0.7029011591194533,
+    "others": 0.5332926081249707,
+    "auc": 0.8453304866285567
+   },
+   {
+    "measure": "long-short",
+    "value": 0.03132058324270779,
+    "others": 0.08588222147045863,
+    "auc": 0.24263400727066375
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.4824063126986893,
+    "others": 2.2142323039321843,
+    "auc": 0.128281488133245
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.1737007101007833,
+    "others": 2.44592482195192,
+    "auc": 0.923248038668001
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.2466683426747178,
+    "others": 1.736617735259064,
+    "auc": 0.18101984738177032
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 641,
+   "composers": 34
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Oskar Rieding",
+  "kind": "concerto",
+  "forces": "chamber",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.5759010325345802,
+   "repeats": 0.0915020455873758,
+   "leaps": 0.14605363984674333,
+   "move": 2.7768114198644693,
+   "rising": 0.4518491786626034,
+   "leap answered": 0.4141116231438812,
+   "range": 20.333333333333332,
+   "register": 72.0,
+   "even": 0.6775720024814214,
+   "long-short": 0.08778647563706177,
+   "rhythm variety": 1.6565746752937127,
+   "surprise, pitch": 2.5291244767195646,
+   "surprise, rhythm": 1.1348249195764444,
+   "density": 5.281589026915114,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 41,
+   "composers": 10
+  }
+ }
+]

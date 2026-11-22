@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Elfrida Andrée",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.5336707111712432,
+   "repeats": 0.10038897135126826,
+   "leaps": 0.1909689210613554,
+   "move": 3.1865086573169186,
+   "rising": 0.48062044680433474,
+   "leap answered": 0.29665306414662085,
+   "range": 23.5625,
+   "register": 73.625,
+   "even": 0.5211415237316915,
+   "long-short": 0.11042763214982199,
+   "rhythm variety": 2.4888748895427475,
+   "surprise, pitch": 3.0993098203650122,
+   "surprise, rhythm": 1.9155154023275958,
+   "density": 3.85844698816578,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

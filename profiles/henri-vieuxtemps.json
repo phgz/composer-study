@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Henri Vieuxtemps",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.587155545862815,
+   "repeats": 0.08014479201195981,
+   "leaps": 0.1384980185311354,
+   "move": 3.0744513348989866,
+   "rising": 0.5075864788704496,
+   "leap answered": 0.2625982253504675,
+   "range": 26.75,
+   "register": 76.0,
+   "even": 0.6485979092646881,
+   "long-short": 0.1269713663564253,
+   "rhythm variety": 1.995513480665127,
+   "surprise, pitch": 2.6775599774694285,
+   "surprise, rhythm": 1.2122278211102517,
+   "density": 3.577885208754665,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

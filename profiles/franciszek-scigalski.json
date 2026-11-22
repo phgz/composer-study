@@ -1,0 +1,264 @@
+[
+ {
+  "composer": "Franciszek Ścigalski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 42,
+  "values": {
+   "steps": 0.41134044358623423,
+   "repeats": 0.33213516142863064,
+   "leaps": 0.1094898520890721,
+   "move": 2.841990464078193,
+   "rising": 0.46479855440206486,
+   "leap answered": 0.25212869492311235,
+   "range": 11.079761904761902,
+   "register": 82.47619047619048,
+   "even": 0.5441203683636502,
+   "long-short": 0.059195913924472446,
+   "rhythm variety": 2.160158655652591,
+   "surprise, pitch": 2.352722191583013,
+   "surprise, rhythm": 1.6814320312158382,
+   "density": 12.2809816560099,
+   "lines": 15.023809523809524
+  },
+  "traits": [
+   {
+    "measure": "long-short",
+    "value": 0.059195913924472446,
+    "others": 0.11307101286980065,
+    "auc": 0.23691362574332406
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.352722191583013,
+    "others": 2.8304912101931254,
+    "auc": 0.1409713466358465
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 9.2,
+    "works": 15,
+    "per_1000": 6.0,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-668--001-010_scigalski-franciszek--missa-dona-nobis.krn",
+      "label": "Missa, Dona nobis, movement 10 (PL-CZ III-668, kern)",
+      "bar": 36,
+      "notes": "C6 C6 C6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-669--001-004_scigalski-franciszek--missa-in-b-quoniam.krn",
+      "label": "Missa in B, Quoniam, movement 4: Allo molto (PL-CZ III-669, kern)",
+      "bar": 13,
+      "notes": "F#9 F#9 F#9 F#9"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-668--001-005_scigalski-franciszek--missa-et-resurrexit.krn",
+      "label": "Missa, Et resurrexit, movement 5 (PL-CZ III-668, kern)",
+      "bar": 20,
+      "notes": "F5 F5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 7.2,
+    "works": 23,
+    "per_1000": 6.7,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-668--001-010_scigalski-franciszek--missa-dona-nobis.krn",
+      "label": "Missa, Dona nobis, movement 10 (PL-CZ III-668, kern)",
+      "bar": 36,
+      "notes": "C6 C6 C6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-669--001-004_scigalski-franciszek--missa-in-b-quoniam.krn",
+      "label": "Missa in B, Quoniam, movement 4: Allo molto (PL-CZ III-669, kern)",
+      "bar": 5,
+      "notes": "F#9 F#9 F#9 F#9"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-668--001-005_scigalski-franciszek--missa-et-resurrexit.krn",
+      "label": "Missa, Et resurrexit, movement 5 (PL-CZ III-668, kern)",
+      "bar": 20,
+      "notes": "F5 F5 F5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 10,
+    "per_1000": 3.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-667--001-001_scigalski-franciszek--litania-kyrie.krn",
+      "label": "Litania, Kyrie, movement 1 (PL-CZ III-667, kern)",
+      "bar": 1,
+      "notes": "C5 C5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-669--001-001_scigalski-franciszek--missa-in-b-kyrie.krn",
+      "label": "Missa in B, Kyrie, movement 1 (PL-CZ III-669, kern)",
+      "bar": 1,
+      "notes": "F5 F5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-666--001-005_scigalski-franciszek--missa-in-c-credo.krn",
+      "label": "Missa in C, Credo, movement 5 (PL-CZ III-666, kern)",
+      "bar": 18,
+      "notes": "C6 C6 C6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.8,
+    "works": 20,
+    "per_1000": 7.2,
+    "others_per_1000": 2.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-666--001-002_scigalski-franciszek--missa-in-c-gloria.krn",
+      "label": "Missa in C, Gloria, movement 2 (PL-CZ III-666, kern)",
+      "bar": 2,
+      "notes": "F6 E6 D6 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-669--001-009_scigalski-franciszek--missa-in-b-benedictus.krn",
+      "label": "Missa in B, Benedictus, movement 9 (PL-CZ III-669, kern)",
+      "bar": 80,
+      "notes": "Bb5 A5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-668--001-002_scigalski-franciszek--missa-gloria.krn",
+      "label": "Missa, Gloria, movement 2 (PL-CZ III-668, kern)",
+      "bar": 2,
+      "notes": "Eb6 D6 C6 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.7,
+    "works": 9,
+    "per_1000": 2.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-669--001-009_scigalski-franciszek--missa-in-b-benedictus.krn",
+      "label": "Missa in B, Benedictus, movement 9 (PL-CZ III-669, kern)",
+      "bar": 36,
+      "notes": "C6 C6 B5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-667--001-001_scigalski-franciszek--litania-kyrie.krn",
+      "label": "Litania, Kyrie, movement 1 (PL-CZ III-667, kern)",
+      "bar": 40,
+      "notes": "Bb4 Bb4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-669--001-001_scigalski-franciszek--missa-in-b-kyrie.krn",
+      "label": "Missa in B, Kyrie, movement 1 (PL-CZ III-669, kern)",
+      "bar": 1,
+      "notes": "F5 F5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 12,
+    "per_1000": 3.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-666--001-004_scigalski-franciszek--missa-in-c-quoniam.krn",
+      "label": "Missa in C, Quoniam, movement 4 (PL-CZ III-666, kern)",
+      "bar": 17,
+      "notes": "F6 E6 D6 E6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-669--001-009_scigalski-franciszek--missa-in-b-benedictus.krn",
+      "label": "Missa in B, Benedictus, movement 9 (PL-CZ III-669, kern)",
+      "bar": 41,
+      "notes": "C6 B5 A5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-667--001-005_scigalski-franciszek--litania-regina-angelorum.krn",
+      "label": "Litania, Regina angelorum, movement 5 (PL-CZ III-667, kern)",
+      "bar": 74,
+      "notes": "F5 E5 D5 E5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 511,
+   "composers": 37
+  }
+ }
+]

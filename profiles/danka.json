@@ -1,0 +1,233 @@
+[
+ {
+  "composer": "Danka",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 9,
+  "values": {
+   "steps": 0.5838741151436813,
+   "repeats": 0.23309812169088864,
+   "leaps": 0.05606978860491758,
+   "move": 2.2153999045453796,
+   "rising": 0.4557451846021294,
+   "leap answered": 0.41763904372600025,
+   "range": 9.333333333333334,
+   "register": 76.44444444444444,
+   "even": 0.6005123647890503,
+   "long-short": 0.06864630358620807,
+   "rhythm variety": 2.1388219891964475,
+   "surprise, pitch": 2.272020551623872,
+   "surprise, rhythm": 1.6973138992376442,
+   "density": 12.731328079316581,
+   "lines": 11.333333333333334
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 8.3,
+    "works": 8,
+    "per_1000": 10.9,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-001_danka--missa-es-kyrie.krn",
+      "label": "Missa Es, Kyrie, movement 1 (PL-CZ I-8, kern)",
+      "bar": 54,
+      "notes": "D5 C5 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-003_danka--missa-es-credo.krn",
+      "label": "Missa Es, Credo, movement 3 (PL-CZ I-8, kern)",
+      "bar": 25,
+      "notes": "D5 C5 D5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-005_danka--missa-es-et-resurrexit.krn",
+      "label": "Missa Es, Et resurrexit, movement 5 (PL-CZ I-8, kern)",
+      "bar": 25,
+      "notes": "D5 C5 D5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     0
+    ],
+    "z": 6.1,
+    "works": 2,
+    "per_1000": 3.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-003_danka--missa-es-credo.krn",
+      "label": "Missa Es, Credo, movement 3 (PL-CZ I-8, kern)",
+      "bar": 25,
+      "notes": "D5 D5 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-005_danka--missa-es-et-resurrexit.krn",
+      "label": "Missa Es, Et resurrexit, movement 5 (PL-CZ I-8, kern)",
+      "bar": 25,
+      "notes": "D5 D5 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.0,
+    "works": 4,
+    "per_1000": 5.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-003_danka--missa-es-credo.krn",
+      "label": "Missa Es, Credo, movement 3 (PL-CZ I-8, kern)",
+      "bar": 1,
+      "notes": "Eb5 D5 Eb5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-005_danka--missa-es-et-resurrexit.krn",
+      "label": "Missa Es, Et resurrexit, movement 5 (PL-CZ I-8, kern)",
+      "bar": 1,
+      "notes": "Eb5 D5 Eb5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-002_danka--missa-es-gloria.krn",
+      "label": "Missa Es, Gloria, movement 2 (PL-CZ I-8, kern)",
+      "bar": 24,
+      "notes": "Eb5 D5 Eb5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     1,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 6.0,
+    "works": 2,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-003_danka--missa-es-credo.krn",
+      "label": "Missa Es, Credo, movement 3 (PL-CZ I-8, kern)",
+      "bar": 2,
+      "notes": "Eb5 G5 Ab5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-005_danka--missa-es-et-resurrexit.krn",
+      "label": "Missa Es, Et resurrexit, movement 5 (PL-CZ I-8, kern)",
+      "bar": 2,
+      "notes": "Eb5 G5 Ab5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 5,
+    "per_1000": 6.7,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-001_danka--missa-es-kyrie.krn",
+      "label": "Missa Es, Kyrie, movement 1 (PL-CZ I-8, kern)",
+      "bar": 21,
+      "notes": "G5 Ab5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-003_danka--missa-es-credo.krn",
+      "label": "Missa Es, Credo, movement 3 (PL-CZ I-8, kern)",
+      "bar": 2,
+      "notes": "G5 Ab5 G5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-005_danka--missa-es-et-resurrexit.krn",
+      "label": "Missa Es, Et resurrexit, movement 5 (PL-CZ I-8, kern)",
+      "bar": 2,
+      "notes": "G5 Ab5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 3.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-003_danka--missa-es-credo.krn",
+      "label": "Missa Es, Credo, movement 3 (PL-CZ I-8, kern)",
+      "bar": 1,
+      "notes": "D5 Eb5 G5 Ab5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--i-8--001-005_danka--missa-es-et-resurrexit.krn",
+      "label": "Missa Es, Et resurrexit, movement 5 (PL-CZ I-8, kern)",
+      "bar": 1,
+      "notes": "D5 Eb5 G5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 638,
+   "composers": 34
+  }
+ }
+]

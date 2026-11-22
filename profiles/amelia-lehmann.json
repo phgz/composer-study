@@ -1,0 +1,125 @@
+[
+ {
+  "composer": "Amelia Lehmann",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.4762519129833255,
+   "repeats": 0.15789992995390403,
+   "leaps": 0.2241472409547777,
+   "move": 3.3367878455183955,
+   "rising": 0.5200707823953225,
+   "leap answered": 0.24526629356191224,
+   "range": 12.4,
+   "register": 70.6,
+   "even": 0.47830377976968047,
+   "long-short": 0.14297358599196616,
+   "rhythm variety": 2.3514892868685693,
+   "surprise, pitch": 2.002542876072612,
+   "surprise, rhythm": 1.4286385315866137,
+   "density": 4.704933190377915,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     -2
+    ],
+    "z": 6.6,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Lehmann,_Amelia/_/When_Love_is_Kind/lc6645039.mxl",
+      "label": "When Love is Kind (OpenScore)",
+      "bar": 6,
+      "notes": "Ab4 Ab4 G4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Lehmann,_Amelia/_/Bouton_de_Rose/lc6644591.mxl",
+      "label": "Bouton de Rose (OpenScore)",
+      "bar": 9,
+      "notes": "C#5 C#5 C5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Lehmann,_Amelia/_/When_Love_is_Kind/lc6645039.mxl",
+      "label": "When Love is Kind (OpenScore)",
+      "bar": 7,
+      "notes": "Ab4 G4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Lehmann,_Amelia/_/Bouton_de_Rose/lc6644591.mxl",
+      "label": "Bouton de Rose (OpenScore)",
+      "bar": 10,
+      "notes": "C#5 C5 C#5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Lehmann,_Amelia/_/How_Delicious_is_the_Winning/lc6644635.mxl",
+      "label": "How Delicious is the Winning (OpenScore)",
+      "bar": 9,
+      "notes": "F4 F#4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Lehmann,_Amelia/_/Bouton_de_Rose/lc6644591.mxl",
+      "label": "Bouton de Rose (OpenScore)",
+      "bar": 10,
+      "notes": "C5 C#5 Eb5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1094,
+   "composers": 97
+  }
+ }
+]

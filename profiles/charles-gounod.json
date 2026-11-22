@@ -1,0 +1,254 @@
+[
+ {
+  "composer": "Charles Gounod",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.48610253794444025,
+   "repeats": 0.22376576759509226,
+   "leaps": 0.14240322669207128,
+   "move": 2.835835859934301,
+   "rising": 0.4840661966846811,
+   "leap answered": 0.3266650494591671,
+   "range": 10.49375,
+   "register": 71.375,
+   "even": 0.4544442429867061,
+   "long-short": 0.10744270023969414,
+   "rhythm variety": 2.4565587140328082,
+   "surprise, pitch": 1.842873060999509,
+   "surprise, rhythm": 1.4000046544089373,
+   "density": 5.935273555105287,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 1.842873060999509,
+    "others": 2.4229188004545983,
+    "auc": 0.201682850919031
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/2_O_Ma_Belle_Rebelle!/lc5079373.mxl",
+      "label": "Mélodies, O Ma Belle Rebelle! (OpenScore)",
+      "bar": 9,
+      "notes": "C5 D5 B4 D5"
+     },
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/4_Chant_d’automne/lc5079391.mxl",
+      "label": "Mélodies, Chant d’automne (OpenScore)",
+      "bar": 39,
+      "notes": "A4 B4 Ab4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -7,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/5_Le_lever/lc5163799.mxl",
+      "label": "Mélodies, Le lever (OpenScore)",
+      "bar": 29,
+      "notes": "D5 C5 F4 G4"
+     },
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/3_Aubade/lc5079378.mxl",
+      "label": "Mélodies, Aubade (OpenScore)",
+      "bar": 12,
+      "notes": "D5 C5 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -3
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 6.2,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/2_O_Ma_Belle_Rebelle!/lc5079373.mxl",
+      "label": "Mélodies, O Ma Belle Rebelle! (OpenScore)",
+      "bar": 18,
+      "notes": "Bb4 C5 C5 A4"
+     },
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/3_Aubade/lc5079378.mxl",
+      "label": "Mélodies, Aubade (OpenScore)",
+      "bar": 19,
+      "notes": "G4 A4 A4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/2_O_Ma_Belle_Rebelle!/lc5079373.mxl",
+      "label": "Mélodies, O Ma Belle Rebelle! (OpenScore)",
+      "bar": 9,
+      "notes": "D5 B4 D5 C5"
+     },
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/4_Chant_d’automne/lc5079391.mxl",
+      "label": "Mélodies, Chant d’automne (OpenScore)",
+      "bar": 39,
+      "notes": "B4 Ab4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/2_O_Ma_Belle_Rebelle!/lc5079373.mxl",
+      "label": "Mélodies, O Ma Belle Rebelle! (OpenScore)",
+      "bar": 9,
+      "notes": "D5 C5 D5 B4"
+     },
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/4_Chant_d’automne/lc5079391.mxl",
+      "label": "Mélodies, Chant d’automne (OpenScore)",
+      "bar": 39,
+      "notes": "B4 A4 B4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -6,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/6_Venise/lc5079394.mxl",
+      "label": "Mélodies, Venise (OpenScore)",
+      "bar": 25,
+      "notes": "F#5 G5 C#5 D5"
+     },
+     {
+      "work": "openscore-lieder:Gounod,_Charles/6_Mélodies/4_Chant_d’automne/lc5079391.mxl",
+      "label": "Mélodies, Chant d’automne (OpenScore)",
+      "bar": 23,
+      "notes": "Eb5 E5 Bb4 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1091,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Charles Gounod",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.5762467149352971,
+   "repeats": 0.07924658729902517,
+   "leaps": 0.16400242090437026,
+   "move": 2.933791071763234,
+   "rising": 0.4830828026160203,
+   "leap answered": 0.4157801484668962,
+   "range": 20.75,
+   "register": 74.125,
+   "even": 0.6592918643625305,
+   "long-short": 0.08425682927311061,
+   "rhythm variety": 1.8075993973066908,
+   "surprise, pitch": 2.809116708135183,
+   "surprise, rhythm": 1.106559375575614,
+   "density": 4.206574923179319,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

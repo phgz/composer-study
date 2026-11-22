@@ -1,0 +1,315 @@
+[
+ {
+  "composer": "Johann Christian Bach",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5813227771362459,
+   "repeats": 0.0653187015304365,
+   "leaps": 0.17799280218102356,
+   "move": 3.100854608326279,
+   "rising": 0.4374413677352573,
+   "leap answered": 0.12531015732235243,
+   "range": 17.375,
+   "register": 73.75,
+   "even": 0.6965063414779928,
+   "long-short": 0.07345260985739169,
+   "rhythm variety": 1.8150336326533987,
+   "surprise, pitch": 2.487328749936057,
+   "surprise, rhythm": 1.4054764561568607,
+   "density": 3.48447703656037,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 24,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Christian Bach",
+  "kind": "minuet",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 4,
+  "values": {
+   "steps": 0.5813227771362459,
+   "repeats": 0.0653187015304365,
+   "leaps": 0.17799280218102356,
+   "move": 3.100854608326279,
+   "rising": 0.4374413677352573,
+   "leap answered": 0.12531015732235243,
+   "range": 17.375,
+   "register": 73.75,
+   "even": 0.6965063414779928,
+   "long-short": 0.07345260985739169,
+   "rhythm variety": 1.8150336326533987,
+   "surprise, pitch": 2.487328749936057,
+   "surprise, rhythm": 1.4054764561568607,
+   "density": 3.48447703656037,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 138,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Johann Christian Bach",
+  "kind": "sonata",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "Classical",
+  "works": 29,
+  "values": {
+   "steps": 0.5086182216892715,
+   "repeats": 0.09181533777298403,
+   "leaps": 0.21519719210602106,
+   "move": 3.4368026827680374,
+   "rising": 0.4295746674438647,
+   "leap answered": 0.17894570114798644,
+   "range": 18.94655172413793,
+   "register": 73.56896551724138,
+   "even": 0.6862154090703083,
+   "long-short": 0.06599814840147968,
+   "rhythm variety": 1.8349302979115398,
+   "surprise, pitch": 2.5344469790663644,
+   "surprise, rhythm": 1.279184146328965,
+   "density": 4.751773610184591,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     -3,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 5,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa12op17no6a_Allegro.notes.tsv",
+      "label": "Keyboard Sonata in B-flat major, W.A 12, op.17, movement 1: Allegro (DCML)",
+      "bar": 22,
+      "notes": "Bb5 G5 E5 E5"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa08op17no2b_Andante.notes.tsv",
+      "label": "Keyboard Sonata in C minor, W.A 8, op.17, movement 2: Andante (DCML)",
+      "bar": 34,
+      "notes": "Eb5 C5 A4 A4"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa01op05no1b_Tempo_di_Minuetto.notes.tsv",
+      "label": "Keyboard Sonata in B-flat major, W.A 1, op.5, movement 2: Tempo di minuetto (DCML)",
+      "bar": 27,
+      "notes": "Bb4 G4 E4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     0
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa04op05no4a_Allegro.notes.tsv",
+      "label": "Keyboard Sonata in E-flat major, W.A 4, op.5, movement 1: Allegro (DCML)",
+      "bar": 29,
+      "notes": "F5 Eb5 F5 G5"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa05op05no5a_Allegro_Assai.notes.tsv",
+      "label": "Keyboard Sonata in E major, W.A 5, op.5, movement 1: Allegro assai (DCML)",
+      "bar": 12,
+      "notes": "F#5 E5 F#5 Ab5"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa11op17no5a_Allegro.notes.tsv",
+      "label": "Keyboard Sonata in A major, W.A 11, op.17, movement 1: Allegro (DCML)",
+      "bar": 6,
+      "notes": "C#5 B4 C#5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     2,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 4,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa08op17no2c_Prestissimo.notes.tsv",
+      "label": "Keyboard Sonata in C minor, W.A 8, op.17, movement 3: Prestissimo (DCML)",
+      "bar": 23,
+      "notes": "C6 F5 G5 Bb5"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa11op17no5b_Presto.notes.tsv",
+      "label": "Keyboard Sonata in A major, W.A 11, op.17, movement 2: Presto (DCML)",
+      "bar": 39,
+      "notes": "B4 E4 F#4 A4"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa12op17no6c_Prestissimo.notes.tsv",
+      "label": "Keyboard Sonata in B-flat major, W.A 12, op.17, movement 3: Prestissimo (DCML)",
+      "bar": 35,
+      "notes": "C5 F4 G4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 16,
+    "per_1000": 2.5,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa10op17no4b_Presto_Assai.notes.tsv",
+      "label": "Keyboard Sonata in G major, W.A 10, op.17, movement 2: Presto assai (DCML)",
+      "bar": 4,
+      "notes": "B4 D5 G5 D5"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa08op17no2a_Allegro.notes.tsv",
+      "label": "Keyboard Sonata in C minor, W.A 8, op.17, movement 1: Allegro (DCML)",
+      "bar": 38,
+      "notes": "G4 Bb4 Eb5 Bb4"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa11op17no5a_Allegro.notes.tsv",
+      "label": "Keyboard Sonata in A major, W.A 11, op.17, movement 1: Allegro (DCML)",
+      "bar": 34,
+      "notes": "Ab4 B4 E5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -5,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 8,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa05op05no5c_Prestissimo.notes.tsv",
+      "label": "Keyboard Sonata in E major, W.A 5, op.5, movement 3: Prestissimo (DCML)",
+      "bar": 3,
+      "notes": "E5 B4 A4 Ab4"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa10op17no4b_Presto_Assai.notes.tsv",
+      "label": "Keyboard Sonata in G major, W.A 10, op.17, movement 2: Presto assai (DCML)",
+      "bar": 6,
+      "notes": "G5 D5 C5 B4"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa01op05no1a_Allegretto.notes.tsv",
+      "label": "Keyboard Sonata in B-flat major, W.A 1, op.5, movement 1: Allegretto (DCML)",
+      "bar": 57,
+      "notes": "Bb5 F5 Eb5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     7,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 6,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa11op17no5a_Allegro.notes.tsv",
+      "label": "Keyboard Sonata in A major, W.A 11, op.17, movement 1: Allegro (DCML)",
+      "bar": 31,
+      "notes": "F#5 E5 B5 B5"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa12op17no6a_Allegro.notes.tsv",
+      "label": "Keyboard Sonata in B-flat major, W.A 12, op.17, movement 1: Allegro (DCML)",
+      "bar": 33,
+      "notes": "C5 Bb4 F5 F5"
+     },
+     {
+      "work": "dcml/jc_bach_sonatas:notes/wa08op17no2c_Prestissimo.notes.tsv",
+      "label": "Keyboard Sonata in C minor, W.A 8, op.17, movement 3: Prestissimo (DCML)",
+      "bar": 76,
+      "notes": "D5 C5 G5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 305,
+   "composers": 9
+  }
+ }
+]

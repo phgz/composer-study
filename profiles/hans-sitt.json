@@ -1,0 +1,162 @@
+[
+ {
+  "composer": "Hans Sitt",
+  "kind": "etude",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Romantic",
+  "works": 20,
+  "values": {
+   "steps": 0.6449266333256213,
+   "repeats": 0.03778120896792107,
+   "leaps": 0.1527809131340501,
+   "move": 3.045005093349723,
+   "rising": 0.4599507017776405,
+   "leap answered": 0.4301611252481747,
+   "range": 18.779999999999998,
+   "register": 71.8,
+   "even": 0.8400105061504777,
+   "long-short": 0.04625488014630255,
+   "rhythm variety": 0.7138085982680026,
+   "surprise, pitch": 2.0999945105651934,
+   "surprise, rhythm": 0.3879677377107377,
+   "density": 2.57652207458951,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 18.779999999999998,
+    "others": 14.148076923076925,
+    "auc": 0.9346153846153845
+   },
+   {
+    "measure": "register",
+    "value": 71.8,
+    "others": 70.03846153846153,
+    "auc": 0.7807692307692309
+   },
+   {
+    "measure": "density",
+    "value": 2.57652207458951,
+    "others": 1.1006838719246184,
+    "auc": 0.9134615384615383
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 13,
+    "per_1000": 6.2,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#19",
+      "label": "100 Etudes (32), movement 19 (Mutopia)",
+      "bar": 1,
+      "notes": "B3 A3 G3 A3"
+     },
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#7",
+      "label": "100 Etudes (32), movement 7 (Mutopia)",
+      "bar": 1,
+      "notes": "A5 G5 F5 G5"
+     },
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#20",
+      "label": "100 Etudes (32), movement 20 (Mutopia)",
+      "bar": 6,
+      "notes": "C#5 B4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 12,
+    "per_1000": 5.6,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#7",
+      "label": "100 Etudes (32), movement 7 (Mutopia)",
+      "bar": 2,
+      "notes": "F5 E5 D5 E5"
+     },
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#19",
+      "label": "100 Etudes (32), movement 19 (Mutopia)",
+      "bar": 3,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#13",
+      "label": "100 Etudes (32), movement 13 (Mutopia)",
+      "bar": 3,
+      "notes": "C5 B4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 10,
+    "per_1000": 4.1,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#11",
+      "label": "100 Etudes (32), movement 11 (Mutopia)",
+      "bar": 3,
+      "notes": "Ab5 F#5 E5 C#5"
+     },
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#17",
+      "label": "100 Etudes (32), movement 17 (Mutopia)",
+      "bar": 7,
+      "notes": "F#5 E5 D5 B4"
+     },
+     {
+      "work": "mutopia:SittH/O32/Hans_Sitt-100_Etudes_Op32-Book1#12",
+      "label": "100 Etudes (32), movement 12 (Mutopia)",
+      "bar": 8,
+      "notes": "A4 G4 F4 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 52,
+   "composers": 2
+  }
+ }
+]

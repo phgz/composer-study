@@ -1,0 +1,378 @@
+[
+ {
+  "composer": "Emilie Mayer",
+  "kind": "scherzo",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.6053194537384128,
+   "repeats": 0.060144299876714234,
+   "leaps": 0.15979921383010426,
+   "move": 2.931911619743647,
+   "rising": 0.46842809604728963,
+   "leap answered": 0.2726348691440793,
+   "range": 19.2625,
+   "register": 75.75,
+   "even": 0.5644285988920035,
+   "long-short": 0.06640764832410748,
+   "rhythm variety": 2.3337573415209807,
+   "surprise, pitch": 2.6576505936734236,
+   "surprise, rhythm": 1.8358103707445503,
+   "density": 2.974881824934225,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 20,
+   "composers": 15
+  }
+ },
+ {
+  "composer": "Emilie Mayer",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 6,
+  "values": {
+   "steps": 0.5423312368745806,
+   "repeats": 0.18194306123872686,
+   "leaps": 0.1504545183918249,
+   "move": 2.8255034141328044,
+   "rising": 0.4128056843555292,
+   "leap answered": 0.42904788769150476,
+   "range": 12.733333333333334,
+   "register": 70.33333333333333,
+   "even": 0.3945485378966076,
+   "long-short": 0.21904263792208048,
+   "rhythm variety": 2.6580945349621814,
+   "surprise, pitch": 2.8879266078374344,
+   "surprise, rhythm": 1.9935181869092975,
+   "density": 5.704547785319427,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8879266078374344,
+    "others": 2.420059369276292,
+    "auc": 0.775704225348087
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.9935181869092975,
+    "others": 1.6283950008603476,
+    "auc": 0.7544244878634699
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 5.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-lieder:Mayer,_Emilie/_/Der_Erlkönig/lc6573780.mxl",
+      "label": "Der Erlkönig (OpenScore)",
+      "bar": 5,
+      "notes": "D4 D4 D4 Eb4"
+     },
+     {
+      "work": "openscore-lieder:Mayer,_Emilie/3_Lieder,_Op.7/2_O_lass_mich_dein_gedenken/lc5840434.mxl",
+      "label": "Lieder, Op.7, O lass mich dein gedenken (OpenScore)",
+      "bar": 19,
+      "notes": "C#5 C#5 C#5 D5"
+     },
+     {
+      "work": "openscore-lieder:Mayer,_Emilie/3_Lieder,_Op.7/3_Wenn_der_Abendstern_die_Rosen/lc5841419.mxl",
+      "label": "Lieder, Op.7, Wenn der Abendstern die Rosen (OpenScore)",
+      "bar": 21,
+      "notes": "E5 E5 E5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1093,
+   "composers": 97
+  }
+ },
+ {
+  "composer": "Emilie Mayer",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 24,
+  "values": {
+   "steps": 0.5879439441417218,
+   "repeats": 0.09500301142134339,
+   "leaps": 0.1553466960475541,
+   "move": 2.9716143854729977,
+   "rising": 0.4626428611836824,
+   "leap answered": 0.284818820231091,
+   "range": 19.979166666666668,
+   "register": 74.16666666666667,
+   "even": 0.602951765954561,
+   "long-short": 0.07794310590670221,
+   "rhythm variety": 2.239591945022157,
+   "surprise, pitch": 2.727943686476253,
+   "surprise, rhythm": 1.6254329734570663,
+   "density": 4.785681300777312,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5879439441417218,
+    "others": 0.4872818666723591,
+    "auc": 0.7776102079287602
+   },
+   {
+    "measure": "range",
+    "value": 19.979166666666668,
+    "others": 23.48951405290505,
+    "auc": 0.18925103658216558
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 7.1,
+    "works": 15,
+    "per_1000": 2.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_D_Minor/sq7643891.mxl#3",
+      "label": "String Quartet in D Minor, movement 3: arco Presto (OpenScore)",
+      "bar": 7,
+      "notes": "F#4 G4 A4 G4"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_A_Major/sq8818128.mxl#1",
+      "label": "String Quartet in A Major, movement 1 (OpenScore)",
+      "bar": 19,
+      "notes": "Ab5 A5 B5 A5"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_E_minor/sq7556360.mxl#3",
+      "label": "String Quartet in E minor, movement 3: Scherzo Allegro vivace arco (OpenScore)",
+      "bar": 15,
+      "notes": "C#5 D5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 7.0,
+    "works": 10,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_D_Minor/sq7643891.mxl#3",
+      "label": "String Quartet in D Minor, movement 3: arco Presto (OpenScore)",
+      "bar": 151,
+      "notes": "Eb4 D4 Eb4 F4"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_G_minor,_Op.14/sq7095930.mxl",
+      "label": "String Quartet in G minor, Op.14 (OpenScore)",
+      "bar": 110,
+      "notes": "F5 E5 F5 G5"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_A_Major/sq8818128.mxl#1",
+      "label": "String Quartet in A Major, movement 1 (OpenScore)",
+      "bar": 216,
+      "notes": "D6 C#6 D6 E6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.8,
+    "works": 13,
+    "per_1000": 2.1,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_D_Major/sq7588853.mxl#1",
+      "label": "String Quartet in D Major, movement 1 (OpenScore)",
+      "bar": 10,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_D_Minor/sq7643891.mxl#3",
+      "label": "String Quartet in D Minor, movement 3: arco Presto (OpenScore)",
+      "bar": 153,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_D_Major/sq7588853.mxl#4",
+      "label": "String Quartet in D Major, movement 4: Finale Allegro (OpenScore)",
+      "bar": 1,
+      "notes": "E4 D4 C#4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 6.4,
+    "works": 14,
+    "per_1000": 1.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_D_Minor/sq7643891.mxl#3",
+      "label": "String Quartet in D Minor, movement 3: arco Presto (OpenScore)",
+      "bar": 108,
+      "notes": "C5 Bb4 Ab4 G4"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_G_minor,_Op.14/sq7236909.mxl",
+      "label": "String Quartet in G minor, Op.14 (OpenScore)",
+      "bar": 122,
+      "notes": "G5 F5 Eb5 D5"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_A_Major/sq8818128.mxl#2",
+      "label": "String Quartet in A Major, movement 2: Adagio (OpenScore)",
+      "bar": 8,
+      "notes": "Ab4 F#4 E4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.2,
+    "works": 13,
+    "per_1000": 1.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_D_Major/sq7588853.mxl#1",
+      "label": "String Quartet in D Major, movement 1 (OpenScore)",
+      "bar": 56,
+      "notes": "Bb4 B4 Eb5 E5"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_F_Major/sq8915514.mxl#3",
+      "label": "String Quartet in F Major, movement 3: Andante cantabile arco (OpenScore)",
+      "bar": 49,
+      "notes": "E5 F5 A5 Bb5"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_G_minor,_Op.14/sq7095930.mxl",
+      "label": "String Quartet in G minor, Op.14 (OpenScore)",
+      "bar": 346,
+      "notes": "C#4 D4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 6.2,
+    "works": 7,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_E_minor/sq7556360.mxl#3",
+      "label": "String Quartet in E minor, movement 3: Scherzo Allegro vivace arco (OpenScore)",
+      "bar": 33,
+      "notes": "A4 Bb4 C5 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_F_Major/sq8915514.mxl#4",
+      "label": "String Quartet in F Major, movement 4: Finale Allegretto (OpenScore)",
+      "bar": 54,
+      "notes": "B4 C5 D5 C5"
+     },
+     {
+      "work": "openscore-quartets:Mayer,_Emilie/String_Quartet_in_A_Major/sq8818128.mxl#1",
+      "label": "String Quartet in A Major, movement 1 (OpenScore)",
+      "bar": 77,
+      "notes": "Bb5 B5 C#6 B5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 235,
+   "composers": 32
+  }
+ }
+]

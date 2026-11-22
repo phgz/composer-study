@@ -1,0 +1,264 @@
+[
+ {
+  "composer": "Pierre Moulu",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.6557355479673601,
+   "repeats": 0.1731361391491449,
+   "leaps": 0.053677243893460916,
+   "move": 2.224185637595128,
+   "rising": 0.46575648006736603,
+   "leap answered": 0.38,
+   "range": 10.2,
+   "register": 69.8,
+   "even": 0.327178406928713,
+   "long-short": 0.18214826238816445,
+   "rhythm variety": 2.8500784293462624,
+   "surprise, pitch": 2.4836043626978928,
+   "surprise, rhythm": 2.1568089485006623,
+   "density": 1.2999518982511342,
+   "lines": 4.2
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.053677243893460916,
+    "others": 0.0907407354774215,
+    "auc": 0.1252465550206731
+   },
+   {
+    "measure": "long-short",
+    "value": 0.18214826238816445,
+    "others": 0.13200482941793554,
+    "auc": 0.8634471124604122
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     2
+    ],
+    "z": 7.7,
+    "works": 3,
+    "per_1000": 5.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-003_moulu-pierre--missa-i-alma-redemptoris-mater-credo.krn",
+      "label": "Missa I [Alma redemptoris mater], Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 77,
+      "notes": "E5 D5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-002_moulu-pierre--missa-i-alma-redemptoris-mater-gloria.krn",
+      "label": "Missa I [Alma redemptoris mater], Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 27,
+      "notes": "E5 D5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-004_moulu-pierre--missa-i-alma-redemptoris-mater-sanctus.krn",
+      "label": "Missa I [Alma redemptoris mater], Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 32,
+      "notes": "E5 D5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     1
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 6.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-003_moulu-pierre--missa-i-alma-redemptoris-mater-credo.krn",
+      "label": "Missa I [Alma redemptoris mater], Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 3,
+      "notes": "F5 E5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-002_moulu-pierre--missa-i-alma-redemptoris-mater-gloria.krn",
+      "label": "Missa I [Alma redemptoris mater], Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 3,
+      "notes": "F5 E5 F5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-004_moulu-pierre--missa-i-alma-redemptoris-mater-sanctus.krn",
+      "label": "Missa I [Alma redemptoris mater], Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 3,
+      "notes": "F5 E5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     2,
+     -2
+    ],
+    "z": 5.8,
+    "works": 3,
+    "per_1000": 5.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-003_moulu-pierre--missa-i-alma-redemptoris-mater-credo.krn",
+      "label": "Missa I [Alma redemptoris mater], Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 77,
+      "notes": "D5 C5 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-002_moulu-pierre--missa-i-alma-redemptoris-mater-gloria.krn",
+      "label": "Missa I [Alma redemptoris mater], Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 28,
+      "notes": "D5 C5 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-004_moulu-pierre--missa-i-alma-redemptoris-mater-sanctus.krn",
+      "label": "Missa I [Alma redemptoris mater], Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 33,
+      "notes": "D5 C5 Bb4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.5,
+    "works": 4,
+    "per_1000": 9.6,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-002_moulu-pierre--missa-i-alma-redemptoris-mater-gloria.krn",
+      "label": "Missa I [Alma redemptoris mater], Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 14,
+      "notes": "D5 C5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-003_moulu-pierre--missa-i-alma-redemptoris-mater-credo.krn",
+      "label": "Missa I [Alma redemptoris mater], Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 17,
+      "notes": "D5 C5 C5 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-004_moulu-pierre--missa-i-alma-redemptoris-mater-sanctus.krn",
+      "label": "Missa I [Alma redemptoris mater], Sanctus, movement 4 (PL-Kk Kk.I.2, kern)",
+      "bar": 16,
+      "notes": "D5 C5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     1,
+     -2
+    ],
+    "z": 5.1,
+    "works": 3,
+    "per_1000": 5.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-002_moulu-pierre--missa-i-alma-redemptoris-mater-gloria.krn",
+      "label": "Missa I [Alma redemptoris mater], Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 14,
+      "notes": "C5 D5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-003_moulu-pierre--missa-i-alma-redemptoris-mater-credo.krn",
+      "label": "Missa I [Alma redemptoris mater], Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 12,
+      "notes": "F4 G4 F4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-001_moulu-pierre--missa-i-alma-redemptoris-mater-kyrie.krn",
+      "label": "Missa I [Alma redemptoris mater], Kyrie, movement 1 (PL-Kk Kk.I.2, kern)",
+      "bar": 27,
+      "notes": "C5 D5 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -5
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 5.2,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-002_moulu-pierre--missa-i-alma-redemptoris-mater-gloria.krn",
+      "label": "Missa I [Alma redemptoris mater], Gloria, movement 2 (PL-Kk Kk.I.2, kern)",
+      "bar": 28,
+      "notes": "C5 Bb4 C5 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-003_moulu-pierre--missa-i-alma-redemptoris-mater-credo.krn",
+      "label": "Missa I [Alma redemptoris mater], Credo, movement 3 (PL-Kk Kk.I.2, kern)",
+      "bar": 57,
+      "notes": "C5 Bb4 C5 G4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-2--004-005_moulu-pierre--missa-i-alma-redemptoris-mater-agnus-dei.krn",
+      "label": "Missa I [Alma redemptoris mater], Agnus Dei, movement 5 (PL-Kk Kk.I.2, kern)",
+      "bar": 54,
+      "notes": "C5 Bb4 C5 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 692,
+   "composers": 38
+  }
+ }
+]

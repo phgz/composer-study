@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Edward German",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.45612699156513586,
+   "repeats": 0.19873672289909403,
+   "leaps": 0.1574922875663855,
+   "move": 2.997986646289251,
+   "rising": 0.5097144993984327,
+   "leap answered": 0.3569862155388471,
+   "range": 10.666666666666666,
+   "register": 70.0,
+   "even": 0.31571038076199026,
+   "long-short": 0.14326737655202426,
+   "rhythm variety": 2.686496338512858,
+   "surprise, pitch": 2.363823655005003,
+   "surprise, rhythm": 1.735585394724602,
+   "density": 4.176741091319857,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 306,
+   "composers": 37
+  }
+ }
+]

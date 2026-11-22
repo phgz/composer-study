@@ -60,4 +60,23 @@ Measured studies of the composers in score-reader's catalogue, for composer-blen
   - **The controls:** in 27, 29 and 49 (rated 5) and 46 (4.75), nothing is flat for 30 s, and the texture never for 8 s.
   - **What the check can't say:** a pulse of one note is the easiest thing to call flat, so this shows the critic sees what Philip heard, not that it would catch subtler cases.
 
+## Profiles of narrow units
+
+A narrow unit is a composer in one kind of piece and one period: Chopin's mazurkas of his Paris years, Beethoven's late piano sonatas.
+
+- **`study/facts.py <score-reader> <ready-read copy> -o facts.json`**: each work's kinds, forces, years and catalogue numbers, from a score-reader checkout's `facts`.
+- **`study/profiles.py <ready-read copy> --facts facts.json [--surprise s.json] -o profiles`**: the profiles.
+  - **Who is in a unit:** a work belongs to a unit for each kind its facts give it, for its forces, in the period `data/periods.json` gives it. A work no period holds counts in the composer's "any period".
+  - **What is measured,** each work weighing one: the melody's moves, range, register and rhythm; the ear's surprise; the texture's density.
+    - The melody is the voice in a work for a voice and accompaniment, where the reading names its parts; elsewhere it is the top line.
+  - **Who it is set against:** the other composers' works of the same kind, for the same forces, in the same shared period. Where those are fewer than 20, the comparison widens step by step and says so. The others are weighted as at a shared level: a composer at most a tenth, a collection at most a third.
+  - **A trait:** a measure where a work of the unit stands above a work of the others 75 times in 100 or more, or 25 or fewer.
+  - **Its figures:** four-note figures of the melody, with their rhythm, that the unit uses far more than the others, each with the bars where it stands.
+- **`profiles/`**: the profiles of catalogue version 24, one Markdown page and one JSON file a composer, with `index.json`.
+- **Known limits:**
+  - About a quarter of the works have no kind in score-reader's facts, and are in no unit.
+  - The ear's surprise comes from an ear that learnt these works too. A composer the catalogue holds much of is better known to it, so read surprise against composers of the same size.
+  - Harmony is not measured yet. DCML's and When in Rome's labels (1,868 works) come next, marked as labelled, with harmony inferred from the notes marked as inferred.
+  - The facts come from a score-reader checkout, not from the ready-read copy.
+
 Run the tests: `python3 -m pytest -q tests`.

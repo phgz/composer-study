@@ -1,0 +1,270 @@
+[
+ {
+  "composer": "Vincenzo Ruffo",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.6998097129595542,
+   "repeats": 0.11770986327984057,
+   "leaps": 0.08129928434210372,
+   "move": 2.351620960080033,
+   "rising": 0.47613191364899343,
+   "leap answered": 0.5056277056277056,
+   "range": 10.6,
+   "register": 64.6,
+   "even": 0.2991676839181578,
+   "long-short": 0.15335659187286685,
+   "rhythm variety": 3.1047345495546894,
+   "surprise, pitch": 2.3485160553877074,
+   "surprise, rhythm": 2.383488003309657,
+   "density": 1.1552526714068694,
+   "lines": 4.4
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 3.1047345495546894,
+    "others": 2.827043159056782,
+    "auc": 0.8729326799706427
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.3485160553877074,
+    "others": 2.540833776601139,
+    "auc": 0.21986659416693385
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.383488003309657,
+    "others": 2.2009684964807845,
+    "auc": 0.7666728386898646
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     4
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.7,
+    "works": 4,
+    "per_1000": 5.9,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-002_ruffo-vincenzo--missa-alma-redemptoris-mater-et-in-terra.krn",
+      "label": "Missa Alma redemptoris mater, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 23,
+      "notes": "F4 E4 F4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-003_ruffo-vincenzo--missa-alma-redemptoris-mater-patrem.krn",
+      "label": "Missa Alma redemptoris mater, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 25,
+      "notes": "F4 E4 F4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-005_ruffo-vincenzo--missa-alma-redemptoris-mater-agnus-dei.krn",
+      "label": "Missa Alma redemptoris mater, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 23,
+      "notes": "F4 E4 F4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 3.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-005_ruffo-vincenzo--missa-alma-redemptoris-mater-agnus-dei.krn",
+      "label": "Missa Alma redemptoris mater, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 17,
+      "notes": "A4 G4 E4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-003_ruffo-vincenzo--missa-alma-redemptoris-mater-patrem.krn",
+      "label": "Missa Alma redemptoris mater, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 67,
+      "notes": "D4 C4 A3 Bb3"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-002_ruffo-vincenzo--missa-alma-redemptoris-mater-et-in-terra.krn",
+      "label": "Missa Alma redemptoris mater, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 136,
+      "notes": "A4 G4 E4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 4.6,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-005_ruffo-vincenzo--missa-alma-redemptoris-mater-agnus-dei.krn",
+      "label": "Missa Alma redemptoris mater, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 20,
+      "notes": "C4 D4 E4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-004_ruffo-vincenzo--missa-alma-redemptoris-mater-sanctus.krn",
+      "label": "Missa Alma redemptoris mater, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 13,
+      "notes": "C4 D4 E4 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-002_ruffo-vincenzo--missa-alma-redemptoris-mater-et-in-terra.krn",
+      "label": "Missa Alma redemptoris mater, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 77,
+      "notes": "F4 G4 A4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.4,
+    "works": 3,
+    "per_1000": 3.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-003_ruffo-vincenzo--missa-alma-redemptoris-mater-patrem.krn",
+      "label": "Missa Alma redemptoris mater, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 5,
+      "notes": "C4 F4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-004_ruffo-vincenzo--missa-alma-redemptoris-mater-sanctus.krn",
+      "label": "Missa Alma redemptoris mater, Sanctus, movement 4 (PL-Kk Kk.I.1, kern)",
+      "bar": 35,
+      "notes": "C4 F4 E4 D4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-001_ruffo-vincenzo--missa-alma-redemptoris-mater-kyrie.krn",
+      "label": "Missa Alma redemptoris mater, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 25,
+      "notes": "C4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 5.9,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-003_ruffo-vincenzo--missa-alma-redemptoris-mater-patrem.krn",
+      "label": "Missa Alma redemptoris mater, Patrem, movement 3 (PL-Kk Kk.I.1, kern)",
+      "bar": 180,
+      "notes": "G4 A4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-005_ruffo-vincenzo--missa-alma-redemptoris-mater-agnus-dei.krn",
+      "label": "Missa Alma redemptoris mater, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 84,
+      "notes": "G4 A4 G4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-001_ruffo-vincenzo--missa-alma-redemptoris-mater-kyrie.krn",
+      "label": "Missa Alma redemptoris mater, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 41,
+      "notes": "G4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     0
+    ],
+    "rhythm": [
+     2,
+     -1,
+     -2
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 3.3,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-002_ruffo-vincenzo--missa-alma-redemptoris-mater-et-in-terra.krn",
+      "label": "Missa Alma redemptoris mater, Et in terra, movement 2 (PL-Kk Kk.I.1, kern)",
+      "bar": 86,
+      "notes": "A4 G4 F4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-005_ruffo-vincenzo--missa-alma-redemptoris-mater-agnus-dei.krn",
+      "label": "Missa Alma redemptoris mater, Agnus Dei, movement 5 (PL-Kk Kk.I.1, kern)",
+      "bar": 64,
+      "notes": "A4 G4 F4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-1--002-001_ruffo-vincenzo--missa-alma-redemptoris-mater-kyrie.krn",
+      "label": "Missa Alma redemptoris mater, Kyrie, movement 1 (PL-Kk Kk.I.1, kern)",
+      "bar": 11,
+      "notes": "A4 G4 F4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 692,
+   "composers": 38
+  }
+ }
+]

@@ -1,0 +1,842 @@
+[
+ {
+  "composer": "William Byrd",
+  "kind": "hymn",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.6261879740135823,
+   "repeats": 0.10929292775097155,
+   "leaps": 0.11123437731629505,
+   "move": 2.5915032302056007,
+   "rising": 0.5093631777702547,
+   "leap answered": 0.272068511198946,
+   "range": 11.875,
+   "register": 68.0,
+   "even": 0.6101989655496658,
+   "long-short": 0.08752450477622414,
+   "rhythm variety": 1.8086978076450761,
+   "surprise, pitch": 2.1218802596673947,
+   "surprise, rhythm": 1.452897307683994,
+   "density": 2.105218209109971,
+   "lines": 4.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 67,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "William Byrd",
+  "kind": "madrigal",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 6,
+  "values": {
+   "steps": 0.5404273306698703,
+   "repeats": 0.11965323884894045,
+   "leaps": 0.16280694892492367,
+   "move": 2.7968964650438597,
+   "rising": 0.48552734456238117,
+   "leap answered": 0.35408550159801727,
+   "range": 10.166666666666666,
+   "register": 70.0,
+   "even": 0.3209377006065555,
+   "long-short": 0.17042380197971516,
+   "rhythm variety": 3.0497228953600293,
+   "surprise, pitch": 2.919661288144427,
+   "surprise, rhythm": 2.2121592683627695,
+   "density": 2.511585125114537,
+   "lines": 4.833333333333333
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.11965323884894045,
+    "others": 0.23673452621311833,
+    "auc": 0.11682497505752039
+   },
+   {
+    "measure": "leaps",
+    "value": 0.16280694892492367,
+    "others": 0.09413626902605227,
+    "auc": 0.9213701056746686
+   },
+   {
+    "measure": "move",
+    "value": 2.7968964650438597,
+    "others": 2.4769747543049685,
+    "auc": 0.8402205118807647
+   },
+   {
+    "measure": "even",
+    "value": 0.3209377006065555,
+    "others": 0.3912728545604561,
+    "auc": 0.21009712296133407
+   },
+   {
+    "measure": "long-short",
+    "value": 0.17042380197971516,
+    "others": 0.12275719680015491,
+    "auc": 0.7715879705984158
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.0497228953600293,
+    "others": 2.711256701126384,
+    "auc": 0.8744375216337833
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.919661288144427,
+    "others": 2.691659874369839,
+    "auc": 0.7729521715228147
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 3.1,
+    "works": 3,
+    "per_1000": 3.5,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-FAI.mxl",
+      "label": "The fair young virgin - But not so soon (CPDL)",
+      "bar": 62,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-FR2.mxl",
+      "label": "From Citheron the warlike boy is fled - There careless thoughts are freed - If Love be just (CPDL)",
+      "bar": 24,
+      "notes": "C5 Bb4 A4 G4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-TH1.mxl",
+      "label": "This sweet and merry month of May (a 6) (CPDL)",
+      "bar": 86,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 209,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "William Byrd",
+  "kind": "magnificat",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 7,
+  "values": {
+   "steps": 0.6195730110069418,
+   "repeats": 0.1350721127019576,
+   "leaps": 0.11532008454873723,
+   "move": 2.5241677522978274,
+   "rising": 0.4581773652848458,
+   "leap answered": 0.38787609740017354,
+   "range": 9.857142857142858,
+   "register": 69.42857142857143,
+   "even": 0.3148639842618482,
+   "long-short": 0.15425193031191994,
+   "rhythm variety": 3.0061888370801966,
+   "surprise, pitch": 2.70480861686459,
+   "surprise, rhythm": 2.420940251917746,
+   "density": 2.3515755601976713,
+   "lines": 6.714285714285714
+  },
+  "traits": [
+   {
+    "measure": "move",
+    "value": 2.5241677522978274,
+    "others": 2.3258631423963156,
+    "auc": 0.8006535948516783
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.70480861686459,
+    "others": 2.3277264165023928,
+    "auc": 0.7861811392040563
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.420940251917746,
+    "others": 2.085649749698887,
+    "auc": 0.8496732026369883
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 43,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "William Byrd",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 4,
+  "values": {
+   "steps": 0.601409557064145,
+   "repeats": 0.20102357585131586,
+   "leaps": 0.08893802058233446,
+   "move": 2.3522562755708023,
+   "rising": 0.46394737449527035,
+   "leap answered": 0.5400780412248303,
+   "range": 9.7625,
+   "register": 70.5,
+   "even": 0.28125728453858767,
+   "long-short": 0.16319194101746645,
+   "rhythm variety": 2.90771902123508,
+   "surprise, pitch": 2.7820134225801594,
+   "surprise, rhythm": 2.2636520474559987,
+   "density": 2.4569814014243088,
+   "lines": 6.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 592,
+   "composers": 27
+  }
+ },
+ {
+  "composer": "William Byrd",
+  "kind": "motet",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 159,
+  "values": {
+   "steps": 0.6156466030682504,
+   "repeats": 0.12238958741339642,
+   "leaps": 0.12582067423612284,
+   "move": 2.554882845550617,
+   "rising": 0.47168375086082187,
+   "leap answered": 0.4260402257419114,
+   "range": 10.49308176100629,
+   "register": 69.48113207547169,
+   "even": 0.3045810598015339,
+   "long-short": 0.1592400561054985,
+   "rhythm variety": 2.9146965607695137,
+   "surprise, pitch": 2.8433609623295686,
+   "surprise, rhythm": 2.266211529558696,
+   "density": 1.7646673413321738,
+   "lines": 4.880503144654088
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.12582067423612284,
+    "others": 0.07530819366921064,
+    "auc": 0.8368189277137011
+   },
+   {
+    "measure": "move",
+    "value": 2.554882845550617,
+    "others": 2.287942637610292,
+    "auc": 0.7929024044658293
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8433609623295686,
+    "others": 2.5219925897250905,
+    "auc": 0.7629636411725949
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.266211529558696,
+    "others": 1.940530485515515,
+    "auc": 0.7746238898351363
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     -5
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 12.3,
+    "works": 57,
+    "per_1000": 3.0,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/CPDL_Benigne_fac,_Domine.mxl#2",
+      "label": "Benigne fac, Domine, movement 2 (CPDL)",
+      "bar": 27,
+      "notes": "D5 C#5 D5 A4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-DIF.mxl",
+      "label": "Diffusa est gratia - Propter veritatem - Vultum tuum (CPDL)",
+      "bar": 51,
+      "notes": "D5 C#5 D5 A4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/03-byrd--domine_praestolamur----0-score.mxl",
+      "label": "Domine praestolamur - Veni Domine noli tardare (CPDL)",
+      "bar": 20,
+      "notes": "A4 Ab4 A4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 10.5,
+    "works": 83,
+    "per_1000": 5.1,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/William_Byrd_-_Peccavi_super_numerum.mxl",
+      "label": "Peccavi super numerum (CPDL)",
+      "bar": 17,
+      "notes": "C5 C5 B4 C5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/09-byrd--vide_domine_sed_veni_domine--comb--0-score.mxl",
+      "label": "Vide Domine afflictionem - Sed veni Domine (CPDL)",
+      "bar": 18,
+      "notes": "G4 G4 F#4 G4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-APP.mxl",
+      "label": "Apparebit in finem (CPDL)",
+      "bar": 14,
+      "notes": "D5 D5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 9.3,
+    "works": 60,
+    "per_1000": 2.6,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/24-byrd--domine_secundum_actum_meum----0-score.mxl",
+      "label": "Domine secundum actum meum (CPDL)",
+      "bar": 30,
+      "notes": "B4 C5 D5 E5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-DIF.mxl",
+      "label": "Diffusa est gratia - Propter veritatem - Vultum tuum (CPDL)",
+      "bar": 4,
+      "notes": "A4 Bb4 C5 D5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-PAN.mxl",
+      "label": "Pange lingua gloriosi (CPDL)",
+      "bar": 55,
+      "notes": "E4 F4 G4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 9.1,
+    "works": 60,
+    "per_1000": 2.4,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/28-byrd--laetentur_coeli----0-score.mxl",
+      "label": "Laetentur coeli - Orietur in diebus (CPDL)",
+      "bar": 4,
+      "notes": "B4 C5 B4 C5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-QUE.mxl",
+      "label": "Quem terra, pontus, aethera (CPDL)",
+      "bar": 40,
+      "notes": "F#4 G4 F#4 G4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-AAM.mxl",
+      "label": "Alleluia. Ave Maria - Virga Jesse floruit (CPDL)",
+      "bar": 8,
+      "notes": "F#4 G4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 8.8,
+    "works": 51,
+    "per_1000": 2.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/16-byrd--vigilate----0-score.mxl",
+      "label": "Vigilate (CPDL)",
+      "bar": 30,
+      "notes": "D4 C4 C4 B3"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/28-byrd--laetentur_coeli----0-score.mxl",
+      "label": "Laetentur coeli - Orietur in diebus (CPDL)",
+      "bar": 36,
+      "notes": "G4 F4 F4 E4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/45-byrd--laudate_dominum_omnes_gentes----0-score.mxl",
+      "label": "Laudate Dominum omnes gentes (CPDL)",
+      "bar": 19,
+      "notes": "E5 D5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 8.1,
+    "works": 66,
+    "per_1000": 3.0,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-RE2.mxl",
+      "label": "Regina coeli laetare (CPDL)",
+      "bar": 11,
+      "notes": "F#4 E4 F#4 G4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/16-byrd--vigilate----0-score.mxl",
+      "label": "Vigilate (CPDL)",
+      "bar": 24,
+      "notes": "E4 D4 E4 F4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-HA3.mxl",
+      "label": "Haec dies - Alleluia Pascha nostrum (CPDL)",
+      "bar": 2,
+      "notes": "F#4 E4 F#4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 463,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "William Byrd",
+  "kind": "partsong",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 68,
+  "values": {
+   "steps": 0.5987463731681663,
+   "repeats": 0.09550565044872886,
+   "leaps": 0.13840318885622455,
+   "move": 2.6494677059545135,
+   "rising": 0.47551129513897644,
+   "leap answered": 0.408720118579293,
+   "range": 10.44485294117647,
+   "register": 70.26470588235294,
+   "even": 0.3286407213868259,
+   "long-short": 0.14985403849340537,
+   "rhythm variety": 2.8918826644885685,
+   "surprise, pitch": 2.756490537886402,
+   "surprise, rhythm": 2.133630925205738,
+   "density": 2.0157711866778176,
+   "lines": 4.544117647058823
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.09550565044872886,
+    "others": 0.22932960547391765,
+    "auc": 0.1571428571428571
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.8918826644885685,
+    "others": 2.4553276192652205,
+    "auc": 0.7831932773109243
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.133630925205738,
+    "others": 1.7196028950488325,
+    "auc": 0.7798319327731091
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 35,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "William Byrd",
+  "kind": "song",
+  "forces": null,
+  "period": "all",
+  "era": "Before 1600",
+  "works": 3,
+  "values": {
+   "steps": 0.5934779697334941,
+   "repeats": 0.09351145038167939,
+   "leaps": 0.1579951787866613,
+   "move": 2.7747425802543915,
+   "rising": 0.512743316587689,
+   "leap answered": 0.4475933423301844,
+   "range": 12.033333333333337,
+   "register": 71.66666666666667,
+   "even": 0.3520720720720721,
+   "long-short": 0.10053130053130054,
+   "rhythm variety": 2.7454243210891316,
+   "surprise, pitch": 3.0818690463291314,
+   "surprise, rhythm": 2.3215221367466756,
+   "density": 2.3782081236744452,
+   "lines": 5.333333333333333
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 295,
+   "composers": 22
+  }
+ },
+ {
+  "composer": "William Byrd",
+  "kind": "song",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 26,
+  "values": {
+   "steps": 0.6372996426856372,
+   "repeats": 0.10235609015206304,
+   "leaps": 0.12660985188603938,
+   "move": 2.498738957991437,
+   "rising": 0.4576601331984064,
+   "leap answered": 0.440723034906368,
+   "range": 10.01730769230769,
+   "register": 70.28846153846153,
+   "even": 0.3228400253360869,
+   "long-short": 0.17218216957306895,
+   "rhythm variety": 2.894043466661093,
+   "surprise, pitch": 2.7761684566531595,
+   "surprise, rhythm": 2.234639517951655,
+   "density": 1.7146581549734112,
+   "lines": 4.346153846153846
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.12660985188603938,
+    "others": 0.07930268058542016,
+    "auc": 0.7843552948243857
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -3,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 6,
+    "per_1000": 2.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/07-byrd--help_lord_for_wasted_are_those_men----0-score.mxl",
+      "label": "Help, Lord, for wasted are those men (CPDL)",
+      "bar": 25,
+      "notes": "E5 F5 D5 E5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/07-byrd--o_sacrum_convivium----0-score.mxl",
+      "label": "O sacrum convivium (CPDL)",
+      "bar": 28,
+      "notes": "B4 C5 A4 B4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-PAN.mxl",
+      "label": "Pange lingua gloriosi (CPDL)",
+      "bar": 60,
+      "notes": "F#4 G4 E4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     1,
+     -2
+    ],
+    "z": 4.1,
+    "works": 9,
+    "per_1000": 2.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/Oculi_Omnium_Byrd.mxl",
+      "label": "Oculi omnium (CPDL)",
+      "bar": 20,
+      "notes": "E4 A4 G4 F#4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-BLE.mxl",
+      "label": "Blessed is he that fears the Lord (CPDL)",
+      "bar": 13,
+      "notes": "D5 G5 F5 E5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-EVE.mxl",
+      "label": "Even from the depth (CPDL)",
+      "bar": 12,
+      "notes": "A4 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.0,
+    "works": 6,
+    "per_1000": 2.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/BVen.mxl",
+      "label": "Ab ortu solis - Venite comedite (CPDL)",
+      "bar": 5,
+      "notes": "F5 E5 F5 F5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-BLE.mxl",
+      "label": "Blessed is he that fears the Lord (CPDL)",
+      "bar": 23,
+      "notes": "C5 B4 C5 C5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-LOR.mxl",
+      "label": "Lord in thy wrath reprove me not (CPDL)",
+      "bar": 4,
+      "notes": "C5 B4 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 7,
+    "per_1000": 2.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-OSA.mxl",
+      "label": "O salutaris hostia (Gradualia) (CPDL)",
+      "bar": 23,
+      "notes": "E4 D4 C#4 D4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-LO5.mxl",
+      "label": "Look down O Lord (CPDL)",
+      "bar": 12,
+      "notes": "G4 F4 E4 F4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-BEU.mxl",
+      "label": "Be unto me (CPDL)",
+      "bar": 13,
+      "notes": "A4 G4 F#4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-AT1.mxl",
+      "label": "Attend mine humble prayer (CPDL)",
+      "bar": 44,
+      "notes": "A4 C5 B4 A4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-LOR.mxl",
+      "label": "Lord in thy wrath reprove me not (CPDL)",
+      "bar": 8,
+      "notes": "D5 F5 E5 D5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-LO2.mxl",
+      "label": "Lord in thy wrath correct me not (CPDL)",
+      "bar": 13,
+      "notes": "G4 Bb4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 3.5,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-PAN.mxl",
+      "label": "Pange lingua gloriosi (CPDL)",
+      "bar": 60,
+      "notes": "E4 F#4 F#4 G4"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-BLE.mxl",
+      "label": "Blessed is he that fears the Lord (CPDL)",
+      "bar": 20,
+      "notes": "D5 E5 E5 F5"
+     },
+     {
+      "work": "cpdl-3:William_Byrd/BYRD-LO1.mxl",
+      "label": "Lord hear my prayer instantly (CPDL)",
+      "bar": 8,
+      "notes": "G4 A4 A4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 256,
+   "composers": 19
+  }
+ }
+]

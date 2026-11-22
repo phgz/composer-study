@@ -1,0 +1,288 @@
+[
+ {
+  "composer": "Stefan Bułakowski",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.47511214450934863,
+   "repeats": 0.2484401872748768,
+   "leaps": 0.11614366441238722,
+   "move": 2.821202575552565,
+   "rising": 0.5120751496920001,
+   "leap answered": 0.31809827281795244,
+   "range": 12.866666666666665,
+   "register": 73.58333333333333,
+   "even": 0.6547192623610096,
+   "long-short": 0.05498491857060336,
+   "rhythm variety": 1.8047741715516048,
+   "surprise, pitch": 2.259787722688159,
+   "surprise, rhythm": 1.4193041727431852,
+   "density": 10.79942326034674,
+   "lines": 10.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.5120751496920001,
+    "others": 0.4620236984899316,
+    "auc": 0.7822716280936494
+   },
+   {
+    "measure": "even",
+    "value": 0.6547192623610096,
+    "others": 0.45321775582038304,
+    "auc": 0.8597048679511953
+   },
+   {
+    "measure": "long-short",
+    "value": 0.05498491857060336,
+    "others": 0.11264383119885127,
+    "auc": 0.20189469645384261
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.8047741715516048,
+    "others": 2.489950698575694,
+    "auc": 0.1386186561264531
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.259787722688159,
+    "others": 2.8239581669472056,
+    "auc": 0.12408723615897994
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.4193041727431852,
+    "others": 1.8079327190339964,
+    "auc": 0.1677379411268081
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     4,
+     3,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.1,
+    "works": 6,
+    "per_1000": 6.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-001_bulakowski-stefan--msza-as-kyrie.krn",
+      "label": "Msza As, Kyrie, movement 1 (PL-CZ III-47, kern)",
+      "bar": 7,
+      "notes": "Eb4 G4 Bb4 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-002-pc0_bulakowski-stefan--msza-as-gloria-pc0.krn",
+      "label": "Msza As, Gloria, movement 2 (PL-CZ III-47, kern)",
+      "bar": 2,
+      "notes": "Eb4 G4 Bb4 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-003_bulakowski-stefan--msza-as-justus-ut-palma.krn",
+      "label": "Msza As, Justus ut palma, movement 3 (PL-CZ III-47, kern)",
+      "bar": 18,
+      "notes": "Ab4 C5 Eb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 7.2,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-001_bulakowski-stefan--msza-as-kyrie.krn",
+      "label": "Msza As, Kyrie, movement 1 (PL-CZ III-47, kern)",
+      "bar": 10,
+      "notes": "C5 Bb4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-005_bulakowski-stefan--msza-as-et-incarnatus.krn",
+      "label": "Msza As, Et incarnatus, movement 5 (PL-CZ III-47, kern)",
+      "bar": 2,
+      "notes": "C5 Bb4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-002-pc0_bulakowski-stefan--msza-as-gloria-pc0.krn",
+      "label": "Msza As, Gloria, movement 2 (PL-CZ III-47, kern)",
+      "bar": 18,
+      "notes": "D5 C5 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 5,
+    "per_1000": 5.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-001_bulakowski-stefan--msza-as-kyrie.krn",
+      "label": "Msza As, Kyrie, movement 1 (PL-CZ III-47, kern)",
+      "bar": 2,
+      "notes": "C4 Eb4 Ab4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-004_bulakowski-stefan--msza-as-credo.krn",
+      "label": "Msza As, Credo, movement 4 (PL-CZ III-47, kern)",
+      "bar": 21,
+      "notes": "G4 Bb4 Eb5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-008_bulakowski-stefan--msza-as-sanctus.krn",
+      "label": "Msza As, Sanctus, movement 8 (PL-CZ III-47, kern)",
+      "bar": 2,
+      "notes": "D4 F4 Bb4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.9,
+    "works": 5,
+    "per_1000": 5.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-001_bulakowski-stefan--msza-as-kyrie.krn",
+      "label": "Msza As, Kyrie, movement 1 (PL-CZ III-47, kern)",
+      "bar": 3,
+      "notes": "Eb4 Ab4 C5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-004_bulakowski-stefan--msza-as-credo.krn",
+      "label": "Msza As, Credo, movement 4 (PL-CZ III-47, kern)",
+      "bar": 21,
+      "notes": "Bb4 Eb5 G5 Bb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-008_bulakowski-stefan--msza-as-sanctus.krn",
+      "label": "Msza As, Sanctus, movement 8 (PL-CZ III-47, kern)",
+      "bar": 1,
+      "notes": "F3 Bb3 D4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 4,
+    "per_1000": 5.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-001_bulakowski-stefan--msza-as-kyrie.krn",
+      "label": "Msza As, Kyrie, movement 1 (PL-CZ III-47, kern)",
+      "bar": 5,
+      "notes": "G5 G5 F5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-007_bulakowski-stefan--msza-as-veritas-mea.krn",
+      "label": "Msza As, Veritas mea, movement 7 (PL-CZ III-47, kern)",
+      "bar": 13,
+      "notes": "F5 F5 Eb5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-006_bulakowski-stefan--msza-as-et-resurrexit.krn",
+      "label": "Msza As, Et resurrexit, movement 6 (PL-CZ III-47, kern)",
+      "bar": 16,
+      "notes": "F5 F5 Eb5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 4,
+    "per_1000": 4.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-010_bulakowski-stefan--msza-as-benedictus.krn",
+      "label": "Msza As, Benedictus, movement 10 (PL-CZ III-47, kern)",
+      "bar": 5,
+      "notes": "Eb5 D5 Eb5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-005_bulakowski-stefan--msza-as-et-incarnatus.krn",
+      "label": "Msza As, Et incarnatus, movement 5 (PL-CZ III-47, kern)",
+      "bar": 8,
+      "notes": "Eb4 D4 Eb4 F4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-47--001-002-pc0_bulakowski-stefan--msza-as-gloria-pc0.krn",
+      "label": "Msza As, Gloria, movement 2 (PL-CZ III-47, kern)",
+      "bar": 3,
+      "notes": "Bb4 A4 Bb4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 541,
+   "composers": 37
+  }
+ }
+]

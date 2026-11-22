@@ -1,0 +1,146 @@
+[
+ {
+  "composer": "Georgius Luna",
+  "kind": "magnificat",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 4,
+  "values": {
+   "steps": 0.37357015717846737,
+   "repeats": 0.4773554421301436,
+   "leaps": 0.09117700520549973,
+   "move": 2.8233988456754155,
+   "rising": 0.4448434354042808,
+   "leap answered": 0.14449547302179327,
+   "range": 12.0,
+   "register": 76.5,
+   "even": 0.5561999783168791,
+   "long-short": 0.05430909269769116,
+   "rhythm variety": 2.24492037604236,
+   "surprise, pitch": 2.0046989650333105,
+   "surprise, rhythm": 1.6625561125363648,
+   "density": 9.245258105796637,
+   "lines": 7.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 111,
+   "composers": 29
+  }
+ },
+ {
+  "composer": "Georgius Luna",
+  "kind": "mass",
+  "forces": null,
+  "period": "any period",
+  "era": null,
+  "works": 49,
+  "values": {
+   "steps": 0.44960846154893164,
+   "repeats": 0.3329522276595486,
+   "leaps": 0.10884981343094122,
+   "move": 2.8203341208047985,
+   "rising": 0.4431983119401869,
+   "leap answered": 0.22110708226093523,
+   "range": 12.864285714285712,
+   "register": 75.08163265306122,
+   "even": 0.5730746297866497,
+   "long-short": 0.07502956552959024,
+   "rhythm variety": 2.047942788043627,
+   "surprise, pitch": 2.21963289710268,
+   "surprise, rhythm": 1.5587218667650062,
+   "density": 8.119970632473583,
+   "lines": 6.408163265306122
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.21963289710268,
+    "others": 2.6702862120743913,
+    "auc": 0.2342745317305004
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 3.4,
+    "works": 15,
+    "per_1000": 3.0,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--189-a-v-19--001-002_luna-georgius--missa-in-d-gloria.krn",
+      "label": "Missa in D, Gloria, movement 2 (PL-SA 189/A V 19, kern)",
+      "bar": 25,
+      "notes": "E5 E5 E5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--189-a-v-19--001-001_luna-georgius--missa-in-d-kyrie.krn",
+      "label": "Missa in D, Kyrie, movement 1 (PL-SA 189/A V 19, kern)",
+      "bar": 25,
+      "notes": "F#5 F#5 F#5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--228-a-vi-32--001-010_luna-georgius--litania-ex-d-rosa-mistica.krn",
+      "label": "Litania ex D, Rosa mistica, movement 10 (PL-SA 228/A VI 32, kern)",
+      "bar": 5,
+      "notes": "E5 E5 E5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 24,
+    "per_1000": 4.0,
+    "others_per_1000": 1.7,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--230-a-vi-34--001-012_luna-georgius--litania-agnus-dei.krn",
+      "label": "Litania, Agnus Dei, movement 12 (PL-SA 230/A VI 34, kern)",
+      "bar": 31,
+      "notes": "D5 D5 D5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--230-a-vi-34--001-005_luna-georgius--litania-mater-christi.krn",
+      "label": "Litania, Mater Christi, movement 5 (PL-SA 230/A VI 34, kern)",
+      "bar": 35,
+      "notes": "E5 E5 E5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--398-a-viii--001-003_luna-georgius--missa-solemnis-credo.krn",
+      "label": "Missa Solemnis, Credo, movement 3 (PL-SA 398/A VIII, kern)",
+      "bar": 17,
+      "notes": "E5 E5 E5 F#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 73,
+   "composers": 9
+  }
+ }
+]

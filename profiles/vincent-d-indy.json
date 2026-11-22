@@ -1,0 +1,252 @@
+[
+ {
+  "composer": "Vincent d'Indy",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 5,
+  "values": {
+   "steps": 0.5777833602936404,
+   "repeats": 0.0632265726102895,
+   "leaps": 0.18800738481141602,
+   "move": 3.3982689781268127,
+   "rising": 0.518142056853891,
+   "leap answered": 0.27467392342202357,
+   "range": 27.8,
+   "register": 73.4,
+   "even": 0.5398613470252748,
+   "long-short": 0.1220491287168383,
+   "rhythm variety": 2.331605090374767,
+   "surprise, pitch": 2.878842801267763,
+   "surprise, rhythm": 1.7647271665199695,
+   "density": 4.54141133658709,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.0632265726102895,
+    "others": 0.13427723868933616,
+    "auc": 0.18983145838241114
+   },
+   {
+    "measure": "rising",
+    "value": 0.518142056853891,
+    "others": 0.4783078329551125,
+    "auc": 0.7876620200849003
+   },
+   {
+    "measure": "range",
+    "value": 27.8,
+    "others": 23.00779285844042,
+    "auc": 0.8778855873753549
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7647271665199695,
+    "others": 1.411394447204194,
+    "auc": 0.7772868264423196
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 6.2,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#3",
+      "label": "String Quartet No.1, Op.35, movement 3: Assez modéré  ( ) et dans le sentiment d (OpenScore)",
+      "bar": 149,
+      "notes": "Bb5 C#6 Bb5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#4",
+      "label": "String Quartet No.1, Op.35, movement 4: Assez lent et librement déclamé Récit. (OpenScore)",
+      "bar": 96,
+      "notes": "D5 F5 D5 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#5",
+      "label": "String Quartet No.1, Op.35, movement 5 (OpenScore)",
+      "bar": 506,
+      "notes": "F#5 A5 F#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 3,
+    "per_1000": 1.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#3",
+      "label": "String Quartet No.1, Op.35, movement 3: Assez modéré  ( ) et dans le sentiment d (OpenScore)",
+      "bar": 13,
+      "notes": "E4 D4 C4 D4"
+     },
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#1",
+      "label": "String Quartet No.1, Op.35, movement 1 (OpenScore)",
+      "bar": 56,
+      "notes": "C5 Bb4 Ab4 Bb4"
+     },
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#4",
+      "label": "String Quartet No.1, Op.35, movement 4: Assez lent et librement déclamé Récit. (OpenScore)",
+      "bar": 342,
+      "notes": "Bb4 Ab4 F#4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.6,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#4",
+      "label": "String Quartet No.1, Op.35, movement 4: Assez lent et librement déclamé Récit. (OpenScore)",
+      "bar": 44,
+      "notes": "E5 F#5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#1",
+      "label": "String Quartet No.1, Op.35, movement 1 (OpenScore)",
+      "bar": 114,
+      "notes": "G4 A4 G4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.4,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#3",
+      "label": "String Quartet No.1, Op.35, movement 3: Assez modéré  ( ) et dans le sentiment d (OpenScore)",
+      "bar": 15,
+      "notes": "Bb4 C5 D5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#1",
+      "label": "String Quartet No.1, Op.35, movement 1 (OpenScore)",
+      "bar": 140,
+      "notes": "C5 D5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     1,
+     -2
+    ],
+    "z": 5.3,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#4",
+      "label": "String Quartet No.1, Op.35, movement 4: Assez lent et librement déclamé Récit. (OpenScore)",
+      "bar": 43,
+      "notes": "F#5 E5 F#5 E5"
+     },
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#1",
+      "label": "String Quartet No.1, Op.35, movement 1 (OpenScore)",
+      "bar": 113,
+      "notes": "A4 G4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -3,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#4",
+      "label": "String Quartet No.1, Op.35, movement 4: Assez lent et librement déclamé Récit. (OpenScore)",
+      "bar": 203,
+      "notes": "Eb5 C5 A4 F#4"
+     },
+     {
+      "work": "openscore-quartets:Indy,_Vincent_d’/String_Quartet_No.1,_Op.35/sq7354505.mxl#5",
+      "label": "String Quartet No.1, Op.35, movement 5 (OpenScore)",
+      "bar": 521,
+      "notes": "B6 Ab6 F6 D6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 254,
+   "composers": 32
+  }
+ }
+]

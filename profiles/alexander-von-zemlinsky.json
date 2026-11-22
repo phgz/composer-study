@@ -1,0 +1,258 @@
+[
+ {
+  "composer": "Alexander von Zemlinsky",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 9,
+  "values": {
+   "steps": 0.5203716387483748,
+   "repeats": 0.09544104516694855,
+   "leaps": 0.23704955639407455,
+   "move": 3.7356670003582897,
+   "rising": 0.4844247100610483,
+   "leap answered": 0.3015312012543464,
+   "range": 27.57222222222222,
+   "register": 74.11111111111111,
+   "even": 0.4691916563681663,
+   "long-short": 0.11045035669837046,
+   "rhythm variety": 2.62185022937901,
+   "surprise, pitch": 3.148338318867623,
+   "surprise, rhythm": 1.7406926718668057,
+   "density": 5.440272337582656,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.4691916563681663,
+    "others": 0.5679805848522249,
+    "auc": 0.2459649122807018
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.3,_Op.19/sq26269501.mxl#1",
+      "label": "String Quartet No.3, Op.19, movement 1 (OpenScore)",
+      "bar": 64,
+      "notes": "F5 F#5 F5 E5"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.2,_Op.15/sq10439083.mxl",
+      "label": "String Quartet No.2, Op.15 (OpenScore)",
+      "bar": 843,
+      "notes": "Ab4 A4 Ab4 G4"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.3,_Op.19/sq26269501.mxl#4",
+      "label": "String Quartet No.3, Op.19, movement 4: Burleske Sehr lebhaft (Allegro moderato  (OpenScore)",
+      "bar": 18,
+      "notes": "Ab6 A6 Ab6 G6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.3,_Op.19/sq26269501.mxl#4",
+      "label": "String Quartet No.3, Op.19, movement 4: Burleske Sehr lebhaft (Allegro moderato  (OpenScore)",
+      "bar": 16,
+      "notes": "D6 F6 Eb6 C#6"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.2,_Op.15/sq10439083.mxl",
+      "label": "String Quartet No.2, Op.15 (OpenScore)",
+      "bar": 3,
+      "notes": "E4 G4 F4 Eb4"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.3,_Op.19/sq26269501.mxl#3",
+      "label": "String Quartet No.3, Op.19, movement 3: Romanze Sehr mäßige  Andante sostenuto) (OpenScore)",
+      "bar": 8,
+      "notes": "E4 G4 F4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     5
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 0.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.1,_Op.4/sq8944152.mxl#4",
+      "label": "String Quartet No.1, Op.4, movement 4: Vivace e con fuoco (OpenScore)",
+      "bar": 69,
+      "notes": "F#5 F5 F#5 B5"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.1,_Op.4/sq8944152.mxl#2",
+      "label": "String Quartet No.1, Op.4, movement 2: Allegretto dolcissimo (OpenScore)",
+      "bar": 95,
+      "notes": "E6 Eb6 E6 A6"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.2,_Op.15/sq10439083.mxl",
+      "label": "String Quartet No.2, Op.15 (OpenScore)",
+      "bar": 274,
+      "notes": "F#5 F5 F#5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.1,_Op.4/sq8944152.mxl#1",
+      "label": "String Quartet No.1, Op.4, movement 1 (OpenScore)",
+      "bar": 14,
+      "notes": "A4 B4 C5 B4"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.1,_Op.4/sq8944152.mxl#2",
+      "label": "String Quartet No.1, Op.4, movement 2: Allegretto dolcissimo (OpenScore)",
+      "bar": 8,
+      "notes": "B4 C#5 D5 C#5"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.2,_Op.15/sq10439083.mxl",
+      "label": "String Quartet No.2, Op.15 (OpenScore)",
+      "bar": 54,
+      "notes": "F4 G4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.1,_Op.4/sq8944152.mxl#1",
+      "label": "String Quartet No.1, Op.4, movement 1 (OpenScore)",
+      "bar": 18,
+      "notes": "E5 Eb5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.1,_Op.4/sq8944152.mxl#4",
+      "label": "String Quartet No.1, Op.4, movement 4: Vivace e con fuoco (OpenScore)",
+      "bar": 98,
+      "notes": "C#6 C6 C#6 B5"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.3,_Op.19/sq26269501.mxl#1",
+      "label": "String Quartet No.3, Op.19, movement 1 (OpenScore)",
+      "bar": 17,
+      "notes": "Bb5 A5 Bb5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 3,
+    "per_1000": 0.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.1,_Op.4/sq8944152.mxl#2",
+      "label": "String Quartet No.1, Op.4, movement 2: Allegretto dolcissimo (OpenScore)",
+      "bar": 66,
+      "notes": "G4 F4 E4 F4"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.2,_Op.15/sq10439083.mxl",
+      "label": "String Quartet No.2, Op.15 (OpenScore)",
+      "bar": 79,
+      "notes": "G6 F6 E6 F6"
+     },
+     {
+      "work": "openscore-quartets:Zemlinsky,_Alexander_von/String_Quartet_No.3,_Op.19/sq26269501.mxl#2",
+      "label": "String Quartet No.3, Op.19, movement 2: Thema mit Variationen Geheimnisvoll bewe (OpenScore)",
+      "bar": 60,
+      "notes": "C#5 B4 Bb4 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 109,
+   "composers": 19
+  }
+ }
+]

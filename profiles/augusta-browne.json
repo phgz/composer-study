@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Augusta Browne",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.6427731192460976,
+   "repeats": 0.16851776603909882,
+   "leaps": 0.10922922848969173,
+   "move": 2.486861523031736,
+   "rising": 0.4756214628555054,
+   "leap answered": 0.3673992673992674,
+   "range": 11.333333333333334,
+   "register": 70.33333333333333,
+   "even": 0.4596885535039272,
+   "long-short": 0.15598537255567485,
+   "rhythm variety": 2.429275936940727,
+   "surprise, pitch": 2.2058164323788088,
+   "surprise, rhythm": 1.6679815785958232,
+   "density": 4.979265642307592,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1096,
+   "composers": 97
+  }
+ }
+]

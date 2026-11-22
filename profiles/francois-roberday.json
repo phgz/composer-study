@@ -1,0 +1,204 @@
+[
+ {
+  "composer": "François Roberday",
+  "kind": "fugue",
+  "forces": "organ",
+  "period": "all",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.6718181421985131,
+   "repeats": 0.055194613899859316,
+   "leaps": 0.184591715803212,
+   "move": 2.8205020967575316,
+   "rising": 0.4630196865821866,
+   "leap answered": 0.46410906298003074,
+   "range": 13.460000000000003,
+   "register": 68.0,
+   "even": 0.4826179165776214,
+   "long-short": 0.08893211395280673,
+   "rhythm variety": 2.3437243108807833,
+   "surprise, pitch": 2.458835874771213,
+   "surprise, rhythm": 2.087895304746361,
+   "density": 1.6192738930782409,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.4826179165776214,
+    "others": 0.6147891307018638,
+    "auc": 0.1831699346405229
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.087895304746361,
+    "others": 1.5437813870301083,
+    "auc": 0.9036764705882353
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 6.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-1#1",
+      "label": "Fugue 1re, movement 1 (Mutopia)",
+      "bar": 39,
+      "notes": "B4 A4 Bb4 A4"
+     },
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-1#2",
+      "label": "Fugue 1re, movement 2 (Mutopia)",
+      "bar": 26,
+      "notes": "E4 D4 Eb4 D4"
+     },
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-5",
+      "label": "Fugue 5e (Mutopia)",
+      "bar": 61,
+      "notes": "B4 A4 Bb4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.2,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-1#1",
+      "label": "Fugue 1re, movement 1 (Mutopia)",
+      "bar": 5,
+      "notes": "B4 A4 Bb4 A4"
+     },
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-1#2",
+      "label": "Fugue 1re, movement 2 (Mutopia)",
+      "bar": 4,
+      "notes": "E4 D4 Eb4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -8
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-4#1",
+      "label": "Fugue 4me, movement 1 (Mutopia)",
+      "bar": 3,
+      "notes": "D4 E4 F4 A3"
+     },
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-4#2",
+      "label": "Fugue 4me, movement 2 (Mutopia)",
+      "bar": 8,
+      "notes": "A4 B4 C5 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 2,
+    "per_1000": 5.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-1#1",
+      "label": "Fugue 1re, movement 1 (Mutopia)",
+      "bar": 4,
+      "notes": "C5 B4 A4 Bb4"
+     },
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-1#2",
+      "label": "Fugue 1re, movement 2 (Mutopia)",
+      "bar": 26,
+      "notes": "F4 E4 D4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.3,
+    "works": 2,
+    "per_1000": 4.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-4#2",
+      "label": "Fugue 4me, movement 2 (Mutopia)",
+      "bar": 8,
+      "notes": "G4 A4 B4 C5"
+     },
+     {
+      "work": "mutopia:RoberdayF/Roberday-fugue-4#1",
+      "label": "Fugue 4me, movement 1 (Mutopia)",
+      "bar": 3,
+      "notes": "C4 D4 E4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 99,
+   "composers": 7
+  }
+ }
+]

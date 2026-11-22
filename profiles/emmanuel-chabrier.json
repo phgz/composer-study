@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Emmanuel Chabrier",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "Romantic",
+  "works": 3,
+  "values": {
+   "steps": 0.44381176585987886,
+   "repeats": 0.22663063312575824,
+   "leaps": 0.1429516057140137,
+   "move": 3.228144632070082,
+   "rising": 0.49213068242356717,
+   "leap answered": 0.1450980392156863,
+   "range": 11.666666666666666,
+   "register": 68.33333333333333,
+   "even": 0.5194888497640228,
+   "long-short": 0.09710718864446373,
+   "rhythm variety": 2.3903869050218978,
+   "surprise, pitch": 1.8980418996116006,
+   "surprise, rhythm": 1.5422356702444642,
+   "density": 6.5424217472049015,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 1096,
+   "composers": 97
+  }
+ }
+]

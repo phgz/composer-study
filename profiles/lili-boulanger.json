@@ -1,0 +1,276 @@
+[
+ {
+  "composer": "Lili Boulanger",
+  "kind": "song",
+  "forces": "voice and keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 16,
+  "values": {
+   "steps": 0.39145191875341284,
+   "repeats": 0.30792022074071507,
+   "leaps": 0.12390304426237228,
+   "move": 3.0212856757754594,
+   "rising": 0.5449453125051498,
+   "leap answered": 0.2587135495223731,
+   "range": 12.278125,
+   "register": 71.0625,
+   "even": 0.3605606425558265,
+   "long-short": 0.13227904889964487,
+   "rhythm variety": 3.009386405811402,
+   "surprise, pitch": 3.276956967325423,
+   "surprise, rhythm": 2.4500986404946046,
+   "density": 5.882063595949921,
+   "lines": 3.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.30792022074071507,
+    "others": 0.19310319028197032,
+    "auc": 0.7915605196451204
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.009386405811402,
+    "others": 2.5881465978716425,
+    "auc": 0.7942973700887199
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.276956967325423,
+    "others": 2.7355694147809264,
+    "auc": 0.8124405893536122
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.4500986404946046,
+    "others": 1.8868094079810485,
+    "auc": 0.8755418250950572
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.5,
+    "works": 9,
+    "per_1000": 5.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/10_Deux_ancolies/lc5887314.mxl",
+      "label": "Clairières dans le ciel, Deux ancolies (OpenScore)",
+      "bar": 6,
+      "notes": "D5 D5 D5 F5"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/13_Demain_fera_un_an/lc5902873.mxl",
+      "label": "Clairières dans le ciel, Demain fera un an (OpenScore)",
+      "bar": 105,
+      "notes": "B4 B4 B4 D5"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/01_Elle_était_descendue_au_bas_de_la_prairie/lc5852737.mxl",
+      "label": "Clairières dans le ciel, Elle était descendue au bas de la prairie (OpenScore)",
+      "bar": 1,
+      "notes": "B4 B4 B4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 4.2,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/13_Demain_fera_un_an/lc5902873.mxl",
+      "label": "Clairières dans le ciel, Demain fera un an (OpenScore)",
+      "bar": 2,
+      "notes": "D5 D5 C5 D5"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/09_Les_lilas_qui_avaient_fleuri/lc5884544.mxl",
+      "label": "Clairières dans le ciel, Les lilas qui avaient fleuri (OpenScore)",
+      "bar": 6,
+      "notes": "E4 E4 D4 E4"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/_/Dans_l’immense_tristesse/lc5983777.mxl",
+      "label": "Dans l’immense tristesse (OpenScore)",
+      "bar": 34,
+      "notes": "F4 F4 Eb4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.5,
+    "works": 7,
+    "per_1000": 5.3,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/_/Attente/lc5983850.mxl",
+      "label": "Attente (OpenScore)",
+      "bar": 5,
+      "notes": "F4 F4 F4 G4"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/13_Demain_fera_un_an/lc5902873.mxl",
+      "label": "Clairières dans le ciel, Demain fera un an (OpenScore)",
+      "bar": 106,
+      "notes": "A4 A4 A4 B4"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/10_Deux_ancolies/lc5887314.mxl",
+      "label": "Clairières dans le ciel, Deux ancolies (OpenScore)",
+      "bar": 10,
+      "notes": "B4 B4 B4 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     3,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.4,
+    "works": 5,
+    "per_1000": 3.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/07_Nous_nous_aimerons_tant/lc5864781.mxl",
+      "label": "Clairières dans le ciel, Nous nous aimerons tant (OpenScore)",
+      "bar": 24,
+      "notes": "D4 D4 F4 F4"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/10_Deux_ancolies/lc5887314.mxl",
+      "label": "Clairières dans le ciel, Deux ancolies (OpenScore)",
+      "bar": 3,
+      "notes": "G4 G4 Bb4 Bb4"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/01_Elle_était_descendue_au_bas_de_la_prairie/lc5852737.mxl",
+      "label": "Clairières dans le ciel, Elle était descendue au bas de la prairie (OpenScore)",
+      "bar": 7,
+      "notes": "B4 B4 D5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.1,
+    "works": 5,
+    "per_1000": 3.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/13_Demain_fera_un_an/lc5902873.mxl",
+      "label": "Clairières dans le ciel, Demain fera un an (OpenScore)",
+      "bar": 44,
+      "notes": "D5 E5 D5 E5"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/05_Au_pied_de_mon_lit/lc5861338.mxl",
+      "label": "Clairières dans le ciel, Au pied de mon lit (OpenScore)",
+      "bar": 13,
+      "notes": "E5 F#5 E5 F#5"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/07_Nous_nous_aimerons_tant/lc5864781.mxl",
+      "label": "Clairières dans le ciel, Nous nous aimerons tant (OpenScore)",
+      "bar": 28,
+      "notes": "C#4 Eb4 C#4 Eb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     3
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 3.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/_/Dans_l’immense_tristesse/lc5983777.mxl",
+      "label": "Dans l’immense tristesse (OpenScore)",
+      "bar": 32,
+      "notes": "F4 F4 F4 Ab4"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/Clairières_dans_le_ciel/13_Demain_fera_un_an/lc5902873.mxl",
+      "label": "Clairières dans le ciel, Demain fera un an (OpenScore)",
+      "bar": 14,
+      "notes": "D5 D5 D5 F5"
+     },
+     {
+      "work": "openscore-lieder:Boulanger,_Lili/_/Attente/lc5983850.mxl",
+      "label": "Attente (OpenScore)",
+      "bar": 23,
+      "notes": "Eb4 Eb4 Eb4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 293,
+   "composers": 37
+  }
+ }
+]

@@ -1,0 +1,276 @@
+[
+ {
+  "composer": "Matthaeus Pipelare",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 5,
+  "values": {
+   "steps": 0.6759261515967661,
+   "repeats": 0.12666393577831075,
+   "leaps": 0.09230162814883622,
+   "move": 2.3371598828308673,
+   "rising": 0.4084183904299759,
+   "leap answered": 0.5581841545551223,
+   "range": 12.059999999999999,
+   "register": 62.8,
+   "even": 0.32961160321247807,
+   "long-short": 0.09732651057814123,
+   "rhythm variety": 3.0404826421042856,
+   "surprise, pitch": 2.488146516525254,
+   "surprise, rhythm": 2.3246667926581104,
+   "density": 0.8915619865663773,
+   "lines": 5.0
+  },
+  "traits": [
+   {
+    "measure": "rising",
+    "value": 0.4084183904299759,
+    "others": 0.4588486573906183,
+    "auc": 0.12564571324846713
+   },
+   {
+    "measure": "register",
+    "value": 62.8,
+    "others": 67.02641698118721,
+    "auc": 0.12810690233412753
+   },
+   {
+    "measure": "long-short",
+    "value": 0.09732651057814123,
+    "others": 0.12513462922461846,
+    "auc": 0.23199067316743652
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 3.0404826421042856,
+    "others": 2.8604445966233865,
+    "auc": 0.8056602958746637
+   },
+   {
+    "measure": "density",
+    "value": 0.8915619865663773,
+    "others": 1.4465899402166835,
+    "auc": 0.132645359800169
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     -2,
+     2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     -2
+    ],
+    "z": 6.9,
+    "works": 2,
+    "per_1000": 4.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/jrp:Pip/Pip1004d-Missa_Fors_seulement-Sanctus.krn",
+      "label": "Missa Fors seulement, Sanctus (kern)",
+      "bar": 106,
+      "notes": "C#4 C#4 B3 C#4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004a-Missa_Fors_seulement-Kyrie.krn",
+      "label": "Missa Fors seulement, Kyrie: Kyrie I (kern)",
+      "bar": 30,
+      "notes": "C#4 C#4 B3 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 6.6,
+    "works": 5,
+    "per_1000": 6.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Pip/Pip1004d-Missa_Fors_seulement-Sanctus.krn",
+      "label": "Missa Fors seulement, Sanctus (kern)",
+      "bar": 7,
+      "notes": "E4 D4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004a-Missa_Fors_seulement-Kyrie.krn",
+      "label": "Missa Fors seulement, Kyrie: Kyrie I (kern)",
+      "bar": 7,
+      "notes": "E4 D4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004e-Missa_Fors_seulement-Agnus.krn",
+      "label": "Missa Fors seulement, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 7,
+      "notes": "E4 D4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     2,
+     2
+    ],
+    "z": 5.2,
+    "works": 3,
+    "per_1000": 3.8,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/jrp:Pip/Pip1004d-Missa_Fors_seulement-Sanctus.krn",
+      "label": "Missa Fors seulement, Sanctus (kern)",
+      "bar": 70,
+      "notes": "F4 E4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004b-Missa_Fors_seulement-Gloria.krn",
+      "label": "Missa Fors seulement, Gloria: Et in terra pax (kern)",
+      "bar": 110,
+      "notes": "F4 E4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004a-Missa_Fors_seulement-Kyrie.krn",
+      "label": "Missa Fors seulement, Kyrie: Kyrie I (kern)",
+      "bar": 63,
+      "notes": "F4 E4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     -2,
+     0
+    ],
+    "z": 4.7,
+    "works": 4,
+    "per_1000": 5.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Pip/Pip1004e-Missa_Fors_seulement-Agnus.krn",
+      "label": "Missa Fors seulement, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 39,
+      "notes": "A4 G4 F4 E4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004d-Missa_Fors_seulement-Sanctus.krn",
+      "label": "Missa Fors seulement, Sanctus (kern)",
+      "bar": 132,
+      "notes": "E4 D4 C4 B3"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004b-Missa_Fors_seulement-Gloria.krn",
+      "label": "Missa Fors seulement, Gloria: Et in terra pax (kern)",
+      "bar": 109,
+      "notes": "A4 G4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     2,
+     -2
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 5.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/jrp:Pip/Pip1004d-Missa_Fors_seulement-Sanctus.krn",
+      "label": "Missa Fors seulement, Sanctus (kern)",
+      "bar": 70,
+      "notes": "E4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004a-Missa_Fors_seulement-Kyrie.krn",
+      "label": "Missa Fors seulement, Kyrie: Kyrie I (kern)",
+      "bar": 41,
+      "notes": "E4 F4 E4 D4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004c-Missa_Fors_seulement-Credo.krn",
+      "label": "Missa Fors seulement, Credo: Patrem omnipotentem (kern)",
+      "bar": 132,
+      "notes": "A3 Bb3 A3 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 3.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/jrp:Pip/Pip1004d-Missa_Fors_seulement-Sanctus.krn",
+      "label": "Missa Fors seulement, Sanctus (kern)",
+      "bar": 72,
+      "notes": "C#4 D4 D4 D4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004e-Missa_Fors_seulement-Agnus.krn",
+      "label": "Missa Fors seulement, Agnus Dei: Agnus Dei I (kern)",
+      "bar": 137,
+      "notes": "C#4 D4 D4 D4"
+     },
+     {
+      "work": "kern/jrp:Pip/Pip1004c-Missa_Fors_seulement-Credo.krn",
+      "label": "Missa Fors seulement, Credo: Patrem omnipotentem (kern)",
+      "bar": 201,
+      "notes": "C#4 D4 D4 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 591,
+   "composers": 27
+  }
+ }
+]

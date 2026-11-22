@@ -1,0 +1,66 @@
+[
+ {
+  "composer": "Artur Gold",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5647587225509463,
+   "repeats": 0.15816909721591496,
+   "leaps": 0.14499849403349568,
+   "move": 2.774592265533666,
+   "rising": 0.5205347361636313,
+   "leap answered": 0.3304791114058356,
+   "range": 16.25,
+   "register": 69.75,
+   "even": 0.513310530878927,
+   "long-short": 0.060779157675681934,
+   "rhythm variety": 2.2683694246025374,
+   "surprise, pitch": 1.9584711664332812,
+   "surprise, rhythm": 1.2775053679209665,
+   "density": 7.90526159705536,
+   "lines": 2.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 91,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Artur Gold",
+  "kind": "tango",
+  "forces": null,
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.5705021243645064,
+   "repeats": 0.1842761600394709,
+   "leaps": 0.12742511498509185,
+   "move": 2.6071698526674774,
+   "rising": 0.5163603644716187,
+   "leap answered": 0.3380747126436782,
+   "range": 15.333333333333334,
+   "register": 70.66666666666667,
+   "even": 0.5635489012227931,
+   "long-short": 0.042870937969611535,
+   "rhythm variety": 2.083649114156267,
+   "surprise, pitch": 2.0340769399281005,
+   "surprise, rhythm": 1.2697353327744596,
+   "density": 9.323013070143219,
+   "lines": 2.6666666666666665
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ }
+]

@@ -1,0 +1,73 @@
+[
+ {
+  "composer": "Alessandro Rolla",
+  "kind": "duet",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Classical",
+  "works": 8,
+  "values": {
+   "steps": 0.5410636195158579,
+   "repeats": 0.13584998789283992,
+   "leaps": 0.14971426285405876,
+   "move": 3.0354428600182954,
+   "rising": 0.45626935856021616,
+   "leap answered": 0.21344586901114182,
+   "range": 20.006249999999994,
+   "register": 64.875,
+   "even": 0.6771205536951364,
+   "long-short": 0.057580789643325914,
+   "rhythm variety": 1.8965184273766105,
+   "surprise, pitch": 2.424628443134579,
+   "surprise, rhythm": 1.4480856250261236,
+   "density": 4.703795239617406,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.4480856250261236,
+    "others": 1.6063202752966717,
+    "auc": 0.23295454545454544
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 22,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Alessandro Rolla",
+  "kind": "rondo",
+  "forces": "solo instrument",
+  "period": "all",
+  "era": "Classical",
+  "works": 3,
+  "values": {
+   "steps": 0.6082156948129095,
+   "repeats": 0.12187537998706643,
+   "leaps": 0.13351752407441983,
+   "move": 2.8120472155701712,
+   "rising": 0.44847412434701645,
+   "leap answered": 0.22674927411769516,
+   "range": 17.0,
+   "register": 67.66666666666667,
+   "even": 0.6170834455718177,
+   "long-short": 0.07187602885277304,
+   "rhythm variety": 2.0928137644864977,
+   "surprise, pitch": 2.220312329815623,
+   "surprise, rhythm": 1.4549760783928036,
+   "density": 5.652258234468313,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 69,
+   "composers": 16
+  }
+ }
+]

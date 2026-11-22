@@ -1,0 +1,227 @@
+[
+ {
+  "composer": "Filip Gotschalk",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 18,
+  "values": {
+   "steps": 0.5290827781762385,
+   "repeats": 0.20282449163334912,
+   "leaps": 0.11031628723956416,
+   "move": 2.701989317030933,
+   "rising": 0.45083700289981354,
+   "leap answered": 0.2959292800288969,
+   "range": 10.877777777777776,
+   "register": 76.44444444444444,
+   "even": 0.46703521768977624,
+   "long-short": 0.0375388804429678,
+   "rhythm variety": 2.423115638136844,
+   "surprise, pitch": 2.664651766685962,
+   "surprise, rhythm": 1.995585321402142,
+   "density": 10.320770994011532,
+   "lines": 9.5
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -7,
+     4
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.9,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-007_gotschalk-filip--missa-pastoriria-in-c-dona-nobis.krn",
+      "label": "Missa Pastoriria in C, Dona nobis, movement 7 (PL-CZ III-270, kern)",
+      "bar": 38,
+      "notes": "B5 D6 G5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-001_gotschalk-filip--missa-pastoriria-in-c-kyrie.krn",
+      "label": "Missa Pastoriria in C, Kyrie, movement 1 (PL-CZ III-270, kern)",
+      "bar": 50,
+      "notes": "B5 D6 G5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     0
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-256_gotschalk-filip--missa-brevis.krn",
+      "label": "Missa Brevis (PL-CZ III-256, kern)",
+      "bar": 224,
+      "notes": "D5 E5 D5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-257--001-004_gotschalk-filip--requiem-in-b-domine-jesu.krn",
+      "label": "Requiem in B, Domine Jesu, movement 4 (PL-CZ III-257, kern)",
+      "bar": 24,
+      "notes": "F5 G5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-257--001-007_gotschalk-filip--requiem-in-b-pie-jesu.krn",
+      "label": "Requiem in B, Pie Jesu, movement 7 (PL-CZ III-257, kern)",
+      "bar": 5,
+      "notes": "Eb5 G5 F5 Eb5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-256_gotschalk-filip--missa-brevis.krn",
+      "label": "Missa Brevis (PL-CZ III-256, kern)",
+      "bar": 3,
+      "notes": "C5 E5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -3,
+     5
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.6,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-007_gotschalk-filip--missa-pastoriria-in-c-dona-nobis.krn",
+      "label": "Missa Pastoriria in C, Dona nobis, movement 7 (PL-CZ III-270, kern)",
+      "bar": 73,
+      "notes": "G5 G5 E5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-001_gotschalk-filip--missa-pastoriria-in-c-kyrie.krn",
+      "label": "Missa Pastoriria in C, Kyrie, movement 1 (PL-CZ III-270, kern)",
+      "bar": 85,
+      "notes": "G5 G5 E5 A5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-002_gotschalk-filip--missa-pastoriria-in-c-gloria.krn",
+      "label": "Missa Pastoriria in C, Gloria, movement 2 (PL-CZ III-270, kern)",
+      "bar": 100,
+      "notes": "F5 F5 D5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     -7
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-007_gotschalk-filip--missa-pastoriria-in-c-dona-nobis.krn",
+      "label": "Missa Pastoriria in C, Dona nobis, movement 7 (PL-CZ III-270, kern)",
+      "bar": 38,
+      "notes": "G5 B5 D6 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-001_gotschalk-filip--missa-pastoriria-in-c-kyrie.krn",
+      "label": "Missa Pastoriria in C, Kyrie, movement 1 (PL-CZ III-270, kern)",
+      "bar": 50,
+      "notes": "G5 B5 D6 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     -4
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-003_gotschalk-filip--missa-pastoriria-in-c-credo.krn",
+      "label": "Missa Pastoriria in C, Credo, movement 3 (PL-CZ III-270, kern)",
+      "bar": 113,
+      "notes": "G5 C6 B5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-007_gotschalk-filip--missa-pastoriria-in-c-dona-nobis.krn",
+      "label": "Missa Pastoriria in C, Dona nobis, movement 7 (PL-CZ III-270, kern)",
+      "bar": 81,
+      "notes": "G5 C6 B5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-270--001-001_gotschalk-filip--missa-pastoriria-in-c-kyrie.krn",
+      "label": "Missa Pastoriria in C, Kyrie, movement 1 (PL-CZ III-270, kern)",
+      "bar": 93,
+      "notes": "G5 C6 B5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 629,
+   "composers": 34
+  }
+ }
+]

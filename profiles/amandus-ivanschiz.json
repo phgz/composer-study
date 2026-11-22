@@ -1,0 +1,251 @@
+[
+ {
+  "composer": "Amandus Ivanschiz",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.5019054290716621,
+   "repeats": 0.2507451845974192,
+   "leaps": 0.12325507394795247,
+   "move": 2.9533093570909403,
+   "rising": 0.43915989047251847,
+   "leap answered": 0.29452798289936394,
+   "range": 14.833333333333334,
+   "register": 75.91666666666667,
+   "even": 0.6424239146950829,
+   "long-short": 0.048197722047142184,
+   "rhythm variety": 1.8068192113778363,
+   "surprise, pitch": 2.3611153539690726,
+   "surprise, rhythm": 1.4679421109110138,
+   "density": 6.783727504985765,
+   "lines": 9.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     0,
+     0,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 2.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-004_ivanschiz-amandus--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 4 (PL-SA 183/A V 13, kern)",
+      "bar": 43,
+      "notes": "B5 B5 B5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-003_ivanschiz-amandus--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-SA 183/A V 13, kern)",
+      "bar": 190,
+      "notes": "E5 E5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-002_ivanschiz-amandus--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-SA 183/A V 13, kern)",
+      "bar": 45,
+      "notes": "C#5 C#5 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     0,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 3.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-004_ivanschiz-amandus--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 4 (PL-SA 183/A V 13, kern)",
+      "bar": 15,
+      "notes": "B4 C5 C5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-003_ivanschiz-amandus--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-SA 183/A V 13, kern)",
+      "bar": 245,
+      "notes": "B5 C6 C6 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-002_ivanschiz-amandus--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-SA 183/A V 13, kern)",
+      "bar": 18,
+      "notes": "B5 C6 C6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     5,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 2.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-002_ivanschiz-amandus--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-SA 183/A V 13, kern)",
+      "bar": 108,
+      "notes": "F4 F4 Bb4 Bb4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-004_ivanschiz-amandus--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 4 (PL-SA 183/A V 13, kern)",
+      "bar": 11,
+      "notes": "D5 D5 G5 G5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-003_ivanschiz-amandus--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-SA 183/A V 13, kern)",
+      "bar": 322,
+      "notes": "G5 G5 C6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-003_ivanschiz-amandus--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-SA 183/A V 13, kern)",
+      "bar": 101,
+      "notes": "F4 F4 F4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-002_ivanschiz-amandus--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-SA 183/A V 13, kern)",
+      "bar": 139,
+      "notes": "F4 F4 F4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-004_ivanschiz-amandus--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 4 (PL-SA 183/A V 13, kern)",
+      "bar": 48,
+      "notes": "D4 D4 D4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-003_ivanschiz-amandus--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-SA 183/A V 13, kern)",
+      "bar": 241,
+      "notes": "F5 E5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-002_ivanschiz-amandus--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-SA 183/A V 13, kern)",
+      "bar": 236,
+      "notes": "C5 B4 D5 B4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-006_ivanschiz-amandus--msza-agnus.krn",
+      "label": "Msza, Agnus, movement 6 (PL-SA 183/A V 13, kern)",
+      "bar": 17,
+      "notes": "F5 E5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     4,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.2,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-003_ivanschiz-amandus--msza-credo.krn",
+      "label": "Msza, Credo, movement 3 (PL-SA 183/A V 13, kern)",
+      "bar": 101,
+      "notes": "F4 F4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-002_ivanschiz-amandus--msza-gloria.krn",
+      "label": "Msza, Gloria, movement 2 (PL-SA 183/A V 13, kern)",
+      "bar": 139,
+      "notes": "F4 F4 A4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-sa/kern/pl-sa--183-a-v-13--001-004_ivanschiz-amandus--msza-sanctus.krn",
+      "label": "Msza, Sanctus, movement 4 (PL-SA 183/A V 13, kern)",
+      "bar": 48,
+      "notes": "D4 D4 F#4 F#4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 196,
+   "composers": 20
+  }
+ }
+]

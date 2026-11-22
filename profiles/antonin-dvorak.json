@@ -1,0 +1,794 @@
+[
+ {
+  "composer": "Antonín Dvořák",
+  "kind": "character piece",
+  "forces": "keyboard",
+  "period": "before America",
+  "era": "Romantic",
+  "works": 12,
+  "values": {
+   "steps": 0.5949117727980701,
+   "repeats": 0.1164215657161672,
+   "leaps": 0.1989003975690151,
+   "move": 3.081102681094879,
+   "rising": 0.476741435118418,
+   "leap answered": 0.24983600054203392,
+   "range": 21.900000000000002,
+   "register": 74.54166666666667,
+   "even": 0.43893884603431266,
+   "long-short": 0.0544001764461336,
+   "rhythm variety": 2.106767536190206,
+   "surprise, pitch": 1.890362321193426,
+   "surprise, rhythm": 1.0378816161771776,
+   "density": 5.6168864508467164,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.5949117727980701,
+    "others": 0.4192577449539931,
+    "auc": 0.779824561403509
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 5.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n05.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 5: Presto (DCML)",
+      "bar": 4,
+      "notes": "E5 D5 C#5 B4"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n01.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 1: Allegro feroce (DCML)",
+      "bar": 2,
+      "notes": "B5 A5 Ab5 F#5"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n06.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 6: Poco sostenuto (DCML)",
+      "bar": 11,
+      "notes": "F6 Eb6 D6 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.8,
+    "works": 4,
+    "per_1000": 5.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n06.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 6: Poco sostenuto (DCML)",
+      "bar": 7,
+      "notes": "D6 C6 Bb5 A5"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n05.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 5: Presto (DCML)",
+      "bar": 5,
+      "notes": "C#5 B4 A4 Ab4"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n12.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 12: Allegro feroce (DCML)",
+      "bar": 18,
+      "notes": "Ab6 F#6 E6 Eb6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.5,
+    "works": 4,
+    "per_1000": 4.9,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n12.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 12: Allegro feroce (DCML)",
+      "bar": 17,
+      "notes": "A6 Ab6 F#6 E6"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n05.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 5: Presto (DCML)",
+      "bar": 4,
+      "notes": "D5 C#5 B4 A4"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n01.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 1: Allegro feroce (DCML)",
+      "bar": 2,
+      "notes": "A5 Ab5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.3,
+    "works": 4,
+    "per_1000": 4.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n12.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 12: Allegro feroce (DCML)",
+      "bar": 16,
+      "notes": "C#6 Eb6 E6 F#6"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n05.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 5: Presto (DCML)",
+      "bar": 1,
+      "notes": "F#4 Ab4 A4 B4"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n01.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 1: Allegro feroce (DCML)",
+      "bar": 1,
+      "notes": "C#5 Eb5 E5 F#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 3.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n12.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 12: Allegro feroce (DCML)",
+      "bar": 16,
+      "notes": "E6 F#6 Ab6 A6"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n05.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 5: Presto (DCML)",
+      "bar": 2,
+      "notes": "A4 B4 C#5 D5"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n01.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 1: Allegro feroce (DCML)",
+      "bar": 1,
+      "notes": "E5 F#5 Ab5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 3.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n05.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 5: Presto (DCML)",
+      "bar": 3,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n12.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 12: Allegro feroce (DCML)",
+      "bar": 17,
+      "notes": "A6 B6 A6 Ab6"
+     },
+     {
+      "work": "dcml/dvorak_silhouettes:notes/op08n01.notes.tsv",
+      "label": "Silhouettes, op. 8, movement 1: Allegro feroce (DCML)",
+      "bar": 2,
+      "notes": "A5 B5 A5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 49,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Antonín Dvořák",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "America",
+  "era": "Romantic",
+  "works": 8,
+  "values": {
+   "steps": 0.4077010809985799,
+   "repeats": 0.20504587080112116,
+   "leaps": 0.18187935347856704,
+   "move": 3.341438927548738,
+   "rising": 0.48273479608942743,
+   "leap answered": 0.18469383620371746,
+   "range": 23.75,
+   "register": 76.0,
+   "even": 0.4857173051533932,
+   "long-short": 0.12197518629292022,
+   "rhythm variety": 2.606860566362209,
+   "surprise, pitch": 2.723285851672159,
+   "surprise, rhythm": 1.7562239619202127,
+   "density": 5.723863968814069,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.4077010809985799,
+    "others": 0.5001902219623341,
+    "auc": 0.24407032357109118
+   },
+   {
+    "measure": "repeats",
+    "value": 0.20504587080112116,
+    "others": 0.12864756821332368,
+    "auc": 0.8104272457093371
+   },
+   {
+    "measure": "even",
+    "value": 0.4857173051533932,
+    "others": 0.5987281753799513,
+    "auc": 0.23316628286883956
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.606860566362209,
+    "others": 2.132718750986931,
+    "auc": 0.7970649307195716
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.7562239619202127,
+    "others": 1.3947859631459834,
+    "auc": 0.7934183593134939
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     0,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 5.8,
+    "works": 4,
+    "per_1000": 1.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#2",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 2: Lento (OpenScore)",
+      "bar": 77,
+      "notes": "E5 F5 F5 F5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.14,_Op.105/sq23996920.mxl#3",
+      "label": "String Quartet No.14, Op.105, movement 3: Lento e molto cantabile (OpenScore)",
+      "bar": 14,
+      "notes": "B5 C6 C6 C6"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.14,_Op.105/sq23996920.mxl#4",
+      "label": "String Quartet No.14, Op.105, movement 4: Allegro non tanto (OpenScore)",
+      "bar": 259,
+      "notes": "C5 C#5 C#5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 5.5,
+    "works": 3,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#1",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 1 (OpenScore)",
+      "bar": 34,
+      "notes": "E5 E5 E5 D5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.14,_Op.105/sq23996920.mxl#3",
+      "label": "String Quartet No.14, Op.105, movement 3: Lento e molto cantabile (OpenScore)",
+      "bar": 2,
+      "notes": "G4 G4 G4 F4"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#2",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 2: Lento (OpenScore)",
+      "bar": 20,
+      "notes": "G5 G5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     3,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 5,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#4",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 4: Finale arco Vivace ma non troppo (OpenScore)",
+      "bar": 363,
+      "notes": "G5 A5 C6 C6"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#2",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 2: Lento (OpenScore)",
+      "bar": 25,
+      "notes": "G5 A5 C6 C6"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#3",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 3: Molto vivace arco (OpenScore)",
+      "bar": 104,
+      "notes": "G4 A4 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     3,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 5.4,
+    "works": 3,
+    "per_1000": 1.0,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.14,_Op.105/sq23996920.mxl#1",
+      "label": "String Quartet No.14, Op.105, movement 1 (OpenScore)",
+      "bar": 126,
+      "notes": "D5 B4 D5 D5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#4",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 4: Finale arco Vivace ma non troppo (OpenScore)",
+      "bar": 71,
+      "notes": "Eb5 C5 Eb5 Eb5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.14,_Op.105/sq23996920.mxl#2",
+      "label": "String Quartet No.14, Op.105, movement 2: Molto vivace (OpenScore)",
+      "bar": 181,
+      "notes": "Ab5 F5 Ab5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.2,
+    "works": 4,
+    "per_1000": 1.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#1",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 1 (OpenScore)",
+      "bar": 20,
+      "notes": "A5 G5 F5 D5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#2",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 2: Lento (OpenScore)",
+      "bar": 9,
+      "notes": "E5 D5 C5 A4"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.14,_Op.105/sq23996920.mxl#3",
+      "label": "String Quartet No.14, Op.105, movement 3: Lento e molto cantabile (OpenScore)",
+      "bar": 7,
+      "notes": "E5 D5 C5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 4.9,
+    "works": 4,
+    "per_1000": 1.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#1",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 1 (OpenScore)",
+      "bar": 100,
+      "notes": "Ab5 Ab5 Ab5 Bb5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.14,_Op.105/sq23996920.mxl#1",
+      "label": "String Quartet No.14, Op.105, movement 1 (OpenScore)",
+      "bar": 40,
+      "notes": "Bb4 Bb4 Bb4 C5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.12,_Op.96_(“American”)/sq8885439.mxl#3",
+      "label": "String Quartet No.12, Op.96 (“American”), movement 3: Molto vivace arco (OpenScore)",
+      "bar": 14,
+      "notes": "C6 C6 C6 D6"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 223,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Antonín Dvořák",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "before America",
+  "era": "Romantic",
+  "works": 28,
+  "values": {
+   "steps": 0.47347733702579964,
+   "repeats": 0.1594229052756635,
+   "leaps": 0.2241831272319391,
+   "move": 3.6226689676178387,
+   "rising": 0.47423621446740855,
+   "leap answered": 0.25838584016643124,
+   "range": 21.489285714285717,
+   "register": 78.30357142857143,
+   "even": 0.47306677348892406,
+   "long-short": 0.1271109223908477,
+   "rhythm variety": 2.5291489014385684,
+   "surprise, pitch": 2.6935729035236444,
+   "surprise, rhythm": 1.6127703008456196,
+   "density": 5.851933137439156,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 78.30357142857143,
+    "others": 74.56073649818927,
+    "auc": 0.8164697066828621
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     0,
+     2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.6,
+    "works": 7,
+    "per_1000": 1.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.10,_Op.51/sq9137469.mxl#1",
+      "label": "String Quartet No.10, Op.51, movement 1 (OpenScore)",
+      "bar": 21,
+      "notes": "F5 F5 G5 F5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.11,_Op.61/sq27306844.mxl#3",
+      "label": "String Quartet No.11, Op.61, movement 3: Scherzo Allegro vivo (OpenScore)",
+      "bar": 157,
+      "notes": "E6 E6 F#6 E6"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.8,_Op.80/sq24807751.mxl#4",
+      "label": "String Quartet No.8, Op.80, movement 4: Finale Allegro con brio (OpenScore)",
+      "bar": 165,
+      "notes": "F#4 F#4 Ab4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     8,
+     -8
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 4,
+    "per_1000": 0.7,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.9,_Op.34/sq28001095.mxl#1",
+      "label": "String Quartet No.9, Op.34, movement 1 (OpenScore)",
+      "bar": 87,
+      "notes": "G5 F#5 D6 F#5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.11,_Op.61/sq27306844.mxl#3",
+      "label": "String Quartet No.11, Op.61, movement 3: Scherzo Allegro vivo (OpenScore)",
+      "bar": 246,
+      "notes": "F#5 F5 C#6 F5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.8,_Op.80/sq24807751.mxl#3",
+      "label": "String Quartet No.8, Op.80, movement 3: Allegro scherzando dolce (OpenScore)",
+      "bar": 10,
+      "notes": "B4 Bb4 F#5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     -12,
+     12
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 4,
+    "per_1000": 0.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.8,_Op.80/sq24807751.mxl#4",
+      "label": "String Quartet No.8, Op.80, movement 4: Finale Allegro con brio (OpenScore)",
+      "bar": 38,
+      "notes": "Ab6 Ab6 Ab5 Ab6"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.9,_Op.34/sq28001095.mxl#4",
+      "label": "String Quartet No.9, Op.34, movement 4: Finale Poco allegro (OpenScore)",
+      "bar": 213,
+      "notes": "A5 A5 A4 A5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.11,_Op.61/sq27306844.mxl#3",
+      "label": "String Quartet No.11, Op.61, movement 3: Scherzo Allegro vivo (OpenScore)",
+      "bar": 18,
+      "notes": "G4 G4 G3 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.9,
+    "works": 6,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.10,_Op.51/sq9137469.mxl#2",
+      "label": "String Quartet No.10, Op.51, movement 2: Dumka (Elegie) Andante con moto (OpenScore)",
+      "bar": 88,
+      "notes": "D5 C5 D5 E5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.9,_Op.34/sq28001095.mxl#3",
+      "label": "String Quartet No.9, Op.34, movement 3: Adagio con sordino (OpenScore)",
+      "bar": 35,
+      "notes": "E5 D5 E5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/Echo_of_Songs,_B.152/sq24619027.mxl",
+      "label": "Echo of Songs, B.152 (OpenScore)",
+      "bar": 4,
+      "notes": "A5 G5 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 0.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.10,_Op.51/sq9137469.mxl#1",
+      "label": "String Quartet No.10, Op.51, movement 1 (OpenScore)",
+      "bar": 72,
+      "notes": "F#5 F#5 G5 F#5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.8,_Op.80/sq24807751.mxl#4",
+      "label": "String Quartet No.8, Op.80, movement 4: Finale Allegro con brio (OpenScore)",
+      "bar": 164,
+      "notes": "Ab4 Ab4 A4 Ab4"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.8,_Op.80/sq24807751.mxl#2",
+      "label": "String Quartet No.8, Op.80, movement 2: Andante con moto dolce (OpenScore)",
+      "bar": 40,
+      "notes": "Ab5 Ab5 A5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     2,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.8,
+    "works": 7,
+    "per_1000": 1.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.11,_Op.61/sq27306844.mxl#1",
+      "label": "String Quartet No.11, Op.61, movement 1 (OpenScore)",
+      "bar": 69,
+      "notes": "Ab4 F4 G4 Ab4"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.9,_Op.34/sq28001095.mxl#4",
+      "label": "String Quartet No.9, Op.34, movement 4: Finale Poco allegro (OpenScore)",
+      "bar": 63,
+      "notes": "F5 D5 E5 F5"
+     },
+     {
+      "work": "openscore-quartets:Dvořák,_Antonín/String_Quartet_No.10,_Op.51/sq9137469.mxl#2",
+      "label": "String Quartet No.10, Op.51, movement 2: Dumka (Elegie) Andante con moto (OpenScore)",
+      "bar": 251,
+      "notes": "Bb4 G4 A4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 223,
+   "composers": 32
+  }
+ }
+]

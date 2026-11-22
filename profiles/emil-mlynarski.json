@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "Emil Młynarski",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 3,
+  "values": {
+   "steps": 0.42078176559244307,
+   "repeats": 0.07909142341036428,
+   "leaps": 0.26403243426918527,
+   "move": 4.147225266016301,
+   "rising": 0.5381092907462097,
+   "leap answered": 0.1803062800672642,
+   "range": 27.666666666666668,
+   "register": 76.66666666666667,
+   "even": 0.6766965699366354,
+   "long-short": 0.08846250256900699,
+   "rhythm variety": 1.8406013712330307,
+   "surprise, pitch": 3.3183481481679356,
+   "surprise, rhythm": 1.4210828234907256,
+   "density": 7.322654942715466,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 322,
+   "composers": 26
+  }
+ }
+]

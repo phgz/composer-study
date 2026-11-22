@@ -1,0 +1,8141 @@
+[
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "allemande",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 12,
+  "values": {
+   "steps": 0.5188734286185653,
+   "repeats": 0.06823360004118914,
+   "leaps": 0.2264168173550173,
+   "move": 3.295248466862498,
+   "rising": 0.49961860726070934,
+   "leap answered": 0.2724339457683949,
+   "range": 17.145833333333332,
+   "register": 72.91666666666667,
+   "even": 0.7179340801331945,
+   "long-short": 0.09662187327352212,
+   "rhythm variety": 1.637059023888545,
+   "surprise, pitch": 3.0064542344982814,
+   "surprise, rhythm": 1.1716073942306975,
+   "density": 6.362105397896031,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.7179340801331945,
+    "others": 0.5212477113233197,
+    "auc": 0.8222222222222223
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.637059023888545,
+    "others": 2.181035653640763,
+    "auc": 0.20061728395061731
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 3.0064542344982814,
+    "others": 2.75092850740276,
+    "auc": 0.8256172839506174
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 28,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "allemande",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.5705245732942945,
+   "repeats": 0.02754662145626844,
+   "leaps": 0.23750097768083772,
+   "move": 3.172106037658906,
+   "rising": 0.49666612409203015,
+   "leap answered": 0.285049620090716,
+   "range": 17.2,
+   "register": 72.2,
+   "even": 0.6161592767029589,
+   "long-short": 0.1412544282309296,
+   "rhythm variety": 1.966972188936102,
+   "surprise, pitch": 2.97607034621422,
+   "surprise, rhythm": 1.2475431685929035,
+   "density": 7.324372424349464,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.02754662145626844,
+    "others": 0.09353538734840809,
+    "auc": 0.13259259259259262
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.97607034621422,
+    "others": 2.75092850740276,
+    "auc": 0.7977777777777778
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 28,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "allemande",
+  "forces": "solo instrument",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5144929993887519,
+   "repeats": 0.015185970801884713,
+   "leaps": 0.25292651801265803,
+   "move": 3.7044246722508363,
+   "rising": 0.48424265754766727,
+   "leap answered": 0.3071108991440004,
+   "range": 19.0,
+   "register": 73.33333333333333,
+   "even": 0.7490294602331066,
+   "long-short": 0.10860105743461011,
+   "rhythm variety": 1.2492399317461624,
+   "surprise, pitch": 2.9454434673372716,
+   "surprise, rhythm": 0.908691121573824,
+   "density": 4.434952951307607,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 28,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "allemande",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.6227158000936037,
+   "repeats": 0.023451974766440235,
+   "leaps": 0.20033435310358708,
+   "move": 3.394588197646113,
+   "rising": 0.4729889094940645,
+   "leap answered": 0.32000126231730724,
+   "range": 18.208333333333332,
+   "register": 55.166666666666664,
+   "even": 0.7358065570120714,
+   "long-short": 0.08336814000063013,
+   "rhythm variety": 1.3888429421720998,
+   "surprise, pitch": 2.854049420755999,
+   "surprise, rhythm": 1.0634663470629486,
+   "density": 4.251846722417729,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.023451974766440235,
+    "others": 0.09353538734840809,
+    "auc": 0.07407407407407408
+   },
+   {
+    "measure": "even",
+    "value": 0.7358065570120714,
+    "others": 0.5212477113233197,
+    "auc": 0.8018518518518519
+   },
+   {
+    "measure": "long-short",
+    "value": 0.08336814000063013,
+    "others": 0.18279946020029753,
+    "auc": 0.19259259259259262
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.3888429421720998,
+    "others": 2.181035653640763,
+    "auc": 0.19753086419753088
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 28,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "bourree",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.6199456908063831,
+   "repeats": 0.03444630636185105,
+   "leaps": 0.1586604248192436,
+   "move": 2.8359548914380226,
+   "rising": 0.4721154800777451,
+   "leap answered": 0.379656555917709,
+   "range": 14.666666666666666,
+   "register": 71.66666666666667,
+   "even": 0.7579136513823695,
+   "long-short": 0.034355787771056266,
+   "rhythm variety": 1.2239075878663581,
+   "surprise, pitch": 2.535545091494916,
+   "surprise, rhythm": 0.8335674993433398,
+   "density": 3.077338326801298,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "rhythm variety",
+    "value": 1.2239075878663581,
+    "others": 1.7913867743611336,
+    "auc": 0.2471264367816092
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.8335674993433398,
+    "others": 1.2704197499423031,
+    "auc": 0.21048850574712644
+   },
+   {
+    "measure": "density",
+    "value": 3.077338326801298,
+    "others": 4.326041305720116,
+    "auc": 0.24209770114942528
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -4,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 5.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_08_Bouree_I.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 8: Bourrée I (DCML)",
+      "bar": 4,
+      "notes": "C#5 A4 B4 C#5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV817_06_Bourree.notes.tsv",
+      "label": "French Suite No. 6, BWV 817, movement 6: Bourrée (DCML)",
+      "bar": 11,
+      "notes": "Eb5 B4 C#5 Eb5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV816_05_Bourree.notes.tsv",
+      "label": "French Suite No. 5, BWV 816, movement 5: Bourrée (DCML)",
+      "bar": 4,
+      "notes": "B4 G4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 5,
+    "per_1000": 7.3,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_08_Bouree_I.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 8: Bourrée I (DCML)",
+      "bar": 3,
+      "notes": "B4 D5 C#5 B4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_06_Bourree_II.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 6: Bourrée II (DCML)",
+      "bar": 3,
+      "notes": "B3 D4 C#4 B3"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_09_Bouree_II.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 9: Bourrée II (DCML)",
+      "bar": 35,
+      "notes": "A3 C4 B3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 2,
+    "per_1000": 4.9,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_08_Bouree_I.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 8: Bourrée I (DCML)",
+      "bar": 22,
+      "notes": "E5 C#5 B4 Bb4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_05_Bourree_I.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 5: Bourrée I (DCML)",
+      "bar": 12,
+      "notes": "C5 A4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 3,
+    "per_1000": 5.7,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_05_Bourree_I.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 5: Bourrée I (DCML)",
+      "bar": 11,
+      "notes": "B4 A4 G4 D5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_08_Bouree_I.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 8: Bourrée I (DCML)",
+      "bar": 29,
+      "notes": "C#5 B4 A4 E5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_09_Bouree_II.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 9: Bourrée II (DCML)",
+      "bar": 28,
+      "notes": "Ab4 F#4 E4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 5.7,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV817_06_Bourree.notes.tsv",
+      "label": "French Suite No. 6, BWV 817, movement 6: Bourrée (DCML)",
+      "bar": 9,
+      "notes": "F#5 Eb5 E5 F#5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_05_Bourree_I.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 5: Bourrée I (DCML)",
+      "bar": 17,
+      "notes": "A4 F#4 G4 A4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_09_Bouree_II.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 9: Bourrée II (DCML)",
+      "bar": 8,
+      "notes": "D4 B3 C4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.0,
+    "works": 3,
+    "per_1000": 5.7,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_08_Bouree_I.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 8: Bourrée I (DCML)",
+      "bar": 13,
+      "notes": "Ab4 F#4 E4 Ab4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_05_Bourree_I.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 5: Bourrée I (DCML)",
+      "bar": 7,
+      "notes": "E5 D5 C5 E5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV817_06_Bourree.notes.tsv",
+      "label": "French Suite No. 6, BWV 817, movement 6: Bourrée (DCML)",
+      "bar": 18,
+      "notes": "Ab5 F#5 E5 Ab5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 232,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "bourree",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.6220583492860721,
+   "repeats": 0.02544110180248794,
+   "leaps": 0.1955904114319956,
+   "move": 3.2730796800417052,
+   "rising": 0.484618594428721,
+   "leap answered": 0.23328081232492998,
+   "range": 15.95,
+   "register": 53.75,
+   "even": 0.701698170342981,
+   "long-short": 0.0012406947890818859,
+   "rhythm variety": 1.3152781269179308,
+   "surprise, pitch": 2.567622114080404,
+   "surprise, rhythm": 0.8712637414609866,
+   "density": 1.697172619047619,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 24,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "canon",
+  "forces": "chamber",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 13,
+  "values": {
+   "steps": 0.667683865856503,
+   "repeats": 0.0017683465959328027,
+   "leaps": 0.19530601990833343,
+   "move": 3.2074033856883326,
+   "rising": 0.5234478036874328,
+   "leap answered": 0.4758838383838384,
+   "range": 12.999999999999998,
+   "register": 68.38461538461539,
+   "even": 0.8278951529725609,
+   "long-short": 0.03978632615148715,
+   "rhythm variety": 0.8350197258678391,
+   "surprise, pitch": 1.4199761625278602,
+   "surprise, rhythm": 0.6238701442289923,
+   "density": 4.758801636425087,
+   "lines": 3.4615384615384617
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.667683865856503,
+    "others": 0.5331470745121754,
+    "auc": 0.7643024765134611
+   },
+   {
+    "measure": "repeats",
+    "value": 0.0017683465959328027,
+    "others": 0.11206888133788742,
+    "auc": 0.025602643328093786
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.4758838383838384,
+    "others": 0.29440647459676567,
+    "auc": 0.7975049622082605
+   },
+   {
+    "measure": "register",
+    "value": 68.38461538461539,
+    "others": 73.41072736125952,
+    "auc": 0.145236660721876
+   },
+   {
+    "measure": "even",
+    "value": 0.8278951529725609,
+    "others": 0.6260870986925747,
+    "auc": 0.7913504923506515
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 0.8350197258678391,
+    "others": 1.7885936115686758,
+    "auc": 0.14038389408235538
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 1.4199761625278602,
+    "others": 2.450765630687957,
+    "auc": 0.055863749996241954
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.6238701442289923,
+    "others": 1.2440600419451926,
+    "auc": 0.15228961829533885
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     4,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 9.9,
+    "works": 4,
+    "per_1000": 17.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-14",
+      "label": "14 Canons - 14 (BWV 1087) (Mutopia)",
+      "bar": 3,
+      "notes": "F#4 G4 B4 A4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-07",
+      "label": "14 Canons - 7 (BWV 1087) (Mutopia)",
+      "bar": 1,
+      "notes": "F#4 G4 B4 A4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-10",
+      "label": "14 Canons - 10 (BWV 1087) (Mutopia)",
+      "bar": 4,
+      "notes": "F#4 G4 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 9.4,
+    "works": 4,
+    "per_1000": 17.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-14",
+      "label": "14 Canons - 14 (BWV 1087) (Mutopia)",
+      "bar": 3,
+      "notes": "E4 F#4 G4 B4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-07",
+      "label": "14 Canons - 7 (BWV 1087) (Mutopia)",
+      "bar": 1,
+      "notes": "E4 F#4 G4 B4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-10",
+      "label": "14 Canons - 10 (BWV 1087) (Mutopia)",
+      "bar": 4,
+      "notes": "E4 F#4 G4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.6,
+    "works": 4,
+    "per_1000": 17.1,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-14",
+      "label": "14 Canons - 14 (BWV 1087) (Mutopia)",
+      "bar": 3,
+      "notes": "B4 A4 G4 D5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-07",
+      "label": "14 Canons - 7 (BWV 1087) (Mutopia)",
+      "bar": 1,
+      "notes": "B4 A4 G4 D5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-10",
+      "label": "14 Canons - 10 (BWV 1087) (Mutopia)",
+      "bar": 5,
+      "notes": "B4 A4 G4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.0,
+    "works": 4,
+    "per_1000": 15.5,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-01",
+      "label": "14 Canons - 1 (BWV 1087) (Mutopia)",
+      "bar": 2,
+      "notes": "E4 D4 B3 C4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-14",
+      "label": "14 Canons - 14 (BWV 1087) (Mutopia)",
+      "bar": 5,
+      "notes": "E5 D5 B4 C5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-12",
+      "label": "14 Canons - 12 (BWV 1087) (Mutopia)",
+      "bar": 5,
+      "notes": "E5 D5 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -7
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.9,
+    "works": 4,
+    "per_1000": 15.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-01",
+      "label": "14 Canons - 1 (BWV 1087) (Mutopia)",
+      "bar": 3,
+      "notes": "B3 C4 D4 G3"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-14",
+      "label": "14 Canons - 14 (BWV 1087) (Mutopia)",
+      "bar": 5,
+      "notes": "B4 C5 D5 G4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-12",
+      "label": "14 Canons - 12 (BWV 1087) (Mutopia)",
+      "bar": 5,
+      "notes": "B4 C5 D5 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.6,
+    "works": 4,
+    "per_1000": 17.1,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-14",
+      "label": "14 Canons - 14 (BWV 1087) (Mutopia)",
+      "bar": 3,
+      "notes": "G4 B4 A4 G4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-07",
+      "label": "14 Canons - 7 (BWV 1087) (Mutopia)",
+      "bar": 1,
+      "notes": "G4 B4 A4 G4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1087/bwv-1087-10",
+      "label": "14 Canons - 10 (BWV 1087) (Mutopia)",
+      "bar": 5,
+      "notes": "G4 B4 A4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 311,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "canon",
+  "forces": "open score",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.7108355470489599,
+   "repeats": 0.013125612104825463,
+   "leaps": 0.16350617699763037,
+   "move": 2.798023565927868,
+   "rising": 0.4878655869236671,
+   "leap answered": 0.3228713815699521,
+   "range": 16.5,
+   "register": 72.0,
+   "even": 0.6926722995699527,
+   "long-short": 0.029642261300380238,
+   "rhythm variety": 1.6935621020939964,
+   "surprise, pitch": 2.6830691505396804,
+   "surprise, rhythm": 1.2539426274163095,
+   "density": 4.106191625743449,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": null,
+   "works": 0,
+   "composers": 0
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "cantata",
+  "forces": "voices",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 22,
+  "values": {
+   "steps": 0.6573222660455268,
+   "repeats": 0.1924559752141482,
+   "leaps": 0.05824560859468169,
+   "move": 2.2054184853500796,
+   "rising": 0.45614952238131995,
+   "leap answered": 0.37844611528822053,
+   "range": 8.974999999999996,
+   "register": 70.72727272727273,
+   "even": 0.6731010726474538,
+   "long-short": 0.08679174591305973,
+   "rhythm variety": 1.5071714276340815,
+   "surprise, pitch": 2.5919389696719857,
+   "surprise, rhythm": 1.3821758647652547,
+   "density": 4.114022569368038,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.05824560859468169,
+    "others": 0.09940009976045772,
+    "auc": 0.2204545454545455
+   },
+   {
+    "measure": "register",
+    "value": 70.72727272727273,
+    "others": 65.025,
+    "auc": 0.7863636363636364
+   },
+   {
+    "measure": "even",
+    "value": 0.6731010726474538,
+    "others": 0.35628408885265794,
+    "auc": 0.9556818181818183
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.5071714276340815,
+    "others": 2.745270116802047,
+    "auc": 0.014772727272727272
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3821758647652547,
+    "others": 2.2008346040348936,
+    "auc": 0.010227272727272725
+   },
+   {
+    "measure": "density",
+    "value": 4.114022569368038,
+    "others": 1.638301554484915,
+    "auc": 0.9499999999999997
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 12,
+    "per_1000": 18.4,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor321.krn",
+      "label": "chor321 (kern)",
+      "bar": 2,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor064.krn",
+      "label": "chor064 (kern)",
+      "bar": 1,
+      "notes": "B4 A4 G4 F#4"
+     },
+     {
+      "work": "kern/bach-chorales:chor138.krn",
+      "label": "chor138 (kern)",
+      "bar": 1,
+      "notes": "B4 A4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 8,
+    "per_1000": 11.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor281.krn",
+      "label": "chor281 (kern)",
+      "bar": 5,
+      "notes": "C5 D5 D5 C5"
+     },
+     {
+      "work": "kern/bach-chorales:chor321.krn",
+      "label": "chor321 (kern)",
+      "bar": 4,
+      "notes": "C5 D5 D5 C5"
+     },
+     {
+      "work": "kern/bach-chorales:chor331.krn",
+      "label": "chor331 (kern)",
+      "bar": 5,
+      "notes": "E5 F#5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 8,
+    "per_1000": 13.3,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor064.krn",
+      "label": "chor064 (kern)",
+      "bar": 1,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "kern/bach-chorales:chor254.krn",
+      "label": "chor254 (kern)",
+      "bar": 1,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor267.krn",
+      "label": "chor267 (kern)",
+      "bar": 7,
+      "notes": "D5 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 7.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor008.krn",
+      "label": "chor008 (kern)",
+      "bar": 9,
+      "notes": "C#5 C5 C5 Bb4"
+     },
+     {
+      "work": "kern/bach-chorales:chor142.krn",
+      "label": "chor142 (kern)",
+      "bar": 9,
+      "notes": "F5 E5 E5 D5"
+     },
+     {
+      "work": "kern/bach-chorales:chor267.krn",
+      "label": "chor267 (kern)",
+      "bar": 11,
+      "notes": "Bb4 A4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 5,
+    "per_1000": 7.2,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor281.krn",
+      "label": "chor281 (kern)",
+      "bar": 5,
+      "notes": "Bb4 C5 D5 D5"
+     },
+     {
+      "work": "kern/bach-chorales:chor331.krn",
+      "label": "chor331 (kern)",
+      "bar": 5,
+      "notes": "D5 E5 F#5 F#5"
+     },
+     {
+      "work": "kern/bach-chorales:chor025.krn",
+      "label": "chor025 (kern)",
+      "bar": 5,
+      "notes": "Ab4 Bb4 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 6,
+    "per_1000": 8.2,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor253.krn",
+      "label": "Cantata BWV 77: Du sollst Gott, deinen Herren, lieben, chor253 (kern)",
+      "bar": 3,
+      "notes": "Bb4 A4 G4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor064.krn",
+      "label": "chor064 (kern)",
+      "bar": 5,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "kern/bach-chorales:chor279.krn",
+      "label": "Cantata BWV 48 Ich elender Mensch, wer wird mich erlösen, chor279 (kern)",
+      "bar": 3,
+      "notes": "Bb4 A4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "cantata",
+  "forces": "voices",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 93,
+  "values": {
+   "steps": 0.7152443765042847,
+   "repeats": 0.14222499120230342,
+   "leaps": 0.07256037430834755,
+   "move": 2.158533497698844,
+   "rising": 0.460630203884531,
+   "leap answered": 0.40152036718301776,
+   "range": 8.941935483870967,
+   "register": 71.10752688172043,
+   "even": 0.6503834469578814,
+   "long-short": 0.051749457731477204,
+   "rhythm variety": 1.4964118518385572,
+   "surprise, pitch": 2.5137755264679797,
+   "surprise, rhythm": 1.3963371469395,
+   "density": 4.241619289893869,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7152443765042847,
+    "others": 0.6086967697893478,
+    "auc": 0.8352150537634409
+   },
+   {
+    "measure": "move",
+    "value": 2.158533497698844,
+    "others": 2.398916571001037,
+    "auc": 0.22298387096774194
+   },
+   {
+    "measure": "register",
+    "value": 71.10752688172043,
+    "others": 65.025,
+    "auc": 0.8233870967741935
+   },
+   {
+    "measure": "even",
+    "value": 0.6503834469578814,
+    "others": 0.35628408885265794,
+    "auc": 0.939247311827957
+   },
+   {
+    "measure": "long-short",
+    "value": 0.051749457731477204,
+    "others": 0.1418320532201156,
+    "auc": 0.13951612903225807
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.4964118518385572,
+    "others": 2.745270116802047,
+    "auc": 0.017741935483870968
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3963371469395,
+    "others": 2.2008346040348936,
+    "auc": 0.020161290322580648
+   },
+   {
+    "measure": "density",
+    "value": 4.241619289893869,
+    "others": 1.638301554484915,
+    "auc": 0.9481182795698926
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.7,
+    "works": 49,
+    "per_1000": 16.5,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor029.krn",
+      "label": "chor029 (kern)",
+      "bar": 1,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "kern/bach-chorales:chor061.krn",
+      "label": "chor061 (kern)",
+      "bar": 5,
+      "notes": "Bb4 Ab4 G4 F4"
+     },
+     {
+      "work": "kern/bach-chorales:chor067.krn",
+      "label": "chor067 (kern)",
+      "bar": 1,
+      "notes": "A4 G4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.7,
+    "works": 40,
+    "per_1000": 12.8,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor055.krn",
+      "label": "chor055 (kern)",
+      "bar": 1,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/bach-chorales:chor094.krn",
+      "label": "chor094 (kern)",
+      "bar": 1,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor119.krn",
+      "label": "chor119 (kern)",
+      "bar": 3,
+      "notes": "C5 Bb4 Ab4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 30,
+    "per_1000": 7.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor313.krn",
+      "label": "Cantata, BWV 112: Der Herr ist mein getreuer Hirt, chor313 (kern)",
+      "bar": 3,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor125.krn",
+      "label": "chor125 (kern)",
+      "bar": 3,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor021.krn",
+      "label": "chor021 (kern)",
+      "bar": 10,
+      "notes": "E4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 25,
+    "per_1000": 7.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor071.krn",
+      "label": "chor071 (kern)",
+      "bar": 3,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/bach-chorales:chor119.krn",
+      "label": "chor119 (kern)",
+      "bar": 3,
+      "notes": "Eb5 D5 C5 Bb4"
+     },
+     {
+      "work": "kern/bach-chorales:chor017.krn",
+      "label": "chor017 (kern)",
+      "bar": 3,
+      "notes": "D5 C#5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 24,
+    "per_1000": 7.3,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor125.krn",
+      "label": "chor125 (kern)",
+      "bar": 1,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "kern/bach-chorales:chor313.krn",
+      "label": "Cantata, BWV 112: Der Herr ist mein getreuer Hirt, chor313 (kern)",
+      "bar": 1,
+      "notes": "C5 B4 A4 B4"
+     },
+     {
+      "work": "kern/bach-chorales:chor029.krn",
+      "label": "chor029 (kern)",
+      "bar": 5,
+      "notes": "C5 B4 A4 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 19,
+    "per_1000": 6.6,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor095.krn",
+      "label": "chor095 (kern)",
+      "bar": 1,
+      "notes": "Eb5 F5 F5 Eb5"
+     },
+     {
+      "work": "kern/bach-chorales:chor099.krn",
+      "label": "chor099 (kern)",
+      "bar": 3,
+      "notes": "A4 B4 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor233.krn",
+      "label": "chor233 (kern)",
+      "bar": 1,
+      "notes": "D5 E5 E5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "cantata",
+  "forces": "voices",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.6930162949762778,
+   "repeats": 0.11368238667332478,
+   "leaps": 0.1340130839586196,
+   "move": 2.4846546561208216,
+   "rising": 0.4165749163117584,
+   "leap answered": 0.6285714285714287,
+   "range": 10.610000000000001,
+   "register": 70.0,
+   "even": 0.7210536641896493,
+   "long-short": 0.041600573339703774,
+   "rhythm variety": 1.3590163284268333,
+   "surprise, pitch": 2.6812051992493746,
+   "surprise, rhythm": 1.3521788430415957,
+   "density": 4.548789625156242,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6930162949762778,
+    "others": 0.6086967697893478,
+    "auc": 0.7875
+   },
+   {
+    "measure": "repeats",
+    "value": 0.11368238667332478,
+    "others": 0.1923161102163255,
+    "auc": 0.21000000000000002
+   },
+   {
+    "measure": "rising",
+    "value": 0.4165749163117584,
+    "others": 0.4727686186502177,
+    "auc": 0.19
+   },
+   {
+    "measure": "even",
+    "value": 0.7210536641896493,
+    "others": 0.35628408885265794,
+    "auc": 1.0
+   },
+   {
+    "measure": "long-short",
+    "value": 0.041600573339703774,
+    "others": 0.1418320532201156,
+    "auc": 0.075
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.3590163284268333,
+    "others": 2.745270116802047,
+    "auc": 0.0
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3521788430415957,
+    "others": 2.2008346040348936,
+    "auc": 0.0
+   },
+   {
+    "measure": "density",
+    "value": 4.548789625156242,
+    "others": 1.638301554484915,
+    "auc": 0.95
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "cantata",
+  "forces": "voices",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.7317857142857143,
+   "repeats": 0.1321437324929972,
+   "leaps": 0.08394432773109244,
+   "move": 2.2397533771261804,
+   "rising": 0.4211495155065923,
+   "leap answered": 0.6,
+   "range": 10.099999999999998,
+   "register": 69.5,
+   "even": 0.6398386293935355,
+   "long-short": 0.0,
+   "rhythm variety": 1.4122313620254636,
+   "surprise, pitch": 2.561781042896624,
+   "surprise, rhythm": 1.4932462370054833,
+   "density": 4.56535226263764,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "chorale",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.6973975636766335,
+   "repeats": 0.0932516611295681,
+   "leaps": 0.1354720376522702,
+   "move": 2.6454413082437274,
+   "rising": 0.39275313620071683,
+   "leap answered": 0.6757575757575758,
+   "range": 12.333333333333334,
+   "register": 72.33333333333333,
+   "even": 0.5966183574879227,
+   "long-short": 0.010121923165401427,
+   "rhythm variety": 1.6140560323514366,
+   "surprise, pitch": 2.907095980888002,
+   "surprise, rhythm": 1.6417526529685826,
+   "density": 2.5275988548935406,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 232,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "chorale",
+  "forces": "voices",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 24,
+  "values": {
+   "steps": 0.655999357910154,
+   "repeats": 0.19133025798139025,
+   "leaps": 0.061944439457405596,
+   "move": 2.2065294449042394,
+   "rising": 0.44938706218287655,
+   "leap answered": 0.3900226757369614,
+   "range": 9.235416666666666,
+   "register": 70.75,
+   "even": 0.6653461149302978,
+   "long-short": 0.08282197868318301,
+   "rhythm variety": 1.5491029922482886,
+   "surprise, pitch": 2.6077211016332376,
+   "surprise, rhythm": 1.426658637955624,
+   "density": 4.150254513450034,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.061944439457405596,
+    "others": 0.09940009976045772,
+    "auc": 0.2411458333333333
+   },
+   {
+    "measure": "move",
+    "value": 2.2065294449042394,
+    "others": 2.398916571001037,
+    "auc": 0.24739583333333334
+   },
+   {
+    "measure": "register",
+    "value": 70.75,
+    "others": 65.025,
+    "auc": 0.7895833333333333
+   },
+   {
+    "measure": "even",
+    "value": 0.6653461149302978,
+    "others": 0.35628408885265794,
+    "auc": 0.9583333333333334
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.5491029922482886,
+    "others": 2.745270116802047,
+    "auc": 0.015625
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.426658637955624,
+    "others": 2.2008346040348936,
+    "auc": 0.02708333333333333
+   },
+   {
+    "measure": "density",
+    "value": 4.150254513450034,
+    "others": 1.638301554484915,
+    "auc": 0.9499999999999998
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 14,
+    "per_1000": 20.0,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor321.krn",
+      "label": "chor321 (kern)",
+      "bar": 2,
+      "notes": "D5 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor064.krn",
+      "label": "chor064 (kern)",
+      "bar": 1,
+      "notes": "B4 A4 G4 F#4"
+     },
+     {
+      "work": "kern/bach-chorales:chor138.krn",
+      "label": "chor138 (kern)",
+      "bar": 1,
+      "notes": "B4 A4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 8,
+    "per_1000": 10.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor281.krn",
+      "label": "chor281 (kern)",
+      "bar": 5,
+      "notes": "C5 D5 D5 C5"
+     },
+     {
+      "work": "kern/bach-chorales:chor321.krn",
+      "label": "chor321 (kern)",
+      "bar": 4,
+      "notes": "C5 D5 D5 C5"
+     },
+     {
+      "work": "kern/bach-chorales:chor331.krn",
+      "label": "chor331 (kern)",
+      "bar": 5,
+      "notes": "E5 F#5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     2
+    ],
+    "z": 4.5,
+    "works": 6,
+    "per_1000": 10.5,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor138.krn",
+      "label": "chor138 (kern)",
+      "bar": 1,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "kern/bach-chorales:chor283.krn",
+      "label": "chor283 (kern)",
+      "bar": 1,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "kern/bach-chorales:chor321.krn",
+      "label": "chor321 (kern)",
+      "bar": 5,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 8,
+    "per_1000": 12.4,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor064.krn",
+      "label": "chor064 (kern)",
+      "bar": 1,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "kern/bach-chorales:chor254.krn",
+      "label": "chor254 (kern)",
+      "bar": 1,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor267.krn",
+      "label": "chor267 (kern)",
+      "bar": 7,
+      "notes": "D5 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 6.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor008.krn",
+      "label": "chor008 (kern)",
+      "bar": 9,
+      "notes": "C#5 C5 C5 Bb4"
+     },
+     {
+      "work": "kern/bach-chorales:chor142.krn",
+      "label": "chor142 (kern)",
+      "bar": 9,
+      "notes": "F5 E5 E5 D5"
+     },
+     {
+      "work": "kern/bach-chorales:chor267.krn",
+      "label": "chor267 (kern)",
+      "bar": 11,
+      "notes": "Bb4 A4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 5,
+    "per_1000": 6.7,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor281.krn",
+      "label": "chor281 (kern)",
+      "bar": 5,
+      "notes": "Bb4 C5 D5 D5"
+     },
+     {
+      "work": "kern/bach-chorales:chor331.krn",
+      "label": "chor331 (kern)",
+      "bar": 5,
+      "notes": "D5 E5 F#5 F#5"
+     },
+     {
+      "work": "kern/bach-chorales:chor025.krn",
+      "label": "chor025 (kern)",
+      "bar": 5,
+      "notes": "Ab4 Bb4 C5 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "chorale",
+  "forces": "voices",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 312,
+  "values": {
+   "steps": 0.7018155443400891,
+   "repeats": 0.14873315018165642,
+   "leaps": 0.07416631632038748,
+   "move": 2.1796837707541736,
+   "rising": 0.4592482264062434,
+   "leap answered": 0.41661831609748273,
+   "range": 9.071634615384616,
+   "register": 70.6650641025641,
+   "even": 0.6430312324337695,
+   "long-short": 0.05197303313967624,
+   "rhythm variety": 1.4874189285144424,
+   "surprise, pitch": 2.569544008224198,
+   "surprise, rhythm": 1.3816595159966165,
+   "density": 4.329865008175374,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7018155443400891,
+    "others": 0.6086967697893478,
+    "auc": 0.7959935897435897
+   },
+   {
+    "measure": "move",
+    "value": 2.1796837707541736,
+    "others": 2.398916571001037,
+    "auc": 0.24338942307692307
+   },
+   {
+    "measure": "register",
+    "value": 70.6650641025641,
+    "others": 65.025,
+    "auc": 0.7972355769230769
+   },
+   {
+    "measure": "even",
+    "value": 0.6430312324337695,
+    "others": 0.35628408885265794,
+    "auc": 0.928565705128205
+   },
+   {
+    "measure": "long-short",
+    "value": 0.05197303313967624,
+    "others": 0.1418320532201156,
+    "auc": 0.1437099358974359
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.4874189285144424,
+    "others": 2.745270116802047,
+    "auc": 0.015384615384615387
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3816595159966165,
+    "others": 2.2008346040348936,
+    "auc": 0.018589743589743593
+   },
+   {
+    "measure": "density",
+    "value": 4.329865008175374,
+    "others": 1.638301554484915,
+    "auc": 0.9485576923076923
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.8,
+    "works": 134,
+    "per_1000": 13.7,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor239.krn",
+      "label": "chor239 (kern)",
+      "bar": 3,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor015.krn",
+      "label": "chor015 (kern)",
+      "bar": 1,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor029.krn",
+      "label": "chor029 (kern)",
+      "bar": 1,
+      "notes": "A4 G4 F#4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 122,
+    "per_1000": 11.9,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor055.krn",
+      "label": "chor055 (kern)",
+      "bar": 1,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "kern/bach-chorales:chor081.krn",
+      "label": "chor081 (kern)",
+      "bar": 1,
+      "notes": "E5 D5 C5 B4"
+     },
+     {
+      "work": "kern/bach-chorales:chor113.krn",
+      "label": "chor113 (kern)",
+      "bar": 1,
+      "notes": "F5 Eb5 C#5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.5,
+    "works": 109,
+    "per_1000": 9.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor313.krn",
+      "label": "Cantata, BWV 112: Der Herr ist mein getreuer Hirt, chor313 (kern)",
+      "bar": 3,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor125.krn",
+      "label": "chor125 (kern)",
+      "bar": 3,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor132.krn",
+      "label": "chor132 (kern)",
+      "bar": 7,
+      "notes": "B4 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 90,
+    "per_1000": 8.7,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor132.krn",
+      "label": "chor132 (kern)",
+      "bar": 15,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/bach-chorales:chor071.krn",
+      "label": "chor071 (kern)",
+      "bar": 3,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "kern/bach-chorales:chor119.krn",
+      "label": "chor119 (kern)",
+      "bar": 3,
+      "notes": "Eb5 D5 C5 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 59,
+    "per_1000": 6.2,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor081.krn",
+      "label": "chor081 (kern)",
+      "bar": 3,
+      "notes": "D5 E5 E5 D5"
+     },
+     {
+      "work": "kern/bach-chorales:chor113.krn",
+      "label": "chor113 (kern)",
+      "bar": 3,
+      "notes": "Eb5 F5 F5 Eb5"
+     },
+     {
+      "work": "kern/bach-chorales:chor095.krn",
+      "label": "chor095 (kern)",
+      "bar": 1,
+      "notes": "Eb5 F5 F5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     0
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 57,
+    "per_1000": 5.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor121.krn",
+      "label": "chor121 (kern)",
+      "bar": 2,
+      "notes": "D5 C#5 B4 B4"
+     },
+     {
+      "work": "kern/bach-chorales:chor024.krn",
+      "label": "chor024 (kern)",
+      "bar": 7,
+      "notes": "D5 C#5 B4 B4"
+     },
+     {
+      "work": "kern/bach-chorales:chor075.krn",
+      "label": "chor075 (kern)",
+      "bar": 2,
+      "notes": "Bb4 A4 G4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "chorale",
+  "forces": "voices",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.6930162949762778,
+   "repeats": 0.11368238667332478,
+   "leaps": 0.1340130839586196,
+   "move": 2.4846546561208216,
+   "rising": 0.4165749163117584,
+   "leap answered": 0.6285714285714287,
+   "range": 10.610000000000001,
+   "register": 70.0,
+   "even": 0.7210536641896493,
+   "long-short": 0.041600573339703774,
+   "rhythm variety": 1.3590163284268333,
+   "surprise, pitch": 2.6812051992493746,
+   "surprise, rhythm": 1.3521788430415957,
+   "density": 4.548789625156242,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.6930162949762778,
+    "others": 0.6086967697893478,
+    "auc": 0.7875
+   },
+   {
+    "measure": "repeats",
+    "value": 0.11368238667332478,
+    "others": 0.1923161102163255,
+    "auc": 0.21000000000000002
+   },
+   {
+    "measure": "rising",
+    "value": 0.4165749163117584,
+    "others": 0.4727686186502177,
+    "auc": 0.19
+   },
+   {
+    "measure": "even",
+    "value": 0.7210536641896493,
+    "others": 0.35628408885265794,
+    "auc": 1.0
+   },
+   {
+    "measure": "long-short",
+    "value": 0.041600573339703774,
+    "others": 0.1418320532201156,
+    "auc": 0.075
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.3590163284268333,
+    "others": 2.745270116802047,
+    "auc": 0.0
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3521788430415957,
+    "others": 2.2008346040348936,
+    "auc": 0.0
+   },
+   {
+    "measure": "density",
+    "value": 4.548789625156242,
+    "others": 1.638301554484915,
+    "auc": 0.95
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "chorale",
+  "forces": "voices",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.7376024844720497,
+   "repeats": 0.13180194251613692,
+   "leaps": 0.08889459261965656,
+   "move": 2.206802701700944,
+   "rising": 0.4319196124052739,
+   "leap answered": 0.64,
+   "range": 10.419999999999996,
+   "register": 69.8,
+   "even": 0.667426459070384,
+   "long-short": 0.0,
+   "rhythm variety": 1.3270704353665395,
+   "surprise, pitch": 2.5945183810491015,
+   "surprise, rhythm": 1.3948140951952859,
+   "density": 4.722504773226537,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7376024844720497,
+    "others": 0.6086967697893478,
+    "auc": 0.9275
+   },
+   {
+    "measure": "move",
+    "value": 2.206802701700944,
+    "others": 2.398916571001037,
+    "auc": 0.23500000000000001
+   },
+   {
+    "measure": "even",
+    "value": 0.667426459070384,
+    "others": 0.35628408885265794,
+    "auc": 0.9949999999999999
+   },
+   {
+    "measure": "long-short",
+    "value": 0.0,
+    "others": 0.1418320532201156,
+    "auc": 0.0
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.3270704353665395,
+    "others": 2.745270116802047,
+    "auc": 0.0
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.5945183810491015,
+    "others": 2.7830002171574497,
+    "auc": 0.15499999999999997
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3948140951952859,
+    "others": 2.2008346040348936,
+    "auc": 0.0
+   },
+   {
+    "measure": "density",
+    "value": 4.722504773226537,
+    "others": 1.638301554484915,
+    "auc": 0.95
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "chorale prelude",
+  "forces": "organ",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.766994477694563,
+   "repeats": 0.05809027022815719,
+   "leaps": 0.09929365027348555,
+   "move": 2.3355990435322256,
+   "rising": 0.4705991930974728,
+   "leap answered": 0.2979417670682731,
+   "range": 13.462499999999999,
+   "register": 68.25,
+   "even": 0.6280438414413615,
+   "long-short": 0.05846370749511237,
+   "rhythm variety": 1.9674387099705222,
+   "surprise, pitch": 2.30597284349997,
+   "surprise, rhythm": 1.575380474374577,
+   "density": 5.0859719645433925,
+   "lines": 2.5
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 21,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "chorale prelude",
+  "forces": "organ",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.6376002730841441,
+   "repeats": 0.1463273616991162,
+   "leaps": 0.13167323359101488,
+   "move": 2.596072225752631,
+   "rising": 0.4789884275638299,
+   "leap answered": 0.2748868778280543,
+   "range": 14.074999999999996,
+   "register": 66.25,
+   "even": 0.6106169869126085,
+   "long-short": 0.03572530018093097,
+   "rhythm variety": 1.9019517245597122,
+   "surprise, pitch": 2.820546530717985,
+   "surprise, rhythm": 1.770965360725012,
+   "density": 4.291032037815126,
+   "lines": 2.75
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 21,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "concerto",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5982423261959146,
+   "repeats": 0.04226860233896562,
+   "leaps": 0.18823343871342454,
+   "move": 3.081590172211906,
+   "rising": 0.4674166482038087,
+   "leap answered": 0.2275960850114019,
+   "range": 17.333333333333332,
+   "register": 72.33333333333333,
+   "even": 0.7338626903632725,
+   "long-short": 0.054934750680008526,
+   "rhythm variety": 1.6353898831778322,
+   "surprise, pitch": 2.6563119714780767,
+   "surprise, rhythm": 1.0964567344504155,
+   "density": 5.576849856321839,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 59,
+   "composers": 2
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.6391515535331731,
+   "repeats": 0.05263381106143131,
+   "leaps": 0.13294568526375916,
+   "move": 2.6472166877272847,
+   "rising": 0.49070275219948095,
+   "leap answered": 0.42675938211541925,
+   "range": 14.566666666666663,
+   "register": 78.0,
+   "even": 0.6074122993571321,
+   "long-short": 0.07944405366825129,
+   "rhythm variety": 2.1052459056638178,
+   "surprise, pitch": 2.6448609975881414,
+   "surprise, rhythm": 1.3646808372019035,
+   "density": 9.48624760452991,
+   "lines": 8.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.05263381106143131,
+    "others": 0.13785219472958163,
+    "auc": 0.09563807839669908
+   },
+   {
+    "measure": "register",
+    "value": 78.0,
+    "others": 74.71914866742453,
+    "auc": 0.7876352574628437
+   },
+   {
+    "measure": "density",
+    "value": 9.48624760452991,
+    "others": 5.296790003539606,
+    "auc": 0.8412698412698411
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -3,
+     1,
+     0
+    ],
+    "rhythm": [
+     -2,
+     2,
+     -2
+    ],
+    "z": 3.9,
+    "works": 4,
+    "per_1000": 2.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1050c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 3. (kern)",
+      "bar": 63,
+      "notes": "E5 C#5 D5 D5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1049a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 1. (kern)",
+      "bar": 82,
+      "notes": "A5 F#5 G5 G5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1050a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 1. (kern)",
+      "bar": 18,
+      "notes": "B5 Ab5 A5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 5,
+    "per_1000": 4.0,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1049b.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 2. (kern)",
+      "bar": 1,
+      "notes": "C6 B5 C6 A5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1050c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 3. (kern)",
+      "bar": 85,
+      "notes": "G5 F#5 G5 E5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1049c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 3. (kern)",
+      "bar": 35,
+      "notes": "G5 F#5 G5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 2.8,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1050a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 1. (kern)",
+      "bar": 61,
+      "notes": "A4 B4 D5 C#5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1049a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 1. (kern)",
+      "bar": 41,
+      "notes": "C6 D6 F6 E6"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1049b.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 2. (kern)",
+      "bar": 2,
+      "notes": "G5 A5 C6 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     4,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 3,
+    "per_1000": 2.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1050a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 1. (kern)",
+      "bar": 28,
+      "notes": "E5 D5 F#5 E5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1050c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 3. (kern)",
+      "bar": 19,
+      "notes": "B4 A4 C#5 B4"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1049a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 1. (kern)",
+      "bar": 159,
+      "notes": "A5 G5 B5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     4,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 4,
+    "per_1000": 2.5,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1050a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 1. (kern)",
+      "bar": 62,
+      "notes": "C#5 D5 F#5 E5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1049a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 1. (kern)",
+      "bar": 37,
+      "notes": "B5 C6 E6 D6"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1050c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 3. (kern)",
+      "bar": 86,
+      "notes": "C#5 D5 F#5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 6,
+    "per_1000": 4.3,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1049a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 1. (kern)",
+      "bar": 157,
+      "notes": "G5 F#5 A5 G5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1050a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 1. (kern)",
+      "bar": 48,
+      "notes": "G5 F#5 A5 G5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1050c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte D, movement Movement 3. (kern)",
+      "bar": 9,
+      "notes": "G5 F#5 A5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 62,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "concerto",
+  "forces": "orchestra",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 18,
+  "values": {
+   "steps": 0.5645182393815974,
+   "repeats": 0.09300333152186391,
+   "leaps": 0.16839147932385434,
+   "move": 2.999217153356607,
+   "rising": 0.47413668217803967,
+   "leap answered": 0.23966099515398673,
+   "range": 16.366666666666667,
+   "register": 73.83333333333333,
+   "even": 0.6381363784453042,
+   "long-short": 0.06095684930607844,
+   "rhythm variety": 1.787465549523756,
+   "surprise, pitch": 2.360266037794664,
+   "surprise, rhythm": 1.1543138914576578,
+   "density": 13.360553093524127,
+   "lines": 7.944444444444445
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 16.366666666666667,
+    "others": 13.205728179866108,
+    "auc": 0.7726885183781734
+   },
+   {
+    "measure": "density",
+    "value": 13.360553093524127,
+    "others": 5.296790003539606,
+    "auc": 0.8522132401442746
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 7,
+    "per_1000": 2.0,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1046c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte F, movement Movement 3. (kern)",
+      "bar": 6,
+      "notes": "D5 C5 D5 Bb4"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1051c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte B, movement Movement 3. (kern)",
+      "bar": 2,
+      "notes": "D5 C5 D5 Bb4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1043/concerto-in-d-minor#3",
+      "label": "Concerto in D minor for two violins and strings (BWV 1043), movement 3: Allegro (Mutopia)",
+      "bar": 28,
+      "notes": "A5 G5 A5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.6,
+    "works": 6,
+    "per_1000": 1.7,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1046d.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte F, movement Movement 4. (kern)",
+      "bar": 2,
+      "notes": "C5 Bb4 A4 Bb4"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1046g.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte F, movement Movement 7. (kern)",
+      "bar": 3,
+      "notes": "C5 Bb4 A4 Bb4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1043/concerto-in-d-minor#3",
+      "label": "Concerto in D minor for two violins and strings (BWV 1043), movement 3: Allegro (Mutopia)",
+      "bar": 81,
+      "notes": "G5 F5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 6,
+    "per_1000": 1.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1047c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte F, movement Movement 3. (kern)",
+      "bar": 5,
+      "notes": "A5 G5 Bb5 A5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1048a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 1. (kern)",
+      "bar": 31,
+      "notes": "E5 D5 F5 E5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1043/concerto-in-d-minor#1",
+      "label": "Concerto in D minor for two violins and strings (BWV 1043), movement 1: Vivace (Mutopia)",
+      "bar": 25,
+      "notes": "E5 D5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 5,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1051a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte B, movement Movement 1. (kern)",
+      "bar": 1,
+      "notes": "F3 Bb3 A3 Bb3"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1043/concerto-in-d-minor#3",
+      "label": "Concerto in D minor for two violins and strings (BWV 1043), movement 3: Allegro (Mutopia)",
+      "bar": 3,
+      "notes": "A4 D5 C#5 D5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1046a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte F, movement Movement 1. (kern)",
+      "bar": 2,
+      "notes": "C5 F5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 1.3,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1048b.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 2. (kern)",
+      "bar": 15,
+      "notes": "E5 Eb5 E5 B4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1043/concerto-in-d-minor#3",
+      "label": "Concerto in D minor for two violins and strings (BWV 1043), movement 3: Allegro (Mutopia)",
+      "bar": 16,
+      "notes": "D5 C#5 D5 A4"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1051a.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte B, movement Movement 1. (kern)",
+      "bar": 19,
+      "notes": "Bb4 A4 Bb4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.0,
+    "works": 9,
+    "per_1000": 2.4,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/bach-brandenburg:bwv1046c.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte F, movement Movement 3. (kern)",
+      "bar": 5,
+      "notes": "F5 E5 F5 D5"
+     },
+     {
+      "work": "kern/bach-brandenburg:bwv1048b.krn",
+      "label": "Six Concerts Avec plusieurs ... le prince regnant d'Anhalt-Coethen, Brandenburgische Konzerte G, movement Movement 2. (kern)",
+      "bar": 12,
+      "notes": "G4 F#4 G4 E4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1043/concerto-in-d-minor#3",
+      "label": "Concerto in D minor for two violins and strings (BWV 1043), movement 3: Allegro (Mutopia)",
+      "bar": 24,
+      "notes": "F4 E4 F4 D4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 62,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "courante",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 13,
+  "values": {
+   "steps": 0.6337784819996523,
+   "repeats": 0.06493853268965907,
+   "leaps": 0.15952839174763617,
+   "move": 2.826565724890332,
+   "rising": 0.458168638160943,
+   "leap answered": 0.3512541088424363,
+   "range": 15.607692307692307,
+   "register": 72.61538461538461,
+   "even": 0.6271060500383671,
+   "long-short": 0.21120697722858434,
+   "rhythm variety": 1.7434746471175464,
+   "surprise, pitch": 2.7340266199491152,
+   "surprise, rhythm": 1.100976772280249,
+   "density": 3.5495732891744365,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.7,
+    "works": 12,
+    "per_1000": 11.0,
+    "others_per_1000": 1.8,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_03_Courante.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 3: Courante (DCML)",
+      "bar": 2,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV808_03_Courante.notes.tsv",
+      "label": "English Suite No. 3, BWV 808, movement 3: Courante (DCML)",
+      "bar": 4,
+      "notes": "C5 Bb4 A4 Bb4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV814_02_Courante.notes.tsv",
+      "label": "French Suite No. 3, BWV 814, movement 2: Courante (DCML)",
+      "bar": 14,
+      "notes": "E5 D5 C#5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "courante",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.491720485927803,
+   "repeats": 0.010437744392769763,
+   "leaps": 0.251229736604798,
+   "move": 3.457445715796819,
+   "rising": 0.4871648311593319,
+   "leap answered": 0.2447048349112397,
+   "range": 19.69999999999999,
+   "register": 71.75,
+   "even": 0.7827413223645694,
+   "long-short": 0.09414036672904988,
+   "rhythm variety": 1.3222455367345485,
+   "surprise, pitch": 2.800786122407286,
+   "surprise, rhythm": 0.8306189147840144,
+   "density": 5.607905012042893,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "courante",
+  "forces": "solo instrument",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.49828534124061113,
+   "repeats": 0.009326156016977971,
+   "leaps": 0.2730151209806642,
+   "move": 3.9507994519587957,
+   "rising": 0.4676058236824985,
+   "leap answered": 0.22760793337716415,
+   "range": 20.933333333333334,
+   "register": 72.16666666666667,
+   "even": 0.8982382181109628,
+   "long-short": 0.05728520221197251,
+   "rhythm variety": 0.6043899621568536,
+   "surprise, pitch": 2.8729151252968883,
+   "surprise, rhythm": 0.4475510653839896,
+   "density": 2.7523625345626077,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "courante",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.5680378455066509,
+   "repeats": 0.0248883006683417,
+   "leaps": 0.24473305295098993,
+   "move": 3.6605911476447655,
+   "rising": 0.4743676909824895,
+   "leap answered": 0.22765622575662528,
+   "range": 18.641666666666666,
+   "register": 54.75,
+   "even": 0.8444297889277367,
+   "long-short": 0.04890062552064892,
+   "rhythm variety": 0.8794021223550722,
+   "surprise, pitch": 2.8657054801132813,
+   "surprise, rhythm": 0.7593694659520173,
+   "density": 2.720938275895262,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.0248883006683417,
+    "others": 0.07651526003686292,
+    "auc": 0.16185897435897437
+   },
+   {
+    "measure": "even",
+    "value": 0.8444297889277367,
+    "others": 0.5202990360084642,
+    "auc": 0.8728632478632479
+   },
+   {
+    "measure": "long-short",
+    "value": 0.04890062552064892,
+    "others": 0.19958443177107038,
+    "auc": 0.14102564102564102
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 0.8794021223550722,
+    "others": 2.1041860382495465,
+    "auc": 0.1185897435897436
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.7593694659520173,
+    "others": 1.462210159711185,
+    "auc": 0.16666666666666666
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 5,
+    "per_1000": 6.2,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_03_Courante.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 3: Courante (DCML)",
+      "bar": 14,
+      "notes": "C#4 B3 C#4 B3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_03_Courante.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 3: Courante (DCML)",
+      "bar": 5,
+      "notes": "B3 A3 B3 A3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_03_Courante.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 3: Courante (DCML)",
+      "bar": 23,
+      "notes": "G3 F3 G3 F3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 21,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 75,
+  "values": {
+   "steps": 0.6004259011937824,
+   "repeats": 0.05819463077238309,
+   "leaps": 0.18014195210951597,
+   "move": 2.9497054854768674,
+   "rising": 0.4763594146815177,
+   "leap answered": 0.35590047402989466,
+   "range": 15.36333333333333,
+   "register": 73.05333333333333,
+   "even": 0.6743700613954318,
+   "long-short": 0.08904057679065092,
+   "rhythm variety": 1.658309700015567,
+   "surprise, pitch": 2.782997101267617,
+   "surprise, rhythm": 1.1857175622182536,
+   "density": 4.21650941465257,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 51,
+    "per_1000": 7.3,
+    "others_per_1000": 2.3,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV810_05_Passepied_I.notes.tsv",
+      "label": "English Suite No. 5, BWV 810, movement 5: Passepied I (DCML)",
+      "bar": 3,
+      "notes": "G5 A5 B5 C6"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_07_Gigue.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 7: Gigue (DCML)",
+      "bar": 8,
+      "notes": "C5 D5 E5 F5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_10_Gigue.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 10: Gigue (DCML)",
+      "bar": 4,
+      "notes": "A4 B4 C#5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 64,
+    "per_1000": 10.4,
+    "others_per_1000": 4.5,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_10_Gigue.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 10: Gigue (DCML)",
+      "bar": 7,
+      "notes": "A5 Ab5 F#5 E5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV817_07_Gigue.notes.tsv",
+      "label": "French Suite No. 6, BWV 817, movement 7: Gigue (DCML)",
+      "bar": 3,
+      "notes": "A4 Ab4 F#4 E4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_08_Gigue.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 8: Gigue (DCML)",
+      "bar": 2,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 36,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "dance",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 21,
+  "values": {
+   "steps": 0.555045778886133,
+   "repeats": 0.040509411369239454,
+   "leaps": 0.23234455384556263,
+   "move": 3.3431551869138696,
+   "rising": 0.4866258366862131,
+   "leap answered": 0.2859349686424044,
+   "range": 17.373809523809523,
+   "register": 72.26190476190476,
+   "even": 0.6605374955421099,
+   "long-short": 0.1187237714380412,
+   "rhythm variety": 1.774915967410276,
+   "surprise, pitch": 2.852532546340394,
+   "surprise, rhythm": 1.191042293828113,
+   "density": 5.599996718341121,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 17.373809523809523,
+    "others": 14.098015873015873,
+    "auc": 0.8112244897959184
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -4,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 9,
+    "per_1000": 3.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV829/5-Partita#3",
+      "label": "Six Partitas (Clavierubung part I): No. 5 (BWV 829), movement 3: 3. Corrente (Mutopia)",
+      "bar": 26,
+      "notes": "F#4 D4 C#4 D4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV827/BWV-827#6",
+      "label": "Keyboard partita in A minor (BWV 827), movement 6: 6. Gigue (Mutopia)",
+      "bar": 34,
+      "notes": "Ab4 E4 Eb4 E4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV830/BWV-830#3",
+      "label": "Keyboard partita in E minor (BWV 830), movement 3: 3. Courante (Mutopia)",
+      "bar": 30,
+      "notes": "B4 G4 F#4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 36,
+   "composers": 4
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "dance",
+  "forces": "solo instrument",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 17,
+  "values": {
+   "steps": 0.52398937782208,
+   "repeats": 0.03482029073906436,
+   "leaps": 0.233701042097299,
+   "move": 3.657003415203537,
+   "rising": 0.4755035262243299,
+   "leap answered": 0.2727255910880413,
+   "range": 18.458823529411763,
+   "register": 73.61764705882354,
+   "even": 0.7693961598380783,
+   "long-short": 0.0579033158200692,
+   "rhythm variety": 1.1771859709046761,
+   "surprise, pitch": 2.835945321228581,
+   "surprise, rhythm": 0.8912070733901978,
+   "density": 3.0752497827784033,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.03482029073906436,
+    "others": 0.10399626093414269,
+    "auc": 0.2448623076913685
+   },
+   {
+    "measure": "move",
+    "value": 3.657003415203537,
+    "others": 3.159301905016446,
+    "auc": 0.7516196652071041
+   },
+   {
+    "measure": "even",
+    "value": 0.7693961598380783,
+    "others": 0.5488431304986379,
+    "auc": 0.790297433690482
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.1771859709046761,
+    "others": 2.0161179938378795,
+    "auc": 0.21169582125611056
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 14,
+    "per_1000": 6.4,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1004/bwv-1004_4_giga",
+      "label": "BWV 1004 Giga (Mutopia)",
+      "bar": 5,
+      "notes": "G4 A4 Bb4 C5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1006_06_Gigue.notes.tsv",
+      "label": "Partita No. 3 in E major, BWV 1006, movement 6: Gigue (DCML)",
+      "bar": 1,
+      "notes": "F#4 Ab4 A4 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1004_02_Courante.notes.tsv",
+      "label": "Partita No. 2 in D minor, BWV 1004, movement 2: Corrente (DCML)",
+      "bar": 5,
+      "notes": "D4 E4 F4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 10,
+    "per_1000": 3.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1004/bwv-1004_4_giga",
+      "label": "BWV 1004 Giga (Mutopia)",
+      "bar": 10,
+      "notes": "C5 E5 G5 Bb5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_03_Corrente.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 3: Corrente (DCML)",
+      "bar": 13,
+      "notes": "A3 C#4 E4 G4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_02_Corrente.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 2: Corrente (DCML)",
+      "bar": 45,
+      "notes": "A4 C#5 E5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 12,
+    "per_1000": 3.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_03_Corrente.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 3: Corrente (DCML)",
+      "bar": 13,
+      "notes": "C#4 E4 G4 F#4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_01_Allemande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 1: Allemande (DCML)",
+      "bar": 18,
+      "notes": "F#4 A4 C5 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1006_06_Gigue.notes.tsv",
+      "label": "Partita No. 3 in E major, BWV 1006, movement 6: Gigue (DCML)",
+      "bar": 5,
+      "notes": "Ab4 B4 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 7,
+    "per_1000": 3.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1006/bwv-1006_3",
+      "label": "BWV 1006 - Gavotte en Rondeau (Mutopia)",
+      "bar": 4,
+      "notes": "Ab4 E4 Ab4 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_01_Allemande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 1: Allemande (DCML)",
+      "bar": 5,
+      "notes": "Ab4 E4 Ab4 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_04_BourreeAnglaise.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 4: Bourrée angloise (DCML)",
+      "bar": 8,
+      "notes": "B4 G4 B4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 12,
+    "per_1000": 3.6,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_03_Sarabande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 3: Sarabande (DCML)",
+      "bar": 3,
+      "notes": "D5 F5 E5 D5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV1006/bwv-1006_3",
+      "label": "BWV 1006 - Gavotte en Rondeau (Mutopia)",
+      "bar": 57,
+      "notes": "B4 D5 C#5 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_01_Allemande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 1: Allemande (DCML)",
+      "bar": 39,
+      "notes": "D5 F5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     4,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 7,
+    "per_1000": 2.8,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV1004/bwv-1004_4_giga",
+      "label": "BWV 1004 Giga (Mutopia)",
+      "bar": 1,
+      "notes": "D4 F4 A4 D5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_03_Corrente.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 3: Corrente (DCML)",
+      "bar": 1,
+      "notes": "B3 D4 F#4 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_01_Allemande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 1: Allemande (DCML)",
+      "bar": 6,
+      "notes": "A4 C5 E5 A5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 138,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "dance",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 36,
+  "values": {
+   "steps": 0.5627024969868436,
+   "repeats": 0.03515434673222975,
+   "leaps": 0.23007083304572973,
+   "move": 3.578863613170201,
+   "rising": 0.481183666424985,
+   "leap answered": 0.26861386842872625,
+   "range": 17.02638888888889,
+   "register": 55.34722222222222,
+   "even": 0.7507732472709612,
+   "long-short": 0.05345870342627723,
+   "rhythm variety": 1.2257475882315116,
+   "surprise, pitch": 2.7772947401875707,
+   "surprise, rhythm": 0.9207986082418835,
+   "density": 2.647543535677272,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.03515434673222975,
+    "others": 0.10399626093414269,
+    "auc": 0.22827094275167914
+   },
+   {
+    "measure": "even",
+    "value": 0.7507732472709612,
+    "others": 0.5488431304986379,
+    "auc": 0.7740440590743142
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.2257475882315116,
+    "others": 2.0161179938378795,
+    "auc": 0.21469467022964292
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 25,
+    "per_1000": 6.8,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_07_Gique.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 7: Gigue (DCML)",
+      "bar": 3,
+      "notes": "Ab3 G3 F3 G3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_02_Allemande.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 2: Allemande (DCML)",
+      "bar": 8,
+      "notes": "Eb3 D3 C3 D3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_03_Courante.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 3: Courante (DCML)",
+      "bar": 12,
+      "notes": "D4 C#4 B3 C#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.3,
+    "works": 21,
+    "per_1000": 6.6,
+    "others_per_1000": 1.6,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_05_BourreeI.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 5: Bourrée I (DCML)",
+      "bar": 0,
+      "notes": "F3 G3 Ab3 Bb3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_07_Gique.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 7: Gigue (DCML)",
+      "bar": 10,
+      "notes": "F#3 Ab3 A3 B3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_02_Allemande.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 2: Allemande (DCML)",
+      "bar": 7,
+      "notes": "C3 D3 Eb3 F3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 17,
+    "per_1000": 4.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_07_Gique.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 7: Gigue (DCML)",
+      "bar": 9,
+      "notes": "Eb3 D3 Eb3 C3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_03_Courante.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 3: Courante (DCML)",
+      "bar": 5,
+      "notes": "C4 B3 C4 A3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_02_Allemande.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 2: Allemande (DCML)",
+      "bar": 2,
+      "notes": "G3 F#3 G3 E3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 27,
+    "per_1000": 8.2,
+    "others_per_1000": 3.1,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1011_06_GavotteII.notes.tsv",
+      "label": "Suite No. 5 in C minor, BWV 1011, movement 6: Gavotte II (DCML)",
+      "bar": 1,
+      "notes": "D3 C3 B2 C3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_03_Courante.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 3: Courante (DCML)",
+      "bar": 13,
+      "notes": "E4 D4 C#4 D4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_02_Allemande.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 2: Allemande (DCML)",
+      "bar": 1,
+      "notes": "A3 G3 F#3 G3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.4,
+    "works": 15,
+    "per_1000": 3.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_03_Courante.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 3: Courante (DCML)",
+      "bar": 23,
+      "notes": "F#3 A3 Ab3 F#3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_02_Allemande.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 2: Allemande (DCML)",
+      "bar": 3,
+      "notes": "B4 D5 C#5 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_06_MenuetII.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 6: Minuet II (DCML)",
+      "bar": 9,
+      "notes": "C4 Eb4 D4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 17,
+    "per_1000": 3.8,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_02_Allemande.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 2: Allemande (DCML)",
+      "bar": 3,
+      "notes": "F#3 G3 E3 F#3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1008_07_Gique.notes.tsv",
+      "label": "Suite No. 2 in D minor, BWV 1008, movement 7: Gigue (DCML)",
+      "bar": 15,
+      "notes": "E3 F3 D3 E3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1008_03_Courante.notes.tsv",
+      "label": "Suite No. 2 in D minor, BWV 1008, movement 3: Courante (DCML)",
+      "bar": 1,
+      "notes": "A3 Bb3 G3 A3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 138,
+   "composers": 13
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "duet",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.6017551777248946,
+   "repeats": 0.01500914874359425,
+   "leaps": 0.23464701977600774,
+   "move": 3.297813362694163,
+   "rising": 0.48905654055780867,
+   "leap answered": 0.21835242225278692,
+   "range": 16.666666666666668,
+   "register": 70.66666666666667,
+   "even": 0.7839149172213689,
+   "long-short": 0.05040834613415258,
+   "rhythm variety": 1.3923262333466127,
+   "surprise, pitch": 2.6671179158094245,
+   "surprise, rhythm": 1.0352148709038664,
+   "density": 5.421148317267039,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 52,
+   "composers": 17
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "fugue",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 24,
+  "values": {
+   "steps": 0.7091912340087575,
+   "repeats": 0.04001952484988679,
+   "leaps": 0.13721744779557762,
+   "move": 2.5726325877417815,
+   "rising": 0.4810045215922125,
+   "leap answered": 0.3867472775552236,
+   "range": 14.835416666666665,
+   "register": 73.22916666666667,
+   "even": 0.663863202847503,
+   "long-short": 0.05568787206362608,
+   "rhythm variety": 1.8676333656160864,
+   "surprise, pitch": 2.5101378617034737,
+   "surprise, rhythm": 1.3757957026257666,
+   "density": 5.64684554392237,
+   "lines": 3.5416666666666665
+  },
+  "traits": [
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.3757957026257666,
+    "others": 1.7771316967118564,
+    "auc": 0.21296296296296302
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.4,
+    "works": 15,
+    "per_1000": 4.8,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/bach-wtc:wtc1f21.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 21, Vol. 1 (kern)",
+      "bar": 11,
+      "notes": "Bb4 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/bach-wtc:wtc1f09.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 9, Vol. 1 (kern)",
+      "bar": 4,
+      "notes": "A4 B4 A4 Ab4"
+     },
+     {
+      "work": "kern/bach-wtc:wtc1f15.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 15, Vol. 1 (kern)",
+      "bar": 24,
+      "notes": "G4 A4 G4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.2,
+    "works": 14,
+    "per_1000": 4.2,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/bach-wtc:wtc1f16.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 16, Vol. 1 (kern)",
+      "bar": 3,
+      "notes": "G4 F4 E4 F4"
+     },
+     {
+      "work": "kern/bach-wtc:wtc1f08.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 8, Vol. 1 (kern)",
+      "bar": 13,
+      "notes": "Ab4 F#4 F4 F#4"
+     },
+     {
+      "work": "kern/bach-wtc:wtc1f12.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 12, Vol. 1 (kern)",
+      "bar": 30,
+      "notes": "Bb4 Ab4 G4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     1,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.2,
+    "works": 11,
+    "per_1000": 3.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/bach-wtc:wtc1f16.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 16, Vol. 1 (kern)",
+      "bar": 4,
+      "notes": "G4 A4 Bb4 A4"
+     },
+     {
+      "work": "kern/bach-wtc:wtc1f12.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 12, Vol. 1 (kern)",
+      "bar": 16,
+      "notes": "F4 G4 Ab4 G4"
+     },
+     {
+      "work": "kern/bach-wtc:wtc1f14.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 14, Vol. 1 (kern)",
+      "bar": 16,
+      "notes": "Ab4 Bb4 B4 Bb4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 23,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "fugue",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 25,
+  "values": {
+   "steps": 0.6540826625473667,
+   "repeats": 0.04820154983477201,
+   "leaps": 0.16759167469811817,
+   "move": 2.742793151464458,
+   "rising": 0.4641774415549306,
+   "leap answered": 0.41140279438554783,
+   "range": 14.907999999999998,
+   "register": 71.82,
+   "even": 0.6194544810646129,
+   "long-short": 0.07437573288090654,
+   "rhythm variety": 2.092975645159245,
+   "surprise, pitch": 2.6790848049101768,
+   "surprise, rhythm": 1.565272706319329,
+   "density": 5.154425232275677,
+   "lines": 3.32
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 2.6790848049101768,
+    "others": 2.4625960680109054,
+    "auc": 0.7855555555555556
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 3.3,
+    "works": 13,
+    "per_1000": 4.2,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/bach-wtc:wtc2f22.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 22, Vol. 2 (kern)",
+      "bar": 20,
+      "notes": "G5 F5 E5 F5"
+     },
+     {
+      "work": "kern/bach-wtc:wtc2f11.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 11, Vol. 2 (kern)",
+      "bar": 9,
+      "notes": "C5 Bb4 A4 Bb4"
+     },
+     {
+      "work": "kern/bach-wtc:wtc2f14.krn",
+      "label": "Das wohltemperierte Klavier, Fuga 14, Vol. 2 (kern)",
+      "bar": 5,
+      "notes": "F#4 E4 Eb4 E4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 23,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "fugue",
+  "forces": "keyboard",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.6047172917199064,
+   "repeats": 0.05712798627402633,
+   "leaps": 0.19259179905236626,
+   "move": 3.0936768088548052,
+   "rising": 0.46714751568770574,
+   "leap answered": 0.38450615552074485,
+   "range": 20.25,
+   "register": 71.0,
+   "even": 0.7252663437502533,
+   "long-short": 0.02852543288732977,
+   "rhythm variety": 1.6605232179949563,
+   "surprise, pitch": 2.6757902664697735,
+   "surprise, rhythm": 1.2471921071485652,
+   "density": 5.648474761526232,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 23,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "fugue",
+  "forces": "open score",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 20,
+  "values": {
+   "steps": 0.7358703917261934,
+   "repeats": 0.028660925514637604,
+   "leaps": 0.1304677815928709,
+   "move": 2.4751214917407673,
+   "rising": 0.4834707787533035,
+   "leap answered": 0.42366260515040055,
+   "range": 15.765,
+   "register": 73.1,
+   "even": 0.5524632374803076,
+   "long-short": 0.12121261808507164,
+   "rhythm variety": 2.2457984524371333,
+   "surprise, pitch": 2.6367972033565867,
+   "surprise, rhythm": 1.5246821630865626,
+   "density": 3.79931635652569,
+   "lines": 3.45
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 23,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "fugue",
+  "forces": "solo instrument",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5086276767599834,
+   "repeats": 0.05662637172459554,
+   "leaps": 0.2624842609156383,
+   "move": 3.93297472737842,
+   "rising": 0.48085815106817775,
+   "leap answered": 0.22294493764831377,
+   "range": 21.383333333333287,
+   "register": 74.0,
+   "even": 0.7944389997992287,
+   "long-short": 0.008807714252055636,
+   "rhythm variety": 1.073289072025614,
+   "surprise, pitch": 2.9344337501827416,
+   "surprise, rhythm": 0.9617874676481932,
+   "density": 3.511717784346862,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 23,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "gavotte",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.5805013268826371,
+   "repeats": 0.07162167163046912,
+   "leaps": 0.1753774803490386,
+   "move": 2.8650496932692886,
+   "rising": 0.48368708916606423,
+   "leap answered": 0.30004326510662915,
+   "range": 12.668749999999998,
+   "register": 74.25,
+   "even": 0.6993311596419259,
+   "long-short": 0.020314296601489742,
+   "rhythm variety": 1.535625750161969,
+   "surprise, pitch": 2.703649669550751,
+   "surprise, rhythm": 1.1946314206429607,
+   "density": 3.0916679731047934,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 21,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "gavotte",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.5915483763120022,
+   "repeats": 0.04449193470491645,
+   "leaps": 0.24283600866403407,
+   "move": 3.370385137527453,
+   "rising": 0.4868422807808177,
+   "leap answered": 0.2228973168214654,
+   "range": 12.0125,
+   "register": 58.5,
+   "even": 0.8334540934086211,
+   "long-short": 0.005252100840336135,
+   "rhythm variety": 0.8540198634289817,
+   "surprise, pitch": 2.246104535335821,
+   "surprise, rhythm": 0.644158430493709,
+   "density": 2.352193813131313,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 21,
+   "composers": 8
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "gigue",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 12,
+  "values": {
+   "steps": 0.554112091484774,
+   "repeats": 0.030982937179423256,
+   "leaps": 0.23836255602449188,
+   "move": 3.3084415352347603,
+   "rising": 0.4894363001223792,
+   "leap answered": 0.3163312947140881,
+   "range": 17.387499999999996,
+   "register": 72.5,
+   "even": 0.7143297248596386,
+   "long-short": 0.061794767927030016,
+   "rhythm variety": 1.4613081933261094,
+   "surprise, pitch": 2.7918855274495744,
+   "surprise, rhythm": 0.8950177367648511,
+   "density": 4.835326519885343,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.8950177367648511,
+    "others": 1.2704197499423031,
+    "auc": 0.23742816091954022
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -4,
+     5,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 3,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV816_07_Gigue.notes.tsv",
+      "label": "French Suite No. 5, BWV 816, movement 7: Gigue (DCML)",
+      "bar": 28,
+      "notes": "B3 G3 C4 B3"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_08_Gigue.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 8: Gigue (DCML)",
+      "bar": 27,
+      "notes": "A4 F4 Bb4 A4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_10_Gigue.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 10: Gigue (DCML)",
+      "bar": 8,
+      "notes": "Ab5 E5 A5 Ab5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 3,
+    "per_1000": 1.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV809_07_Gigue.notes.tsv",
+      "label": "English Suite No. 4, BWV 809, movement 7: Gigue (DCML)",
+      "bar": 10,
+      "notes": "D4 F#4 A4 F#4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_07_Gigue.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 7: Gigue (DCML)",
+      "bar": 19,
+      "notes": "C4 E4 G4 E4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV815_07_Gigue.notes.tsv",
+      "label": "French Suite No. 4, BWV 815, movement 7: Gigue (DCML)",
+      "bar": 59,
+      "notes": "Eb4 G4 Bb4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -10,
+     10,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 4,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV808_07_Gigue.notes.tsv",
+      "label": "English Suite No. 3, BWV 808, movement 7: Gigue (DCML)",
+      "bar": 2,
+      "notes": "G4 A3 G4 F#4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV809_07_Gigue.notes.tsv",
+      "label": "English Suite No. 4, BWV 809, movement 7: Gigue (DCML)",
+      "bar": 4,
+      "notes": "C6 D5 C6 B5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV814_07_Gigue.notes.tsv",
+      "label": "French Suite No. 3, BWV 814, movement 7: Gigue (DCML)",
+      "bar": 14,
+      "notes": "D5 E4 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 3,
+    "per_1000": 1.6,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV809_07_Gigue.notes.tsv",
+      "label": "English Suite No. 4, BWV 809, movement 7: Gigue (DCML)",
+      "bar": 2,
+      "notes": "B4 D5 F5 E5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV816_07_Gigue.notes.tsv",
+      "label": "French Suite No. 5, BWV 816, movement 7: Gigue (DCML)",
+      "bar": 23,
+      "notes": "C#5 E5 G5 F#5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV810_07_Gigue.notes.tsv",
+      "label": "English Suite No. 5, BWV 810, movement 7: Gigue (DCML)",
+      "bar": 23,
+      "notes": "F#4 A4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -3,
+     1,
+     -1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     2
+    ],
+    "z": 4.6,
+    "works": 2,
+    "per_1000": 1.6,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_08_Gigue.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 8: Gigue (DCML)",
+      "bar": 12,
+      "notes": "C5 A4 Bb4 A4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV812_06_Gigue.notes.tsv",
+      "label": "French Suite No. 1, BWV 812, movement 6: Gigue (DCML)",
+      "bar": 13,
+      "notes": "G4 E4 F4 E4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 2.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV817_07_Gigue.notes.tsv",
+      "label": "French Suite No. 6, BWV 817, movement 7: Gigue (DCML)",
+      "bar": 9,
+      "notes": "C#5 C5 Eb5 Ab5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV809_07_Gigue.notes.tsv",
+      "label": "English Suite No. 4, BWV 809, movement 7: Gigue (DCML)",
+      "bar": 2,
+      "notes": "Bb4 A4 C5 F5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV816_07_Gigue.notes.tsv",
+      "label": "French Suite No. 5, BWV 816, movement 7: Gigue (DCML)",
+      "bar": 3,
+      "notes": "C5 B4 D5 G5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 232,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "gigue",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.42434430274656765,
+   "repeats": 0.03335400987629037,
+   "leaps": 0.32422862277544084,
+   "move": 4.449981267804918,
+   "rising": 0.5032456720206094,
+   "leap answered": 0.16556227713034544,
+   "range": 20.0125,
+   "register": 72.0,
+   "even": 0.6325482016660886,
+   "long-short": 0.15457763783616932,
+   "rhythm variety": 1.8602995602907568,
+   "surprise, pitch": 3.0052403093736832,
+   "surprise, rhythm": 1.1807454288446506,
+   "density": 4.172407852564103,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 232,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "gigue",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.500563888265596,
+   "repeats": 0.03159525483857165,
+   "leaps": 0.26439393293336577,
+   "move": 3.7744935147545555,
+   "rising": 0.4937021102861956,
+   "leap answered": 0.2687826787004503,
+   "range": 18.566666666666666,
+   "register": 54.833333333333336,
+   "even": 0.7488910250186063,
+   "long-short": 0.06311151855506694,
+   "rhythm variety": 1.0580267034453634,
+   "surprise, pitch": 2.939781136963956,
+   "surprise, rhythm": 0.7235490812338373,
+   "density": 2.6730672450916693,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 18.566666666666666,
+    "others": 14.685416666666663,
+    "auc": 0.7708333333333334
+   },
+   {
+    "measure": "register",
+    "value": 54.833333333333336,
+    "others": 74.97916666666667,
+    "auc": 0.0
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.939781136963956,
+    "others": 2.591778937546906,
+    "auc": 0.8125
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 24,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "invention",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 31,
+  "values": {
+   "steps": 0.5907945186639185,
+   "repeats": 0.04502736972545137,
+   "leaps": 0.18142760502579364,
+   "move": 2.987274861045516,
+   "rising": 0.4607156569888324,
+   "leap answered": 0.34074693073338314,
+   "range": 15.574193548387097,
+   "register": 72.74193548387096,
+   "even": 0.681845150569244,
+   "long-short": 0.06475301387932596,
+   "rhythm variety": 1.6275509483962054,
+   "surprise, pitch": 2.601069217968724,
+   "surprise, rhythm": 1.1183529480903525,
+   "density": 5.557930657939525,
+   "lines": 2.4838709677419355
+  },
+  "traits": [
+   {
+    "measure": "density",
+    "value": 5.557930657939525,
+    "others": 4.326041305720116,
+    "auc": 0.7611234705228032
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     9,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.8,
+    "works": 7,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-inventions:inven04.krn",
+      "label": "Inventio, Inventio 4 (kern)",
+      "bar": 2,
+      "notes": "C#4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/bach-inventions:inven02.krn",
+      "label": "Inventio, Inventio 2 (kern)",
+      "bar": 2,
+      "notes": "B4 Ab5 G5 F5"
+     },
+     {
+      "work": "kern/bach-inventions:sinfo02.krn",
+      "label": "Sinfonia 2 in C minor (kern)",
+      "bar": 2,
+      "notes": "B4 Ab5 G5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 5,
+    "per_1000": 1.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/bach-inventions:inven10.krn",
+      "label": "Inventio, Inventio 10 (kern)",
+      "bar": 1,
+      "notes": "B4 D5 B4 G4"
+     },
+     {
+      "work": "kern/bach-inventions:sinfo15.krn",
+      "label": "Sinfonia 15 in B minor (kern)",
+      "bar": 11,
+      "notes": "C#5 E5 C#5 A4"
+     },
+     {
+      "work": "kern/bach-inventions:inven12.krn",
+      "label": "Inventio, Inventio 12 (kern)",
+      "bar": 3,
+      "notes": "C#5 E5 C#5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.9,
+    "works": 3,
+    "per_1000": 1.4,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/bach-inventions:inven15.krn",
+      "label": "Inventio, Inventio 15 (kern)",
+      "bar": 3,
+      "notes": "B4 C#5 B4 Ab4"
+     },
+     {
+      "work": "kern/bach-inventions:inven12.krn",
+      "label": "Inventio, Inventio 12 (kern)",
+      "bar": 13,
+      "notes": "E5 F#5 E5 C#5"
+     },
+     {
+      "work": "kern/bach-inventions:inven02.krn",
+      "label": "Inventio, Inventio 2 (kern)",
+      "bar": 1,
+      "notes": "Ab4 Bb4 Ab4 F4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     10,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 5,
+    "per_1000": 1.8,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/bach-inventions:inven05.krn",
+      "label": "Inventio, Inventio 5 (kern)",
+      "bar": 6,
+      "notes": "C5 Bb5 A5 G5"
+     },
+     {
+      "work": "kern/bach-inventions:sinfo10.krn",
+      "label": "Sinfonia 10 in G major (kern)",
+      "bar": 2,
+      "notes": "D4 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-inventions:inven11.krn",
+      "label": "Inventio, Inventio 11 (kern)",
+      "bar": 2,
+      "notes": "C4 Bb4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 5,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/bach-inventions:inven12.krn",
+      "label": "Inventio, Inventio 12 (kern)",
+      "bar": 4,
+      "notes": "Eb4 F#4 A4 Ab4"
+     },
+     {
+      "work": "kern/bach-inventions:inven13.krn",
+      "label": "Inventio, Inventio 13 (kern)",
+      "bar": 9,
+      "notes": "F#5 A5 C6 B5"
+     },
+     {
+      "work": "kern/bach-inventions:inven10.krn",
+      "label": "Inventio, Inventio 10 (kern)",
+      "bar": 6,
+      "notes": "F#4 A4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -6,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 5,
+    "per_1000": 1.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-inventions:inven13.krn",
+      "label": "Inventio, Inventio 13 (kern)",
+      "bar": 14,
+      "notes": "E5 G5 C#5 E5"
+     },
+     {
+      "work": "kern/bach-inventions:inven14.krn",
+      "label": "Inventio, Inventio 14 (kern)",
+      "bar": 2,
+      "notes": "C4 Eb4 A3 C4"
+     },
+     {
+      "work": "kern/bach-inventions:sinfo11.krn",
+      "label": "Sinfonia 11 in G minor (kern)",
+      "bar": 53,
+      "notes": "A4 C5 F#4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 232,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "minuet",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 8,
+  "values": {
+   "steps": 0.6177954463871089,
+   "repeats": 0.054838288930991186,
+   "leaps": 0.17778585749365014,
+   "move": 2.9688894473506546,
+   "rising": 0.4582365858548291,
+   "leap answered": 0.460791310161646,
+   "range": 13.799999999999999,
+   "register": 72.875,
+   "even": 0.7551963733020323,
+   "long-short": 0.03447713952272158,
+   "rhythm variety": 1.3446030837468181,
+   "surprise, pitch": 2.651438823832515,
+   "surprise, rhythm": 1.1366809395131736,
+   "density": 3.0036599892482245,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 5,
+    "per_1000": 8.3,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV809_06_Menuett_II.notes.tsv",
+      "label": "English Suite No. 4, BWV 809, movement 6: Menuett II (DCML)",
+      "bar": 3,
+      "notes": "A4 G4 Bb4 A4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV812_05_Menuett_II.notes.tsv",
+      "label": "French Suite No. 1, BWV 812, movement 5: Menuett II (DCML)",
+      "bar": 4,
+      "notes": "A4 G4 Bb4 A4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV813_05_Menuett.notes.tsv",
+      "label": "French Suite No. 2, BWV 813, movement 5: Menuett (DCML)",
+      "bar": 4,
+      "notes": "B4 A4 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.2,
+    "works": 4,
+    "per_1000": 8.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV812_05_Menuett_II.notes.tsv",
+      "label": "French Suite No. 1, BWV 812, movement 5: Menuett II (DCML)",
+      "bar": 4,
+      "notes": "G4 Bb4 A4 G4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV813_05_Menuett.notes.tsv",
+      "label": "French Suite No. 2, BWV 813, movement 5: Menuett (DCML)",
+      "bar": 4,
+      "notes": "A4 C5 B4 A4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV812_04_Menuett_I.notes.tsv",
+      "label": "French Suite No. 1, BWV 812, movement 4: Menuett I (DCML)",
+      "bar": 17,
+      "notes": "C5 Eb5 D5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 9.3,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV812_04_Menuett_I.notes.tsv",
+      "label": "French Suite No. 1, BWV 812, movement 4: Menuett I (DCML)",
+      "bar": 6,
+      "notes": "A5 Ab5 F#5 Ab5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV813_05_Menuett.notes.tsv",
+      "label": "French Suite No. 2, BWV 813, movement 5: Menuett (DCML)",
+      "bar": 11,
+      "notes": "Ab5 G5 F5 G5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV809_05_Menuett_I.notes.tsv",
+      "label": "English Suite No. 4, BWV 809, movement 5: Menuett I (DCML)",
+      "bar": 7,
+      "notes": "Bb4 A4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 27,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "minuet",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.552420649274571,
+   "repeats": 0.01185469239650338,
+   "leaps": 0.2134453582214336,
+   "move": 3.5551765134132767,
+   "rising": 0.47063549035813496,
+   "leap answered": 0.3079594017094017,
+   "range": 17.112499999999997,
+   "register": 55.25,
+   "even": 0.7822418113020103,
+   "long-short": 0.014144679172510518,
+   "rhythm variety": 1.1025591947269147,
+   "surprise, pitch": 2.8303824661915717,
+   "surprise, rhythm": 0.9503051780179483,
+   "density": 1.7986111111111112,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 27,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "oratorio",
+  "forces": "voices",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 32,
+  "values": {
+   "steps": 0.7361358186326408,
+   "repeats": 0.12907458263680666,
+   "leaps": 0.07737506554545553,
+   "move": 2.1408039782828423,
+   "rising": 0.44492504171823516,
+   "leap answered": 0.5230902777777777,
+   "range": 9.059375,
+   "register": 71.5,
+   "even": 0.6574053781249283,
+   "long-short": 0.0297169465530018,
+   "rhythm variety": 1.4559653044867036,
+   "surprise, pitch": 2.523308228256253,
+   "surprise, rhythm": 1.4466247449528802,
+   "density": 4.466379692973813,
+   "lines": 4.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.7361358186326408,
+    "others": 0.6086967697893478,
+    "auc": 0.926953125
+   },
+   {
+    "measure": "move",
+    "value": 2.1408039782828423,
+    "others": 2.398916571001037,
+    "auc": 0.18125
+   },
+   {
+    "measure": "register",
+    "value": 71.5,
+    "others": 65.025,
+    "auc": 0.846875
+   },
+   {
+    "measure": "even",
+    "value": 0.6574053781249283,
+    "others": 0.35628408885265794,
+    "auc": 0.9945312500000001
+   },
+   {
+    "measure": "long-short",
+    "value": 0.0297169465530018,
+    "others": 0.1418320532201156,
+    "auc": 0.06015625
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.4559653044867036,
+    "others": 2.745270116802047,
+    "auc": 0.007031249999999999
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.4466247449528802,
+    "others": 2.2008346040348936,
+    "auc": 0.01484375
+   },
+   {
+    "measure": "density",
+    "value": 4.466379692973813,
+    "others": 1.638301554484915,
+    "auc": 0.95
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 17,
+    "per_1000": 16.2,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor081.krn",
+      "label": "chor081 (kern)",
+      "bar": 1,
+      "notes": "E5 D5 C5 B4"
+     },
+     {
+      "work": "kern/bach-chorales:chor113.krn",
+      "label": "chor113 (kern)",
+      "bar": 1,
+      "notes": "F5 Eb5 C#5 C5"
+     },
+     {
+      "work": "kern/bach-chorales:chor360.krn",
+      "label": "chor360 (kern)",
+      "bar": 2,
+      "notes": "C#5 B4 A4 Ab4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 14,
+    "per_1000": 10.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor009.krn",
+      "label": "chor009 (kern)",
+      "bar": 2,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor074.krn",
+      "label": "chor074 (kern)",
+      "bar": 10,
+      "notes": "A4 Bb4 A4 G4"
+     },
+     {
+      "work": "kern/bach-chorales:chor077.krn",
+      "label": "chor077 (kern)",
+      "bar": 9,
+      "notes": "C#5 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 13,
+    "per_1000": 12.7,
+    "others_per_1000": 1.5,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor121.krn",
+      "label": "chor121 (kern)",
+      "bar": 1,
+      "notes": "E5 D5 C#5 B4"
+     },
+     {
+      "work": "kern/bach-chorales:chor047.krn",
+      "label": "chor047 (kern)",
+      "bar": 7,
+      "notes": "D5 C5 B4 A4"
+     },
+     {
+      "work": "kern/bach-chorales:chor106.krn",
+      "label": "chor106 (kern)",
+      "bar": 5,
+      "notes": "E5 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 13,
+    "per_1000": 9.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor107.krn",
+      "label": "chor107 (kern)",
+      "bar": 2,
+      "notes": "Eb5 D5 C5 Bb4"
+     },
+     {
+      "work": "kern/bach-chorales:chor035.krn",
+      "label": "chor035 (kern)",
+      "bar": 2,
+      "notes": "A4 Ab4 F#4 E4"
+     },
+     {
+      "work": "kern/bach-chorales:chor046.krn",
+      "label": "chor046 (kern)",
+      "bar": 6,
+      "notes": "D5 C#5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     0,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 6,
+    "per_1000": 9.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor081.krn",
+      "label": "chor081 (kern)",
+      "bar": 3,
+      "notes": "D5 E5 E5 D5"
+     },
+     {
+      "work": "kern/bach-chorales:chor113.krn",
+      "label": "chor113 (kern)",
+      "bar": 3,
+      "notes": "Eb5 F5 F5 Eb5"
+     },
+     {
+      "work": "kern/bach-chorales:chor121.krn",
+      "label": "chor121 (kern)",
+      "bar": 1,
+      "notes": "D5 E5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 4.6,
+    "works": 11,
+    "per_1000": 9.8,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "kern/bach-chorales:chor050.krn",
+      "label": "chor050 (kern)",
+      "bar": 1,
+      "notes": "A4 Bb4 C5 Bb4"
+     },
+     {
+      "work": "kern/bach-chorales:chor063.krn",
+      "label": "chor063 (kern)",
+      "bar": 1,
+      "notes": "C#5 D5 E5 D5"
+     },
+     {
+      "work": "kern/bach-chorales:chor117.krn",
+      "label": "chor117 (kern)",
+      "bar": 1,
+      "notes": "C5 C#5 Eb5 C#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 40,
+   "composers": 6
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "prelude",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 33,
+  "values": {
+   "steps": 0.4940658230540625,
+   "repeats": 0.04020344186206373,
+   "leaps": 0.24471668668732205,
+   "move": 3.6143041723604554,
+   "rising": 0.487656435532615,
+   "leap answered": 0.2798351189224871,
+   "range": 19.209090909090904,
+   "register": 70.87878787878788,
+   "even": 0.7760455064378888,
+   "long-short": 0.028898609860909648,
+   "rhythm variety": 1.2059267789397332,
+   "surprise, pitch": 2.605884828970495,
+   "surprise, rhythm": 0.8436779813558595,
+   "density": 5.588476748420017,
+   "lines": 1.393939393939394
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.04020344186206373,
+    "others": 0.11782818450637278,
+    "auc": 0.22310606060606059
+   },
+   {
+    "measure": "even",
+    "value": 0.7760455064378888,
+    "others": 0.5147849498738017,
+    "auc": 0.8007575757575758
+   },
+   {
+    "measure": "long-short",
+    "value": 0.028898609860909648,
+    "others": 0.1550948315629419,
+    "auc": 0.17803030303030304
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.2059267789397332,
+    "others": 2.1047961890124514,
+    "auc": 0.19772727272727272
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.8436779813558595,
+    "others": 1.5321804842227316,
+    "auc": 0.196969696969697
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 40,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "prelude",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 27,
+  "values": {
+   "steps": 0.5517596551413158,
+   "repeats": 0.03400604183978918,
+   "leaps": 0.23907093257022857,
+   "move": 3.4903179594295004,
+   "rising": 0.4943742274013858,
+   "leap answered": 0.26438261130776397,
+   "range": 18.79259259259259,
+   "register": 70.44444444444444,
+   "even": 0.7263199017570161,
+   "long-short": 0.05209306928990647,
+   "rhythm variety": 1.4754299419681418,
+   "surprise, pitch": 2.783351586854949,
+   "surprise, rhythm": 1.040917178562224,
+   "density": 5.603125496906589,
+   "lines": 1.4444444444444444
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.03400604183978918,
+    "others": 0.11782818450637278,
+    "auc": 0.21481481481481485
+   },
+   {
+    "measure": "even",
+    "value": 0.7263199017570161,
+    "others": 0.5147849498738017,
+    "auc": 0.7787037037037037
+   },
+   {
+    "measure": "long-short",
+    "value": 0.05209306928990647,
+    "others": 0.1550948315629419,
+    "auc": 0.21944444444444444
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.4754299419681418,
+    "others": 2.1047961890124514,
+    "auc": 0.24444444444444446
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.040917178562224,
+    "others": 1.5321804842227316,
+    "auc": 0.2324074074074074
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.3,
+    "works": 17,
+    "per_1000": 3.6,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/bach-wtc:wtc2p24.krn",
+      "label": "Das wohltemperirte Clavier, Band II, Prelude in B Minor, movement Prelude XXIV (kern)",
+      "bar": 2,
+      "notes": "F#4 F4 F#4 Bb4"
+     },
+     {
+      "work": "kern/bach-wtc:wtc2p07.krn",
+      "label": "Prelude No. 7 in E-flat major (kern)",
+      "bar": 8,
+      "notes": "Eb5 D5 Eb5 G5"
+     },
+     {
+      "work": "kern/bach-wtc:wtc2p17.krn",
+      "label": "Prelude No. 17 in F-sharp minor (kern)",
+      "bar": 9,
+      "notes": "Ab4 G4 Ab4 C5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 40,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "prelude",
+  "forces": "keyboard",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 10,
+  "values": {
+   "steps": 0.5037411714520521,
+   "repeats": 0.028538852977855633,
+   "leaps": 0.2236007453217666,
+   "move": 3.3334793452761993,
+   "rising": 0.45651775753901164,
+   "leap answered": 0.30272298657521557,
+   "range": 16.989999999999995,
+   "register": 71.4,
+   "even": 0.7930401204992975,
+   "long-short": 0.05717695939469984,
+   "rhythm variety": 1.2195225221326675,
+   "surprise, pitch": 2.9362680630041114,
+   "surprise, rhythm": 1.0976787392091005,
+   "density": 4.50647601010101,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.028538852977855633,
+    "others": 0.11782818450637278,
+    "auc": 0.1725
+   },
+   {
+    "measure": "even",
+    "value": 0.7930401204992975,
+    "others": 0.5147849498738017,
+    "auc": 0.8125
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.2195225221326675,
+    "others": 2.1047961890124514,
+    "auc": 0.20750000000000002
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.6,
+    "works": 7,
+    "per_1000": 7.8,
+    "others_per_1000": 0.9,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV935/bwv-935",
+      "label": "Praeludium Nr. 3 (BWV 935) (Mutopia)",
+      "bar": 8,
+      "notes": "A4 G4 A4 F4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV933/bwv933",
+      "label": "Praeludium Nr. 1 (BWV 933) (Mutopia)",
+      "bar": 5,
+      "notes": "F#4 E4 F#4 D4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV936/bwv-936",
+      "label": "Praeludium Nr. 4 (BWV 936) (Mutopia)",
+      "bar": 14,
+      "notes": "C#5 B4 C#5 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     -4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.1,
+    "works": 4,
+    "per_1000": 5.2,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV939/bwv-939",
+      "label": "Praeludium Nr. 1 (BWV 939) (Mutopia)",
+      "bar": 1,
+      "notes": "E4 G4 E4 C4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV933/bwv933",
+      "label": "Praeludium Nr. 1 (BWV 933) (Mutopia)",
+      "bar": 5,
+      "notes": "F#4 A4 F#4 D4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV935/bwv-935",
+      "label": "Praeludium Nr. 3 (BWV 935) (Mutopia)",
+      "bar": 25,
+      "notes": "A5 C6 A5 F5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 40,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "prelude",
+  "forces": "keyboard",
+  "period": "any period",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.6604900020310738,
+   "repeats": 0.06571337190089348,
+   "leaps": 0.17621077893707945,
+   "move": 2.8979521051685997,
+   "rising": 0.45682461868028873,
+   "leap answered": 0.3375229801644896,
+   "range": 21.0,
+   "register": 71.0,
+   "even": 0.6483869241576551,
+   "long-short": 0.05103690142491402,
+   "rhythm variety": 2.0219570714531447,
+   "surprise, pitch": 2.776040477127078,
+   "surprise, rhythm": 1.5647815891781789,
+   "density": 4.83654496281271,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 40,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "prelude",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.43057000084448216,
+   "repeats": 0.016436708483208686,
+   "leaps": 0.31134334855636403,
+   "move": 4.148078382024559,
+   "rising": 0.4880899922738724,
+   "leap answered": 0.16163553567546532,
+   "range": 20.833333333333332,
+   "register": 54.333333333333336,
+   "even": 0.943207422457407,
+   "long-short": 0.01617956623852623,
+   "rhythm variety": 0.4335031262206192,
+   "surprise, pitch": 2.608690026887116,
+   "surprise, rhythm": 0.293598783582175,
+   "density": 3.217686605437701,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "steps",
+    "value": 0.43057000084448216,
+    "others": 0.5618732929420068,
+    "auc": 0.225
+   },
+   {
+    "measure": "repeats",
+    "value": 0.016436708483208686,
+    "others": 0.11782818450637278,
+    "auc": 0.10416666666666667
+   },
+   {
+    "measure": "leaps",
+    "value": 0.31134334855636403,
+    "others": 0.19123272658195858,
+    "auc": 0.8416666666666667
+   },
+   {
+    "measure": "move",
+    "value": 4.148078382024559,
+    "others": 3.165091539622124,
+    "auc": 0.8583333333333334
+   },
+   {
+    "measure": "leap answered",
+    "value": 0.16163553567546532,
+    "others": 0.3503778361999064,
+    "auc": 0.21666666666666667
+   },
+   {
+    "measure": "even",
+    "value": 0.943207422457407,
+    "others": 0.5147849498738017,
+    "auc": 0.9291666666666667
+   },
+   {
+    "measure": "long-short",
+    "value": 0.01617956623852623,
+    "others": 0.1550948315629419,
+    "auc": 0.1375
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 0.4335031262206192,
+    "others": 2.1047961890124514,
+    "auc": 0.075
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.293598783582175,
+    "others": 1.5321804842227316,
+    "auc": 0.0625
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 40,
+   "composers": 9
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "sarabande",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 12,
+  "values": {
+   "steps": 0.6600420384499899,
+   "repeats": 0.07920836447118489,
+   "leaps": 0.11809468838937437,
+   "move": 2.5169366642191147,
+   "rising": 0.4635889881609377,
+   "leap answered": 0.42576239191951265,
+   "range": 14.754166666666663,
+   "register": 73.58333333333333,
+   "even": 0.5546463267626845,
+   "long-short": 0.09289899965827399,
+   "rhythm variety": 2.2042845151561887,
+   "surprise, pitch": 2.900773939182948,
+   "surprise, rhythm": 1.680660518838095,
+   "density": 4.178993055555556,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "leaps",
+    "value": 0.11809468838937437,
+    "others": 0.20834211468298847,
+    "auc": 0.20797413793103448
+   },
+   {
+    "measure": "move",
+    "value": 2.5169366642191147,
+    "others": 3.288262070168912,
+    "auc": 0.19342672413793102
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.900773939182948,
+    "others": 2.5330478942305503,
+    "auc": 0.8024425287356322
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -2,
+     10
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 3,
+    "per_1000": 3.3,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_07_Sarabande.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 7: Sarabande (DCML)",
+      "bar": 1,
+      "notes": "C#5 B4 A4 G5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV813_03_Sarabande.notes.tsv",
+      "label": "French Suite No. 2, BWV 813, movement 3: Sarabande (DCML)",
+      "bar": 10,
+      "notes": "A4 G4 F4 Eb5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV817_03_Sarabande.notes.tsv",
+      "label": "French Suite No. 6, BWV 817, movement 3: Sarabande (DCML)",
+      "bar": 22,
+      "notes": "Eb5 C#5 B4 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     2,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 3,
+    "per_1000": 5.2,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_07_Sarabande.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 7: Sarabande (DCML)",
+      "bar": 1,
+      "notes": "D5 C#5 B4 A4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV810_04_Sarabande.notes.tsv",
+      "label": "English Suite No. 5, BWV 810, movement 4: Sarabande (DCML)",
+      "bar": 1,
+      "notes": "C5 B4 A4 G4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV813_03_Sarabande.notes.tsv",
+      "label": "French Suite No. 2, BWV 813, movement 3: Sarabande (DCML)",
+      "bar": 4,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 3.7,
+    "works": 2,
+    "per_1000": 3.3,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_07_Sarabande.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 7: Sarabande (DCML)",
+      "bar": 1,
+      "notes": "D5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV813_03_Sarabande.notes.tsv",
+      "label": "French Suite No. 2, BWV 813, movement 3: Sarabande (DCML)",
+      "bar": 4,
+      "notes": "C5 D5 C5 B4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "forces, period",
+   "works": 232,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "sarabande",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.694992844947404,
+   "repeats": 0.09763503032343226,
+   "leaps": 0.10665867375445107,
+   "move": 2.442503743293434,
+   "rising": 0.4812638617323498,
+   "leap answered": 0.4495600804424334,
+   "range": 14.75,
+   "register": 74.25,
+   "even": 0.5228536532207718,
+   "long-short": 0.15002142912553457,
+   "rhythm variety": 2.299735523526003,
+   "surprise, pitch": 2.726320813239372,
+   "surprise, rhythm": 1.6619136284709117,
+   "density": 6.028373015873015,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 232,
+   "composers": 7
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "sarabande",
+  "forces": "solo instrument",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.6103309665153456,
+   "repeats": 0.05145979642778618,
+   "leaps": 0.2046156830791914,
+   "move": 3.3380841079821564,
+   "rising": 0.441225965962889,
+   "leap answered": 0.3844726062467998,
+   "range": 17.333333333333332,
+   "register": 73.33333333333333,
+   "even": 0.6962755795364298,
+   "long-short": 0.07123880657684074,
+   "rhythm variety": 1.6385922688882602,
+   "surprise, pitch": 2.862801313255979,
+   "surprise, rhythm": 1.3654295449644716,
+   "density": 2.7664470794905576,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 24,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "sarabande",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 6,
+  "values": {
+   "steps": 0.5075458648067802,
+   "repeats": 0.07646539751741975,
+   "leaps": 0.23638247374146015,
+   "move": 3.8444145983208133,
+   "rising": 0.484645710742045,
+   "leap answered": 0.2858180232274435,
+   "range": 16.691666666666663,
+   "register": 55.666666666666664,
+   "even": 0.6305827292982777,
+   "long-short": 0.11161361994669838,
+   "rhythm variety": 1.8469756380339823,
+   "surprise, pitch": 2.908159659553658,
+   "surprise, rhythm": 1.334588521887402,
+   "density": 2.340757275132275,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "register",
+    "value": 55.666666666666664,
+    "others": 74.97916666666667,
+    "auc": 0.0
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.908159659553658,
+    "others": 2.591778937546906,
+    "auc": 0.7708333333333334
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 1.334588521887402,
+    "others": 0.8623604660642088,
+    "auc": 0.7569444444444445
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "forces, period",
+   "works": 24,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "sonata",
+  "forces": "chamber",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.5667351726850458,
+   "repeats": 0.026795327872392707,
+   "leaps": 0.20674525894421,
+   "move": 3.150408621186208,
+   "rising": 0.4593160244573028,
+   "leap answered": 0.3573534313157042,
+   "range": 16.5,
+   "register": 73.0,
+   "even": 0.6609085767812256,
+   "long-short": 0.06132618285717267,
+   "rhythm variety": 1.6682880051160427,
+   "surprise, pitch": 2.9245306257581296,
+   "surprise, rhythm": 1.0716174216500942,
+   "density": 6.764619312474142,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 272,
+   "composers": 5
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "sonata",
+  "forces": "organ",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5096450554919654,
+   "repeats": 0.03650252868337151,
+   "leaps": 0.3049177505438951,
+   "move": 3.6230446290857468,
+   "rising": 0.4853274872884783,
+   "leap answered": 0.22553642096836057,
+   "range": 16.883333333333322,
+   "register": 72.33333333333333,
+   "even": 0.7459351154901231,
+   "long-short": 0.06224111516959067,
+   "rhythm variety": 1.6038390651448584,
+   "surprise, pitch": 2.9166053233868627,
+   "surprise, rhythm": 1.0983795006083865,
+   "density": 7.734870227425788,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 474,
+   "composers": 15
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "sonata",
+  "forces": "solo instrument",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 9,
+  "values": {
+   "steps": 0.5214106636766169,
+   "repeats": 0.04370554260992717,
+   "leaps": 0.23801311472427786,
+   "move": 3.78443601469881,
+   "rising": 0.4663797906454288,
+   "leap answered": 0.2513939641412342,
+   "range": 20.449999999999978,
+   "register": 72.66666666666667,
+   "even": 0.7577989320916994,
+   "long-short": 0.02049376519461744,
+   "rhythm variety": 1.2897837106738206,
+   "surprise, pitch": 2.9462619458972767,
+   "surprise, rhythm": 1.055551785464984,
+   "density": 4.455725784675754,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.04370554260992717,
+    "others": 0.12420542546955037,
+    "auc": 0.2022684359092957
+   },
+   {
+    "measure": "move",
+    "value": 3.78443601469881,
+    "others": 3.188403565519838,
+    "auc": 0.776972197055312
+   },
+   {
+    "measure": "even",
+    "value": 0.7577989320916994,
+    "others": 0.554003129578865,
+    "auc": 0.8140574651864857
+   },
+   {
+    "measure": "long-short",
+    "value": 0.02049376519461744,
+    "others": 0.11984436917543194,
+    "auc": 0.11571697810395645
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.2897837106738206,
+    "others": 2.088551801747098,
+    "auc": 0.18537301815708376
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.9462619458972767,
+    "others": 2.6112511358241104,
+    "auc": 0.8121840575274732
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 8.3,
+    "works": 7,
+    "per_1000": 2.5,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_02_Fuga.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 2: Fuga (Allegro) (DCML)",
+      "bar": 7,
+      "notes": "B4 D5 F5 Ab5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_01_Adagio.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 1: Adagio (DCML)",
+      "bar": 13,
+      "notes": "D4 F4 Ab4 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1003_02_Fuga.notes.tsv",
+      "label": "Sonata No. 2 in A minor, BWV 1003, movement 2: Fuga (DCML)",
+      "bar": 182,
+      "notes": "Eb4 F#4 A4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     5,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.7,
+    "works": 5,
+    "per_1000": 2.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1003_04_Allegro.notes.tsv",
+      "label": "Sonata No. 2 in A minor, BWV 1003, movement 4: Allegro (DCML)",
+      "bar": 5,
+      "notes": "C5 E5 A5 C6"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_04_Presto.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 4: Presto (DCML)",
+      "bar": 4,
+      "notes": "Bb3 D4 G4 Bb4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_02_Fuga.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 2: Fuga (Allegro) (DCML)",
+      "bar": 51,
+      "notes": "Eb4 G4 C5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.6,
+    "works": 6,
+    "per_1000": 2.5,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1005_02_Fuga.notes.tsv",
+      "label": "Sonata No. 3 in C major, BWV 1005, movement 2: Fuga (DCML)",
+      "bar": 64,
+      "notes": "G3 C4 E4 G4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1003_02_Fuga.notes.tsv",
+      "label": "Sonata No. 2 in A minor, BWV 1003, movement 2: Fuga (DCML)",
+      "bar": 111,
+      "notes": "B4 E5 Ab5 B5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_04_Presto.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 4: Presto (DCML)",
+      "bar": 6,
+      "notes": "A4 D5 F#5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     3,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.3,
+    "works": 5,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1003_04_Allegro.notes.tsv",
+      "label": "Sonata No. 2 in A minor, BWV 1003, movement 4: Allegro (DCML)",
+      "bar": 2,
+      "notes": "E4 A4 C5 E5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_02_Fuga.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 2: Fuga (Allegro) (DCML)",
+      "bar": 48,
+      "notes": "G3 C4 Eb4 G4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_04_Presto.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 4: Presto (DCML)",
+      "bar": 4,
+      "notes": "D4 G4 Bb4 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     3,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.0,
+    "works": 6,
+    "per_1000": 2.0,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1003_04_Allegro.notes.tsv",
+      "label": "Sonata No. 2 in A minor, BWV 1003, movement 4: Allegro (DCML)",
+      "bar": 7,
+      "notes": "B4 D5 F5 E5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1005_02_Fuga.notes.tsv",
+      "label": "Sonata No. 3 in C major, BWV 1005, movement 2: Fuga (DCML)",
+      "bar": 246,
+      "notes": "E4 G4 Bb4 A4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_02_Fuga.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 2: Fuga (Allegro) (DCML)",
+      "bar": 7,
+      "notes": "D5 F5 Ab5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     5,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 4,
+    "per_1000": 2.0,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1003_02_Fuga.notes.tsv",
+      "label": "Sonata No. 2 in A minor, BWV 1003, movement 2: Fuga (DCML)",
+      "bar": 111,
+      "notes": "Ab4 B4 E5 Ab5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1003_04_Allegro.notes.tsv",
+      "label": "Sonata No. 2 in A minor, BWV 1003, movement 4: Allegro (DCML)",
+      "bar": 5,
+      "notes": "Ab4 B4 E5 Ab5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1001_04_Presto.notes.tsv",
+      "label": "Sonata No. 1 in G minor, BWV 1001, movement 4: Presto (DCML)",
+      "bar": 6,
+      "notes": "F#4 A4 D5 F#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 474,
+   "composers": 15
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "song",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.6531724317634031,
+   "repeats": 0.14314223681015745,
+   "leaps": 0.10211337283327708,
+   "move": 2.4687462664277176,
+   "rising": 0.4327899288584772,
+   "leap answered": 0.5454545454545455,
+   "range": 10.779999999999998,
+   "register": 72.0,
+   "even": 0.5712341723874904,
+   "long-short": 0.07354683810976717,
+   "rhythm variety": 1.816568399379274,
+   "surprise, pitch": 2.903081525418173,
+   "surprise, rhythm": 1.5913672501016958,
+   "density": 2.4170575013419215,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.5712341723874904,
+    "others": 0.40570766228204025,
+    "auc": 0.840650586678007
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.816568399379274,
+    "others": 2.5402473877574314,
+    "auc": 0.11465893080919702
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.903081525418173,
+    "others": 2.483122025507967,
+    "auc": 0.7554340339129235
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 2117,
+   "composers": 214
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "suite",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 87,
+  "values": {
+   "steps": 0.6026451880714376,
+   "repeats": 0.057020168136849785,
+   "leaps": 0.17635968871778843,
+   "move": 2.9356269102158925,
+   "rising": 0.47747925470581165,
+   "leap answered": 0.35933226088816816,
+   "range": 15.488505747126437,
+   "register": 72.93103448275862,
+   "even": 0.687803899098941,
+   "long-short": 0.08765816972881064,
+   "rhythm variety": 1.6080007234598943,
+   "surprise, pitch": 2.771025887023119,
+   "surprise, rhythm": 1.1525684700263696,
+   "density": 4.316430295216536,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.057020168136849785,
+    "others": 0.1441509994347599,
+    "auc": 0.24751596433719456
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.771025887023119,
+    "others": 2.2240564909308125,
+    "auc": 0.8287675605803845
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 6.1,
+    "works": 73,
+    "per_1000": 8.0,
+    "others_per_1000": 2.8,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_01_Prelude.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 1: Prelude (DCML)",
+      "bar": 17,
+      "notes": "B4 A4 Ab4 A4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_01_Prelude.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 1: Prelude (DCML)",
+      "bar": 2,
+      "notes": "D5 C5 B4 C5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV817_07_Gigue.notes.tsv",
+      "label": "French Suite No. 6, BWV 817, movement 7: Gigue (DCML)",
+      "bar": 6,
+      "notes": "B4 A4 Ab4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 48,
+    "per_1000": 4.6,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_01_Prelude.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 1: Prelude (DCML)",
+      "bar": 29,
+      "notes": "F5 E5 D5 C#5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_01_Prelude.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 1: Prelude (DCML)",
+      "bar": 4,
+      "notes": "C5 B4 A4 Ab4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_08_Gigue.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 8: Gigue (DCML)",
+      "bar": 9,
+      "notes": "F5 E5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 50,
+    "per_1000": 4.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV810_01_Prelude.notes.tsv",
+      "label": "English Suite No. 5, BWV 810, movement 1: Prelude (DCML)",
+      "bar": 7,
+      "notes": "A5 C6 B5 A5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_01_Prelude.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 1: Prelude (DCML)",
+      "bar": 5,
+      "notes": "G4 Bb4 A4 G4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_08_Bouree_I.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 8: Bourrée I (DCML)",
+      "bar": 3,
+      "notes": "B4 D5 C#5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 46,
+    "per_1000": 4.1,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV807_01_Prelude.notes.tsv",
+      "label": "English Suite No. 2, BWV 807, movement 1: Prelude (DCML)",
+      "bar": 12,
+      "notes": "F4 G4 E4 F4"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_01_Prelude.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 1: Prelude (DCML)",
+      "bar": 10,
+      "notes": "C5 D5 B4 C5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV809_02_Allemande.notes.tsv",
+      "label": "English Suite No. 4, BWV 809, movement 2: Allemande (DCML)",
+      "bar": 1,
+      "notes": "Bb4 C5 A4 Bb4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     2,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 40,
+    "per_1000": 3.7,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_01_Prelude.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 1: Prelude (DCML)",
+      "bar": 53,
+      "notes": "E5 F5 G5 E5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_10_Gigue.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 10: Gigue (DCML)",
+      "bar": 5,
+      "notes": "F#5 G5 A5 F#5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV810_01_Prelude.notes.tsv",
+      "label": "English Suite No. 5, BWV 810, movement 1: Prelude (DCML)",
+      "bar": 11,
+      "notes": "C#5 D5 E5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 74,
+    "per_1000": 8.9,
+    "others_per_1000": 4.1,
+    "at": [
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV806_10_Gigue.notes.tsv",
+      "label": "English Suite No. 1, BWV 806, movement 10: Gigue (DCML)",
+      "bar": 7,
+      "notes": "A5 Ab5 F#5 E5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV810_01_Prelude.notes.tsv",
+      "label": "English Suite No. 5, BWV 810, movement 1: Prelude (DCML)",
+      "bar": 7,
+      "notes": "C6 B5 A5 G5"
+     },
+     {
+      "work": "dcml/bach_en_fr_suites:notes/BWV811_01_Prelude.notes.tsv",
+      "label": "English Suite No. 6, BWV 811, movement 1: Prelude (DCML)",
+      "bar": 5,
+      "notes": "Bb4 A4 G4 F4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 66,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "suite",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 34,
+  "values": {
+   "steps": 0.5832979555944073,
+   "repeats": 0.03529094205713415,
+   "leaps": 0.21666217690568282,
+   "move": 3.2203381163293843,
+   "rising": 0.4885144128229544,
+   "leap answered": 0.2955895102843512,
+   "range": 17.367647058823525,
+   "register": 72.11764705882354,
+   "even": 0.6906144637674828,
+   "long-short": 0.08602870881296379,
+   "rhythm variety": 1.6925001612366601,
+   "surprise, pitch": 2.7705649489654824,
+   "surprise, rhythm": 1.2064913397431773,
+   "density": 5.468709554031244,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.03529094205713415,
+    "others": 0.1441509994347599,
+    "auc": 0.15314270160354806
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.7705649489654824,
+    "others": 2.2240564909308125,
+    "auc": 0.8424291938210857
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 22,
+    "per_1000": 4.2,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV830/BWV-830#1",
+      "label": "Keyboard partita in E minor (BWV 830), movement 1: 1. Prelude (Mutopia)",
+      "bar": 3,
+      "notes": "C5 D5 C5 B4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV826/2-Partita#1",
+      "label": "Six Partitas (Clavierubung part I): No. 2 (BWV 826), movement 1: 1. Sinfonia (Mutopia)",
+      "bar": 10,
+      "notes": "Eb5 F5 Eb5 D5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV827/BWV-827#4",
+      "label": "Keyboard partita in A minor (BWV 827), movement 4: 4. Sarabande (Mutopia)",
+      "bar": 10,
+      "notes": "F5 G5 F5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 21,
+    "per_1000": 3.4,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV826/2-Partita#1",
+      "label": "Six Partitas (Clavierubung part I): No. 2 (BWV 826), movement 1: 1. Sinfonia (Mutopia)",
+      "bar": 8,
+      "notes": "Eb5 D5 C5 B4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV829/5-Partita#1",
+      "label": "Six Partitas (Clavierubung part I): No. 5 (BWV 829), movement 1: 1. Praeambulum (Mutopia)",
+      "bar": 16,
+      "notes": "F5 E5 D5 C#5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV826/2-Partita#2",
+      "label": "Six Partitas (Clavierubung part I): No. 2 (BWV 826), movement 2: 2. Allemande (Mutopia)",
+      "bar": 2,
+      "notes": "Eb5 D5 C5 B4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.5,
+    "works": 21,
+    "per_1000": 3.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV826/2-Partita#1",
+      "label": "Six Partitas (Clavierubung part I): No. 2 (BWV 826), movement 1: 1. Sinfonia (Mutopia)",
+      "bar": 8,
+      "notes": "C5 Eb5 D5 C5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV828/4-Partita#7",
+      "label": "Partita 4 (BWV 828), movement 7 (Mutopia)",
+      "bar": 5,
+      "notes": "E4 G4 F#4 E4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV830/BWV-830#1",
+      "label": "Keyboard partita in E minor (BWV 830), movement 1: 1. Prelude (Mutopia)",
+      "bar": 39,
+      "notes": "B3 D4 C#4 B3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 22,
+    "per_1000": 4.2,
+    "others_per_1000": 1.4,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV830/BWV-830#1",
+      "label": "Keyboard partita in E minor (BWV 830), movement 1: 1. Prelude (Mutopia)",
+      "bar": 3,
+      "notes": "F#5 G5 F#5 E5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV828/4-Partita#2",
+      "label": "Partita 4 (BWV 828), movement 2 (Mutopia)",
+      "bar": 4,
+      "notes": "C#5 D5 C#5 B4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV829/5-Partita#2",
+      "label": "Six Partitas (Clavierubung part I): No. 5 (BWV 829), movement 2: 2. Allemande (Mutopia)",
+      "bar": 1,
+      "notes": "B4 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.2,
+    "works": 15,
+    "per_1000": 2.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV828/4-Partita#2",
+      "label": "Partita 4 (BWV 828), movement 2 (Mutopia)",
+      "bar": 14,
+      "notes": "D5 C#5 D5 E5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV830/BWV-830#1",
+      "label": "Keyboard partita in E minor (BWV 830), movement 1: 1. Prelude (Mutopia)",
+      "bar": 66,
+      "notes": "A4 Ab4 A4 B4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV826/2-Partita#1",
+      "label": "Six Partitas (Clavierubung part I): No. 2 (BWV 826), movement 1: 1. Sinfonia (Mutopia)",
+      "bar": 12,
+      "notes": "C5 B4 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     2
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 4.1,
+    "works": 15,
+    "per_1000": 2.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV828/4-Partita#2",
+      "label": "Partita 4 (BWV 828), movement 2 (Mutopia)",
+      "bar": 21,
+      "notes": "D5 C#5 B4 C#5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV828/4-Partita#3",
+      "label": "Partita 4 (BWV 828), movement 3 (Mutopia)",
+      "bar": 4,
+      "notes": "G4 F#4 E4 F#4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV825/1-Partita#2",
+      "label": "Six Partitas (Clavierubung part I): No. 1 (BWV 825), movement 2: 2. Allemande (Mutopia)",
+      "bar": 12,
+      "notes": "Bb4 A4 G4 A4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 66,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "suite",
+  "forces": "plucked",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 5,
+  "values": {
+   "steps": 0.5622064362838344,
+   "repeats": 0.0825498094536637,
+   "leaps": 0.2135804655316726,
+   "move": 3.414587182918617,
+   "rising": 0.46470424965174734,
+   "leap answered": 0.23774700049402225,
+   "range": 17.4,
+   "register": 61.6,
+   "even": 0.8437702539970001,
+   "long-short": 0.030779792720213184,
+   "rhythm variety": 0.9657176855982451,
+   "surprise, pitch": 2.8391337856727246,
+   "surprise, rhythm": 0.8107787259497178,
+   "density": 4.384613712575126,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "even",
+    "value": 0.8437702539970001,
+    "others": 0.5520785725831091,
+    "auc": 0.8949629629228278
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 0.9657176855982451,
+    "others": 2.1476241551089585,
+    "auc": 0.12614814819418535
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8391337856727246,
+    "others": 2.2240564909308125,
+    "auc": 0.9006296295731646
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.8107787259497178,
+    "others": 1.507681879162107,
+    "auc": 0.165111111162657
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.4,
+    "works": 4,
+    "per_1000": 5.3,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-01prelude",
+      "label": "Lute Suite BWV 997: 1. Prelude (Mutopia)",
+      "bar": 6,
+      "notes": "D4 F4 E4 D4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-02fuga",
+      "label": "Lute Suite BWV 997: 2. Fuga (Mutopia)",
+      "bar": 49,
+      "notes": "D4 F4 E4 D4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-05double",
+      "label": "Lute Suite BWV 997: 5. Double (Mutopia)",
+      "bar": 7,
+      "notes": "D4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 4.4,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-05double",
+      "label": "Lute Suite BWV 997: 5. Double (Mutopia)",
+      "bar": 11,
+      "notes": "G3 F#3 G3 B3"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-01prelude",
+      "label": "Lute Suite BWV 997: 1. Prelude (Mutopia)",
+      "bar": 9,
+      "notes": "C4 B3 C4 E4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-02fuga",
+      "label": "Lute Suite BWV 997: 2. Fuga (Mutopia)",
+      "bar": 67,
+      "notes": "F3 E3 F3 A3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.2,
+    "works": 4,
+    "per_1000": 4.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-02fuga",
+      "label": "Lute Suite BWV 997: 2. Fuga (Mutopia)",
+      "bar": 58,
+      "notes": "F#3 E3 F#3 A3"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-01prelude",
+      "label": "Lute Suite BWV 997: 1. Prelude (Mutopia)",
+      "bar": 5,
+      "notes": "D4 C4 D4 F4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-05double",
+      "label": "Lute Suite BWV 997: 5. Double (Mutopia)",
+      "bar": 7,
+      "notes": "B3 A3 B3 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 4.4,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-05double",
+      "label": "Lute Suite BWV 997: 5. Double (Mutopia)",
+      "bar": 4,
+      "notes": "C3 E3 D3 C3"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-01prelude",
+      "label": "Lute Suite BWV 997: 1. Prelude (Mutopia)",
+      "bar": 5,
+      "notes": "C4 E4 D4 C4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-02fuga",
+      "label": "Lute Suite BWV 997: 2. Fuga (Mutopia)",
+      "bar": 24,
+      "notes": "G4 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 4,
+    "per_1000": 3.9,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-02fuga",
+      "label": "Lute Suite BWV 997: 2. Fuga (Mutopia)",
+      "bar": 39,
+      "notes": "C4 F4 E4 D4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-01prelude",
+      "label": "Lute Suite BWV 997: 1. Prelude (Mutopia)",
+      "bar": 5,
+      "notes": "C4 F4 E4 D4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-03sarabande",
+      "label": "Lute Suite BWV 997: 3. Sarabande (Mutopia)",
+      "bar": 15,
+      "notes": "C4 F4 E4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.8,
+    "works": 4,
+    "per_1000": 4.9,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-05double",
+      "label": "Lute Suite BWV 997: 5. Double (Mutopia)",
+      "bar": 3,
+      "notes": "C4 B3 A3 Ab3"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-01prelude",
+      "label": "Lute Suite BWV 997: 1. Prelude (Mutopia)",
+      "bar": 4,
+      "notes": "C4 B3 A3 Ab3"
+     },
+     {
+      "work": "mutopia:BachJS/BWV997/bwv997-02fuga",
+      "label": "Lute Suite BWV 997: 2. Fuga (Mutopia)",
+      "bar": 50,
+      "notes": "C4 B3 A3 Ab3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 66,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "suite",
+  "forces": "solo instrument",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 17,
+  "values": {
+   "steps": 0.510001863037883,
+   "repeats": 0.022092413708576206,
+   "leaps": 0.24947106681459796,
+   "move": 3.680140023689704,
+   "rising": 0.47491300324900576,
+   "leap answered": 0.2620242853687612,
+   "range": 19.21764705882353,
+   "register": 73.44117647058823,
+   "even": 0.8425055684786505,
+   "long-short": 0.04170190202931306,
+   "rhythm variety": 0.8200509684469923,
+   "surprise, pitch": 2.8481769493651856,
+   "surprise, rhythm": 0.6432619983871857,
+   "density": 2.9801149858180067,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.022092413708576206,
+    "others": 0.1441509994347599,
+    "auc": 0.10347494558937716
+   },
+   {
+    "measure": "move",
+    "value": 3.680140023689704,
+    "others": 3.087532740491712,
+    "auc": 0.7649019606802725
+   },
+   {
+    "measure": "even",
+    "value": 0.8425055684786505,
+    "others": 0.5520785725831091,
+    "auc": 0.8834640522689492
+   },
+   {
+    "measure": "long-short",
+    "value": 0.04170190202931306,
+    "others": 0.07696300120078028,
+    "auc": 0.24582788672545805
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 0.8200509684469923,
+    "others": 2.1476241551089585,
+    "auc": 0.09984749457791153
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.8481769493651856,
+    "others": 2.2240564909308125,
+    "auc": 0.8641067537504312
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.6432619983871857,
+    "others": 1.507681879162107,
+    "auc": 0.12453159045433294
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.9,
+    "works": 14,
+    "per_1000": 5.8,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_04_Double.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 4: Double (Presto) (DCML)",
+      "bar": 1,
+      "notes": "D4 C#4 B3 Bb3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_07_TempoDiBorea.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 7: Tempo di Borea (DCML)",
+      "bar": 38,
+      "notes": "G4 F#4 E4 Eb4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_04_BourreeAnglaise.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 4: Bourrée angloise (DCML)",
+      "bar": 39,
+      "notes": "G5 F#5 E5 Eb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 15,
+    "per_1000": 5.1,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_04_Double.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 4: Double (Presto) (DCML)",
+      "bar": 1,
+      "notes": "B3 D4 C#4 B3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_03_Sarabande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 3: Sarabande (DCML)",
+      "bar": 3,
+      "notes": "D5 F5 E5 D5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_02_Double.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 2: Double (DCML)",
+      "bar": 5,
+      "notes": "A5 C6 B5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     4,
+     3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 12,
+    "per_1000": 4.7,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_04_Double.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 4: Double (Presto) (DCML)",
+      "bar": 31,
+      "notes": "F#4 Bb4 C#5 E5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_03_Corrente.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 3: Corrente (DCML)",
+      "bar": 13,
+      "notes": "A3 C#4 E4 G4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_06_Double.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 6: Double (DCML)",
+      "bar": 6,
+      "notes": "A3 C#4 E4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     4,
+     5
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 10,
+    "per_1000": 4.1,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_04_Double.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 4: Double (Presto) (DCML)",
+      "bar": 20,
+      "notes": "B4 D5 F#5 B5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_03_Corrente.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 3: Corrente (DCML)",
+      "bar": 1,
+      "notes": "B3 D4 F#4 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_01_Allemande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 1: Allemande (DCML)",
+      "bar": 6,
+      "notes": "A4 C5 E5 A5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     4
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.1,
+    "works": 11,
+    "per_1000": 4.1,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_01_Allemande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 1: Allemande (DCML)",
+      "bar": 2,
+      "notes": "E5 D5 C5 E5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_04_Double.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 4: Double (Presto) (DCML)",
+      "bar": 5,
+      "notes": "F#4 E4 D4 F#4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_03_Corrente.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 3: Corrente (DCML)",
+      "bar": 4,
+      "notes": "F#4 E4 D4 F#4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -4,
+     4,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.8,
+    "works": 8,
+    "per_1000": 3.6,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1002_04_Double.notes.tsv",
+      "label": "Partita No. 1 in B minor, BWV 1002, movement 4: Double (Presto) (DCML)",
+      "bar": 40,
+      "notes": "Eb5 B4 Eb5 F#5"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_01_Allemande.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 1: Allemande (DCML)",
+      "bar": 5,
+      "notes": "Ab4 E4 Ab4 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1013_04_BourreeAnglaise.notes.tsv",
+      "label": "Partita in A minor, BWV 1013, movement 4: Bourrée angloise (DCML)",
+      "bar": 8,
+      "notes": "B4 G4 B4 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 66,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "suite",
+  "forces": "solo instrument",
+  "period": "Weimar",
+  "era": "Baroque",
+  "works": 42,
+  "values": {
+   "steps": 0.5438264261093634,
+   "repeats": 0.032480398410941025,
+   "leaps": 0.2416811924043918,
+   "move": 3.6601800087208236,
+   "rising": 0.4821702844033976,
+   "leap answered": 0.25333124946397473,
+   "range": 17.570238095238093,
+   "register": 55.20238095238095,
+   "even": 0.7782638437261679,
+   "long-short": 0.04813311239945565,
+   "rhythm variety": 1.1125698079442412,
+   "surprise, pitch": 2.75320835257322,
+   "surprise, rhythm": 0.8311986332904967,
+   "density": 2.7289925456430475,
+   "lines": 1.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.032480398410941025,
+    "others": 0.1441509994347599,
+    "auc": 0.1292460318053349
+   },
+   {
+    "measure": "even",
+    "value": 0.7782638437261679,
+    "others": 0.5520785725831091,
+    "auc": 0.8246384479399748
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 1.1125698079442412,
+    "others": 2.1476241551089585,
+    "auc": 0.1524823633540376
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.75320835257322,
+    "others": 2.2240564909308125,
+    "auc": 0.8206040563626047
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 0.8311986332904967,
+    "others": 1.507681879162107,
+    "auc": 0.1807054674289544
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.3,
+    "works": 22,
+    "per_1000": 4.3,
+    "others_per_1000": 0.8,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1008_07_Gique.notes.tsv",
+      "label": "Suite No. 2 in D minor, BWV 1008, movement 7: Gigue (DCML)",
+      "bar": 14,
+      "notes": "E3 D3 E3 F3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_02_Allemande.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 2: Allemande (DCML)",
+      "bar": 8,
+      "notes": "D3 C3 D3 Eb3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1011_01_Prelude.notes.tsv",
+      "label": "Suite No. 5 in C minor, BWV 1011, movement 1: Prelude (DCML)",
+      "bar": 23,
+      "notes": "D3 C3 D3 Eb3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -3,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 23,
+    "per_1000": 3.9,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1011_01_Prelude.notes.tsv",
+      "label": "Suite No. 5 in C minor, BWV 1011, movement 1: Prelude (DCML)",
+      "bar": 21,
+      "notes": "A2 Bb2 G2 A2"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_02_Allemande.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 2: Allemande (DCML)",
+      "bar": 3,
+      "notes": "F#3 G3 E3 F#3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1008_07_Gique.notes.tsv",
+      "label": "Suite No. 2 in D minor, BWV 1008, movement 7: Gigue (DCML)",
+      "bar": 15,
+      "notes": "E3 F3 D3 E3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.7,
+    "works": 33,
+    "per_1000": 6.9,
+    "others_per_1000": 2.8,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1011_06_GavotteII.notes.tsv",
+      "label": "Suite No. 5 in C minor, BWV 1011, movement 6: Gavotte II (DCML)",
+      "bar": 1,
+      "notes": "D3 C3 B2 C3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1011_01_Prelude.notes.tsv",
+      "label": "Suite No. 5 in C minor, BWV 1011, movement 1: Prelude (DCML)",
+      "bar": 1,
+      "notes": "F3 Eb3 D3 Eb3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_03_Courante.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 3: Courante (DCML)",
+      "bar": 13,
+      "notes": "E4 D4 C#4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 23,
+    "per_1000": 4.3,
+    "others_per_1000": 1.2,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_07_Gique.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 7: Gigue (DCML)",
+      "bar": 9,
+      "notes": "Eb3 D3 Eb3 C3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_03_Courante.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 3: Courante (DCML)",
+      "bar": 5,
+      "notes": "C4 B3 C4 A3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1011_01_Prelude.notes.tsv",
+      "label": "Suite No. 5 in C minor, BWV 1011, movement 1: Prelude (DCML)",
+      "bar": 1,
+      "notes": "Eb3 D3 Eb3 C3"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 19,
+    "per_1000": 3.2,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_03_Courante.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 3: Courante (DCML)",
+      "bar": 23,
+      "notes": "F#3 A3 Ab3 F#3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_02_Allemande.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 2: Allemande (DCML)",
+      "bar": 3,
+      "notes": "B4 D5 C#5 B4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1007_06_MenuetII.notes.tsv",
+      "label": "Suite No. 1 in G major, BWV 1007, movement 6: Minuet II (DCML)",
+      "bar": 9,
+      "notes": "C4 Eb4 D4 C4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.6,
+    "works": 19,
+    "per_1000": 3.3,
+    "others_per_1000": 0.7,
+    "at": [
+     {
+      "work": "dcml/bach_solo:notes/BWV1008_01_Prelude.notes.tsv",
+      "label": "Suite No. 2 in D minor, BWV 1008, movement 1: Prelude (DCML)",
+      "bar": 1,
+      "notes": "E3 D3 C#3 E3"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1012_01_Prelude.notes.tsv",
+      "label": "Suite No. 6 in D major, BWV 1012, movement 1: Prelude (DCML)",
+      "bar": 38,
+      "notes": "E4 D4 C#4 E4"
+     },
+     {
+      "work": "dcml/bach_solo:notes/BWV1010_02_Allemande.notes.tsv",
+      "label": "Suite No. 4 in E-flat major, BWV 1010, movement 2: Allemande (DCML)",
+      "bar": 6,
+      "notes": "F3 Eb3 D3 F3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 66,
+   "composers": 18
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "trio sonata",
+  "forces": "organ",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.5096450554919654,
+   "repeats": 0.03650252868337151,
+   "leaps": 0.3049177505438951,
+   "move": 3.6230446290857468,
+   "rising": 0.4853274872884783,
+   "leap answered": 0.22553642096836057,
+   "range": 16.883333333333322,
+   "register": 72.33333333333333,
+   "even": 0.7459351154901231,
+   "long-short": 0.06224111516959067,
+   "rhythm variety": 1.6038390651448584,
+   "surprise, pitch": 2.9166053233868627,
+   "surprise, rhythm": 1.0983795006083865,
+   "density": 7.734870227425788,
+   "lines": 3.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, period",
+   "works": 194,
+   "composers": 3
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "variations",
+  "forces": "keyboard",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 3,
+  "values": {
+   "steps": 0.6496226465769613,
+   "repeats": 0.04589409932049526,
+   "leaps": 0.13962278086643568,
+   "move": 2.6783012023217245,
+   "rising": 0.4762645107794361,
+   "leap answered": 0.3946625796720673,
+   "range": 14.716666666666669,
+   "register": 73.33333333333333,
+   "even": 0.5878175709002776,
+   "long-short": 0.21238786276380262,
+   "rhythm variety": 1.8640625010932663,
+   "surprise, pitch": 2.7732782940832563,
+   "surprise, rhythm": 1.2058845828981264,
+   "density": 3.2267116352482206,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 99,
+   "composers": 26
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "variations",
+  "forces": "keyboard",
+  "period": "Leipzig",
+  "era": "Baroque",
+  "works": 31,
+  "values": {
+   "steps": 0.6376219836305944,
+   "repeats": 0.03764750547272781,
+   "leaps": 0.17656218317472108,
+   "move": 3.083804806657965,
+   "rising": 0.46346681016626234,
+   "leap answered": 0.3361796202057813,
+   "range": 19.653225806451612,
+   "register": 72.0,
+   "even": 0.6582776237612759,
+   "long-short": 0.05059027505217695,
+   "rhythm variety": 1.799917447562338,
+   "surprise, pitch": 2.701994385691368,
+   "surprise, rhythm": 1.3443916038198034,
+   "density": 6.117316799505833,
+   "lines": 2.0
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.7,
+    "works": 26,
+    "per_1000": 9.8,
+    "others_per_1000": 2.9,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v11",
+      "label": "Goldberg Variations - 11 (BWV 988) (Mutopia)",
+      "bar": 1,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v23",
+      "label": "Goldberg Variations - 23 (BWV 988) (Mutopia)",
+      "bar": 1,
+      "notes": "A5 G5 F#5 E5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v27",
+      "label": "Goldberg Variations - 27 (BWV 988) (Mutopia)",
+      "bar": 6,
+      "notes": "D5 C5 B4 A4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.6,
+    "works": 24,
+    "per_1000": 9.1,
+    "others_per_1000": 2.6,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v13",
+      "label": "Goldberg Variations - 13 (BWV 988) (Mutopia)",
+      "bar": 2,
+      "notes": "E5 D5 C#5 D5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v26",
+      "label": "Goldberg Variations - 26 (BWV 988) (Mutopia)",
+      "bar": 14,
+      "notes": "A5 G5 F#5 G5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v05",
+      "label": "Goldberg Variations - 5 (BWV 988) (Mutopia)",
+      "bar": 3,
+      "notes": "E4 D4 C#4 D4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     1,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     0,
+     2,
+     -2
+    ],
+    "z": 7.2,
+    "works": 15,
+    "per_1000": 3.7,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v16",
+      "label": "Goldberg Variations - 16 (BWV 988) (Mutopia)",
+      "bar": 6,
+      "notes": "B4 C5 B4 A4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v23",
+      "label": "Goldberg Variations - 23 (BWV 988) (Mutopia)",
+      "bar": 7,
+      "notes": "F#5 G5 F#5 E5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v10",
+      "label": "Goldberg Variations - 10 (BWV 988) (Mutopia)",
+      "bar": 25,
+      "notes": "E5 F5 E5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -2,
+     -2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.2,
+    "works": 25,
+    "per_1000": 9.6,
+    "others_per_1000": 3.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v11",
+      "label": "Goldberg Variations - 11 (BWV 988) (Mutopia)",
+      "bar": 1,
+      "notes": "G4 F#4 E4 D4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v23",
+      "label": "Goldberg Variations - 23 (BWV 988) (Mutopia)",
+      "bar": 1,
+      "notes": "G5 F#5 E5 D5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v27",
+      "label": "Goldberg Variations - 27 (BWV 988) (Mutopia)",
+      "bar": 6,
+      "notes": "C5 B4 A4 G4"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 7.1,
+    "works": 26,
+    "per_1000": 9.4,
+    "others_per_1000": 3.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v11",
+      "label": "Goldberg Variations - 11 (BWV 988) (Mutopia)",
+      "bar": 1,
+      "notes": "F#4 E4 D4 C#4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v23",
+      "label": "Goldberg Variations - 23 (BWV 988) (Mutopia)",
+      "bar": 1,
+      "notes": "F#5 E5 D5 C#5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v12",
+      "label": "Goldberg Variations - 12 (BWV 988) (Mutopia)",
+      "bar": 3,
+      "notes": "F#5 E5 D5 C#5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -1,
+     -2
+    ],
+    "rhythm": [
+     -2,
+     0,
+     0
+    ],
+    "z": 6.6,
+    "works": 18,
+    "per_1000": 5.0,
+    "others_per_1000": 1.1,
+    "at": [
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v24",
+      "label": "Goldberg Variations - 24 (BWV 988) (Mutopia)",
+      "bar": 5,
+      "notes": "D6 C6 B5 A5"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v11",
+      "label": "Goldberg Variations - 11 (BWV 988) (Mutopia)",
+      "bar": 2,
+      "notes": "A4 G4 F#4 E4"
+     },
+     {
+      "work": "mutopia:BachJS/BWV988/bwv-988-v25",
+      "label": "Goldberg Variations - 25 (BWV 988) (Mutopia)",
+      "bar": 5,
+      "notes": "C5 Bb4 A4 G4"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 99,
+   "composers": 26
+  }
+ },
+ {
+  "composer": "Johann Sebastian Bach",
+  "kind": "variations",
+  "forces": "solo instrument",
+  "period": "Köthen",
+  "era": "Baroque",
+  "works": 4,
+  "values": {
+   "steps": 0.43960556939418455,
+   "repeats": 0.009774848265628666,
+   "leaps": 0.2895748114240449,
+   "move": 3.9341021596726464,
+   "rising": 0.47173431284739603,
+   "leap answered": 0.18749006970039125,
+   "range": 21.0,
+   "register": 73.0,
+   "even": 0.9931195702933481,
+   "long-short": 0.0018474102944197382,
+   "rhythm variety": 0.06652068234172769,
+   "surprise, pitch": 2.8228193572497613,
+   "surprise, rhythm": 0.11463426753101191,
+   "density": 2.9830660049470987,
+   "lines": 1.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind",
+   "works": 99,
+   "composers": 26
+  }
+ }
+]

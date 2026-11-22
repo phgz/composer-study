@@ -1,0 +1,138 @@
+[
+ {
+  "composer": "Giovanni Francesco Anerio",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Before 1600",
+  "works": 6,
+  "values": {
+   "steps": 0.5792274216691747,
+   "repeats": 0.22051540921021198,
+   "leaps": 0.07813557291538281,
+   "move": 2.2707078742312894,
+   "rising": 0.47913526452267147,
+   "leap answered": 0.4544117647058823,
+   "range": 9.716666666666667,
+   "register": 70.0,
+   "even": 0.30325418299303286,
+   "long-short": 0.09437779841512957,
+   "rhythm variety": 2.9831231577454065,
+   "surprise, pitch": 2.9327737680106387,
+   "surprise, rhythm": 2.5176541292614734,
+   "density": 2.202951120935987,
+   "lines": 8.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.22051540921021198,
+    "others": 0.12711286317479945,
+    "auc": 0.8312188907397458
+   },
+   {
+    "measure": "register",
+    "value": 70.0,
+    "others": 66.80258112264184,
+    "auc": 0.7802278609560548
+   },
+   {
+    "measure": "surprise, pitch",
+    "value": 2.9327737680106387,
+    "others": 2.5799669681613016,
+    "auc": 0.8822287949236786
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.5176541292614734,
+    "others": 2.200333207926237,
+    "auc": 0.9089584020671552
+   },
+   {
+    "measure": "density",
+    "value": 2.202951120935987,
+    "others": 1.3826537738184193,
+    "auc": 0.8810045623132109
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     -1,
+     1,
+     0
+    ],
+    "rhythm": [
+     0,
+     2,
+     0
+    ],
+    "z": 7.4,
+    "works": 3,
+    "per_1000": 5.8,
+    "others_per_1000": 0.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-83--001-005_anerio-giovanni-francesco--missa-pulchra-es-benedictus.krn",
+      "label": "Missa pulchra es, Benedictus, movement 5 (PL-Kk Kk.I.83, kern)",
+      "bar": 32,
+      "notes": "C5 B4 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-83--001-001_anerio-giovanni-francesco--missa-pulchra-es-kyrie.krn",
+      "label": "Missa pulchra es, Kyrie, movement 1 (PL-Kk Kk.I.83, kern)",
+      "bar": 80,
+      "notes": "C5 B4 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-83--001-004_anerio-giovanni-francesco--missa-pulchra-es-sanctus.krn",
+      "label": "Missa pulchra es, Sanctus, movement 4 (PL-Kk Kk.I.83, kern)",
+      "bar": 33,
+      "notes": "C5 B4 C5 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     0,
+     0,
+     0
+    ],
+    "rhythm": [
+     -1,
+     -2,
+     2
+    ],
+    "z": 3.7,
+    "works": 4,
+    "per_1000": 5.8,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-83--001-005_anerio-giovanni-francesco--missa-pulchra-es-benedictus.krn",
+      "label": "Missa pulchra es, Benedictus, movement 5 (PL-Kk Kk.I.83, kern)",
+      "bar": 32,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-83--001-002_anerio-giovanni-francesco--missa-pulchra-es-et-in-terra.krn",
+      "label": "Missa pulchra es, Et in terra, movement 2 (PL-Kk Kk.I.83, kern)",
+      "bar": 66,
+      "notes": "C5 C5 C5 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-kk/kern/pl-kk--kk-i-83--001-003_anerio-giovanni-francesco--missa-pulchra-es-patrem.krn",
+      "label": "Missa pulchra es, Patrem, movement 3 (PL-Kk Kk.I.83, kern)",
+      "bar": 17,
+      "notes": "D5 D5 D5 D5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 590,
+   "composers": 27
+  }
+ }
+]

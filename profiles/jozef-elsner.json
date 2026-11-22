@@ -1,0 +1,546 @@
+[
+ {
+  "composer": "Józef Elsner",
+  "kind": "dance",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 5,
+  "values": {
+   "steps": 0.5518152816317039,
+   "repeats": 0.12079947447686254,
+   "leaps": 0.1524954869876901,
+   "move": 3.0555837473781464,
+   "rising": 0.47066982688430664,
+   "leap answered": 0.19997563887683595,
+   "range": 16.72999999999999,
+   "register": 79.0,
+   "even": 0.5344469453792502,
+   "long-short": 0.08134577781297514,
+   "rhythm variety": 2.2578040969206357,
+   "surprise, pitch": 1.7766335505085962,
+   "surprise, rhythm": 1.4391619822385646,
+   "density": 6.791264040491649,
+   "lines": 3.2
+  },
+  "traits": [
+   {
+    "measure": "surprise, pitch",
+    "value": 1.7766335505085962,
+    "others": 2.29415165592304,
+    "auc": 0.14231983488479952
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     5,
+     -1,
+     1
+    ],
+    "rhythm": [
+     2,
+     -2,
+     0
+    ],
+    "z": 5.1,
+    "works": 2,
+    "per_1000": 2.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6022-n--006_elsner-jozef--rondo-a-la-mazurek.krn",
+      "label": "Rondo a la Mazurek (PL-Wnifc 6022/n, kern)",
+      "bar": 4,
+      "notes": "G4 C5 B4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6021-n--006_elsner-jozef--rondo-a-la-krakowiak.krn",
+      "label": "Rondo a la Krakowiak (PL-Wnifc 6021/n, kern)",
+      "bar": 47,
+      "notes": "D5 G5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -7,
+     4,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.1,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6021-n--006_elsner-jozef--rondo-a-la-krakowiak.krn",
+      "label": "Rondo a la Krakowiak (PL-Wnifc 6021/n, kern)",
+      "bar": 20,
+      "notes": "G5 C5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6022-n--006_elsner-jozef--rondo-a-la-mazurek.krn",
+      "label": "Rondo a la Mazurek (PL-Wnifc 6022/n, kern)",
+      "bar": 72,
+      "notes": "A5 D5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     2,
+     2,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.9,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.2,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6022-n--006_elsner-jozef--rondo-a-la-mazurek.krn",
+      "label": "Rondo a la Mazurek (PL-Wnifc 6022/n, kern)",
+      "bar": 7,
+      "notes": "G4 A4 B4 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6021-n--006_elsner-jozef--rondo-a-la-krakowiak.krn",
+      "label": "Rondo a la Krakowiak (PL-Wnifc 6021/n, kern)",
+      "bar": 160,
+      "notes": "F5 G5 A5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     2
+    ],
+    "rhythm": [
+     0,
+     -2,
+     0
+    ],
+    "z": 3.8,
+    "works": 3,
+    "per_1000": 2.9,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6021-n--006_elsner-jozef--rondo-a-la-krakowiak.krn",
+      "label": "Rondo a la Krakowiak (PL-Wnifc 6021/n, kern)",
+      "bar": 6,
+      "notes": "Bb4 A4 Bb4 C5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6022-n--006_elsner-jozef--rondo-a-la-mazurek.krn",
+      "label": "Rondo a la Mazurek (PL-Wnifc 6022/n, kern)",
+      "bar": 53,
+      "notes": "C6 B5 C6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6020-n--001_elsner-jozef--polonez.krn",
+      "label": "Polonez (PL-Wnifc 6020/n, kern)",
+      "bar": 9,
+      "notes": "A5 Ab5 A5 B5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     3,
+     -3,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6021-n--006_elsner-jozef--rondo-a-la-krakowiak.krn",
+      "label": "Rondo a la Krakowiak (PL-Wnifc 6021/n, kern)",
+      "bar": 17,
+      "notes": "E5 G5 E5 F5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6020-n--001_elsner-jozef--polonez.krn",
+      "label": "Polonez (PL-Wnifc 6020/n, kern)",
+      "bar": 8,
+      "notes": "F#5 A5 F#5 G5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     3,
+     -3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 3.5,
+    "works": 2,
+    "per_1000": 2.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6021-n--006_elsner-jozef--rondo-a-la-krakowiak.krn",
+      "label": "Rondo a la Krakowiak (PL-Wnifc 6021/n, kern)",
+      "bar": 17,
+      "notes": "F5 E5 G5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-wnifc/kern/pl-wnifc--6020-n--001_elsner-jozef--polonez.krn",
+      "label": "Polonez (PL-Wnifc 6020/n, kern)",
+      "bar": 8,
+      "notes": "G5 F#5 A5 F#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 192,
+   "composers": 32
+  }
+ },
+ {
+  "composer": "Józef Elsner",
+  "kind": "mass",
+  "forces": null,
+  "period": "all",
+  "era": "Classical",
+  "works": 92,
+  "values": {
+   "steps": 0.5266745110068628,
+   "repeats": 0.2378595485594817,
+   "leaps": 0.09881662287209003,
+   "move": 2.5946579935493013,
+   "rising": 0.47909975350084794,
+   "leap answered": 0.3760739595835493,
+   "range": 11.0125,
+   "register": 76.48913043478261,
+   "even": 0.4747926937340973,
+   "long-short": 0.0979617532590682,
+   "rhythm variety": 2.359112185454705,
+   "surprise, pitch": 2.41497446197162,
+   "surprise, rhythm": 1.8251225366860004,
+   "density": 9.741469516648973,
+   "lines": 14.065217391304348
+  },
+  "traits": [],
+  "figures": [
+   {
+    "moves": [
+     -5,
+     -3,
+     3
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.7,
+    "works": 8,
+    "per_1000": 1.4,
+    "others_per_1000": 0.3,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--d-ii-43--001-008_elsner-jozef--msza-pasterska-agnus.krn",
+      "label": "Msza pasterska, Agnus, movement 8: AGNUS. (PL-CZ D II-43, kern)",
+      "bar": 3,
+      "notes": "A5 E5 C#5 E5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-195--001-003_elsner-jozef--missa-f-op-25-credo.krn",
+      "label": "Missa F op. 25, Credo, movement 3 (PL-CZ III-195, kern)",
+      "bar": 3,
+      "notes": "F4 C4 A3 C4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-194--001-002_elsner-jozef--missa-f-op-41-gloria.krn",
+      "label": "Missa F op. 41, Gloria, movement 2 (PL-CZ III-194, kern)",
+      "bar": 7,
+      "notes": "F6 C6 A5 C6"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     2
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.6,
+    "works": 19,
+    "per_1000": 2.8,
+    "others_per_1000": 1.0,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--d-ii-43--001-002_elsner-jozef--msza-pasterska-gloria.krn",
+      "label": "Msza pasterska, Gloria, movement 2: GLORIA (PL-CZ D II-43, kern)",
+      "bar": 2,
+      "notes": "B4 A4 B4 C#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--d-ii-28--001-002_elsner-jozef--missa-f-op-85-gloria.krn",
+      "label": "Missa F op. 85, Gloria, movement 2 (PL-CZ D II-28, kern)",
+      "bar": 14,
+      "notes": "G4 F4 G4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--d-ii-28--001-001_elsner-jozef--missa-f-op-85-kyrie.krn",
+      "label": "Missa F op. 85, Kyrie, movement 1 (PL-CZ D II-28, kern)",
+      "bar": 20,
+      "notes": "D5 C5 D5 E5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     2,
+     1
+    ],
+    "rhythm": [
+     -2,
+     0,
+     2
+    ],
+    "z": 5.5,
+    "works": 10,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-194--001-003_elsner-jozef--missa-f-op-41-credo.krn",
+      "label": "Missa F op. 41, Credo, movement 3 (PL-CZ III-194, kern)",
+      "bar": 28,
+      "notes": "B5 A5 B5 C6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-190--001-004_elsner-jozef--missa-in-e-op-62-sanctus.krn",
+      "label": "Missa in E op. 62, Sanctus, movement 4 (PL-CZ III-190, kern)",
+      "bar": 14,
+      "notes": "C6 Bb5 C6 C#6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-193--001-002_elsner-jozef--missa-b-op-47-gloria.krn",
+      "label": "Missa B op. 47, Gloria, movement 2 (PL-CZ III-193, kern)",
+      "bar": 198,
+      "notes": "A5 G5 A5 Bb5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.5,
+    "works": 9,
+    "per_1000": 1.1,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-190--001-003_elsner-jozef--missa-in-e-op-62-credo.krn",
+      "label": "Missa in E op. 62, Credo, movement 3 (PL-CZ III-190, kern)",
+      "bar": 47,
+      "notes": "C#6 C6 C#6 D6"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-195--001-002_elsner-jozef--missa-f-op-25-gloria.krn",
+      "label": "Missa F op. 25, Gloria, movement 2: Allegro (PL-CZ III-195, kern)",
+      "bar": 104,
+      "notes": "Bb5 A5 Bb5 B5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-195--001-001_elsner-jozef--missa-f-op-25-kyrie.krn",
+      "label": "Missa F op. 25, Kyrie, movement 1 (PL-CZ III-195, kern)",
+      "bar": 44,
+      "notes": "E5 Eb5 E5 F5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -2,
+     -2,
+     2
+    ],
+    "rhythm": [
+     1,
+     -2,
+     2
+    ],
+    "z": 5.4,
+    "works": 6,
+    "per_1000": 0.9,
+    "others_per_1000": 0.1,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-197--001-002_elsner-jozef--missa-c-op-22-gloria.krn",
+      "label": "Missa C op. 22, Gloria, movement 2 (PL-CZ III-197, kern)",
+      "bar": 8,
+      "notes": "E5 D5 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-197--001-008_elsner-jozef--missa-c-op-22-agnus.krn",
+      "label": "Missa C op. 22, Agnus, movement 8 (PL-CZ III-197, kern)",
+      "bar": 60,
+      "notes": "E5 D5 C5 D5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-197--001-004_elsner-jozef--missa-c-op-22-credo.krn",
+      "label": "Missa C op. 22, Credo, movement 4 (PL-CZ III-197, kern)",
+      "bar": 94,
+      "notes": "E5 D5 C5 D5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     5,
+     -2,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.2,
+    "works": 12,
+    "per_1000": 1.7,
+    "others_per_1000": 0.5,
+    "at": [
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--d-ii-28--001-002_elsner-jozef--missa-f-op-85-gloria.krn",
+      "label": "Missa F op. 85, Gloria, movement 2 (PL-CZ D II-28, kern)",
+      "bar": 13,
+      "notes": "G4 C5 Bb4 A4"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-194--001-003_elsner-jozef--missa-f-op-41-credo.krn",
+      "label": "Missa F op. 41, Credo, movement 3 (PL-CZ III-194, kern)",
+      "bar": 178,
+      "notes": "E5 A5 G5 F#5"
+     },
+     {
+      "work": "kern/polish-scores:pl-cz/kern/pl-cz--iii-194--001-007_elsner-jozef--missa-f-op-41-dona-nobis.krn",
+      "label": "Missa F op. 41, Dona nobis, movement 7 (PL-CZ III-194, kern)",
+      "bar": 23,
+      "notes": "E5 A5 G5 F#5"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind, period",
+   "works": 549,
+   "composers": 34
+  }
+ },
+ {
+  "composer": "Józef Elsner",
+  "kind": "mass",
+  "forces": "voices",
+  "period": "all",
+  "era": "Classical",
+  "works": 6,
+  "values": {
+   "steps": 0.5626327006356907,
+   "repeats": 0.25838672146009206,
+   "leaps": 0.08492674790620412,
+   "move": 2.51774138518364,
+   "rising": 0.46649056536321654,
+   "leap answered": 0.42417827355273424,
+   "range": 10.733333333333329,
+   "register": 73.33333333333333,
+   "even": 0.3850162447087619,
+   "long-short": 0.12712590645224958,
+   "rhythm variety": 2.829842755455361,
+   "surprise, pitch": 2.568623065390963,
+   "surprise, rhythm": 2.20027021903039,
+   "density": 2.8495508497610893,
+   "lines": 4.666666666666667
+  },
+  "traits": [
+   {
+    "measure": "range",
+    "value": 10.733333333333329,
+    "others": 7.453448275862068,
+    "auc": 0.9109195402298851
+   },
+   {
+    "measure": "register",
+    "value": 73.33333333333333,
+    "others": 71.13793103448276,
+    "auc": 0.8132183908045977
+   },
+   {
+    "measure": "even",
+    "value": 0.3850162447087619,
+    "others": 0.5254239231025886,
+    "auc": 0.12068965517241381
+   },
+   {
+    "measure": "long-short",
+    "value": 0.12712590645224958,
+    "others": 0.08176876970766542,
+    "auc": 0.7873563218390803
+   },
+   {
+    "measure": "rhythm variety",
+    "value": 2.829842755455361,
+    "others": 2.14661037519768,
+    "auc": 0.9540229885057471
+   },
+   {
+    "measure": "surprise, rhythm",
+    "value": 2.20027021903039,
+    "others": 1.8184631233770214,
+    "auc": 0.8850574712643677
+   }
+  ],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 29,
+   "composers": 3
+  }
+ }
+]

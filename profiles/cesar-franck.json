@@ -1,0 +1,34 @@
+[
+ {
+  "composer": "César Franck",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "Romantic",
+  "works": 4,
+  "values": {
+   "steps": 0.46163145274075634,
+   "repeats": 0.10917848143829963,
+   "leaps": 0.14622187674783188,
+   "move": 2.9717819705175965,
+   "rising": 0.4728483847060305,
+   "leap answered": 0.27123626373626375,
+   "range": 23.5,
+   "register": 74.25,
+   "even": 0.6180954175960969,
+   "long-short": 0.1161691367481858,
+   "rhythm variety": 2.0940906962775085,
+   "surprise, pitch": 2.929079070340287,
+   "surprise, rhythm": 1.3412871157179285,
+   "density": 4.517948118964981,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 255,
+   "composers": 32
+  }
+ }
+]

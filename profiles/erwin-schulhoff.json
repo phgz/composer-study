@@ -1,0 +1,152 @@
+[
+ {
+  "composer": "Erwin Schulhoff",
+  "kind": "string quartet",
+  "forces": "string quartet",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 4,
+  "values": {
+   "steps": 0.5963190071049354,
+   "repeats": 0.09698212336341466,
+   "leaps": 0.07014682018329803,
+   "move": 2.513663499619173,
+   "rising": 0.47511336222524236,
+   "leap answered": 0.2550782550782551,
+   "range": 20.412499999999994,
+   "register": 68.0,
+   "even": 0.8410928878692587,
+   "long-short": 0.006902914662472106,
+   "rhythm variety": 0.9776888696479566,
+   "surprise, pitch": 1.59150465716695,
+   "surprise, rhythm": 0.5688270901061467,
+   "density": 9.991249308509554,
+   "lines": 4.0
+  },
+  "traits": [],
+  "figures": [],
+  "compared": {
+   "by": "kind, forces, period",
+   "works": 114,
+   "composers": 19
+  }
+ },
+ {
+  "composer": "Erwin Schulhoff",
+  "kind": "suite",
+  "forces": "keyboard",
+  "period": "all",
+  "era": "1890 to 1950",
+  "works": 6,
+  "values": {
+   "steps": 0.4649381405391319,
+   "repeats": 0.052560684186085706,
+   "leaps": 0.23155452127091172,
+   "move": 3.473142719892879,
+   "rising": 0.4729930318326006,
+   "leap answered": 0.29965799897081163,
+   "range": 20.61666666666666,
+   "register": 73.66666666666667,
+   "even": 0.45109534625803555,
+   "long-short": 0.13554875387410478,
+   "rhythm variety": 2.570386883397789,
+   "surprise, pitch": 2.3956990274453767,
+   "surprise, rhythm": 1.7220120107001817,
+   "density": 5.89655583734752,
+   "lines": 2.0
+  },
+  "traits": [
+   {
+    "measure": "repeats",
+    "value": 0.052560684186085706,
+    "others": 0.14338852207196856,
+    "auc": 0.24746913595378028
+   },
+   {
+    "measure": "long-short",
+    "value": 0.13554875387410478,
+    "others": 0.07067064413027589,
+    "auc": 0.7985635634646
+   }
+  ],
+  "figures": [
+   {
+    "moves": [
+     1,
+     1,
+     1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 5.0,
+    "works": 3,
+    "per_1000": 6.0,
+    "others_per_1000": 0.6,
+    "at": [
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_4_tango.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 4: Tango (DCML)",
+      "bar": 6,
+      "notes": "F4 F#4 G4 Ab4"
+     },
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_6_fox-trot.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 6: Fox-trot (DCML)",
+      "bar": 20,
+      "notes": "B4 C5 C#5 D5"
+     },
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_3_waltz.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 3: Waltz (DCML)",
+      "bar": 3,
+      "notes": "A4 Bb4 B4 C5"
+     }
+    ]
+   },
+   {
+    "moves": [
+     -1,
+     -1,
+     -1
+    ],
+    "rhythm": [
+     0,
+     0,
+     0
+    ],
+    "z": 4.3,
+    "works": 3,
+    "per_1000": 4.5,
+    "others_per_1000": 0.4,
+    "at": [
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_3_waltz.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 3: Waltz (DCML)",
+      "bar": 21,
+      "notes": "F5 E5 Eb5 D5"
+     },
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_6_fox-trot.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 6: Fox-trot (DCML)",
+      "bar": 31,
+      "notes": "D6 C#6 C6 B5"
+     },
+     {
+      "work": "dcml/schulhoff_suite_dansante_en_jazz:notes/suite_dansante_en_jazz_2_strait.notes.tsv",
+      "label": "Suite dansante en jazz, WV 98, movement 2: Strait (DCML)",
+      "bar": 26,
+      "notes": "C4 B3 Bb3 A3"
+     }
+    ]
+   }
+  ],
+  "compared": {
+   "by": "kind",
+   "works": 245,
+   "composers": 18
+  }
+ }
+]
