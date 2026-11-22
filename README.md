@@ -1,6 +1,6 @@
 # composer-study
 
-Measured studies of the composers in score-reader's catalogue, for composer-blend to compose with: profiles of narrow units (a composer in one kind of piece and one period), set against the other composers of the same kind and period, with pointers to the bars that show them; a listener's ear trained on the same notes (below); and, later, continuations.
+Measured studies of the composers in score-reader's catalogue, for composer-blend to compose with: profiles of narrow units (a composer in one kind of piece and one period), set against the other composers of the same kind and period, with pointers to the bars that show them; a listener's ear trained on the same notes (below); and continuations, ways to carry a line on in a unit's manner.
 
 - **`TRAINING.md`**: what training reads and what it leaves out (an editor's copy for playing is not the score).
 - **`data/periods.json`**: each composer's periods, the second half of a unit (the kind comes from score-reader's `facts`). A work falls in the period whose years hold the year a source states for it, else whose catalogue numbers or title hold it; a work none holds belongs to no period, and its unit falls back to the composer. Each line gives its reason. Written on 21 November 2026 and left to stand: a period that sounds wrong in a piece is corrected here.
@@ -86,5 +86,31 @@ A narrow unit is a composer in one kind of piece and one period: Chopin's mazurk
   - The ear's surprise comes from an ear that learnt these works too. A composer the catalogue holds much of is better known to it, so read surprise against composers of the same size.
   - Harmony is measured only where analysts labelled it: 1,868 works by 57 composers, most of them by a few: J. S. Bach (522), Beethoven, Corelli, Couperin, Scarlatti, Grieg, C. P. E. Bach, Mozart, Chopin. Harmony inferred from the notes, for the rest, is not done; it would need its accuracy measured against these labels first, and marking as inferred.
   - Analysts differ: DCML's and When in Rome's labels follow different conventions in places (how a cadential six-four is named, how long a key lasts), so a unit labelled by one is set partly against works labelled by the other.
+
+## Continuations
+
+`study/continuations.py` proposes ways to carry a line on in a narrow unit's manner, for a draft to choose from: most often an inner voice under a melody and over a bass that are already written.
+
+- **The model:** the listener's ear learnt at three levels at once (the unit's works, the composer's, the whole catalogue's), their predictions joined, and one view more.
+  - **The vertical view:** where other lines sound, the note's pitch class above the lowest of them, given that bass's degree and the interval from it to the highest other line. It is the unit's harmony as its lines meet, learnt from its works' lines.
+  - Spans a reading plays again are counted once, and editors' copies for MIDI are left out (TRAINING.md, sections 1 and 3).
+- **Held out** (`checks/continuations-2026-11-22.md`): 12 units, 6 works each held out, the catalogue level learnt without them (version 25: 13,951 works). Bits a note of pitch, lower is better:
+
+  | | all lines | inner lines |
+  |---|---|---|
+  | the ear alone (the catalogue) | 2.80 | 2.73 |
+  | + the composer's works | 2.73 | 2.66 |
+  | + the unit's works | 2.72 | 2.65 |
+  | + the vertical view | 2.52 | 2.29 |
+
+  - Rhythm moves less: 1.50 to 1.48 bits a note.
+  - The gain is largest where the readings hold real voices: Corelli's trio sonatas 2.84 to 1.95, Bach's chorales 2.86 to 2.36, Palestrina's motets 2.69 to 2.34.
+  - It is smallest for keyboard music: Beethoven's early sonatas 2.94 to 2.91, Chopin's Paris dances 2.87 to 2.82. The readings give each hand as one line (its top notes), so there are no inner voices to learn from.
+  - The vertical view enters as a product, raised to a weight. A plain geometric mean with the line's prediction made the line worse (2.90); weighed 0.5 it helps everywhere, and weighed 1 it helps inner lines most (2.29 against 2.33).
+- **Sampling:** a continuation is drawn note by note, within a range and between the lines it must not cross, its time-spans snapped to the durations the unit uses most.
+  - It is drawn without the piece's own memory. With it, a line loops on itself: its samples were far less surprising than the unit's real inner voices (2.4 to 2.7 bits a note against 4.2 to 4.4, Bach's chorales and Mozart's quartets), and less consonant.
+  - Without it, and with the vertical view weighed double: 3.6 to 4.4 bits a note against the real 4.2 to 4.8; consonant with the outer voices 61% to 70% of the time, against the real 63% to 71%.
+- **What is proposed:** of many samples, the ones whose surprise (measured with the piece's own memory, as the unit's music is) falls between the 25th and 75th percentiles of the unit's own held-out passages, most different from one another. Neither the most likely, which the critic would call flat, nor noise.
+- **Quotation:** each proposal can be checked against the unit's works with score-reader's rule (no more than three intervals in a row with their rhythm). Counted that way, the composers' own held-out passages quote their other works 84% to 100% of the time, and the proposals 59% to 91%. At eight intervals, the real passages 6% to 44%, the proposals 0% to 29%. How the rule applies to continuations is Philip's to decide.
 
 Run the tests: `python3 -m pytest -q tests`.

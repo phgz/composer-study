@@ -65,4 +65,8 @@ Not counted: composers after 1950 (under copyright, nearly absent from open coll
   - **Weights:** each work weighs one; a composer is held to a tenth and a collection to a third of the whole.
   - **Measures:** `study/heldout.py` and `study/rated.py`; the numbers are in the README.
   - It prints what it was trained on (`lines.record`) each time it is trained.
-
+- **Continuations** (`study/continuations.py`; 22 November 2026): score-reader's catalogue version 25 at d37df33, read from the ready-read copy.
+  - **Levels:** the unit's works, the composer's, and the catalogue's. For the held-out test, the catalogue level was learnt without the 72 held-out works.
+  - **Lines:** the sounding skyline of each part, each span played again counted once (section 3).
+  - **Left out:** `midi_copy` and `realized` (section 1), and, at the unit's and the composer's levels, works marked `measure_only` (section 5; `study/lines.py` now keeps the mark). The catalogue level of the held-out test was learnt before the mark was kept, so it counts them.
+  - **Weights:** at the catalogue level, a work weighs one, a composer at most a tenth and a collection at most a third. At the unit's and the composer's levels, each work weighs one.
