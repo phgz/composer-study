@@ -44,7 +44,8 @@ Twelve quarters after four real notes, between the real lines above and below, 2
 
 - **With the piece's own memory, a line loops on itself.** One Bach sample alternated E and C for four bars at 0.27 bits a note. That is the flatness the critic names.
 - **Kept:** drawn without the piece's memory, vertical weighed double, temperature 1. Of these samples, 30% (Bach), 45% (Palestrina) and 63% (Mozart) fall within the middle half of the real passages' surprise.
-- **Still unlike the real voices:** Mozart's sampled inner voices move more often than his (23 notes in twelve quarters against 17.5), and parallel fifths or octaves with the bass come about 2 times in 100 notes, where Bach's and Palestrina's real voices have almost none. Nothing forbids them yet. A composer can be asked to choose; a rule can be added.
+- **Parallel fifths and octaves** with a line that moves too came 3 times in 100 notes in Bach's sampled inner voices and 5 in Palestrina's, where their real voices have none or almost none (0 and 0.6). They are now forbidden in sampling (`no_parallels`, on by default): 0 and 1.6 in 100 after. Mozart's real inner voices have 2.3; his samples 0.3. (Corelli's readings double the bass in two parts, so this count means nothing for him.)
+- **Still unlike the real voices:** Mozart's sampled inner voices move more often than his (23 notes in twelve quarters against 17.5), and Palestrina's less (5.1 against 7.1).
 
 ## Quotation
 

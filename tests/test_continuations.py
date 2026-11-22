@@ -72,3 +72,10 @@ def test_the_band_is_the_units_own_music_scored_as_proposals_are():
     ws = corpus(16); lv = [('all',) + C.level(ws[:12])]
     (lo, hi), vals = C.band(lv, ws[12:], length=6.0, step=10)
     assert vals and lo <= np.median(vals) <= hi
+
+
+def test_no_parallel_fifths_or_octaves_with_a_line_that_moves():
+    bass = [(0, 1, 48), (1, 1, 50)]                                                       # C then D
+    assert C.parallels(55, [bass], 0, 1) == {9}                                           # G over C: not A over D
+    assert C.parallels(52, [bass], 0, 1) == set()                                         # E over C: a third, free
+    assert C.parallels(55, [[(0, 2, 48)]], 0, 1) == set()                                 # the bass holds: no parallel
