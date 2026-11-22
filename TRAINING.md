@@ -36,7 +36,9 @@ An editor's copy for MIDI writes its repeats out, so repeated sections count twi
 - A work held by two collections counts once (`replaces` in the catalogue). A movement kept from another collection (`also_in`) counts once too.
 - The narrow units fall back to the composer, then the period, then everything, where a unit has little to go on. Those shared levels weigh by works: each work's counts are scaled to weigh one, whatever its length.
 - No composer weighs more than a tenth of a shared level. Bach has 1,025 of the 2,022 Baroque works in version 14, half the level; held at a tenth, the fallbacks do not drift toward him. What a capped composer gives up is shared among the others by their works. Weighing each composer equally (the rule before 21 November 2026) would make one song of Ethel Smyth's weigh as much as Brahms's 137 works.
-- The cap and the version it was applied to are recorded with each model.
+- No collection weighs more than a third of a shared level, as no composer weighs more than a tenth of one (Philip, 22 November 2026). The Polish Scores (score-reader's catalogue version 22: 5,949 works by 407 composers, most of them the church music of Polish archives of the 18th and 19th centuries) are by works 48% of the Classical level, 50% of the Romantic and 36% of 1890 to 1950; held at a third, those levels stay the periods' music and do not drift toward one region's archives. In version 22 the cap binds that collection only: the next largest share is the Josquin Research Project's 32% of Before 1600. The catalogue still reads every work, and a composer's own unit keeps all of them; only the shared levels are capped.
+- Both caps hold at once: a composer's or a collection's weight is scaled down where it passes its cap, and what it gives up is shared among the others by their works, until neither cap is passed.
+- The caps and the version they were applied to are recorded with each model.
 
 ## 4a. Who is counted
 

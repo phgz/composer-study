@@ -1,9 +1,41 @@
 {
- "note": "Each composer's shared period: the level a narrow unit falls back to after the composer (TRAINING.md, section 4), and where the cap of a tenth is counted. The sheet's period (the Composer Pool Sieve's Period column) where the sheet has the composer; otherwise by the year of birth, with the sheet's boundaries read from its own composers: before 1570, Before 1600; to 1709, Baroque; to 1779, Classical; to 1859, Romantic; to 1899, 1890 to 1950 (Monteverdi, born 1567, is before 1600; Pergolesi, 1710, Baroque; C. P. E. Bach, 1714, Classical; Field, 1782, Romantic; Debussy, 1862, 1890 to 1950). A composer known only by the year of a dated work is taken as born thirty years before it. Years of birth are the collections' own where they give one (OpenScore's composer list, Mutopia's composer pages and headers, the Josquin Research Project's records), else the standard ones. Written on 21 November 2026 for score-reader's catalogue version 16 (version 17 adds 18 of the sheet's composers, each in the sheet's period); a judgment table: a composer the rule places wrongly is corrected here, with the reason.",
+ "note": "Each composer's shared period: the level a narrow unit falls back to after the composer (TRAINING.md, section 4), and where the caps are counted (a composer's tenth, a collection's third). The sheet's period (the Composer Pool Sieve's Period column) where the sheet has the composer; otherwise by the year of birth, with the sheet's boundaries read from its own composers: before 1570, Before 1600; to 1709, Baroque; to 1779, Classical; to 1859, Romantic; to 1899, 1890 to 1950 (Monteverdi, born 1567, is before 1600; Pergolesi, 1710, Baroque; C. P. E. Bach, 1714, Classical; Field, 1782, Romantic; Debussy, 1862, 1890 to 1950). A composer known only by the year of a dated work is taken as born thirty years before it. Years of birth are the collections' own where they give one (OpenScore's composer list, Mutopia's composer pages and headers, the Josquin Research Project's records), else the standard ones. Written on 21 November 2026 for score-reader's catalogue version 16 (version 17 adds 18 of the sheet's composers, each in the sheet's period); a judgment table: a composer the rule places wrongly is corrected here, with the reason. Catalogue version 22 adds 341: the seven of DCML's version 19 corpora (Frescobaldi, Schütz, Medtner, Koželuch, Sweelinck, W. F. Bach, Peri) by the year of birth, and the Polish Scores' composers by the dates the collection gives: a birth year, or one about it; for a composer it knows only as active (born before a year, died after one), born about 30 years before the first (as Mr. Powlwheel); for one it knows only by the year of death, born about 50 years before it. 53 composers of the Polish Scores whom it gives no years are in neither table: they count at the level of everything only, until their years are found.",
  "composers": {
+  "A. Hermanowski": {
+   "era": "Classical",
+   "why": "active 1741 to 1743 (born about 1711; the collection gives no birth year)"
+  },
   "A. Veliumov": {
    "era": "Romantic",
    "why": "a 19th-century composer (his edition gives no years)"
+  },
+  "Adalbert Dankowski": {
+   "era": "Classical",
+   "why": "born about 1760"
+  },
+  "Adam Jarzębski": {
+   "era": "Baroque",
+   "why": "born 1590"
+  },
+  "Adam Józef Karasiński": {
+   "era": "1890 to 1950",
+   "why": "born 1868"
+  },
+  "Adam Tarnowski": {
+   "era": "Romantic",
+   "why": "born 1816"
+  },
+  "Adam Wroński": {
+   "era": "Romantic",
+   "why": "born about 1850"
+  },
+  "Adolf Gustaw Sonnenfeld": {
+   "era": "Romantic",
+   "why": "born 1837"
+  },
+  "Adolf Rzepko": {
+   "era": "Romantic",
+   "why": "born 1825"
   },
   "Adolphe Adam": {
    "era": "Romantic",
@@ -13,13 +45,33 @@
    "era": "Before 1600",
    "why": "born 1568"
   },
+  "Adrien Boieldieu": {
+   "era": "Classical",
+   "why": "born 1775"
+  },
   "Alban Berg": {
    "era": "1890 to 1950",
    "why": "the sheet's period"
   },
+  "Albert Kietliński": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
   "Albert Lister Peace": {
    "era": "Romantic",
    "why": "born 1844"
+  },
+  "Aleksander Piotrowski": {
+   "era": "1890 to 1950",
+   "why": "born 1870"
+  },
+  "Aleksander Rodowski": {
+   "era": "Classical",
+   "why": "active 1790 to 1810 (born about 1760; the collection gives no birth year)"
+  },
+  "Aleksander Zarzycki": {
+   "era": "Romantic",
+   "why": "born 1834"
   },
   "Alessandro Grandi": {
    "era": "Baroque",
@@ -81,9 +133,17 @@
    "era": "1890 to 1950",
    "why": "born 1864"
   },
+  "Alojzy Stolpe": {
+   "era": "Romantic",
+   "why": "born 1784"
+  },
   "Amanda Maier": {
    "era": "Romantic",
    "why": "born 1853"
+  },
+  "Amandus Ivanschiz": {
+   "era": "Baroque",
+   "why": "active 1727 to 1758 (born about 1697; the collection gives no birth year)"
   },
   "Amelia Lehmann": {
    "era": "Romantic",
@@ -101,6 +161,14 @@
    "era": "Baroque",
    "why": "active by 1715 (born about 1685)"
   },
+  "Andrzej Siwiński": {
+   "era": "Baroque",
+   "why": "active in 1725 (born about 1695; the collection gives no birth year)"
+  },
+  "Andrzej Wołoszko": {
+   "era": "Baroque",
+   "why": "born about 1700"
+  },
   "Ange Flégier": {
    "era": "Romantic",
    "why": "born 1846"
@@ -108,6 +176,14 @@
   "Ann Mounsey Bartholomew": {
    "era": "Romantic",
    "why": "born 1811"
+  },
+  "Annibale Orgas": {
+   "era": "Baroque",
+   "why": "born about 1585"
+  },
+  "Annibale Stabile": {
+   "era": "Before 1600",
+   "why": "born about 1535"
   },
   "Antoine Brumel": {
    "era": "Before 1600",
@@ -129,13 +205,49 @@
    "era": "Romantic",
    "why": "born 1781"
   },
+  "Anton Fils": {
+   "era": "Baroque",
+   "why": "active 1733 to 1760 (born about 1703; the collection gives no birth year)"
+  },
   "Anton Webern": {
    "era": "1890 to 1950",
    "why": "the sheet's period"
   },
+  "Antoni Henryk Radziwiłł": {
+   "era": "Classical",
+   "why": "born 1775"
+  },
+  "Antoni Kątski": {
+   "era": "Romantic",
+   "why": "born 1817"
+  },
+  "Antoni Orłowski": {
+   "era": "Romantic",
+   "why": "born 1811"
+  },
+  "Antoni Teichmann": {
+   "era": "Romantic",
+   "why": "born 1798"
+  },
+  "Antonio Brioschi": {
+   "era": "Baroque",
+   "why": "active 1725 to 1750 (born about 1695; the collection gives no birth year)"
+  },
+  "Antonio Caldara": {
+   "era": "Baroque",
+   "why": "born 1670"
+  },
   "Antonio Lotti": {
    "era": "Baroque",
    "why": "born 1667"
+  },
+  "Antonio Sacchini": {
+   "era": "Classical",
+   "why": "born 1730"
+  },
+  "Antonio Salieri": {
+   "era": "Classical",
+   "why": "born 1750"
   },
   "Antonio Vivaldi": {
    "era": "Baroque",
@@ -144,6 +256,14 @@
   "Antonín Dvořák": {
    "era": "Romantic",
    "why": "the sheet's period"
+  },
+  "Antonín Laube": {
+   "era": "Classical",
+   "why": "born 1718"
+  },
+  "Apolinary Kątski": {
+   "era": "Romantic",
+   "why": "born 1825"
   },
   "Arcangelo Corelli": {
    "era": "Baroque",
@@ -173,6 +293,14 @@
    "era": "Romantic",
    "why": "born 1842"
   },
+  "Artur Gold": {
+   "era": "1890 to 1950",
+   "why": "born 1897"
+  },
+  "Asprilio Pacelli": {
+   "era": "Baroque",
+   "why": "born 1570"
+  },
   "Attilio Ariosti": {
    "era": "Baroque",
    "why": "born 1666"
@@ -180,6 +308,14 @@
   "August Eberhard Müller": {
    "era": "Classical",
    "why": "born 1767"
+  },
+  "August Ferdinand Häser": {
+   "era": "Classical",
+   "why": "born 1779"
+  },
+  "August Freyer": {
+   "era": "Romantic",
+   "why": "born 1801"
   },
   "August Kühnel": {
    "era": "Baroque",
@@ -189,6 +325,10 @@
    "era": "Romantic",
    "why": "born 1793"
   },
+  "August Wiltberger": {
+   "era": "Romantic",
+   "why": "born 1850"
+  },
   "Augusta Browne": {
    "era": "Romantic",
    "why": "born 1820"
@@ -197,9 +337,25 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Augustin Volckmer": {
+   "era": "Classical",
+   "why": "born 1755"
+  },
+  "Baltazar Boguński": {
+   "era": "Classical",
+   "why": "born 1762"
+  },
+  "Barbara Geistlener": {
+   "era": "1890 to 1950",
+   "why": "active 1897 to 1912 (born about 1867; the collection gives no birth year)"
+  },
   "Barbara Strozzi": {
    "era": "Before 1600",
    "why": "the sheet's period"
+  },
+  "Bartłomiej Pękiel": {
+   "era": "Baroque",
+   "why": "active 1633 to 1670 (born about 1603; the collection gives no birth year)"
   },
   "Bedřich Smetana": {
    "era": "Romantic",
@@ -212,6 +368,14 @@
   "Benjamin Blake": {
    "era": "Classical",
    "why": "born 1751"
+  },
+  "Bernardino Terzago": {
+   "era": "Baroque",
+   "why": "died 1625 (born about 1575; the collection gives no birth year)"
+  },
+  "Bolesław Jan Ćwiklicz": {
+   "era": "Romantic",
+   "why": "born about 1800"
   },
   "Béla Bartók": {
    "era": "1890 to 1950",
@@ -229,6 +393,22 @@
    "era": "Classical",
    "why": "born 1739"
   },
+  "Carl Friedrich Zelter": {
+   "era": "Classical",
+   "why": "born 1758"
+  },
+  "Carl Heinrich Graun": {
+   "era": "Baroque",
+   "why": "born 1704"
+  },
+  "Carl Joseph Toeschi": {
+   "era": "Classical",
+   "why": "born 1731"
+  },
+  "Carl Luython": {
+   "era": "Before 1600",
+   "why": "born about 1557"
+  },
   "Carl Maria von Weber": {
    "era": "Romantic",
    "why": "the sheet's period"
@@ -241,6 +421,10 @@
    "era": "Classical",
    "why": "the sheet's period"
   },
+  "Carl Reinecke": {
+   "era": "Romantic",
+   "why": "born 1824"
+  },
   "Carlo Cecere": {
    "era": "Baroque",
    "why": "born 1706"
@@ -252,6 +436,10 @@
   "Carrie Jacobs-Bond": {
    "era": "1890 to 1950",
    "why": "born 1862"
+  },
+  "Caspar Ett": {
+   "era": "Romantic",
+   "why": "born 1788"
   },
   "Charles Edward Horsley": {
    "era": "Romantic",
@@ -321,9 +509,17 @@
    "era": "Baroque",
    "why": "born 1645"
   },
+  "Christlieb Siegmund Binder": {
+   "era": "Classical",
+   "why": "born 1723"
+  },
   "Christoph Willibald Gluck": {
    "era": "Classical",
    "why": "the sheet's period"
+  },
+  "Christophorus Kellerer": {
+   "era": "Classical",
+   "why": "born 1742"
   },
   "Clara H. Fiske Scott": {
    "era": "Romantic",
@@ -341,6 +537,10 @@
    "era": "1890 to 1950",
    "why": "the sheet's period"
   },
+  "Claude Goudimel": {
+   "era": "Before 1600",
+   "why": "born about 1514"
+  },
   "Claude Joseph Rouget de Lisle": {
    "era": "Classical",
    "why": "born 1760"
@@ -348,6 +548,10 @@
   "Claudio Monteverdi": {
    "era": "Before 1600",
    "why": "the sheet's period"
+  },
+  "Claus Nielsen Schall": {
+   "era": "Classical",
+   "why": "born 1757"
   },
   "Clémence de Grandval": {
    "era": "Romantic",
@@ -361,13 +565,29 @@
    "era": "Romantic",
    "why": "born 1786"
   },
+  "Conradin Kreutzer": {
+   "era": "Romantic",
+   "why": "born 1780"
+  },
   "Corona Schröter": {
    "era": "Classical",
    "why": "born 1751"
   },
+  "Cristóbal de Morales": {
+   "era": "Before 1600",
+   "why": "born about 1500"
+  },
+  "Cyprian Bazylik": {
+   "era": "Before 1600",
+   "why": "born about 1535"
+  },
   "Cyril Rootham": {
    "era": "1890 to 1950",
    "why": "born 1875"
+  },
+  "Cyryl Goetz-Gieczyński": {
+   "era": "Romantic",
+   "why": "born 1793"
   },
   "Cécile Chaminade": {
    "era": "Romantic",
@@ -385,9 +605,17 @@
    "era": "Romantic",
    "why": "born 1833"
   },
+  "Daniel Fierszewicz": {
+   "era": "Baroque",
+   "why": "active 1702 to 1734 (born about 1672; the collection gives no birth year)"
+  },
   "Daniel Speer": {
    "era": "Baroque",
    "why": "born 1636"
+  },
+  "Danka": {
+   "era": "Classical",
+   "why": "active 1790 to 1810 (born about 1760; the collection gives no birth year)"
   },
   "Dietrich Buxtehude": {
    "era": "Baroque",
@@ -396,6 +624,10 @@
   "Dionisio Aguado": {
    "era": "Romantic",
    "why": "born 1784"
+  },
+  "Dmitrij Stepanovič Bortnjanskij": {
+   "era": "Classical",
+   "why": "born 1751"
   },
   "Dmitry Bortniansky": {
    "era": "Classical",
@@ -425,6 +657,14 @@
    "era": "1890 to 1950",
    "why": "born 1862"
   },
+  "Edward Stefan Łodwigowski": {
+   "era": "Romantic",
+   "why": "born 1815"
+  },
+  "Edward Wolff": {
+   "era": "Romantic",
+   "why": "born 1816"
+  },
   "Eleanor Everest Freer": {
    "era": "1890 to 1950",
    "why": "born 1864"
@@ -452,6 +692,18 @@
   "Emanuele Barbella": {
    "era": "Classical",
    "why": "born 1718"
+  },
+  "Emanuele d' Astorga": {
+   "era": "Baroque",
+   "why": "born 1680"
+  },
+  "Emil Młynarski": {
+   "era": "1890 to 1950",
+   "why": "born 1870"
+  },
+  "Emil Władysław Śmietański": {
+   "era": "Romantic",
+   "why": "born 1845"
   },
   "Emilie Mayer": {
    "era": "Romantic",
@@ -505,6 +757,14 @@
    "era": "Romantic",
    "why": "born 1849"
   },
+  "Eugen Pausch": {
+   "era": "Classical",
+   "why": "born 1758"
+  },
+  "Eugenjusz Gruberski": {
+   "era": "1890 to 1950",
+   "why": "born 1870"
+  },
   "Eugène Gigout": {
    "era": "Romantic",
    "why": "born 1844"
@@ -512,6 +772,10 @@
   "Evelyn Faltis": {
    "era": "1890 to 1950",
    "why": "born 1887"
+  },
+  "Fabian Tymolski": {
+   "era": "Romantic",
+   "why": "born 1828"
   },
   "Fanny Mendelssohn": {
    "era": "Romantic",
@@ -525,6 +789,10 @@
    "era": "Classical",
    "why": "born 1716"
   },
+  "Feliks Janiewicz": {
+   "era": "Classical",
+   "why": "born 1762"
+  },
   "Felix Horetzky": {
    "era": "Romantic",
    "why": "born 1796"
@@ -533,6 +801,10 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Ferdinand Beyer": {
+   "era": "Romantic",
+   "why": "born 1803"
+  },
   "Ferdinand Laub": {
    "era": "Romantic",
    "why": "born 1832"
@@ -540,6 +812,14 @@
   "Ferdinand Ries": {
    "era": "Romantic",
    "why": "born 1784"
+  },
+  "Ferdinand Simon Lechleitner": {
+   "era": "Baroque",
+   "why": "born about 1700"
+  },
+  "Ferdinand di Lasso": {
+   "era": "Before 1600",
+   "why": "born about 1560"
   },
   "Ferdinando Carulli": {
    "era": "Classical",
@@ -557,6 +837,18 @@
    "era": "1890 to 1950",
    "why": "born 1866"
   },
+  "Figulenti": {
+   "era": "Classical",
+   "why": "active 1790 to 1810 (born about 1760; the collection gives no birth year)"
+  },
+  "Filip Gotschalk": {
+   "era": "Classical",
+   "why": "born 1760"
+  },
+  "Filipina Brzezińska": {
+   "era": "Romantic",
+   "why": "born 1800"
+  },
   "Filippo Vitali": {
    "era": "Baroque",
    "why": "born 1599"
@@ -564,6 +856,10 @@
   "Florence Ashton Marshall": {
    "era": "Romantic",
    "why": "born 1843"
+  },
+  "Florian Danielski": {
+   "era": "Romantic",
+   "why": "born 1795"
   },
   "Florimond van Duyse": {
    "era": "Romantic",
@@ -593,6 +889,42 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Franciszek Kasper Just": {
+   "era": "Classical",
+   "why": "born 1717"
+  },
+  "Franciszek Kottritsch": {
+   "era": "Classical",
+   "why": "born 1727"
+  },
+  "Franciszek Lessel": {
+   "era": "Romantic",
+   "why": "born 1780"
+  },
+  "Franciszek Lilius": {
+   "era": "Baroque",
+   "why": "born about 1600"
+  },
+  "Franciszek Matuszkiewicz": {
+   "era": "Classical",
+   "why": "active 1790 to 1810 (born about 1760; the collection gives no birth year)"
+  },
+  "Franciszek Mirecki": {
+   "era": "Romantic",
+   "why": "born 1791"
+  },
+  "Franciszek Piotrowski": {
+   "era": "Classical",
+   "why": "active 1800 to 1849 (born about 1770; the collection gives no birth year)"
+  },
+  "Franciszek Walczyński": {
+   "era": "Romantic",
+   "why": "born about 1852"
+  },
+  "Franciszek Ścigalski": {
+   "era": "Romantic",
+   "why": "born 1782"
+  },
   "Frank Bridge": {
    "era": "1890 to 1950",
    "why": "born 1879"
@@ -600,6 +932,14 @@
   "František Max Kníže": {
    "era": "Romantic",
    "why": "born 1784"
+  },
+  "František Xaver Brixi": {
+   "era": "Classical",
+   "why": "born 1732"
+  },
+  "František Xaver Budinský": {
+   "era": "Baroque",
+   "why": "born 1676"
   },
   "Franz Abt": {
    "era": "Romantic",
@@ -612,6 +952,10 @@
   "Franz Behr": {
    "era": "Romantic",
    "why": "born 1837"
+  },
+  "Franz Bühler": {
+   "era": "Classical",
+   "why": "born 1760"
   },
   "Franz Joseph Haydn": {
    "era": "Classical",
@@ -629,6 +973,10 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Franz Maintzer": {
+   "era": "Classical",
+   "why": "active 1781 to 1785 (born about 1751; the collection gives no birth year)"
+  },
   "Franz Schubert": {
    "era": "Romantic",
    "why": "the sheet's period"
@@ -637,9 +985,21 @@
    "era": "Romantic",
    "why": "born 1822"
   },
+  "Franz Xaver Chwatal": {
+   "era": "Romantic",
+   "why": "born 1808"
+  },
   "Franz Xaver Gruber": {
    "era": "Romantic",
    "why": "born 1787"
+  },
+  "Franz Xaver Pokorný": {
+   "era": "Classical",
+   "why": "born 1729"
+  },
+  "Franz Xaver Witt": {
+   "era": "Romantic",
+   "why": "born 1834"
   },
   "François Couperin": {
    "era": "Baroque",
@@ -677,6 +1037,14 @@
    "era": "Romantic",
    "why": "born 1806"
   },
+  "Friedrich Ernst Fesca": {
+   "era": "Romantic",
+   "why": "born 1789"
+  },
+  "Friedrich Heinrich Himmel": {
+   "era": "Classical",
+   "why": "born 1765"
+  },
   "Friedrich Kuhlau": {
    "era": "Romantic",
    "why": "born 1786"
@@ -685,9 +1053,17 @@
    "era": "Romantic",
    "why": "born 1789"
   },
+  "Friedrich Wilhelm Kücken": {
+   "era": "Romantic",
+   "why": "born 1810"
+  },
   "Frédéric Chopin": {
    "era": "Romantic",
    "why": "the sheet's period"
+  },
+  "Fuchs": {
+   "era": "Romantic",
+   "why": "born 1842"
   },
   "Gabriel Fauré": {
    "era": "Romantic",
@@ -700,6 +1076,10 @@
   "Gaetano Donizetti": {
    "era": "Romantic",
    "why": "the sheet's period"
+  },
+  "Gaetano Pugnani": {
+   "era": "Classical",
+   "why": "born 1731"
   },
   "Gaspar Sanz": {
    "era": "Baroque",
@@ -716,6 +1096,10 @@
   "Georg Benda": {
    "era": "Classical",
    "why": "born 1722"
+  },
+  "Georg Christoph Wagenseil": {
+   "era": "Classical",
+   "why": "born 1715"
   },
   "Georg Kopprasch": {
    "era": "Romantic",
@@ -765,9 +1149,17 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Gian Francesco De Majo": {
+   "era": "Classical",
+   "why": "born 1732"
+  },
   "Gilles Binchois": {
    "era": "Before 1600",
    "why": "born 1400"
+  },
+  "Gimeshoffer": {
+   "era": "Classical",
+   "why": "active 1790 to 1810 (born about 1760; the collection gives no birth year)"
   },
   "Gioacchino Cocchi": {
    "era": "Classical",
@@ -777,9 +1169,25 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Giovanni Antonio Riccieri": {
+   "era": "Baroque",
+   "why": "born 1679"
+  },
+  "Giovanni Battista Casali": {
+   "era": "Classical",
+   "why": "born 1715"
+  },
+  "Giovanni Battista Costanzi": {
+   "era": "Baroque",
+   "why": "born 1704"
+  },
   "Giovanni Battista Gervasio": {
    "era": "Classical",
    "why": "born 1725"
+  },
+  "Giovanni Battista Lampugnani": {
+   "era": "Baroque",
+   "why": "born about 1709"
   },
   "Giovanni Battista Martini": {
    "era": "Baroque",
@@ -788,6 +1196,10 @@
   "Giovanni Battista Pergolesi": {
    "era": "Baroque",
    "why": "the sheet's period"
+  },
+  "Giovanni Battista Sammartini": {
+   "era": "Baroque",
+   "why": "born about 1700"
   },
   "Giovanni Battista Viotti": {
    "era": "Classical",
@@ -801,13 +1213,29 @@
    "era": "Baroque",
    "why": "born 1600"
   },
+  "Giovanni Fischietti": {
+   "era": "Baroque",
+   "why": "born 1692"
+  },
+  "Giovanni Francesco Anerio": {
+   "era": "Before 1600",
+   "why": "born 1569"
+  },
   "Giovanni Giacomo Gastoldi": {
    "era": "Before 1600",
    "why": "born 1556"
   },
+  "Giovanni Matteo Asola": {
+   "era": "Before 1600",
+   "why": "active 1532 to 1609 (born about 1502; the collection gives no birth year)"
+  },
   "Giovanni Pierluigi da Palestrina": {
    "era": "Before 1600",
    "why": "the sheet's period"
+  },
+  "Giovanni Pietro Biandrà": {
+   "era": "Baroque",
+   "why": "active in 1627 (born about 1597; the collection gives no birth year)"
   },
   "Giovanni Priuli": {
    "era": "Baroque",
@@ -817,6 +1245,10 @@
    "era": "Baroque",
    "why": "born 1582"
   },
+  "Girolamo Frescobaldi": {
+   "era": "Baroque",
+   "why": "born 1583"
+  },
   "Giuseppe Giordani": {
    "era": "Classical",
    "why": "born 1751"
@@ -825,9 +1257,17 @@
    "era": "Classical",
    "why": "active by 1760 (born about 1730)"
   },
+  "Giuseppe Ottavio Pitoni": {
+   "era": "Baroque",
+   "why": "born 1657"
+  },
   "Giuseppe Verdi": {
    "era": "Romantic",
    "why": "the sheet's period"
+  },
+  "Gostowski": {
+   "era": "Romantic",
+   "why": "born about 1800"
   },
   "Granville Bantock": {
    "era": "1890 to 1950",
@@ -836,6 +1276,14 @@
   "Gregorio Allegri": {
    "era": "Baroque",
    "why": "born 1582"
+  },
+  "Grzegorz Fitelberg": {
+   "era": "1890 to 1950",
+   "why": "born 1879"
+  },
+  "Grzegorz Gerwazy Gorczycki": {
+   "era": "Baroque",
+   "why": "born about 1666"
   },
   "Guillaume Du Fay": {
    "era": "Before 1600",
@@ -864,6 +1312,10 @@
   "Halina Krzyżanowska": {
    "era": "1890 to 1950",
    "why": "born 1867"
+  },
+  "Hanel": {
+   "era": "Romantic",
+   "why": "born about 1800"
   },
   "Hans Sitt": {
    "era": "Romantic",
@@ -901,6 +1353,10 @@
    "era": "Baroque",
    "why": "born 1595"
   },
+  "Heinrich Schütz": {
+   "era": "Baroque",
+   "why": "born 1585"
+  },
   "Helen Hopekirk": {
    "era": "Romantic",
    "why": "born 1856"
@@ -937,6 +1393,18 @@
    "era": "Romantic",
    "why": "born 1816"
   },
+  "Henryk Jarecki": {
+   "era": "Romantic",
+   "why": "born 1846"
+  },
+  "Henryk Wieniawski": {
+   "era": "Romantic",
+   "why": "born 1835"
+  },
+  "Hepner": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
   "Hermann Suter": {
    "era": "1890 to 1950",
    "why": "born 1870"
@@ -953,6 +1421,38 @@
    "era": "1890 to 1950",
    "why": "born 1860"
   },
+  "Iacobus Gallus": {
+   "era": "Before 1600",
+   "why": "born 1550"
+  },
+  "Ignacy Feliks Dobrzyński": {
+   "era": "Romantic",
+   "why": "born 1807"
+  },
+  "Ignacy Jan Paderewski": {
+   "era": "1890 to 1950",
+   "why": "born 1860"
+  },
+  "Ignacy Kasprzykowski": {
+   "era": "Baroque",
+   "why": "died 1752 (born about 1702; the collection gives no birth year)"
+  },
+  "Ignacy Marceli Komorowski": {
+   "era": "Romantic",
+   "why": "born 1824"
+  },
+  "Ignacy Rygall": {
+   "era": "Classical",
+   "why": "active 1750 to 1799 (born about 1720; the collection gives no birth year)"
+  },
+  "Ignaz Holzbauer": {
+   "era": "Classical",
+   "why": "born 1711"
+  },
+  "Ignaz Lachner": {
+   "era": "Romantic",
+   "why": "born 1807"
+  },
   "Ignaz Pleyel": {
    "era": "Classical",
    "why": "born 1757"
@@ -960,6 +1460,10 @@
   "Igor Stravinsky": {
    "era": "1890 to 1950",
    "why": "the sheet's period"
+  },
+  "Ippolito Sabino": {
+   "era": "Before 1600",
+   "why": "born about 1550"
   },
   "Isaac Albéniz": {
    "era": "1890 to 1950",
@@ -973,17 +1477,73 @@
    "era": "1890 to 1950",
    "why": "born 1890"
   },
+  "Izydor Józef Cybulski": {
+   "era": "Classical",
+   "why": "active 1802 to 1818 (born about 1772; the collection gives no birth year)"
+  },
+  "Izydor Konstanty Chwalibóg": {
+   "era": "Romantic",
+   "why": "born 1826"
+  },
+  "J. Andrychowicz": {
+   "era": "Classical",
+   "why": "active in 1803 (born about 1773; the collection gives no birth year)"
+  },
   "J. L. Macbeth Bain": {
    "era": "Romantic",
    "why": "born 1840"
+  },
+  "J. Löbmann": {
+   "era": "Romantic",
+   "why": "born about 1800"
   },
   "J. Rosamond Johnson": {
    "era": "1890 to 1950",
    "why": "born 1873"
   },
+  "J. Staromiejski": {
+   "era": "Baroque",
+   "why": "active in 1737 (born about 1707; the collection gives no birth year)"
+  },
+  "Jacek Różycki": {
+   "era": "Baroque",
+   "why": "born about 1635"
+  },
+  "Jacek Szczurowski": {
+   "era": "Classical",
+   "why": "born 1716"
+  },
+  "Jachet de Mantua": {
+   "era": "Before 1600",
+   "why": "born 1483"
+  },
   "Jacob Obrecht": {
    "era": "Before 1600",
    "why": "born 1457"
+  },
+  "Jacopo Peri": {
+   "era": "Before 1600",
+   "why": "born 1561"
+  },
+  "Jacotin": {
+   "era": "Before 1600",
+   "why": "born about 1473"
+  },
+  "Jacques-Claude-Adolphe Miné": {
+   "era": "Romantic",
+   "why": "born 1796"
+  },
+  "Jadwiga Brzowska": {
+   "era": "Romantic",
+   "why": "born 1830"
+  },
+  "Jakub Gołąbek": {
+   "era": "Classical",
+   "why": "born 1739"
+  },
+  "Jakub Kagan": {
+   "era": "1890 to 1950",
+   "why": "born 1896"
   },
   "James Ellor": {
    "era": "Romantic",
@@ -997,9 +1557,69 @@
    "era": "Romantic",
    "why": "born 1841"
   },
+  "Jan Barcicki": {
+   "era": "Classical",
+   "why": "born about 1750"
+  },
+  "Jan Borimius": {
+   "era": "Baroque",
+   "why": "born 1598"
+  },
+  "Jan Dawid Holland": {
+   "era": "Classical",
+   "why": "born 1746"
+  },
+  "Jan Engel": {
+   "era": "Classical",
+   "why": "active 1772 to 1788 (born about 1742; the collection gives no birth year)"
+  },
+  "Jan Fleming": {
+   "era": "Classical",
+   "why": "active in 1796 (born about 1766; the collection gives no birth year)"
+  },
+  "Jan Jiří Abersbach": {
+   "era": "Baroque",
+   "why": "born 1654"
+  },
+  "Jan Karol Gall": {
+   "era": "Romantic",
+   "why": "born 1856"
+  },
   "Jan Ladislav Dussek": {
    "era": "Classical",
    "why": "born 1760"
+  },
+  "Jan Malik": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
+  "Jan Musiałowski": {
+   "era": "Baroque",
+   "why": "born about 1600"
+  },
+  "Jan Namieyski": {
+   "era": "Classical",
+   "why": "active 1750 to 1799 (born about 1720; the collection gives no birth year)"
+  },
+  "Jan Ostrowski": {
+   "era": "Romantic",
+   "why": "born 1853"
+  },
+  "Jan Pieterszoon Sweelinck": {
+   "era": "Before 1600",
+   "why": "born 1562"
+  },
+  "Jan Piotr Habermann": {
+   "era": "Baroque",
+   "why": "active 1738 to 1762 (born about 1708; the collection gives no birth year)"
+  },
+  "Jan Stefani": {
+   "era": "Classical",
+   "why": "born about 1746"
+  },
+  "Jan Wański": {
+   "era": "Classical",
+   "why": "born 1762"
   },
   "Jane Bianchi Lacy": {
    "era": "Classical",
@@ -1020,6 +1640,14 @@
   "Jean Japart": {
    "era": "Before 1600",
    "why": "active by 1474 (born about 1444)"
+  },
+  "Jean Lhéritier": {
+   "era": "Before 1600",
+   "why": "born about 1480"
+  },
+  "Jean Mouton": {
+   "era": "Before 1600",
+   "why": "born about 1459"
   },
   "Jean Sibelius": {
    "era": "1890 to 1950",
@@ -1049,9 +1677,29 @@
    "era": "Baroque",
    "why": "the sheet's period"
   },
+  "Jehan Hérissant": {
+   "era": "Before 1600",
+   "why": "active 1550 to 1560 (born about 1520; the collection gives no birth year)"
+  },
   "Jeremiah Ingalls": {
    "era": "Classical",
    "why": "born 1764"
+  },
+  "Jeric": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
+  "Jerzy Boczkowski": {
+   "era": "1890 to 1950",
+   "why": "born 1882"
+  },
+  "Jerzy Brykner": {
+   "era": "Baroque",
+   "why": "born 1705"
+  },
+  "Johan Joachim Agrell": {
+   "era": "Baroque",
+   "why": "born 1701"
   },
   "Johann Abraham Peter Schulz": {
    "era": "Classical",
@@ -1065,13 +1713,41 @@
    "era": "Classical",
    "why": "born 1741"
   },
+  "Johann Baptist Cramer": {
+   "era": "Classical",
+   "why": "born 1771"
+  },
+  "Johann Baptist Schiedermayr": {
+   "era": "Classical",
+   "why": "born 1779"
+  },
+  "Johann Baptist Singenberger": {
+   "era": "Romantic",
+   "why": "born 1848"
+  },
+  "Johann Baptist Vanhal": {
+   "era": "Classical",
+   "why": "born 1739"
+  },
   "Johann Baptist Wanhal": {
    "era": "Classical",
    "why": "born 1739"
   },
+  "Johann Baptist Zangl": {
+   "era": "Romantic",
+   "why": "born 1821"
+  },
   "Johann Caspar Ferdinand Fischer": {
    "era": "Baroque",
    "why": "born 1656"
+  },
+  "Johann Christian Bach": {
+   "era": "Classical",
+   "why": "born 1735"
+  },
+  "Johann Christian Röllig": {
+   "era": "Classical",
+   "why": "born 1716"
   },
   "Johann Christoph Pezel": {
    "era": "Baroque",
@@ -1080,6 +1756,18 @@
   "Johann Crüger": {
    "era": "Baroque",
    "why": "born 1598"
+  },
+  "Johann Friedrich Reichardt": {
+   "era": "Classical",
+   "why": "born 1752"
+  },
+  "Johann Georg Clement": {
+   "era": "Classical",
+   "why": "born 1710"
+  },
+  "Johann Gottlieb Naumann": {
+   "era": "Classical",
+   "why": "born 1741"
   },
   "Johann Heinrich Schmelzer": {
    "era": "Baroque",
@@ -1093,9 +1781,25 @@
    "era": "Baroque",
    "why": "born 1697"
   },
+  "Johann Joseph Ignaz Brentner": {
+   "era": "Baroque",
+   "why": "born 1689"
+  },
   "Johann Kaspar Mertz": {
    "era": "Romantic",
    "why": "born 1806"
+  },
+  "Johann Melchior Pichler": {
+   "era": "Baroque",
+   "why": "active in 1695 (born about 1665; the collection gives no birth year)"
+  },
+  "Johann Nepomuk Hummel": {
+   "era": "Classical",
+   "why": "born 1778"
+  },
+  "Johann Nepomuk Went": {
+   "era": "Classical",
+   "why": "born 1745"
   },
   "Johann Pachelbel": {
    "era": "Baroque",
@@ -1112,6 +1816,10 @@
   "Johann Strauss II": {
    "era": "Romantic",
    "why": "the sheet's period"
+  },
+  "Johann Valentin Rathgeber": {
+   "era": "Baroque",
+   "why": "born 1682"
   },
   "Johann Wenzel Kalliwoda": {
    "era": "Romantic",
@@ -1205,9 +1913,25 @@
    "era": "Classical",
    "why": "born 1770"
   },
+  "Josef Bolehovský": {
+   "era": "Classical",
+   "why": "born 1743"
+  },
+  "Josef Mysliveček": {
+   "era": "Classical",
+   "why": "born 1737"
+  },
   "Josef Suk": {
    "era": "1890 to 1950",
    "why": "born 1874"
+  },
+  "Josef Triebensee": {
+   "era": "Classical",
+   "why": "born 1772"
+  },
+  "Joseph Anton Bauer": {
+   "era": "Classical",
+   "why": "born 1725"
   },
   "Joseph Ascher": {
    "era": "Romantic",
@@ -1249,13 +1973,201 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Julian Klemczyński": {
+   "era": "Romantic",
+   "why": "born 1807"
+  },
+  "Julius Otto": {
+   "era": "Romantic",
+   "why": "born 1804"
+  },
+  "Juliusz Zarębski": {
+   "era": "Romantic",
+   "why": "born 1854"
+  },
   "Juozas Naujalis": {
    "era": "1890 to 1950",
    "why": "born 1869"
   },
+  "Ján Ignác Danik": {
+   "era": "Baroque",
+   "why": "born about 1700"
+  },
+  "Józef Bernard Morawski": {
+   "era": "Romantic",
+   "why": "born 1809"
+  },
+  "Józef Damse": {
+   "era": "Romantic",
+   "why": "born 1789"
+  },
+  "Józef Daubeck": {
+   "era": "Classical",
+   "why": "active 1790 to 1810 (born about 1760; the collection gives no birth year)"
+  },
+  "Józef Elsner": {
+   "era": "Classical",
+   "why": "born 1769"
+  },
+  "Józef Grim": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
+  "Józef Ignacy Kraszewski": {
+   "era": "Romantic",
+   "why": "born 1812"
+  },
+  "Józef Jarecki": {
+   "era": "Romantic",
+   "why": "born 1818"
+  },
+  "Józef Kobierkowicz": {
+   "era": "Baroque",
+   "why": "active 1721 to 1735 (born about 1691; the collection gives no birth year)"
+  },
+  "Józef Kozłowski": {
+   "era": "Classical",
+   "why": "born 1757"
+  },
+  "Józef Kraus": {
+   "era": "Baroque",
+   "why": "active in 1736 (born about 1706; the collection gives no birth year)"
+  },
+  "Józef Krysta": {
+   "era": "Romantic",
+   "why": "born 1843"
+  },
+  "Józef Lubowski": {
+   "era": "Romantic",
+   "why": "born 1824"
+  },
+  "Józef Nowakowski": {
+   "era": "1890 to 1950",
+   "why": "born 1880"
+  },
+  "Józef Sierosławski": {
+   "era": "Romantic",
+   "why": "born 1846"
+  },
+  "Józef Sikorski": {
+   "era": "Romantic",
+   "why": "born 1815"
+  },
+  "Józef Stefani": {
+   "era": "Romantic",
+   "why": "born 1800"
+  },
+  "Józef Wieniawski": {
+   "era": "Romantic",
+   "why": "born 1837"
+  },
+  "Józef Wygrzywalski": {
+   "era": "Romantic",
+   "why": "born 1798"
+  },
+  "Józef Władysław Krogulski": {
+   "era": "Romantic",
+   "why": "born 1815"
+  },
+  "Józef Zeidler": {
+   "era": "Classical",
+   "why": "born about 1744"
+  },
+  "Józef Złotaszewski": {
+   "era": "Romantic",
+   "why": "active in 1860 (born about 1830; the collection gives no birth year)"
+  },
+  "Karel Loos": {
+   "era": "Classical",
+   "why": "born about 1724"
+  },
+  "Karol Fertner": {
+   "era": "Romantic",
+   "why": "born 1803"
+  },
+  "Karol Kazimierz Kurpiński": {
+   "era": "Romantic",
+   "why": "born 1785"
+  },
+  "Karol Mikuli": {
+   "era": "Romantic",
+   "why": "born 1819"
+  },
+  "Karol Namysłowski": {
+   "era": "Romantic",
+   "why": "born 1856"
+  },
+  "Karol Studziński": {
+   "era": "Romantic",
+   "why": "born 1828"
+  },
+  "Karol Szymanowski": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
+  },
+  "Kaspar Förster": {
+   "era": "Baroque",
+   "why": "born about 1616"
+  },
+  "Kasper Napoleon Wysocki": {
+   "era": "Romantic",
+   "why": "born 1810"
+  },
+  "Kazimierz Boczkowski": {
+   "era": "Baroque",
+   "why": "born about 1650"
+  },
+  "Kazimierz Lubomirski": {
+   "era": "Romantic",
+   "why": "born 1813"
+  },
+  "Kazimierz Nowakiewicz": {
+   "era": "Classical",
+   "why": "active 1800 to 1824 (born about 1770; the collection gives no birth year)"
+  },
+  "Kazimierz Studziński": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
+  "Klakowski": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
+  "Konstancja Dembowska": {
+   "era": "Classical",
+   "why": "active 1760 to 1818 (born about 1730; the collection gives no birth year)"
+  },
+  "Konstanty Czajkowski": {
+   "era": "Romantic",
+   "why": "born 1859"
+  },
+  "Konstanze Geiger": {
+   "era": "Romantic",
+   "why": "born 1835"
+  },
+  "Korneliusz Maletz": {
+   "era": "Romantic",
+   "why": "active 1850 to 1899 (born about 1820; the collection gives no birth year)"
+  },
+  "Krassowski": {
+   "era": "Baroque",
+   "why": "active in 1737 (born about 1707; the collection gives no birth year)"
+  },
+  "Kreith": {
+   "era": "Classical",
+   "why": "born about 1746"
+  },
+  "Krzysztof Borek": {
+   "era": "Before 1600",
+   "why": "born 1520"
+  },
   "Kyrylo Stetsenko": {
    "era": "1890 to 1950",
    "why": "born 1882"
+  },
+  "Lambert Kraus": {
+   "era": "Classical",
+   "why": "born 1728"
   },
   "Laura Netzel": {
    "era": "Romantic",
@@ -1272,6 +2184,26 @@
   "Leonardo Vinci": {
    "era": "Baroque",
    "why": "born 1690"
+  },
+  "Leopold Hofmann": {
+   "era": "Classical",
+   "why": "born 1738"
+  },
+  "Leopold Jansa": {
+   "era": "Romantic",
+   "why": "born 1795"
+  },
+  "Leopold Koželuch": {
+   "era": "Classical",
+   "why": "born 1747"
+  },
+  "Leopold Leon Lewandowski": {
+   "era": "Romantic",
+   "why": "born 1831"
+  },
+  "Leopold Pych": {
+   "era": "Classical",
+   "why": "active 1758 to 1774 (born about 1728; the collection gives no birth year)"
   },
   "Leoš Janáček": {
    "era": "1890 to 1950",
@@ -1296,6 +2228,10 @@
   "Lizzie Estabrook Tourjée": {
    "era": "Romantic",
    "why": "born 1858"
+  },
+  "Lorenzo Ratti": {
+   "era": "Baroque",
+   "why": "born about 1589"
   },
   "Louis Gobbaerts": {
    "era": "Romantic",
@@ -1337,13 +2273,41 @@
    "era": "Before 1600",
    "why": "born 1553"
   },
+  "Ludmiła Giżycka-Zamoyska": {
+   "era": "Romantic",
+   "why": "born 1829"
+  },
+  "Ludomir Różycki": {
+   "era": "1890 to 1950",
+   "why": "born 1883"
+  },
   "Ludwig Daser": {
    "era": "Before 1600",
    "why": "born 1525"
   },
+  "Ludwig Senfl": {
+   "era": "Before 1600",
+   "why": "born about 1489"
+  },
   "Ludwig van Beethoven": {
    "era": "Classical",
    "why": "the sheet's period"
+  },
+  "Ludwik Grossman": {
+   "era": "Romantic",
+   "why": "born 1835"
+  },
+  "Ludwik Maader": {
+   "era": "Classical",
+   "why": "active 1794 to 1798 (born about 1764; the collection gives no birth year)"
+  },
+  "Ludwik Nowicki": {
+   "era": "Romantic",
+   "why": "born about 1830"
+  },
+  "Ludwika Lubomirska": {
+   "era": "Romantic",
+   "why": "active in 1829 (born about 1799; the collection gives no birth year)"
   },
   "Luigi Boccherini": {
    "era": "Classical",
@@ -1352,6 +2316,10 @@
   "Luigi Cherubini": {
    "era": "Classical",
    "why": "born 1760"
+  },
+  "Luigi Marescalchi": {
+   "era": "Classical",
+   "why": "born 1745"
   },
   "Luis de Milán": {
    "era": "Before 1600",
@@ -1369,6 +2337,18 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Maciej Arnulf Miskiewicz": {
+   "era": "Baroque",
+   "why": "active in 1685 (born about 1655; the collection gives no birth year)"
+  },
+  "Maciej Łukaszewicz": {
+   "era": "Baroque",
+   "why": "active 1668 to 1680 (born about 1638; the collection gives no birth year)"
+  },
+  "Maksymilian Koperski": {
+   "era": "Romantic",
+   "why": "born 1812"
+  },
   "Manuel de Falla": {
    "era": "1890 to 1950",
    "why": "the sheet's period"
@@ -1381,9 +2361,25 @@
    "era": "Baroque",
    "why": "born 1643"
   },
+  "Marcin Józef Żebrowski": {
+   "era": "Baroque",
+   "why": "born 1702"
+  },
+  "Marcin Mielczewski": {
+   "era": "Baroque",
+   "why": "died 1651 (born about 1601; the collection gives no birth year)"
+  },
+  "Marco Scacchi": {
+   "era": "Baroque",
+   "why": "born about 1605"
+  },
   "Maria Lindsay": {
    "era": "Romantic",
    "why": "born 1827"
+  },
+  "Maria Szymanowska": {
+   "era": "Romantic",
+   "why": "born 1789"
   },
   "Maria Theresia von Paradis": {
    "era": "Classical",
@@ -1397,6 +2393,10 @@
    "era": "Classical",
    "why": "the sheet's period"
   },
+  "Marianus Königsperger": {
+   "era": "Baroque",
+   "why": "born 1708"
+  },
   "Marie Jaëll": {
    "era": "Romantic",
    "why": "born 1846"
@@ -1404,6 +2404,14 @@
   "Martin Luther": {
    "era": "Before 1600",
    "why": "born 1483"
+  },
+  "Mateusz Rudkowski": {
+   "era": "Romantic",
+   "why": "born about 1809"
+  },
+  "Mathias Zieleniewicz": {
+   "era": "Baroque",
+   "why": "active 1724 to 1763 (born about 1694; the collection gives no birth year)"
   },
   "Mathilde Kralik": {
    "era": "Romantic",
@@ -1453,9 +2461,37 @@
    "era": "Baroque",
    "why": "born 1584"
   },
+  "Michael Ehregott Grose": {
+   "era": "Classical",
+   "why": "born 1747"
+  },
+  "Michał Hertz": {
+   "era": "Romantic",
+   "why": "born 1844"
+  },
+  "Michał Hey-Stawicki": {
+   "era": "Before 1600",
+   "why": "active 1544 to 1559 (born about 1514; the collection gives no birth year)"
+  },
+  "Michał Kleofas Ogiński": {
+   "era": "Classical",
+   "why": "born 1765"
+  },
+  "Michał Modzelewski": {
+   "era": "Romantic",
+   "why": "born 1825"
+  },
+  "Michał Orłowski": {
+   "era": "Baroque",
+   "why": "born about 1700"
+  },
   "Michel Farinel": {
    "era": "Baroque",
    "why": "born 1649"
+  },
+  "Mieczysław Karłowicz": {
+   "era": "1890 to 1950",
+   "why": "born 1876"
   },
   "Mikhail Glinka": {
    "era": "Romantic",
@@ -1465,6 +2501,18 @@
    "era": "Romantic",
    "why": "born 1859"
   },
+  "Mikołaj Gomółka": {
+   "era": "Before 1600",
+   "why": "born about 1535"
+  },
+  "Mikołaj Janicki": {
+   "era": "Classical",
+   "why": "active 1805 to 1844 (born about 1775; the collection gives no birth year)"
+  },
+  "Mikołaj Zieleński": {
+   "era": "Before 1600",
+   "why": "born about 1550"
+  },
   "Mily Balakirev": {
    "era": "Romantic",
    "why": "born 1837"
@@ -1472,6 +2520,14 @@
   "Modest Mussorgsky": {
    "era": "Romantic",
    "why": "the sheet's period"
+  },
+  "Moritz Dietrich": {
+   "era": "Romantic",
+   "why": "born 1816"
+  },
+  "Moritz Moszkowski": {
+   "era": "Romantic",
+   "why": "born 1854"
   },
   "Mr. Powlwheel": {
    "era": "Baroque",
@@ -1484,6 +2540,10 @@
   "Muzio Clementi": {
    "era": "Classical",
    "why": "born 1752"
+  },
+  "Napoleon Orda": {
+   "era": "Romantic",
+   "why": "born 1807"
   },
   "Napoléon Coste": {
    "era": "Romantic",
@@ -1501,9 +2561,17 @@
    "era": "Romantic",
    "why": "born 1790"
   },
+  "Nicolas Isouard": {
+   "era": "Classical",
+   "why": "born 1773"
+  },
   "Nicolas de Grigny": {
    "era": "Baroque",
    "why": "born 1672"
+  },
+  "Nikolai Medtner": {
+   "era": "1890 to 1950",
+   "why": "the sheet's period"
   },
   "Nikolai Rimsky-Korsakov": {
    "era": "Romantic",
@@ -1520,6 +2588,18 @@
   "Oskar Rieding": {
    "era": "Romantic",
    "why": "born 1840"
+  },
+  "Paolo Benedetto Bellinzani": {
+   "era": "Baroque",
+   "why": "born 1682"
+  },
+  "Paolo Virchi": {
+   "era": "Before 1600",
+   "why": "born about 1550"
+  },
+  "Paschalis Turczyński": {
+   "era": "Classical",
+   "why": "active 1753 to 1781 (born about 1723; the collection gives no birth year)"
   },
   "Paul Dukas": {
    "era": "1890 to 1950",
@@ -1541,6 +2621,14 @@
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Paweł Krzewdzieński": {
+   "era": "Baroque",
+   "why": "active 1722 to 1723 (born about 1692; the collection gives no birth year)"
+  },
+  "Paweł Sieprawski": {
+   "era": "Baroque",
+   "why": "active 1706 to 1737 (born about 1676; the collection gives no birth year)"
+  },
   "Peter Benoit": {
    "era": "Romantic",
    "why": "born 1834"
@@ -1557,13 +2645,25 @@
    "era": "1890 to 1950",
    "why": "born 1894"
   },
+  "Peter von Winter": {
+   "era": "Classical",
+   "why": "born 1754"
+  },
   "Philip Paul Bliss": {
    "era": "Romantic",
    "why": "born 1838"
   },
+  "Philipp Friedrich Buchner": {
+   "era": "Baroque",
+   "why": "born 1614"
+  },
   "Philipp Nicolai": {
    "era": "Before 1600",
    "why": "born 1556"
+  },
+  "Philipp Scharwenka": {
+   "era": "Romantic",
+   "why": "born 1847"
   },
   "Philippe de Monte": {
    "era": "Before 1600",
@@ -1573,17 +2673,49 @@
    "era": "Romantic",
    "why": "born 1839"
   },
+  "Pierre Cadéac": {
+   "era": "Before 1600",
+   "why": "born about 1500"
+  },
+  "Pierre Certon": {
+   "era": "Before 1600",
+   "why": "born about 1510"
+  },
+  "Pierre Moulu": {
+   "era": "Before 1600",
+   "why": "born about 1484"
+  },
   "Pierre de La Rue": {
    "era": "Before 1600",
    "why": "born 1452"
+  },
+  "Pierre van Maldere": {
+   "era": "Classical",
+   "why": "born 1729"
+  },
+  "Pietro Alessandro Guglielmi": {
+   "era": "Classical",
+   "why": "born 1728"
   },
   "Piotr Ilyich Tchaikovsky": {
    "era": "Romantic",
    "why": "the sheet's period"
   },
+  "Piotr Maszyński": {
+   "era": "Romantic",
+   "why": "born 1855"
+  },
+  "Piotr Studziński": {
+   "era": "Romantic",
+   "why": "born 1825"
+  },
   "Poldowski (Irène Régine Wieniawski)": {
    "era": "Romantic",
    "why": "the sheet's period"
+  },
+  "Puchalski": {
+   "era": "Classical",
+   "why": "born about 1750"
   },
   "Pérotin": {
    "era": "Before 1600",
@@ -1596,6 +2728,10 @@
   "Reynaldo Hahn": {
    "era": "1890 to 1950",
    "why": "born 1874"
+  },
+  "Richard Kleinmichel": {
+   "era": "Romantic",
+   "why": "born 1846"
   },
   "Richard Storrs Willis": {
    "era": "Romantic",
@@ -1620,6 +2756,10 @@
   "Robert Fuchs": {
    "era": "Romantic",
    "why": "born 1847"
+  },
+  "Robert Führer": {
+   "era": "Romantic",
+   "why": "born 1807"
   },
   "Robert H. Williams": {
    "era": "Romantic",
@@ -1649,9 +2789,33 @@
    "era": "1890 to 1950",
    "why": "born 1877"
   },
+  "Roman Monczyński": {
+   "era": "Romantic",
+   "why": "active 1842 to 1854 (born about 1812; the collection gives no birth year)"
+  },
+  "Roman Statkowski": {
+   "era": "Romantic",
+   "why": "born 1859"
+  },
+  "Roman Zajączkowski": {
+   "era": "Baroque",
+   "why": "born 1661"
+  },
+  "Romuald Teodor Zientarski": {
+   "era": "Romantic",
+   "why": "born about 1830"
+  },
+  "Rossochalski": {
+   "era": "Classical",
+   "why": "active 1800 to 1850 (born about 1770; the collection gives no birth year)"
+  },
   "Ruggero Leoncavallo": {
    "era": "Romantic",
    "why": "born 1857"
+  },
+  "Róża Eleonora Monfreulle": {
+   "era": "Romantic",
+   "why": "born 1787"
   },
   "Samuel Barber": {
    "era": "1890 to 1950",
@@ -1668,6 +2832,10 @@
   "Scott Joplin": {
    "era": "1890 to 1950",
    "why": "the sheet's period"
+  },
+  "Sebastian z Felsztyna": {
+   "era": "Before 1600",
+   "why": "born about 1480"
   },
   "Semen Hulak-Artemovsky": {
    "era": "Romantic",
@@ -1689,6 +2857,34 @@
    "era": "Classical",
    "why": "born 1775"
   },
+  "Stanisław Grabowski": {
+   "era": "Romantic",
+   "why": "born 1791"
+  },
+  "Stanisław Kazuro": {
+   "era": "1890 to 1950",
+   "why": "born 1881"
+  },
+  "Stanisław Lipski": {
+   "era": "1890 to 1950",
+   "why": "born 1880"
+  },
+  "Stanisław Moniuszko": {
+   "era": "Romantic",
+   "why": "born 1819"
+  },
+  "Stanisław Niewiadomski": {
+   "era": "Romantic",
+   "why": "born 1857"
+  },
+  "Stanisław Sylwester Szarzyński": {
+   "era": "Baroque",
+   "why": "active 1692 to 1713 (born about 1662; the collection gives no birth year)"
+  },
+  "Stefan Bułakowski": {
+   "era": "Romantic",
+   "why": "born 1784"
+  },
   "Stefano Donaudy": {
    "era": "1890 to 1950",
    "why": "born 1879"
@@ -1700,6 +2896,34 @@
   "Stephen Foster": {
    "era": "Romantic",
    "why": "born 1826"
+  },
+  "Tadeusz Bogoimski": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
+  "Tadeusz Joteyko": {
+   "era": "1890 to 1950",
+   "why": "born 1872"
+  },
+  "Tadeusz Kościuszko": {
+   "era": "Classical",
+   "why": "born 1746"
+  },
+  "Tadeusz Mrozowski": {
+   "era": "Classical",
+   "why": "active 1790 to 1810 (born about 1760; the collection gives no birth year)"
+  },
+  "Tadeusz Statkowski": {
+   "era": "Baroque",
+   "why": "born about 1700"
+  },
+  "Tekla Bądarzewska": {
+   "era": "Romantic",
+   "why": "born about 1830"
+  },
+  "Teofil Tomasz Klonowski": {
+   "era": "Romantic",
+   "why": "born 1805"
   },
   "Teresa Carreño": {
    "era": "Romantic",
@@ -1745,6 +2969,18 @@
    "era": "1890 to 1950",
    "why": "born 1873"
   },
+  "Tomasz Flasza": {
+   "era": "1890 to 1950",
+   "why": "born 1865"
+  },
+  "Tomasz Napoleon Nidecki": {
+   "era": "Romantic",
+   "why": "born 1807"
+  },
+  "Tomasz Szadek": {
+   "era": "Before 1600",
+   "why": "born about 1550"
+  },
   "Tomás Luis de Victoria": {
    "era": "Before 1600",
    "why": "born 1548"
@@ -1757,9 +2993,21 @@
    "era": "Romantic",
    "why": "born 1851"
   },
+  "Vincenzo Bellini": {
+   "era": "Romantic",
+   "why": "born 1801"
+  },
   "Vincenzo Galilei": {
    "era": "Before 1600",
    "why": "born 1520"
+  },
+  "Vincenzo Righini": {
+   "era": "Classical",
+   "why": "born 1756"
+  },
+  "Vincenzo Ruffo": {
+   "era": "Before 1600",
+   "why": "born about 1508"
   },
   "Virginia Gabriel": {
    "era": "Romantic",
@@ -1768,6 +3016,34 @@
   "Vito Ugolino": {
    "era": "Classical",
    "why": "active by 1760 (born about 1730)"
+  },
+  "Vulfran Samin": {
+   "era": "Before 1600",
+   "why": "active 1543 to 1559 (born about 1513; the collection gives no birth year)"
+  },
+  "Václav Kalous": {
+   "era": "Classical",
+   "why": "born 1715"
+  },
+  "Václav Pichl": {
+   "era": "Classical",
+   "why": "born 1741"
+  },
+  "Wacław Raszek": {
+   "era": "Romantic",
+   "why": "active in 1848 (born about 1818; the collection gives no birth year)"
+  },
+  "Wacław z Szamotuł": {
+   "era": "Before 1600",
+   "why": "born about 1520"
+  },
+  "Walenty Szlagórski": {
+   "era": "Romantic",
+   "why": "born 1801"
+  },
+  "Walentyn Gawara": {
+   "era": "Baroque",
+   "why": "born about 1600"
   },
   "Walford Davies": {
    "era": "1890 to 1950",
@@ -1781,13 +3057,37 @@
    "era": "Romantic",
    "why": "born 1841"
   },
+  "Wawrzyniec Neumann": {
+   "era": "Baroque",
+   "why": "born about 1700"
+  },
   "Wenzel Thomas Matiegka": {
    "era": "Classical",
    "why": "born 1773"
   },
+  "Wiktor Każyński": {
+   "era": "Romantic",
+   "why": "born 1812"
+  },
+  "Wiktor Krupiński": {
+   "era": "1890 to 1950",
+   "why": "born 1879"
+  },
+  "Wilhelm Friedemann Bach": {
+   "era": "Classical",
+   "why": "born 1710"
+  },
   "Wilhelm Stenhammar": {
    "era": "1890 to 1950",
    "why": "born 1871"
+  },
+  "Wilhelm Taubert": {
+   "era": "Romantic",
+   "why": "born 1811"
+  },
+  "Wilhelm Troschel": {
+   "era": "Romantic",
+   "why": "born 1823"
   },
   "William Batchelder Bradbury": {
    "era": "Romantic",
@@ -1829,9 +3129,73 @@
    "era": "Romantic",
    "why": "born 1831"
   },
+  "Wincenty Maxylewicz": {
+   "era": "Baroque",
+   "why": "born about 1685"
+  },
+  "Wincenty Studziński": {
+   "era": "Romantic",
+   "why": "born 1815"
+  },
+  "Wincenty Wacław Rychling": {
+   "era": "Romantic",
+   "why": "born 1841"
+  },
+  "Wojciech Osmański": {
+   "era": "Romantic",
+   "why": "born 1834"
+  },
+  "Wojciech Sowiński": {
+   "era": "Romantic",
+   "why": "born about 1803"
+  },
+  "Wojciech Słoczyński": {
+   "era": "Romantic",
+   "why": "born 1806"
+  },
   "Wolfgang Amadeus Mozart": {
    "era": "Classical",
    "why": "the sheet's period"
+  },
+  "Władysław Bauerfeind": {
+   "era": "1890 to 1950",
+   "why": "born 1880"
+  },
+  "Władysław Krogulski": {
+   "era": "Romantic",
+   "why": "born 1843"
+  },
+  "Władysław Leszczyński": {
+   "era": "Baroque",
+   "why": "born 1616"
+  },
+  "Władysław Lidauer": {
+   "era": "1890 to 1950",
+   "why": "born 1890"
+  },
+  "Władysław Żeleński": {
+   "era": "Romantic",
+   "why": "born 1837"
+  },
+  "X. A. Kędzierski": {
+   "era": "Romantic",
+   "why": "born about 1800"
+  },
+  "Xaver Scharwenka": {
+   "era": "Romantic",
+   "why": "born 1850"
+  },
+  "Zofia Chodkiewicz": {
+   "era": "Romantic",
+   "why": "born 1803"
+  },
+  "Zygmunt Noskowski": {
+   "era": "Romantic",
+   "why": "born 1846"
+  },
+  "Zygmunt Stojowski": {
+   "era": "1890 to 1950",
+   "why": "born 1870"
   },
   "Édouard Lalo": {
    "era": "Romantic",

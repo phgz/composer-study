@@ -1,5 +1,5 @@
 {
- "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 16 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself. Version 17 adds 18 of the sheet's composers from CPDL, each in one period, as version 16's.",
+ "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 16 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself. Version 17 adds 18 of the sheet's composers from CPDL, each in one period, as version 16's. Version 22 adds 341, each in one period, as version 16's; the 53 with no years are left out, as in data/eras.json.",
  "composers": {
   "Ludwig van Beethoven": {
    "source": "the three periods as drawn since Wilhelm von Lenz (1852): early to the Heiligenstadt crisis (1802), middle 1803 to 1814, late from 1815; opus numbers follow composition for the most part, the early works published late taken out by their dates of composition",
@@ -4887,6 +4887,3075 @@
   },
   "Samuel Barber": {
    "source": "1 work in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "A. Hermanowski": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adalbert Dankowski": {
+   "source": "123 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adam Jarzębski": {
+   "source": "28 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adam Józef Karasiński": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adam Tarnowski": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adam Wroński": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adolf Gustaw Sonnenfeld": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adolf Rzepko": {
+   "source": "12 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Adrien Boieldieu": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Albert Kietliński": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Aleksander Piotrowski": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Aleksander Rodowski": {
+   "source": "55 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Aleksander Zarzycki": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Alojzy Stolpe": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Amandus Ivanschiz": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Andrzej Siwiński": {
+   "source": "23 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Andrzej Wołoszko": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Annibale Orgas": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Annibale Stabile": {
+   "source": "63 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Anton Fils": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antoni Henryk Radziwiłł": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antoni Kątski": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antoni Orłowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antoni Teichmann": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antonio Brioschi": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antonio Caldara": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antonio Sacchini": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antonio Salieri": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Antonín Laube": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Apolinary Kątski": {
+   "source": "19 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Artur Gold": {
+   "source": "10 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Asprilio Pacelli": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "August Ferdinand Häser": {
+   "source": "21 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "August Freyer": {
+   "source": "26 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "August Wiltberger": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Augustin Volckmer": {
+   "source": "125 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Baltazar Boguński": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Barbara Geistlener": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Bartłomiej Pękiel": {
+   "source": "56 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Bernardino Terzago": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Bolesław Jan Ćwiklicz": {
+   "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Friedrich Zelter": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Heinrich Graun": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Joseph Toeschi": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Luython": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Reinecke": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Caspar Ett": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Christlieb Siegmund Binder": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Christophorus Kellerer": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Claude Goudimel": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Claus Nielsen Schall": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Conradin Kreutzer": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Cristóbal de Morales": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Cyprian Bazylik": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Cyryl Goetz-Gieczyński": {
+   "source": "14 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Daniel Fierszewicz": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Danka": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Dmitrij Stepanovič Bortnjanskij": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Edward Stefan Łodwigowski": {
+   "source": "50 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Edward Wolff": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Emanuele d' Astorga": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Emil Młynarski": {
+   "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Emil Władysław Śmietański": {
+   "source": "70 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Eugen Pausch": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Eugenjusz Gruberski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Fabian Tymolski": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Feliks Janiewicz": {
+   "source": "17 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ferdinand Beyer": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ferdinand Simon Lechleitner": {
+   "source": "57 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ferdinand di Lasso": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Figulenti": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Filip Gotschalk": {
+   "source": "40 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Filipina Brzezińska": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Florian Danielski": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Kasper Just": {
+   "source": "15 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Kottritsch": {
+   "source": "18 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Lessel": {
+   "source": "16 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Lilius": {
+   "source": "39 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Matuszkiewicz": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Mirecki": {
+   "source": "20 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Piotrowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Walczyński": {
+   "source": "106 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franciszek Ścigalski": {
+   "source": "51 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "František Xaver Brixi": {
+   "source": "16 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "František Xaver Budinský": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Bühler": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Maintzer": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Xaver Chwatal": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Xaver Pokorný": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Franz Xaver Witt": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Friedrich Ernst Fesca": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Friedrich Heinrich Himmel": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Friedrich Wilhelm Kücken": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Fuchs": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gaetano Pugnani": {
+   "source": "15 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Georg Christoph Wagenseil": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gian Francesco De Majo": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gimeshoffer": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Antonio Riccieri": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Battista Casali": {
+   "source": "17 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Battista Costanzi": {
+   "source": "18 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Battista Lampugnani": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Battista Sammartini": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Fischietti": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Francesco Anerio": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Matteo Asola": {
+   "source": "12 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giovanni Pietro Biandrà": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Girolamo Frescobaldi": {
+   "source": "47 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giuseppe Ottavio Pitoni": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Gostowski": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Grzegorz Fitelberg": {
+   "source": "14 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Grzegorz Gerwazy Gorczycki": {
+   "source": "52 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Hanel": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Heinrich Schütz": {
+   "source": "56 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henryk Jarecki": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Henryk Wieniawski": {
+   "source": "35 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Hepner": {
+   "source": "10 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Iacobus Gallus": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ignacy Feliks Dobrzyński": {
+   "source": "34 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ignacy Jan Paderewski": {
+   "source": "138 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ignacy Kasprzykowski": {
+   "source": "12 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ignacy Marceli Komorowski": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ignacy Rygall": {
+   "source": "34 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ignaz Holzbauer": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ignaz Lachner": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ippolito Sabino": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Izydor Józef Cybulski": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Izydor Konstanty Chwalibóg": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "J. Andrychowicz": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "J. Löbmann": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "J. Staromiejski": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jacek Różycki": {
+   "source": "12 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jacek Szczurowski": {
+   "source": "21 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jachet de Mantua": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jacopo Peri": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jacotin": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jacques-Claude-Adolphe Miné": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jadwiga Brzowska": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jakub Gołąbek": {
+   "source": "82 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jakub Kagan": {
+   "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Barcicki": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Borimius": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Dawid Holland": {
+   "source": "40 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Engel": {
+   "source": "25 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Fleming": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Jiří Abersbach": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Karol Gall": {
+   "source": "35 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Malik": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Musiałowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Namieyski": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Ostrowski": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Pieterszoon Sweelinck": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Piotr Habermann": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Stefani": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jan Wański": {
+   "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean Lhéritier": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean Mouton": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jehan Hérissant": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jeric": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jerzy Boczkowski": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jerzy Brykner": {
+   "source": "22 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johan Joachim Agrell": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Baptist Cramer": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Baptist Schiedermayr": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Baptist Singenberger": {
+   "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Baptist Vanhal": {
+   "source": "10 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Baptist Zangl": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Christian Bach": {
+   "source": "32 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Christian Röllig": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Friedrich Reichardt": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Georg Clement": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Gottlieb Naumann": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Joseph Ignaz Brentner": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Melchior Pichler": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Nepomuk Hummel": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Nepomuk Went": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Johann Valentin Rathgeber": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Josef Bolehovský": {
+   "source": "21 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Josef Mysliveček": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Josef Triebensee": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Joseph Anton Bauer": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Julian Klemczyński": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Julius Otto": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Juliusz Zarębski": {
+   "source": "18 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ján Ignác Danik": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Bernard Morawski": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Damse": {
+   "source": "13 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Daubeck": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Elsner": {
+   "source": "139 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Grim": {
+   "source": "15 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Ignacy Kraszewski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Jarecki": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Kobierkowicz": {
+   "source": "14 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Kozłowski": {
+   "source": "22 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Kraus": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Krysta": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Lubowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Nowakowski": {
+   "source": "19 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Sierosławski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Sikorski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Stefani": {
+   "source": "456 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Wieniawski": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Wygrzywalski": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Władysław Krogulski": {
+   "source": "37 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Zeidler": {
+   "source": "31 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Józef Złotaszewski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Karel Loos": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Karol Fertner": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Karol Kazimierz Kurpiński": {
+   "source": "35 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Karol Mikuli": {
+   "source": "16 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Karol Namysłowski": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Karol Studziński": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Karol Szymanowski": {
+   "source": "31 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Kaspar Förster": {
+   "source": "44 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Kasper Napoleon Wysocki": {
+   "source": "31 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Kazimierz Boczkowski": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Kazimierz Lubomirski": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Kazimierz Nowakiewicz": {
+   "source": "24 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Kazimierz Studziński": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Klakowski": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Konstancja Dembowska": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Konstanty Czajkowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Konstanze Geiger": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Korneliusz Maletz": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Krassowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Kreith": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Krzysztof Borek": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Lambert Kraus": {
+   "source": "19 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Leopold Hofmann": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Leopold Jansa": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Leopold Koželuch": {
+   "source": "49 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Leopold Leon Lewandowski": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Leopold Pych": {
+   "source": "18 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Lorenzo Ratti": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ludmiła Giżycka-Zamoyska": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ludomir Różycki": {
+   "source": "26 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ludwig Senfl": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ludwik Grossman": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ludwik Maader": {
+   "source": "46 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ludwik Nowicki": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ludwika Lubomirska": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Luigi Marescalchi": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maciej Arnulf Miskiewicz": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maciej Łukaszewicz": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maksymilian Koperski": {
+   "source": "24 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Marcin Józef Żebrowski": {
+   "source": "71 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Marcin Mielczewski": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Marco Scacchi": {
+   "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Maria Szymanowska": {
+   "source": "34 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Marianus Königsperger": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mateusz Rudkowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mathias Zieleniewicz": {
+   "source": "10 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Michael Ehregott Grose": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Michał Hertz": {
+   "source": "69 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Michał Hey-Stawicki": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Michał Kleofas Ogiński": {
+   "source": "15 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Michał Modzelewski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Michał Orłowski": {
+   "source": "16 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mieczysław Karłowicz": {
+   "source": "15 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mikołaj Gomółka": {
+   "source": "150 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mikołaj Janicki": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Mikołaj Zieleński": {
+   "source": "108 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Moritz Dietrich": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Moritz Moszkowski": {
+   "source": "116 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Napoleon Orda": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Nicolas Isouard": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Nikolai Medtner": {
+   "source": "19 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Paolo Benedetto Bellinzani": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Paolo Virchi": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Paschalis Turczyński": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Paweł Krzewdzieński": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Paweł Sieprawski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Peter von Winter": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Philipp Friedrich Buchner": {
+   "source": "61 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Philipp Scharwenka": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pierre Cadéac": {
+   "source": "10 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pierre Certon": {
+   "source": "15 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pierre Moulu": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pierre van Maldere": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pietro Alessandro Guglielmi": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Piotr Maszyński": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Piotr Studziński": {
+   "source": "17 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Puchalski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Richard Kleinmichel": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert Führer": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Roman Monczyński": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Roman Statkowski": {
+   "source": "27 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Roman Zajączkowski": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Romuald Teodor Zientarski": {
+   "source": "12 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Rossochalski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Róża Eleonora Monfreulle": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Sebastian z Felsztyna": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stanisław Grabowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stanisław Kazuro": {
+   "source": "25 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stanisław Lipski": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stanisław Moniuszko": {
+   "source": "332 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stanisław Niewiadomski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stanisław Sylwester Szarzyński": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Stefan Bułakowski": {
+   "source": "12 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tadeusz Bogoimski": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tadeusz Joteyko": {
+   "source": "26 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tadeusz Kościuszko": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tadeusz Mrozowski": {
+   "source": "12 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tadeusz Statkowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tekla Bądarzewska": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Teofil Tomasz Klonowski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tomasz Flasza": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tomasz Napoleon Nidecki": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Tomasz Szadek": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Vincenzo Bellini": {
+   "source": "3 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Vincenzo Righini": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Vincenzo Ruffo": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Vulfran Samin": {
+   "source": "4 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Václav Kalous": {
+   "source": "8 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Václav Pichl": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wacław Raszek": {
+   "source": "129 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wacław z Szamotuł": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Walenty Szlagórski": {
+   "source": "18 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Walentyn Gawara": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wawrzyniec Neumann": {
+   "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wiktor Każyński": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wiktor Krupiński": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wilhelm Friedemann Bach": {
+   "source": "9 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wilhelm Taubert": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wilhelm Troschel": {
+   "source": "32 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wincenty Maxylewicz": {
+   "source": "6 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wincenty Studziński": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wincenty Wacław Rychling": {
+   "source": "12 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wojciech Osmański": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wojciech Sowiński": {
+   "source": "75 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Wojciech Słoczyński": {
+   "source": "11 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Władysław Bauerfeind": {
+   "source": "5 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Władysław Krogulski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Władysław Leszczyński": {
+   "source": "7 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Władysław Lidauer": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Władysław Żeleński": {
+   "source": "153 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "X. A. Kędzierski": {
+   "source": "1 work in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Xaver Scharwenka": {
+   "source": "14 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Zofia Chodkiewicz": {
+   "source": "2 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Zygmunt Noskowski": {
+   "source": "141 works in catalogue version 22; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Zygmunt Stojowski": {
+   "source": "33 works in catalogue version 22; a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
