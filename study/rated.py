@@ -12,40 +12,23 @@ recorded (`*.render.json`, written by the shared renderer). Each pitched part is
 fewer than 20 notes or a span under 4 semitones (a drum, a drone) is not a line. Times are in seconds, as heard.
 
 Usage: PYTHONPATH=<renderer>:<renderer>/tools:<renderer>/adapters python3 study/rated.py <ready-read copy> <composer-blend>
-       <folder of render.json files> [--works works.pickle]"""
-import argparse, contextlib, importlib.util, io, json, os, pickle, random, sys, warnings
+       <folder of render.json files> [--ear ear.npz | --works works.pickle]"""
+import argparse, json, os, pickle, random, sys, warnings
 import numpy as np
 warnings.filterwarnings('ignore')
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); sys.path.insert(0, HERE)
-from study import ear as E, lines as L, heldout as H
+from study import ear as E, lines as L, heldout as H, pieces as P
 
 TABLE = os.path.join(HERE, 'data', 'rated.json')
 
 
-def from_build(path):
-    path = os.path.abspath(path); d = os.path.dirname(path); sys.path.insert(0, d); cwd = os.getcwd(); os.chdir(d)
-    try:
-        spec = importlib.util.spec_from_file_location('rated_' + os.path.basename(path)[:-3], path); mod = importlib.util.module_from_spec(spec)
-        with contextlib.redirect_stdout(io.StringIO()): spec.loader.exec_module(mod); r = mod.build()
-        S = r[0] if isinstance(r, tuple) else r
-        return [p['notes'] for p in S.parts.values()]
-    finally: os.chdir(cwd); sys.path.remove(d)
+def from_build(path): return list(P.from_build(path).values())
 
 
-def from_render(path):
-    return [p['notes'] for p in json.load(open(path, encoding='utf-8'))['score']['data']['parts']]
+def from_render(path): return list(P.from_render(path).values())
 
 
-def lines_of(parts):
-    out = []
-    for notes in parts:
-        ev = {}
-        for t, d, m, *_ in notes:
-            t = round(float(t), 3); m = int(round(float(m)))
-            if t not in ev or m > ev[t][1]: ev[t] = (float(d), m)
-        line = [(t, d, m) for t, (d, m) in sorted(ev.items())]
-        if len(line) >= 20 and max(n[2] for n in line) - min(n[2] for n in line) >= 4: out.append(line)
-    return out
+def lines_of(parts): return list(P.lines_of(dict(enumerate(parts))).values())
 
 
 def m0(lines, ear):
@@ -75,11 +58,13 @@ def spearman(x, y):
 
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument('ready'); ap.add_argument('blend'); ap.add_argument('renders'); ap.add_argument('--works')
+    ap = argparse.ArgumentParser(); ap.add_argument('ready'); ap.add_argument('blend'); ap.add_argument('renders'); ap.add_argument('--works'); ap.add_argument('--ear', help='an ear saved by study/critic.py --build')
     a = ap.parse_args()
-    works = pickle.load(open(a.works, 'rb')) if a.works else L.read(a.ready)
-    print('trained on:', L.record(a.ready), flush=True)
-    w = H.weights(works, None); ear = E.Long().learn(works, lambda x: w[x.id])
+    if a.ear: ear = E.Long.load(a.ear); print('trained on:', ear.about, flush=True)
+    else:
+        works = pickle.load(open(a.works, 'rb')) if a.works else L.read(a.ready)
+        print('trained on:', L.record(a.ready), flush=True)
+        w = H.weights(works, None); ear = E.Long().learn(works, lambda x: w[x.id])
     rows = []
     for e in json.load(open(TABLE, encoding='utf-8'))['pieces']:
         try:                                                               # a piece made in parts: each part heard on its own

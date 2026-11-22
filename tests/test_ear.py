@@ -80,3 +80,25 @@ def test_the_memories_are_joined_unweighted_by_default():
     a = np.array([0.7, 0.2, 0.1]); b = np.array([0.1, 0.2, 0.7])
     g = E.combine([a, b]); assert abs(g[0] - g[2]) < 1e-12                     # bias 0: neither is trusted more
     sure = np.array([0.98, 0.01, 0.01]); assert E.combine([sure, b], bias=1.0)[0] > E.combine([sure, b])[0]
+
+
+def test_a_saved_ear_hears_as_the_one_it_was_saved_from(tmp_path):
+    ltm = E.Long().learn([work(i, scale(40)) for i in range(5)], lambda w: 1.0)
+    ltm.save(str(tmp_path / 'ear.npz'), about=dict(flat=dict(threshold=0.5)))
+    back = E.Long.load(str(tmp_path / 'ear.npz'))
+    line = scale(20)
+    assert [x[:2] for x in E.listen(line, 0, back)[1:]] == [x[:2] for x in E.listen(line, 0, ltm)[1:]]
+    assert back.about['flat']['threshold'] == 0.5 and back.notes == ltm.notes
+
+
+def test_the_critic_names_a_layer_that_does_not_move_and_not_one_that_does():
+    from study import critic as C
+    rnd = random.Random(7)
+    corpus = [work(i, [(t * 0.5, 0.5, 60 + rnd.choice([-5, -3, -2, -1, 1, 2, 3, 4, 5]) + (t % 7)) for t in range(80)]) for i in range(20)]
+    ltm = E.Long().learn(corpus, lambda w: 1.0)
+    pulse = [(t * 0.25, 0.2, 84 + (4 if t % 16 == 0 else 0), 60) for t in range(400)]          # 100 s of one note, a fifth now and then
+    tune = [(t * 0.5, 0.45, 60 + rnd.choice([0, 2, 4, 5, 7, 9, 11, 12, 14]), 60) for t in range(200)]
+    r = C.judge({'pulse': pulse, 'tune': tune}, ltm, threshold=0.56)
+    assert r['lines']['pulse']['long_runs'] and not r['lines']['tune']['long_runs']
+    assert r['texture'] == []                                                      # the tune moves: the whole is never flat
+    assert C.rolling([0, 0, 0, 8, 0, 0, 0, 0], 4)[0] == 0 and C.runs(np.array([0, 1, 1, 0, 1], bool), np.arange(5), np.arange(5) + 0.5) == [(1.0, 2.5), (4.0, 4.5)]

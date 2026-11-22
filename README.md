@@ -38,9 +38,26 @@ Measured studies of the composers in score-reader's catalogue, for composer-blen
   - **The short-term memory matters more than the corpus:** without it the catalogue's ear is worse than no context with it.
 - **`study/rated.py`** and **`data/rated.json`**: piece 44's measure M0 against Philip's ratings, heard by this ear. M0 is the longest stretch in which the 4-second mean surprise stays under 1.5 bits.
   - **The claim, written before measuring:** on the 15 pieces rated since piece 44's test, M0 goes against the ratings.
-  - **Result:** rho −0.05, one-sided p 0.43. **The claim does not pass.**
-  - **Piece 44's own 15 pieces:** this ear finds what piece 44 found there, rho −0.58 (p 0.014). All 30 together: −0.30 (p 0.058).
+  - **Result:** rho −0.01, one-sided p 0.49. **The claim does not pass.**
+  - **Piece 44's own 15 pieces:** this ear finds what piece 44 found there, rho −0.63 (p 0.008). All 30 together: −0.29 (p 0.062).
   - **Reading:** the long flat stretches that marked the generic pieces of the first pool are mostly gone from the pieces made since. Ten of the 15 have no stretch longer than 4 seconds, and the longest (29 s) is the stillness of piece 52b, rated 4.5.
   - What separates those ratings is not melodic surprise. The ear can still show where a draft goes flat, but it does not predict Philip's verdict.
+
+## The critic on drafts
+
+- **`study/critic.py`**: where a draft goes flat, before Philip listens.
+  - **The ear:** `--build` trains it on every work and saves it, about 75 MB, in about 4 minutes. A check then takes seconds.
+  - **What "flat" means:** a note is flat where the 8 notes around it average less surprise than 95 in 100 such spans of real music. The threshold is measured on the catalogue's held-out works when the ear is built: 0.56 bits a note on version 24.
+  - **What it names:**
+    - the seconds where the whole texture is flat (every line that sounds is flat, or nothing sounds) for 8 s or more;
+    - a line flat for 30 s or more;
+    - each line's bits a note, and the share of its time spent flat.
+  - **What it doesn't do:** score the piece. A flat stretch can be what the piece wants: an ostinato, a pulse, a stillness.
+  - It reads a score's `build()` or a `*.render.json`, through `study/pieces.py`.
+- **`checks/critic-2026-11-22.md`**: the critic against Philip's words, with what it should find written down before it ran.
+  - **The test:** the one layer he called flat, Riley's in piece 37b ("a flat tune in the background that doesn't evolve").
+  - **Found as expected:** Riley's pulse is flat from 0:02 to 2:49 in 37 and 37b, and the cello's melody isn't.
+  - **The controls:** in 27, 29 and 49 (rated 5) and 46 (4.75), nothing is flat for 30 s, and the texture never for 8 s.
+  - **What the check can't say:** a pulse of one note is the easiest thing to call flat, so this shows the critic sees what Philip heard, not that it would catch subtler cases.
 
 Run the tests: `python3 -m pytest -q tests`.

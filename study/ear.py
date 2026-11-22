@@ -177,6 +177,30 @@ class Long:
         self.notes = total_notes; self.works = len(per)
         return self
 
+    def save(self, path, about=None):
+        """the memory as one .npz file (every view's tables), with `about`: what it was trained on, as JSON"""
+        import json
+        arrays = {}
+        for v, t in self.tables.items():
+            for k, o in enumerate(t.orders):
+                if o is None: continue
+                for f, x in o.items(): arrays[f'{v}/{k}/{f}'] = x
+        meta = dict(K=self.K, notes=getattr(self, 'notes', None), works=getattr(self, 'works', None), about=about or {})
+        np.savez(path, __meta__=np.frombuffer(json.dumps(meta).encode('utf-8'), dtype=np.uint8), **arrays)
+
+    @classmethod
+    def load(cls, path):
+        """a memory saved by save(); its `about` in .about"""
+        import json
+        z = np.load(path); meta = json.loads(bytes(z['__meta__']).decode('utf-8')); ltm = cls(meta['K'])
+        for v, t in ltm.tables.items():
+            t.orders = []
+            for k in range(t.K + 1):
+                key = f'{v}/{k}/pairs'
+                t.orders.append({f: z[f'{v}/{k}/{f}'] for f in ('pairs', 'cnt', 'ctx', 'N', 'T')} if key in z.files else None)
+        ltm.notes, ltm.works, ltm.about = meta['notes'], meta['works'], meta['about']
+        return ltm
+
     def line(self, notes, final):
         """the long-term predictions for every note of a line: {view: M x S probabilities of the wanted symbols}, M = len(notes)-1"""
         vs = views(notes, final); n = len(notes); prev = np.array([x[2] for x in notes[:-1]], dtype=np.int64)
