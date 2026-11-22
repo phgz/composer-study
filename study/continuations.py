@@ -237,14 +237,24 @@ def snap(span, allowed): return min(allowed, key=lambda d: abs(math.log(d / span
 
 
 def parallels(prev, others, t0, t1):
-    """the pitch classes a line moving from `prev` (at t0) to a note at t1 may not take: those that would make parallel fifths or
-    octaves (or unisons) with another line that moves too"""
-    bad = set()
+    """for a line moving from `prev` (sounding from t0) to a new note at t1: [(b, d)] for each other line that moves too and
+    stands a perfect interval from it (a unison, fifth or octave, simple or compound), from what it sounds just before t1 to what
+    it sounds at t1 (b); d is `prev` less what the other sounded before"""
+    out = []
     for o in others:
-        a = sounding_at(t0, [o]); b = sounding_at(t1, [o])
+        a = sounding_at(max(t0, t1 - 1e-2), [o]); b = sounding_at(t1, [o])
         if not a or not b or a[1] == b[1]: continue                       # the other line's (top) note at each time; it must move
-        iv = (prev - a[1]) % 12
-        if iv in (0, 7): bad.add((b[1] + iv) % 12)
+        d = prev - a[1]
+        if abs(d) % 12 in (0, 7): out.append((b[1], d))
+    return out
+
+
+def parallel(cand, prev, pairs):
+    """which candidate pitches would move in parallel fifths or octaves with one of `pairs` (parallels())"""
+    bad = np.zeros(len(cand), dtype=bool)
+    for b, d in pairs:
+        e = cand - b
+        bad |= (np.sign(e) == np.sign(d)) & (np.abs(e) % 12 == abs(d) % 12) & (cand != prev)
     return bad
 
 
@@ -277,8 +287,8 @@ def sample(model, context, final, length, others=(), lo=None, hi=None, below=Non
         if below: ub = sounding_at(t, below); ok &= cand < ub[0] if ub else ok
         if above: lb = sounding_at(t, above); ok &= cand > lb[1] if lb else ok
         if no_parallels and others:
-            bad = parallels(line[-1][2], others, line[-1][0], t)
-            if bad: ok &= ~np.isin(cand % 12, list(bad)) | (cand == line[-1][2])
+            pairs = parallels(line[-1][2], others, line[-1][0], t)
+            if pairs: ok &= ~parallel(cand, line[-1][2], pairs)
         if not ok.any(): ok[:] = True
         q = np.where(ok, p, 0) ** (1 / temperature); q /= q.sum()
         k = int(rnd.choices(range(A_INT), weights=q)[0]); m = int(cand[k])

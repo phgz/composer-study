@@ -76,9 +76,13 @@ def test_the_band_is_the_units_own_music_scored_as_proposals_are():
 
 def test_no_parallel_fifths_or_octaves_with_a_line_that_moves():
     bass = [(0, 1, 48), (1, 1, 50)]                                                       # C then D
-    assert C.parallels(55, [bass], 0, 1) == {9}                                           # G over C: not A over D
-    assert C.parallels(52, [bass], 0, 1) == set()                                         # E over C: a third, free
-    assert C.parallels(55, [[(0, 2, 48)]], 0, 1) == set()                                 # the bass holds: no parallel
+    cand = np.arange(40, 80)
+    bad = set(cand[C.parallel(cand, 55, C.parallels(55, [bass], 0, 1))])                # G over C, the bass to D
+    assert 57 in bad and 69 in bad and 62 not in bad and 45 not in bad                     # not A over D (any octave); D, or A below, free
+    assert C.parallels(52, [bass], 0, 1) == []                                            # E over C: a third, free
+    assert C.parallels(55, [[(0, 2, 48)]], 0, 1) == []                                    # the bass holds: no parallel
+    tenor = [(0, 1, 60), (1, 1, 62)]                                                      # a line under C4 by a fourth: G3 to ...
+    assert C.parallels(55, [tenor], 0, 1) == []                                           # G3 under C4 is a fourth: parallel fourths are free
 
 
 def test_a_continuation_quotes_the_unit_at_eight_intervals():
@@ -97,3 +101,10 @@ def test_a_continuation_starts_where_its_context_ends():
     for _ in range(10):
         notes, _ = C.sample(m, ctx, 0, 4.0, rnd=rnd, durations=(0.5, 1.0))
         assert notes[0][0] >= 4.0 - 1e-9 and abs(notes[-1][0] + notes[-1][1] - 8.0) < 1e-9
+
+
+def test_parallels_are_judged_from_what_the_other_line_sounds_just_before():
+    tune = [(0, 1, 72), (1, 1, 70), (2, 1, 75)]                                           # C5, B flat 4, then E flat 5
+    cand = np.arange(55, 75)
+    bad = set(cand[C.parallel(cand, 63, C.parallels(63, [tune], 0, 2))])                # E flat 4 a fifth under B flat
+    assert 68 in bad and 56 in bad and 67 not in bad                                     # not A flat 4 (or 3) under E flat 5
