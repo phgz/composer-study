@@ -91,3 +91,11 @@ def test_a_suspension_dcml_writes_into_the_label_is_outside_the_chord():
     h = dict(root='A', type='m', tones='B C E', chord='vi(2)')                 # vi with 2 in place of its root
     assert HM.tones(h) == {11, 0, 4} and HM.chord_tones(h) == {9, 0, 4}
     assert HM.chord_tones(dict(root='Ab', type='Ger', tones='Ab C Eb F#')) == {8, 0, 3, 6}
+
+
+def test_a_chord_held_while_its_seventh_enters_is_one_chord_and_dcmls_cadential_six_four_is_i64():
+    labs = [label(0, 'I'), label(2, 'I', bass='E'), label(4, 'V', tones='C E G') | dict(chord='V(64)'), label(6, 'V'),
+            label(8, 'V', type_='Mm7', tones='G B D F'), label(10, 'I'), label(12, 'IV'), label(14, 'V'), label(16, 'I')]
+    toks = [t for _, t, _ in HM.runs(work(0, 'X', labs, [60] * 20))]
+    assert toks == ['I', 'I64', 'V7', 'I', 'IV', 'V', 'I']
+    assert ('I64', 'V7', 'I') in HM.progressions(work(0, 'X', labs, [60] * 20))

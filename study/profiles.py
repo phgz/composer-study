@@ -234,40 +234,47 @@ def harmony_of(u, ws, per_harm, progs, hpool, by_id, era, L):
     (of the kind for the forces in the period; else for the forces in the period; else in the period), its progressions"""
     mine = [w for w in ws if w.id in per_harm]
     if len(mine) < MIN_WORKS: return None
+    by = collections.Counter(HM.source(w) for w in mine); main = by.most_common(1)[0][0]
     key, rest = None, []
     for k in (('kind, forces, period', u[1], u[2], era(u[0])), ('forces, period', u[2], era(u[0])), ('period', era(u[0]))):
         ids = [i for i in hpool.get(k, ()) if by_id[i].composer != u[0]]
         if len(ids) >= MIN_REST: key, rest = k, ids; break
     wt = L.capped({i: 1.0 for i in rest}, [(lambda i: by_id[i].composer, 0.1), (lambda i: by_id[i].collection, 1 / 3)]) if rest else {}
-    values, traits = {}, []
+    values, traits = {}, []; same_forces = key is not None and key[0] != 'period'
     for m in HM.MEASURES:
         xs = [per_harm[w.id][m] for w in mine if per_harm[w.id].get(m) is not None]
         if not xs: continue
         values[m] = float(np.mean(xs))
-        ys = [(per_harm[i][m], wt[i]) for i in rest if per_harm[i].get(m) is not None]
+        if m in HM.BY_FORCES and not same_forces: continue                   # a chorale's melody is not set against a suite's
+        if m in HM.BY_ANALYST:                                               # one analyst's keys against the same analyst's
+            xs = [per_harm[w.id][m] for w in mine if per_harm[w.id].get(m) is not None and HM.source(w) == main]
+            ys = [(per_harm[i][m], wt[i]) for i in rest if per_harm[i].get(m) is not None and HM.source(by_id[i]) == main]
+        else: ys = [(per_harm[i][m], wt[i]) for i in rest if per_harm[i].get(m) is not None]
         if len(xs) < MIN_TRAIT or len(ys) < MIN_REST: continue
         a = auc(xs, [y for y, _ in ys], [w_ for _, w_ in ys])
         if a >= AUC_CUT or a <= 1 - AUC_CUT:
             tot = sum(w_ for _, w_ in ys); traits.append(dict(measure=m, value=values[m], others=float(sum(y * w_ for y, w_ in ys) / tot), auc=a))
-    found = []
-    if rest and len(mine) >= MIN_TRAIT:
+    found = []; same = [i for i in rest if HM.source(by_id[i]) == main]
+    prest = same if len(same) >= MIN_REST else rest                          # progressions against the same analyst's, where enough
+    if prest and len(mine) >= MIN_TRAIT:
+        pwt = L.capped({i: 1.0 for i in prest}, [(lambda i: by_id[i].composer, 0.1), (lambda i: by_id[i].collection, 1 / 3)])
         cnt = lambda i: collections.Counter({f: min(len(v), 3) for f, v in progs[i].items()})
         have = collections.Counter(); where = collections.defaultdict(list)
         for w in mine:
             have.update(cnt(w.id))
             for f, bars in progs[w.id].items(): where[f].append((w, bars))
-        others = collections.Counter(); scale = len(rest) / sum(wt.values())
-        for i in rest:
-            for f, c in cnt(i).items(): others[f] += c * wt[i] * scale
+        others = collections.Counter(); scale = len(prest) / sum(pwt.values())
+        for i in prest:
+            for f, c in cnt(i).items(): others[f] += c * pwt[i] * scale
         z = log_odds(have, others)
         good = sorted(((s, f) for f, s in z.items() if s > 3 and len(where[f]) >= 2 and have[f] >= 5), reverse=True)
         for s, f in good[:6]:
             found.append(dict(chords=list(f), z=round(s, 1), works=len(where[f]), per_1000=round(1000 * have[f] / max(1, sum(have.values())), 1),
                               others_per_1000=round(1000 * others.get(f, 0) / max(1, sum(others.values())), 1),
                               at=[dict(work=w.id, label=w.label, bar=bars[0]) for w, bars in sorted(where[f], key=lambda x: -len(x[1]))[:3]]))
-    by = collections.Counter('DCML' if (w.harmony[0].get('by') == 'DCML') else 'When in Rome' for w in mine)
     return dict(works=len(mine), by=dict(by), values=values, traits=traits, progressions=found,
-                compared=dict(by=key[0] if key else None, works=len(rest), composers=len({by_id[i].composer for i in rest})))
+                compared=dict(by=key[0] if key else None, works=len(rest), composers=len({by_id[i].composer for i in rest}),
+                              progressions_by=main if prest is same else 'both', progressions_works=len(prest) if found or prest else 0))
 
 
 MOVE = {0: 'same', 1: 'up a half step', -1: 'down a half step', 2: 'up a step', -2: 'down a step', 3: 'up a minor third', -3: 'down a minor third',
@@ -315,10 +322,16 @@ def markdown(p):
         hc = h['compared']; ag = {'kind, forces, period': f"other composers' labelled {what} of the {p['era']} period",
                                   'forces, period': f"other composers' labelled works for {p['forces']} of the {p['era']} period, of any kind",
                                   'period': f"other composers' labelled works of the {p['era']} period"}.get(hc['by'], 'nothing: too few labelled works by others')
-        s += [f"**Harmony**, from the analysts' labels of {h['works']} of its works ({src}); set against {hc['works']} works by {hc['composers']} composers: {ag}.", '']
+        note = (' Being for other forces, they are not compared for how often the chords change, nor for the melody against the chords.'
+                if hc['by'] == 'period' else '')
+        s += [f"**Harmony**, from the analysts' labels of {h['works']} of its works ({src}); set against {hc['works']} works by {hc['composers']} composers: {ag}."
+              f" Changes of key and applied chords are compared within one analyst's labels.{note}", '']
         for t in sorted(h['traits'], key=lambda t: -abs(t['auc'] - 0.5)):
             s.append(f"- {HWORDS[t['measure']]}: {hfmt(t['measure'], t['value'])}, against {hfmt(t['measure'], t['others'])} ({t['auc'] * 100:.0f} in 100)")
         if not h['traits']: s.append('- where it stands apart: ' + ('nowhere that clearly' if h['works'] >= MIN_TRAIT else f'not asked (fewer than {MIN_TRAIT} labelled works)'))
+        if h['progressions']:
+            pb = hc.get('progressions_by'); s.append(f"- its progressions, against {hc.get('progressions_works')} of those works"
+                                                     + (f", labelled by {'DCML' if pb == 'DCML' else 'When in Rome'} too:" if pb != 'both' else ', by either analyst:'))
         for f in h['progressions']:
             at = '; '.join(f"{a['label']}, bar {a['bar']}" for a in f['at'])
             s.append(f"- the progression {' – '.join(f['chords'])}: {f['per_1000']} in 1,000, against {f['others_per_1000']}, in {f['works']} works. At: {at}")

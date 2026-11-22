@@ -25,8 +25,14 @@ What is measured, each labelled work weighing one:
   resolved by step     of those, the share followed by a step to a note of the chord then sounding
   suspensions          the share of the melody's notes held into a chord they are not in, then falling a step to one of its notes
                        (a tied note is one note in the readings, so a suspension is held, not struck again)
-Progressions: the chords as tokens in the key they stand in (V7, ii6, viio7/V, Ger6, I64), consecutive repeats merged; the
-three-chord progressions a unit uses far more than the works it is set against, with the bars where they stand."""
+Progressions: the chords as tokens in the key they stand in (V7, ii6, viio7/V, Ger, I64). One chord held while its seventh
+enters or its bass moves (V then V7, I then I6) is one chord, written as the seventh if it has one; DCML's cadential six-four,
+V(64), is written I64, as When in Rome writes it. The three-chord progressions a unit uses far more than the works it is set
+against, with the bars where they stand.
+
+The two analysts differ in places, so some measures are only compared within one analyst's labels (BY_ANALYST): where one
+writes a change of key the other may write applied chords. Others depend on the forces (BY_FORCES: a chorale's melody against
+a keyboard suite's), so they are compared only against works for the same forces."""
 import bisect, collections, re
 import numpy as np
 
@@ -76,12 +82,21 @@ def borrowed(h):
     return n in ('iv', 'bIII', 'bVI', 'bVII') or (n == 'ii' and t in ('o', '%7', 'o7'))
 
 
+def source(work):
+    """who labelled the work: 'DCML' or 'When in Rome'"""
+    return 'DCML' if (work.harmony or [{}])[0].get('by') == 'DCML' else 'When in Rome'
+
+
+BY_ANALYST = {'keys a 10 bars', 'away from home', 'applied chords'}
+BY_FORCES = {'chords a bar', 'non-chord tones', 'struck dissonance', 'resolved by step', 'suspensions'}
+
+
 def chords(work):
     """the work's labels that name a chord, consecutive repeats of one chord in one key merged"""
     out = []
     for h in work.harmony or []:
         if not h.get('numeral') or not h.get('type') or h['numeral'].startswith('@'): continue
-        key = (h['localkey'], h['numeral'], h['relativeroot'], h['type'], h['bass'])
+        key = (h['localkey'], h['numeral'], h['relativeroot'], h['type'], h['bass'], h.get('chord'))           # V(64) then V: two
         if out and out[-1][0] == key: continue
         out.append((key, h))
     return [h for _, h in out]
@@ -155,9 +170,26 @@ MEASURES = ('chords a bar', 'tonic and dominant', 'sevenths', 'diminished sevent
 SHARES = {m for m in MEASURES if m not in ('chords a bar', 'keys a 10 bars', 'cadences a 10 bars')}
 
 
+def runs(work):
+    """the work's chords as a progression hears them: [(local key, token, bar)], one chord held while its seventh enters or its
+    bass moves counted once (as the seventh, if it has one), DCML's cadential six-four V(64) as I64"""
+    out = []
+    for h in chords(work):
+        rel = f"/{h['relativeroot']}" if h['relativeroot'] else ''
+        if '(64)' in (h.get('chord') or '') and h['numeral'] in ('V', 'v'):                      # V(64): the cadential six-four
+            tok = ('i' if minor(h['relativeroot'] or h['localkey']) else 'I') + '64' + rel; num = 'cadential 64'   # not merged with a tonic
+        else: num, tok = h['numeral'], token(h)
+        key = (h['localkey'], num, h['relativeroot'])
+        if out and out[-1][0] == key:
+            if h['type'] in SEVENTHS and out[-1][3] not in SEVENTHS: out[-1] = (key, tok, out[-1][2], h['type'])
+            continue
+        out.append((key, tok, h.get('bar'), h['type']))
+    return [(k[0], t, b) for k, t, b, _ in out]
+
+
 def progressions(work):
     """{(token, token, token): [bar, ...]}: the work's three-chord progressions, in the keys they stand in"""
-    ch = chords(work); toks = [token(h) for h in ch]; out = collections.defaultdict(list)
-    for i in range(len(toks) - 2):
-        if ch[i]['localkey'] == ch[i + 1]['localkey'] == ch[i + 2]['localkey']: out[tuple(toks[i:i + 3])].append(ch[i].get('bar'))
+    r = runs(work); out = collections.defaultdict(list)
+    for i in range(len(r) - 2):
+        if r[i][0] == r[i + 1][0] == r[i + 2][0]: out[(r[i][1], r[i + 1][1], r[i + 2][1])].append(r[i][2])
     return out
