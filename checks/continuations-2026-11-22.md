@@ -58,4 +58,4 @@ Counted with score-reader's rule against the unit's own works (the samples drawn
 | Mozart, quartets | 91% | 73% | 59% | 29% | 84% | 76% | 56% | 28% |
 | Corelli, trio sonatas | 81% | 47% | 23% | 3% | 100% | 88% | 80% | 44% |
 
-Against a whole unit, four intervals with their rhythm is a composer's idiom, not a quotation: his own passages "quote" his other works more often than the proposals do. The rule was made for the few works a piece draws on (pieces 45 on). How it applies to continuations is for Philip to decide.
+Against a whole unit, four intervals with their rhythm is a composer's idiom, not a quotation: his own passages "quote" his other works more often than the proposals do. The rule was made for the few works a piece draws on (pieces 45 on). Philip's decision (22 November 2026): against the unit, a quote is eight intervals in a row with their rhythm; against the works a piece draws on, four.

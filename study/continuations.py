@@ -315,6 +315,21 @@ def band(levels, works, length=12.0, ctx=4, step=30, min_notes=6):
     return (float(np.percentile(vals, 25)), float(np.percentile(vals, 75))) if vals else None, vals
 
 
+QUOTE_UNIT, QUOTE_DRAWN = 8, 4                                # Philip, 22 November 2026: a continuation quotes the unit it learnt
+                                                               # from at 8 intervals in a row with their rhythm; the works a piece
+                                                               # draws on, at 4 (score-reader's rule, pieces 45 on)
+
+
+def quotes_against(works, score_reader, n=QUOTE_UNIT):
+    """a check for propose(): the chains of `n` intervals with their rhythm that a continuation shares with `works`, by
+    score-reader's quote module (`score_reader`: a checkout's folder)"""
+    import sys
+    if score_reader not in sys.path: sys.path.insert(0, score_reader)
+    from score_reader import quote as Q
+    idx = Q.index([[(p, x[0], x[1], x[2]) for p, l in w.lines.items() for x in l] for w in works], n=n)
+    return lambda notes: Q.check([('line', x[0], x[1], x[2]) for x in notes], idx, n=n)
+
+
 def propose(levels, context, final, length, n=200, keep=5, band=None, quotes=None, seed=0, **kw):
     """`keep` continuations of `context`, of the `n` sampled (SAMPLE: without the piece's own memory, which loops a line on itself,
     and with the vertical view weighed double), whose surprise under SCORE falls in `band` (lo, hi), most different from one another;

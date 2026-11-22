@@ -79,3 +79,12 @@ def test_no_parallel_fifths_or_octaves_with_a_line_that_moves():
     assert C.parallels(55, [bass], 0, 1) == {9}                                           # G over C: not A over D
     assert C.parallels(52, [bass], 0, 1) == set()                                         # E over C: a third, free
     assert C.parallels(55, [[(0, 2, 48)]], 0, 1) == set()                                 # the bass holds: no parallel
+
+
+def test_a_continuation_quotes_the_unit_at_eight_intervals():
+    import pytest
+    sr = os.environ.get('SCORE_READER', os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'score-reader'))
+    if not os.path.isdir(os.path.join(sr, 'score_reader')): pytest.skip('no score-reader checkout beside this one (SCORE_READER)')
+    ws = corpus(4); q = C.quotes_against(ws, sr)
+    line = [n[:3] for n in ws[0].lines['p'][10:22]]
+    assert q(line) and not q(line[:8])                                                    # 11 intervals of a work; 7 are not a quote

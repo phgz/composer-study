@@ -55,7 +55,7 @@ Not counted: composers after 1950 (under copyright, nearly absent from open coll
 
 - "Measure only" (works still under copyright, read but not reproduced): may be counted, for the ear and the profiles; not trained on for continuations without Philip's say.
 - Collections whose licence forbids commercial use (ASAP: CC BY-NC-SA 4.0; some CPDL editions, CC BY-NC, named in each work's `licence`): a model trained on them inherits the question. Fine while the project is private; to be looked at before anything is published.
-- The quotation check (score-reader `check`) filters every continuation, whatever it was trained on.
+- The quotation check (score-reader `check`) filters every continuation, whatever it was trained on. Against the unit the model learnt from, a quote is eight intervals in a row with their rhythm; against the works a piece draws on, four, as for every line of a piece (Philip, 22 November 2026). Four against a whole unit counts the composer's idiom: his own held-out passages share four with his other works 84% to 100% of the time (`checks/continuations-2026-11-22.md`).
 
 ## 6. What each model was trained on
 
