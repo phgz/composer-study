@@ -1,5 +1,5 @@
 {
- "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 16 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself.",
+ "note": "The periods of each composer of score-reader's catalogue: the second half of a narrow unit (a composer in one kind of piece and one period; the kind comes from score-reader's facts). A work falls in the first period whose years hold the year a source states for it (score-reader facts), else whose catalogue numbers or label hold it. A work no line holds belongs to no period, and its unit falls back to the composer. Written on 21 November 2026 from the usual divisions of each composer's life and works and the dates of composition the standard work lists give; a judgment table, each line with its reason. Numbers are ranges [first, last] or single numbers; 'except' takes numbers out of a range for another period, listed first. A composer with one period has no division that the catalogue's works would separate, or too few works to divide. Version 16 adds every other composer before 1950 that score-reader's pinned collections hold (375), each in one period: they are there for the shared levels; a division is written when one of them is studied for itself. Version 17 adds 18 of the sheet's composers from CPDL, each in one period, as version 16's.",
  "composers": {
   "Ludwig van Beethoven": {
    "source": "the three periods as drawn since Wilhelm von Lenz (1852): early to the Heiligenstadt crisis (1802), middle 1803 to 1814, late from 1815; opus numbers follow composition for the most part, the early works published late taken out by their dates of composition",
@@ -4725,6 +4725,168 @@
   },
   "Vicente Lusitano": {
    "source": "1 work in catalogue version 16; a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Léo Delibes": {
+   "source": "5 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Christoph Willibald Gluck": {
+   "source": "4 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Isabella Leonarda": {
+   "source": "1 work in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Carl Maria von Weber": {
+   "source": "17 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Francesca Caccini": {
+   "source": "20 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Marianna Martines": {
+   "source": "6 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Robert Nathaniel Dett": {
+   "source": "1 work in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Levi Dawson": {
+   "source": "1 work in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "William Byrd": {
+   "source": "304 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Francis Poulenc": {
+   "source": "1 work in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Giacomo Puccini": {
+   "source": "1 work in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Pérotin": {
+   "source": "3 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Jean Sibelius": {
+   "source": "3 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Barbara Strozzi": {
+   "source": "29 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Ralph Vaughan Williams": {
+   "source": "18 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Igor Stravinsky": {
+   "source": "2 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Heinrich Ignaz Franz von Biber": {
+   "source": "10 works in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
+   "periods": [
+    {
+     "name": "all",
+     "why": "one period"
+    }
+   ]
+  },
+  "Samuel Barber": {
+   "source": "1 work in catalogue version 17 (CPDL); a composer of the shared levels, not divided",
    "periods": [
     {
      "name": "all",
