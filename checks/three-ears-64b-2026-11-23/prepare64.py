@@ -3,7 +3,8 @@
   - every proposal the continuations drew for 64b (composer-blend, pieces/64b_inside_the_mazurka/proposals), heard as it was drawn:
     the inner voices chosen before its four bars, the tune and the bass, and for a tenor the alto chosen for the same bars;
   - for AMT also the 29 held-out works of checks/notagen-ear-2026-11-23, the same inner notes (the outer lines given), at a quarter
-    note of 90 a minute (its tokens are seconds; a span the reading plays twice, counted once, leaves no silence).
+    note of 90 a minute (its tokens are seconds; a span the reading plays twice, counted once, leaves no silence of more than four
+    beats).
 And AMT's writing input: the tune and the bass in seconds, bar 1's inner voices, the spans to write (bars 2 to 80, 89 to 160).
 
 Writes beside this script: notagen_inputs.jsonl, amt_inputs.jsonl (for study/notagen_score.py and study/amt_score.py), amt_write.json
@@ -118,10 +119,10 @@ for wid, o in ours.items():
     t_end = max(capped[p][i][0] for p, i in scored_keys)
     asked = [(p, i, n) for p in inner for i, n in enumerate(full[p]) if n[0] <= t_end + 1e-6]
     given = [n for p in (order[0], order[-1]) for n in full[p] if n[0] <= t_end + 9]   # the outer lines, 6 seconds past the last
-    spans = sorted((n[0], n[0] + n[1]) for n in [x[2] for x in asked] + given)        # silences where no line sounds, closed
-    cuts, reach = [], spans[0][1]
-    for a, b in spans[1:]:
-        if a > reach + 1e-6: cuts.append((reach, a - reach))
+    spans = sorted((n[0], n[0] + n[1]) for n in [x[2] for x in asked] + given)        # silences of more than a bar where no line
+    cuts, reach = [], spans[0][1]                                                       # sounds (a span played twice, counted once),
+    for a, b in spans[1:]:                                                              # closed
+        if a > reach + 4: cuts.append((reach, a - reach))
         reach = max(reach, b)
     shift = lambda t: t - sum(g for at, g in cuts if at < t - 1e-9)
     s_ = lambda n: (shift(n[0]) * QUARTER_S, max(n[1], .05) * QUARTER_S, n[2])

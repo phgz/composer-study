@@ -42,7 +42,9 @@ def voices(blend, renderer):
     assert len(ev) == len(played) == len(tags)
     notes = [(v, float(b), float(db), int(m), float(t0), float(d)) for v, (_, b, db, m, _), (t0, d, _, _) in zip(tags, ev, played)]
     bs = sorted({(b, t) for _, b, _, _, t, _ in notes}); xb = np.array([b for b, _ in bs]); xt = np.array([t for _, t in bs])
-    sec = lambda b: float(np.interp(b, xb, xt))
+    slope = (xt[-1] - xt[-2]) / (xb[-1] - xb[-2])                       # past the last onset, at the last notes' pace
+
+    def sec(b): return float(np.interp(b, xb, xt)) if b <= xb[-1] else float(xt[-1] + (b - xb[-1]) * slope)
     return dict(notes=notes, sec=sec, module=N)
 
 
