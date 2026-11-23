@@ -108,3 +108,18 @@ def test_parallels_are_judged_from_what_the_other_line_sounds_just_before():
     cand = np.arange(55, 75)
     bad = set(cand[C.parallel(cand, 63, C.parallels(63, [tune], 0, 2))])                # E flat 4 a fifth under B flat
     assert 68 in bad and 56 in bad and 67 not in bad                                     # not A flat 4 (or 3) under E flat 5
+
+
+def test_a_held_note_moves_where_a_line_would_cross_it():
+    alto = [(0, 1, 64), (1, 1, 62)]                                                       # E4, then D4 a beat later
+    assert C.crossing(63, [alto], None, 0, 2) == 1                                        # a held E flat under it would be crossed at 1
+    assert C.crossing(60, [alto], None, 0, 2) is None
+    ws = corpus(); m = C.Model([('all',) + C.level(ws)])
+    ctx = [(0, 0.5, 50), (0.5, 0.5, 52), (1.0, 1.0, 53)]
+    upper = [(2.0, 1.0, 60), (3.0, 1.0, 55), (4.0, 1.0, 57), (5.0, 3.0, 54)]
+    rnd = random.Random(4)
+    for _ in range(20):
+        notes, _ = C.sample(m, ctx, 0, 6.0, below=[upper], lo=40, rnd=rnd, durations=(0.5, 1.0, 2.0))
+        for n in notes:
+            for u in upper:
+                if u[0] < n[0] + n[1] - 1e-6 and n[0] < u[0] + u[1] - 1e-6: assert n[2] < u[2], (n, u)

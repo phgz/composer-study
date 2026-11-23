@@ -258,6 +258,16 @@ def parallel(cand, prev, pairs):
     return bad
 
 
+def crossing(pitch, below, above, t0, t1):
+    """the first onset in (t0, t1) of a line in `below` (which must stay over `pitch`) or `above` (under it) where it would meet or
+    cross a note of `pitch` held from t0; None if none"""
+    times = sorted({n[0] for l in (below or []) + (above or []) for n in l if t0 + 1e-6 < n[0] < t1 - 1e-6})
+    for u in times:
+        b = sounding_at(u, below) if below else None; a = sounding_at(u, above) if above else None
+        if (b and b[0] <= pitch) or (a and a[1] >= pitch): return u
+    return None
+
+
 def sample(model, context, final, length, others=(), lo=None, hi=None, below=None, above=None, durations=DURATIONS,
            rnd=None, temperature=1.0, grid=None, no_parallels=True):
     """one continuation of `context` (a line [(onset, dur, midi)], 3 notes or more) for `length` quarters: [(onset, dur, midi)] and
@@ -279,6 +289,8 @@ def sample(model, context, final, length, others=(), lo=None, hi=None, below=Non
         t = max(line[-1][0] + span, start)                                 # the context's last note is not cut short
         if grid: t = round(t / grid) * grid; span = t - line[-1][0]
         if span <= 0: continue
+        cross = crossing(line[-1][2], below, above, max(line[-1][0], start), min(t, end))
+        if cross is not None and cross > max(line[-1][0], start - 1e-9) + 1e-6: t = cross  # the held note moves where a line would cross it
         if t >= end - 1e-6: break
         p, _ = model.predict(line, final, sounding_at(t, others) if others else None, mem)
         cand = line[-1][2] + INT; ok = np.ones(A_INT, dtype=bool)
