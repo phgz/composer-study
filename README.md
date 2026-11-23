@@ -122,4 +122,13 @@ A narrow unit is a composer in one kind of piece and one period: Chopin's mazurk
 - **What is proposed:** of many samples, the ones whose surprise (measured with the piece's own memory, as the unit's music is) falls between the 25th and 75th percentiles of the unit's own held-out passages, most different from one another. Neither the most likely, which the critic would call flat, nor noise.
 - **Quotation:** each proposal can be checked against the unit's works with score-reader's rule (no more than three intervals in a row with their rhythm). Counted that way, the composers' own held-out passages quote their other works 84% to 100% of the time, and the proposals 59% to 91%. At eight intervals, the real passages 6% to 44%, the proposals 0% to 29%. So, as Philip decided: against the unit, a quote is eight intervals in a row with their rhythm (`quotes_against`); against the works a piece draws on, four, as for any line.
 
+## NotaGen beside the ear
+
+NotaGen (Wang et al., 2025; MIT licence) is a 516-million-parameter model that writes classical scores in ABC notation from a prompt (period, composer, instrumentation). Its weights are not kept here; the scripts that need them run where they are.
+
+- **`study/notagen.py`**: works in NotaGen's notation, made as its own data scripts make them, and cut into patches as its training cuts them; each note's place in the text; each ABC voice aligned to the reading's line.
+- **`study/notagen_score.py`** (needs torch and the weights): NotaGen's bits for each prepared note, in one pass a window, checked against NotaGen's own `generate()` with `--verify`.
+- **`study/notagen_write.py`** (needs torch, the weights and a NotaGen checkout): a piece from a prompt, with NotaGen's own model and sampling, as ABC, MusicXML and MIDI.
+- **`checks/notagen-ear-2026-11-23.md`**: NotaGen's surprise against ours on the same 12,653 notes of 29 held-out works (Bach's chorales, Corelli's and Vivaldi's trio sonatas, Haydn's and Mozart's quartets). Our half is measured, inner lines 2.32 bits a note. NotaGen's waits for the weights; the predictions were written before it.
+
 Run the tests: `python3 -m pytest -q tests`.
