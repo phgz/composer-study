@@ -123,3 +123,13 @@ def test_a_held_note_moves_where_a_line_would_cross_it():
         for n in notes:
             for u in upper:
                 if u[0] < n[0] + n[1] - 1e-6 and n[0] < u[0] + u[1] - 1e-6: assert n[2] < u[2], (n, u)
+
+
+def test_no_new_note_a_half_step_from_the_voice_next_to_it():
+    ws = corpus(); m = C.Model([('all',) + C.level(ws)])
+    ctx = [(0, 0.5, 55), (0.5, 0.5, 57), (1.0, 1.0, 55)]
+    alto = [(2.0, 6.0, 56)]                                                               # G sharp held above
+    rnd = random.Random(5)
+    for _ in range(20):
+        notes, _ = C.sample(m, ctx, 0, 6.0, below=[alto], lo=40, hi=70, rnd=rnd, durations=(0.5, 1.0))
+        assert all((n[2] - 56) % 12 not in (1, 11) for n in notes)

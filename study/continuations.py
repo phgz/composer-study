@@ -269,11 +269,13 @@ def crossing(pitch, below, above, t0, t1):
 
 
 def sample(model, context, final, length, others=(), lo=None, hi=None, below=None, above=None, durations=DURATIONS,
-           rnd=None, temperature=1.0, grid=None, no_parallels=True):
+           rnd=None, temperature=1.0, grid=None, no_parallels=True, no_semitones=True):
     """one continuation of `context` (a line [(onset, dur, midi)], 3 notes or more) for `length` quarters: [(onset, dur, midi)] and
     the bits of each note (pitch + rhythm). `others`: lines sounding with it (the vertical view's bass); `lo`, `hi`: its range;
     `below`/`above`: lines it must stay under / over (an inner voice between the melody and the bass); `grid`: onsets must fall on
-    multiples of it (in quarters), where given; `no_parallels`: no parallel fifths or octaves with the other lines"""
+    multiples of it (in quarters), where given; `no_parallels`: no parallel fifths or octaves with the other lines; `no_semitones`: no
+    new note a half step (or a major seventh, a minor ninth) from what the lines next to it (`below`, `above`) sound as it starts:
+    the vertical view hears only the lowest and the highest other line, not the voice next to it"""
     rnd = rnd or random.Random(); mem = Memory(final)
     for n in context: mem.hear(n)
     line = [tuple(n[:3]) for n in context]; start = line[-1][0] + line[-1][1]; end = start + length
@@ -298,6 +300,10 @@ def sample(model, context, final, length, others=(), lo=None, hi=None, below=Non
         if hi is not None: ok &= cand <= hi
         if below: ub = sounding_at(t, below); ok &= cand < ub[0] if ub else ok
         if above: lb = sounding_at(t, above); ok &= cand > lb[1] if lb else ok
+        if no_semitones:
+            near = [x for x in (sounding_at(t, below) if below else None, sounding_at(t, above) if above else None) if x]
+            for x in near:
+                for q in set(x): ok &= ~np.isin((cand - q) % 12, (1, 11))
         if no_parallels and others:
             pairs = parallels(line[-1][2], others, line[-1][0], t)
             if pairs: ok &= ~parallel(cand, line[-1][2], pairs)
