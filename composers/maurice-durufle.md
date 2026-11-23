@@ -54,7 +54,7 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
    *Where:* *Messe "Cum jubilo"*. [Wiles]
 10. **The end reaches the major by the flat sixth and flat seventh** (last Agnus Dei, to D major).
     *Works on:* harmony, form.
-    *Why:* the flat sixth and flat seventh reach the keynote without the half step that pulls into it in major and minor, so the close keeps the mode of the opening and hints at the whole-tone scale. It is set with the voices still singing the chant, which stays between modes, while the organ's melody brings the C sharp that makes D major certain. It is not a slow chord change under a held note. [Wiles]
+    *Why:* the flat sixth and flat seventh reach the keynote without the half step that pulls into it in major and minor, so the close keeps the mode of the opening and hints at the whole-tone scale. It is set with the voices still singing the chant, which stays between modes, while the organ's melody brings the C sharp that makes D major certain. [Wiles]
     *How:* the voices and the organ sing the last line of chant together; the organ's melody brings the major third; then the chords step through the flat sixth and the flat seventh to the major chord. Beware: under held voices and slow strings this close sounded like film music to Philip (composer-blend, piece 65).
     *Where:* *Messe "Cum jubilo"*, the last Agnus Dei. [Wiles]
 11. **Other scales in what he adds himself:** the scale of alternate tones and semitones (Benedictus, Agnus), whole-tone fragments, and a five-note figure in the bass that fills out to a seven-note scale (Sanctus).

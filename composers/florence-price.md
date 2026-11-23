@@ -30,7 +30,7 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
    *Where:* her themes, by the two studies; no bar is named. [Hutchinson; Ege]
 4. **Short, long, short.** Quarter-half-quarter, and the same twice and four times as fast. In the first symphony's slow movement a short-short-long figure has its long note on the strong beat, so it settles where the first movement's version pushed on.
    *Works on:* rhythm.
-   *Why:* the figure comes back across the movements and holds the symphony together; its long note comes before the expected place and pushes the music forward. In the slow movement it sits earlier in the beat and feels settled. [WETA]
+   *Why:* the figure comes back across the movements and holds the symphony together; it holds back the arrival the ear expects, which pushes the music forward. In the slow movement it sits earlier in the beat and feels settled. [WETA]
    *How:* build rhythms on short-long-short, at several speeds; in a slow movement, turn it so that the long note lands on the strong beat.
    *Where:* Symphony no. 1, the first movement and the slow movement. [Ege; WETA]
 5. **Each start higher.** The motifs of a theme begin on rising notes (E, then G, then B) and peak an octave above the first.

@@ -54,7 +54,7 @@ Begun by Claude on 23 November 2026, from the sources at the end, read that day.
    *Where:* *Concierto de Aranjuez*, third movement. [Wikipedia, Aranjuez]
 10. **Mostly woodwinds.** The orchestra is light: winds in pairs, two horns, two trumpets, plucked and bouncing strings, no percussion; one oboist takes the cor anglais.
     *Works on:* colour.
-    *Why:* light winds and strings never cover the guitar, and they recall an eighteenth-century orchestra. [Steinberg]
+    *Why:* light winds and strings do not cover the guitar, and they recall an eighteenth-century orchestra. [Steinberg]
     *How:* keep the orchestra light: woodwinds in pairs, two horns, two trumpets, strings mostly plucked or bowed short, no percussion, so that a guitar can be heard.
     *Where:* *Concierto de Aranjuez*, the scoring. [Wikipedia, Aranjuez; Steinberg]
 11. **Old Spain, flamenco and the eighteenth century at once:** Spanish-Italian guitar music of the 1700s, flamenco gesture, and a neoclassical frame; cross-rhythms and placed dissonances that recall Soler.

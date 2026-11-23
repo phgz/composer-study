@@ -30,7 +30,7 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
    *Where:* op. 132, third movement, every line of the three hymns. **[score]**
 5. **It alternates with "feeling new strength."** *Andante*, 3/8, in D major, 53 bars both times. Quick decoration: in the first, 513 of 1,063 notes are thirty-seconds. Twelve trills each time. The first violin leaps up to two and a half octaves. Soft and loud stand side by side (*p* 46 times, *f* 23, *pp* 11).
    *Works on:* melody, rhythm, form.
-   *Why:* the heading tells it: the dance-like sections are his recovery. [Chamber Music Society]
+   *Why:* the dance-like sections hint at his recovery, as the heading says. [Chamber Music Society]
    *How:* between the hymns, a contrasting section in a quicker three, full of quick ornament, trills and wide leaps, its loud and soft side by side, the same length each time.
    *Where:* op. 132, third movement, the two *Andante* sections. **[score]**
 6. **He changes keynote for it, not only mode:** from F to D, a third below, and from no sharps to two.
