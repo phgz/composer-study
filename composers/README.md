@@ -45,12 +45,13 @@ An empty section says "None yet." (or why it must stay empty), so that a gap sho
 
 ## What the pages lack (23 November 2026)
 
-- **The recipe form is complete** (23 November 2026; Philip: "we should do it now, otherwise it might drift again and get lost"). All 217 techniques give what they are, *How* and *Where*. A *How* is the writer's recipe from what the score or the source says; a *Where* names only what the score or the source names, and says so when it names no bar. Where a technique is not a technique (a composer's own words, a list of places), its *How* says so.
-- **A *Why* on 101 of the 217 techniques** (23 November 2026; Philip agreed to it as an optional line, from a source or a score only). Every source cited by a technique was read again for it, as far as the pages could be fetched (the long theses only in their first part). 92 come from sources, 9 from the scores. By voice (23 November 2026): 13 hold the composer's own words, 79 an analysis, 9 the score, 7 a listener. The rest have none because the source describes and does not say what for, or the score shows nothing beyond the *How*; a background entry never has one. Fewest on the pages written mostly from scores (Rameau 2 of 16, Mozart 3 of 10, Borodin 3 of 10, Dvořák 3 of 11, Mendelssohn 3 of 8): a score shows what the notes do, rarely what for.
+- **The recipe form is complete** (23 November 2026; Philip: "we should do it now, otherwise it might drift again and get lost"). All 217 techniques of that day, and the 61 added for composer-blend's piece 68 (Tavener's 12 to 22, and the new pages of Rimsky-Korsakov, Glière and Desplat), give what they are, *How* and *Where*. A *How* is the writer's recipe from what the score or the source says; a *Where* names only what the score or the source names, and says so when it names no bar. Where a technique is not a technique (a composer's own words, a list of places), its *How* says so.
+- **A *Why* on 145 of the 278 techniques** (23 November 2026; Philip agreed to it as an optional line, from a source or a score only). The figures that follow are for the first 101, on the 217 techniques before piece 68's pages. Every source cited by a technique was read again for it, as far as the pages could be fetched (the long theses only in their first part). 92 come from sources, 9 from the scores. By voice (23 November 2026): 13 hold the composer's own words, 79 an analysis, 9 the score, 7 a listener. The rest have none because the source describes and does not say what for, or the score shows nothing beyond the *How*; a background entry never has one. Fewest on the pages written mostly from scores (Rameau 2 of 16, Mozart 3 of 10, Borodin 3 of 10, Dvořák 3 of 11, Mendelssohn 3 of 8): a score shows what the notes do, rarely what for.
 - **Empty sections:**
-  - walks: Cage, Duruflé, Mendelssohn, Rodrigo, Rutter, Tavener, Tchaikovsky, Weinberg, Whitacre;
+  - walks: Cage, Desplat, Duruflé, Mendelssohn, Rodrigo, Rutter, Tchaikovsky, Weinberg, Whitacre;
   - numbers: Tavener;
-  - what he does not do: Mendelssohn, Mozart, Tavener, Tchaikovsky;
+  - what he does not do: Glière;
+  - what he does not do: Mendelssohn, Mozart, Tchaikovsky;
   - samples: Tchaikovsky (the catalogue holds none of his ballets).
 
-  Composers with no score in the catalogue (Cage, Duruflé, Price, Rodrigo, Rutter, Tavener, Weinberg, Whitacre) cannot have samples or a profile.
+  Composers with no score in the catalogue (Cage, Desplat, Duruflé, Glière, Price, Rodrigo, Rutter, Tavener, Weinberg, Whitacre) cannot have samples or a profile. Rimsky-Korsakov's few readable works (piano pieces, an aria) are not of the kind his page covers.
