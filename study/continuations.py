@@ -6,7 +6,9 @@ sounds with others:
              of the line's intervals, degrees and rhythm; their predictions joined by a geometric mean (ear.combine), with the piece's
              own short-term memory, so that a figure the line has made is expected again
   vertical   where other lines sound, the note's pitch class above the lowest of them (or "below it"), given the degree of that bass:
-             the unit's harmony as its lines meet, learnt from its works' lines (each part's sounding skyline), at the same levels
+             the unit's harmony as its lines meet, learnt from its works' lines (each part's sounding skyline), at the same levels,
+             nested: each level's counts on the prediction of the level above, so that what a unit has rarely heard is heard mostly
+             as the catalogue hears it
 
 For counts, a span the reading plays again is counted once (TRAINING.md, section 3); editors' copies for MIDI and realized files are
 left out (section 1), as study/lines.py reads them.
@@ -102,12 +104,15 @@ class Vertical:
         return p
 
 
-def nested(verticals, c1, c2, alpha, order='level'):
+VALPHA = 200                                                    # the prior's weight, in notes (held out: checks/vertical-nested-2026-11-23.md)
+
+
+def nested(verticals, c1, c2, alpha=VALPHA, order='level'):
     """the vertical view of nested levels (`verticals`, most general first) as one distribution over its symbols: each more specific
     level's counts for the context, with the prediction of the level above as their prior, of weight `alpha` (in notes). A context a
     level has heard often is heard as that level hears it; one it has heard rarely, mostly as the level above hears it.
-    `order`: 'level', a specific level's counts for the full context (the bass's degree and the interval to the top) on the level
-    above's; 'order', its counts for the bass's degree alone first, then for the full context"""
+    `order`: 'level' (kept), a specific level's counts for the full context (the bass's degree and the interval to the top) on the
+    level above's; 'order' (tried, worse where contexts are rare), its counts for the bass's degree alone first, then the full context"""
     p = verticals[0].dist(c1, c2)
     for v in verticals[1:]:
         rows = ([v.c[c1]] if order == 'order' or c2 is None else []) + ([v.c2[c2]] if c2 is not None else [])
@@ -181,10 +186,11 @@ class Model:
     """a unit's continuations: `levels` [(name, ear.Long, Vertical)], most general first; `bias` the geometric mean's
     (ear.combine); `vertical` whether the vertical view is heard; `short` whether the piece's own memory is"""
 
-    def __init__(self, levels, bias=0.0, vertical=True, short=True, vweight=VWEIGHT, vmode='mean', valpha=None):
+    def __init__(self, levels, bias=0.0, vertical=True, short=True, vweight=VWEIGHT, vmode='level', valpha=VALPHA):
         self.levels, self.bias, self.vertical, self.short, self.vweight = levels, bias, vertical, short, vweight
-        self.vmode, self.valpha = vmode, valpha                     # 'mean': each level's vertical view, a geometric mean of them;
-                                                                    # 'level' or 'order': nested (see nested), prior weight valpha
+        self.vmode, self.valpha = vmode, valpha                     # 'level' (or 'order'): the levels' vertical views nested (see
+                                                                    # nested), prior weight valpha; 'mean': each level's view, a
+                                                                    # geometric mean of them, as before 23 November 2026
 
     def predict(self, notes, final, span=None, mem=None):
         """pitch (41 candidates about the last note) and rhythm (13 ratios, or None) for the note after `notes`; `span`: the lowest
