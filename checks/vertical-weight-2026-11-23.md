@@ -62,6 +62,36 @@ Scored as before (weight 1), the same picture: 45% to 46% at weights 1, 1.5, 2 a
 - **Surprise:** the heavier the weight, the less surprising the samples, and they are less surprising than the real voices at every weight. The gap is small for Palestrina (4.43 at 2, against 4.70) and wide for Brahms (4.20 against 5.17).
 - **Kept: 2.** Nothing here asks for a change: 3 matches the real consonance a little better, 2 keeps a little more surprise, and the band cannot tell them apart.
 
+## Are the differences significant?
+
+The notes of one work are not independent, so the held-out work is the unit (`phaseK.py`, `signif.py`):
+- **The change:** the per-note difference, with its 95% interval from 10,000 resamples of the works.
+- **How general:** the share of works that improve.
+- **Chance alone:** a permutation p-value, flipping the sign of each work's difference at random.
+
+Negative is better.
+
+| comparison | the standing test (72 works) | units from 4 works (54) | through Weber's levels, inner lines (53) |
+|---|---|---|---|
+| **old to new, all lines** (geometric mean at 0.5 to nested at 0.75) | **-0.029** [-0.045, -0.014], 56% of works, p < 0.001 | -0.002 [-0.015, +0.011], p 0.80 | -0.005 [-0.024, +0.013], p 0.60 |
+| **old to new, inner lines** (geometric mean at 1 to nested at 0.75) | **-0.019** [-0.028, -0.010], 68%, p < 0.001 | **-0.083** [-0.126, -0.042], 77%, p < 0.001 | **-0.187** [-0.230, -0.150], 91%, p < 0.001 |
+| the nesting alone, all lines (at 0.5) | **-0.013** [-0.018, -0.009], 71%, p < 0.001 | +0.010 [-0.009, +0.033], p 0.34 | **-0.018** [-0.030, -0.008], 70%, p < 0.001 |
+| the nesting alone, inner lines (at 1) | -0.006 [-0.016, +0.003], p 0.18 | **-0.071** [-0.105, -0.039], 77%, p < 0.001 | **-0.102** [-0.134, -0.075], 91%, p < 0.001 |
+| the weight alone, all lines (0.5 to 0.75) | **-0.016** [-0.027, -0.005], 53%, p 0.004 | -0.012 [-0.028, +0.002], p 0.13 | +0.014 [-0.007, +0.033], p 0.19 |
+| the weight alone, inner lines (1 to 0.75) | -0.012 [-0.025, +0.001], p 0.07 | -0.012 [-0.027, +0.003], p 0.11 | **-0.085** [-0.105, -0.064], 83%, p < 0.001 |
+
+(Through Weber's levels only inner lines are heard, so both of its "all lines" rows measure inner lines at the old weight for all lines, 0.5.)
+
+- **What is certain:** the whole change improves inner lines in all three tests, and all lines in the standing test.
+  - It is largest where it was meant to act: inner lines where the unit is thin (-0.08) or foreign (-0.19, 91% of works better).
+- **What is not:** the nesting alone on inner lines in the standing test, the weight alone in most places, and all lines in tests 2 and 3. These cannot be told from no change.
+- **How big, in plain terms:** a difference of d bits a note means the model gives the real note 2^d times the probability, on average (a geometric mean).
+  - The standing test's 0.029 is 2% more: real but small.
+  - Inner lines through Weber's levels, 0.187: 14% more.
+- **A caution:** the prior's weight and the vertical weight were chosen on these same works. So these intervals are somewhat optimistic for the chosen values. A clean confirmation needs works not used in choosing:
+  - a fresh set held out;
+  - or the rotated test: each unit heard through other thin units than Weber.
+
 ## Not checked
 
 - **How proposals drawn this way sound.**
