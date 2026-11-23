@@ -16,17 +16,21 @@ One page a composer, written by hand: what was read in the composer's scores by 
    - the link to the pieces that used it.
 2. **Techniques**, numbered, by kind of piece (a `###` heading for each kind when there are several). Numbers are never reused, so that a piece can cite them. Each technique gives:
    - a short bold name, then what it is;
+   - *Works on:* one or more of melody, harmony, rhythm, texture, form, loudness, colour (or background, for an entry that is not a technique), which is how the index finds it;
    - *How:* a recipe an assistant can follow;
    - *Where:* where it can be heard, by work and bar;
    - at the end, where it comes from: **[score: the work]**, bold, for what was read in a score by measurement; [the source], plain, for what a source says.
 3. **Walks through whole works:** what happens, in order, with what the score or the sources give of proportion and time. A list of techniques says what a composer does; a walk says when and for how long.
 4. **Numbers:** forces, speeds, lengths, where the loud place sits.
 5. **What he or she does not do.** A qualifier, when there is one, is the section's first line ("*In the Notturno.*").
-6. **Samples in score-reader's catalogue:** for each technique that a work in the catalogue shows, the work's id, so that the notes can be looked at.
-7. **Not checked:** what the writer believes from memory and did not find in a source read for the page. Nothing from memory goes in the sections above.
-8. **Sources:** what was actually read, with links.
+6. **Too well known to borrow:** the composer's themes and figures that a listener recognises at once, from sources that say they are famous. A piece does not take them as techniques, even moved to another key (composer-blend's piece 67 first took Rachmaninoff's three-note toll from his best-known prelude).
+7. **Samples in score-reader's catalogue:** for each technique that a work in the catalogue shows, the work's id, so that the notes can be looked at.
+8. **Not checked:** what the writer believes from memory and did not find in a source read for the page. Nothing from memory goes in the sections above.
+9. **Sources:** what was actually read, with links.
 
 An empty section says "None yet." (or why it must stay empty), so that a gap shows.
+
+**The index.** `INDEX.md` lists every technique of every page under what it works on, so that two composers can be read side by side on one dimension. It is written by `python3 -m study.composers_index` from the "Works on" lines and is never edited by hand; a test fails when a technique has no such line or the index is out of date.
 
 ## Rules
 
