@@ -137,9 +137,9 @@ def test_no_new_note_a_half_step_from_the_voice_next_to_it():
 
 def test_a_held_context_note_already_crossed_where_the_segment_begins_gives_way_there():
     ws = corpus(); m = C.Model([('all',) + C.level(ws)])
-    ctx = [(0, 0.5, 60), (0.5, 0.5, 62), (1.0, 1.0, 64)]                                  # E4, the context's last note
-    alto = [(2.0, 4.0, 59)]                                                               # B3 above it from the segment's start
+    ctx = [(0, 1.0, 60), (1.0, 1.0, 62), (2.0, 1.0, 64)]                                  # E4, the context's last note, ends at 3
+    alto = [(3.0, 6.0, 59)]                                                               # B3 above it from the segment's start
     rnd = random.Random(6)
-    for _ in range(20):
-        notes, _ = C.sample(m, ctx, 0, 4.0, below=[alto], lo=40, hi=70, rnd=rnd, durations=(0.5, 1.0, 2.0))
-        assert notes and abs(notes[0][0] - 2.0) < 1e-9 and all(n[2] < 59 for n in notes)
+    for _ in range(10):                                                                   # a new note every two beats: unchecked,
+        notes, _ = C.sample(m, ctx, 0, 6.0, below=[alto], lo=40, hi=70, rnd=rnd, durations=(2.0,))   # the first would come at 4
+        assert notes and abs(notes[0][0] - 3.0) < 1e-9 and all(n[2] < 59 for n in notes)
