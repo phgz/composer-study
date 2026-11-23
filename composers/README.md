@@ -39,7 +39,7 @@ An empty section says "None yet." (or why it must stay empty), so that a gap sho
 
 ## What the pages lack (23 November 2026)
 
-- **The recipe form.** Only Tavener's page gives every technique its *How* and *Where* lines. The other fifteen state what a technique is and where it comes from, and leave the recipe and the place to the reader.
+- **The recipe form is complete** (23 November 2026; Philip: "we should do it now, otherwise it might drift again and get lost"). All 217 techniques give what they are, *How* and *Where*. A *How* is the writer's recipe from what the score or the source says; a *Where* names only what the score or the source names, and says so when it names no bar. Where a technique is not a technique (a composer's own words, a list of places), its *How* says so.
 - **Empty sections:**
   - walks: Cage, Duruflé, Mendelssohn, Rodrigo, Rutter, Tavener, Tchaikovsky, Weinberg, Whitacre;
   - numbers: Tavener;
