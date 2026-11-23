@@ -50,8 +50,7 @@ An empty section says "None yet." (or why it must stay empty), so that a gap sho
 - **Empty sections:**
   - walks: Cage, Desplat, Duruflé, Mendelssohn, Rodrigo, Rutter, Tchaikovsky, Weinberg, Whitacre;
   - numbers: Tavener;
-  - what he does not do: Glière;
-  - what he does not do: Mendelssohn, Mozart, Tchaikovsky;
+  - what he does not do: Glière, Mendelssohn, Mozart, Tchaikovsky;
   - samples: Tchaikovsky (the catalogue holds none of his ballets).
 
   Composers with no score in the catalogue (Cage, Desplat, Duruflé, Glière, Price, Rodrigo, Rutter, Tavener, Weinberg, Whitacre) cannot have samples or a profile. Rimsky-Korsakov's few readable works (piano pieces, an aria) are not of the kind his page covers.
