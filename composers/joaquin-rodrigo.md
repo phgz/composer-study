@@ -76,6 +76,10 @@ None yet.
 - Use percussion in the concerto.
 - Let the guitar have the last word: the orchestra resolves under it.
 
+## Too well known to borrow
+
+- **The Adagio's melody** from the *Concierto de Aranjuez*: known through many adaptations, among them Miles Davis's *Sketches of Spain*, Chick Corea's "Spain" (which uses its opening), chart singles and films (*Brassed Off*, *School of Rock*). A low reed with a slow tune in the minor over a strummed guitar calls it up at once (composer-blend's piece 66). [Wikipedia, Aranjuez]
+
 ## Samples in score-reader's catalogue
 
 None: no score of his is in score-reader's catalogue.

@@ -59,6 +59,10 @@ Bars, from the score as Tchaikovsky Research gives them: Overture 182; March 88;
 
 None yet.
 
+## Too well known to borrow
+
+- **Five melodies called famous:** the Dance of the Little Swans (*Swan Lake*); the Dance of the Sugar Plum Fairy and the Waltz of the Flowers (*The Nutcracker*); the Polonaise from *Eugene Onegin*; the first piano concerto. Technique 2 gives the celesta to one character: the colour can be used, the Sugar Plum Fairy's tune not. [gw2ru]
+
 ## Samples in score-reader's catalogue
 
 None yet.
@@ -76,3 +80,4 @@ Believed from memory, not found in a source read today:
 - Wikipedia, "The Nutcracker" (read on Wikiwand): https://www.wikiwand.com/en/The_Nutcracker
 - Simple English Wikipedia, "Dance of the Sugar Plum Fairy": https://simple.wikipedia.org/wiki/Dance_of_the_Sugar_Plum_Fairy
 - New York City Ballet, "The Magical Musical Moments of The Nutcracker": https://www.nycballet.com/discover/stories/the-magical-musical-moments-of-the-nutcracker
+- gw2ru, "5 FAMOUS melodies by Pyotr Tchaikovsky you should know": https://www.gw2ru.com/arts/1079-tchaikovsky-famous-melodies

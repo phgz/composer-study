@@ -115,6 +115,10 @@ The speeds in the files are the editions' own, not his, and are not given here.
 - Leap about: except in *Les Sauvages*.
 - Leave a first dance alone: it has a second, in the minor.
 
+## Too well known to borrow
+
+- ***Les Sauvages***: one of his best and most celebrated pieces, first on its own and then in *Les Indes galantes* (1735). Technique 10 names its climbing tune; take the climb, not the tune. [Britannica, Les Sauvages]
+
 ## Samples in score-reader's catalogue
 
 - `mutopia:RameauJP/tambourin` (techniques 3, 8)
@@ -140,3 +144,4 @@ Not read: Girdlestone's and Masson's books on him, which the sources point to.
 - Wikipedia, "Rigaudon": https://en.wikipedia.org/wiki/Rigaudon
 - Wikipedia, "Jean-Philippe Rameau": https://en.wikipedia.org/wiki/Jean-Philippe_Rameau
 - Western Michigan University, "Baroque Dances": https://wmich.edu/mus-gened/mus150/BaroqueDances.htm
+- Britannica, "Les Sauvages": https://www.britannica.com/topic/Les-Sauvages

@@ -85,6 +85,10 @@ Requiem: nine movements; begun 1941, finished September 1947, revised 1961. *Qua
 - Set the *Dies irae*.
 - Write for the voices in the *Cum jubilo* mass in parts: one line.
 
+## Too well known to borrow
+
+- **No figure of his is called famous** by the sources read. His most notable works are the Requiem op. 9 and the Suite for organ op. 5. [BBC Music Magazine, Duruflé]
+
 ## Samples in score-reader's catalogue
 
 None: no score of his is in score-reader's catalogue.
@@ -107,3 +111,4 @@ Not read: the fourth chapter of the Cardiff thesis (the *Veni Creator* variation
 - All Classical Radio, note on the Requiem: https://research.allclassical.org/composer/durufle-maurice/requiem-op-9/
 - Wikipedia, "Requiem (Duruflé)": https://en.wikipedia.org/wiki/Requiem_(Durufl%C3%A9)
 - Wikipedia, "Quatre Motets sur des thèmes grégoriens": https://en.wikipedia.org/wiki/Quatre_Motets_sur_des_th%C3%A8mes_gr%C3%A9goriens
+- BBC Music Magazine, "Duruflé, Maurice": https://www.classical-music.com/features/composers/maurice-durufle

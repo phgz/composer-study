@@ -74,6 +74,10 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 - Put the answering chords on the beat with the low strokes.
 - Decorate the toll: the three notes are bare octaves.
 
+## Too well known to borrow
+
+- **The Prelude in C sharp minor op. 3 no. 2**, and its opening three-note toll above all: one of his most famous works, demanded as an encore ("C-sharp!") until he called it his "Frankenstein"; heard in many films, sampled in pop songs, arranged for jazz. Technique 1 is its toll: take three low strokes of your own (composer-blend's piece 67 first took his and changed them). [Wikipedia, Prelude]
+
 ## Samples in score-reader's catalogue
 
 - `mutopia:RachmaninoffS/O3/rach-prelude-op3-no2` (techniques 1 to 4)
@@ -91,3 +95,4 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 - score-reader's catalogue, version 20, read from its ready copy: the three preludes above.
 - Marina Frolova-Walker, lecture on Rachmaninov, Gresham College, 26 November 2020 (transcript): https://www.gresham.ac.uk/sites/default/files/2020-11-26-1800_FrolovaWalker_Rachmaninov_T.pdf
 - Wikipedia, "Russian Orthodox bell ringing": https://en.wikipedia.org/wiki/Russian_Orthodox_bell_ringing
+- Wikipedia, "Prelude in C-sharp minor (Rachmaninoff)": https://en.wikipedia.org/wiki/Prelude_in_C-sharp_minor_(Rachmaninoff)

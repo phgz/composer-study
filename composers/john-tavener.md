@@ -77,6 +77,10 @@ None yet.
 
 None yet.
 
+## Too well known to borrow
+
+- ***Song for Athene***: his best-known work, sung as Diana, Princess of Wales's coffin left Westminster Abbey in 1997. Its opening (an alleluia sung six times in unison over a held drone) and its seventh alleluia at the end are what a listener knows; technique 7 describes the layout, which can be used without those notes. [Wikipedia, Song for Athene]
+
 ## Samples in score-reader's catalogue
 
 None: no score of his is in score-reader's catalogue.

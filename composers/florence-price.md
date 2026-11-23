@@ -197,6 +197,10 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
 - Make the slow movement loud.
 - Keep a repeating figure under the third symphony's juba, though the first has one.
 
+## Too well known to borrow
+
+- **No melody or figure of hers is called famous** by the sources read. What brought her acclaim is the first symphony, with its juba as third movement; what made her known to a wide public was her arrangement of the spiritual "I Am Bound for the Kingdom", championed and recorded by Marian Anderson. [BBC Music Magazine, Price]
+
 ## Samples in score-reader's catalogue
 
 None: no score of hers is in score-reader's catalogue.
@@ -226,3 +230,4 @@ Not read: Rae Linda Brown's editions of the symphonies and her book *The Heart o
 - Classics for Kids, "Bringing Juba to the Symphony": https://www.classicsforkids.com/?p=15522
 - Kyle Hutchinson, on the second movement of the Piano Sonata in E minor, *Intégral* 36 (2023): https://theory.esm.rochester.edu/integral/36-2023/hutchinson/
 - Samantha Ege, *The Aesthetics of Florence Price: Negotiating the Dissonances of a New World Nationalism*, PhD thesis, University of York, 2020 (the first two thirds read): https://etheses.whiterose.ac.uk/id/eprint/27318/1/Ege_203030808_Thesis.pdf
+- BBC Music Magazine, "Six of the best works by Florence Price": https://www.classical-music.com/articles/six-best-works-florence-price

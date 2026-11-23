@@ -78,6 +78,11 @@ None yet.
 - Close on a plain cadence where he has set one up.
 - End loud.
 
+## Too well known to borrow
+
+- ***Lux Aurumque*** for choir: his most famous work, sung by choirs everywhere, at Christmas above all; also *Sleep* and *The Seal Lullaby*. [BBC Music Magazine, Whitacre]
+- **The sound itself:** "sustained crushed harmonies" are called his hallmark. A choir holding close clusters is heard as Whitacre at once, which is one reason the film sound is near (techniques 2 and 3). [BBC Music Magazine, Whitacre]
+
 ## Samples in score-reader's catalogue
 
 None: no score of his is in score-reader's catalogue.
@@ -95,3 +100,4 @@ Not read: the second half of Milne's thesis; Larson's and Shrock's writings on h
 
 - Wikipedia, "October (Whitacre)" (the article itself is flagged as needing work; its dates disagree with each other): https://en.wikipedia.org/wiki/October_(Whitacre)
 - Christopher John Milne, master's thesis on band versions of choral works, University of Western Australia, 2017 (the first half read): https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/23660260/THESIS_MASTER_BY_RESEARCH_MILNE_Christopher_John_2017.pdf
+- BBC Music Magazine, "Eric Whitacre: Nevada's most famous composer, who has broken records with his virtual choirs": https://www.classical-music.com/features/composers/eric-whitacre-2

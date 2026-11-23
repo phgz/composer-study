@@ -74,6 +74,10 @@ The speeds in the files are the editions' own and are not given here.
 
 None yet.
 
+## Too well known to borrow
+
+- ***Eine kleine Nachtmusik*** (Serenade K. 525): one of his most famous works; one writer thinks it his most popular. Its first movement opens on a theme that climbs fast up through the chord (called a "Mannheim rocket"). [Wikipedia, Eine kleine Nachtmusik]
+
 ## Samples in score-reader's catalogue
 
 - `mutopia:MozartWA/KV622/MozartK622#2` (techniques 1 to 4)
@@ -90,3 +94,4 @@ None yet.
 
 - score-reader's catalogue, version 20, read from its ready copy: the six movements above.
 - Wikipedia, "Serenade No. 10 (Mozart)": https://en.wikipedia.org/wiki/Serenade_No._10_(Mozart)
+- Wikipedia, "Eine kleine Nachtmusik": https://en.wikipedia.org/wiki/K._525

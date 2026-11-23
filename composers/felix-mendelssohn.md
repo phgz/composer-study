@@ -64,6 +64,10 @@ From piece 64's search of its own lines in the 75 works that could be read: his 
 
 None yet.
 
+## Too well known to borrow
+
+- **The Wedding March** from the music for *A Midsummer Night's Dream*: one of the best-known pieces of that music and one of the most used wedding marches. [Wikipedia, Wedding March]
+
 ## Samples in score-reader's catalogue
 
 - `mutopia:Mendelssohn-BartholdyF/O20/MendelssohnOctet#3` (techniques 1, 5)
@@ -80,3 +84,4 @@ None yet.
 
 - score-reader's catalogue, version 20, read from its ready copy: the four works above.
 - University of Sussex (C. J. Darwin), programme note on the Octet: https://users.sussex.ac.uk/~cjd/WebProgNotes/pdfs/MendelssohnOctet.pdf
+- Wikipedia, "Wedding March (Mendelssohn)": https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)

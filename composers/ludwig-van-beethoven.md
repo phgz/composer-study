@@ -79,6 +79,10 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 - Keep the keynote when the dance comes.
 - Make the hymn loud before its third time.
 
+## Too well known to borrow
+
+- **The opening of the fifth symphony**, four notes, short-short-short-long: called one of the most famous motifs in Western music; in the Second World War the BBC opened broadcasts with it, played on drums, and it went with the "V for Victory" sign (V being five). Three short notes and a long one, loud and together, will be heard as this motif. [Wikipedia, Symphony 5]
+
 ## Samples in score-reader's catalogue
 
 - `dcml/ABC:notes/n15op132_03.notes.tsv` (all of the above)
@@ -94,3 +98,4 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 - score-reader's catalogue, version 20, read from its ready copy: the movement above.
 - Chamber Music Society of Lincoln Center, on op. 132: https://www.chambermusicsociety.org/about-the-music/compositions/beethoven-op-132
 - Wikipedia, "String Quartet No. 15 (Beethoven)": https://en.wikipedia.org/wiki/String_Quartet_No._15_(Beethoven)
+- Wikipedia, "Symphony No. 5 (Beethoven)": https://en.wikipedia.org/wiki/Beethoven_5

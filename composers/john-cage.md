@@ -85,6 +85,10 @@ None yet.
 - Bring an earlier idea back later.
 - Build to a loud place, with one exception.
 
+## Too well known to borrow
+
+- ***4′33″***: called his most famous and most controversial work, three movements in which the performers do not play and the sounds around them are the piece. A long silence written into a piece will be heard as a reference to it (technique 7). [Wikipedia, 4′33″]
+
 ## Samples in score-reader's catalogue
 
 None: no score of his is in score-reader's catalogue.
@@ -100,3 +104,4 @@ Believed from memory, not found in a source read today:
 
 - Pearson Edexcel, teaching notes on *Sonatas and Interludes*, Sonatas I-III: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Music/2013/Teaching%20and%20learning%20materials/Unit%206%20-%2010.%20Cage%20-%20Sonatas%20and%20Interludes%20for%20Prepared%20Piano%20Sonatas%20I-III.pdf
 - Wikipedia, "Works for prepared piano by John Cage": https://en.wikipedia.org/wiki/Works_for_prepared_piano_by_John_Cage
+- Wikipedia, "4′33″": https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3

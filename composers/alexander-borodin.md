@@ -74,6 +74,12 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 - Put the accompaniment's chords on the beat under the tune.
 - End loud, or with a cadence played out: the last thing is a held note.
 
+## Too well known to borrow
+
+- **The Polovtsian Dances** from *Prince Igor*: probably his best-known composition, often played on its own. [Wikipedia, Borodin]
+- **The tunes of the musical *Kismet*** (1953): its score is based extensively on his music, the second string quartet, the second symphony and piano works among it; "Stranger in Paradise", "And This Is My Beloved" and "Baubles, Bangles and Beads" are its songs. The quartet's scherzo gave "Baubles, Bangles and Beads", and many other parts of the quartet were used. [Wikipedia, Borodin; Wikipedia, Quartet 2]
+- **The Notturno** of the second quartet: called the quartet's most famous movement. Its techniques can be used; its tune cannot. [Wikipedia, Quartet 2]
+
 ## Samples in score-reader's catalogue
 
 - `openscore-quartets:Borodin,_Alexander/String_Quartet_No.2/sq10675759.mxl#3` (techniques 1 to 8, 10)
@@ -88,3 +94,5 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 
 - score-reader's catalogue, version 20, read from its ready copy: the Notturno.
 - Wikipedia, "In the Steppes of Central Asia": https://en.wikipedia.org/wiki/In_the_Steppes_of_Central_Asia
+- Wikipedia, "Alexander Borodin": https://en.wikipedia.org/wiki/Borodin
+- Wikipedia, "String Quartet No. 2 (Borodin)": https://en.wikipedia.org/wiki/String_Quartet_No._2_(Borodin)

@@ -84,6 +84,10 @@ None yet.
 - Fill the accompaniment: it stays bare.
 - End in the minor after a sorrowful movement (in the clarinet sonata).
 
+## Too well known to borrow
+
+- **The songs of the Soviet *Winnie-the-Pooh*** (1969): his best-known cartoon score, whose songs entered popular culture in Russia. No other figure of his is called famous by the sources read. [Wikipedia]
+
 ## Samples in score-reader's catalogue
 
 None: no score of his is in score-reader's catalogue.

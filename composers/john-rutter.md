@@ -107,6 +107,10 @@ Forces: the first version for flute, oboe, timpani, glockenspiel, harp, cello an
 - The *Dies irae* in his Requiem: left out, as Fauré and Duruflé left it out.
 - Tunes of wide leaps in the gentle movements. (*Out of the deep* is the exception: chromatic, with skips.)
 
+## Too well known to borrow
+
+- **The *Shepherd's Pipe Carol***: his first published piece, called his signature tune. [blog; Wikipedia, Shepherd's Pipe Carol]
+
 ## Samples in score-reader's catalogue
 
 None: no score of his is in score-reader's catalogue.

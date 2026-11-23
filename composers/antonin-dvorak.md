@@ -77,6 +77,10 @@ From the walk above, read from the score.
 - Change keynote between the slow and the quick.
 - Let the quick part end the first time: it slows into the return.
 
+## Too well known to borrow
+
+- **The Largo's theme from the ninth symphony, "From the New World"**, on the cor anglais: called its famous main theme; made into the song "Goin' Home" (1922), often taken for a folk song, and familiar in Britain from a television advert of 1973. The symphony is among the most popular of all. [Wikipedia, Symphony 9]
+
 ## Samples in score-reader's catalogue
 
 - `openscore-quartets:Dvořák,_Antonín/String_Quartet_No.10,_Op.51/sq9137469.mxl#2` (techniques 2, 3, 4, 5, 7, 8, 9)
@@ -93,3 +97,4 @@ From the walk above, read from the score.
 - score-reader's catalogue, version 20, read from its ready copy: the two movements above.
 - Wikipedia, "Dumka (musical genre)": https://en.wikipedia.org/wiki/Dumka_(musical_genre)
 - Wikipedia, "Furiant": https://en.wikipedia.org/wiki/Furiant
+- Wikipedia, "Symphony No. 9 (Dvořák)": https://en.wikipedia.org/wiki/New_World_Symphony
