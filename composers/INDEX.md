@@ -2,13 +2,14 @@
 
 Written by `study/composers_index.py` from the pages' "Works on" lines; do not edit it by hand. A technique can work on more than one thing and is listed under each. To look for where two composers might meet, read their rows under the same heading. The numbers are the pages' own.
 
-[melody](#melody) (49) · [harmony](#harmony) (51) · [rhythm](#rhythm) (62) · [texture](#texture) (72) · [form](#form) (97) · [loudness](#loudness) (21) · [colour](#colour) (81) · [background](#background) (16)
+[melody](#melody) (53) · [harmony](#harmony) (53) · [rhythm](#rhythm) (63) · [texture](#texture) (73) · [form](#form) (101) · [loudness](#loudness) (21) · [colour](#colour) (89) · [background](#background) (19)
 
 ## melody
 
 *the tune: its notes, steps and leaps, its range*
 
 - **[Alexander Borodin](alexander-borodin.md):** 2. A long note, a quick turn, a long note; 6. The middle is quicker and made of a rising scale; 9. Two tunes heard apart, then together; 10. Grace notes and trills on the singing line
+- **[Alexandre Desplat](alexandre-desplat.md):** 3. A character as one instrument, on a trembling note; 6. A major tune clouded by its flat sixth; 8. A short staccato motif that loses its danger; 9. Themes varied, never only restated
 - **[Antonín Dvořák](antonin-dvorak.md):** 5. A long note thrown across the bar line
 - **[Felix Mendelssohn](felix-mendelssohn.md):** 4. Repeated notes inside the running
 - **[Florence Price](florence-price.md):** 1. Her own tunes in the manner of spirituals, not quotations (Her tunes); 2. Five notes (Her tunes); 3. Swinging thirds, and a sixth that stays (Her tunes); 5. Each start higher (Her tunes); 6. Three lines alike and a fourth (Her tunes)
@@ -30,6 +31,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 *chords, modes and keys, the bass under them*
 
 - **[Alexander Borodin](alexander-borodin.md):** 4. A held note under it
+- **[Alexandre Desplat](alexandre-desplat.md):** 6. A major tune clouded by its flat sixth; 7. A scale with a raised fourth and a lowered second, on the organ
 - **[Antonín Dvořák](antonin-dvorak.md):** 2. One keynote, and the mode flips; 9. The last quick part is the fastest and in the minor
 - **[Eric Whitacre](eric-whitacre.md):** 2. Chords of neighbouring notes that thicken and thin; 3. Chords built in seconds, fourths and fifths; 4. The keynote is avoided for long stretches, and the dominant is softened
 - **[Florence Price](florence-price.md):** 3. Swinging thirds, and a sixth that stays (Her tunes); 8. The tune stays plain; the harmony thickens each time it returns (Her harmony); 9. A lowered seventh on the home chord, leaning into the fourth; then a chain of borrowed dominants to the cadence (Her harmony); 10. An inner voice that creeps over a held bass (Her harmony); 11. Keys a third apart (Her harmony); 12. The close is plagal (Her harmony); 13. A cadence avoided once before it is made (Her harmony); 14. A hymn of her own for the brass choir (The slow movement)
@@ -51,6 +53,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 *note values, metre, accents, speed*
 
 - **[Alexander Borodin](alexander-borodin.md):** 2. A long note, a quick turn, a long note; 3. The accompaniment does not sit on the beat; 6. The middle is quicker and made of a rising scale
+- **[Alexandre Desplat](alexandre-desplat.md):** 11. Suspense by pulse and low woodwinds
 - **[Antonín Dvořák](antonin-dvorak.md):** 3. Slow in two, quick in three-eight; 5. A long note thrown across the bar line; 6. The furiant's count: 2+2+2+3+3; 8. The speed gives and takes; 9. The last quick part is the fastest and in the minor
 - **[Eric Whitacre](eric-whitacre.md):** 10. Slow
 - **[Felix Mendelssohn](felix-mendelssohn.md):** 1. One short note value from end to end; 4. Repeated notes inside the running; 8. Metres
@@ -72,6 +75,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 *how many lines, who has the tune, who accompanies and how*
 
 - **[Alexander Borodin](alexander-borodin.md):** 1. The cello sings first, high, and alone has the tune; 3. The accompaniment does not sit on the beat; 4. A held note under it; 7. The tune comes back in canon at one beat; 9. Two tunes heard apart, then together
+- **[Alexandre Desplat](alexandre-desplat.md):** 5. A cimbalom alone, then the tune
 - **[Antonín Dvořák](antonin-dvorak.md):** 7. How the dance is laid out
 - **[Eric Whitacre](eric-whitacre.md):** 1. A wind sings alone at the start, over almost nothing; 2. Chords of neighbouring notes that thicken and thin; 8. The climax is made by doubling, octaves and suspensions
 - **[Felix Mendelssohn](felix-mendelssohn.md):** 3. The running line changes hands about every three bars; 6. Once, a single violin comes forward
@@ -94,6 +98,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 *sections, their order and length, returns, beginnings and endings*
 
 - **[Alexander Borodin](alexander-borodin.md):** 5. The tune again, two octaves higher; 6. The middle is quicker and made of a rising scale; 7. The tune comes back in canon at one beat; 8. It ends on one high held note; 9. Two tunes heard apart, then together
+- **[Alexandre Desplat](alexandre-desplat.md):** 5. A cimbalom alone, then the tune; 8. A short staccato motif that loses its danger; 9. Themes varied, never only restated; 10. Fragile colours to begin, the full orchestra later
 - **[Antonín Dvořák](antonin-dvorak.md):** 1. A dumka goes suddenly from melancholy to high spirits and back; 2. One keynote, and the mode flips; 4. The quick part is longer than the slow part it interrupts; 9. The last quick part is the fastest and in the minor
 - **[Eric Whitacre](eric-whitacre.md):** 1. A wind sings alone at the start, over almost nothing; 5. One idea, in changing colours; 7. Low instruments held back; 9. One true climax, near the end; 11. It ends by fading; 12. October's layout
 - **[Felix Mendelssohn](felix-mendelssohn.md):** 5. It ends by vanishing; 8. Metres
@@ -135,6 +140,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 *instruments and voices, register, the way of playing*
 
 - **[Alexander Borodin](alexander-borodin.md):** 1. The cello sings first, high, and alone has the tune; 5. The tune again, two octaves higher; 8. It ends on one high held note; 10. Grace notes and trills on the singing line
+- **[Alexandre Desplat](alexandre-desplat.md):** 1. Each film its own sound; 2. One family of woodwinds only; 3. A character as one instrument, on a trembling note; 4. Folk instruments of an imagined country; 5. A cimbalom alone, then the tune; 7. A scale with a raised fourth and a lowered second, on the organ; 10. Fragile colours to begin, the full orchestra later; 11. Suspense by pulse and low woodwinds
 - **[Eric Whitacre](eric-whitacre.md):** 1. A wind sings alone at the start, over almost nothing; 5. One idea, in changing colours; 6. The clarinets are the body of the band; 7. Low instruments held back
 - **[Felix Mendelssohn](felix-mendelssohn.md):** 2. Pianissimo and staccato throughout; 6. Once, a single violin comes forward
 - **[Florence Price](florence-price.md):** 14. A hymn of her own for the brass choir (The slow movement); 15. Drums under the hymn (The slow movement); 16. Woodwinds break in on the hymn (The slow movement); 17. Blocks, one family of instruments at a time, and call and response between families (The slow movement); 19. A sudden flutter upward in the strings (The slow movement); 20. The hymn comes back decorated (The slow movement); 22. Third symphony (The slow movement); 27. Hand drums for the patting; a wind whistle for a joke (The juba); 30. Third symphony (The juba); 34. A short figure handed quickly from bassoon to oboe to flute to clarinet to strings; (Her orchestra (first symphony)); 35. Triplets high in the violins against twos below (Her orchestra (first symphony))
@@ -155,6 +161,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 
 *not a technique: what the composer said, where the works are*
 
+- **[Alexandre Desplat](alexandre-desplat.md):** 12. Not restating what is seen; 13. Not too serious; 14. Where he comes from
 - **[Antonín Dvořák](antonin-dvorak.md):** 10. Where his furiants are; 11. Where his dumkas are
 - **[Eric Whitacre](eric-whitacre.md):** 13. What he said of October
 - **[Felix Mendelssohn](felix-mendelssohn.md):** 7. Where it came from
