@@ -179,7 +179,8 @@ class Memory:
 
 # --- the model ---------------------------------------------------------------------------------------------------------------
 
-VWEIGHT = 0.5                                                   # the vertical view's exponent in the product (held out: see test)
+VWEIGHT = 0.75                                                  # the vertical view's exponent in the product (held out, nested:
+                                                                # checks/vertical-weight-2026-11-23.md; 0.5 with the geometric mean)
 
 
 class Model:
@@ -347,7 +348,8 @@ def sample(model, context, final, length, others=(), lo=None, hi=None, below=Non
 
 
 SAMPLE = dict(short=False, vweight=2.0)                        # how a continuation is drawn (held out: see README)
-SCORE = dict(short=True, vweight=1.0)                          # how its surprise is measured, as the unit's own music's is
+SCORE = dict(short=True, vweight=VWEIGHT)                      # how its surprise is measured, as the unit's own music's is (1.0
+                                                               # with the geometric mean; 0.75 nested, as for all lines)
 
 
 def surprise(levels, context, notes, final, others=()):
