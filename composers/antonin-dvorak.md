@@ -10,18 +10,39 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 
 ## Techniques
 
-1. **A dumka goes suddenly from melancholy to high spirits and back.** The word is a small *duma*, a brooding ballad. Usually slow and dreamy in two; the lively part breaks in. [Wikipedia, Dumka]
-2. **One keynote, and the mode flips.** The quartet's Dumka: slow in G minor, quick in G major, slow in G minor, the slow tune once in G major, then a Presto in G minor. The keynote never moves. **[score: op. 51, second movement]**
-3. **Slow in two, quick in three-eight.** *Andante con moto*, 2/4; *Vivace*, 3/8; and *Presto*, 3/8, to close. **[score: op. 51]**
-4. **The quick part is longer than the slow part it interrupts.** 87 bars slow, 123 quick; then 20 and 22 slow, 50 quick. At the file's speeds the slow parts still last longer. **[score: op. 51]**
-5. **A long note thrown across the bar line.** In the *Vivace* the commonest bar of the first violin is two eighths and a quarter that begins on the last eighth and runs into the next bar (31 such quarters in 123 bars). Next commonest: two sixteenths and an eighth; three eighths. **[score: op. 51]**
-6. **The furiant's count: 2+2+2+3+3.** A fast Bohemian dance in three, whose accents make three groups of two out of the first two bars, then two plain bars. [Wikipedia, Furiant]
+1. **A dumka goes suddenly from melancholy to high spirits and back.** The word is a small *duma*, a brooding ballad. Usually slow and dreamy in two; the lively part breaks in.
+   *How:* a slow, brooding section in two, broken into without warning by a lively one, and back again, more than once.
+   *Where:* the dumkas listed in technique 11. [Wikipedia, Dumka]
+2. **One keynote, and the mode flips.** The quartet's Dumka: slow in G minor, quick in G major, slow in G minor, the slow tune once in G major, then a Presto in G minor. The keynote never moves.
+   *How:* keep one keynote for the whole piece and change only the mode: minor for the slow part, major for the quick, the slow tune once in the major, the last quick part in the minor.
+   *Where:* String Quartet op. 51, second movement (Dumka). **[score: op. 51, second movement]**
+3. **Slow in two, quick in three-eight.** *Andante con moto*, 2/4; *Vivace*, 3/8; and *Presto*, 3/8, to close.
+   *How:* the slow part in 2/4, the quick parts in 3/8, the last the fastest.
+   *Where:* op. 51, second movement. **[score: op. 51]**
+4. **The quick part is longer than the slow part it interrupts.** 87 bars slow, 123 quick; then 20 and 22 slow, 50 quick. At the file's speeds the slow parts still last longer.
+   *How:* give the interrupting quick part more bars than the slow part, but let the slow part last longer in time.
+   *Where:* op. 51, second movement: bars 1 to 87, 88 to 210, 211 to 252, 253 to 302. **[score: op. 51]**
+5. **A long note thrown across the bar line.** In the *Vivace* the commonest bar of the first violin is two eighths and a quarter that begins on the last eighth and runs into the next bar (31 such quarters in 123 bars). Next commonest: two sixteenths and an eighth; three eighths.
+   *How:* in 3/8, a bar of two eighths and then a quarter that starts on the third eighth and is held over into the next bar; mix it with bars of two sixteenths and an eighth, and of three eighths.
+   *Where:* op. 51, second movement, the *Vivace*, first violin. **[score: op. 51]**
+6. **The furiant's count: 2+2+2+3+3.** A fast Bohemian dance in three, whose accents make three groups of two out of the first two bars, then two plain bars.
    *How:* in 3/8, a unit of four bars: accent the first, third and fifth eighths of the first pair of bars, then the first eighth of each of the next two.
-7. **How the dance is laid out** (the *Vivace*'s first sixteen bars): the two violins together in one rhythm, the viola in sixteenths, the cello in steady eighths. **[score: op. 51]**
-8. **The speed gives and takes.** *A tempo* again and again in the slow part; *poco meno mosso* and *poco più mosso* inside the quick one; a slowing over six bars before the slow part returns. **[score: op. 51]**
-9. **The last quick part is the fastest and in the minor.** **[score: op. 51]**
-10. **Where his furiants are:** Slavonic Dances op. 46 nos. 1 and 8; the scherzo of the sixth symphony (bars of 3/4 and 3/2 by turns); the third movements of the seventh and ninth symphonies; the last movement of the violin concerto, whose middle is a dumka. [Wikipedia, Furiant; Wikipedia, Dumka] The seventh's is written in 6/4, where two threes and three twos fill the same bar. **[score: Symphony no. 7, third movement]**
-11. **Where his dumkas are:** op. 35 and op. 12 for piano, the sextet op. 48, the quartet op. 51, the piano quintet op. 81, three of the Slavonic Dances, and the *Dumky* Trio op. 90, six movements that are each one. [Wikipedia, Dumka]
+   *Where:* the furiants listed in technique 10. [Wikipedia, Furiant]
+7. **How the dance is laid out** (the *Vivace*'s first sixteen bars): the two violins together in one rhythm, the viola in sixteenths, the cello in steady eighths.
+   *How:* in a quick dance for four, the two highest in the same rhythm, one inner part running in quicker notes, the bass in steady notes.
+   *Where:* op. 51, second movement, the first sixteen bars of the *Vivace* (from bar 88). **[score: op. 51]**
+8. **The speed gives and takes.** *A tempo* again and again in the slow part; *poco meno mosso* and *poco più mosso* inside the quick one; a slowing over six bars before the slow part returns.
+   *How:* let the speed ease and return often in the slow part, slow a little and quicken a little inside the quick one, and slow down over several bars before the slow part comes back.
+   *Where:* op. 51, second movement; the slowing comes before the slow part returns at bar 211. **[score: op. 51]**
+9. **The last quick part is the fastest and in the minor.**
+   *How:* make the final quick part faster than the first one and put it in the minor.
+   *Where:* op. 51, second movement, the *Presto* (bars 253 to 302). **[score: op. 51]**
+10. **Where his furiants are:** Slavonic Dances op. 46 nos. 1 and 8; the scherzo of the sixth symphony (bars of 3/4 and 3/2 by turns); the third movements of the seventh and ninth symphonies; the last movement of the violin concerto, whose middle is a dumka. The seventh's is written in 6/4, where two threes and three twos fill the same bar.
+    *How:* a list of places to read; in 6/4, two threes and three twos can share one bar.
+    *Where:* as listed; the seventh symphony's third movement read in score. [Wikipedia, Furiant; Wikipedia, Dumka] **[score: Symphony no. 7, third movement]**
+11. **Where his dumkas are:** op. 35 and op. 12 for piano, the sextet op. 48, the quartet op. 51, the piano quintet op. 81, three of the Slavonic Dances, and the *Dumky* Trio op. 90, six movements that are each one.
+    *How:* a list of places to read.
+    *Where:* as listed. [Wikipedia, Dumka]
 
 ## Walks through whole works
 

@@ -12,33 +12,63 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 
 ### The dance on one bass note
 
-1. **A whole dance over a bass that does not move.** The first rigaudon of the sailors is sixteen bars on a single low G: the bottom part plays nothing else. It is not held; it is struck again in a slow pattern of its own, long, short, short (a whole bar, then two halves), over and over. **[score: rigaudon 1]**
+1. **A whole dance over a bass that does not move.** The first rigaudon of the sailors is sixteen bars on a single low G: the bottom part plays nothing else. It is not held; it is struck again in a slow pattern of its own, long, short, short (a whole bar, then two halves), over and over.
    *How:* give the lowest part the keynote only, restruck every two bars as long-short-short, and write the whole dance over it.
-2. **The second dance of the pair sits on the fifth.** The second rigaudon is in the minor and its bass stays on D, the fifth of its key, for two bars in three. **[score: rigaudon 2]**
-3. **A drum made of the keynote and its fifth.** In *Tambourin* the left hand strikes the keynote, the fifth and the octave together (E, B, E) every half bar; those two notes are three quarters of everything the bass plays. The dance is named for the drum it imitates: a Provençal drum played by one person together with a small pipe. **[score: Tambourin; Wikipedia, Tambourin]**
-   *How:* an open fifth hammered on every beat, low; the tune high above it, piping.
+   *Where:* *Hippolyte et Aricie*, the sailors' first rigaudon (16 bars). **[score: rigaudon 1]**
+2. **The second dance of the pair sits on the fifth.** The second rigaudon is in the minor and its bass stays on D, the fifth of its key, for two bars in three.
+   *How:* in the second dance of a pair, keep the bass on the fifth of the key for most of the bars.
+   *Where:* *Hippolyte et Aricie*, the sailors' second rigaudon. **[score: rigaudon 2]**
+3. **A drum made of the keynote and its fifth.** In *Tambourin* the left hand strikes the keynote, the fifth and the octave together (E, B, E) every half bar; those two notes are three quarters of everything the bass plays. The dance is named for the drum it imitates: a Provençal drum played by one person together with a small pipe.
+   *How:* an open fifth hammered low on every beat; the tune high above it, piping.
+   *Where:* *Tambourin*, from the harpsichord book of 1724, the left hand. **[score: Tambourin; Wikipedia, Tambourin]**
 
 ### Pairs
 
-4. **Dances come in twos: the first in the major, the second in the minor on the same keynote.** Gavottes in D major and D minor, and in A major and A minor; menuets in E major and E minor; rigaudons in G major and G minor. His harpsichord suites are grouped the same way, by keynote, major with minor. **[score: all four pairs; Wikipedia, Rameau]**
-5. **The second is usually thinner.** Six parts, then five; five, then four; and one second menuet for two parts only. **[score]**
-6. **They are short.** Ten to thirty-eight bars each; the first gavotte of Act I is ten bars. **[score]**
+4. **Dances come in twos: the first in the major, the second in the minor on the same keynote.** Gavottes in D major and D minor, and in A major and A minor; menuets in E major and E minor; rigaudons in G major and G minor. His harpsichord suites are grouped the same way, by keynote, major with minor.
+   *How:* write dances in pairs on one keynote: the first in the major, the second in the minor.
+   *Where:* *Hippolyte et Aricie*: the two pairs of gavottes, the menuets, the rigaudons; the harpsichord suites. **[score: all four pairs; Wikipedia, Rameau]**
+5. **The second is usually thinner.** Six parts, then five; five, then four; and one second menuet for two parts only.
+   *How:* score the second dance of a pair with fewer parts than the first, sometimes only two.
+   *Where:* *Hippolyte et Aricie*, the pairs of technique 4 (one second menuet in two parts). **[score]**
+6. **They are short.** Ten to thirty-eight bars each; the first gavotte of Act I is ten bars.
+   *How:* keep each dance between about ten and forty bars.
+   *Where:* *Hippolyte et Aricie*; the first gavotte of Act I (ten bars). **[score]**
 
 ### How a dance is built
 
-7. **A bar that moves, a bar that lands.** In the first rigaudon the tune has a long note in every second bar, all eight times: a bar of quick notes, then a note that stays. **[score: rigaudon 1]**
-8. **A rondeau: a refrain of eight bars, and couplets made of two-bar cells said twice.** *Tambourin* is refrain, couplet, refrain, couplet, refrain, couplet, refrain. The refrain is four bars said twice, the second time with another ending. Each couplet is a two-bar cell, the same again, then a one-bar cell two or three times and a close. The last refrain is cut short. **[score: Tambourin]**
-9. **It begins on repeated notes.** The first rigaudon's tune starts by repeating one note with a turn around it; the first menuet of Act IV starts with the same note five times in every part at once. **[score]**
-10. **By step.** In the dances in two, three notes in four move by step (in the menuets of Act V, three in five); leaps wider than a fourth are about one in ten. The exception is *Les Sauvages*, whose tune climbs through chords: a half note and four eighths, in 29 of its 80 bars. **[score]**
-11. **Rhythms by dance.** Duple dances are in two beats to the bar. Rigaudon and tambourin: two eighths, a quarter, a longer note; or four eighths and two quarters. Gavotte: dotted quarter, eighth, half. Second rigaudon: a quarter and a dotted half. Menuet: a quarter and four eighths, and a single note filling the bar where a phrase ends. **[score]**
-12. **The tune doubled a fifth or an octave below in its own rhythm, the middle parts holding.** In the first rigaudon the fourth part shadows the tune note for note, lower, and the two parts between hold long notes, a third or a sixth from the tune. **[score: rigaudon 1]**
-13. **The chaconne begins on the second beat and changes from minor to major inside itself.** 121 bars in three, ten parts. **[score: Chaconne, Act V]**
+7. **A bar that moves, a bar that lands.** In the first rigaudon the tune has a long note in every second bar, all eight times: a bar of quick notes, then a note that stays.
+   *How:* alternate a bar of quick notes with a bar of one long note, through the whole tune.
+   *Where:* *Hippolyte et Aricie*, the sailors' first rigaudon. **[score: rigaudon 1]**
+8. **A rondeau: a refrain of eight bars, and couplets made of two-bar cells said twice.** *Tambourin* is refrain, couplet, refrain, couplet, refrain, couplet, refrain. The refrain is four bars said twice, the second time with another ending. Each couplet is a two-bar cell, the same again, then a one-bar cell two or three times and a close. The last refrain is cut short.
+   *How:* a refrain of four bars said twice (with a new ending the second time), between couplets built from a two-bar cell said twice and a one-bar cell said two or three times before a close; four refrains, the last shortened.
+   *Where:* *Tambourin*, as a whole. **[score: Tambourin]**
+9. **It begins on repeated notes.** The first rigaudon's tune starts by repeating one note with a turn around it; the first menuet of Act IV starts with the same note five times in every part at once.
+   *How:* start the tune by repeating one note, alone or with a turn around it, sometimes in every part together.
+   *Where:* the sailors' first rigaudon; the first menuet of Act IV of *Hippolyte et Aricie*. **[score]**
+10. **By step.** In the dances in two, three notes in four move by step (in the menuets of Act V, three in five); leaps wider than a fourth are about one in ten. The exception is *Les Sauvages*, whose tune climbs through chords: a half note and four eighths, in 29 of its 80 bars.
+    *How:* move the tune mostly by step, with about one leap wider than a fourth in ten moves; for a wilder dance, let it climb through the notes of the chord.
+    *Where:* the dances in two of *Hippolyte et Aricie*; the menuets of Act V; *Les Sauvages* for the exception. **[score]**
+11. **Rhythms by dance.** Duple dances are in two beats to the bar. Rigaudon and tambourin: two eighths, a quarter, a longer note; or four eighths and two quarters. Gavotte: dotted quarter, eighth, half. Second rigaudon: a quarter and a dotted half. Menuet: a quarter and four eighths, and a single note filling the bar where a phrase ends.
+    *How:* use the rhythm that belongs to each dance, as listed, and keep it through the dance.
+    *Where:* the rigaudons, gavottes and menuets of *Hippolyte et Aricie*; *Tambourin*. **[score]**
+12. **The tune doubled a fifth or an octave below in its own rhythm, the middle parts holding.** In the first rigaudon the fourth part shadows the tune note for note, lower, and the two parts between hold long notes, a third or a sixth from the tune.
+    *How:* double the tune a fifth or an octave lower in the same rhythm, and let the parts in between hold long notes a third or a sixth from it.
+    *Where:* the sailors' first rigaudon. **[score: rigaudon 1]**
+13. **The chaconne begins on the second beat and changes from minor to major inside itself.** 121 bars in three, ten parts.
+    *How:* a long piece in three for many parts, its phrases starting on the second beat, turning from minor to major partway through.
+    *Where:* *Hippolyte et Aricie*, the Chaconne of Act V. **[score: Chaconne, Act V]**
 
 ### What the sources add
 
-14. **Rigaudon:** a lively dance in two from the south of France, like a simpler bourrée, in regular phrases, most often of eight bars. [Wikipedia, Rigaudon]
-15. **Gavotte:** moderate, in two, elegant, in two halves each repeated, often in a pair, much used in his operas. **Menuet:** in three, graceful, in two halves. [Western Michigan University]
-16. **He strung dances together in great numbers:** gavottes, menuets, loures, rigaudons, passepieds, tambourins, musettes. Dancers said he knew what they needed before they did. He reused his harpsichord dances in his operas, reworked, not copied: *La Musette* and *Le Tambourin* of 1724 return in *Les Fêtes d'Hébé*. [Wikipedia, Rameau]
+14. **Rigaudon:** a lively dance in two from the south of France, like a simpler bourrée, in regular phrases, most often of eight bars.
+    *How:* lively, in two, in regular phrases of eight bars.
+    *Where:* the rigaudon as a dance type. [Wikipedia, Rigaudon]
+15. **Gavotte:** moderate, in two, elegant, in two halves each repeated, often in a pair, much used in his operas. **Menuet:** in three, graceful, in two halves.
+    *How:* a gavotte: moderate, in two, two halves each repeated; a menuet: graceful, in three, two halves.
+    *Where:* the gavotte and the menuet as dance types; his operas. [Western Michigan University]
+16. **He strung dances together in great numbers:** gavottes, menuets, loures, rigaudons, passepieds, tambourins, musettes. Dancers said he knew what they needed before they did. He reused his harpsichord dances in his operas, reworked, not copied: *La Musette* and *Le Tambourin* of 1724 return in *Les Fêtes d'Hébé*.
+    *How:* a scene can be a chain of short dances of different types; a dance can be reworked for another setting rather than copied.
+    *Where:* his operas; *La Musette* and *Le Tambourin* (1724) in *Les Fêtes d'Hébé*. [Wikipedia, Rameau]
 
 ## Walks through whole works
 

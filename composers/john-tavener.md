@@ -47,9 +47,12 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
    *Where:* *The Lamb*; the *Magnificat* is unmetred too. [Pearson; Lorenz]
 
 10. **A narrow tune.** About six notes of range, by step, with thirds; long arching lines made from the formulas of a mode, not from a scale run. One of his own modes is two identical halves: half step, augmented second, half step, twice.
+    *How:* keep a tune within about six notes, moving by step and third, and build long lines from a few repeated turns of the mode; for his mode, use two identical four-note halves (half step, augmented second, half step).
     *Where:* *We Shall See Him As He Is* (that mode, on D); the *Magnificat*'s opening motive turns around an augmented second. [Imrie; Lorenz]
 
-11. **A solo instrument as a voice that never stops.** In *The Protecting Veil* the cello is the Mother of God and "never stops singing"; the strings are an extension of her song. Eight continuous sections on the eight Byzantine tones, one of them for the cello alone, the last returning to the first. [His programme note]
+11. **A solo instrument as a voice that never stops.** In *The Protecting Veil* the cello is the Mother of God and "never stops singing"; the strings are an extension of her song. Eight continuous sections on the eight Byzantine tones, one of them for the cello alone, the last returning to the first.
+    *How:* give one solo instrument a line that sings almost without a rest from beginning to end, the others extending its song; build the piece from continuous sections, each in its own mode, one for the solo alone, and let the last return to the first.
+    *Where:* *The Protecting Veil*, as a whole. [His programme note]
 
 ## Walks through whole works
 
