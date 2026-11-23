@@ -87,6 +87,11 @@ A narrow unit is a composer in one kind of piece and one period: Chopin's mazurk
   - Harmony is measured only where analysts labelled it: 1,868 works by 57 composers, most of them by a few: J. S. Bach (522), Beethoven, Corelli, Couperin, Scarlatti, Grieg, C. P. E. Bach, Mozart, Chopin. Harmony inferred from the notes, for the rest, is not done; it would need its accuracy measured against these labels first, and marking as inferred.
   - Analysts differ: DCML's and When in Rome's labels follow different conventions in places (how a cadential six-four is named, how long a key lasts), so a unit labelled by one is set partly against works labelled by the other.
 
+## Composers' pages (read, not measured)
+
+- **`composers/`**: one page a composer, written by hand from scores read by measurement and from sources: numbered techniques as recipes, walks through whole works, numbers, what the composer does not do, samples in the catalogue, sources. Moved from composer-blend on 23 November 2026, so that everything about a composer is in one place; what composer-blend made from each page stays there.
+- A page and a profile share their file name. The profile is generated; the page never is. `composers/README.md` gives the layout and the rules.
+
 ## Continuations
 
 `study/continuations.py` proposes ways to carry a line on in a narrow unit's manner, for a draft to choose from: most often an inner voice under a melody and over a bass that are already written.
