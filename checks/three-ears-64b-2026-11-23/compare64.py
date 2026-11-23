@@ -6,13 +6,14 @@
      between two ears over a segment's proposals, the median over segments);
   3. AMT's ear on the 29 held-out works beside ours and NotaGen's, on the same inner notes (checks/notagen-ear-2026-11-23).
 
-Run: python3 -I compare64.py (beside notes64.json and the scores: notagen64_scores.jsonl, amt_large_scores.jsonl,
-amt_medium_scores.jsonl); writes compare64.json"""
+Run: python3 -I compare64.py (beside notes64.json and the scores: notagen64_scores.jsonl, notagen64_finetune_scores.jsonl,
+amt_large_scores.jsonl, amt_medium_scores.jsonl, those there); writes compare64.json"""
 import json, os
 import numpy as np
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-EARS = {'NotaGen': 'notagen64_scores.jsonl', 'AMT Large': 'amt_large_scores.jsonl', 'AMT Medium': 'amt_medium_scores.jsonl'}
+EARS = {'NotaGen': 'notagen64_scores.jsonl', 'NotaGen fine-tuned': 'notagen64_finetune_scores.jsonl',
+        'AMT Large': 'amt_large_scores.jsonl', 'AMT Medium': 'amt_medium_scores.jsonl'}     # an ear without its scores is left out
 meta = json.load(open(os.path.join(HERE, 'notes64.json')))
 scores = {}
 for ear, f in EARS.items():
@@ -38,7 +39,7 @@ res = dict(chosen={}, proposals={}, agreement={}, works={})
 
 # 1 -------------------------------------------------------------------------------------------------------------------------------
 for ear in scores:
-    if ear == 'NotaGen':
+    if ear.startswith('NotaGen'):
         a, t = pitch_bits(ear, '64b chosen alto'), pitch_bits(ear, '64b chosen tenor')
         res['chosen'][ear] = dict(alto=float(np.mean(a)), tenor=float(np.mean(t)), both=float(np.mean(a + t)), notes=len(a) + len(t))
     else:
@@ -78,7 +79,7 @@ for i, a in enumerate(judges):
 ear_dir = os.path.join(HERE, '..', 'notagen-ear-2026-11-23')
 ours = json.load(open(os.path.join(ear_dir, 'ours.json')))['works']
 ng = {x['id']: x for x in map(json.loads, open(os.path.join(ear_dir, 'scores.jsonl')))}
-for ear in [e for e in scores if e != 'NotaGen']:
+for ear in [e for e in scores if not e.startswith('NotaGen')]:
     per = []
     for w in meta['works']:
         o = ours[w['id']]; at = {(n['part'], n['i']): (n['ours'], b[0] + b[1]) for n, b in zip(o['notes'], ng[w['id']]['bits']) if n['inner']}
