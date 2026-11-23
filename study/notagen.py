@@ -204,12 +204,22 @@ class Voice:
         """the bar's notes: [(first character, last character of the pitch, onset in quarters, MIDI, tied from before, chord, layer)],
         and its length. A chord is its highest note (the line's skyline); grace notes, decorations, annotations are passed over;
         "&" begins a layer over the bar (its notes are another layer's)"""
-        acc = {}; out = []; t = F(0); i = 0; n = len(text); tup = None; layer = 0; longest = F(0)
+        acc = {}; out = []; t = F(0); i = 0; n = len(text); tup = None; layer = 0; longest = F(0); broken = [F(1)]
 
         def step(d):
             nonlocal tup
             if tup: d *= tup[0]; tup[1] -= 1; tup = tup if tup[1] > 0 else None
+            d *= broken[0]; broken[0] = F(1)
             return d
+
+        def rhythm(d, at):
+            """a broken rhythm after a note ('>' dots it and halves the next, '>>' double-dots it, '<' the other way): (its length,
+            where the text goes on)"""
+            m = re.match(r'(>+|<+)', text[at:])
+            if not m: return d, at
+            k = len(m.group(1)); short = F(1, 2 ** k)
+            if m.group(1)[0] == '>': broken[0] = short; return d * (2 - short), at + k
+            broken[0] = 2 - short; return d * short, at + k
 
         def pitch(m):
             a, letter, octs = m.groups()
@@ -246,16 +256,21 @@ class Voice:
                 if ps:
                     top = max(range(len(ps)), key=lambda k: ps[k])
                     out.append((i + 1 + ms[top].start(), i + 1 + ms[top].end() - 1, t, ps[top], self.tied, True, layer))
-                t += d; i = j + 1 + len(after); self.tied = i < n and text[i] == '-'; continue
+                i = j + 1 + len(after); self.tied = i < n and text[i] == '-'
+                d, i = rhythm(d, i + self.tied) if re.match(r'[<>]', text[i + self.tied:i + self.tied + 1]) else (d, i)
+                t += d; continue
             if c in 'zxZX':
                 m = re.match(r'[zxZX]' + LEN_RE.pattern, text[i:])
-                if c in 'zx': t += step(length(m.group(0)[1:], self.unit))
-                i += len(m.group(0)); self.tied = False; continue
+                i += len(m.group(0)); self.tied = False
+                if c in 'zx': d, i = rhythm(step(length(m.group(0)[1:], self.unit)), i); t += d
+                continue
             m = NOTE_RE.match(text, i)
             if m:
                 mm = pitch(m); dur = LEN_RE.match(text, m.end()).group(0)
-                out.append((i, m.end() - 1, t, mm, self.tied, False, layer)); t += step(length(dur, self.unit))
-                i = m.end() + len(dur); self.tied = i < n and text[i] == '-'; continue
+                out.append((i, m.end() - 1, t, mm, self.tied, False, layer))
+                i = m.end() + len(dur); self.tied = i < n and text[i] == '-'; d = step(length(dur, self.unit))
+                d, i = rhythm(d, i + self.tied) if re.match(r'[<>]', text[i + self.tied:i + self.tied + 1]) else (d, i)
+                t += d; continue
             i += 1
         return out, max(longest, t)
 
@@ -269,6 +284,17 @@ def prepare(work_id, prompt, cache, xml2abc, score_reader):
     if not src: return 'no source'
     try: std = standard_abc(src, mv, xml2abc, score_reader)
     except Exception as e: return f'conversion: {type(e).__name__}: {e}'[:200]
+    return prepare_abc(std, prompt)
+
+
+def prepare_xml(xml, prompt, xml2abc):
+    """a MusicXML file of our own (a piece of the repertoire) in NotaGen's notation, as prepare() makes a work's"""
+    out = subprocess.run([sys.executable, '-I', xml2abc, '-d', '8', '-c', '6', '-x', xml], capture_output=True, text=True, timeout=600)
+    return prepare_abc(out.stdout, prompt)
+
+
+def prepare_abc(std, prompt):
+    """standard ABC (xml2abc's) in NotaGen's notation: as prepare(), or a reason it could not be"""
     if 'V:' not in std: return 'xml2abc wrote no voices'
     try: md, body = notagen_lines(std)
     except Exception as e: return f'cleaning: {type(e).__name__}: {e}'[:200]
@@ -334,3 +360,21 @@ def scoring_input(meta, body, wanted):
         wi, f = where[k]; pa, qa = place(lines[k][1], a); pb, qb = place(lines[k][1], b)
         notes.append((wi, (f + pa) * PATCH_SIZE + qa, (f + pb) * PATCH_SIZE + qb))
     return dict(windows=out_w, notes=notes)
+
+
+def scoring_window_ending(meta, body, wanted):
+    """one window for the notes `wanted` [(line, first char, last char)], ending with the line of the last and reaching back as far
+    as 1024 patches allow: {'windows': [patches], 'notes': [(0, first, last character)]}"""
+    head = [chr(BOS) * (PATCH_SIZE - 1) + chr(EOS)] + [p for l in meta for p in split_patches(l)]
+    lines = [line_patches(l) for l in tagged(body)]
+    e = max(k for k, _, _ in wanted) + 1; s = e; total = len(head) + (1 if e == len(body) else 0)
+    while s > 0 and total + len(lines[s - 1][0]) <= PATCH_LENGTH: s -= 1; total += len(lines[s][0])
+    if min(k for k, _, _ in wanted) < s: raise ValueError('the notes do not fit one window')
+    pts = list(head); first = {}
+    for k in range(s, e): first[k] = len(pts); pts += lines[k][0]
+    if e == len(body): pts.append(chr(BOS) + chr(EOS) * (PATCH_SIZE - 1))
+    notes = []
+    for k, a, b in wanted:
+        pa, qa = place(lines[k][1], a); pb, qb = place(lines[k][1], b)
+        notes.append((0, (first[k] + pa) * PATCH_SIZE + qa, (first[k] + pb) * PATCH_SIZE + qb))
+    return dict(windows=[pts], notes=notes)
