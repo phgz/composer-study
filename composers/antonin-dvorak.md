@@ -16,6 +16,7 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
    *Where:* the dumkas listed in technique 11. [Wikipedia, Dumka]
 2. **One keynote, and the mode flips.** The quartet's Dumka: slow in G minor, quick in G major, slow in G minor, the slow tune once in G major, then a Presto in G minor. The keynote never moves.
    *Works on:* harmony, form.
+   *Why:* the keynote stays, so the change of mood is made by the mode alone. **[score: op. 51, second movement]**
    *How:* keep one keynote for the whole piece and change only the mode: minor for the slow part, major for the quick, the slow tune once in the major, the last quick part in the minor.
    *Where:* String Quartet op. 51, second movement (Dumka). **[score: op. 51, second movement]**
 3. **Slow in two, quick in three-eight.** *Andante con moto*, 2/4; *Vivace*, 3/8; and *Presto*, 3/8, to close.
@@ -28,10 +29,12 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
    *Where:* op. 51, second movement: bars 1 to 87, 88 to 210, 211 to 252, 253 to 302. **[score: op. 51]**
 5. **A long note thrown across the bar line.** In the *Vivace* the commonest bar of the first violin is two eighths and a quarter that begins on the last eighth and runs into the next bar (31 such quarters in 123 bars). Next commonest: two sixteenths and an eighth; three eighths.
    *Works on:* melody, rhythm.
+   *Why:* the long note begins on the bar's last eighth and runs over the bar line, so the weight falls where the metre has none. **[score: op. 51]**
    *How:* in 3/8, a bar of two eighths and then a quarter that starts on the third eighth and is held over into the next bar; mix it with bars of two sixteenths and an eighth, and of three eighths.
    *Where:* op. 51, second movement, the *Vivace*, first violin. **[score: op. 51]**
 6. **The furiant's count: 2+2+2+3+3.** A fast Bohemian dance in three, whose accents make three groups of two out of the first two bars, then two plain bars.
    *Works on:* rhythm.
+   *Why:* the irregular accents are what make its rhythm wild; the dancer's jumps and stamps follow them. [Wikipedia, Furiant]
    *How:* in 3/8, a unit of four bars: accent the first, third and fifth eighths of the first pair of bars, then the first eighth of each of the next two.
    *Where:* the furiants listed in technique 10. [Wikipedia, Furiant]
 7. **How the dance is laid out** (the *Vivace*'s first sixteen bars): the two violins together in one rhythm, the viola in sixteenths, the cello in steady eighths.

@@ -12,51 +12,61 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
 
 1. **The ison: a note that does not move.** A drone under everything, taken from Byzantine chant; he called it the eternity note.
    *Works on:* harmony, texture.
+   *Why:* a sign of timelessness, the divine always there; it also anchors the key and keeps a sound going where there is little accompaniment. [Imrie; Lorenz]
    *How:* hold one pitch (or a fifth, a triad, a cluster) for a whole section or a whole piece, and write the tune against it, not chords. Change its scoring from verse to verse (one octave, three octaves, the basses). It may move once, late: rise by step, or sink a third.
    *Where:* *Song for Athene* (throughout), *Magnificat* (on A, scored differently each verse), *The Uncreated Eros* (E-B-E for the whole work), *Nunc Dimittis* (moves from D to B). Not every piece has one: *The Lamb* does not. [Imrie; Lorenz; Wikipedia on *Song for Athene*]
 
 2. **A short tune and its exact mirror, sung together.** The second voice is the first one upside down, interval for interval, note against note. The mirror lands on notes outside the tune's key, so two keys sound at once and half steps rub between the voices.
    *Works on:* melody, harmony.
+   *Why:* the strict mirror makes two keys sound at once (in *The Lamb*, G major and E flat major) on one tonal ground; its clashes give brief colour and tension against the smooth, stepwise tune. [Pearson]
    *How:* write a cell of a few notes, by step and third. Give a second voice its exact inversion from the same starting note, in the same rhythm. Then join the notes of both into one longer line; play that line backwards; then the line with its mirror; then both backwards. After that, harmonise the first tune plainly, in four parts, as if nothing had happened.
    *Where:* *The Lamb*: the whole piece is made from its first two bars this way, in seven notes. [Pearson]
 
 3. **Palindromes.** Forms that read the same backwards (ABA, ABCBA), tunes that do, and word orders that do. He took the idea from Webern.
    *Works on:* melody, form.
+   *Why:* a symmetrical, circular shape that ends where it began, static as an icon is. [Imrie]
    *How:* build the piece outward from its middle; let the last section be the first. A counter-melody can be a palindrome of 49 notes, sung in canon with itself.
    *Where:* *Eonia*, *God is with Us* (ABCBA), *Nunc Dimittis*, *Hymn to the Mother of God* (ABA), the *Magnificat*'s second verse. [Imrie; Lorenz]
 
 4. **Canon as a texture, not as an argument.** Voices follow each other on the same line, sometimes at half speed, and what is heard is a slowly turning chord.
    *Works on:* texture.
+   *Why:* a dense, overlapping sound in place of a working-out, and a sense of tradition. [Imrie; Lorenz]
    *How:* two inner voices in canon on a four-note motive; around them, the outer voices in canon with every length doubled; space all the voices evenly around the middle pair. Or: two choirs singing the same block chords, one after the other.
    *Where:* *Magnificat*, third verse; *Hymn to the Mother of God*. [Lorenz; Imrie]
 
 5. **Parallel triads in place of harmony.** Whole triads slide up and down with the tune, in root position. Nothing resolves; the chord is a thickening of the line.
    *Works on:* harmony, texture.
+   *Why:* moving in parallel, the voices lose their independence and sound as one voice made rich, as an organ stop colours a single note; the harmony comes from the line. [Lorenz; Imrie]
    *How:* put a triad under every note of a line. All major, or alternating major and minor. Let a single line split into triads halfway through a phrase. Let two triads a step apart rock back and forth and then close on a third one; repeat a step lower.
    *Where:* the refrains of the *Magnificat* and of the *Ode of St Andrew of Crete*, *Nunc Dimittis*, *Hymn to the Mother of God*. [Imrie; Lorenz]
 
 6. **The same thing in major and in minor, side by side, with no way between.** One or two notes of a tune are changed and it is in another mode. He does not modulate.
    *Works on:* harmony.
+   *Why:* the change of mode colours without changing the key: there is no way to modulate, so the change is abrupt. [Imrie]
    *How:* state a phrase; state it again with its third (or sixth) changed; put the two next to each other with nothing in between. Or hold a drone and let the chord over it turn from minor to major and back.
    *Where:* *The Uncreated Eros* (one theme in two Byzantine tones by turns), *Eonia* (C minor outside, C major in the middle), *Ode of St Andrew of Crete*. [Imrie]
 
 7. **Blocks, not transitions; refrains; ending where it began.** Sections stand side by side like the flat colours of an icon. A refrain comes back unchanged between verses. Many pieces end on their opening, not on a new place. There is often no climax, or exactly one.
    *Works on:* form.
+   *Why:* clear, static structures; ending on the opening, with no climax at the close, is like an icon, which asks nothing of the mind. [Imrie]
    *How:* decide the blocks and their order first. Put them side by side with nothing between, or a silence; never a bridge. Bring the refrain back note for note. Put the one loud place late.
    *Where:* *Song for Athene* (six alleluias, each before a text, the loudest place after the sixth, a seventh alleluia to close), *Magnificat*, *Annunciation*. [Wikipedia; Imrie]
 
 8. **Growth by adding voices, not by developing.** The same chord or the same tune again, with more parts.
    *Works on:* texture, form.
+   *Why:* the themes are few, so the variety comes from the scoring; in the *Magnificat* the chord growing from three voices to eight is the magnifying of Mary. [Imrie; Lorenz]
    *How:* three voices on one triad become eight; a refrain in six parts comes back in thirteen. First statement: one voice over the drone. Second: the same with its mirror, a fourth below. Third: the same, very soft, the triads split over seven parts.
    *Where:* *Magnificat*; *Hymn for the Dormition of the Mother of God*. [Lorenz; Imrie]
 
 9. **Even notes without a metre, a long note at the end of each line.** No time signature; one line of text is one bar; the note values are nearly all the same, and the last of a line is longer. At the end everything is twice as slow.
    *Works on:* melody, rhythm.
+   *Why:* the music follows the words, not a metre ("always guided by the words"); the long notes weigh the ends of the lines, and the whole has the manner of chant. [Pearson; Lorenz]
    *How:* six or seven even eighths and a quarter, a line. For the last line, double every length.
    *Where:* *The Lamb*; the *Magnificat* is unmetred too. [Pearson; Lorenz]
 
 10. **A narrow tune.** About six notes of range, by step, with thirds; long arching lines made from the formulas of a mode, not from a scale run. One of his own modes is two identical halves: half step, augmented second, half step, twice.
     *Works on:* melody.
+    *Why:* Byzantine melody is built from a mode's formulas, not from a scale, and that gives the tunes their Byzantine character. [Imrie]
     *How:* keep a tune within about six notes, moving by step and third, and build long lines from a few repeated turns of the mode; for his mode, use two identical four-note halves (half step, augmented second, half step).
     *Where:* *We Shall See Him As He Is* (that mode, on D); the *Magnificat*'s opening motive turns around an augmented second. [Imrie; Lorenz]
 

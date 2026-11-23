@@ -23,3 +23,20 @@ def test_every_technique_has_its_recipe_and_its_place():
 def test_the_index_is_up_to_date():
     current = open(I.INDEX, encoding='utf-8').read()
     assert current == I.render(I.pages()), 'run python3 -m study.composers_index'
+
+
+def test_a_why_is_optional_single_and_sourced():
+    import re
+    for f in os.listdir(I.PAGES):
+        if f in ('README.md', 'INDEX.md') or not f.endswith('.md'): continue
+        text = open(os.path.join(I.PAGES, f), encoding='utf-8').read()
+        a = text.index('## Techniques\n'); b = text.index('\n## ', a + 1)
+        for block in re.split(r'(?m)^(?=\d+\. )', text[a:b])[1:]:
+            n = block.split('.', 1)[0]
+            whys = re.findall(r'(?m)^ {3,4}\*Why:\*(.*)$', block)
+            assert len(whys) <= 1, (f, n)
+            for w in whys:
+                assert re.search(r'\[[^\]]+\]\**\s*$', w), (f, n, 'a Why ends with its source or score mark')
+            if whys:
+                order = [m.group(1) for m in re.finditer(r'(?m)^ {3,4}\*(Works on|Why|How|Where):\*', block)]
+                assert order == ['Works on', 'Why', 'How', 'Where'], (f, n, order)

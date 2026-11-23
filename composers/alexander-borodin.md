@@ -12,6 +12,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 
 1. **The cello sings first, high, and alone has the tune.** For the first 23 bars the first violin is silent; the cello has the tune between B3 and A4, marked solo, singing and expressive.
    *Works on:* texture, colour.
+   *Why:* the first violin's silence keeps its sound back for bar 24, where its first notes are the tune again, two octaves higher (technique 5). **[score: Notturno]**
    *How:* give the first statement of the tune to the cello in the top of its range (a sixth or a seventh between its lowest and highest notes), and keep the highest instrument silent until the tune is over, so that the cello is the top voice.
    *Where:* Notturno, bars 1 to 23. **[score: Notturno]**
 2. **A long note, a quick turn, a long note.** The tune's bars go: a note of two beats; then three or four quick notes circling the next one (a triplet, or four sixteenths going back and forth) and a note of two beats again. Six in ten of its moves are steps; nearly three in ten are leaps of a fourth or more, most of them a fall of a fourth and back (E, B, E).
@@ -24,6 +25,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* Notturno, second violin and viola, bars 1 to 23 and wherever the tune returns. **[score: Notturno]**
 4. **A held note under it.** The viola keeps one note (the keynote) while the second violin's thirds move.
    *Works on:* harmony, texture.
+   *Why:* for the first 23 bars the bass never leaves the keynote, so the thirds and the off-beat chords move over a floor that does not move. **[score: Notturno]**
    *How:* let one of the two accompanying players repeat a single note, the keynote or the fifth, in the off-beat rhythm of technique 3, while the other moves in thirds with the harmony.
    *Where:* Notturno, bars 1 to 2: the viola on A3 under the second violin's C sharp and E, then B and D. **[score: Notturno]**
 5. **The tune again, two octaves higher,** by the first violin from bar 24, the cello now a bass.
@@ -44,6 +46,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* Notturno, the last bars (177 to 180). **[score: Notturno]**
 9. **Two tunes heard apart, then together.** *In the Steppes of Central Asia* has a Russian song and an Eastern melody, ornamented, on the cor anglais, with a plucked figure for the caravan's steps; near the end the two tunes sound at once, each keeping its shape; at the close only the Russian one is left, fading.
    *Works on:* melody, texture, form.
+   *Why:* the Russian tune stands for the Russians, the Eastern one for the Central Asians, the plucked figure for the hooves of horses and camels; sounding together, the two peoples meet "in a common harmony"; at the end the caravan passes into the distance under Russian escort. [Wikipedia, Steppes]
    *How:* write two tunes of different character that also fit together note against note; give each its own instrument and its own section, with a plucked walking figure under both; near the end sound them together unchanged, then drop one and let the other fade.
    *Where:* *In the Steppes of Central Asia*: the Russian song first, the cor anglais's melody after it, the two together near the end. The source gives no bar numbers. [Wikipedia, Steppes]
 10. **Grace notes and trills on the singing line:** 54 grace notes in the first violin's part and 42 in the cello's; trills in both violins. The viola and second violin shake their notes (tremolo) for long stretches.
