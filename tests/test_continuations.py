@@ -143,3 +143,17 @@ def test_a_held_context_note_already_crossed_where_the_segment_begins_gives_way_
     for _ in range(10):                                                                   # a new note every two beats: unchecked,
         notes, _ = C.sample(m, ctx, 0, 6.0, below=[alto], lo=40, hi=70, rnd=rnd, durations=(2.0,))   # the first would come at 4
         assert notes and abs(notes[0][0] - 3.0) < 1e-9 and all(n[2] < 59 for n in notes)
+
+
+def test_nested_levels_follow_a_level_where_it_has_heard_much_and_the_level_above_where_little():
+    general, specific = C.Vertical(), C.Vertical()
+    general.c[1, 4] = general.c2[1 * 12 + 4, 4] = 1000.0                                 # over a bass on the lowered second: its third
+    general.c[0, 0] = 5000.0
+    specific.c[1, 6] = specific.c2[1 * 12 + 4, 6] = 5.0                                   # heard 5 times: a tritone
+    specific.c[0, 7] = specific.c2[0 * 12 + 4, 7] = 500.0                                 # over the tonic, 500 times: its fifth
+    thin = C.nested([general, specific], 1, 1 * 12 + 4, alpha=20)
+    assert thin.argmax() == 4 and thin[6] < 0.25                                          # 5 notes: mostly the level above
+    rich = C.nested([general, specific], 0, 0 * 12 + 4, alpha=20)
+    assert rich.argmax() == 7 and rich[7] > 0.9                                           # 500 notes: the level's own
+    m = C.Model([('all', None, general), ('unit', None, specific)], vmode='mean')
+    assert m.vmode == 'mean' and C.Model([], vmode='level', valpha=20).valpha == 20
