@@ -93,6 +93,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 
 - The other thirty-one files. The Corelli variations op. 42 were read for piece 64b (see its page); they are in copyright in the United States, so measure only.
 - The choral works (the All-Night Vigil, *The Bells*): no score read, and the lecture read does not describe them.
+- **The B flat prelude, op. 23 no. 2, was read from Mutopia's own MIDI file, not the printed score** (score-reader, version 24 on: `midi_copy`; its source does not compile there). A MIDI file may double or simplify what is printed. The numbers of techniques 5 (the peal) and 6 (the rolling bass) come from it. Not compared with the printed score. The other two preludes read are from printed scores.
 - Which of his pieces he himself tied to bells; the name "The Bells of Moscow" for op. 3 no. 2 was a publisher's, not his.
 
 ## Sources

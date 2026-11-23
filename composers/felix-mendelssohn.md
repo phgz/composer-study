@@ -80,6 +80,7 @@ None yet.
 ## Not checked
 
 - The Octet's dynamics and staccato marks: the file read holds none, so "pianissimo and staccato throughout" rests on the programme note.
+- **The Octet was read from the editor's copy for playing, not the printed score** (score-reader, version 24 on: `midi_copy`, a `\score` that only writes MIDI, with `\articulate`). That copy plays the ornaments out and shortens the notes, and it may double voices. Techniques 1 (the Octet's running sixteenths) and 5 (the closing arpeggio) come from it; the quartets' counts do not. Not compared with the printed score.
 - Anything about the *Midsummer Night's Dream* music itself.
 - The Songs Without Words, the symphonies, the oratorios: not covered.
 
