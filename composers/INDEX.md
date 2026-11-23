@@ -2,7 +2,7 @@
 
 Written by `study/composers_index.py` from the pages' "Works on" lines; do not edit it by hand. A technique can work on more than one thing and is listed under each. To look for where two composers might meet, read their rows under the same heading. The numbers are the pages' own.
 
-[melody](#melody) (38) · [harmony](#harmony) (44) · [rhythm](#rhythm) (59) · [texture](#texture) (58) · [form](#form) (78) · [loudness](#loudness) (15) · [colour](#colour) (52) · [background](#background) (12)
+[melody](#melody) (39) · [harmony](#harmony) (45) · [rhythm](#rhythm) (60) · [texture](#texture) (62) · [form](#form) (84) · [loudness](#loudness) (19) · [colour](#colour) (59) · [background](#background) (13)
 
 ## melody
 
@@ -16,7 +16,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 - **[Joaquín Rodrigo](joaquin-rodrigo.md):** 2. The melody gathers ornaments as it goes
 - **[John Cage](john-cage.md):** 5. Few pitches; 8. Short statements, said again at once, never brought back
 - **[John Rutter](john-rutter.md):** 8. The pipe; 9. Tunes that sing and do not leap; 10. A small cell worked
-- **[John Tavener](john-tavener.md):** 2. A short tune and its exact mirror, sung together; 3. Palindromes; 9. Even notes without a metre, a long note at the end of each line; 10. A narrow tune
+- **[John Tavener](john-tavener.md):** 2. A short tune and its exact mirror, sung together; 3. Palindromes; 9. Even notes without a metre, a long note at the end of each line; 10. A narrow tune; 18. Register as a story (The larger works, the bells and the late works)
 - **[Ludwig van Beethoven](ludwig-van-beethoven.md):** 1. A hymn in the Lydian mode; 5. It alternates with "feeling new strength."
 - **[Maurice Duruflé](maurice-durufle.md):** 1. The chant itself, always there; 5. The chant moved to other levels
 - **[Mieczysław Weinberg](mieczyslaw-weinberg.md):** 1. A wordless song at the start, and the same song at the end, sadder; 3. New tunes in an old mode, not quotations; 4. Not really childish; 6. A dance tune over an even, plain accompaniment; 7. The folk manner is pushed until it turns
@@ -35,7 +35,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 - **[Joaquín Rodrigo](joaquin-rodrigo.md):** 3. The tune comes back low on the guitar; 7. A quiet close in the major; 11. Old Spain, flamenco and the eighteenth century at once
 - **[John Cage](john-cage.md):** 5. Few pitches; 11. No chord progressions
 - **[John Rutter](john-rutter.md):** 7. Mostly one plain major key, with catchy chromatic touches; 16. A sudden far key by renaming one note
-- **[John Tavener](john-tavener.md):** 1. The ison: a note that does not move; 2. A short tune and its exact mirror, sung together; 5. Parallel triads in place of harmony; 6. The same thing in major and in minor, side by side, with no way between
+- **[John Tavener](john-tavener.md):** 1. The ison: a note that does not move; 2. A short tune and its exact mirror, sung together; 5. Parallel triads in place of harmony; 6. The same thing in major and in minor, side by side, with no way between; 13. One blazing major chord after modal music (The larger works, the bells and the late works)
 - **[Ludwig van Beethoven](ludwig-van-beethoven.md):** 1. A hymn in the Lydian mode; 6. He changes keynote for it, not only mode
 - **[Maurice Duruflé](maurice-durufle.md):** 4. Modes, not keys; 5. The chant moved to other levels; 6. A long held bass; 7. Chords with an added sixth, seventh or ninth; 8. Two forms of one note side by side; 10. The end reaches the major by the flat sixth and flat seventh; 11. Other scales in what he adds himself
 - **[Mieczysław Weinberg](mieczyslaw-weinberg.md):** 9. Then it calms, the opening comes back soft, and the last chord is major; 12. Clear home notes
@@ -55,7 +55,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 - **[Joaquín Rodrigo](joaquin-rodrigo.md):** 5. The solo (cadenza) goes from intimate to dancing; 8. Six-eight against three-four; 9. Two and three mixed; 11. Old Spain, flamenco and the eighteenth century at once
 - **[John Cage](john-cage.md):** 3. Numbers before notes; 7. Silence built in; 9. Rhythm against the bar
 - **[John Rutter](john-rutter.md):** 1. A carol was a ring dance; 2. A carol is a dance or a lullaby; 6. Many metres close together; 13. Bells for joy; 14. A steady beat on one note
-- **[John Tavener](john-tavener.md):** 9. Even notes without a metre, a long note at the end of each line
+- **[John Tavener](john-tavener.md):** 9. Even notes without a metre, a long note at the end of each line; 17. A climax made by condensing and slowing (The larger works, the bells and the late works)
 - **[Ludwig van Beethoven](ludwig-van-beethoven.md):** 2. Two note values; 5. It alternates with "feeling new strength."
 - **[Maurice Duruflé](maurice-durufle.md):** 2. Chant's rhythm kept: shifting groups of two and three
 - **[Mieczysław Weinberg](mieczyslaw-weinberg.md):** 4. Not really childish; 6. A dance tune over an even, plain accompaniment; 8. The stuck record; 14. Music for children and for the circus and cartoons
@@ -75,7 +75,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 - **[Joaquín Rodrigo](joaquin-rodrigo.md):** 1. A cor anglais sings over a guitar; 3. The tune comes back low on the guitar; 4. The guitar talks with single winds and the horn
 - **[John Cage](john-cage.md):** 6. One line; 10. A treble over an accompaniment that stays put or repeats
 - **[John Rutter](john-rutter.md):** 4. A verse as a dialogue; 11. A solo instrument per movement; 13. Bells for joy
-- **[John Tavener](john-tavener.md):** 1. The ison: a note that does not move; 4. Canon as a texture, not as an argument; 5. Parallel triads in place of harmony; 8. Growth by adding voices, not by developing
+- **[John Tavener](john-tavener.md):** 1. The ison: a note that does not move; 4. Canon as a texture, not as an argument; 5. Parallel triads in place of harmony; 8. Growth by adding voices, not by developing; 12. A halo of held notes (The larger works, the bells and the late works); 14. Stillness written in (The larger works, the bells and the late works); 16. One theme on more and more of one instrument (The larger works, the bells and the late works); 19. Pictures in the instruments, rarely (The larger works, the bells and the late works)
 - **[Ludwig van Beethoven](ludwig-van-beethoven.md):** 3. A short introduction before every line; 7. Three hymns, each changed
 - **[Maurice Duruflé](maurice-durufle.md):** 1. The chant itself, always there; 3. Organ and voices take turns with the chant, in one unbroken stream; 6. A long held bass; 9. Men in unison; 12. The organ comes and goes
 - **[Mieczysław Weinberg](mieczyslaw-weinberg.md):** 5. A simple singing tune at the start, low and soft; 8. The stuck record; 10. A solo that plays alone; 14. Music for children and for the circus and cartoons
@@ -95,7 +95,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 - **[Joaquín Rodrigo](joaquin-rodrigo.md):** 5. The solo (cadenza) goes from intimate to dancing; 6. Then the tune, loud, by everyone; 7. A quiet close in the major; 9. Two and three mixed; 12. The Adagio for winds is A B A B A
 - **[John Cage](john-cage.md):** 3. Numbers before notes; 4. Two halves, each repeated; 7. Silence built in; 8. Short statements, said again at once, never brought back; 11. No chord progressions
 - **[John Rutter](john-rutter.md):** 1. A carol was a ring dance; 2. A carol is a dance or a lullaby; 3. A short introduction that comes back between the verses; 4. A verse as a dialogue; 5. A reflective middle; 15. The end is the beginning
-- **[John Tavener](john-tavener.md):** 3. Palindromes; 7. Blocks, not transitions; refrains; ending where it began; 8. Growth by adding voices, not by developing; 11. A solo instrument as a voice that never stops
+- **[John Tavener](john-tavener.md):** 3. Palindromes; 7. Blocks, not transitions; refrains; ending where it began; 8. Growth by adding voices, not by developing; 11. A solo instrument as a voice that never stops; 13. One blazing major chord after modal music (The larger works, the bells and the late works); 14. Stillness written in (The larger works, the bells and the late works); 16. One theme on more and more of one instrument (The larger works, the bells and the late works); 17. A climax made by condensing and slowing (The larger works, the bells and the late works); 18. Register as a story (The larger works, the bells and the late works); 21. Players placed in the building (The larger works, the bells and the late works)
 - **[Ludwig van Beethoven](ludwig-van-beethoven.md):** 3. A short introduction before every line; 5. It alternates with "feeling new strength."; 6. He changes keynote for it, not only mode; 7. Three hymns, each changed; 8. One loud place, late; 9. The hymns grow, the other sections do not
 - **[Maurice Duruflé](maurice-durufle.md):** 10. The end reaches the major by the flat sixth and flat seventh; 13. Calm, like Fauré's
 - **[Mieczysław Weinberg](mieczyslaw-weinberg.md):** 1. A wordless song at the start, and the same song at the end, sadder; 2. From light to darkness; 7. The folk manner is pushed until it turns; 9. Then it calms, the opening comes back soft, and the last chord is major
@@ -113,6 +113,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 - **[Joaquín Rodrigo](joaquin-rodrigo.md):** 6. Then the tune, loud, by everyone
 - **[John Cage](john-cage.md):** 12. No swell, as a rule
 - **[John Rutter](john-rutter.md):** 5. A reflective middle
+- **[John Tavener](john-tavener.md):** 13. One blazing major chord after modal music (The larger works, the bells and the late works); 14. Stillness written in (The larger works, the bells and the late works); 17. A climax made by condensing and slowing (The larger works, the bells and the late works); 20. Bells that carry the music, at the edge of hearing (The larger works, the bells and the late works)
 - **[Ludwig van Beethoven](ludwig-van-beethoven.md):** 4. Each line swells; 8. One loud place, late
 - **[Maurice Duruflé](maurice-durufle.md):** 13. Calm, like Fauré's
 - **[Piotr Ilyich Tchaikovsky](piotr-ilyich-tchaikovsky.md):** 8. A scene that grows to one chord
@@ -130,7 +131,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 - **[Joaquín Rodrigo](joaquin-rodrigo.md):** 1. A cor anglais sings over a guitar; 3. The tune comes back low on the guitar; 4. The guitar talks with single winds and the horn; 6. Then the tune, loud, by everyone; 10. Mostly woodwinds
 - **[John Cage](john-cage.md):** 1. A keyboard turned into a percussion band, for a dancer; 2. What a preparation does to a note
 - **[John Rutter](john-rutter.md):** 8. The pipe; 11. A solo instrument per movement; 12. A small band; 13. Bells for joy
-- **[John Tavener](john-tavener.md):** 11. A solo instrument as a voice that never stops
+- **[John Tavener](john-tavener.md):** 11. A solo instrument as a voice that never stops; 12. A halo of held notes (The larger works, the bells and the late works); 15. The edges of the range (The larger works, the bells and the late works); 16. One theme on more and more of one instrument (The larger works, the bells and the late works); 19. Pictures in the instruments, rarely (The larger works, the bells and the late works); 20. Bells that carry the music, at the edge of hearing (The larger works, the bells and the late works); 21. Players placed in the building (The larger works, the bells and the late works); 22. Late: instruments from other traditions (The larger works, the bells and the late works)
 - **[Maurice Duruflé](maurice-durufle.md):** 3. Organ and voices take turns with the chant, in one unbroken stream; 9. Men in unison; 12. The organ comes and goes; 14. Three scorings of the Requiem
 - **[Mieczysław Weinberg](mieczyslaw-weinberg.md):** 5. A simple singing tune at the start, low and soft; 10. A solo that plays alone; 11. Clarinet and violin; 13. Plucked strings
 - **[Piotr Ilyich Tchaikovsky](piotr-ilyich-tchaikovsky.md):** 2. A new keyboard for one fairy; 5. Children's instruments; 6. One colour to a dance; 7. Wordless voices
@@ -148,6 +149,7 @@ Written by `study/composers_index.py` from the pages' "Works on" lines; do not e
 - **[Joaquín Rodrigo](joaquin-rodrigo.md):** 13. What he said the concerto holds
 - **[John Cage](john-cage.md):** 13. Behind the Sonatas and Interludes
 - **[John Rutter](john-rutter.md):** 17. Where he comes from
+- **[John Tavener](john-tavener.md):** 22. Late: instruments from other traditions (The larger works, the bells and the late works)
 - **[Ludwig van Beethoven](ludwig-van-beethoven.md):** 10. Why the style; 11. Why the piece
 - **[Maurice Duruflé](maurice-durufle.md):** 15. What he said of it
 - **[Piotr Ilyich Tchaikovsky](piotr-ilyich-tchaikovsky.md):** 9. He moved his own numbers about
