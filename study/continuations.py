@@ -291,6 +291,10 @@ def sample(model, context, final, length, others=(), lo=None, hi=None, below=Non
         t = max(line[-1][0] + span, start)                                 # the context's last note is not cut short
         if grid: t = round(t / grid) * grid; span = t - line[-1][0]
         if span <= 0: continue
+        if not out and t > start + 1e-6:                                   # the context's last note, held until the first new one, is
+            b_ = sounding_at(start, below) if below else None               # already crossed where the segment begins: begin there
+            a_ = sounding_at(start, above) if above else None
+            if (b_ and b_[0] <= line[-1][2]) or (a_ and a_[1] >= line[-1][2]): t = start
         cross = crossing(line[-1][2], below, above, max(line[-1][0], start), min(t, end))
         if cross is not None and cross > max(line[-1][0], start - 1e-9) + 1e-6: t = cross  # the held note moves where a line would cross it
         if t >= end - 1e-6: break
