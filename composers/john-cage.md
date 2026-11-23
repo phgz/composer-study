@@ -11,42 +11,55 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
 ## Techniques
 
 1. **A keyboard turned into a percussion band, for a dancer.** *Bacchanale* was written for a choreography by Syvilla Fort in a room too small for percussion instruments but with a grand piano in it. He put objects between the strings (bolts, screws, weather stripping), and the piano became a percussion ensemble for one player.
+   *Works on:* colour.
    *How:* write for one keyboard as if for a percussion group: each key a different struck instrument, and rhythm in front of melody.
    *Where:* *Bacchanale*. [Wikipedia, prepared piano works]
 2. **What a preparation does to a note:** it makes it quieter, gives it another colour, splits it into two or three sounds, and shortens it. The change is meant to be complete, not a tinted piano tone. Each prepared key has its own sound, always the same.
+   *Works on:* colour.
    *How:* without a prepared piano, give each pitch of the piece its own fixed struck sound (a keyboard percussion instrument, a muted or a bell-like one), and never play that pitch any other way.
    *Where:* the prepared-piano works, the *Sonatas and Interludes* above all. [Pearson]
 3. **Numbers before notes.** A unit of so many bars and a row of proportions are fixed first, and the same proportions cut both the unit into phrases and the whole into sections.
+   *Works on:* rhythm, form.
    *How:* choose a unit (ten bars, say) and a row of proportions that adds up to it (3, 2, 2, 3); cut each unit into phrases of those lengths and the whole piece into sections of the same proportions; write the notes into that frame.
    *Where:* units of ten bars cut 3, 2, 2, 3 (*Amores*, second movement); eleven sections of eleven bars cut 2, 1, 1, 3, 1, 2, 1 (the Duchamp film music, 1947); seven parts of seven bars; sixteen groups of sixteen bars cut 4, 3, 4, 5; in the first sonata, a unit of seven quarters taken 4, 1, 3, 4, 1, 3, 4, 2, 4, 2. In the sonatas the numbers include fractions. [Wikipedia; Pearson]
 4. **Two halves, each repeated** (the sonatas).
+   *Works on:* form.
    *How:* a short piece in two halves, each played twice.
    *Where:* the sonatas of the *Sonatas and Interludes*. [Pearson]
 5. **Few pitches.** A piece's tune on five prepared tones only; a piece of four tones; small collections, often five-note, which can suggest a keynote.
+   *Works on:* melody, harmony.
    *How:* limit a piece, or a section, to four or five pitches, and let their repetition suggest a keynote.
    *Where:* the prepared-piano works, by the sources; the pieces are not named for each count. [Wikipedia; Pearson]
 6. **One line.** Much of it is on one staff, a single line; the texture is sparse and light; chords are the exception.
+   *Works on:* texture.
    *How:* write mostly a single line; add a second sound only now and then; keep chords rare.
    *Where:* the *Sonatas and Interludes*. [Wikipedia; Pearson]
 7. **Silence built in.** Empty bars alternating with bars of melody (1947, called one of the first systematic explorations of silence); silent bars punctuating the phrases of the second sonata. The gaps count as much as the gestures.
+   *Works on:* rhythm, form.
    *How:* write silent bars into the frame of technique 3, as parts of the proportions, between phrases or alternating with them.
    *Where:* the music of 1947 (empty bars alternating with melody); Sonata II, between its phrases. [Wikipedia; Pearson]
 8. **Short statements, said again at once, never brought back.** Small arch shapes separated by rests; immediate repetition is common, later return is not. Where something is developed it is by repetition, sequence, turning upside down and lengthening (third sonata).
+   *Works on:* melody, form.
    *How:* write short arched gestures separated by rests; repeat a gesture at once, but do not bring it back later; to develop one, repeat it at another pitch, turn it upside down or lengthen it.
    *Where:* the *Sonatas and Interludes*; Sonata III for the development. [Pearson]
 9. **Rhythm against the bar.** Groups placed unpredictably, stresses displaced, the metre left vague; still moments beside quick decorated ones; grace notes.
+   *Works on:* rhythm.
    *How:* place groups of notes off the expected beats, shift the accents, and let still moments sit beside quick ornamented ones, so that the bar is hard to hear.
    *Where:* the *Sonatas and Interludes*. [Pearson]
 10. **A treble over an accompaniment that stays put or repeats.**
+    *Works on:* texture.
     *How:* a single high line over a low figure that holds or repeats without change.
     *Where:* the *Sonatas and Interludes*. [Pearson]
 11. **No chord progressions.** Endings are not made by harmony.
+    *Works on:* harmony, form.
     *How:* end a section by the end of its proportion (technique 3) or by a silence, not by a cadence.
     *Where:* the *Sonatas and Interludes*. [Pearson]
 12. **No swell, as a rule.** One piece among those described starts quiet and grows to clusters; the rest keep their level.
+    *Works on:* loudness.
     *How:* keep one level through a piece; a growth from quiet to loud clusters is the exception.
     *Where:* the prepared-piano works as described; the exception is not named here. [Wikipedia]
 13. **Behind the *Sonatas and Interludes*:** the eight permanent emotions of Indian aesthetics and their leaning toward tranquillity.
+    *Works on:* background.
     *How:* not a technique: the idea behind the set, a series of moods tending toward stillness.
     *Where:* the *Sonatas and Interludes*. [Pearson; Wikipedia]
 

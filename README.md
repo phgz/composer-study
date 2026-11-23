@@ -91,6 +91,7 @@ A narrow unit is a composer in one kind of piece and one period: Chopin's mazurk
 
 - **`composers/`**: one page a composer, written by hand from scores read by measurement and from sources: numbered techniques as recipes, walks through whole works, numbers, what the composer does not do, samples in the catalogue, sources. Moved from composer-blend on 23 November 2026, so that everything about a composer is in one place; what composer-blend made from each page stays there.
 - A page and a profile share their file name. The profile is generated; the page never is. `composers/README.md` gives the layout and the rules.
+- **`composers/INDEX.md`**: every technique of every page under what it works on (melody, harmony, rhythm, texture, form, loudness, colour), to find where two composers might meet. Written by `python3 -m study.composers_index`; a test keeps it in step with the pages.
 
 ## Continuations
 

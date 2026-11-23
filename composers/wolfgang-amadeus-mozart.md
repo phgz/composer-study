@@ -11,33 +11,43 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 ## Techniques
 
 1. **The soloist has eight bars, softly; then everyone says them again.** In the concerto's Adagio the winds of the orchestra are silent for bars 1 to 8, play 9 to 16, are silent 17 to 24, and play 25 to 32: the tune twice, each half said by one and then by all.
+   *Works on:* texture, form.
    *How:* write a tune of eight bars for one wind, softly, over the strings; then repeat the same eight bars with the orchestra's winds joining; do the same with the next eight.
    *Where:* Clarinet Concerto K. 622, second movement, bars 1 to 32. **[score: K. 622, second movement]**
 2. **Under the singer, even eighths and a bass in quarters.** In those first eight bars the two violin parts play six eighths to the bar, every bar, in broken chords (four in ten of their moves are leaps wider than a fourth); the bass has quarter notes.
+   *Works on:* rhythm, texture.
    *How:* under a slow solo in 3/4, give two inner instruments unbroken eighths in broken chords (wide leaps are fine) and the bass plain quarter notes, one to a beat.
    *Where:* K. 622, second movement, bars 1 to 8. **[score: K. 622]**
 3. **Three slow beats.** The Adagio is in 3/4, 98 bars.
+   *Works on:* rhythm.
    *How:* for a singing slow movement, three slow beats to the bar, about a hundred bars.
    *Where:* K. 622, second movement. **[score: K. 622]**
 4. **The orchestra's winds come for the repeats and the joins only:** bars 9-16, 25-32, 53-58, 74-82 and the close. Elsewhere the singer has the strings alone.
+   *Works on:* form, colour.
    *How:* keep the orchestra's winds silent while the soloist sings; bring them in for the tutti repeats, for the passages that join one section to the next, and for the close.
    *Where:* K. 622, second movement, bars 9 to 16, 25 to 32, 53 to 58, 74 to 82 and 95 to 96. **[score: K. 622]**
 5. **A serenade is many short movements, with a slow one in the middle of dances.** The divertimento: a quick movement (36 bars), a minuet (75), an Adagio (37), a second minuet (66), a rondo in two (157). The *Gran Partita* has seven, with two minuets, an Adagio and a Romanze.
+   *Works on:* form.
    *How:* for a piece of several movements for winds: a quick opening, a minuet, a slow movement in the middle, a second minuet, a quick rondo; each short.
    *Where:* Divertimento K. 439b; the *Gran Partita*. **[score: K. 439b; Wikipedia]**
 6. **The upper two go together in thirds and sixths.** In the divertimento's Adagio the two upper parts begin a note together 133 times, and 114 of those are a third or a sixth apart; the lowest part moves in eighths and sixteenths under them.
+   *Works on:* harmony, texture.
    *How:* move two high instruments together, note against note, a third or a sixth apart nearly always; give the lowest instrument quicker notes under them.
    *Where:* Divertimento K. 439b, third movement (Adagio). **[score: K. 439b, third movement]**
 7. **A band of winds in pairs** (the *Gran Partita*): two oboes, two clarinets, two basset horns, two bassoons, four horns and a double bass, which a contrabassoon sometimes replaces.
+   *Works on:* colour.
    *How:* a wind band in pairs, oboes, clarinets, basset horns (or a second pair of clarinets), bassoons and horns, with a double bass under them.
    *Where:* Serenade no. 10, the *Gran Partita*. [Wikipedia]
 8. **A syncopated pulse under solo lines** (the *Gran Partita*'s Adagio, in E flat): the pulse runs through most of the movement; the solo lines go from oboe to clarinet to basset horn; the oboe enters first. Called operatic in feeling.
+   *Works on:* rhythm, texture.
    *How:* under a slow movement, a pulse of repeated notes off the beat that runs nearly throughout; over it, long solo lines handed from oboe to clarinet to a lower reed, the oboe first.
    *Where:* *Gran Partita*, the Adagio. [Wikipedia]
 9. **Trios thin the band:** the first minuet's first trio is for clarinets and basset horns only; its second, in the minor, for oboe, basset horn and bassoon.
+   *Works on:* texture, colour.
    *How:* in a minuet's trio, drop to a few instruments of one family or a mixed three, for a lighter and different colour; make one trio minor.
    *Where:* *Gran Partita*, the first minuet's two trios. [Wikipedia]
 10. **A slow frame around a quicker minor middle** (the Romanze): Adagio, an Allegretto in C minor over a steady pulse in the bassoons, Adagio.
+    *Works on:* rhythm, form.
     *How:* slow, then a quicker middle in the minor over a steady pulse in the low instruments, then slow again.
     *Where:* *Gran Partita*, the Romanze. [Wikipedia]
 

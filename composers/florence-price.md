@@ -15,123 +15,159 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
 ### Her tunes
 
 1. **Her own tunes in the manner of spirituals, not quotations.** The first symphony's melodies are freely composed; of the fourth's slow theme she wrote that it is "not a folk song (or Spiritual) or any part of either". (The fourth does quote *Wade in the Water*, in its first movement.)
+   *Works on:* melody.
    *How:* write a new tune in the manner of a spiritual (techniques 2 to 7) rather than borrowing one.
    *Where:* Symphony no. 1, all its themes; Symphony no. 4, the slow movement's theme. [ASO; Wikipedia 4]
 2. **Five notes.** Most themes are on a five-note scale (in F: F G A C D), or on the natural minor.
+   *Works on:* melody.
    *How:* write the tune with those five notes only; let the harmony under it use all twelve.
    *Where:* most themes of the first, third and fourth symphonies. [Wikipedia 1, 3, 4; UNC; Ege]
 3. **Swinging thirds, and a sixth that stays.** A tune turns around the sixth, first and third notes of its key (in C: A, C, E), leaping from the sixth up to the first and on to the third, where a European tune would step from the sixth down to the fifth. The first chord of such a tune is the tonic with its sixth added, heard as home.
+   *Works on:* melody, harmony.
    *How:* begin 6-1-3 or 1-3-2-1-6-1; put the sixth on top of tonic chords, and treat that chord as home.
    *Where:* her themes, by the two studies; no bar is named. [Hutchinson; Ege]
 4. **Short, long, short.** Quarter-half-quarter, and the same twice and four times as fast. In the first symphony's slow movement a short-short-long figure has its long note on the strong beat, so it settles where the first movement's version pushed on.
+   *Works on:* rhythm.
    *How:* build rhythms on short-long-short, at several speeds; in a slow movement, turn it so that the long note lands on the strong beat.
    *Where:* Symphony no. 1, the first movement and the slow movement. [Ege; WETA]
 5. **Each start higher.** The motifs of a theme begin on rising notes (E, then G, then B) and peak an octave above the first.
+   *Works on:* melody.
    *How:* start each motif of a theme a step of the chord higher than the last, and reach the top an octave above where the theme began.
    *Where:* her themes, by Ege's study. [Ege]
 6. **Three lines alike and a fourth.** A stanza a a a b, the fourth line a refrain.
+   *Works on:* melody, form.
    *How:* make a stanza of four lines, the first three alike and the fourth a refrain.
    *Where:* her themes, by Ege's study. [Ege]
 7. **A statement in four bars:** idea, the idea again, a continuation, a cadence; soft, fuller, fading, soft.
+   *Works on:* form, loudness.
    *How:* four bars: an idea, the idea again, a bar that moves on, a cadence; let the level rise to the third bar and fall.
    *Where:* her themes, by Ege's study. [Ege]
 
 ### Her harmony
 
 8. **The tune stays plain; the harmony thickens each time it returns.** The second statement adds answering lines and passing chromatic chords; the third adds more.
+   *Works on:* harmony, form.
    *How:* keep the tune unchanged at each return and add to what is under it: answering lines, then chromatic passing chords, then more.
    *Where:* her themes on their returns, by the two studies. [Hutchinson; Ege]
 9. **A lowered seventh on the home chord, leaning into the fourth; then a chain of borrowed dominants to the cadence.**
+   *Works on:* harmony.
    *How:* add the lowered seventh to the home chord so that it leans toward the chord on the fourth; reach the cadence through a chain of dominants of the chords ahead.
    *Where:* her harmony, by the two studies. [Hutchinson; Ege]
 10. **An inner voice that creeps over a held bass:** fifth, raised fifth, sixth, lowered sixth, in a two-bar cycle, swelling and fading.
+    *Works on:* harmony, texture.
     *How:* over a held bass, move one inner voice by half steps (the fifth, the raised fifth, the sixth, the lowered sixth) in a two-bar cycle, swelling and fading with it.
     *Where:* her harmony, by Ege's study. [Ege]
 11. **Keys a third apart.** Refrain at home, episodes on the sixth and the third (in C: A minor, E minor). The first symphony's slow movement has its interlude a third below its closing chord (C sharp minor, E major).
+    *Works on:* harmony, form.
     *How:* keep the refrain at home and put the episodes in keys a third away.
     *Where:* Symphony no. 1, the slow movement (the interlude in C sharp minor, the close in E major). [Hutchinson; Ege; Wikipedia 1]
 12. **The close is plagal.** An extension through the sixth and the fourth chords; the tune ends third-to-first, or with 6-1-3 once more; at the very end the sixth falls to the fifth. The third symphony's slow movement ends on a plagal cadence.
+    *Works on:* harmony, form.
     *How:* end on the chord of the fourth to the home chord, after an extension through the chords on the sixth and the fourth; let the tune end third-to-first, and the sixth fall to the fifth at the last moment.
     *Where:* Symphony no. 3, the slow movement's end. [Hutchinson; Wikipedia 3]
 13. **A cadence avoided once before it is made.**
+    *Works on:* harmony.
     *How:* lead to a cadence, turn aside the first time, and make it the second.
     *Where:* her harmony, by Hutchinson's study. [Hutchinson]
 
 ### The slow movement
 
 14. **A hymn of her own for the brass choir.** Ten brass (four horns, two trumpets, three trombones, tuba) in four-part harmony, the tuba in its middle register, not low. Slow, proud, like a slow march.
+    *Works on:* harmony, colour.
     *How:* write a hymn tune in four parts for the brass alone, slow and proud, with the tuba in its middle register.
     *Where:* Symphony no. 1, the slow movement. [UNC; ASO; Philadelphia; WETA]
 15. **Drums under the hymn.** A large and a small African drum, played with the hands, and timpani.
+    *Works on:* rhythm, colour.
     *How:* under the hymn, two hand drums, one large and one small, with timpani.
     *Where:* Symphony no. 1, the slow movement. [UNC; WETA]
 16. **Woodwinds break in on the hymn:** flutes and clarinets, during the statements.
+    *Works on:* texture, colour.
     *How:* let flutes and clarinets break in with short phrases while the brass state the hymn.
     *Where:* Symphony no. 1, the slow movement. [Wikipedia 1]
 17. **Blocks, one family of instruments at a time, and call and response between families.** For the first five minutes each block features one family; the violins answer the bassoons and violas.
+    *Works on:* texture, form, colour.
     *How:* lay the movement out in blocks, each for one family of instruments; let families answer one another.
     *Where:* Symphony no. 1, the slow movement, its first five minutes. [New Bedford]
 18. **Verse and refrain, with a quicker interlude in the minor between statements** (*Poco più mosso*).
+    *Works on:* form.
     *How:* alternate the hymn with a quicker interlude in the minor.
     *Where:* Symphony no. 1, the slow movement. [Wikipedia 1]
 19. **A sudden flutter upward in the strings,** like an organ fantasy, that climbs until it lands.
+    *Works on:* texture, colour.
     *How:* a sudden run of quick notes up through the strings, climbing until it lands on a chord.
     *Where:* Symphony no. 1, the slow movement. [WETA]
 20. **The hymn comes back decorated:** a clarinet running over it, and cathedral chimes.
+    *Works on:* texture, colour.
     *How:* at the hymn's return, a clarinet running in quick notes above it, and chimes.
     *Where:* Symphony no. 1, the slow movement, the return. [Wikipedia 1]
 21. **Quiet.** It rarely reaches a real forte; the changes of loudness are small; it ends gently on a major chord in the strings.
+    *Works on:* loudness.
     *How:* keep the level moderate and the changes small; end softly on a major chord in the strings.
     *Where:* Symphony no. 1, the slow movement. [Philadelphia; New Bedford; Wikipedia 1]
 22. *Third symphony:* an oboe alone over low woodwinds, echoed by the strings; a bassoon tune on five notes; the calm broken by whole-tone passages and by brass and timpani; choirs answering each other.
+    *Works on:* texture, form, colour.
     *How:* begin with one oboe over low woodwinds, echoed by the strings; give a five-note tune to the bassoon; break the calm with whole-tone passages, brass and timpani; let the families answer each other.
     *Where:* Symphony no. 3, the slow movement. [Wikipedia 3; LA Phil]
 23. *Fourth symphony:* an arch (out and back), about five minutes, on a theme from one of her own piano fantasies.
+    *Works on:* form.
     *How:* an arch of about five minutes, going out from a theme and back to it.
     *Where:* Symphony no. 4, the slow movement. [Wikipedia 4]
 
 ### The juba
 
 24. **A juba where the scherzo would be,** in every symphony, and in chamber works.
+    *Works on:* form.
     *How:* in a work of several movements, put a juba in the place of the scherzo.
     *Where:* the jubas of her symphonies; chamber works. [Classics for Kids; Philadelphia]
 25. **What it imitates.** A dance of enslaved people for whom drums were banned: stomping, and patting the hands, chest, thighs and cheeks, in off-beat patterns. It fed ragtime and the cakewalk.
+    *Works on:* rhythm.
     *How:* imitate stamping and patting: short struck sounds in off-beat patterns against a steady beat.
     *Where:* the dance itself, as the sources describe it. [WETA; Classics for Kids; Philadelphia]
 26. **First symphony:** *Allegro*, in 4/8, under four minutes, a rondo. A syncopated five-note tune in the violins over a plucked "oom-pah" in the low strings; it begins with a step down.
+    *Works on:* rhythm, texture, form.
     *How:* a rondo of under four minutes in a quick two: a syncopated tune on five notes in the violins, starting with a step down, over a plucked bass on the beat and a chord off it.
     *Where:* Symphony no. 1, the juba. [Wikipedia 1; New Bedford; Philadelphia]
 27. **Hand drums for the patting; a wind whistle for a joke.**
+    *Works on:* colour.
     *How:* hand drums for the patting rhythms; one comic sound (a whistle) as a joke.
     *Where:* Symphony no. 1, the juba. [Wikipedia 1; WETA]
 28. **It slows near the end** (about the last eighth), then closes.
+    *Works on:* rhythm, form.
     *How:* slow down over about the last eighth of the dance, then close briskly.
     *Where:* Symphony no. 1, the juba, the end. [New Bedford]
 29. **Three against two** in the tune, more than once.
+    *Works on:* rhythm.
     *How:* put groups of three against the beat of two in the tune, now and then.
     *Where:* Symphony no. 1, the juba. [Wikipedia 1]
 30. *Third symphony:* no repeating figure under it; the percussion implies the beat; strongly syncopated; something of the habanera and of Gershwin; a theme with the blues in it; wood blocks, castanets, tambourine, xylophone, sand blocks.
+    *Works on:* rhythm, colour.
     *How:* leave out a repeating bass figure and let the percussion imply the beat; syncopate strongly; colour the tunes with the blues; use light percussion (wood blocks, castanets, tambourine, xylophone, sand blocks).
     *Where:* Symphony no. 3, the juba. [Wikipedia 3; LA Phil]
 31. *Fourth symphony:* a plain three-part form; a very syncopated tune over a steady bass, like ragtime; about five minutes.
+    *Works on:* rhythm, form.
     *How:* three parts, A B A; a strongly syncopated tune over a steady bass, as in ragtime.
     *Where:* Symphony no. 4, the juba. [Wikipedia 4]
 32. **The dance as a surprise** (piano sonata): after 153 bars of a 6/8 scherzo the metre turns to 4/8 and a rondo begins.
+    *Works on:* rhythm, form.
     *How:* after a long passage in one metre, change to a quick two and begin the dance as a rondo, without warning.
     *Where:* the piano sonata, after bar 153 of its scherzo. [Ege]
 33. **Oom-pah is a foot and a clap** (piano, *In the Land O' Cotton*).
+    *Works on:* rhythm, texture.
     *How:* think of the bass on the beat as a foot and the chord off the beat as a clap, and voice them that way.
     *Where:* *In the Land O' Cotton*, for piano. [Ege]
 
 ### Her orchestra (first symphony)
 
 34. **A short figure handed quickly from bassoon to oboe to flute to clarinet to strings;** winds joined on shared notes so that three instruments sound like one long voice.
+    *Works on:* texture, colour.
     *How:* pass a short figure quickly from one wind to the next, each taking over on a note the last one holds, so that several sound like one line.
     *Where:* Symphony no. 1. [WETA]
 35. **Triplets high in the violins against twos below:** a shimmer.
+    *Works on:* rhythm, texture, colour.
     *How:* high violins in triplets over lower parts in twos, softly, for a shimmer.
     *Where:* Symphony no. 1. [WETA]
 36. **Dvořák's *New World* as the model:** its key, a syncopated solo to open, its spirit.
+    *Works on:* background.
     *How:* not a technique: the model she took, which explains the key and the opening solo of her first symphony.
     *Where:* Symphony no. 1, the opening. [Wikipedia 1; Philadelphia]
 
