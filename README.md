@@ -136,6 +136,6 @@ NotaGen (Wang et al., 2025; MIT licence) is a 516-million-parameter model that w
 - **`study/notagen_score.py`** (needs torch and the weights): NotaGen's bits for each prepared note, in one pass a window, checked against NotaGen's own `generate()` with `--verify`.
 - **`study/notagen_write.py`** (needs torch, the weights and a NotaGen checkout): a piece from a prompt, with NotaGen's own model and sampling, as ABC, MusicXML and MIDI.
 - **`checks/notagen-ear-2026-11-23.md`**: NotaGen's surprise against ours on the same 12,653 notes of 29 held-out works (Bach's chorales, Corelli's and Vivaldi's trio sonatas, Haydn's and Mozart's quartets). On inner lines NotaGen is lower than ours, 1.16 bits a note against 2.32, in 28 of 29 works. Its training may hold these works, so this compares the two ears on this music, not how well each generalises. The predictions were written before NotaGen scored; one held, two held in part, one missed.
-- **`checks/notagen-writer-2026-11-23/`**: the writer's first piece (Romantic / Chopin, Frederic / Keyboard, seed 1), as ABC, MusicXML and MIDI. Not listened to.
+- **`checks/notagen-writer-2026-11-23/`**: the writer's first piece (Romantic / Chopin, Frederic / Keyboard, seed 1), as ABC, MusicXML and MIDI, and played as written on the Salamander grand (`checks/notagen-writer-2026-11-23.md`).
 
 Run the tests: `python3 -m pytest -q tests`.

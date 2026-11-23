@@ -118,8 +118,12 @@ The rest is in `notagen-ear-2026-11-23/compare.json`, including each test unit b
   - On the top line it is no better than ours on Haydn's quartets (2.41 against 2.41), and lower in only 3 of Vivaldi's 6 works.
 - **The notes written with an accidental:** these are the sharps, flats and naturals the ABC writes. Ours finds them very surprising (4.71 bits a note), NotaGen much less (1.82), even though NotaGen pays for their spelling.
 - **The chorales:** over all lines, NotaGen hears four of the six at 0.22 to 0.33 bits a note. That means it puts 80% to 86% of its probability on the real note, on average. This is close to recall, and fits its training holding them.
+- **Work by work (a reading after the results, not a test), the gap is uneven:**
+  - Some works NotaGen seems to know by heart: chorale 161's inner voices cost it 0.14 bits a note, chorale 366's top line 0.02, Vivaldi's op. 1 no. 12 (inner) 0.25.
+  - On others its top line is worse than ours: Haydn op. 50 no. 1, iii (4.67 against 2.77), and the fourth movements of Vivaldi's op. 1 nos. 6, 7 and 9.
+  - So the gap mixes three things: memory of these works, the order of writing, and a larger model with a longer memory of the piece. This test cannot separate them; music neither has seen can.
 - **Unit by unit,** each sign-flip p is as low as its number of works allows when every work goes the same way: about 0.03 with 6 works, 0.06 with 5.
-- **Agreement:** Spearman's rho is 0.47 over all inner notes (the median within a work is 0.40). So the two ears find the same notes surprising, but only moderately.
+- **Agreement:** Spearman's rho is 0.47 over all inner notes (the median within a work is 0.42; `compare.py` now gives tied values their average rank, where the first run's 0.40 hung on how the sort broke ties). So the two ears find the same notes surprising, but only moderately.
 
 ## The predictions against it
 
@@ -134,7 +138,7 @@ The rest is in `notagen-ear-2026-11-23/compare.json`, including each test unit b
 - **The piece:** an Andante in 6/8, marked pianissimo, 45 bars after an upbeat.
 - **Its key:** F sharp minor under A major's key signature. It ends with a fermata on the tonic chord, after the dominant.
 - **Its shape:** the opening phrase comes back, nearly the same, at bar 9.
-- **Not listened to.**
+- **Played** as written on the Salamander grand, at 64b's loudness: `notagen-writer-2026-11-23.md`. Philip has not heard it yet.
 
 ## Not checked
 

@@ -55,8 +55,14 @@ def test(bw, n=20000, seed=0):
                 notagen_lower=float((d < 0).mean()), p=float((np.sum(flips >= abs(d.mean())) + 1) / (n + 1)))
 
 
-def spearman(a, b):
-    ra = np.argsort(np.argsort(a)); rb = np.argsort(np.argsort(b)); return float(np.corrcoef(ra, rb)[0, 1])
+def ranks(x):
+    """average ranks: tied values share one, so that the result does not hang on how a sort breaks ties"""
+    x = np.asarray(x, float); r = np.empty(len(x)); r[np.argsort(x, kind='stable')] = np.arange(len(x))
+    _, inv = np.unique(x, return_inverse=True)
+    return (np.bincount(inv, r) / np.bincount(inv))[inv]
+
+
+def spearman(a, b): return float(np.corrcoef(ranks(a), ranks(b))[0, 1])
 
 
 units = sorted({r['unit'] for r in rows})
