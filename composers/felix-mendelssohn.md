@@ -16,7 +16,7 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
    *Where:* String Quartets op. 44 nos. 2 and 3, the scherzos (eighths); the Octet, third movement (sixteenths). **[score]**
 2. **Pianissimo and staccato throughout** (the Octet: *Allegro leggierissimo*, with the composer's own warning to keep it so). In the quartets soft is the ground and loud is a jab: against 80 and 118 markings of *p* and *pp* stand 51 and 88 sudden accents (*sf*), about one every four or five bars.
    *Works on:* loudness, colour.
-   *Why:* to keep the music light, detached and airy, the fairy world of his later *Midsummer Night's Dream* overture. [Sussex]
+   *Why:* to keep the music light, detached and airy, the fairy world of his later *Midsummer Night's Dream* overture. [Sussex] *(an analysis)*
    *How:* keep the whole movement very soft and short; break the softness with a single sudden accent every four or five bars, never with a passage that is loud.
    *Where:* the Octet's scherzo (the marking and the warning) [Sussex]; the scherzos of op. 44 nos. 2 and 3 (the counts). **[score: op. 44 nos. 2 and 3]**
 3. **The running line changes hands about every three bars.** 75 times in 199 bars, 102 times in 290.
@@ -29,12 +29,12 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
    *Where:* the four scherzos read. **[score]**
 5. **It ends by vanishing.** The Octet's scherzo closes on an arpeggio rising through the chord of its keynote to the top of the violin, pianissimo and fading, "in a puff of air"; the piano scherzo ends on a rising broken chord too. The quartet scherzos end *p*.
    *Works on:* form, loudness.
-   *Why:* the sound disperses instead of closing with force, a weightless end. [Sussex]
+   *Why:* the sound disperses instead of closing with force, a weightless end. [Sussex] *(an analysis)*
    *How:* end with a broken chord of the keynote rising to the top of the highest instrument, very soft and fading, with no final chord struck.
    *Where:* the Octet's scherzo, the last bars; the Scherzo op. 16 no. 2, the last bars. **[score; Sussex]**
 6. **Once, a single violin comes forward** with trills and smoother playing, in the middle (Octet).
    *Works on:* texture, colour.
-   *Why:* a smoother, harder passage set against the staccato before it returns, and a place for the dedicatee, Eduard Rietz, the first violinist. [Sussex]
+   *Why:* a smoother, harder passage set against the staccato before it returns, and a place for the dedicatee, Eduard Rietz, the first violinist. [Sussex] *(an analysis)*
    *How:* once in the middle, let one instrument step out of the running texture with a smoother line and trills, then return.
    *Where:* the Octet's scherzo, the middle. [Sussex]
 7. **Where it came from.** The Octet's scherzo was prompted, his sister said, by lines of Goethe about clouds and mist passing and the sky brightening; it leads to the *Midsummer Night's Dream* overture, written just after.

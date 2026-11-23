@@ -35,8 +35,11 @@ def test_a_why_is_optional_single_and_sourced():
             n = block.split('.', 1)[0]
             whys = re.findall(r'(?m)^ {3,4}\*Why:\*(.*)$', block)
             assert len(whys) <= 1, (f, n)
+            voices = {'his words', 'her words', 'an analysis', 'from the score', 'a listener'}
             for w in whys:
-                assert re.search(r'\[[^\]]+\]\**\s*$', w), (f, n, 'a Why ends with its source or score mark')
+                m = re.search(r'\[[^\]]+\]\** \*\(([^)]+)\)\*\s*$', w)
+                assert m, (f, n, 'a Why ends with its source or score mark, then who is speaking, in italics')
+                assert set(m.group(1).split('; ')) <= voices, (f, n, m.group(1))
             if whys:
                 order = [m.group(1) for m in re.finditer(r'(?m)^ {3,4}\*(Works on|Why|How|Where):\*', block)]
                 assert order == ['Works on', 'Why', 'How', 'Where'], (f, n, order)

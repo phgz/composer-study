@@ -16,27 +16,27 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
    *Where:* the Requiem op. 9, throughout; the *Quatre Motets* op. 10. [Wikipedia, Requiem; Wikipedia, Motets; Cardiff thesis]
 2. **Chant's rhythm kept: shifting groups of two and three.** He learned the Solesmes way as a choirboy: the notes grouped in twos and threes, a dotted note lengthened. He said his task was to reconcile that rhythm with modern bars. The metre is mixed and the bar line hidden.
    *Works on:* rhythm.
-   *Why:* to keep the rhythmic motion of chant: changing metres blur the bar line, so there are no strong beats, which chant does not have. He wanted to reconcile the Solesmes rhythm with modern metre as far as he could. [Wiles; All Classical]
+   *Why:* to keep the rhythmic motion of chant: changing metres blur the bar line, so there are no strong beats, which chant does not have. He wanted to reconcile the Solesmes rhythm with modern metre as far as he could. [Wiles; All Classical] *(an analysis; his words)*
    *How:* write the line in even short notes grouped in twos and threes as the tune asks, and let each bar be as long as its groups, so that the bar line is not heard.
    *Where:* the Requiem and the motets, wherever the chant is sung. [LA Phil; All Classical; Wiles]
 3. **Organ and voices take turns with the chant, in one unbroken stream.** The organ gives the melody while the voices sing, the one beginning as the other ends; two "choirs" answering each other, as in the old organ masses. His chorale variations follow the French manner of organ verses between sung ones.
    *Works on:* texture, colour.
-   *Why:* an exchange like two choirs, as in Frescobaldi's organ masses, with the chant carried through without a break; the chant, not a plan of keys, shapes the music. [Wiles]
+   *Why:* an exchange like two choirs, as in Frescobaldi's organ masses, with the chant carried through without a break; the chant, not a plan of keys, shapes the music. [Wiles] *(an analysis)*
    *How:* pass the chant between voices and organ, each phrase picked up exactly where the other stops, with no gap and no overlap.
    *Where:* the *Messe "Cum jubilo"* op. 11; the *Veni Creator* variations op. 4. [Wiles; Cardiff thesis]
 4. **Modes, not keys.** He works from the notes of a mode more than from chord functions. Named in the *Cum jubilo* mass: D Dorian (Kyrie), G Mixolydian (Gloria), E Lydian moving to F Lydian (Sanctus).
    *Works on:* harmony.
-   *Why:* the chords come from lines moving in the mode's notes, which recalls early music; nothing pulls toward a keynote as major and minor do. [Wiles]
+   *Why:* the chords come from lines moving in the mode's notes, which recalls early music; nothing pulls toward a keynote as major and minor do. [Wiles] *(an analysis)*
    *How:* choose a mode for each movement and build the chords from its notes, not from the pull of dominant to tonic.
    *Where:* *Messe "Cum jubilo"*: Kyrie (D Dorian), Gloria (G Mixolydian), Sanctus (E Lydian to F Lydian). [Wiles; All Classical]
 5. **The chant moved to other levels.** In the Gloria the voices give the chant on G, then on C, F and C again; the organ gives it a minor third higher.
    *Works on:* melody, harmony.
-   *Why:* each new level brings new chromatic notes, and the modes compete. [Wiles]
+   *Why:* each new level brings new chromatic notes, and the modes compete. [Wiles] *(an analysis)*
    *How:* repeat the chant on other starting notes in turn, and let the accompanying instrument play it at yet another level against the voices.
    *Where:* *Messe "Cum jubilo"*, Gloria. [Wiles]
 6. **A long held bass.** F under the first 33 bars of the Gloria, like a reciting tone.
    *Works on:* harmony, texture.
-   *Why:* a reciting tone under the chant; as the chant moves to other levels over it, it leaves the mode in doubt. [Wiles]
+   *Why:* a reciting tone under the chant; as the chant moves to other levels over it, it leaves the mode in doubt. [Wiles] *(an analysis)*
    *How:* hold one bass note for thirty bars or more, as a reciting tone, while the chant moves above it.
    *Where:* *Messe "Cum jubilo"*, Gloria, bars 1 to 33. [Wiles]
 7. **Chords with an added sixth, seventh or ninth,** on the notes of the mode: the colour people call impressionist ("a liturgical Debussy").
@@ -45,7 +45,7 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
    *Where:* the Requiem and the motets. [Cardiff thesis; LA Phil]
 8. **Two forms of one note side by side.** B natural and B flat in the Kyrie: Dorian against the plain minor.
    *Works on:* harmony.
-   *Why:* the B flat avoids the tritone, as chant singers did; side by side with B natural it sets two modes against each other, the main source of chromatic tension in the mass. [Wiles]
+   *Why:* the B flat avoids the tritone, as chant singers did; side by side with B natural it sets two modes against each other, the main source of chromatic tension in the mass. [Wiles] *(an analysis)*
    *How:* let one degree of the mode appear in both forms close together (raised and lowered), so that two modes touch.
    *Where:* *Messe "Cum jubilo"*, Kyrie (B natural and B flat). [Wiles]
 9. **Men in unison** for an old sound (the *Cum jubilo* mass is for unison baritones).
@@ -54,7 +54,7 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
    *Where:* *Messe "Cum jubilo"*. [Wiles]
 10. **The end reaches the major by the flat sixth and flat seventh** (last Agnus Dei, to D major).
     *Works on:* harmony, form.
-    *Why:* the flat sixth and flat seventh reach the keynote without the half step that pulls into it in major and minor, so the close keeps the mode of the opening and hints at the whole-tone scale. It is set with the voices still singing the chant, which stays between modes, while the organ's melody brings the C sharp that makes D major certain. [Wiles]
+    *Why:* the flat sixth and flat seventh reach the keynote without the half step that pulls into it in major and minor, so the close keeps the mode of the opening and hints at the whole-tone scale. It is set with the voices still singing the chant, which stays between modes, while the organ's melody brings the C sharp that makes D major certain. [Wiles] *(an analysis)*
     *How:* the voices and the organ sing the last line of chant together; the organ's melody brings the major third; then the chords step through the flat sixth and the flat seventh to the major chord. Beware: under held voices and slow strings this close sounded like film music to Philip (composer-blend, piece 65).
     *Where:* *Messe "Cum jubilo"*, the last Agnus Dei. [Wiles]
 11. **Other scales in what he adds himself:** the scale of alternate tones and semitones (Benedictus, Agnus), whole-tone fragments, and a five-note figure in the bass that fills out to a seven-note scale (Sanctus).
@@ -63,7 +63,7 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
     *Where:* *Messe "Cum jubilo"*: Benedictus and Agnus Dei (tones and semitones), Sanctus (the bass figure). [Wiles]
 12. **The organ comes and goes** (Requiem, his words): it enters to underline an accent or to stand in for the orchestra for a moment.
     *Works on:* texture, colour.
-    *Why:* in his words the organ stands for peace, faith and hope, and it relieves the orchestra's "all too human" sound for a moment; it does not support the choir. [All Classical]
+    *Why:* in his words the organ stands for peace, faith and hope, and it relieves the orchestra's "all too human" sound for a moment; it does not support the choir. [All Classical] *(his words)*
     *How:* use the organ only now and then: to mark an accent or to hold the harmony for a moment, then let it drop out.
     *Where:* the Requiem, by his own description. [All Classical]
 13. **Calm, like Fauré's.** No *Dies irae* but its last lines, the *Pie Jesu*, for mezzo-soprano with a solo cello; the burial service's *In paradisum* to close.

@@ -12,7 +12,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 
 1. **A wordless song at the start, and the same song at the end, sadder.** The Children's Songs open with an introduction sung without words; the coda repeats its material in a much sadder tone, after the cycle has gone from four light, playful songs to a child's grief at a home destroyed.
    *Works on:* melody, form.
-   *Why:* the return, sadder, is a lament for what has been lost (the review's phrase is the land of lost content). [MusicWeb]
+   *Why:* the return, sadder, is a lament for what has been lost (the review's phrase is the land of lost content). [MusicWeb] *(an analysis)*
    *How:* open with a short wordless tune (on a syllable, or on an instrument); at the very end bring it back with the same notes, slower, softer and in a darker harmony, after what came between has changed its meaning.
    *Where:* Children's Songs op. 13, the introduction and the coda. [MusicWeb; Oxford Song]
 2. **From light to darkness,** by sharp contrast: lyrical and scherzo-like songs against tragic ones; the war through a child's eyes.
@@ -25,7 +25,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* Jewish Songs op. 13 and op. 17. [mus.academy]
 4. **Not really childish:** spiky energy and angular lines under the children's words.
    *Works on:* melody, rhythm.
-   *Why:* in Stalin's Russia the Jewish content of the poems could not be named, so the cycle was called children's songs; there is little that is childish in it. [MusicWeb]
+   *Why:* in Stalin's Russia the Jewish content of the poems could not be named, so the cycle was called children's songs; there is little that is childish in it. [MusicWeb] *(an analysis)*
    *How:* keep a children's text and a simple pulse, but give the tune angular leaps and sharp accents.
    *Where:* Children's Songs op. 13, the four light songs. [MusicWeb]
 5. **A simple singing tune at the start, low and soft,** on the clarinet; the piano answers with a playful, wandering tune over a rather mechanical bass. The piano stays bare and plain all through.
@@ -34,17 +34,17 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* Clarinet Sonata op. 28, first movement, the opening. [Uniarts]
 6. **A dance tune over an even, plain accompaniment,** with the seconds and minor thirds of klezmer, odd trills, grace notes like sobs, and wailing lines.
    *Works on:* melody, rhythm.
-   *Why:* a memory of carefree Jewish family life in Poland before the war, seen as a child sees it. [Uniarts]
+   *Why:* a memory of carefree Jewish family life in Poland before the war, seen as a child sees it. [Uniarts] *(an analysis)*
    *How:* over a plain accompaniment in even notes, a dance tune moving by seconds and minor thirds, with grace notes before its strong notes, trills in odd places, and lines that slide and wail.
    *Where:* Clarinet Sonata op. 28, second movement (*Allegretto*). [Uniarts]
 7. **The folk manner is pushed until it turns:** the grace notes and trills come more and more often, the half-step figures insist, and at the height what was carefree is desperate.
    *Works on:* melody, form.
-   *Why:* like an unwanted memory that keeps breaking into one's thoughts, until the carefree turns to sorrow and despair. [Uniarts]
+   *Why:* like an unwanted memory that keeps breaking into one's thoughts, until the carefree turns to sorrow and despair. [Uniarts] *(an analysis)*
    *How:* repeat the dance with more ornaments each time and with its half-step figures said more and more often, louder, until the same material sounds desperate.
    *Where:* Clarinet Sonata op. 28, second movement, up to its climax. [Uniarts]
 8. **The stuck record:** at that height the piano repeats one fragment so stubbornly that it sounds like a machine.
    *Works on:* rhythm, texture.
-   *Why:* the pianist seems to have gone, and the part sounds like a piano roll or a record that has stuck: the memory that will not leave. [Uniarts]
+   *Why:* the pianist seems to have gone, and the part sounds like a piano roll or a record that has stuck: the memory that will not leave. [Uniarts] *(an analysis)*
    *How:* at the height, take one short fragment of the accompaniment and repeat it unchanged, many more times than is natural.
    *Where:* Clarinet Sonata op. 28, second movement, the climax. [Uniarts]
 9. **Then it calms, the opening comes back soft, and the last chord is major.** All three movements of the sonata end on a major chord, two of them after sorrow.
@@ -53,7 +53,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* Clarinet Sonata op. 28, the end of each movement. [Uniarts]
 10. **A solo that plays alone:** the slow movement opens with the piano alone, then the clarinet alone, broken only by a few deep chords. He also wrote twenty-four preludes for a cello alone.
     *Works on:* texture, colour.
-    *Why:* the two solos carry the deepest sorrow of the sonata (David Fanning's reading, as the source reports it). [Uniarts]
+    *Why:* the two solos carry the deepest sorrow of the sonata (David Fanning's reading, as the source reports it). [Uniarts] *(an analysis)*
     *How:* let each player have a long passage alone, the other answering only with a few low chords; at the end, let the solo line come back to its opening tune and fade.
     *Where:* Clarinet Sonata op. 28, third movement (*Adagio*); the 24 Preludes for cello. [Uniarts; Wikipedia]
 11. **Clarinet and violin** are the solo voices he favours in orchestral works; laments in the slow music, klezmer in the lively.
@@ -70,7 +70,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
     *Where:* the Piano Quintet. [Wikipedia]
 14. **Music for children and for the circus and cartoons:** a ballet from a children's show, the songs of the Soviet *Winnie-the-Pooh*, much circus music; lullabies with a rocking motion all through (op. 110).
     *Works on:* rhythm, texture.
-    *Why:* his lullabies keep rocking, but the poems carry an adult's need for comfort and a comment on society, so they do not stay simple. [MusicWeb]
+    *Why:* his lullabies keep rocking, but the poems carry an adult's need for comfort and a comment on society, so they do not stay simple. [MusicWeb] *(an analysis)*
     *How:* for a lullaby, keep one rocking figure going from first bar to last; for children's music, short tunes, clear rhythms and bright colours.
     *Where:* *Rocking the Child* op. 110; *Winnie-the-Pooh* (1969); the ballet *The Golden Key*. [Wikipedia; MusicWeb]
 

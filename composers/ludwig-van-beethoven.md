@@ -12,12 +12,12 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 
 1. **A hymn in the Lydian mode.** F with B natural where F major has B flat. In the first hymn (30 bars, 309 notes) there is not one B flat: the notes are the white keys, and one C sharp. He wrote the mode into the title.
    *Works on:* melody, harmony.
-   *Why:* the mode gives the hymn an old, church-like quality, one linked with healing; its B naturals keep turning away from the chords the ear expects. [Chamber Music Society]
+   *Why:* the mode gives the hymn an old, church-like quality, one linked with healing; its B naturals keep turning away from the chords the ear expects. [Chamber Music Society] *(an analysis)*
    *How:* write the hymn on the white notes from F to F, so that the fourth degree is raised (B natural in F) and never lowered.
    *Where:* String Quartet op. 132, third movement, the first hymn (bars 1 to 30). **[score; Chamber Music Society]**
 2. **Two note values.** In the first hymn every note is a half note (162) or a quarter (147). The half notes are the hymn.
    *Works on:* rhythm.
-   *Why:* the long notes are the chorale played as chorales were then played in church, very slowly: his thanks "to the Godhead" for his recovery. [Chamber Music Society]
+   *Why:* the long notes are the chorale played as chorales were then played in church, very slowly: his thanks "to the Godhead" for his recovery. [Chamber Music Society] *(an analysis; his words)*
    *How:* use only two note values: the hymn's chords in half notes, everything around them in quarters.
    *Where:* op. 132, third movement, the first hymn. **[score]**
 3. **A short introduction before every line.** Two bars of quarters in which the four enter one after another, *sotto voce*: first violin, second violin, viola, cello, each half a bar after the one before. Then the line: eight half notes, four bars, the four together in block chords. Five times: four lines, and the last line again with a new ending.
@@ -30,12 +30,12 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
    *Where:* op. 132, third movement, every line of the three hymns. **[score]**
 5. **It alternates with "feeling new strength."** *Andante*, 3/8, in D major, 53 bars both times. Quick decoration: in the first, 513 of 1,063 notes are thirty-seconds. Twelve trills each time. The first violin leaps up to two and a half octaves. Soft and loud stand side by side (*p* 46 times, *f* 23, *pp* 11).
    *Works on:* melody, rhythm, form.
-   *Why:* the dance-like sections hint at his recovery, as the heading says. [Chamber Music Society]
+   *Why:* the dance-like sections hint at his recovery, as the heading says. [Chamber Music Society] *(his words)*
    *How:* between the hymns, a contrasting section in a quicker three, full of quick ornament, trills and wide leaps, its loud and soft side by side, the same length each time.
    *Where:* op. 132, third movement, the two *Andante* sections. **[score]**
 6. **He changes keynote for it, not only mode:** from F to D, a third below, and from no sharps to two.
    *Works on:* harmony, form.
-   *Why:* the new strength comes in a key with two sharps, outside the hymn's white notes, so the two never share a scale. **[score]**
+   *Why:* the new strength comes in a key with two sharps, outside the hymn's white notes, so the two never share a scale. **[score]** *(from the score)*
    *How:* for the contrasting section, move the keynote a third down and change the key signature, rather than only turning to the other mode.
    *Where:* op. 132, third movement: the hymns on F, the *Andante* sections in D major. **[score]**
 7. **Three hymns, each changed.** A theme and two variations.

@@ -20,17 +20,17 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
    *Where:* Symphony no. 1, all its themes; Symphony no. 4, the slow movement's theme. [ASO; Wikipedia 4]
 2. **Five notes.** Most themes are on a five-note scale (in F: F G A C D), or on the natural minor.
    *Works on:* melody.
-   *Why:* the five-note scale ties her tunes to African American music, jazz and the blues among it. [UNC]
+   *Why:* the five-note scale ties her tunes to African American music, jazz and the blues among it. [UNC] *(an analysis)*
    *How:* write the tune with those five notes only; let the harmony under it use all twelve.
    *Where:* most themes of the first, third and fourth symphonies. [Wikipedia 1, 3, 4; UNC; Ege]
 3. **Swinging thirds, and a sixth that stays.** A tune turns around the sixth, first and third notes of its key (in C: A, C, E), leaping from the sixth up to the first and on to the third, where a European tune would step from the sixth down to the fifth. The first chord of such a tune is the tonic with its sixth added, heard as home.
    *Works on:* melody, harmony.
-   *Why:* the swing across 6, 1 and 3 is a mark of Black vernacular music, and the sixth stands as a note in its own right, not one waiting to fall to the fifth. [Hutchinson]
+   *Why:* the swing across 6, 1 and 3 is a mark of Black vernacular music, and the sixth stands as a note in its own right, not one waiting to fall to the fifth. [Hutchinson] *(an analysis)*
    *How:* begin 6-1-3 or 1-3-2-1-6-1; put the sixth on top of tonic chords, and treat that chord as home.
    *Where:* her themes, by the two studies; no bar is named. [Hutchinson; Ege]
 4. **Short, long, short.** Quarter-half-quarter, and the same twice and four times as fast. In the first symphony's slow movement a short-short-long figure has its long note on the strong beat, so it settles where the first movement's version pushed on.
    *Works on:* rhythm.
-   *Why:* the figure comes back across the movements and holds the symphony together; it holds back the arrival the ear expects, which pushes the music forward. In the slow movement it sits earlier in the beat and feels settled. [WETA]
+   *Why:* the figure comes back across the movements and holds the symphony together; it holds back the arrival the ear expects, which pushes the music forward. In the slow movement it sits earlier in the beat and feels settled. [WETA] *(an analysis)*
    *How:* build rhythms on short-long-short, at several speeds; in a slow movement, turn it so that the long note lands on the strong beat.
    *Where:* Symphony no. 1, the first movement and the slow movement. [Ege; WETA]
 5. **Each start higher.** The motifs of a theme begin on rising notes (E, then G, then B) and peak an octave above the first.
@@ -54,7 +54,7 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
    *Where:* her themes on their returns, by the two studies. [Hutchinson; Ege]
 9. **A lowered seventh on the home chord, leaning into the fourth; then a chain of borrowed dominants to the cadence.**
    *Works on:* harmony.
-   *Why:* the lowered seventh is a blue note, and it also turns away the cadence the phrase seemed to reach; the chain of dominants then drives to the real one. [Hutchinson]
+   *Why:* the lowered seventh is a blue note, and it also turns away the cadence the phrase seemed to reach; the chain of dominants then drives to the real one. [Hutchinson] *(an analysis)*
    *How:* add the lowered seventh to the home chord so that it leans toward the chord on the fourth; reach the cadence through a chain of dominants of the chords ahead.
    *Where:* her harmony, by the two studies. [Hutchinson; Ege]
 10. **An inner voice that creeps over a held bass:** fifth, raised fifth, sixth, lowered sixth, in a two-bar cycle, swelling and fading.
@@ -63,12 +63,12 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
     *Where:* her harmony, by Ege's study. [Ege]
 11. **Keys a third apart.** Refrain at home, episodes on the sixth and the third (in C: A minor, E minor). The first symphony's slow movement has its interlude a third below its closing chord (C sharp minor, E major).
     *Works on:* harmony, form.
-    *Why:* the third that her tunes swing across (6, 1, 3) becomes the distance between the sections, so the form makes the tune's swing on a large scale. [Hutchinson]
+    *Why:* the third that her tunes swing across (6, 1, 3) becomes the distance between the sections, so the form makes the tune's swing on a large scale. [Hutchinson] *(an analysis)*
     *How:* keep the refrain at home and put the episodes in keys a third away.
     *Where:* Symphony no. 1, the slow movement (the interlude in C sharp minor, the close in E major). [Hutchinson; Ege; Wikipedia 1]
 12. **The close is plagal.** An extension through the sixth and the fourth chords; the tune ends third-to-first, or with 6-1-3 once more; at the very end the sixth falls to the fifth. The third symphony's slow movement ends on a plagal cadence.
     *Works on:* harmony, form.
-    *Why:* the plagal chords carry one last 6-1-3 swing; only at the very end does the sixth act as a sixth usually does and fall to the fifth. [Hutchinson]
+    *Why:* the plagal chords carry one last 6-1-3 swing; only at the very end does the sixth act as a sixth usually does and fall to the fifth. [Hutchinson] *(an analysis)*
     *How:* end on the chord of the fourth to the home chord, after an extension through the chords on the sixth and the fourth; let the tune end third-to-first, and the sixth fall to the fifth at the last moment.
     *Where:* Symphony no. 3, the slow movement's end. [Hutchinson; Wikipedia 3]
 13. **A cadence avoided once before it is made.**
@@ -80,12 +80,12 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
 
 14. **A hymn of her own for the brass choir.** Ten brass (four horns, two trumpets, three trombones, tuba) in four-part harmony, the tuba in its middle register, not low. Slow, proud, like a slow march.
     *Works on:* harmony, colour.
-    *Why:* a proud, hopeful hymn out of her own life in the church, where a symphony's slow movement would not lead one to expect it; the brass in four parts gives it a sense of transcendence. [WETA; Philadelphia]
+    *Why:* a proud, hopeful hymn out of her own life in the church, where a symphony's slow movement would not lead one to expect it; the brass in four parts gives it a sense of transcendence. [WETA; Philadelphia] *(a listener)*
     *How:* write a hymn tune in four parts for the brass alone, slow and proud, with the tuba in its middle register.
     *Where:* Symphony no. 1, the slow movement. [UNC; ASO; Philadelphia; WETA]
 15. **Drums under the hymn.** A large and a small African drum, played with the hands, and timpani.
     *Works on:* rhythm, colour.
-    *Why:* the same hand drums come back in the juba, which ties the slow movement to the dance. [WETA]
+    *Why:* the same hand drums come back in the juba, which ties the slow movement to the dance. [WETA] *(an analysis)*
     *How:* under the hymn, two hand drums, one large and one small, with timpani.
     *Where:* Symphony no. 1, the slow movement. [UNC; WETA]
 16. **Woodwinds break in on the hymn:** flutes and clarinets, during the statements.
@@ -102,7 +102,7 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
     *Where:* Symphony no. 1, the slow movement. [Wikipedia 1]
 19. **A sudden flutter upward in the strings,** like an organ fantasy, that climbs until it lands.
     *Works on:* texture, colour.
-    *Why:* it comes from her life as an organist, the organ fantasy or toccata. [WETA]
+    *Why:* it comes from her life as an organist, the organ fantasy or toccata. [WETA] *(an analysis)*
     *How:* a sudden run of quick notes up through the strings, climbing until it lands on a chord.
     *Where:* Symphony no. 1, the slow movement. [WETA]
 20. **The hymn comes back decorated:** a clarinet running over it, and cathedral chimes.
@@ -111,12 +111,12 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
     *Where:* Symphony no. 1, the slow movement, the return. [Wikipedia 1]
 21. **Quiet.** It rarely reaches a real forte; the changes of loudness are small; it ends gently on a major chord in the strings.
     *Works on:* loudness.
-    *Why:* its small changes of loudness keep it reverent, optimistic and spacious. [New Bedford; Philadelphia]
+    *Why:* its small changes of loudness keep it reverent, optimistic and spacious. [New Bedford; Philadelphia] *(a listener)*
     *How:* keep the level moderate and the changes small; end softly on a major chord in the strings.
     *Where:* Symphony no. 1, the slow movement. [Philadelphia; New Bedford; Wikipedia 1]
 22. *Third symphony:* an oboe alone over low woodwinds, echoed by the strings; a bassoon tune on five notes; the calm broken by whole-tone passages and by brass and timpani; choirs answering each other.
     *Works on:* texture, form, colour.
-    *Why:* the whole-tone passages mark it as music of the twentieth century, not the nineteenth. [LA Phil]
+    *Why:* the whole-tone passages mark it as music of the twentieth century, not the nineteenth. [LA Phil] *(an analysis)*
     *How:* begin with one oboe over low woodwinds, echoed by the strings; give a five-note tune to the bassoon; break the calm with whole-tone passages, brass and timpani; let the families answer each other.
     *Where:* Symphony no. 3, the slow movement. [Wikipedia 3; LA Phil]
 23. *Fourth symphony:* an arch (out and back), about five minutes, on a theme from one of her own piano fantasies.
@@ -128,12 +128,12 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
 
 24. **A juba where the scherzo would be,** in every symphony, and in chamber works.
     *Works on:* form.
-    *Why:* a juba keeps what the minuet had (a dance) and what the scherzo had (humour); she held rhythm to be the most important element of African American music. [Classics for Kids; ASO]
+    *Why:* a juba keeps what the minuet had (a dance) and what the scherzo had (humour); she held rhythm to be the most important element of African American music. [Classics for Kids; ASO] *(an analysis; her words)*
     *How:* in a work of several movements, put a juba in the place of the scherzo.
     *Where:* the jubas of her symphonies; chamber works. [Classics for Kids; Philadelphia]
 25. **What it imitates.** A dance of enslaved people for whom drums were banned: stomping, and patting the hands, chest, thighs and cheeks, in off-beat patterns. It fed ragtime and the cakewalk.
     *Works on:* rhythm.
-    *Why:* the body did the drums' work because drums were banned, and the dance was a way to let out frustration and anger, as the WETA programme tells it. [WETA]
+    *Why:* the body did the drums' work because drums were banned, and the dance was a way to let out frustration and anger, as the WETA programme tells it. [WETA] *(an analysis)*
     *How:* imitate stamping and patting: short struck sounds in off-beat patterns against a steady beat.
     *Where:* the dance itself, as the sources describe it. [WETA; Classics for Kids; Philadelphia]
 26. **First symphony:** *Allegro*, in 4/8, under four minutes, a rondo. A syncopated five-note tune in the violins over a plucked "oom-pah" in the low strings; it begins with a step down.
@@ -154,7 +154,7 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
     *Where:* Symphony no. 1, the juba. [Wikipedia 1]
 30. *Third symphony:* no repeating figure under it; the percussion implies the beat; strongly syncopated; something of the habanera and of Gershwin; a theme with the blues in it; wood blocks, castanets, tambourine, xylophone, sand blocks.
     *Works on:* rhythm, colour.
-    *Why:* its blues theme brings another side of Black vernacular music into the symphony. [LA Phil]
+    *Why:* its blues theme brings another side of Black vernacular music into the symphony. [LA Phil] *(an analysis)*
     *How:* leave out a repeating bass figure and let the percussion imply the beat; syncopate strongly; colour the tunes with the blues; use light percussion (wood blocks, castanets, tambourine, xylophone, sand blocks).
     *Where:* Symphony no. 3, the juba. [Wikipedia 3; LA Phil]
 31. *Fourth symphony:* a plain three-part form; a very syncopated tune over a steady bass, like ragtime; about five minutes.
@@ -174,17 +174,17 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
 
 34. **A short figure handed quickly from bassoon to oboe to flute to clarinet to strings;** winds joined on shared notes so that three instruments sound like one long voice.
     *Works on:* texture, colour.
-    *Why:* several winds joined on their shared notes make one long instrument, and the passage opens out like a pastoral landscape with birds in it. [WETA]
+    *Why:* several winds joined on their shared notes make one long instrument, and the passage opens out like a pastoral landscape with birds in it. [WETA] *(a listener)*
     *How:* pass a short figure quickly from one wind to the next, each taking over on a note the last one holds, so that several sound like one line.
     *Where:* Symphony no. 1. [WETA]
 35. **Triplets high in the violins against twos below:** a shimmer.
     *Works on:* rhythm, texture, colour.
-    *Why:* the two rhythms never line up, which makes the surface ripple, like light on water. [WETA]
+    *Why:* the two rhythms never line up, which makes the surface ripple, like light on water. [WETA] *(a listener)*
     *How:* high violins in triplets over lower parts in twos, softly, for a shimmer.
     *Where:* Symphony no. 1. [WETA]
 36. **Dvořák's *New World* as the model:** its key, a syncopated solo to open, its spirit.
     *Works on:* background.
-    *Why:* she took Dvořák's call for an American national music personally, as Rae Linda Brown suggests. [Wikipedia 1]
+    *Why:* she took Dvořák's call for an American national music personally, as Rae Linda Brown suggests. [Wikipedia 1] *(an analysis)*
     *How:* not a technique: the model she took, which explains the key and the opening solo of her first symphony.
     *Where:* Symphony no. 1, the opening. [Wikipedia 1; Philadelphia]
 
