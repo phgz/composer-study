@@ -7,6 +7,10 @@ Measured studies of the composers in score-reader's catalogue, for composer-blen
 - **`study/periods.py`**: reads it (`period_of`). **`study/coverage.py <score-reader>/catalogue`**: how many works the numbers and titles place, composer by composer. Placing by year needs score-reader's facts and is not counted there.
 - **`data/eras.json`**: each composer's shared period, the level a narrow unit falls back to after the composer and where the caps are counted (a composer's tenth, a collection's third: `TRAINING.md`, section 4): the sheet's period where the sheet has the composer, else by the year of birth on the sheet's own boundaries. **`study/eras.py`** reads it (`era_of`).
 
+## Research on composers: the skill
+
+`.agents/skills/music-llm-study/` is the skill for researching a composer: writing or extending a page in `composers/`, reading scores through score-reader and sources, checking what a source says. `AGENTS.md` routes tasks; `SKILLS.md` says how to package the skill for Claude (`tools/package_skill.py`).
+
 ## The listener's ear
 
 - **`study/lines.py`**: the works of score-reader's ready-read copy as melodic lines, by `TRAINING.md`.

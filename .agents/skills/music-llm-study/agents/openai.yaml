@@ -1,0 +1,4 @@
+interface:
+  display_name: "Composer Study"
+  short_description: "Research composers for the composer-blend project"
+  default_prompt: "Use $music-llm-study to read this composer from scores and sources and extend their page in composer-study."
