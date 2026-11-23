@@ -1,0 +1,1 @@
+The scripts and results behind `checks/vertical-weight-2026-11-23.md`, as they ran on 23 November 2026: `phaseI.py` (the weight for hearing; `phaseI.json`) and `phaseJ.py` (the weight for drawing, scored at 1 and at 0.75: `phaseJ_score1.json`, `phaseJ_score0.75.json`). Their paths point to the session's scratch folder, as in `checks/vertical-nested-2026-11-23/`.

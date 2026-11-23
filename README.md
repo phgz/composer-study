@@ -112,6 +112,14 @@ A narrow unit is a composer in one kind of piece and one period: Chopin's mazurk
   - The gain is largest where the readings hold real voices: Corelli's trio sonatas 2.84 to 1.95, Bach's chorales 2.86 to 2.36, Palestrina's motets 2.69 to 2.34.
   - It is smallest for keyboard music: Beethoven's early sonatas 2.94 to 2.91, Chopin's Paris dances 2.87 to 2.82. The readings give each hand as one line (its top notes), so there are no inner voices to learn from.
   - The vertical view enters as a product, raised to a weight. A plain geometric mean with the line's prediction made the line worse (2.90); weighed 0.5 it helps everywhere, and weighed 1 it helps inner lines most (2.29 against 2.33).
+  - **The levels' vertical views are nested** (since 23 November 2026, `checks/vertical-nested-2026-11-23.md`). Each specific level's counts sit on the prediction of the level above as a prior worth 200 notes. A unit is heard its own way where it has heard much, and mostly as the catalogue hears it where it has heard little.
+    - Before, the levels voted equally. Weber's works for voices hold 5 notes over a bass on the lowered second with a third on top, the catalogue 48,000, and his two levels outvoted the catalogue: piece 64b's inner voices set B and E flat against its Neapolitans.
+    - Held out, nested: the standing test 2.52 to 2.51 bits a note (inner lines 2.29 to 2.28).
+    - Units learnt from 4 works: inner lines 2.55 to 2.48.
+    - Every unit heard through Weber's levels: inner lines 2.85 to 2.75.
+    - Over piece 64b's Neapolitans, the samples' time on the chord's own notes: 30% to 61%, every one of 24 segments gaining.
+    - Corelli, thinly sampled, loses: his readings' doubled bass is a habit the catalogue does not have.
+  - **The vertical view's weight, retuned with the nested view** (`checks/vertical-weight-2026-11-23.md`): 0.75 for hearing and for scoring proposals, in place of 0.5 and 1. Held out: all lines 2.49 bits a note, inner lines 2.27 (2.52 and 2.29 with the geometric mean). Drawing proposals keeps 2.
 - **Sampling:** a continuation is drawn note by note, within a range and between the lines it must not cross, its time-spans snapped to the durations the unit uses most.
   - It is drawn without the piece's own memory. With it, a line loops on itself: its samples were far less surprising than the unit's real inner voices (2.4 to 2.7 bits a note against 4.2 to 4.4, Bach's chorales and Mozart's quartets), and less consonant.
   - Without it, and with the vertical view weighed double: 3.6 to 4.4 bits a note against the real 4.2 to 4.8; consonant with the outer voices 61% to 70% of the time, against the real 63% to 71%.

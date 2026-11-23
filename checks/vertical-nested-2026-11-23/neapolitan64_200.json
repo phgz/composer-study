@@ -1,0 +1,114 @@
+{
+ "1-alto-2 (bars 6-9)": {
+  "mean None": 0.11,
+  "level 200": 0.4
+ },
+ "1-tenor-2 (bars 6-9)": {
+  "mean None": 0.18,
+  "level 200": 0.365
+ },
+ "1-alto-8 (bars 30-32)": {
+  "mean None": 0.175,
+  "level 200": 0.435
+ },
+ "1-tenor-8 (bars 30-32)": {
+  "mean None": 0.45,
+  "level 200": 0.8025
+ },
+ "2-alto-2 (bars 37-40)": {
+  "mean None": 0.4775,
+  "level 200": 0.7825
+ },
+ "2-tenor-2 (bars 37-40)": {
+  "mean None": 0.225,
+  "level 200": 0.6475
+ },
+ "2-alto-4 (bars 45-48)": {
+  "mean None": 0.3475,
+  "level 200": 0.7975
+ },
+ "2-tenor-4 (bars 45-48)": {
+  "mean None": 0.4125,
+  "level 200": 0.84
+ },
+ "2-alto-6 (bars 53-56)": {
+  "mean None": 0.1925,
+  "level 200": 0.5425
+ },
+ "2-tenor-6 (bars 53-56)": {
+  "mean None": 0.485,
+  "level 200": 0.735
+ },
+ "2-alto-8 (bars 61-64)": {
+  "mean None": 0.2475,
+  "level 200": 0.64
+ },
+ "2-tenor-8 (bars 61-64)": {
+  "mean None": 0.145,
+  "level 200": 0.705
+ },
+ "2-alto-10 (bars 69-72)": {
+  "mean None": 0.2675,
+  "level 200": 0.8075
+ },
+ "2-tenor-10 (bars 69-72)": {
+  "mean None": 0.1375,
+  "level 200": 0.4375
+ },
+ "3-alto-2 (bars 93-96)": {
+  "mean None": 0.1375,
+  "level 200": 0.45
+ },
+ "3-tenor-2 (bars 93-96)": {
+  "mean None": 0.1425,
+  "level 200": 0.3225
+ },
+ "3-alto-4 (bars 101-104)": {
+  "mean None": 0.3325,
+  "level 200": 0.805
+ },
+ "3-tenor-4 (bars 101-104)": {
+  "mean None": 0.4875,
+  "level 200": 0.8625
+ },
+ "4-alto-2 (bars 109-112)": {
+  "mean None": 0.56,
+  "level 200": 0.615
+ },
+ "4-tenor-2 (bars 109-112)": {
+  "mean None": 0.245,
+  "level 200": 0.525
+ },
+ "4-alto-4 (bars 117-120)": {
+  "mean None": 0.57,
+  "level 200": 0.58
+ },
+ "4-tenor-4 (bars 117-120)": {
+  "mean None": 0.2075,
+  "level 200": 0.4225
+ },
+ "4-alto-10 (bars 141-144)": {
+  "mean None": 0.383,
+  "level 200": 0.845
+ },
+ "4-tenor-10 (bars 141-144)": {
+  "mean None": 0.206,
+  "level 200": 0.744
+ },
+ "5-alto-2 (bars 153-156)": {
+  "mean None": 0.5275,
+  "level 200": 0.8475
+ },
+ "5-tenor-2 (bars 153-156)": {
+  "mean None": 0.16,
+  "level 200": 0.47
+ },
+ "5-alto-3 (bars 157-160)": {
+  "mean None": 0.1275,
+  "level 200": 0.3875
+ },
+ "5-tenor-3 (bars 157-160)": {
+  "mean None": 0.21,
+  "level 200": 0.5375
+ }
+}
