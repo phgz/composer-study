@@ -114,6 +114,7 @@ A narrow unit is a composer in one kind of piece and one period: Chopin's mazurk
     - Every unit heard through Weber's levels: inner lines 2.85 to 2.75.
     - Over piece 64b's Neapolitans, the samples' time on the chord's own notes: 30% to 61%, every one of 24 segments gaining.
     - Corelli, thinly sampled, loses: his readings' doubled bass is a habit the catalogue does not have.
+  - **The vertical view's weight, retuned with the nested view** (`checks/vertical-weight-2026-11-23.md`): 0.75 for hearing and for scoring proposals, in place of 0.5 and 1. Held out: all lines 2.49 bits a note, inner lines 2.27 (2.52 and 2.29 with the geometric mean). Drawing proposals keeps 2.
 - **Sampling:** a continuation is drawn note by note, within a range and between the lines it must not cross, its time-spans snapped to the durations the unit uses most.
   - It is drawn without the piece's own memory. With it, a line loops on itself: its samples were far less surprising than the unit's real inner voices (2.4 to 2.7 bits a note against 4.2 to 4.4, Bach's chorales and Mozart's quartets), and less consonant.
   - Without it, and with the vertical view weighed double: 3.6 to 4.4 bits a note against the real 4.2 to 4.8; consonant with the outer voices 61% to 70% of the time, against the real 63% to 71%.

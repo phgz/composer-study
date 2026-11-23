@@ -45,7 +45,22 @@ Consonance with the other voices:
 | 3 | 70% | 68% | 63% | 68% |
 | 4 | 72% | 69% | 64% | 69% |
 
-The rest of this section (surprise and the band, scored at 0.75, and the choice) follows when the sampling test rescored at 0.75 is in.
+The share falling in the real passages' band, scored as proposals now are (`SCORE`, weight 0.75):
+
+| | Bach, chorales | Palestrina, motets | Mozart, quartets | Brahms, songs | all four |
+|---|---|---|---|---|---|
+| weight 1 | 38% | 59% | 68% | 23% | 47% |
+| 1.5 | 44% | 57% | 66% | 27% | 49% |
+| **2** | 37% | 53% | 69% | 25% | 46% |
+| 3 | 37% | 51% | 72% | 23% | 46% |
+| 4 | 39% | 52% | 69% | 25% | 46% |
+
+Scored as before (weight 1), the same picture: 45% to 46% at weights 1, 1.5, 2 and 4; 43% at 3.
+
+- **Consonance** comes closest to the real voices at 2 or 3: on average 2.3 points away at 2, 1.8 at 3. Bach and Mozart are closer at 3, Brahms at 2, Palestrina the same at both. At 1 the samples are too dissonant by 5 to 11 points, at 1.5 by 1 to 6.
+- **The band** barely moves with the weight (46% to 49%, within what 108 to 150 samples a unit can tell apart).
+- **Surprise:** the heavier the weight, the less surprising the samples, and they are less surprising than the real voices at every weight. The gap is small for Palestrina (4.43 at 2, against 4.70) and wide for Brahms (4.20 against 5.17).
+- **Kept: 2.** Nothing here asks for a change: 3 matches the real consonance a little better, 2 keeps a little more surprise, and the band cannot tell them apart.
 
 ## Not checked
 
