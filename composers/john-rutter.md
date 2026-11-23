@@ -44,14 +44,17 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* *Shepherd's Pipe Carol*, the subject; the sources name no bar of piping. [Wikipedia, Shepherd's Pipe Carol]
 9. **Tunes that sing and do not leap:** in the Requiem's gentle movements the lines are in the scale and avoid wide skips; the harmony is modern but not harsh.
    *Works on:* melody.
+   *Why:* lines that amateur choirs can sing, and a serene mood that dissonance would break. [Kálló]
    *How:* keep a gentle movement's tune in the scale, mostly by step, with no leap wider than a fifth; use chords with added notes but no harsh clashes.
    *Where:* Requiem, *Pie Jesu*, *Lux aeterna* and *The Lord is my shepherd*. [Kálló]
 10. **A small cell worked:** the soprano's tune in the *Pie Jesu* grows from a fifth, which is then turned upside down and later widened to an octave.
     *Works on:* melody.
+    *Why:* widening the fifth to an octave opens the voice's range and gives the tune room to move. [Kálló]
     *How:* begin a tune with one interval; answer it with the same interval turned upside down; later widen it (a fifth to an octave) at the high point.
     *Where:* Requiem, *Pie Jesu*, the soprano's opening and its returns. [Kálló]
 11. **A solo instrument per movement:** a cello opens *Out of the deep* and the voices take up its figures in unison, low; an oboe in *The Lord is my shepherd*; a harp sets the *Pie Jesu*. In the *Pie Jesu* one voice sings over very little and the choir only echoes the ends of the phrases.
     *Works on:* texture, colour.
+    *Why:* each solo sets its movement's mood: the oboe's singable tune the hope of *The Lord is my shepherd*, the harp the calm beyond words of the *Pie Jesu*. [Kálló]
     *How:* give each movement one solo instrument that leads or sets it; let one voice sing over very little, and the choir echo only the ends of its phrases.
     *Where:* Requiem: *Out of the deep* (cello), *The Lord is my shepherd* (oboe), *Pie Jesu* (harp and soprano). [Wikipedia, Requiem; Kálló]
 12. **A small band:** the Requiem's first version is for flute, oboe, timpani, glockenspiel, harp, cello and organ.
@@ -60,18 +63,22 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
     *Where:* Requiem, the first version (1985). [Wikipedia, Requiem]
 13. **Bells for joy:** the *Sanctus* is bright, with bells, flute and oboe, a flow of sixteenths in harp and organ, voices imitating one another, and a close where the entries crowd together.
     *Works on:* rhythm, texture, colour.
+    *Why:* the bright scoring makes the movement lively and exclamatory, like the seraphim of Isaiah 6; the running sixteenths keep it moving to its loud end. It is the work's jubilant centre. [Wikipedia, Requiem; Kálló]
     *How:* for a joyful movement: bells, flute and oboe on top, an unbroken flow of sixteenths in harp and organ, voices entering one after another on the same figure, and closer and closer together at the end.
     *Where:* Requiem, *Sanctus*, ending on "Hosanna". [Wikipedia, Requiem; Kálló]
 14. **A steady beat on one note:** the Requiem opens over the timpani's quarter notes in three, and the *Agnus Dei* returns to a pulse on a single note.
     *Works on:* rhythm.
+    *Why:* the same pulse ties the opening to the *Agnus Dei*, the two dark movements. [Kálló]
     *How:* begin over a single low note struck on every beat, slowly, and let other instruments enter over it before any key is clear; bring the pulse back later as a single repeated note.
     *Where:* Requiem, the opening of *Requiem aeternam* (the timpani; the voices enter in bar 7) and the *Agnus Dei*. [Wikipedia, Requiem; Kálló]
 15. **The end is the beginning:** the last movement brings back the first movement's theme; the whole is an arch around the *Sanctus*.
     *Works on:* form.
+    *Why:* the work closes in a circle, from tension to peace. [Kálló]
     *How:* plan the movements as an arch, pairing the first with the last and so inward around a middle; end on the opening's theme.
     *Where:* Requiem: *Requiem aeternam* and *Lux aeterna* share material; the *Sanctus* is the middle. [Kálló]
 16. **A sudden far key by renaming one note:** in the *Pie Jesu*, from G minor to D flat major.
     *Works on:* harmony.
+    *Why:* a sudden opening, which lets the soprano rise to a high A flat. [Kálló]
     *How:* hold a note and call it by another name (F sharp as G flat), and step straight into the far key that the new name belongs to.
     *Where:* Requiem, *Pie Jesu*, around bars 27 and 28. [Kálló]
 17. **Where he comes from:** the French and English choral music of the early twentieth century, light music, and the American song.

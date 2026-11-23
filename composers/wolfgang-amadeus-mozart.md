@@ -24,6 +24,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* K. 622, second movement. **[score: K. 622]**
 4. **The orchestra's winds come for the repeats and the joins only:** bars 9-16, 25-32, 53-58, 74-82 and the close. Elsewhere the singer has the strings alone.
    *Works on:* form, colour.
+   *Why:* the soloist sings over the strings alone, so the winds' colour marks only the repeats and the joins. **[score: K. 622]**
    *How:* keep the orchestra's winds silent while the soloist sings; bring them in for the tutti repeats, for the passages that join one section to the next, and for the close.
    *Where:* K. 622, second movement, bars 9 to 16, 25 to 32, 53 to 58, 74 to 82 and 95 to 96. **[score: K. 622]**
 5. **A serenade is many short movements, with a slow one in the middle of dances.** The divertimento: a quick movement (36 bars), a minuet (75), an Adagio (37), a second minuet (66), a rondo in two (157). The *Gran Partita* has seven, with two minuets, an Adagio and a Romanze.
@@ -36,10 +37,12 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* Divertimento K. 439b, third movement (Adagio). **[score: K. 439b, third movement]**
 7. **A band of winds in pairs** (the *Gran Partita*): two oboes, two clarinets, two basset horns, two bassoons, four horns and a double bass, which a contrabassoon sometimes replaces.
    *Works on:* colour.
+   *Why:* an unusual combination for its time: a band chosen for its texture. [Wikipedia]
    *How:* a wind band in pairs, oboes, clarinets, basset horns (or a second pair of clarinets), bassoons and horns, with a double bass under them.
    *Where:* Serenade no. 10, the *Gran Partita*. [Wikipedia]
 8. **A syncopated pulse under solo lines** (the *Gran Partita*'s Adagio, in E flat): the pulse runs through most of the movement; the solo lines go from oboe to clarinet to basset horn; the oboe enters first. Called operatic in feeling.
    *Works on:* rhythm, texture.
+   *Why:* it makes the movement almost an operatic ensemble, passionate and sensuous (Goodwin, as quoted). [Wikipedia]
    *How:* under a slow movement, a pulse of repeated notes off the beat that runs nearly throughout; over it, long solo lines handed from oboe to clarinet to a lower reed, the oboe first.
    *Where:* *Gran Partita*, the Adagio. [Wikipedia]
 9. **Trios thin the band:** the first minuet's first trio is for clarinets and basset horns only; its second, in the minor, for oboe, basset horn and bassoon.

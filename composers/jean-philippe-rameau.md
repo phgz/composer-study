@@ -14,6 +14,7 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 
 1. **A whole dance over a bass that does not move.** The first rigaudon of the sailors is sixteen bars on a single low G: the bottom part plays nothing else. It is not held; it is struck again in a slow pattern of its own, long, short, short (a whole bar, then two halves), over and over.
    *Works on:* harmony, rhythm, texture.
+   *Why:* the low G never changes, so all the movement is above it and the dance never leaves its keynote. **[score: rigaudon 1]**
    *How:* give the lowest part the keynote only, restruck every two bars as long-short-short, and write the whole dance over it.
    *Where:* *Hippolyte et Aricie*, the sailors' first rigaudon (16 bars). **[score: rigaudon 1]**
 2. **The second dance of the pair sits on the fifth.** The second rigaudon is in the minor and its bass stays on D, the fifth of its key, for two bars in three.
@@ -22,6 +23,7 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
    *Where:* *Hippolyte et Aricie*, the sailors' second rigaudon. **[score: rigaudon 2]**
 3. **A drum made of the keynote and its fifth.** In *Tambourin* the left hand strikes the keynote, the fifth and the octave together (E, B, E) every half bar; those two notes are three quarters of everything the bass plays. The dance is named for the drum it imitates: a Provençal drum played by one person together with a small pipe.
    *Works on:* harmony, rhythm, colour.
+   *Why:* the bass imitates the drum of the Provençal pipe and tabor, in a repetitive figure that is hardly a tune, while the tune above plays the pipe. [Wikipedia, Tambourin]
    *How:* an open fifth hammered low on every beat; the tune high above it, piping.
    *Where:* *Tambourin*, from the harpsichord book of 1724, the left hand. **[score: Tambourin; Wikipedia, Tambourin]**
 

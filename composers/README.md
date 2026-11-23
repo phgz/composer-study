@@ -17,6 +17,7 @@ One page a composer, written by hand: what was read in the composer's scores by 
 2. **Techniques**, numbered, by kind of piece (a `###` heading for each kind when there are several). Numbers are never reused, so that a piece can cite them. Each technique gives:
    - a short bold name, then what it is;
    - *Works on:* one or more of melody, harmony, rhythm, texture, form, loudness, colour (or background, for an entry that is not a technique), which is how the index finds it;
+   - *Why:* only where a source says it or a score shows it: what the technique does in the composer's music (what it holds still, what it makes the other parts do, where it leads), or the composer's own stated reason. It ends with its own mark, as *Where* does. Where neither a source nor a score gives one, there is no *Why*: a guess at a composer's purpose is what these pages keep out. A *How* without a *Why* is the case that came out as film music in composer-blend's piece 65 (Duruflé's close, from one sentence and no score): the chords were his, what they were for was not on the page;
    - *How:* a recipe an assistant can follow;
    - *Where:* where it can be heard, by work and bar;
    - at the end, where it comes from: **[score: the work]**, bold, for what was read in a score by measurement; [the source], plain, for what a source says.
@@ -40,10 +41,12 @@ An empty section says "None yet." (or why it must stay empty), so that a gap sho
 - **A page comes from reading done for it.** A page written from memory gives the middle of what is said about a composer, which is what these pages exist to get away from. The writer's own sense of what it already knows is not evidence: on 22 November Claude named the mirror as something it could not have given from memory, and piece 1 had used it eleven days before.
 - **Sources are put in the writer's own words.** No passage of a text and no line of a score in copyright is copied.
 - **A technique is a recipe, not a guarantee:** whether it sounds like the composer is for Philip's ear.
+- **A *Why* says what the notes or the source show, not how it sounds.** From a score: what the device does to the other notes (every chord of the hymn sits on the same bass; the tune never moves while the strings do), measured. From a source: what it says the device is for, in the writer's words. Neither is a promise of an effect on a listener.
 
 ## What the pages lack (23 November 2026)
 
 - **The recipe form is complete** (23 November 2026; Philip: "we should do it now, otherwise it might drift again and get lost"). All 217 techniques give what they are, *How* and *Where*. A *How* is the writer's recipe from what the score or the source says; a *Where* names only what the score or the source names, and says so when it names no bar. Where a technique is not a technique (a composer's own words, a list of places), its *How* says so.
+- **A *Why* on 101 of the 217 techniques** (23 November 2026; Philip agreed to it as an optional line, from a source or a score only). Every source cited by a technique was read again for it, as far as the pages could be fetched (the long theses only in their first part). 92 come from sources, 9 from the scores. The rest have none because the source describes and does not say what for, or the score shows nothing beyond the *How*; a background entry never has one. Fewest on the pages written mostly from scores (Rameau 2 of 16, Mozart 3 of 10, Borodin 3 of 10, Dvořák 3 of 11, Mendelssohn 3 of 8): a score shows what the notes do, rarely what for.
 - **Empty sections:**
   - walks: Cage, Duruflé, Mendelssohn, Rodrigo, Rutter, Tavener, Tchaikovsky, Weinberg, Whitacre;
   - numbers: Tavener;

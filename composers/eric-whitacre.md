@@ -20,42 +20,51 @@ Begun by Claude on 23 November 2026, from the sources at the end, read that day.
    *Where:* across his works; in the band *Lux Aurumque* through its thirteen colourings. [Milne, citing Shrock]
 3. **Chords built in seconds, fourths and fifths,** more than in thirds.
    *Works on:* harmony.
+   *Why:* in the climax, fourths in the bass add to the tension and release that the piece is built on. [Milne]
    *How:* space chords with seconds, fourths and fifths between their notes, and use the third as one colour among them rather than as the frame.
    *Where:* the band *Lux Aurumque*. [Milne]
 4. **The keynote is avoided for long stretches, and the dominant is softened** by suspensions and added notes. In *Lux Aurumque*: a triad on the sixth degree moves to a chord on the seventh with its fourth suspended, twice, where a cadence would be.
    *Works on:* harmony.
+   *Why:* the suspensions (bars 30 to 35 of the band *Lux Aurumque*) give each line room to be heard inside the chord. [Milne]
    *How:* where a cadence is expected, go from the chord on the sixth degree to a chord on the seventh with a suspended fourth, instead of to the keynote; keep the bass off the keynote for long stretches and add notes to the dominant.
    *Where:* *Lux Aurumque*, twice where a cadence would be (the source does not give the bars). [Milne]
 5. **One idea, in changing colours.** He calls it the "golden brick": a single idea set against a wide palette. The band *Lux Aurumque* gives its one material thirteen different instrumental colourings where the choral version has three voicings.
    *Works on:* form, colour.
+   *Why:* he says that holding to one idea is what gives a piece unity, direction and purpose. [Milne]
    *How:* keep one short idea throughout, and change its scoring at each return: other instruments, other registers, other doublings.
    *Where:* the band *Lux Aurumque*: one material, thirteen colourings. [Milne]
 6. **The clarinets are the body of the band.** They are in all thirteen colourings; the brass alone never plays.
    *Works on:* colour.
+   *Why:* the clarinets and saxophones are chosen for how much they can do; horns with trombones are used where the band's mixed sound has to blend. [Milne]
    *How:* let the clarinets play in every passage as the core of the sound; add other winds and brass to them, never brass alone.
    *Where:* the band *Lux Aurumque*. [Milne]
 7. **Low instruments held back.** Bass clarinet and baritone saxophone wait a bar; euphonium and tuba enter at bar 14; the contrabassoon enters only at the climax, two octaves below the line it doubles.
    *Works on:* form, colour.
+   *Why:* at the opening the low instruments would spoil the balance and clarity of each two-note chord; held out, they keep their low sound for the word *gravisque* (heavy), where they come in; the contrabassoon is added for its own colour and range. [Milne]
    *How:* bring the lowest instruments in late and one by one; save the very lowest for the climax, doubling a line two octaves down.
    *Where:* the band *Lux Aurumque*: bass clarinet and baritone saxophone from bar 2, euphonium and tuba from bar 14, the contrabassoon at the climax. [Milne]
 8. **The climax is made by doubling, octaves and suspensions,** with a horn call on top.
    *Works on:* texture, loudness.
+   *Why:* the doubling, the octaves and the suspensions are there to make the climax stronger; he wanted the horns to "sing high and triumphant". [Milne]
    *How:* make the loud place by doubling the tune in octaves through the band, holding notes over into the next chord, and putting a horn call above.
    *Where:* the band *Lux Aurumque*, its climax. [Milne]
 9. **One true climax, near the end.** *October* has five places where the full band is loud but only one real climax, just before the end.
    *Works on:* form, loudness.
    *How:* let the full band be loud several times, but keep one place louder and fuller than all the others, just before the end.
    *Where:* *October*, just before the end. [Wikipedia, October]
-10. **Slow.** The band *Lux Aurumque* is marked *Adagio, molto legato*, a quarter at 56, slower than the choral version so that the sound can blend and decay.
+10. **Slow.** The band *Lux Aurumque* is marked *Adagio, molto legato*, a quarter at 56, slower than the choral version.
     *Works on:* rhythm.
+    *Why:* perhaps to give the sound more time to die away; the thesis offers this as likely, not as known. [Milne]
     *How:* very slow (a quarter around 56) and joined, so that each chord has time to blend and die away.
     *Where:* the band *Lux Aurumque*. [Milne]
 11. **It ends by fading.** *October* closes in a long diminuendo into silence; in *Lux Aurumque* the first clarinet holds one note from bar 41 to the end.
     *Works on:* form, loudness.
+    *Why:* in *Lux Aurumque* the clarinet perhaps holds the last note for its colour and because its breath is easy to control (the thesis's guess). [Milne]
     *How:* end with a long fade; or let one clarinet hold a single note through the last bars while the rest drop away.
     *Where:* *October*, the coda; the band *Lux Aurumque*, bar 41 to the end. [Wikipedia, October; Milne]
 12. ***October*'s layout:** an introduction, four themes and a coda, 113 bars; a solo euphonium over clarinet tremolo begins the third theme; the oboe comes back in an interlude. Keys by signature: D flat, A flat, B flat, G. Bars of 2/4, 4/4 and 6/4. Eighth notes rule the first half, quarters and halves the second.
     *Works on:* form.
+    *Why:* the order small group, full band, small group is what gives the serene, expressive mood he aimed at; the euphonium's solo tells by its contrast with the clarinets' trills. [Wikipedia, October]
     *How:* a model for a band piece of about five minutes: an introduction, four tunes in turn with a key for each, an interlude that brings back the first solo instrument, a coda; quicker notes in the first half, longer ones in the second.
     *Where:* *October*, as a whole. [Wikipedia, October]
 13. **What he said of *October*:** simple pastoral melodies and harmonies after the English Romantics (Vaughan Williams, Elgar); and that not enough lush, beautiful music is written for winds.

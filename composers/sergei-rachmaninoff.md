@@ -12,14 +12,17 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 
 1. **The toll: three low notes, one to a beat, each in three octaves.** The C sharp minor prelude opens with A, G sharp, C sharp: down a semitone, then down a fifth to the keynote, the lowest note of the piano's bottom octave.
    *Works on:* melody, colour.
+   *Why:* bells: the slow outer sections bring Russian Orthodox bell-ringing into the piano, the sound of Russia in his early music. [Frolova-Walker]
    *How:* three slow strokes, one to a beat, each a single note doubled in three octaves at the bottom of the keyboard, ending on the keynote; nothing else sounds with them. Use your own three notes: these three are his best-known figure.
    *Where:* Prelude op. 3 no. 2, bars 1 and 2. **[score: op. 3 no. 2]**
 2. **The three notes go on underneath as the bass,** over and over: thirteen times on those same notes, seventeen with the same shape moved to other notes.
    *Works on:* harmony, texture.
+   *Why:* the same three notes stay under everything, so the toll is never gone while the chords move above it. **[score: op. 3 no. 2]**
    *How:* after the toll has been heard alone, keep it as the bass, one note to a beat, under whatever comes above; move its shape to other notes now and then, and come back to the first three.
    *Where:* Prelude op. 3 no. 2, the bass in bars 1 to 19 and 46 to 53. **[score: op. 3 no. 2]**
 3. **Each low note is answered off the beat by a thick chord higher up:** stroke on the beat, six-note chord on the half-beat, three notes to a hand, in the middle of the keyboard. The chords' top line moves by step, mostly downward.
    *Works on:* harmony, rhythm, texture.
+   *Why:* the low note and the chord never begin together: each stroke is heard alone first, and the chord comes into its ringing. **[score: op. 3 no. 2]**
    *How:* between the bass strokes, put a chord of six notes (two hands, three each) on every half-beat, in the middle of the keyboard; let the top notes of the chords make a line that steps down.
    *Where:* Prelude op. 3 no. 2, bars 3 to 8. **[score: op. 3 no. 2]**
 4. **When it comes back it is the same music, thicker:** the chords have eight notes, twice eleven, and it is loud; then it dies away on soft chords of the home key. The middle is fast (three times the speed) in running triplets.
@@ -28,6 +31,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* Prelude op. 3 no. 2: slow, bars 1 to 13; fast, 14 to 42; slow and thick, 43 to 61. **[score: op. 3 no. 2]**
 5. **The peal: high notes coming down by step, each alternating with one fixed pair of notes.** In the B flat prelude the right hand has A, G, F in octaves, and between each of them the same B flat and D: bells of different sizes against one that does not change. Before it, a short fanfare: a quick upbeat and a chord.
    *Works on:* melody, rhythm, texture.
+   *Why:* the peal is joined to a fanfare, as in Rimsky-Korsakov's *Kitezh*. [Frolova-Walker]
    *How:* high in the right hand, a line coming down by step in octaves, and after each of its notes the same pair of notes struck again, so that one bell stays while the others move. Start it with a quick upbeat and a chord.
    *Where:* Prelude op. 23 no. 2, from bar 3. **[score: op. 23 no. 2]**
 6. **Under the peal the bass rolls:** a low octave on the beat, then a broken chord up two and a half octaves and down again, six notes to the beat, every beat.
@@ -40,6 +44,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
    *Where:* Prelude op. 32 no. 10, bars 1 to 6. **[score: op. 32 no. 10]**
 8. **His tunes move by step and circle a few notes,** in the manner of church chant; several preludes each favour one interval (fifths, thirds, seconds, fourths).
    *Works on:* melody.
+   *Why:* his tunes come from Russian Orthodox chant, which he took so deeply into his language that it is everywhere in it; one interval per prelude ties the tune to the figures around it (in the B flat prelude the fourth is both the tune's call and the accompaniment's shape). [Frolova-Walker]
    *How:* write a tune that moves mostly by step within a narrow span and keeps coming back to one note; give a whole piece one favourite interval and let it shape the tune and the chords.
    *Where:* the lecture names the G flat major prelude (fifths), the A minor (thirds), the B minor (seconds) and the B flat major (fourths). [Frolova-Walker]
 9. **The Dies irae,** the chant for the dead, comes all through his work as a sign of death; in the B minor prelude it is not quoted but nearly.

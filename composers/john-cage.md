@@ -20,22 +20,27 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
    *Where:* the prepared-piano works, the *Sonatas and Interludes* above all. [Pearson]
 3. **Numbers before notes.** A unit of so many bars and a row of proportions are fixed first, and the same proportions cut both the unit into phrases and the whole into sections.
    *Works on:* rhythm, form.
+   *Why:* one number governs both the phrase and the whole, so the piece is built like itself at every scale, after the natural order he took from Coomaraswamy. [Pearson]
    *How:* choose a unit (ten bars, say) and a row of proportions that adds up to it (3, 2, 2, 3); cut each unit into phrases of those lengths and the whole piece into sections of the same proportions; write the notes into that frame.
    *Where:* units of ten bars cut 3, 2, 2, 3 (*Amores*, second movement); eleven sections of eleven bars cut 2, 1, 1, 3, 1, 2, 1 (the Duchamp film music, 1947); seven parts of seven bars; sixteen groups of sixteen bars cut 4, 3, 4, 5; in the first sonata, a unit of seven quarters taken 4, 1, 3, 4, 1, 3, 4, 2, 4, 2. In the sonatas the numbers include fractions. [Wikipedia; Pearson]
 4. **Two halves, each repeated** (the sonatas).
    *Works on:* form.
+   *Why:* the plan of the Baroque keyboard sonata, Scarlatti's; the repeats balance the two halves. [Pearson]
    *How:* a short piece in two halves, each played twice.
    *Where:* the sonatas of the *Sonatas and Interludes*. [Pearson]
 5. **Few pitches.** A piece's tune on five prepared tones only; a piece of four tones; small collections, often five-note, which can suggest a keynote.
    *Works on:* melody, harmony.
+   *Why:* a few notes, often five, hint at a centre, which gives the music focus and a sense of closing without the usual keys. [Pearson]
    *How:* limit a piece, or a section, to four or five pitches, and let their repetition suggest a keynote.
    *Where:* the prepared-piano works, by the sources; the pieces are not named for each count. [Wikipedia; Pearson]
 6. **One line.** Much of it is on one staff, a single line; the texture is sparse and light; chords are the exception.
    *Works on:* texture.
+   *Why:* a thin texture lets the prepared notes' delicate colours be heard. [Pearson]
    *How:* write mostly a single line; add a second sound only now and then; keep chords rare.
    *Where:* the *Sonatas and Interludes*. [Wikipedia; Pearson]
 7. **Silence built in.** Empty bars alternating with bars of melody (1947, called one of the first systematic explorations of silence); silent bars punctuating the phrases of the second sonata. The gaps count as much as the gestures.
    *Works on:* rhythm, form.
+   *Why:* the spaces between the gestures count as much as the gestures; they make a fragile world and punctuate each piece. [Pearson]
    *How:* write silent bars into the frame of technique 3, as parts of the proportions, between phrases or alternating with them.
    *Where:* the music of 1947 (empty bars alternating with melody); Sonata II, between its phrases. [Wikipedia; Pearson]
 8. **Short statements, said again at once, never brought back.** Small arch shapes separated by rests; immediate repetition is common, later return is not. Where something is developed it is by repetition, sequence, turning upside down and lengthening (third sonata).
@@ -52,6 +57,7 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
     *Where:* the *Sonatas and Interludes*. [Pearson]
 11. **No chord progressions.** Endings are not made by harmony.
     *Works on:* harmony, form.
+    *Why:* he dismissed harmony in 1946 as a tool of Western commercial music, and a prepared note's pitch no longer behaves as a key expects; endings are made by rhythm and by steps instead. [Pearson]
     *How:* end a section by the end of its proportion (technique 3) or by a silence, not by a cadence.
     *Where:* the *Sonatas and Interludes*. [Pearson]
 12. **No swell, as a rule.** One piece among those described starts quiet and grows to clusters; the rest keep their level.
