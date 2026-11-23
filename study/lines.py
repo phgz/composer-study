@@ -17,6 +17,7 @@ Only plain numbers are read from the copy (its TSV and JSON files); nothing in i
 import collections, csv, io, json, os, re, tarfile
 
 LEFT_OUT = ('midi_copy', 'realized')
+MARKED = ('measure_only',)                                      # under copyright somewhere: measured, not trained on for continuations
 
 Work = collections.namedtuple('Work', 'id composer collection kind label lines final heard_again flags notes length names harmony',
                               defaults=(0, 0.0, None, None))
@@ -63,6 +64,7 @@ def read(ready_dir, composers=None, min_notes=8, keep=()):
                 if e.get('error') or 'notes.tsv' not in e.get('files', []): continue
                 flags = {k: e[k] for k in LEFT_OUT if e.get(k)}
                 if any(k not in keep for k in flags): continue
+                flags.update({k: e[k] for k in MARKED if e.get(k)})              # kept, and marked: what may be done with it
                 rows = csv.DictReader(io.StringIO(t.extractfile(f'{slug}/{e["folder"]}/notes.tsv').read().decode('utf-8')), delimiter='\t')
                 lines, n_all, length = _lines(rows); lines = {p: l for p, l in lines.items() if len(l) >= min_notes}
                 names = harmony = None
