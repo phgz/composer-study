@@ -298,7 +298,13 @@ def prepare_abc(std, prompt):
     if 'V:' not in std: return 'xml2abc wrote no voices'
     try: md, body = notagen_lines(std)
     except Exception as e: return f'cleaning: {type(e).__name__}: {e}'[:200]
-    meta = [f'%{p}\n' for p in prompt] + md
+    return prepare_lines([f'%{p}\n' for p in prompt] + md, body)
+
+
+def prepare_lines(meta, body):
+    """the notes of NotaGen's lines (its metadata, prompt lines first, and one line a bar), as prepare_abc() reads them: also for
+    lines put together here, such as a piece with another's bars in it"""
+    md = [l for l in meta if not l.startswith('%')]
     head = {}
     for l in md:
         if re.match(r'[LMK]:', l): head.setdefault(l[0], l[2:].strip())

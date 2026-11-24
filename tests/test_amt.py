@@ -40,3 +40,14 @@ def test_windows_place_each_note_once():
     assert all(ops.min_time(w[1:], seconds=False) == 0 for w in ws)
     w, ps = A.window_ending(seq, where[-10:], CO)
     assert len(w) <= 1024 and [w[p] - V.NOTE_OFFSET for p in ps] == [m for _, _, m in order[-10:]]
+
+
+def test_notes_alone_flagged_as_autoregression():
+    ops, V, C = A.anticipation(CO)
+    rnd = random.Random(2)
+    notes = [(t * .3, .3, rnd.randint(50, 80)) for t in range(500)]
+    seq, where = A.sequence(notes, [], CO)
+    ws, pos = A.windows(seq, where, CO, alone=True)
+    assert all(w[0] == V.AUTOREGRESS for w in ws) and not any(V.CONTROL_OFFSET <= x < V.SEPARATOR for w in ws for x in w[1:])
+    assert [ws[w][p] - V.NOTE_OFFSET for w, p in pos] == [m for _, _, m in sorted(notes, key=lambda n: (n[0], n[2]))]
+    assert A.windows(seq, where, CO)[0][0][0] == V.ANTICIPATE                         # unchanged where controls are given
