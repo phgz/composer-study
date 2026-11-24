@@ -1,0 +1,1582 @@
+{
+ "results": {
+  "NotaGen-X": {
+   "own_64b": {
+    "median": 2.543,
+    "p5": 1.184,
+    "lowest": 1.027,
+    "stretches": 155
+   },
+   "Chopin | in 64b": {
+    "own_key": 2.609,
+    "tone_higher": 2.464,
+    "key_difference": 0.145,
+    "lower_in_own_key": "0 of 5",
+    "under_64b_5th_percentile": "0 of 5"
+   },
+   "Chopin | alone": {
+    "own_key": 7.489,
+    "tone_higher": 6.959,
+    "key_difference": 0.531,
+    "lower_in_own_key": "1 of 5"
+   },
+   "Polish | in 64b": {
+    "own_key": 3.569,
+    "tone_higher": 3.557,
+    "key_difference": 0.011,
+    "lower_in_own_key": "1 of 5",
+    "under_64b_5th_percentile": "0 of 5"
+   },
+   "Polish | alone": {
+    "own_key": 6.718,
+    "tone_higher": 7.146,
+    "key_difference": -0.428,
+    "lower_in_own_key": "3 of 5"
+   }
+  },
+  "NotaGen fine-tuned": {
+   "own_64b": {
+    "median": 2.033,
+    "p5": 1.111,
+    "lowest": 0.902,
+    "stretches": 155
+   },
+   "Chopin | in 64b": {
+    "own_key": 2.414,
+    "tone_higher": 2.356,
+    "key_difference": 0.058,
+    "lower_in_own_key": "1 of 5",
+    "under_64b_5th_percentile": "0 of 5"
+   },
+   "Chopin | alone": {
+    "own_key": 2.769,
+    "tone_higher": 2.753,
+    "key_difference": 0.016,
+    "lower_in_own_key": "2 of 5"
+   },
+   "Polish | in 64b": {
+    "own_key": 2.648,
+    "tone_higher": 2.8,
+    "key_difference": -0.152,
+    "lower_in_own_key": "5 of 5",
+    "under_64b_5th_percentile": "0 of 5"
+   },
+   "Polish | alone": {
+    "own_key": 2.433,
+    "tone_higher": 2.579,
+    "key_difference": -0.146,
+    "lower_in_own_key": "4 of 5"
+   }
+  },
+  "AMT Large": {
+   "own_64b": {
+    "median": 2.129,
+    "p5": 1.187,
+    "lowest": 1.001,
+    "stretches": 155
+   },
+   "Chopin | in 64b": {
+    "own_key": 1.328,
+    "tone_higher": 1.458,
+    "key_difference": -0.13,
+    "lower_in_own_key": "5 of 5",
+    "under_64b_5th_percentile": "1 of 5"
+   },
+   "Chopin | alone": {
+    "own_key": 1.393,
+    "tone_higher": 1.554,
+    "key_difference": -0.161,
+    "lower_in_own_key": "5 of 5"
+   },
+   "Polish | in 64b": {
+    "own_key": 1.575,
+    "tone_higher": 1.61,
+    "key_difference": -0.035,
+    "lower_in_own_key": "3 of 5",
+    "under_64b_5th_percentile": "1 of 5"
+   },
+   "Polish | alone": {
+    "own_key": 1.546,
+    "tone_higher": 1.568,
+    "key_difference": -0.022,
+    "lower_in_own_key": "3 of 5"
+   }
+  },
+  "AMT Medium": {
+   "own_64b": {
+    "median": 2.208,
+    "p5": 1.203,
+    "lowest": 1.007,
+    "stretches": 155
+   },
+   "Chopin | in 64b": {
+    "own_key": 1.386,
+    "tone_higher": 1.561,
+    "key_difference": -0.175,
+    "lower_in_own_key": "5 of 5",
+    "under_64b_5th_percentile": "1 of 5"
+   },
+   "Chopin | alone": {
+    "own_key": 1.406,
+    "tone_higher": 1.613,
+    "key_difference": -0.207,
+    "lower_in_own_key": "5 of 5"
+   },
+   "Polish | in 64b": {
+    "own_key": 1.533,
+    "tone_higher": 1.537,
+    "key_difference": -0.004,
+    "lower_in_own_key": "2 of 5",
+    "under_64b_5th_percentile": "2 of 5"
+   },
+   "Polish | alone": {
+    "own_key": 1.53,
+    "tone_higher": 1.55,
+    "key_difference": -0.02,
+    "lower_in_own_key": "2 of 5"
+   }
+  }
+ },
+ "by_quote": [
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.296,
+   "below_64b": 0.077
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 3.987,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.146,
+   "below_64b": 0.039
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 3.568,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 3.291,
+   "below_64b": 0.723
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 9.253,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 3.217,
+   "below_64b": 0.716
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 8.729,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 3.889,
+   "below_64b": 0.935
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 8.706,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 3.816,
+   "below_64b": 0.923
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 8.975,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.903,
+   "below_64b": 0.606
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 9.959,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.547,
+   "below_64b": 0.503
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 8.645,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.666,
+   "below_64b": 0.187
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 5.542,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.596,
+   "below_64b": 0.135
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 4.876,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 3.609,
+   "below_64b": 0.897
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 9.63,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 3.534,
+   "below_64b": 0.832
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 8.584,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 4.317,
+   "below_64b": 0.981
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 7.953,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 4.292,
+   "below_64b": 0.981
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 8.729,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 4.713,
+   "below_64b": 0.987
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 5.786,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 4.666,
+   "below_64b": 0.981
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 7.759,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.715,
+   "below_64b": 0.561
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 4.469,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.808,
+   "below_64b": 0.574
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 5.54,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.49,
+   "below_64b": 0.484
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 5.752,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.487,
+   "below_64b": 0.477
+  },
+  {
+   "ear": "NotaGen-X",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 5.118,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.395,
+   "below_64b": 0.181
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.883,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.262,
+   "below_64b": 0.116
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.88,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 3.301,
+   "below_64b": 0.942
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 3.267,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 3.274,
+   "below_64b": 0.935
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 3.251,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 3.215,
+   "below_64b": 0.929
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 3.435,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 3.137,
+   "below_64b": 0.923
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 3.462,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.464,
+   "below_64b": 0.652
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 3.22,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.348,
+   "below_64b": 0.587
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 3.303,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.697,
+   "below_64b": 0.335
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 2.041,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.759,
+   "below_64b": 0.368
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.868,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 3.109,
+   "below_64b": 0.923
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 3.245,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 3.123,
+   "below_64b": 0.923
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 3.218,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.107,
+   "below_64b": 0.51
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 2.311,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.236,
+   "below_64b": 0.561
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 2.446,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 3.302,
+   "below_64b": 0.942
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.982,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 3.739,
+   "below_64b": 1.0
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 2.309,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.428,
+   "below_64b": 0.645
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 2.312,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.585,
+   "below_64b": 0.697
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 2.427,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.296,
+   "below_64b": 0.574
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 2.317,
+   "below_64b": null
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.318,
+   "below_64b": 0.581
+  },
+  {
+   "ear": "NotaGen fine-tuned",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 2.495,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.425,
+   "below_64b": 0.155
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.517,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.58,
+   "below_64b": 0.194
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.729,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.023,
+   "below_64b": 0.013
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.061,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.039,
+   "below_64b": 0.019
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.163,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.448,
+   "below_64b": 0.161
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.533,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.563,
+   "below_64b": 0.187
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.669,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.42,
+   "below_64b": 0.155
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.396,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.642,
+   "below_64b": 0.219
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.622,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.325,
+   "below_64b": 0.09
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.459,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.465,
+   "below_64b": 0.168
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.588,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.666,
+   "below_64b": 0.865
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 2.603,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.567,
+   "below_64b": 0.826
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 2.46,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 0.289,
+   "below_64b": 0.0
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 0.259,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 0.317,
+   "below_64b": 0.0
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 0.276,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.491,
+   "below_64b": 0.174
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.468,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.598,
+   "below_64b": 0.2
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.548,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.305,
+   "below_64b": 0.09
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.328,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.291,
+   "below_64b": 0.09
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.321,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.125,
+   "below_64b": 0.49
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 2.072,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.276,
+   "below_64b": 0.652
+  },
+  {
+   "ear": "AMT Large",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 2.236,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.394,
+   "below_64b": 0.097
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.357,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.588,
+   "below_64b": 0.2
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 7 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.652,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 0.971,
+   "below_64b": 0.0
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.118,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.1,
+   "below_64b": 0.026
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 17 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.283,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.571,
+   "below_64b": 0.194
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.6,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.702,
+   "below_64b": 0.252
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 24 no. 1",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.737,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.425,
+   "below_64b": 0.116
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.298,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.654,
+   "below_64b": 0.239
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 33 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.567,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.568,
+   "below_64b": 0.194
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.655,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.759,
+   "below_64b": 0.284
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Chopin, Mazurka op. 67 no. 4",
+   "family": "Chopin",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.825,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.235,
+   "below_64b": 0.523
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 2.199,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.424,
+   "below_64b": 0.69
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Statkowski, Mazur op. 27 no. 1",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 2.483,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 0.364,
+   "below_64b": 0.0
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 0.362,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 0.349,
+   "below_64b": 0.0
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Stojowski, Mazurka op. 8 no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 0.337,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.548,
+   "below_64b": 0.181
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.53,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.535,
+   "below_64b": 0.181
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Kątski, Mazur sielankowy op. 4",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.514,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 1.194,
+   "below_64b": 0.045
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 1.181,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 1.228,
+   "below_64b": 0.058
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Józef Stefani, Mazur G no. 2",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 1.228,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "own key",
+   "where": "in 64b",
+   "bits": 2.326,
+   "below_64b": 0.6
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "own key",
+   "where": "alone",
+   "bits": 2.378,
+   "below_64b": null
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "in 64b",
+   "bits": 2.151,
+   "below_64b": 0.465
+  },
+  {
+   "ear": "AMT Medium",
+   "title": "Noskowski, Mazurka (Causeries op. 32)",
+   "family": "Polish",
+   "key": "a tone higher",
+   "where": "alone",
+   "bits": 2.186,
+   "below_64b": null
+  }
+ ]
+}
