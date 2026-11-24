@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended
 
 **Measured profile:** [`profiles/carl-maria-von-weber.md`](../profiles/carl-maria-von-weber.md), generated from score-reader's catalogue by `study/profiles.py`: his partsongs against other composers'.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/carl-maria-von-weber.md` (piece 70, not yet heard; piece 70b: 3.75, "It sounds ok, but not as moving as the other"). Earlier pieces (57, 64b) were made before this page.
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/carl-maria-von-weber.md` (piece 70: 4.25, "Yes, 4.25 for 70"; piece 70b: 3.75, "It sounds ok, but not as moving as the other"). Earlier pieces (57, 64b) were made before this page.
 
 ## Techniques
 

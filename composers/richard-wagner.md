@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended
 
 **Measured profile:** [`profiles/richard-wagner.md`](../profiles/richard-wagner.md), generated from score-reader's catalogue by `study/profiles.py`: the Wesendonck songs against other Romantic songs.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/richard-wagner.md` (piece 70, not yet heard; piece 70b: 3.75, "It sounds ok, but not as moving as the other"). Earlier pieces (42, 43b, 51b) were made before this page, from his works.
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/richard-wagner.md` (piece 70: 4.25, "Yes, 4.25 for 70"; piece 70b: 3.75, "It sounds ok, but not as moving as the other"). Earlier pieces (42, 43b, 51b) were made before this page, from his works.
 
 ## Techniques
 
