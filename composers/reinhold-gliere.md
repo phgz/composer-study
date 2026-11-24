@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows each time he is used.
 
-**Scope so far.** Two kinds of piece: the epic programme symphony (the Third, *Ilya Muromets*, 1911) and the late concertos for instruments and a voice without words (harp, 1938; coloratura soprano, 1943), with a line on the ballet. **Scores:** none in score-reader's catalogue (the sheet marks him "partly" readable; the catalogue of version 25 holds nothing of his), and his works are in copyright in some countries, so nothing below was checked against notes. It rests on programme notes, a recording's booklet and encyclopaedias.
+**Scope so far.** Two kinds of piece: the epic programme symphony (the Third, *Ilya Muromets*, 1911) and the late concertos for instruments and a voice without words (harp, 1938; coloratura soprano, 1943), with a line on the ballet. **Scores:** none in score-reader's catalogue (the sheet marks him "partly" readable; the catalogue of version 25 holds nothing of his), and his works are in copyright in some countries, so nothing below was checked against notes. It rests on programme notes, a recording's booklet and encyclopaedias. Added on 24 November 2026, for piece 68b: how the coloratura concerto writes the voice, from a review and an article.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -86,6 +86,22 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
     *How:* not a technique: where his late music is.
     *Where:* the concertos, op. 74, 82, 87, 91. [BBC Music Magazine; Wikipedia, Glière]
 
+*Added on 24 November 2026, when he was taken again for composer-blend's piece 68b (the same four as piece 68, written again), before it was composed, from a review and an article.*
+
+15. **The voice sings on a vowel it chooses itself, with no breath written in.** The score gives no instruction about the vowel, and no place to breathe; one soprano chose "ah".
+    *Works on:* colour.
+    *Why:* the whole work treats the voice as an instrument of almost limitless possibilities, and leaves the expression to the singer. [Interlude; Seen and Heard] *(an analysis)*
+    *How:* write the voice's line as for an instrument, without words or breaths; let one open vowel carry it.
+    *Where:* Concerto for coloratura soprano, op. 82. [Interlude; Seen and Heard]
+16. **Long phrases, melancholy that bursts into radiance.** The first movement is warmly scored, with long phrases, a thread of melancholy that now and then opens into radiance.
+    *Works on:* melody, form.
+    *How:* keep the voice's phrases long; let a sad line rise, now and then, into a bright, full moment, and fall back.
+    *Where:* Concerto for coloratura soprano, first movement, *Andante*. [Seen and Heard; Interlude]
+17. **A Russian scherzo with birdsong in the voice.** The *Allegro* is a good-natured, humorous scherzo in a Russian manner; the voice has ornamented arabesques and flourishes like a nightingale's.
+    *Works on:* rhythm, melody, colour.
+    *How:* for a quick finale, give the voice light runs and turns, bird calls, over a dance in the orchestra.
+    *Where:* Concerto for coloratura soprano, second movement, *Allegro*. [Seen and Heard; Interlude]
+
 ### The ballet
 
 14. **A touch of the pentatonic for a far country.** In *The Red Poppy*, set in China, five-note touches mark the Chinese characters.
@@ -118,7 +134,7 @@ None: no score of his is in the catalogue (version 25).
 ## Not checked
 
 - That he studied with Rimsky-Korsakov: one concert note says he trained with him; Wikipedia's list of his teachers does not name him.
-- How the voice of the coloratura concerto is written (its range, its runs and ornaments): not described by the sources read.
+- The voice's range and how high it goes in the coloratura concerto, and where its runs and trills fall: the sources read describe the writing (arabesques, nightingale-like flourishes) but give no notes.
 - The music of the harp concerto beyond its outline; a doctoral essay analysing it (Kamnirdratana, University of Miami, 2012) could not be fetched.
 - The rest of the Chandos booklet after its English notes.
 
@@ -131,4 +147,6 @@ None: no score of his is in the catalogue (version 25).
 - Wikipedia, "Reinhold Glière": https://en.wikipedia.org/wiki/Reinhold_Gli%C3%A8re
 - Wikipedia, "Harp Concerto (Glière)": https://en.wikipedia.org/wiki/Harp_Concerto_(Gli%C3%A8re)
 - BBC Music Magazine, "Glière, Reinhold": https://www.classical-music.com/features/composers/gliere-reinhold
+- Georg Predota, "Unsung Concertos: Reinhold Glière", Interlude, 1 February 2017: https://interlude.hk/unsung-concertos-reinhold-gliere-concerto-f-minor-coloratura-soprano-orchestra-op-82/
+- Colin Clarke, review of Prom 35 (10 August 2011), Seen and Heard International: https://seenandheard-international.com/?p=7073
 - sin80, on the Concerto for coloratura soprano: https://www.sin80.com/en/work/gliere-concerto-coloratura

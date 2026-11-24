@@ -2,7 +2,7 @@
 
 Begun by Claude on 22 November 2026, from the sources at the end, read that day. It grows each time he is used.
 
-**Scope so far.** The music after his turn to the Orthodox Church in 1977: the choral pieces and *The Protecting Veil*; from 23 November 2026 also the large work for soloists, choir and orchestra *We Shall See Him As He Is*, the handbells of *The Last Sleep of the Virgin*, and, in outline, the late works. **Scores:** none in score-reader's catalogue (all in copyright), so nothing below was checked against notes by me. It rests on other people's analyses and on his own programme notes.
+**Scope so far.** The music after his turn to the Orthodox Church in 1977: the choral pieces and *The Protecting Veil*; from 23 November 2026 also the large work for soloists, choir and orchestra *We Shall See Him As He Is*, the handbells of *The Last Sleep of the Virgin*, and, in outline, the late works. **Scores:** none in score-reader's catalogue (all in copyright), so nothing below was checked against notes by me. It rests on other people's analyses and on his own programme notes. Added on 24 November 2026, for piece 68b: *Svyati*, for choir and cello, from its note.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -144,6 +144,19 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
     *How:* not a technique on its own: it says that the late works widen the colours, keeping the slow, held, sacred manner.
     *Where:* *Fall and Resurrection* (2000), *Shûnya* (2003), *The Veil of the Temple* (2003), *Towards Silence* (2009). [Wikipedia]
 
+*Added on 24 November 2026, when he was taken again for composer-blend's piece 68b (the same four as piece 68, written again), before it was composed, from the note on Svyati.*
+
+### A priest and a choir: *Svyati*
+
+23. **One instrument as the priest, in dialogue with the choir, far away.** In *Svyati* (1995) the cello is the priest, or the icon of Christ, and plays at a distance from the choir, perhaps at the other end of the building; choir and priest answer each other as in Greek drama. The choir sings a text of almost every Russian Orthodox service, as the coffin is closed and carried out.
+    *Works on:* form, colour, texture.
+    *How:* give one solo instrument the part of a celebrant and set it against the choir in call and answer, placed far from it.
+    *Where:* *Svyati*, for choir and cello (about 20 minutes). [Wise Music, Svyati]
+24. **No Western sentiment.** The cello must play without any sentiment of a Western kind, drawing on the chanting of the Eastern Orthodox Church.
+    *Works on:* background.
+    *How:* not a technique on its own: a solo line in his music is chanted, not expressive in the Romantic way.
+    *Where:* *Svyati*, the note. [Wise Music, Svyati]
+
 ## Walks through whole works
 
 **The Protecting Veil** (cello and strings; from his programme note, which gives the order and the subjects, not bars or times). Eight continuous sections, each on one of the Byzantine tones and one moment of the Mother of God's life: her cosmic beauty over a shattered world; her birth; the Annunciation; the Incarnation; her lament at the cross, the one section for the cello alone, "totally unaccompanied"; the Resurrection; her Falling Asleep; and a last section that evokes her tears. The cello sings throughout; he calls the whole "highly stylised, geometrically formed and meditative". [His programme note]
@@ -186,3 +199,4 @@ Bends of pitch smaller than a half step are in his scores (both analyses say so)
 - John Tavener, programme note for *The Last Sleep of the Virgin*, Wise Music Classical: https://www.wisemusicclassical.com/work/11207/
 - IRCAM, catalogue entry for *The Last Sleep of the Virgin* (scoring, date, length): https://brahms.ircam.fr/en/work/the-last-sleep-of-the-virgin
 - Wikipedia, "John Tavener" (his development and the late works): https://en.wikipedia.org/wiki/John_Tavener
+- Wise Music Classical, note on *Svyati*: https://www.wisemusicclassical.com/work/11243/

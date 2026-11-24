@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows each time he is used.
 
-**Scope so far.** Two kinds of source for one kind of piece, the orchestral work on a story or a feast: his own book, *Principles of Orchestration* (its first five chapters and the start of the sixth read), and what sources say of the *Russian Easter Festival Overture* and *Scheherazade*. **Scores:** score-reader's catalogue (version 25) holds seven works of his, none of them orchestral: four piano pieces of op. 11, a fugue on B-A-C-H, an aria from *Sadko* (five of these read from an editor's copy for MIDI) and *Flight of the Bumblebee*, from a MIDI file. None was read for this page: they are not the kind of piece. So nothing below rests on his notes.
+**Scope so far.** Two kinds of source for one kind of piece, the orchestral work on a story or a feast: his own book, *Principles of Orchestration* (its first five chapters and the start of the sixth read), and what sources say of the *Russian Easter Festival Overture* and *Scheherazade*. **Scores:** score-reader's catalogue (version 25) holds seven works of his, none of them orchestral: four piano pieces of op. 11, a fugue on B-A-C-H, an aria from *Sadko* (five of these read from an editor's copy for MIDI) and *Flight of the Bumblebee*, from a MIDI file. None was read for this page: they are not the kind of piece. So nothing below rests on his notes. Added on 24 November 2026, for piece 68b: two small pieces read from the score (the *Scherzino* op. 11 no. 3 for piano, and the Varangian Guest's song from *Sadko*, both from editors' copies made for MIDI).
 
 **Measured profile:** none yet (no profile of his in `profiles/`).
 
@@ -141,6 +141,19 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
     *How:* not a technique: it says that the colours are thought with the music, not added after it.
     *Where:* the author's preface to *Principles of Orchestration* (1891). [Principles]
 
+*Added on 24 November 2026, when he was taken again for composer-blend's piece 68b (the same four as piece 68, written again), before it was composed, from the notes.*
+
+### Two small pieces, read from the score
+
+23. **A dance made of leaps.** In the *Scherzino* the right hand runs in sixteenths that zigzag between two lines a sixth or an octave apart (a high note, a low note, a high note), each pair stepping down; a two-bar figure is said twice, then moved up. The left hand holds the keynote, A, under it, then takes up broken chords. In A major, 2/4, 56 bars; a third of the right hand's moves are steps, the rest leaps.
+    *Works on:* melody, rhythm, texture.
+    *How:* for a light dance, write one line of quick notes that leaps up and down between two registers, so that it sounds like two lines; repeat each two-bar figure once, then move it a step up; hold the keynote under it at first.
+    *Where:* *Scherzino*, op. 11 no. 3, bars 1 to 6. **[score: Scherzino]**
+24. **A stern song low in the voice, over a rocking sea.** The Varangian Guest (a bass) sings a narrow tune, A2 to E flat 4, mostly by step, a dotted quarter then eighths; the piano rocks in long chords, a D minor chord and then a G major one (the raised sixth of the key), later G minor; between them, four quick notes rush down or up in the bass, and once the bass shakes in octaves.
+    *Works on:* melody, harmony, colour.
+    *How:* give a low voice a short, stepwise tune in a dotted rhythm; rock the harmony between the minor keynote's chord and the major chord on the fourth, turning it minor later; throw in quick four-note scales in the bass for the waves.
+    *Where:* *Sadko*, the song of the Varangian Guest, bars 1 to 8. **[score: Song of the Varangian Guest]**
+
 ## Walks through whole works
 
 **Russian Easter Festival Overture** (about 14 minutes in the guide's recording; times are that recording's). A slow introduction (*Lento mistico*, 5/2): the chant "Let God arise" in the woodwinds; solo flights of violin, cello, flute and clarinet between its statements; a solo trombone with the strings answering (1:45); the chant low and soft in bassoon and tuba (3:20); harp glissandi to close (4:05). The fast section (*Allegro agitato*, 4:28) turns another chant into a dance and climaxes on the bell rhythm in the full orchestra (5:28). A slow middle on "Christ is risen" (6:04): violin harmonics, plucked strings and bells for the pagan feast, the trombone recitative (7:48). The fast music returns (9:01), climaxes again on the bells (10:33), gathers the earlier ideas at once (12:14), and ends on "Christ is risen" in the brass, at its loudest. [DuPage; BSO]
@@ -167,12 +180,16 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
 
 None for these techniques: the catalogue holds no orchestral work of his. What it holds (version 25): `mutopia:Rimsky-KorsakovN/O11/rimsky-korsakov-op11-1` to `-4` (piano, op. 11, read from an editor's copy for MIDI), `mutopia:Rimsky-KorsakovN/Rimsky` (Fugue on B-A-C-H), `mutopia:Rimsky-KorsakovN/PesnyaVaryazhskogoGostya` (an aria from *Sadko*, an editor's copy for MIDI), `imslp:Rimsky-Korsakov_Nikolay/PMLP3170-Bumble_bee.mid` (a MIDI file; too well known).
 
+- `mutopia:Rimsky-KorsakovN/O11/rimsky-korsakov-op11-3`, the *Scherzino* (23); `mutopia:Rimsky-KorsakovN/PesnyaVaryazhskogoGostya`, the Varangian Guest's song (24)
+
 ## Not checked
 
 - That his operas set the human characters in plain diatonic music and the supernatural in the whole-tone and octatonic scales: the source read says only that he used those scales mainly for the fantastic sections.
 - The rest of *Principles of Orchestration* after the start of chapter VI (on voices), and its musical examples, which were not seen.
 - The music of the *Capriccio espagnol* and of the operas (*Sadko*, *The Golden Cockerel*, *Kitezh*): not read.
 - The two guides give different keys for the Easter overture's opening (one has the hymn in F major, the other a D minor introduction); neither is used above.
+
+- The *Scherzino* and the Varangian Guest's song are read from editors' copies made for MIDI (a `\score` that writes only MIDI); the song's repeats are played in the reading. The left hand's notes may double what the printed score has.
 
 ## Sources
 
