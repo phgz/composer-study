@@ -2,7 +2,7 @@
 
 Begun by Claude on 22 November 2026. It grows each time he is used.
 
-**Scope so far.** One kind of piece: the dances, in *Hippolyte et Aricie* (1733) and the harpsichord books (1724, 1726-27). **Scores:** yes. score-reader's catalogue (version 20) holds 108 of his works, all from Mutopia: the movements of *Hippolyte et Aricie*, and *Tambourin*, *Les Sauvages* and *Les Tendres Plaintes* for harpsichord. This is the first page here written mostly from the notes: thirteen dances were read by measurement from the ready copy, and each technique marked **[score]** names the work it was read in. The open web gave little on how his dances are made; what it gave is marked by its source. Dances the catalogue does not hold (his musettes, his loures, his passepieds, the tambourins of the operas) are not covered.
+**Scope so far.** One kind of piece: the dances, in *Hippolyte et Aricie* (1733) and the harpsichord books (1724, 1726-27). **Scores:** yes. score-reader's catalogue (version 20) holds 108 of his works, all from Mutopia: the movements of *Hippolyte et Aricie*, and *Tambourin*, *Les Sauvages* and *Les Tendres Plaintes* for harpsichord. This is the first page here written mostly from the notes: thirteen dances were read by measurement from the ready copy, and each technique marked **[score]** names the work it was read in. The open web gave little on how his dances are made; what it gave is marked by its source. Dances the catalogue does not hold (his musettes, his loures, his passepieds, the tambourins of the operas) are not covered. A second kind was added on 24 November 2026, after he was drawn again for composer-blend's piece 69: the music for the storm and the underworld in *Hippolyte et Aricie*, four movements read by measurement from Philip's ready copy (catalogue version 25), as printed (their repeats not played).
 
 **Measured profile:** [`profiles/jean-philippe-rameau.md`](../profiles/jean-philippe-rameau.md), generated from score-reader's catalogue by `study/profiles.py`.
 
@@ -88,6 +88,27 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
     *How:* a scene can be a chain of short dances of different types; a dance can be reworked for another setting rather than copied.
     *Where:* his operas; *La Musette* and *Le Tambourin* (1724) in *Les Fêtes d'Hébé*. [Wikipedia, Rameau]
 
+### The storm and the underworld (*Hippolyte et Aricie*)
+
+*Added on 24 November 2026, when he was drawn again for composer-blend's piece 69 (after it was composed), from the notes.*
+
+17. **Thunder: every part repeats one note as fast as it can, then the top breaks into rushing scales.** The thunder of Act I opens with all the parts striking G in thirty-second notes, together, for two bars; then the two upper parts move about a third of the time by step, in runs of eight notes and more, while the middle and bass parts go on repeating their notes (four in five of their moves) and one low part holds long notes under it all. It is 46 bars, in G major, in 2/4 and 4/4.
+    *Works on:* rhythm, texture, colour.
+    *How:* for a storm, have the whole band repeat one note together as fast as it can; then let the top parts rush up and down in scales while the rest go on repeating, and hold one long low line underneath.
+    *Where:* *Hippolyte et Aricie*, Act I, scene IV, *Bruit de tonnerre*. **[score: Bruit de tonnerre]**
+18. **The infernal air: short rushes that land on long notes.** In 2/2, the parts alternate quick figures, six notes to the beat, with long held notes (a dotted half, a whole beat); the top line moves by step more than half the time, in runs of up to seven notes.
+    *Works on:* rhythm, melody.
+    *How:* for a dark, violent scene, write bursts of six quick notes to the beat, each ending on a held note, rather than a continuous run.
+    *Where:* *Hippolyte et Aricie*, Act II, scene III, *Premier air infernal* (25 bars). **[score: Premier air infernal]**
+19. **The furies: the top and the bass run in scales, the middle repeats.** In 3/4, the top part and the bass run in sixteenths, two moves in three by step, in scales of up to eight notes, while the two middle parts repeat their notes more than half the time.
+    *Works on:* texture, rhythm.
+    *How:* put running scales in the outer parts at once and keep the inner parts hammering repeated notes between them.
+    *Where:* *Hippolyte et Aricie*, Act II, scene III, *Deuxième air de furies* (38 bars). **[score: Deuxième air de furies]**
+20. **Pluto enters with the whole band in one rhythm.** All five parts move together in the same eighths and sixteenths for the nine bars, from the bass's C2 to the top's C6.
+    *Works on:* rhythm, texture.
+    *How:* for an entrance of power, give every part the same rhythm at once, spread over the whole range, short.
+    *Where:* *Hippolyte et Aricie*, Act II, scene II, *Entrée de Pluton* (9 bars). **[score: Entrée de Pluton]**
+
 ## Walks through whole works
 
 **Tambourin** (harpsichord, E minor, 62 bars in two). Refrain, bars 1 to 8: a four-bar tune running by step up from the keynote, said twice with two endings, over the hammered fifth. Couplet 1 (9 to 16). Refrain (17 to 24). Couplet 2 (25 to 36, twelve bars). Refrain (37 to 44). Couplet 3 (45 to 56, twelve bars). The refrain once more, six bars only.
@@ -106,6 +127,10 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 | menuet 1 / 2, Act V | E major / E minor | 16 / 28 | 5 / 5 | moving |
 | chaconne, Act V | A minor, then A major | 121 | 10 | moving |
 | Les Sauvages | G minor | 80 | 2 (harpsichord) | moving |
+| Bruit de tonnerre, Act I | G major | 46 | 7 | repeated thirty-second notes |
+| Premier air infernal, Act II | one flat | 25 | 5 | moving |
+| Deuxième air de furies, Act II | one flat | 38 | 5 | running sixteenths |
+| Entrée de Pluton, Act II | (no sharps or flats) | 9 | 5 | in the others' rhythm |
 
 The speeds in the files are the editions' own, not his, and are not given here.
 
@@ -129,6 +154,7 @@ The speeds in the files are the editions' own, not his, and are not given here.
 - `#77` and `#78`, `#99` and `#100`, the menuets (4, 5, 9, 11)
 - `#105`, the chaconne (13)
 - `mutopia:RameauJP/sauvages` (10)
+- `#21`, *Bruit de tonnerre* (17); `#36`, *Premier air infernal* (18); `#37`, *Deuxième air de furies* (19); `#30`, *Entrée de Pluton* (20)
 
 ## Not checked
 
@@ -136,6 +162,7 @@ The speeds in the files are the editions' own, not his, and are not given here.
 - How his dances are scored (small flutes, oboes, bassoons, a drum): the parts in the catalogue's files carry no instrument names, and no source read today says.
 - His ornaments: the readings of these files hold none.
 - Whether the bass of the first rigaudon is one instrument or several.
+- Whether the thunder's repeated notes are written out or written as a tremolo: the reading gives the notes, not the sign. The parts of these four movements carry no instrument names either.
 
 Not read: Girdlestone's and Masson's books on him, which the sources point to.
 
