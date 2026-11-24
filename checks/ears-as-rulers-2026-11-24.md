@@ -216,7 +216,26 @@ Five files, one for each place (bars 29 and 30 share a file with bar 32). Each p
 - `64b_bars_61-63`: bar 62, beat 1, at 1.4 (9.4).
 - `64b_bars_111-113`: bar 112, beat 1, at 1.5 (9.8).
 
-Philip's hearing: not yet given.
+**Philip's hearing (24 November), his words:** "I'd flag 20-22, 28-32. 61-63, 111-113 I'm uncertain". He did not flag bars 4 to 6. He did not say whether he heard the places in the whole texture or only with the inner voices alone.
+
+- **The tally:** of the five files, Philip flags two (bar 21; bars 29, 30 and 32), is unsure of two (bars 62 and 112), and does not flag one (bar 5).
+- **The pipeline:** the models flagged 25 notes, Claude picked out six places from them, and Philip hears two of those as wrong. He knew which moments Claude thought weak when he listened. He still left one unflagged and was unsure of two, so he was not simply agreeing.
+- **Where the heard places rank** among the notes the four together find most surprising in 64b as written (of 1315):
+  - Bar 21: 17th (the tune) and 19th (the tenor).
+  - Bar 29: 13th.
+  - Bar 30: 3rd, 5th and 25th.
+  - Bar 32: 15th.
+  - The unsure places: 16th and 21st. Bar 5, not flagged: 7th.
+- **Two ears instead of four** (from the same scores):
+
+| Ears | Found at 2% in 64b, a semitone | A tone | Where the heard places rank |
+|---|---|---|---|
+| All four | 52% | 42% | 3rd to 25th |
+| AMT Large and Medium | 46% | 33% | bar 30: 1st and 3rd; bar 21's tune: 14th; the rest 59th to 309th (of 1745 notes) |
+| NotaGen-X and fine-tuned | 29% | 27% | 3rd to 50th |
+
+  - AMT alone needs only the notes the renderer plays, so it can hear any piece, in any instruments. NotaGen needs the piece written out as a score.
+  - With AMT alone, both heard places would still be among the first 35 flagged (bar 30; bar 21 through its tune), but bars 29 and 32 would not.
 
 ### Next
 
