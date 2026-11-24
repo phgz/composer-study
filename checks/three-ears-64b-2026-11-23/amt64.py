@@ -27,7 +27,7 @@ def amt_inner():
     return {v: sorted(l) for v, l in out.items()}
 
 
-N.inner = amt_inner
+if os.environ.get('AMT64'): N.inner = amt_inner                         # without AMT64, 64b as made
 
 
 def build(): return N.build('all')

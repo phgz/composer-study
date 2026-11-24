@@ -1,0 +1,119 @@
+{
+ "scale_db": {
+  "ours 0": 0.0,
+  "large 0": 0.728,
+  "medium 0": 2.555,
+  "large 1": 2.046,
+  "ours 1": 1.354,
+  "medium 1": 3.821
+ },
+ "fits": {
+  "large0": {
+   "gain_db": 0.728,
+   "residual": 0.0201
+  },
+  "medium0": {
+   "gain_db": 2.555,
+   "residual": 0.0201
+  },
+  "large1": {
+   "gain_db": 1.318,
+   "residual": 0.0
+  },
+  "ours1": {
+   "gain_db": -0.692,
+   "residual": 0.0103
+  },
+  "medium1": {
+   "gain_db": 2.467,
+   "residual": 0.0103
+  },
+  "medium1 via 89-92": {
+   "gain_db": 1.267,
+   "residual": 0.0
+  }
+ },
+ "routes_agree_db": 0.0013,
+ "passages": [
+  {
+   "bars": [
+    5,
+    9
+   ],
+   "seconds": [
+    6.5,
+    14.0
+   ],
+   "clip_seconds": 9.3,
+   "gain_db": 1.89,
+   "loudness": {
+    "ours as made": -20.0,
+    "ours forward": -17.9,
+    "large as made": -20.1,
+    "large forward": -18.1,
+    "medium as made": -20.2,
+    "medium forward": -18.1
+   }
+  },
+  {
+   "bars": [
+    89,
+    92
+   ],
+   "seconds": [
+    133.77,
+    146.18
+   ],
+   "clip_seconds": 14.21,
+   "gain_db": 6.71,
+   "loudness": {
+    "ours as made": -20.0,
+    "ours forward": -18.6,
+    "large as made": -20.7,
+    "large forward": -20.7,
+    "medium as made": -20.7,
+    "medium forward": -20.7
+   }
+  },
+  {
+   "bars": [
+    105,
+    112
+   ],
+   "seconds": [
+    185.17,
+    194.65
+   ],
+   "clip_seconds": 11.27,
+   "gain_db": -2.19,
+   "loudness": {
+    "ours as made": -20.0,
+    "ours forward": -19.1,
+    "large as made": -18.8,
+    "large forward": -17.3,
+    "medium as made": -20.3,
+    "medium forward": -19.7
+   }
+  },
+  {
+   "bars": [
+    141,
+    148
+   ],
+   "seconds": [
+    225.21,
+    239.02
+   ],
+   "clip_seconds": 15.61,
+   "gain_db": -4.05,
+   "loudness": {
+    "ours as made": -20.0,
+    "ours forward": -18.6,
+    "large as made": -18.8,
+    "large forward": -16.5,
+    "medium as made": -19.5,
+    "medium forward": -18.1
+   }
+  }
+ ]
+}
