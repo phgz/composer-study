@@ -1,0 +1,519 @@
+{
+ "health": {
+  "kern/bach-chorales:chor084.krn": 0.2454,
+  "kern/bach-chorales:chor161.krn": 0.1075,
+  "kern/bach-chorales:chor217.krn": 0.1054,
+  "kern/bach-chorales:chor249.krn": 0.2508,
+  "kern/bach-chorales:chor316.krn": 0.1168,
+  "kern/bach-chorales:chor366.krn": 0.1296,
+  "dcml/corelli:notes/op03n08d.notes.tsv": 0.149,
+  "dcml/corelli:notes/op03n10b.notes.tsv": 0.2497,
+  "dcml/corelli:notes/op03n12e.notes.tsv": 0.195,
+  "dcml/corelli:notes/op04n02a.notes.tsv": 0.2353,
+  "dcml/corelli:notes/op04n05a.notes.tsv": 0.3388,
+  "kern/vivaldi:vivaldi-op01n02m02.krn": 0.2856,
+  "kern/vivaldi:vivaldi-op01n04m04.krn": 0.3442,
+  "kern/vivaldi:vivaldi-op01n06m04.krn": 0.3941,
+  "kern/vivaldi:vivaldi-op01n07m04.krn": 0.4554,
+  "kern/vivaldi:vivaldi-op01n09m04.krn": 0.3424,
+  "kern/vivaldi:vivaldi-op01n12.krn": 0.098,
+  "kern/haydn-quartets:op50n1-03.krn": 0.2737,
+  "kern/haydn-quartets:op50n5-04.krn": 0.2628,
+  "kern/haydn-quartets:op50n6-02.krn": 0.2766,
+  "kern/haydn-quartets:op55n2-03.krn": 0.2862,
+  "kern/haydn-quartets:op55n3-04.krn": 0.3169,
+  "openscore-quartets:Haydn,_Joseph/String_Quartet_in_G_major,_Hob.III66,_Op.64,_No.4/sq7249986.mxl#3": 0.2549,
+  "kern/mozart-quartets:k370-01.krn": 0.3062,
+  "kern/mozart-quartets:k546-01.krn": 0.2582,
+  "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.14_in_G_major,_K.387_(Op._10,_No._1)/sq7103818.mxl#2": 0.2252,
+  "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.21_in_D_major,_K.575/sq16138966.mxl#4": 0.2678,
+  "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.22_in_B-flat_major,_K.589/sq15730717.mxl#2": 0.2891,
+  "openscore-quartets:Mozart,_Wolfgang_Amadeus/String_Quartet_No.23_in_F_major,_K.590/sq15624112.mxl#2": 0.2334
+ },
+ "tests": {
+  "inner lines": {
+   "all units": {
+    "works": 29,
+    "notes": 5945,
+    "ours": 2.3155965588064324,
+    "notagen": 0.7764113824761156,
+    "diff": -1.5391851763303175,
+    "ci": [
+     -1.6573312895748744,
+     -1.4206079571334134
+    ],
+    "notagen_lower": 1.0,
+    "p": 4.999750012499375e-05
+   },
+   "Antonio Vivaldi": {
+    "works": 6,
+    "notes": 653,
+    "ours": 2.5756183497928644,
+    "notagen": 1.0183796869306903,
+    "diff": -1.5572386628621742,
+    "ci": [
+     -1.8320513269684102,
+     -1.2132458521707197
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Arcangelo Corelli": {
+    "works": 5,
+    "notes": 1241,
+    "ours": 1.7759501992886928,
+    "notagen": 0.43850801954772384,
+    "diff": -1.337442179740969,
+    "ci": [
+     -1.3892095731718233,
+     -1.2856747863101148
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.06224688765561722
+   },
+   "Franz Joseph Haydn": {
+    "works": 6,
+    "notes": 1705,
+    "ours": 2.3142437516560066,
+    "notagen": 1.0226706561760628,
+    "diff": -1.2915730954799443,
+    "ci": [
+     -1.4513371598844458,
+     -1.1362165653853504
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Johann Sebastian Bach": {
+    "works": 6,
+    "notes": 596,
+    "ours": 2.1903048289038822,
+    "notagen": 0.4266753705092335,
+    "diff": -1.763629458394649,
+    "ci": [
+     -1.9917319491950092,
+     -1.5301293932236693
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Wolfgang Amadeus Mozart": {
+    "works": 6,
+    "notes": 1750,
+    "ours": 2.631924604471095,
+    "notagen": 0.9195059520621355,
+    "diff": -1.7124186524089595,
+    "ci": [
+     -1.90934179547808,
+     -1.5204018885575088
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   }
+  },
+  "all lines": {
+   "all units": {
+    "works": 29,
+    "notes": 12653,
+    "ours": 2.406008771133471,
+    "notagen": 0.8021883672070828,
+    "diff": -1.603820403926388,
+    "ci": [
+     -1.7410026713915079,
+     -1.4717038024637217
+    ],
+    "notagen_lower": 1.0,
+    "p": 4.999750012499375e-05
+   },
+   "Antonio Vivaldi": {
+    "works": 6,
+    "notes": 2172,
+    "ours": 2.691650138123963,
+    "notagen": 1.005976497168307,
+    "diff": -1.685673640955656,
+    "ci": [
+     -1.8923429431615277,
+     -1.4201386221209822
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Arcangelo Corelli": {
+    "works": 5,
+    "notes": 2438,
+    "ours": 1.764102366527149,
+    "notagen": 0.6192164080893914,
+    "diff": -1.1448859584377578,
+    "ci": [
+     -1.3628608542728546,
+     -0.9676547888502428
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.06224688765561722
+   },
+   "Franz Joseph Haydn": {
+    "works": 6,
+    "notes": 3420,
+    "ours": 2.447710834630124,
+    "notagen": 1.0643759341711254,
+    "diff": -1.3833349004589988,
+    "ci": [
+     -1.533541053491174,
+     -1.2331287474268233
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Johann Sebastian Bach": {
+    "works": 6,
+    "notes": 1157,
+    "ours": 2.298166233376927,
+    "notagen": 0.3411410968820742,
+    "diff": -1.9570251364948532,
+    "ci": [
+     -2.237728652722305,
+     -1.6803544645052144
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Wolfgang Amadeus Mozart": {
+    "works": 6,
+    "notes": 3466,
+    "ours": 2.7214298822414698,
+    "notagen": 0.949736573204901,
+    "diff": -1.7716933090365685,
+    "ci": [
+     -1.8570560000151144,
+     -1.6897134983623567
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   }
+  },
+  "top line": {
+   "all units": {
+    "works": 29,
+    "notes": 3405,
+    "ours": 2.38726376618419,
+    "notagen": 1.0963416605705498,
+    "diff": -1.2909221056136402,
+    "ci": [
+     -1.458014047022291,
+     -1.1309998111569681
+    ],
+    "notagen_lower": 1.0,
+    "p": 4.999750012499375e-05
+   },
+   "Antonio Vivaldi": {
+    "works": 6,
+    "notes": 790,
+    "ours": 2.750286434072821,
+    "notagen": 1.3928691531531534,
+    "diff": -1.3574172809196676,
+    "ci": [
+     -1.744183509939571,
+     -0.9764923365463525
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Arcangelo Corelli": {
+    "works": 5,
+    "notes": 597,
+    "ours": 2.4321001953987715,
+    "notagen": 1.137283496145048,
+    "diff": -1.2948166992537238,
+    "ci": [
+     -1.5901449508537304,
+     -1.0517122855525396
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.06224688765561722
+   },
+   "Franz Joseph Haydn": {
+    "works": 6,
+    "notes": 888,
+    "ours": 2.41296245792407,
+    "notagen": 1.4654791666666667,
+    "diff": -0.9474832912574033,
+    "ci": [
+     -1.1487318194298375,
+     -0.7256012030250444
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Johann Sebastian Bach": {
+    "works": 6,
+    "notes": 244,
+    "ours": 1.6112515576932196,
+    "notagen": 0.17072064787064786,
+    "diff": -1.4405309098225718,
+    "ci": [
+     -1.8513384425656891,
+     -1.0299847114657659
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Wolfgang Amadeus Mozart": {
+    "works": 6,
+    "notes": 886,
+    "ours": 2.7371909240344987,
+    "notagen": 1.3221794782796494,
+    "diff": -1.415011445754849,
+    "ci": [
+     -1.6487346926586983,
+     -1.185099132666332
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   }
+  },
+  "bass line": {
+   "all units": {
+    "works": 29,
+    "notes": 3303,
+    "ours": 2.584090240880306,
+    "notagen": 0.5441212432405338,
+    "diff": -2.0399689976397726,
+    "ci": [
+     -2.320267300364212,
+     -1.7452450435699933
+    ],
+    "notagen_lower": 1.0,
+    "p": 4.999750012499375e-05
+   },
+   "Antonio Vivaldi": {
+    "works": 6,
+    "notes": 729,
+    "ours": 2.7878302710240757,
+    "notagen": 0.5867793068829955,
+    "diff": -2.20105096414108,
+    "ci": [
+     -2.295818698542942,
+     -2.1131904673427666
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Arcangelo Corelli": {
+    "works": 5,
+    "notes": 600,
+    "ours": 1.1473943130666568,
+    "notagen": 0.4863880994444635,
+    "diff": -0.6610062136221931,
+    "ci": [
+     -1.1252012567009275,
+     -0.23243695641219872
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.06224688765561722
+   },
+   "Franz Joseph Haydn": {
+    "works": 6,
+    "notes": 827,
+    "ours": 2.7824999622759097,
+    "notagen": 0.7160525101714619,
+    "diff": -2.0664474521044482,
+    "ci": [
+     -2.4340876746147146,
+     -1.6776356833895145
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Johann Sebastian Bach": {
+    "works": 6,
+    "notes": 317,
+    "ours": 3.0628196443157907,
+    "notagen": 0.3026698900982266,
+    "diff": -2.7601497542175637,
+    "ci": [
+     -3.189818870095823,
+     -2.3588092849540048
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Wolfgang Amadeus Mozart": {
+    "works": 6,
+    "notes": 830,
+    "ours": 2.9004576924168255,
+    "notagen": 0.6190942189728431,
+    "diff": -2.2813634734439825,
+    "ci": [
+     -2.6088472752265375,
+     -1.9883510849835868
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   }
+  },
+  "inner, written without accidental": {
+   "all units": {
+    "works": 29,
+    "notes": 5513,
+    "ours": 2.1570870708069134,
+    "notagen": 0.7427235772216517,
+    "diff": -1.4143634935852618,
+    "ci": [
+     -1.5235861582607435,
+     -1.30526437969445
+    ],
+    "notagen_lower": 1.0,
+    "p": 4.999750012499375e-05
+   },
+   "Antonio Vivaldi": {
+    "works": 6,
+    "notes": 604,
+    "ours": 2.453381015063446,
+    "notagen": 1.0403230831809784,
+    "diff": -1.4130579318824674,
+    "ci": [
+     -1.6877895612084115,
+     -1.0949093231058837
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Arcangelo Corelli": {
+    "works": 5,
+    "notes": 1152,
+    "ours": 1.731088626632942,
+    "notagen": 0.4147694951898534,
+    "diff": -1.3163191314430887,
+    "ci": [
+     -1.3751530563513017,
+     -1.2574852065348756
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.06224688765561722
+   },
+   "Franz Joseph Haydn": {
+    "works": 6,
+    "notes": 1592,
+    "ours": 2.100720516905741,
+    "notagen": 0.9448655394426467,
+    "diff": -1.1558549774630944,
+    "ci": [
+     -1.265057750826618,
+     -1.0399423428069439
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Johann Sebastian Bach": {
+    "works": 6,
+    "notes": 564,
+    "ours": 1.9875849007002941,
+    "notagen": 0.4101367399267724,
+    "diff": -1.577448160773522,
+    "ci": [
+     -1.792417873496426,
+     -1.3489333490638609
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Wolfgang Amadeus Mozart": {
+    "works": 6,
+    "notes": 1601,
+    "ours": 2.4416605540364835,
+    "notagen": 0.8488640146960412,
+    "diff": -1.5927965393404422,
+    "ci": [
+     -1.7939131489865432,
+     -1.4154241609803264
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   }
+  },
+  "inner, written with accidental": {
+   "all units": {
+    "works": 29,
+    "notes": 432,
+    "ours": 4.711689832040319,
+    "notagen": 1.2468551767445157,
+    "diff": -3.464834655295804,
+    "ci": [
+     -3.991304229428822,
+     -2.9676045893844534
+    ],
+    "notagen_lower": 1.0,
+    "p": 4.999750012499375e-05
+   },
+   "Antonio Vivaldi": {
+    "works": 6,
+    "notes": 49,
+    "ours": 4.27733851445019,
+    "notagen": 0.5567574074074074,
+    "diff": -3.720581107042783,
+    "ci": [
+     -4.396243855109116,
+     -3.1684731138122575
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Arcangelo Corelli": {
+    "works": 5,
+    "notes": 89,
+    "ours": 2.5656075909897327,
+    "notagen": 1.0418003021978024,
+    "diff": -1.523807288791931,
+    "ci": [
+     -1.7229489696328515,
+     -1.2847037186870232
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.06224688765561722
+   },
+   "Franz Joseph Haydn": {
+    "works": 6,
+    "notes": 113,
+    "ours": 5.533768993441307,
+    "notagen": 2.075441464864159,
+    "diff": -3.4583275285771475,
+    "ci": [
+     -4.227215847820306,
+     -2.7031229307799287
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Johann Sebastian Bach": {
+    "works": 6,
+    "notes": 32,
+    "ours": 5.700168372004806,
+    "notagen": 0.7323008333333333,
+    "diff": -4.967867538671473,
+    "ci": [
+     -6.017464748997287,
+     -3.9699997612123
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   },
+   "Wolfgang Amadeus Mozart": {
+    "works": 6,
+    "notes": 149,
+    "ours": 5.123885315807128,
+    "notagen": 1.7938000634954243,
+    "diff": -3.330085252311703,
+    "ci": [
+     -4.230491851101692,
+     -2.7108725050578806
+    ],
+    "notagen_lower": 1.0,
+    "p": 0.031148442577871107
+   }
+  }
+ },
+ "agreement": {
+  "inner_notes_spearman": 0.4983261477229629,
+  "per_work_median": 0.42747779026926114
+ }
+}
