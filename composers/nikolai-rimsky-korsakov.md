@@ -6,7 +6,7 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
 
 **Measured profile:** none yet (no profile of his in `profiles/`).
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/nikolai-rimsky-korsakov.md` (piece 68, not yet heard).
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/nikolai-rimsky-korsakov.md` (piece 68: 3.5, "I was not a big fan of the piece").
 
 ## Techniques
 
