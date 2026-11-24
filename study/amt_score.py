@@ -1,6 +1,8 @@
 """AMT's surprise at each prepared note (study/amt.py): for each input, its windows read by an Anticipatory Music Transformer, and for
 each note the bits of its pitch, given its onset and its length: the model's probability of that pitch on any instrument, among the
-note tokens (what AMT may write in a note's third token). Runs where the weights are (a Mac's GPU through MPS, a CUDA GPU, or the
+note tokens (what AMT may write in a note's third token). Each note's scores: [the pitch's bits, the note token's own bits (the
+pitch on its instrument), the entropy in bits of AMT's distribution over the 128 pitches there (on any instrument, the rest left
+out): how unsure it was before it heard the pitch]. Runs where the weights are (a Mac's GPU through MPS, a CUDA GPU, or the
 CPU): music-large-800k (780M parameters) or music-medium-800k (360M), each a folder with its config.json.
 
   python3 amt_score.py MODEL_FOLDER inputs.jsonl -o scores.jsonl [--device mps|cuda|cpu]
@@ -39,7 +41,10 @@ def main():
                 tok = w['windows'][wi][pos]; note = tok - NOTE_OFFSET; assert 0 <= note < MAX_NOTE, (w['id'], pos)
                 row = lps[wi][pos - 1]; pitch = note % 128
                 pitch_lp = torch.logsumexp(row[pitch:MAX_NOTE:128], dim=0)                 # that pitch, on any instrument
-                bits.append([round(-float(pitch_lp) / ln2, 4), round(-float(row[note]) / ln2, 4)])
+                plp = torch.logsumexp(row[:MAX_NOTE].reshape(MAX_INSTR, 128), dim=0)       # every pitch, on any instrument,
+                plp = plp - torch.logsumexp(plp, dim=0)                                    # among the pitches alone
+                entropy = -float((plp.exp() * plp).sum()) / ln2                            # how unsure AMT was of the pitch
+                bits.append([round(-float(pitch_lp) / ln2, 4), round(-float(row[note]) / ln2, 4), round(entropy, 4)])
             hc = sum(health) / len(health) if health else None
             out.write(json.dumps(dict(id=w['id'], bits=bits, per_note_token=round(hc, 4) if hc is not None else None)) + '\n'); out.flush()
             print(f"{w['id']}: {len(bits)} notes, {len(w['windows'])} window(s), {hc:.2f} bits a note token, "

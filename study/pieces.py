@@ -6,11 +6,18 @@ from study import lines as L
 
 
 def from_build(path):
-    """{part name: notes [(t, d, midi, ...)]} from a score whose build() returns (Score, end) or a Score"""
+    """{part name: notes [(t, d, midi, ...)]} from a score whose build() returns (Score, end) or a Score; or, for a notes module
+    with no build() (pieces 63 on: notesNN.py), from its EV rows (part, seconds, length, midi, ...), as tools/events.py reads them"""
     path = os.path.abspath(path); d = os.path.dirname(path); sys.path.insert(0, d); cwd = os.getcwd(); os.chdir(d)
     try:
         spec = importlib.util.spec_from_file_location('piece_' + os.path.basename(path)[:-3], path); mod = importlib.util.module_from_spec(spec)
-        with contextlib.redirect_stdout(io.StringIO()): spec.loader.exec_module(mod); r = mod.build()
+        with contextlib.redirect_stdout(io.StringIO()):
+            spec.loader.exec_module(mod)
+            if not hasattr(mod, 'build') and hasattr(mod, 'EV'):
+                out = {}
+                for r in mod.EV: out.setdefault(str(r[0]), []).append((float(r[1]), float(r[2]), r[3]))
+                return out
+            r = mod.build()
         S = r[0] if isinstance(r, tuple) else r
         return {(k[-1] if isinstance(k, tuple) else str(k)): p['notes'] for k, p in S.parts.items()}
     finally: os.chdir(cwd); sys.path.remove(d)

@@ -243,3 +243,47 @@ Five files, one for each place (bars 29 and 30 share a file with bar 32). Each p
   - It needs the Mac, where the weights are: the four ears over a new piece, then the 25 most surprising notes listed for Claude to look at.
   - First, whether the six weak spots in 64b sound wrong to Philip. If they do not, a list that only Claude finds wanting is not worth a Mac run per piece.
 - **Uses 2 and 3:** flat stretches, and whose voice a passage sounds like, checked against Philip's verdicts on past pieces.
+
+## The repair test (`prepare_repair.py`, `choose_repair.py`, `repair64.py`, `repair64_cut.py`)
+
+**Why:** the first of the further uses Philip agreed to: "That would be interesting". When the check flags a slip, let AMT rewrite just those bars. For a slip, the pull to the middle is what is wanted. The line held: the models for correctness (voice-leading, spacing), never for character.
+
+**The places:** the two Philip heard as wrong in the whole texture, bar 21 and bars 29 to 32. Three versions, each named when heard:
+
+- **As written:** 64b untouched.
+- **Claude's rewrite, by hand** (`repair64.py`, CLAUDE):
+  - Bar 21: the alto holds F sharp 4, a 9-8 over bar 22's E. The tenor plays D4, then B3. No more D sharp under E.
+  - Bars 29 to 32: two plain voices on the plan's chords (E7; A minor, then A sharp diminished; C, then F; E minor). The section ends on a plain E minor (E2, B3, E4, G4).
+- **AMT's rewrite:**
+  - AMT gets the tune and the bass of the whole piece on the bright piano ("two pianos"). It also gets the inner voices everywhere else: those before a place as played, those after as notes it knows are coming.
+  - It writes the inner voices of the two places with its own `generate()`: AMT Large and Medium, seeds 1 to 8, sixteen candidates.
+- **In both rewrites,** an inner note that would sound on into a place is cut where the place begins, as AMT was given it.
+
+**The choice among AMT's sixteen, by a rule written before any was made** (`choose_repair.py`): the fewest faults in the place, the bar before and the bar after. Ties go to the fewest echoes of the tune or the bass, then Large, then the lower seed. The faults counted:
+
+- `notes64.check()`: voices crossing, parallel fifths or octaves, a voice out of its range.
+- An inner note struck a semitone or a minor ninth from another voice.
+- A unison between the inner voices.
+- Three inner notes at once.
+- A beat of a place with no inner note.
+- An inner voice leaping more than an octave.
+- A false relation between the inner voices within a beat.
+
+**The same count for the other two:**
+- **As written:** 9 faults (the struck second in bar 21; the alto's leap of a tenth in bar 30; the false relations in bars 21, 29 and 30).
+- **Claude's rewrite:** 0, after one change. Its first draft had a false relation in bar 30 (C in the alto, C sharp in the tenor a beat later). The alto now takes the chromatic step itself.
+- **What the rule misses:** bar 32's blurred arrival, which Philip heard among bars 28 to 32. It is not among its faults.
+
+**Running it on the Mac:**
+
+```bash
+R=checks/ears-as-rulers-2026-11-24
+for m in large medium; do for s in 1 2 3 4 5 6 7 8; do
+  python study/amt_write.py ~/models/music-$m-800k ~/anticipation $R/amt_repair.json -o $R/repair_${m}_$s.json --seed $s --given-program 1
+done; done
+```
+
+Use AMT's checkout path as for the earlier writing. Commit the sixteen `repair_*.json`. Claude then runs `choose_repair.py`, renders the three versions and cuts the two clips (`repair64_cut.py`).
+
+**Philip's hearing:** not yet given.
+
