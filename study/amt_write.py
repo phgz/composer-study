@@ -44,7 +44,8 @@ def main():
         note = n - NOTE_OFFSET; out.append([round(t_s, 2), round((d - DUR_OFFSET) / 100, 2), note % 128, note // 128])
     length = sum(s1 - s0 for s0, s1 in spec['spans'])
     doubled = sum(any(abs(t - g[0]) <= .33 and m == g[2] for g in spec['given']) for t, d, m, i in out)
-    json.dump(dict(model=os.path.basename(os.path.normpath(a.model)), seed=a.seed, top_p=a.top_p, spans=spec['spans'], notes=out,
+    json.dump(dict(model=os.path.basename(os.path.normpath(a.model)), input=os.path.basename(a.input), seed=a.seed, top_p=a.top_p,
+                   spans=spec['spans'], notes=out,
                    given_program=a.given_program, history=len(spec['history']), notes_a_second=round(len(out) / length, 2),
                    repeating_given=doubled, seconds=round(time.time() - t0, 1)), open(a.o, 'w'))
     print(f'{len(out)} notes written to {a.o}: {len(out) / length:.2f} a second, {doubled} repeating a given pitch within a third of a second; '
