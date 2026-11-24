@@ -1,12 +1,12 @@
 # Carl Maria von Weber (1786-1826)
 
-Begun by Claude on 24 November 2026, for composer-blend's piece 70. It grows each time he is used.
+Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended the same day for piece 70b. It grows each time he is used.
 
 **Scope so far.** Two kinds of piece, one read and one only described. His partsongs for men's voices, read in the score; and the village of *Der Freischütz*, its band and its dance, from sources only. **Scores:** partly. score-reader's catalogue (version 25) holds 17 of his works: partsongs and choruses from CPDL (among them *Lützows wilde Jagd* and the *Reiterlied*), the Kyrie of the Mass in E flat, and three short pieces from Polish libraries. None of his operas or orchestral works is there. *Lützows wilde Jagd* and the *Reiterlied* were read by measurement from Philip's ready-read copy, their openings note by note. Philip's sheet marks him "partly" readable, so in a piece he is a support, not a spine.
 
 **Measured profile:** [`profiles/carl-maria-von-weber.md`](../profiles/carl-maria-von-weber.md), generated from score-reader's catalogue by `study/profiles.py`: his partsongs against other composers'.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/carl-maria-von-weber.md` (piece 70, not yet heard). Earlier pieces (57, 64b) were made before this page.
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/carl-maria-von-weber.md` (piece 70: 4.25, "Yes, 4.25 for 70"; piece 70b: 3.75, "It sounds ok, but not as moving as the other"). Earlier pieces (57, 64b) were made before this page.
 
 ## Techniques
 
@@ -26,6 +26,16 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70. It grows eac
    *Works on:* rhythm.
    *How:* just before a phrase lands, repeat one note in a dotted rhythm.
    *Where:* *Lützows wilde Jagd*, bar 8; *Reiterlied*, bar 8. **[score: Lützows wilde Jagd, Reiterlied]**
+
+7. **Four men's voices moving together.** In eight of the eleven four-part partsongs and choruses in the catalogue, all four parts begin a note together at 71% to 97% of the moments where any begins (the *Reiterlied* 97%, *Gebet vor der Schlacht* 92%, *Schwertlied* 91%, *Lützows wilde Jagd* 81%); the *Schlummerlied* least (32%). They are a collection of four-part settings for men's chorus, op. 42 [Wikipedia, Lyre and Sword].
+   *Works on:* texture.
+   *How:* write four low voices in one rhythm, chord by chord, the melody on top.
+   *Where:* the partsongs named. **[score: the partsongs]**
+
+8. **The prayer: the bass on one note, a voice inside moving by half steps.** In *Gebet vor der Schlacht* the lowest bass repeats D flat, then A flat, for bars at a time, while the second bass moves F, F sharp and back under the tenors' chord.
+   *Works on:* harmony, texture.
+   *How:* hold the bass on the keynote and let one inner voice move a half step up and back.
+   *Where:* *Gebet vor der Schlacht*, bars 2 to 8. **[score: Gebet vor der Schlacht]**
 
 ### *Der Freischütz*, from sources
 
@@ -65,7 +75,8 @@ None yet.
 ## Samples in score-reader's catalogue
 
 - `cpdl-3:Carl_Maria_von_Weber/Weber_LutzowsWildeJagd2.mxl` (techniques 1, 2, 3)
-- `cpdl-3:Carl_Maria_von_Weber/Weber_Reiterlied.mxl` (3)
+- `cpdl-3:Carl_Maria_von_Weber/Weber_Reiterlied.mxl` (3, 7)
+- `cpdl-3:Carl_Maria_von_Weber/Weber_Gebeth.mxl` (7, 8)
 - `cpdl-3:Carl_Maria_von_Weber/Weber_Schwertlied2.mxl`, `cpdl-3:Carl_Maria_von_Weber/Nh_WeberCM_Grablied_BläserQ.mxl` (2)
 
 ## Not checked
@@ -78,5 +89,6 @@ None yet.
 
 - score-reader's catalogue, version 25, read from Philip's ready copy: the two partsongs named.
 - Measured profile: `profiles/carl-maria-von-weber.md`.
+- Wikipedia, "Lyre and Sword" (one sentence on his settings): https://en.wikipedia.org/wiki/Lyre_and_Sword
 - Wikipedia, "Der Freischütz": https://en.wikipedia.org/wiki/Der_Freisch%C3%BCtz
 - N. Fuller, "191. Der Freischütz (Weber)", *Operascribe* (2020), quoting R. Aldrich (1904): https://operascribe.com/2020/06/19/191-der-freischutz-weber/

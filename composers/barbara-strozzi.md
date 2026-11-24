@@ -1,12 +1,12 @@
 # Barbara Strozzi (1619-1677)
 
-Begun by Claude on 24 November 2026, for composer-blend's piece 70. It grows each time she is used.
+Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended the same day for piece 70b. It grows each time she is used.
 
 **Scope so far.** One kind of piece: the aria for solo voice and continuo built on a bass that repeats, as *Che si può fare* (from the *Arie* op. 8, her last collection, 1664) shows it, with the chromatic walk of *Tu me ne puoi*. **Scores:** yes. score-reader's catalogue (version 25) holds 28 of her works, all from CPDL: arias, cantatas and madrigals. The two named above were read by measurement from Philip's ready-read copy; the 28 were searched for a repeating bass. *Che si può fare* is CPDL's "modernized" edition, so its note values may not be the print's. Each technique marked **[score]** names the bars of the reading.
 
 **Measured profile:** [`profiles/barbara-strozzi.md`](../profiles/barbara-strozzi.md), generated from score-reader's catalogue by `study/profiles.py`: her airs and her madrigals against other composers'.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/barbara-strozzi.md` (piece 70, not yet heard).
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/barbara-strozzi.md` (piece 70: 4.25, "Yes, 4.25 for 70"; piece 70b: 3.75, "It sounds ok, but not as moving as the other").
 
 ## Techniques
 
@@ -43,6 +43,13 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70. It grows eac
    *How:* not a technique on its own: it says that the dissonances of 3 sit inside a regular, singable metre.
    *Where:* *Che si può fare*. [USC, Che si può fare]
 
+### The quick aria in six-eight
+
+7. **A lilting dotted figure.** In *E pazzo il mio core*, a quick aria whose bars hold six eighths, the voice sings a dotted eighth, a sixteenth and an eighth 17 times in 303 notes; *Luci belle* 13 times, *Chi brama in Amore* 9. Over it the bass goes in a quarter and an eighth, or a dotted quarter.
+   *Works on:* rhythm, melody.
+   *How:* in six-eight, give the voice the dotted eighth, sixteenth and eighth again and again, over a bass in quarter and eighth.
+   *Where:* *E pazzo il mio core*, bars 6 to 12. **[score: E pazzo il mio core]**
+
 ## Walks through whole works
 
 ***Che si può fare*** (op. 8, 1664 [USC]; 138 bars and 1,241 beats as read). Bars 1 to 47: the walking bass, 28 times, the voice over it (techniques 1 to 3). Bars 47 to 99: a freer section, the bass in quick notes (mostly sixteenths and half notes), no repeat. Bars 99 to 133: a third section, its bass in quarters and eighths; the walk is heard once at its start, in quick notes. Bars 133 to 138: the walk once more, quickly, and a close. The voice ranges from E flat 4 to A5. **[score: Che si può fare]**
@@ -67,6 +74,7 @@ None yet: no source read calls any of her works famous.
 - `cpdl-3:Barbara_Strozzi/Strozzi_-_Che_si_puo_fare_Modernized.mxl` (techniques 1, 2, 3, 5, 6)
 - `cpdl-3:Barbara_Strozzi/Strozzi-Tu_me_ne_puoi.mxl` (4)
 - `cpdl-3:Barbara_Strozzi/Strozzi-Non_c'è_piu_fede.mxl`, `cpdl-3:Barbara_Strozzi/Strozzi-Con_male_nuove.mxl` (5)
+- `cpdl-3:Barbara_Strozzi/Strozzi-E_pazzo_il_mio_core.mxl` (7)
 
 ## Not checked
 
