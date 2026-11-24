@@ -1,8 +1,8 @@
 # Richard Wagner (1813-1883)
 
-Begun by Claude on 24 November 2026, for composer-blend's piece 70. It grows each time he is used.
+Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended the same day for piece 70b (the same four, paired the other way). It grows each time he is used.
 
-**Scope so far.** One kind of piece: the prelude to *Tristan und Isolde*, read for how it keeps its harmony from arriving, with the *Meistersinger* prelude as the same composer's measure of an overture that does arrive. **Scores:** yes. score-reader's catalogue (version 25) holds the two preludes, with the DCML analysts' chord labels, and the five Wesendonck songs. The *Tristan* prelude was read by measurement from Philip's ready-read copy: its labels whole, its first seventeen bars note by note. The reading is a two-staff score, so the orchestra's inner parts are only partly there, and its colours not at all. Each technique marked **[score]** names the bars.
+**Scope so far.** Two kinds of piece: the prelude to *Tristan und Isolde*, read for how it keeps its harmony from arriving; and the prelude to *Die Meistersinger von Nürnberg*, read for its march that arrives (piece 70b). **Scores:** yes. score-reader's catalogue (version 25) holds the two preludes, with the DCML analysts' chord labels, and the five Wesendonck songs. The *Tristan* prelude was read by measurement from Philip's ready-read copy: its labels whole, its first seventeen bars note by note. The reading is a two-staff score, so the orchestra's inner parts are only partly there, and its colours not at all. Each technique marked **[score]** names the bars.
 
 **Measured profile:** [`profiles/richard-wagner.md`](../profiles/richard-wagner.md), generated from score-reader's catalogue by `study/profiles.py`: the Wesendonck songs against other Romantic songs.
 
@@ -40,6 +40,24 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70. It grows eac
    *How:* make the chord that points somewhere more common than the chord that has arrived.
    *Where:* the whole prelude. **[score: Tristan prelude]**
 
+### The prelude to *Die Meistersinger von Nürnberg*
+
+7. **A march that keeps arriving home.** In its 220 bars, 40 of the 132 dominant chords followed in their key go to the keynote's chord (in *Tristan*, 3 of 32). The analysts mark eight keys in turn, C, G, C, E, A, C, E flat, C; the last seventy bars (151 to 220) stay in C.
+   *Works on:* harmony, form.
+   *Why:* against the *Tristan* prelude, the same composer's other way: the dominant leads home about a third of the time, and the piece ends in a long stretch of its home key. **[score: Meistersinger prelude, Tristan prelude]** *(from the score)*
+   *How:* let every second or third dominant reach home; travel through a few keys a third apart, then stay home for the last third of the piece.
+   *Where:* the whole prelude; bars 151 to 220 in C. **[score: Meistersinger prelude]**
+
+8. **Chords changing inside the beat, over a bass that moves by step.** The analysts mark 38 chords in the first eight bars, about five a bar (*Tristan*: about three); the bass moves by step 54% of the time. In bar 3 the bass falls G, F, E, D while the tune rises A, B, C, D.
+   *Works on:* harmony, texture.
+   *How:* under a march tune, change the chord on many beats and half beats, with the bass walking by step, often against the tune.
+   *Where:* bars 1 to 8; bar 3. **[score: Meistersinger prelude]**
+
+9. **A guild of singers, and a chorale in four parts.** The mastersingers are a guild of amateur poets and musicians, mostly master craftsmen, with an intricate system of rules for making and performing songs. The prelude takes its music from two episodes of the third act; there, the townspeople sing a chorale-like setting in four parts.
+   *Works on:* background.
+   *How:* not a technique on its own: it says that the march is the music of a guild of singers, and a four-part chorale belongs to it.
+   *Where:* the opera; Act 3. [Wikipedia, Die Meistersinger von Nürnberg]
+
 ### The Wesendonck songs, measured
 
 6. **Uneven rhythm and unexpected notes.** Against 1,083 Romantic songs: a note as long as the one before only 16% of the time against 40%; dotted figures 27% against 15%; the melody's next note harder to guess (3.14 bits against 2.43) and its range wider (13.6 half steps against 11.9).
@@ -69,7 +87,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70. It grows eac
 ## Samples in score-reader's catalogue
 
 - `dcml/wagner_overtures:notes/WWV090_Tristan_01_Vorspiel-Prelude_Ricordi1888Floridia.notes.tsv` (techniques 1 to 5)
-- `dcml/wagner_overtures:notes/WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel.notes.tsv` (4)
+- `dcml/wagner_overtures:notes/WWV096-Meistersinger_01_Vorspiel-Prelude_SchottKleinmichel.notes.tsv` (4, 7, 8)
 - `openscore-lieder:Wagner,_Richard/5_Gedichte_für_eine_Frauenstimme_(Wesendonck-Lieder),_WWV_91/5_Träume/lc5026092.mxl` (6)
 
 ## Not checked
@@ -85,3 +103,4 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70. It grows eac
 - Measured profile: `profiles/richard-wagner.md`.
 - M. Heisterman and J. Weinstock, *Tristan and Isolde* (University of Texas): https://laits.utexas.edu/tristan/prelude.php
 - Wikipedia, "Tristan chord": https://en.wikipedia.org/wiki/Tristan_chord
+- Wikipedia, "Die Meistersinger von Nürnberg": https://en.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg

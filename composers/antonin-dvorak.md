@@ -1,6 +1,6 @@
 # Antonín Dvořák (1841-1904)
 
-Begun by Claude on 22 November 2026; extended on 24 November 2026 for composer-blend's piece 70, when he was drawn again. It grows each time he is used.
+Begun by Claude on 22 November 2026; extended on 24 November 2026 for composer-blend's piece 70, when he was drawn again, and for piece 70b. It grows each time he is used.
 
 **Scope so far.** Three kinds of piece: the dumka and the furiant, which he often joins; and the polka, as the second movement of the String Quartet no. 9 in D minor, op. 34 (1877), shows it. **Scores:** yes. score-reader's catalogue (version 20) holds 61 of his works: the seventh and ninth symphonies, six string quartets, the *Silhouettes* and other piano pieces. The Dumka of the String Quartet in E flat op. 51 was read whole by measurement, and the scherzo of the seventh symphony for its metre; the polka of op. 34 was read from Philip's ready-read copy (catalogue version 25), its bass whole and its first twenty bars note by note; each technique marked **[score]** says where. The Slavonic Dances and the *Dumky* Trio are not in the catalogue.
 
@@ -77,6 +77,15 @@ The polka is a dance in 2/4 from nineteenth-century Bohemia; its name refers to 
     *How:* give an inner part one note in a dotted rhythm, repeated bar after bar, as the dancers' hop.
     *Where:* op. 34, second movement, bars 14 to 18. **[score: op. 34, second movement]**
 
+### *Echo of Songs*, B. 152 (the *Cypresses* for string quartet)
+
+Dvořák chose twelve of the eighteen love songs of his *Cypresses* (1865) and arranged them for string quartet in 1887, keeping their melodic line, rhythm and harmony, with some exchange of lines between the instruments [Wikipedia, Cypresses (quartet version)].
+
+15. **The song without its singer, passed between the instruments over a held bass.** In the first of them the cello repeats A flat seventeen times, a note a beat (bars 2 to 6). Measured by spans of eight bars, the longest notes (the song's) lie in the viola for the second to fourth spans, in the first violin for the sixth to eighth, and in the viola again at the end.
+    *Works on:* texture, melody, colour.
+    *How:* give a song's line to the viola, then to the first violin, then back, over a bass that repeats one note.
+    *Where:* *Echo of Songs*, no. 1. **[score: Echo of Songs, no. 1]**
+
 ## Walks through whole works
 
 **Op. 51, second movement, "Dumka"** (302 bars). *Andante con moto*, 2/4, G minor, bars 1 to 87, the first violin's bars mostly three or four eighths, or an eighth and a long note. *Vivace*, 3/8, G major, bars 88 to 210, with its long notes across the bar, slowing from bar 187. *Andante con moto* again, G minor, bars 211 to 230; the same in G major, 231 to 252. *Presto*, 3/8, G minor, bars 253 to 302.
@@ -106,6 +115,7 @@ From the walk above, read from the score.
 ## Samples in score-reader's catalogue
 
 - `openscore-quartets:Dvořák,_Antonín/String_Quartet_No.9,_Op.34/sq28001095.mxl#2` (techniques 12, 13, 14)
+- `openscore-quartets:Dvořák,_Antonín/Echo_of_Songs,_B.152/sq24409123.mxl` (15)
 - `openscore-quartets:Dvořák,_Antonín/String_Quartet_No.10,_Op.51/sq9137469.mxl#2` (techniques 2, 3, 4, 5, 7, 8, 9)
 - `mutopia:DvorakA/O70/DvorakSYMPH7#3` (10)
 
@@ -120,6 +130,7 @@ From the walk above, read from the score.
 
 - score-reader's catalogue, version 25, read from Philip's ready copy: the polka of op. 34.
 - Wikipedia, "Polka": https://en.wikipedia.org/wiki/Polka
+- Wikipedia, "Cypresses (Dvořák; quartet version)": https://en.wikipedia.org/wiki/Cypresses_(Dvo%C5%99%C3%A1k;_quartet_version)
 - Wikipedia, "String Quartet No. 9 (Dvořák)": https://en.wikipedia.org/wiki/String_Quartet_No._9_(Dvo%C5%99%C3%A1k)
 - score-reader's catalogue, version 20, read from its ready copy: the two movements above.
 - Wikipedia, "Dumka (musical genre)": https://en.wikipedia.org/wiki/Dumka_(musical_genre)
