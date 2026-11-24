@@ -6,7 +6,7 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/alexandre-desplat.md` (piece 68: 3.5, "I was not a big fan of the piece").
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/alexandre-desplat.md` (piece 68: 3.5, "I was not a big fan of the piece"; piece 68b: 4.5, "Very interesting piece!").
 
 ## Techniques
 
