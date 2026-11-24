@@ -203,6 +203,21 @@ Whether these spots sound wrong is Philip's to say. Piece 64b was rated 4.5 with
 
 This also corrects a claim Claude made to Philip, that these models "know a lot of works nearly by heart". For these mazurkas, NotaGen does not, and AMT barely does.
 
+### Listening: the six places (`spots64.py`, `spots64_cut.py`, `spots64/`)
+
+Five files, one for each place (bars 29 and 30 share a file with bar 32). Each plays 64b as written from the bar before to the bar after: the whole texture, then 3 seconds of silence, then the inner voices alone. Each part is brought to -20 LUFS, so the inner voices alone are louder than they are in the piece. The flagged moments, in seconds from the start of each file:
+
+- `64b_bars_4-6`: bar 5, beat 1, at 1.8 (inner voices alone: 11.1).
+- `64b_bars_20-22`: bar 21, beat 2, at 2.3 (11.6).
+- `64b_bars_28-32`:
+  - Bar 29, beat 2, at 2.3 (14.8).
+  - Bar 30, beats 1 and 2, at 3.3 and 3.8 (15.8 and 16.3).
+  - Bar 32, beat 1, at 6.3 (18.8).
+- `64b_bars_61-63`: bar 62, beat 1, at 1.4 (9.4).
+- `64b_bars_111-113`: bar 112, beat 1, at 1.5 (9.8).
+
+Philip's hearing: not yet given.
+
 ### Next
 
 - **The glitch check:** kept, at the edge.

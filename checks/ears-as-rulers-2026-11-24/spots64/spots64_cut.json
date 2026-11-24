@@ -1,0 +1,125 @@
+[
+ {
+  "bars": [
+   4,
+   6
+  ],
+  "file": "64b_bars_4-6_flagged_inner_voices.mp3",
+  "clip_seconds": 6.3,
+  "inner_starts_at": 9.3,
+  "gain_db": {
+   "whole": -1.35,
+   "inner": -0.22
+  },
+  "moments": [
+   {
+    "bar": 5,
+    "beat": 1,
+    "whole_at": 1.8,
+    "inner_at": 11.1
+   }
+  ]
+ },
+ {
+  "bars": [
+   20,
+   22
+  ],
+  "file": "64b_bars_20-22_flagged_inner_voices.mp3",
+  "clip_seconds": 6.3,
+  "inner_starts_at": 9.3,
+  "gain_db": {
+   "whole": -2.06,
+   "inner": -0.6
+  },
+  "moments": [
+   {
+    "bar": 21,
+    "beat": 2,
+    "whole_at": 2.3,
+    "inner_at": 11.6
+   }
+  ]
+ },
+ {
+  "bars": [
+   28,
+   32
+  ],
+  "file": "64b_bars_28-32_flagged_inner_voices.mp3",
+  "clip_seconds": 9.51,
+  "inner_starts_at": 12.51,
+  "gain_db": {
+   "whole": -2.24,
+   "inner": -2.03
+  },
+  "moments": [
+   {
+    "bar": 29,
+    "beat": 2,
+    "whole_at": 2.3,
+    "inner_at": 14.8
+   },
+   {
+    "bar": 30,
+    "beat": 1,
+    "whole_at": 3.3,
+    "inner_at": 15.8
+   },
+   {
+    "bar": 30,
+    "beat": 2,
+    "whole_at": 3.8,
+    "inner_at": 16.3
+   },
+   {
+    "bar": 32,
+    "beat": 1,
+    "whole_at": 6.3,
+    "inner_at": 18.8
+   }
+  ]
+ },
+ {
+  "bars": [
+   61,
+   63
+  ],
+  "file": "64b_bars_61-63_flagged_inner_voices.mp3",
+  "clip_seconds": 5.01,
+  "inner_starts_at": 8.01,
+  "gain_db": {
+   "whole": -7.77,
+   "inner": -8.35
+  },
+  "moments": [
+   {
+    "bar": 62,
+    "beat": 1,
+    "whole_at": 1.4,
+    "inner_at": 9.4
+   }
+  ]
+ },
+ {
+  "bars": [
+   111,
+   113
+  ],
+  "file": "64b_bars_111-113_flagged_inner_voices.mp3",
+  "clip_seconds": 5.35,
+  "inner_starts_at": 8.35,
+  "gain_db": {
+   "whole": -5.13,
+   "inner": -2.16
+  },
+  "moments": [
+   {
+    "bar": 112,
+    "beat": 1,
+    "whole_at": 1.5,
+    "inner_at": 9.8
+   }
+  ]
+ }
+]
