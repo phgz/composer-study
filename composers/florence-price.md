@@ -2,7 +2,7 @@
 
 Begun by Claude on 22 November 2026, from the sources at the end, read that day. It grows each time she is used.
 
-**Scope so far.** One kind of piece: the slow movement and the juba of her symphonies (No. 1 in E minor, 1931-32; No. 3 in C minor, 1938-40; No. 4 in D minor, 1945; the second is lost). Her way with a tune and with harmony is taken partly from two studies of her Piano Sonata in E minor, written the same year as the first symphony. **Scores:** none in score-reader's catalogue, so nothing below was checked against her notes. The standard source, Rae Linda Brown's editions and book, was not read: the open sources say much less about the inside of these movements than the Tavener sources did about his.
+**Scope so far.** One kind of piece: the slow movement and the juba of her symphonies (No. 1 in E minor, 1931-32; No. 3 in C minor, 1938-40; No. 4 in D minor, 1945; the second is lost). Her way with a tune and with harmony is taken partly from two studies of her Piano Sonata in E minor, written the same year as the first symphony. **Scores:** none in score-reader's catalogue, so nothing below was checked against her notes. The standard source, Rae Linda Brown's editions and book, was not read: the open sources say much less about the inside of these movements than the Tavener sources did about his. Added on 24 November 2026, when she was drawn again: the Third Symphony as a whole, from a note by John Michael Cooper, and her own words from the last third of Ege's thesis.
 
 Philip chose this kind: "I usually like her symphonies and that's what I know best of her."
 
@@ -188,6 +188,31 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
     *How:* not a technique: the model she took, which explains the key and the opening solo of her first symphony.
     *Where:* Symphony no. 1, the opening. [Wikipedia 1; Philadelphia]
 
+### The Third Symphony, nearer its own time
+
+*Added on 24 November 2026, when she was drawn again for composer-blend's piece 69 (after it was composed), from John Michael Cooper's note on the Third Symphony and the last third of Ege's thesis.*
+
+37. **An unsettled slow introduction, a turbulent and dissonant first theme, and a lush second theme first on the solo trombone.**
+    *Works on:* harmony, melody, colour.
+    *How:* open in a slow, unsettled way; make the main theme quick, turbulent and dissonant; give the broad second theme first to one trombone alone.
+    *Where:* Symphony no. 3, first movement. [Hollywood Bowl]
+38. **A serene slow movement, interrupted again and again by whole-tone music.**
+    *Works on:* harmony, form.
+    *How:* let a calm opening section be broken several times by passages on the whole-tone scale, unsettled, and come back to the calm after each.
+    *Where:* Symphony no. 3, second movement, *Andante ma non troppo*. [Hollywood Bowl]
+39. **A blues-influenced theme inside the juba.**
+    *Works on:* melody.
+    *How:* in a juba, bring in one theme in the manner of the blues beside the dance's own tune.
+    *Where:* Symphony no. 3, third movement, *Juba*. [Hollywood Bowl]
+40. **A finale of swirling colours that ends in dissonance, roaring percussion and chordal interjections.**
+    *Works on:* colour, loudness, form.
+    *How:* for a last movement, write quick, swirling orchestral colours, and end in loud chromatic chords cut by the percussion.
+    *Where:* Symphony no. 3, finale. [Hollywood Bowl]
+41. **What she said of it, and of herself.** She called the Third Symphony "Negroid in character and expression", a cross section of the Black life and thought of her day with its heritage. In a letter of 1943 she asked to be "judged on merit alone"; to a newspaper she said she was never quite satisfied with what she wrote. A Chicago paper said of her *Fantasie nègre* no. 1 that it is based on a spiritual.
+    *Works on:* background.
+    *How:* not a technique: her own account of what the Third Symphony is, and how she wished to be heard.
+    *Where:* Symphony no. 3; her letter to Koussevitzky (1943); the *Chicago Defender*, as quoted by Ege. [Hollywood Bowl; Ege]
+
 ## Walks through whole works
 
 **First symphony, second movement** (*Largo, maestoso*; 13:22 in the recording the New Bedford page follows). The brass hymn with the drums (to 1:30). Blocks by family for five minutes; the violins answering bassoons and violas (2:16 to 3:45). The quicker interlude in C sharp minor. A long development, with the flutter upward in the strings. The hymn again, with the clarinet and the chimes. A soft E major chord in the strings.
@@ -231,7 +256,7 @@ Believed from memory, not found in a source read today, and not to be used as fa
 - how the wind whistle is used;
 - anything about the lost second symphony.
 
-Not read: Rae Linda Brown's editions of the symphonies and her book *The Heart of a Woman*; the last third of Ege's thesis; any score.
+Not read: Rae Linda Brown's editions of the symphonies and her book *The Heart of a Woman*; any score. Ege's thesis was read whole on 24 November 2026: its last third tells of her symphonic debut and its reception, and analyses no music.
 
 ## Sources
 
@@ -246,5 +271,6 @@ Not read: Rae Linda Brown's editions of the symphonies and her book *The Heart o
 - LA Phil / Hollywood Bowl, note on the Symphony No. 3: https://www.hollywoodbowl.com/musicdb/pieces/6500/symphony-no-3-in-c-minor
 - Classics for Kids, "Bringing Juba to the Symphony": https://www.classicsforkids.com/?p=15522
 - Kyle Hutchinson, on the second movement of the Piano Sonata in E minor, *Intégral* 36 (2023): https://theory.esm.rochester.edu/integral/36-2023/hutchinson/
-- Samantha Ege, *The Aesthetics of Florence Price: Negotiating the Dissonances of a New World Nationalism*, PhD thesis, University of York, 2020 (the first two thirds read): https://etheses.whiterose.ac.uk/id/eprint/27318/1/Ege_203030808_Thesis.pdf
+- Samantha Ege, *The Aesthetics of Florence Price: Negotiating the Dissonances of a New World Nationalism*, PhD thesis, University of York, 2020 (read whole; the last third on 24 November 2026): https://etheses.whiterose.ac.uk/id/eprint/27318/1/Ege_203030808_Thesis.pdf
+- John Michael Cooper, note on the Symphony no. 3, Hollywood Bowl: https://www.hollywoodbowl.com/musicdb/pieces/6500/symphony-no-3-in-c-minor
 - BBC Music Magazine, "Six of the best works by Florence Price": https://www.classical-music.com/articles/six-best-works-florence-price
