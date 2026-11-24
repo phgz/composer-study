@@ -216,7 +216,7 @@ Five files, one for each place (bars 29 and 30 share a file with bar 32). Each p
 - `64b_bars_61-63`: bar 62, beat 1, at 1.4 (9.4).
 - `64b_bars_111-113`: bar 112, beat 1, at 1.5 (9.8).
 
-**Philip's hearing (24 November), his words:** "I'd flag 20-22, 28-32. 61-63, 111-113 I'm uncertain". He did not flag bars 4 to 6. He did not say whether he heard the places in the whole texture or only with the inner voices alone.
+**Philip's hearing (24 November), his words:** "I'd flag 20-22, 28-32. 61-63, 111-113 I'm uncertain". He did not flag bars 4 to 6. Asked whether he heard bars 21 and 29 to 32 as wrong in the whole texture or only with the inner voices alone: "I'd say in the whole texture."
 
 - **The tally:** of the five files, Philip flags two (bar 21; bars 29, 30 and 32), is unsure of two (bars 62 and 112), and does not flag one (bar 5).
 - **The pipeline:** the models flagged 25 notes, Claude picked out six places from them, and Philip hears two of those as wrong. He knew which moments Claude thought weak when he listened. He still left one unflagged and was unsure of two, so he was not simply agreeing.
