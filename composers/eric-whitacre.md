@@ -6,7 +6,7 @@ Begun by Claude on 23 November 2026, from the sources at the end, read that day.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/eric-whitacre.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/eric-whitacre.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/eric-whitacre.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/eric-whitacre.md) (piece 71: 5, "I like it very much, 5!").
 
 ## Techniques
 

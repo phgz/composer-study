@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 71, from the sou
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/astor-piazzolla.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/astor-piazzolla.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/astor-piazzolla.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/astor-piazzolla.md) (piece 71: 5, "I like it very much, 5!").
 
 ## Techniques
 

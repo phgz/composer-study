@@ -6,7 +6,7 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 
 **Measured profile:** [`profiles/felix-mendelssohn.md`](../profiles/felix-mendelssohn.md), generated from score-reader's catalogue by `study/profiles.py`.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/felix-mendelssohn.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/felix-mendelssohn.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/felix-mendelssohn.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/felix-mendelssohn.md) (piece 71: 5, "I like it very much, 5!").
 
 ## Techniques
 

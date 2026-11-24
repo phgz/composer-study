@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 71. It grows eac
 
 **Measured profile:** [`profiles/gustav-mahler.md`](../profiles/gustav-mahler.md), generated from score-reader's catalogue by `study/profiles.py`; its unit "song (voice and keyboard), middle" is these five songs.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/gustav-mahler.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/gustav-mahler.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/gustav-mahler.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/gustav-mahler.md) (piece 71: 5, "I like it very much, 5!").
 
 ## Techniques
 
