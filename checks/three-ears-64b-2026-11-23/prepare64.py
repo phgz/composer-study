@@ -10,7 +10,10 @@ And AMT's writing input: the tune and the bass in seconds, bar 1's inner voices,
 Writes beside this script: notagen_inputs.jsonl, amt_inputs.jsonl (for study/notagen_score.py and study/amt_score.py), amt_write.json
 (for study/amt_write.py) and notes64.json (which note is which).
 
-Run: python3 -I prepare64.py <composer-blend> <renderer-engine> <NotaGen checkout> <anticipation checkout> <scratch with cont/units.pickle>"""
+Run: python3 -I prepare64.py <composer-blend> <renderer-engine> <NotaGen checkout> <anticipation checkout> <scratch with cont/units.pickle>
+With AMT_ONLY=1 GIVEN_PROGRAM=1 SUFFIX=_two_pianos: AMT's inputs alone, the given notes on the bright piano (amt_inputs_two_pianos.jsonl).
+amt_write_long.json (five bars of history, bars 6 to 80 and 89 to 160 to write) was made from amt_write.json and piece64.voices().
+"""
 import glob, json, os, pickle, sys, tempfile, time
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE); sys.path.insert(0, os.path.join(HERE, '..', '..'))
@@ -18,6 +21,9 @@ import piece64 as P
 from study import notagen as G, amt as A, continuations as C, lines as L
 
 BLEND, RENDERER, NG, ACO, SCR = sys.argv[1:6]
+GIVEN_PROGRAM = int(os.environ.get('GIVEN_PROGRAM', 0))               # 1: the given notes on the bright piano (AMT's inputs only)
+AMT_ONLY = os.environ.get('AMT_ONLY') == '1'                          # AMT's inputs alone, beside the others (amt_inputs<SUFFIX>.jsonl)
+SUFFIX = os.environ.get('SUFFIX', '')
 XML2ABC = os.path.join(NG, 'data', 'xml2abc.py')
 PROMPT = ('Romantic', 'Chopin, Frederic', 'Keyboard')                 # NotaGen has no Weber; 64b is Chopin's and Rachmaninoff's mazurka
 QUARTER_S = 60 / 90                                                   # the held-out works' tempo, for AMT
@@ -40,6 +46,7 @@ def ng_scored(r, voice_num, keep):
 
 
 def ng_input(vs, id_, voice_num, keep):
+    if AMT_ONLY: return [n for n in vs['alto' if voice_num == 2 else 'tenor'] if keep(n[0], n[2])]
     with tempfile.TemporaryDirectory() as tmp:
         r = G.prepare_xml(P.piano_xml(vs, os.path.join(tmp, 'p.musicxml')), PROMPT, XML2ABC)
     if isinstance(r, str): raise RuntimeError(f'{id_}: {r}')
@@ -53,7 +60,7 @@ def amt_input(events, given, scored, id_):
     """AMT's input: `events` asked, `given` controls; `scored` the events (by index in `events`) whose bits are wanted"""
     order = sorted(range(len(events)), key=lambda i: (events[i][0], events[i][2]))
     rank = {i: r for r, i in enumerate(order)}
-    seq, where = A.sequence(events, given, ACO)
+    seq, where = A.sequence(events, given, ACO, given_program=GIVEN_PROGRAM)
     trip = [where[rank[i]] for i in scored]
     if id_ == '64b chosen' or id_.startswith('work '): ws, pos = A.windows(seq, trip, ACO)
     else: w, ps = A.window_ending(seq, trip, ACO); ws, pos = [w], [(0, p) for p in ps]
@@ -137,9 +144,10 @@ log('works:', len(meta['works']))
 write = dict(given=outer_s, history=[n for n in secs['alto'] + secs['tenor'] if n[0] < sec(P.METRE) - 1e-6],
              spans=[[sec(P.METRE), sec(80 * P.METRE)], [sec(88 * P.METRE), sec(P.BARS * P.METRE)]],
              beats=[[b, sec(b)] for b in [x / 4 for x in range(0, P.BARS * P.METRE * 4 + 1)]])
-json.dump(write, open(os.path.join(HERE, 'amt_write.json'), 'w'))
-for name, rows in (('notagen_inputs.jsonl', ng_in), ('amt_inputs.jsonl', amt_in)):
+if not AMT_ONLY: json.dump(write, open(os.path.join(HERE, 'amt_write.json'), 'w'))
+for name, rows in (('notagen_inputs.jsonl', ng_in), (f'amt_inputs{SUFFIX}.jsonl', amt_in)):
+    if AMT_ONLY and name.startswith('notagen'): continue
     with open(os.path.join(HERE, name), 'w') as fh:
         for x in rows: fh.write(json.dumps(x) + '\n')
-json.dump(meta, open(os.path.join(HERE, 'notes64.json'), 'w'), indent=1)
+if not AMT_ONLY: json.dump(meta, open(os.path.join(HERE, 'notes64.json'), 'w'), indent=1)
 log('done:', len(ng_in), 'NotaGen inputs,', len(amt_in), 'AMT inputs')

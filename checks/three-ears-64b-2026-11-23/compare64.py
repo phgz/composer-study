@@ -13,7 +13,9 @@ import numpy as np
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 EARS = {'NotaGen': 'notagen64_scores.jsonl', 'NotaGen fine-tuned': 'notagen64_finetune_scores.jsonl',
-        'AMT Large': 'amt_large_scores.jsonl', 'AMT Medium': 'amt_medium_scores.jsonl'}     # an ear without its scores is left out
+        'AMT Large': 'amt_large_scores.jsonl', 'AMT Medium': 'amt_medium_scores.jsonl',
+        'AMT Large, two pianos': 'amt_large_two_pianos_scores.jsonl', 'AMT Medium, two pianos': 'amt_medium_two_pianos_scores.jsonl'}
+                                                                                          # an ear without its scores is left out
 meta = json.load(open(os.path.join(HERE, 'notes64.json')))
 scores = {}
 for ear, f in EARS.items():

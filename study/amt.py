@@ -29,22 +29,24 @@ def anticipation(checkout):
     return _A['ops'], _A['vocab'], _A['config']
 
 
-def tokens(notes, checkout, control=False):
-    """notes [(onset s, length s, MIDI)] as AMT's triplets, piano, in order of onset then pitch (lower first)"""
+def tokens(notes, checkout, control=False, program=0):
+    """notes [(onset s, length s, MIDI)] as AMT's triplets, on the General MIDI `program` (0, the piano), in order of onset then
+    pitch (lower first)"""
     _, V, C = anticipation(checkout)
     out = []
     for t, d, m in sorted(notes, key=lambda n: (n[0], n[2])):
         tt = int(round(C.TIME_RESOLUTION * t)); dd = max(1, min(int(round(C.TIME_RESOLUTION * d)), C.MAX_DUR - 1))
-        tri = [V.TIME_OFFSET + tt, V.DUR_OFFSET + dd, V.NOTE_OFFSET + int(m)]
+        tri = [V.TIME_OFFSET + tt, V.DUR_OFFSET + dd, V.NOTE_OFFSET + 128 * program + int(m)]
         out += [x + V.CONTROL_OFFSET for x in tri] if control else tri
     return out
 
 
-def sequence(notes, given, checkout):
+def sequence(notes, given, checkout, given_program=0):
     """the asked notes interleaved with the given ones as AMT's training interleaves them: (tokens, for each asked note in order of
-    onset then pitch the index of its triplet)"""
+    onset then pitch the index of its triplet). The asked notes are a piano's; the given ones too, or another program's (AMT's
+    accompaniment training gives whole instruments, and asks for the others)"""
     ops, V, _ = anticipation(checkout)
-    ev = tokens(notes, checkout); ct = tokens(given, checkout, control=True)
+    ev = tokens(notes, checkout); ct = tokens(given, checkout, control=True, program=given_program)
     end = max([ops.max_time(ev, seconds=False), ops.max_time(ct, seconds=False)])
     seq, left = ops.anticipate(ops.pad(ev, end), ct)
     if left:                                                       # given notes after the last asked one: after the end's rests
