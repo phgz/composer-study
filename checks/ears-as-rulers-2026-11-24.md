@@ -11,7 +11,10 @@
 
 **This run tests 1 and 4 on known material:** wrong notes planted on purpose, and real mazurkas put into 64b. Uses 2 and 3 come next, checked against Philip's verdicts on past pieces, once this says whether the ears measure anything useful.
 
-**Status:** inputs made and checked; nothing scored yet. The predictions below were written before any model heard these inputs.
+**Status:** scored on Philip's Mac on 24 November; results at the end. The predictions were written before any model heard these inputs.
+
+- **Wrong notes:** the four ears together catch half of the wrong notes planted in 64b (52%), just over the bar set for keeping the check. Of the 25 notes they flag in 64b as written, 10 sit at six places where Claude, reading the score, finds the inner voices weak.
+- **Quotes:** the quote check fails. NotaGen shows no sign of knowing Chopin's mazurkas note for note. AMT shows a little, too little to single out a quote.
 
 ## 1. The glitch test (`ears-as-rulers-2026-11-24/prepare_glitch.py`, `compare_glitch.py`)
 
@@ -109,3 +112,100 @@ python $R/compare_quote.py
 - **`study/amt.py`:** `window()` and `windows()` take `alone=True` for a sequence with no given notes. It is flagged AUTOREGRESS, as AMT's own `generate()` flags one, instead of ANTICIPATE. Earlier inputs are unchanged.
 - **`study/notagen.py`:** `prepare_lines()` reads NotaGen's lines as `prepare_abc()` does. `prepare_abc()` now calls it, and the quote test reads its spliced lines with it.
 - **Tests:** one each (63 pass).
+
+## Results (scored on Philip's Mac, 24 November)
+
+**Health:**
+- NotaGen-X's `--verify` agreed with its own `generate()` within 3.5e-05 bits (glitch inputs) and 1.4e-05 (quotes).
+- AMT with no given notes, the first time: 0.80 to 2.33 bits a note token (Large).
+- AMT Large's first glitch run stopped at 51 of 88 inputs when the Mac's disk filled; it was scored again in full.
+
+### The glitch test
+
+**Found at 2%** (the four together with their 95% intervals):
+
+| Ear | Works, semitone | Works, tone | 64b, semitone | 64b, tone |
+|---|---|---|---|---|
+| NotaGen-X | 81% | 80% | 35% | 29% |
+| NotaGen fine-tuned | 85% | 84% | 29% | 23% |
+| AMT Large | 80% | 76% | 40% | 31% |
+| AMT Medium | 77% | 74% | 44% | 29% |
+| **The four together** | **92%** [87, 96] | **88%** [80, 95] | **52%** [38, 67] | **42%** [27, 54] |
+
+**The median rise** (a semitone): 18.6, 12.6, 10.8 and 9.9 bits on the works; 8.7, 5.6, 4.9 and 5.4 in 64b.
+
+**The predictions:**
+1. Real works, a semitone, at least 60%: **held** (92%).
+2. Real works, a whole tone, at least 30% and fewer than a semitone: **held in the letter** (88%). The reason given was wrong: a whole tone is found almost as often as a semitone, not much less often.
+3. 64b: a semitone 30% to 60%: **held** (52%). A tone 15% to 40%: **missed** (42%, above).
+4. Best single ear NotaGen fine-tuned, the four together within 5 points of it: **held**, and better than predicted. The four together beat every single ear, by 7 points on the works. In 64b, no single ear reaches half (29% to 44%), and the ranking turns over: AMT Medium is best and NotaGen fine-tuned worst.
+5. The rise at least 4 bits: **held** (18.6 and 12.6).
+
+**The decision, by the rule written beforehand:** at least half the semitone errors in 64b: 52%, so the check is worth running before each render. It is at the edge. The interval runs from 38% to 67%, and half of the wrong notes still get past it.
+
+### What the four flag in 64b as written
+
+These are the 25 notes the four together find most surprising. Claude looked at each in the score; these are judgments from the score, not from listening.
+
+- **8 are in the parts Claude wrote by hand, and meant:**
+  - Bar 3: the tune's D sharp, after an opening (E7, then A minor) that sounds like A minor.
+  - Bars 6 and 34: the tune's leaps.
+  - Bar 7: the bass to C.
+  - Bars 82 and 84: the intermezzo's flourishes.
+  - Bar 105, twice: E flat major to E minor at once.
+- **10 sit at six places where the inner voices (the model's proposals Claude chose) look weak:**
+  - Bar 5, beat 1: alto and tenor in unison on G sharp 3. That is the leading tone of the coming A minor, doubled, with the alto at the bottom of its range.
+  - Bar 21, beat 2: the tenor's D sharp 4 a semitone under the alto's E4, struck together. The tune's C sharp 5 above them is flagged too.
+  - Bars 29 and 30:
+    - The tenor's F sharp, G, G sharp against the alto's G sharp.
+    - Then the tenor on C3, its lowest note, a third above the bass.
+    - The alto leaps a tenth to C sharp 5, then drops an octave as the tune arrives on that same C sharp 5.
+  - Bar 32, beat 1: section 1 arrives on E minor with A sharp and D in the inner voices.
+  - Bar 62, beat 1: the tenor's B natural where the plan has F7, so the chord heard is B half-diminished over F.
+  - Bar 112, beat 1: the tenor's C sharp in a tonic bar (E minor over G).
+- **7 are colours Claude would defend:**
+  - Bar 4: the tenor's G sharp just after the tune's G, a false relation Chopin uses.
+  - Bar 9: C sharp as E7's thirteenth.
+  - Bar 53: a 4-3 suspension.
+  - Bar 54: B flat in three voices.
+  - Bar 76: an added sixth.
+  - Bar 100: the alto dropping an octave.
+  - Bar 160: a C sharp neighbour in the last bar.
+
+The flags fall unevenly: the inner voices are about half of 64b's notes, but 16 of the 25 flags.
+
+Whether these spots sound wrong is Philip's to say. Piece 64b was rated 4.5 with all of them in it.
+
+### The quote test
+
+**Own key minus a tone higher**, bits a note; negative means less surprising in the key the work was written in. In brackets: how many of the five quotes are lower in their own key.
+
+| Ear | Chopin, alone | Polish, alone | Chopin, in 64b | Polish, in 64b |
+|---|---|---|---|---|
+| NotaGen-X | +0.53 (1 of 5) | -0.43 (3 of 5) | +0.15 (0 of 5) | +0.01 (1 of 5) |
+| NotaGen fine-tuned | +0.02 (2 of 5) | -0.15 (4 of 5) | +0.06 (1 of 5) | -0.15 (5 of 5) |
+| AMT Large | -0.16 (5 of 5) | -0.02 (3 of 5) | -0.13 (5 of 5) | -0.04 (3 of 5) |
+| AMT Medium | -0.21 (5 of 5) | -0.02 (2 of 5) | -0.18 (5 of 5) | -0.00 (2 of 5) |
+
+**The predictions:**
+
+6. NotaGen knows Chopin's notes: **failed.** Neither checkpoint does, as far as this test can see. One limit: NotaGen reads notation. If its training held these works in another edition's ABC, the memory would not carry over character for character.
+7. AMT does not: **failed.** AMT is the one that does, a little. Every Chopin quote is less surprising in its own key, for both models, alone and in 64b. The Polish ones are not.
+8. In 64b, Chopin at least 0.3 bits a note below the Polish quotes (NotaGen fine-tuned): **failed** (2.41 against 2.65: 0.23, in the predicted direction).
+9. The quotes under 64b's 5th percentile: **failed.**
+   - None of the ten falls there for NotaGen; one or two of five do for AMT.
+   - Dropped into 64b, a real mazurka is about as surprising as 64b's own stretches.
+   - A fairer comparison, opening against opening: 64b's bars 3 to 8, heard from its start, are more surprising than the mazurkas' bars 3 to 8 alone. NotaGen fine-tuned: 3.26 bits a note against 2.77 (Chopin) and 2.43 (Polish). AMT: 3.4 against 1.4 to 1.6.
+   - 64b's later stretches only look ordinary because its theme keeps coming back.
+   - NotaGen-X's scores for the eight bars alone (6.7 to 7.5 bits a note) are far above the fine-tuned checkpoint's, as if it does not know what to do with so short a piece. Its quote numbers are set aside.
+
+**The decision:** prediction 6 failed, so the quote check is dropped. AMT's sign is real but small (0.13 to 0.21 bits a note), and two Polish quotes show as much in 64b (Kątski -0.11, Noskowski -0.15, AMT Large). It cannot single out a quote.
+
+This also corrects a claim Claude made to Philip, that these models "know a lot of works nearly by heart". For these mazurkas, NotaGen does not, and AMT barely does.
+
+### Next
+
+- **The glitch check:** kept, at the edge.
+  - It needs the Mac, where the weights are: the four ears over a new piece, then the 25 most surprising notes listed for Claude to look at.
+  - First, whether the six weak spots in 64b sound wrong to Philip. If they do not, a list that only Claude finds wanting is not worth a Mac run per piece.
+- **Uses 2 and 3:** flat stretches, and whose voice a passage sounds like, checked against Philip's verdicts on past pieces.
