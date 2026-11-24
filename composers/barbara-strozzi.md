@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended
 
 **Measured profile:** [`profiles/barbara-strozzi.md`](../profiles/barbara-strozzi.md), generated from score-reader's catalogue by `study/profiles.py`: her airs and her madrigals against other composers'.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/barbara-strozzi.md` (piece 70, not yet heard).
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/barbara-strozzi.md` (piece 70, not yet heard; piece 70b: 3.75, "It sounds ok, but not as moving as the other").
 
 ## Techniques
 
