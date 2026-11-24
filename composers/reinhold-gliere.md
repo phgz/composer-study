@@ -6,7 +6,7 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/reinhold-gliere.md` (to be written with piece 68).
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/reinhold-gliere.md` (piece 68, not yet heard).
 
 ## Techniques
 
