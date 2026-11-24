@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026. It grows each time he is used.
 
-**Scope so far.** Two things: the child's song that darkens (the Children's Songs op. 13), and the solo line over a bare accompaniment (the Clarinet Sonata op. 28). **Scores:** none read. His music is under copyright; this page is from seven sources, and what they say is said here in other words.
+**Scope so far.** Three things: the child's song that darkens (the Children's Songs op. 13), the solo line over a bare accompaniment (the Clarinet Sonata op. 28), and the devices of his string quartets, from the Sixth (1946) on (added on 24 November 2026, for composer-blend's piece 72). **Scores:** none read. His music is under copyright; this page is from eight sources, and what they say is said here in other words.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -74,6 +74,41 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
     *How:* for a lullaby, keep one rocking figure going from first bar to last; for children's music, short tunes, clear rhythms and bright colours.
     *Where:* *Rocking the Child* op. 110; *Winnie-the-Pooh* (1969); the ballet *The Golden Key*. [Wikipedia; MusicWeb]
 
+### The string quartets (from the Sixth, 1946)
+
+He wrote seventeen string quartets. The Sixth (1946), over half an hour long, is now counted a masterpiece comparable with Shostakovich's quartets; after it he wrote no quartet for eleven years [Darwin].
+
+15. **Violent pizzicato chords as accompaniment.** In a tender, ethereal slow movement of the Sixth, the cello sings in long notes over a frantic accompaniment, and each of its gestures ends on a violent *sforzando* pizzicato chord in the viola; pizzicato chords of this kind accompany throughout his quartets from the Third on.
+    *Works on:* texture, colour, loudness.
+    *Why:* the plucked chord brings a hint of violence into music that is otherwise tender. [Darwin, quoting Elphick] *(an analysis)*
+    *How:* under a slow, singing line, end each phrase on a sudden, loud plucked chord in one of the accompanying instruments.
+    *Where:* String Quartet no. 6, a slow movement (the source does not give the bars); his quartets from the Third. [Darwin, quoting Elphick]
+16. **Tunes in thirds across the instruments:** a melody harmonised a third apart by two instruments.
+    *Works on:* melody, texture.
+    *How:* give the tune to two instruments together, a third apart.
+    *Where:* his quartets from the Third; the Sixth's last movement. [Darwin, quoting Elphick]
+17. **Chromatic slips.** A melody slips by a half step off its scale for a moment.
+    *Works on:* melody.
+    *Why:* the slip gives the tune a suggestion of cheekiness. [Darwin, quoting Elphick] *(an analysis)*
+    *How:* now and then, move a note of the tune a half step off the scale and back, or carry on from it.
+    *Where:* his quartets from the Third. [Darwin, quoting Elphick]
+18. **Flattened modes.** He uses modes and not only major and minor: in the Sixth the Locrian, the mode whose second and fifth are flattened, is a main focus of the last movement.
+    *Works on:* harmony, melody.
+    *How:* lower the second, and at times the fifth, of the scale, so that the keynote sounds unsteady.
+    *Where:* String Quartet no. 6, first and last movements. [Darwin; Darwin, quoting Elphick]
+19. **Melancholy and flurries:** the Sixth opens on a melancholy theme in slow half notes set against rapid flurries; in the development the same material returns much more aggressively.
+    *Works on:* rhythm, form.
+    *How:* set a slow, sad theme in long notes against sudden runs; bring it back later hard and loud.
+    *Where:* String Quartet no. 6, first movement. [Darwin]
+20. **A slow fugato, the instruments entering obediently in turn,** after a violent movement; and a last movement that alternates major and minor, after Schubert, and recalls the earlier movements before a gentle close.
+    *Works on:* form, texture.
+    *How:* after violence, let the instruments enter one by one with the same slow subject; at the end, alternate the major and the minor and bring back earlier themes, softly.
+    *Where:* String Quartet no. 6, fourth, fifth and last movements. [Darwin; Darwin, quoting Elphick]
+21. **The destruction of childhood.** Many of his works draw their images from his memories of childhood and of the Second World War; themes of the destruction of childhood, and so of purity, serenity and stability, are central to his aesthetic and often symbolised by the musical material; against them he strove for a universal harmony through neoclassical clarity and proportion.
+    *Works on:* background.
+    *How:* not a technique: what his music is about, as the source puts it.
+    *Where:* his works in general. [Darwin, quoting Nikitina in Grove]
+
 ## Walks through whole works
 
 None yet.
@@ -107,6 +142,7 @@ None: no score of his is in score-reader's catalogue.
 
 ## Sources
 
+- Chris Darwin, programme notes on String Quartet no. 6 (University of Sussex; they quote Lyudmilla Nikitina in Grove and Daniel Elphick): https://users.sussex.ac.uk/~cjd/WebProgNotes/pdfs/WeinbergNo6.pdf
 - "Weinberg's style", *BBC Music Magazine*, September 2019: https://www.pressreader.com/uk/bbc-music-magazine/20190904/282711933693784
 - University of the Arts Helsinki, "Clarinet Music from Russia and the Soviet Union 1917-1991": Weinberg, Sonata op. 28: https://sites.uniarts.fi/web/clarinet-music/weinberg-sonata
 - Wikipedia, "Mieczysław Weinberg" (the first part read): https://en.wikipedia.org/wiki/Mieczys%C5%82aw_Weinberg
