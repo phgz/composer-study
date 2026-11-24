@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 72, from the sou
 
 **Measured profile:** none: no work of his is in the ready-read copy.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/george-gershwin.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/george-gershwin.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/george-gershwin.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/george-gershwin.md) (piece 72: 5, "it really forms a unique color in itself").
 
 ## Techniques
 

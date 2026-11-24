@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 72. It grows eac
 
 **Measured profile:** [`profiles/emilie-mayer.md`](../profiles/emilie-mayer.md), generated from score-reader's catalogue by `study/profiles.py`; its unit "song (voice and keyboard), all" is her six songs.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/emilie-mayer.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/emilie-mayer.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/emilie-mayer.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/emilie-mayer.md) (piece 72: 5, "it really forms a unique color in itself").
 
 ## Techniques
 

@@ -6,7 +6,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 
 **Measured profile:** [`profiles/wolfgang-amadeus-mozart.md`](../profiles/wolfgang-amadeus-mozart.md), generated from score-reader's catalogue by `study/profiles.py`.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/wolfgang-amadeus-mozart.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/wolfgang-amadeus-mozart.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/wolfgang-amadeus-mozart.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/wolfgang-amadeus-mozart.md) (piece 72: 5, "it really forms a unique color in itself").
 
 ## Techniques
 

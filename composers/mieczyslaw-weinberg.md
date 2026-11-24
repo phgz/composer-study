@@ -6,7 +6,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/mieczyslaw-weinberg.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/mieczyslaw-weinberg.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/mieczyslaw-weinberg.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/mieczyslaw-weinberg.md) (piece 72: 5, "it really forms a unique color in itself").
 
 ## Techniques
 
