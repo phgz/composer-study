@@ -1,0 +1,1 @@
+{"model": "music-large-800k", "seed": 1, "top_p": 0.98, "spans": [[8.000000000000078, 20.000000000000078]], "notes": [[13.0, 0.48, 71, 0]], "given_program": 0, "history": 19, "notes_a_second": 0.08, "repeating_given": 1, "seconds": 23.9}
