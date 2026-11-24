@@ -1,6 +1,6 @@
 # John Cage (1912-1992)
 
-Begun by Claude on 22 November 2026, from the sources at the end, read that day. It grows each time he is used.
+Begun by Claude on 22 November 2026, from the sources at the end, read that day; techniques 14 to 17 added on 24 November 2026, for composer-blend's piece 73. It grows each time he is used.
 
 **Scope so far.** One kind of piece: the music for dancers of 1938 to 1948, for prepared piano and for percussion, up to the *Sonatas and Interludes*. **Scores:** none in score-reader's catalogue (all in copyright), so nothing below was checked against his notes. The chance music, the silent piece and the late number pieces are not covered.
 
@@ -68,10 +68,28 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
     *Works on:* background.
     *How:* not a technique: the idea behind the set, a series of moods tending toward stillness.
     *Where:* the *Sonatas and Interludes*. [Pearson; Wikipedia]
+14. **Symmetry for calm, at the end of the set.** In the *Sonatas and Interludes* each sonata's proportions are an arbitrary row of numbers, often with fractions (Sonata III: 1, 1, 3¼, 3¼ on a unit of 8½ bars), except in the last four: Sonatas XIII and XVI have symmetrical proportions, XIV and XV share 2, 2, 3, 3, and all four are on a unit of ten bars.
+    *Works on:* form.
+    *Why:* he explained the symmetry, and the one unit for all four, as an expression of tranquillity, the ninth emotion, toward which the other eight tend. [Wikipedia, Sonatas and Interludes] *(his words; an analysis)*
+    *How:* cut the earlier sections by an uneven row of proportions; for the close, make the row symmetrical (the same read forward and back) and keep one unit for all the last sections.
+    *Where:* Sonatas XIII to XVI. [Wikipedia, Sonatas and Interludes]
+15. **Uneven bars so that the proportions come out.** The phrases are of uneven lengths, and the time signature changes often, so that the units and proportions fit: Sonata III's unit of 8½ bars is made of six bars of 2/2 and two of 5/4. Many sonatas also stray a little from their proportions in the shape of the tune.
+    *Works on:* rhythm, form.
+    *Why:* the metre changes serve the proportions, not the other way round. [Wikipedia, Sonatas and Interludes] *(an analysis)*
+    *How:* fix the lengths first (technique 3), then choose the bars to fill them, changing the time signature wherever a length does not divide evenly.
+    *Where:* the *Sonatas and Interludes*; Sonata III for the example. [Wikipedia, Sonatas and Interludes]
+16. **The gamut: forty-five fixed sounds, heaviest low.** Forty-five notes are prepared (with screws, bolts, rubber, plastic, nuts and an eraser), the low register most heavily and the high register most lightly; only three prepared notes lie below F sharp 3. Some keep their pitch, some become drum-like or out of tune, some metallic and rattling; the soft pedal changes some further. He said that the bell-like sounds suggest Europe and the drum-like ones the East.
+    *Works on:* colour.
+    *How:* give each pitch its own fixed sound (technique 2), and make the low ones the most changed (dull, drum-like) and the high ones the least (nearly bells); keep most of the gamut above the low register.
+    *Where:* the *Sonatas and Interludes*. [Wikipedia, Sonatas and Interludes]
+17. **The set itself in symmetry.** Sixteen sonatas and four interludes in four groups of four sonatas, the interludes between them: the first after Sonata IV, the second and third together after VIII, the fourth after XII. Sonatas IX to XI are not in the two-halves form (technique 4) but in sections called prelude, interlude and postlude.
+    *Works on:* form.
+    *How:* arrange the pieces of a set so that the whole is symmetrical around its middle, with the contrasting pieces placed at its joints.
+    *Where:* the *Sonatas and Interludes*. [Wikipedia, Sonatas and Interludes]
 
 ## Walks through whole works
 
-None yet.
+**The *Sonatas and Interludes*** (1946 to 1948, for Maro Ajemian), as the article gives the order: Sonatas I to IV; Interlude 1; Sonatas V to VIII; Interludes 2 and 3; Sonatas IX to XII (IX to XI in prelude, interlude and postlude); Interlude 4; Sonatas XIII to XVI, the last four symmetrical in their proportions and on one unit of ten bars. [Wikipedia, Sonatas and Interludes]
 
 ## Numbers
 
@@ -81,7 +99,7 @@ None yet.
 | dance pieces of 1942-44 | 8 to 13, screws and bolts | among them: bars 4, 7, 2, 5, 4, 7, 2, 3, 5 twice; seven parts of seven bars |
 | *The Perilous Night* (1944) | 26 | six sections, each with its own plan |
 | Duchamp film music (1947) | weather stripping | 11 x 11, cut 2, 1, 1, 3, 1, 2, 1 |
-| *Sonatas and Interludes* (1946-48) | 45; two to three hours to prepare | twenty pieces; a unit and proportions for each |
+| *Sonatas and Interludes* (1946-48) | 45; two to three hours to prepare | twenty pieces; a unit and proportions for each (Sonata III: 1, 1, 3¼, 3¼ on 8½ bars; XIV and XV: 2, 2, 3, 3 on 10) |
 
 ## What he does not do
 
@@ -102,7 +120,8 @@ None: no score of his is in score-reader's catalogue.
 ## Not checked
 
 Believed from memory, not found in a source read today:
-- that he called the plan "square-root form" and that the *Sonatas and Interludes* use a fixed "gamut" of sounds as the string quartet of 1950 does;
+- that he called the plan "square-root form", and that the word "gamut" (technique 16) is his for the *Sonatas and Interludes* as it is for the string quartet of 1950;
+- the proportions of Sonatas XIII and XVI themselves: the source says only that they are symmetrical;
 - anything about *In a Landscape*, *Dream* and the *Suite for Toy Piano*;
 - that the prepared piano sounds like a gamelan.
 
@@ -111,3 +130,4 @@ Believed from memory, not found in a source read today:
 - Pearson Edexcel, teaching notes on *Sonatas and Interludes*, Sonatas I-III: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Music/2013/Teaching%20and%20learning%20materials/Unit%206%20-%2010.%20Cage%20-%20Sonatas%20and%20Interludes%20for%20Prepared%20Piano%20Sonatas%20I-III.pdf
 - Wikipedia, "Works for prepared piano by John Cage": https://en.wikipedia.org/wiki/Works_for_prepared_piano_by_John_Cage
 - Wikipedia, "4′33″": https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3
+- Wikipedia, "Sonatas and Interludes" (read on 24 November 2026): https://en.wikipedia.org/wiki/Sonatas_and_Interludes
