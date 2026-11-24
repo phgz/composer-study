@@ -1,8 +1,8 @@
 # Antonín Dvořák (1841-1904)
 
-Begun by Claude on 22 November 2026. It grows each time he is used.
+Begun by Claude on 22 November 2026; extended on 24 November 2026 for composer-blend's piece 70, when he was drawn again. It grows each time he is used.
 
-**Scope so far.** Two kinds of piece that he often joins: the dumka and the furiant. **Scores:** yes. score-reader's catalogue (version 20) holds 61 of his works: the seventh and ninth symphonies, six string quartets, the *Silhouettes* and other piano pieces. The Dumka of the String Quartet in E flat op. 51 was read whole by measurement, and the scherzo of the seventh symphony for its metre; each technique marked **[score]** says where. The Slavonic Dances and the *Dumky* Trio are not in the catalogue.
+**Scope so far.** Three kinds of piece: the dumka and the furiant, which he often joins; and the polka, as the second movement of the String Quartet no. 9 in D minor, op. 34 (1877), shows it. **Scores:** yes. score-reader's catalogue (version 20) holds 61 of his works: the seventh and ninth symphonies, six string quartets, the *Silhouettes* and other piano pieces. The Dumka of the String Quartet in E flat op. 51 was read whole by measurement, and the scherzo of the seventh symphony for its metre; the polka of op. 34 was read from Philip's ready-read copy (catalogue version 25), its bass whole and its first twenty bars note by note; each technique marked **[score]** says where. The Slavonic Dances and the *Dumky* Trio are not in the catalogue.
 
 **Measured profile:** [`profiles/antonin-dvorak.md`](../profiles/antonin-dvorak.md), generated from score-reader's catalogue by `study/profiles.py`.
 
@@ -58,6 +58,25 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
     *How:* a list of places to read.
     *Where:* as listed. [Wikipedia, Dumka]
 
+### The polka of the String Quartet no. 9, op. 34
+
+The polka is a dance in 2/4 from nineteenth-century Bohemia; its name refers to its half-step, the dancers' half jump [Wikipedia, Polka]. Op. 34 was finished on 18 December 1877 and is dedicated to Brahms [Wikipedia, String Quartet No. 9].
+
+12. **The bass stays on one note, like a drone.** For the first sixteen bars the cello plays only B flat: in octaves, low and high by turns in eighths, then as repeated notes, while the violins play the tune. It comes back: in bars 57 to 72 the cello spends three quarters of its time on one note (F, then B flat). Between, bars 17 to 56, it moves through six to nine notes in every eight bars.
+    *Works on:* harmony, texture, form.
+    *How:* hold the bass on one note for the dance's first strain, as octaves or repeated notes; let it move in the middle; bring the drone back with the tune.
+    *Where:* op. 34, second movement, bars 1 to 16 and 57 to 72. **[score: op. 34, second movement]**
+
+13. **The tune in two violins a third apart.** The first and second violins begin in the same rhythm, a third apart (F and G over D and E flat).
+    *Works on:* texture, melody.
+    *How:* double the dance tune a third below in the same rhythm, as technique 7 does in the dumka's quick part.
+    *Where:* op. 34, second movement, bars 1 to 2. **[score: op. 34, second movement]**
+
+14. **A hop on one repeated note.** Under the tune, the second violin plays a dotted eighth, a sixteenth and an eighth all on one note (D), bar after bar, five bars running, over the drone.
+    *Works on:* rhythm.
+    *How:* give an inner part one note in a dotted rhythm, repeated bar after bar, as the dancers' hop.
+    *Where:* op. 34, second movement, bars 14 to 18. **[score: op. 34, second movement]**
+
 ## Walks through whole works
 
 **Op. 51, second movement, "Dumka"** (302 bars). *Andante con moto*, 2/4, G minor, bars 1 to 87, the first violin's bars mostly three or four eighths, or an eighth and a long note. *Vivace*, 3/8, G major, bars 88 to 210, with its long notes across the bar, slowing from bar 187. *Andante con moto* again, G minor, bars 211 to 230; the same in G major, 231 to 252. *Presto*, 3/8, G minor, bars 253 to 302.
@@ -86,17 +105,22 @@ From the walk above, read from the score.
 
 ## Samples in score-reader's catalogue
 
+- `openscore-quartets:Dvořák,_Antonín/String_Quartet_No.9,_Op.34/sq28001095.mxl#2` (techniques 12, 13, 14)
 - `openscore-quartets:Dvořák,_Antonín/String_Quartet_No.10,_Op.51/sq9137469.mxl#2` (techniques 2, 3, 4, 5, 7, 8, 9)
 - `mutopia:DvorakA/O70/DvorakSYMPH7#3` (10)
 
 ## Not checked
 
+- The polka's key and its form beyond the bass: in the reading, its bars are not all of equal length, so its bar numbers are approximate.
 - Whether the quick part of the Dumka takes its tune from the slow part: not measured.
 - Anything about the *Dumky* Trio's six movements beyond their name.
 - That a furiant's first two bars are always the ones in twos: the source gives other orders too (2+2+3+3, 3+3+2+2).
 
 ## Sources
 
+- score-reader's catalogue, version 25, read from Philip's ready copy: the polka of op. 34.
+- Wikipedia, "Polka": https://en.wikipedia.org/wiki/Polka
+- Wikipedia, "String Quartet No. 9 (Dvořák)": https://en.wikipedia.org/wiki/String_Quartet_No._9_(Dvo%C5%99%C3%A1k)
 - score-reader's catalogue, version 20, read from its ready copy: the two movements above.
 - Wikipedia, "Dumka (musical genre)": https://en.wikipedia.org/wiki/Dumka_(musical_genre)
 - Wikipedia, "Furiant": https://en.wikipedia.org/wiki/Furiant
