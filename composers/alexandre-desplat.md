@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows each time he is used.
 
-**Scope so far.** One kind of piece: the film score, as two scores show it (*The Grand Budapest Hotel*, 2014, and *The Shape of Water*, 2017), with what he has said of his way of working. **Scores:** none: all his music is in copyright and none is in score-reader's catalogue. Nothing below was checked against notes; nothing of his may be reproduced. It rests on interviews, reviews and one analysis of the themes, so most of it is a listener's or a writer's account.
+**Scope so far.** One kind of piece: the film score, as two scores show it (*The Grand Budapest Hotel*, 2014, and *The Shape of Water*, 2017), with what he has said of his way of working. **Scores:** none: all his music is in copyright and none is in score-reader's catalogue. Nothing below was checked against notes; nothing of his may be reproduced. It rests on interviews, reviews and one analysis of the themes, so most of it is a listener's or a writer's account. Added on 24 November 2026, for piece 68b: *The Imitation Game* (2014), from an interview.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -90,6 +90,25 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
     *How:* not a technique: where his manner comes from.
     *Where:* Wikipedia; his interview with Tatler. [Wikipedia; Tatler]
 
+*Added on 24 November 2026, when he was taken again for composer-blend's piece 68b (the same four as piece 68, written again), before it was composed, from an interview.*
+
+### Keyboards for a racing mind: *The Imitation Game*
+
+15. **Five keyboards at once for the speed of a mind.** Three pianos (a sample library, he says, not real pianos), a celesta, sometimes a harp and an electric piano, playing precisely written arpeggios and scales, or patterns chosen at random from one chord.
+    *Works on:* texture, rhythm, colour.
+    *Why:* to bring out the speed, the fast activity of the brain. [LAist] *(his words)*
+    *How:* layer several keyboard instruments, each running its own quick arpeggio or scale on the same chord, some written exactly, some free within the chord.
+    *Where:* *The Imitation Game*. [LAist]
+16. **A small orchestra behind.** The orchestra behind the keyboards is not too big.
+    *Works on:* colour, loudness.
+    *Why:* so that the music does not become pompous or overwhelming. [LAist] *(his words)*
+    *How:* keep the orchestra modest under a busy foreground.
+    *Where:* *The Imitation Game*. [LAist]
+17. **The composer as a character.** He tries to be a character in the film, not a composer throwing music at it; with Wes Anderson, he says, they lay tools and toys on the ground and build a strange castle.
+    *Works on:* background.
+    *How:* not a technique: how he places his music in a story.
+    *Where:* his account of his work. [LAist]
+
 ## Walks through whole works
 
 None yet: the sources read describe themes and cues, not a whole score in order.
@@ -127,3 +146,4 @@ None: no score of his is in the catalogue (version 25), and none can be (in copy
 - Movie Music UK, review of *The Shape of Water*, 1 December 2017: https://moviemusicuk.us/2017/12/01/the-shape-of-water-alexandre-desplat/
 - Wikipedia, "Alexandre Desplat": https://en.wikipedia.org/wiki/Alexandre_Desplat
 - Ewan Alexander Clark, *Harmony, associativity and metaphor in the film scores of Alexandre Desplat*, thesis, Victoria University of Wellington, 2018 (the abstract only): https://openaccess.wgtn.ac.nz/articles/thesis/Harmony_associativity_and_metaphor_in_the_film_scores_of_Alexandre_Desplat/17067509
+- LAist, *The Frame*, "Alexandre Desplat on scoring The Imitation Game and fighting composer's block", 4 December 2014: https://laist.com/shows/the-frame/alexandre-desplat-on-scoring-the-imitation-game-and-fighting-composers-block
