@@ -1,0 +1,50 @@
+{
+ "scale": {
+  "large": {
+   "gain_db": 3.143,
+   "residual": 0.0408
+  },
+  "medium": {
+   "gain_db": 3.121,
+   "residual": 0.0408
+  }
+ },
+ "passages": [
+  {
+   "bars": [
+    5,
+    9
+   ],
+   "gain_db": 0.13,
+   "loudness": {
+    "ours": -20.0,
+    "large": -20.7,
+    "medium": -21.0
+   }
+  },
+  {
+   "bars": [
+    105,
+    112
+   ],
+   "gain_db": -2.08,
+   "loudness": {
+    "ours": -20.0,
+    "large": -16.6,
+    "medium": -22.6
+   }
+  },
+  {
+   "bars": [
+    141,
+    148
+   ],
+   "gain_db": -4.86,
+   "loudness": {
+    "ours": -20.0,
+    "large": -15.9,
+    "medium": -17.7
+   }
+  }
+ ]
+}

@@ -9,7 +9,10 @@ within a set, as made or brought out) and bars 89 to 92 (where neither AMT model
 same). Then every clip of a passage gets the gain that brings 64b's clip as made to -20 LUFS, so that the tune and bass are as loud
 in each; it is lowered for all six together if any would peak above -1 dBFS.
 
-    python3 excerpts64_cut.py <folder holding ours_f0/ large_f0/ medium_f0/ ours_f1/ large_f1/ medium_f1/> <out folder>"""
+    python3 excerpts64_cut.py <folder holding ours_f0/ large_f0/ medium_f0/ ours_f1/ large_f1/ medium_f1/> <out folder>
+    python3 excerpts64_cut.py --inner <folder holding ours_inner/ large_inner/ medium_inner/> <out folder>
+        the inner voices alone (excerpts64.py, INNER=1), 64b, Large and Medium, one file a passage, put on one scale from bars 2 to 5
+        (64b's own inner voices in all three); bars 89 to 92 left out, where AMT wrote nothing"""
 import json, os, subprocess, sys
 import numpy as np, soundfile as sf, pyloudnorm as pyln
 
@@ -70,5 +73,38 @@ def main():
     for r in report: print(r)
 
 
+def inner():
+    src, out = sys.argv[2:4]; os.makedirs(out, exist_ok=True)
+    spec = json.load(open(os.path.join(HERE, 'amt_write.json')))
+    xb = np.array([b for b, _ in spec['beats']]); xt = np.array([t for _, t in spec['beats']])
+    at = lambda bar: float(np.interp((bar - 1) * 3, xb, xt))
+    audio = {}
+    for v in VERSIONS:
+        x, sr = sf.read(os.path.join(src, f'{v}_inner', 'excerpts64.wav'), always_2d=True); audio[v] = x
+    meter = pyln.Meter(sr); i0, i1 = int((at(5) - 3.5) * sr), int((at(6) - .1) * sr); r = audio['ours'][i0:i1].ravel()
+    k, fits = {'ours': 1.0}, {}
+    for v in VERSIONS[1:]:
+        y = audio[v][i0:i1].ravel(); k[v] = float(r @ y / (y @ y))
+        fits[v] = dict(gain_db=round(20 * np.log10(k[v]), 3), residual=round(float(np.sqrt(np.mean((r - k[v] * y) ** 2) / np.mean(r ** 2))), 4))
+    print('on one scale:', fits)
+    report = []
+    for a, b in [p for p in PASSAGES if p != (89, 92)]:
+        j0, j1 = int((at(a) - .3) * sr), int((at(b + 1) + 1.5) * sr)
+        clips = {v: audio[v][j0:j1] * k[v] for v in VERSIONS}
+        gain = -20 - meter.integrated_loudness(clips['ours'])
+        peak = max(20 * np.log10(np.abs(c).max() + 1e-12) for c in clips.values()) + gain
+        if peak > -1: gain -= peak + 1
+        g = 10 ** (gain / 20); gap = np.zeros((int(1.5 * sr), 2))
+        y = np.concatenate([clips['ours'] * g, gap, clips['large'] * g, gap, clips['medium'] * g])
+        name = f'64b_bars_{a}-{b}_inner_voices_64b_Large_Medium'
+        wav = os.path.join(out, name + '.wav'); sf.write(wav, y, sr)
+        subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', wav, '-b:a', '192k', os.path.join(out, name + '.mp3')], check=True)
+        os.remove(wav)
+        report.append(dict(bars=[a, b], gain_db=round(float(gain), 2),
+                           loudness={v: round(float(meter.integrated_loudness(c * g)), 1) for v, c in clips.items()}))
+    json.dump(dict(scale=fits, passages=report), open(os.path.join(out, 'excerpts64_inner.json'), 'w'), indent=1)
+    for x in report: print(x)
+
+
 if __name__ == '__main__':
-    main()
+    inner() if sys.argv[1] == '--inner' else main()
