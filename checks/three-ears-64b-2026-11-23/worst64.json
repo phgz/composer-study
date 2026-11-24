@@ -1,0 +1,134 @@
+[
+ {
+  "section": 2,
+  "segment": 7,
+  "bars": [
+   57,
+   60
+  ],
+  "chosen": 5,
+  "worst": 0,
+  "gap": 2.95,
+  "bits": {
+   "NotaGen-X": [
+    1.26,
+    4.01
+   ],
+   "NotaGen fine-tuned": [
+    1.23,
+    3.24
+   ],
+   "AMT Large, two pianos": [
+    1.27,
+    3.46
+   ],
+   "AMT Medium, two pianos": [
+    1.47,
+    2.98
+   ]
+  },
+  "ours": [
+   5.06,
+   4.98
+  ]
+ },
+ {
+  "section": 3,
+  "segment": 2,
+  "bars": [
+   93,
+   96
+  ],
+  "chosen": 1,
+  "worst": 0,
+  "gap": 2.8,
+  "bits": {
+   "NotaGen-X": [
+    1.53,
+    3.93
+   ],
+   "NotaGen fine-tuned": [
+    2.18,
+    3.41
+   ],
+   "AMT Large, two pianos": [
+    2.55,
+    4.42
+   ],
+   "AMT Medium, two pianos": [
+    2.82,
+    3.92
+   ]
+  },
+  "ours": [
+   4.32,
+   4.5
+  ]
+ },
+ {
+  "section": 4,
+  "segment": 1,
+  "bars": [
+   105,
+   108
+  ],
+  "chosen": 5,
+  "worst": 3,
+  "gap": 3.13,
+  "bits": {
+   "NotaGen-X": [
+    2.0,
+    5.84
+   ],
+   "NotaGen fine-tuned": [
+    1.77,
+    4.29
+   ],
+   "AMT Large, two pianos": [
+    2.19,
+    4.52
+   ],
+   "AMT Medium, two pianos": [
+    2.2,
+    4.47
+   ]
+  },
+  "ours": [
+   4.26,
+   5.37
+  ]
+ },
+ {
+  "section": 5,
+  "segment": 1,
+  "bars": [
+   149,
+   152
+  ],
+  "chosen": 4,
+  "worst": 2,
+  "gap": 2.63,
+  "bits": {
+   "NotaGen-X": [
+    2.46,
+    4.64
+   ],
+   "NotaGen fine-tuned": [
+    2.22,
+    3.81
+   ],
+   "AMT Large, two pianos": [
+    2.96,
+    6.09
+   ],
+   "AMT Medium, two pianos": [
+    2.49,
+    6.21
+   ]
+  },
+  "ours": [
+   4.9,
+   4.99
+  ]
+ }
+]

@@ -47,3 +47,11 @@ def test_align_follows_order_not_time():
     line = [(t + 9.0, 1, m) for t, m in enumerate([60, 62, 64, 65, 67])]
     v, (p, idx) = next(iter(G.align(abc, {'t1': line, 't2': [(0, 1, 40)] * 5}).items()))
     assert p == 't1' and idx == {i: i for i in range(5)}
+
+
+def test_broken_rhythm():
+    v = G.Voice({}, F(1, 2), False)
+    ns, d = v.bar('d>B B,4 ')
+    assert [n[2] for n in ns] == [0, F(3, 4), F(1)] and d == F(3)
+    ns, d = v.bar('c<d e>>f g2')
+    assert [n[2] for n in ns] == [0, F(1, 4), F(1), F(15, 8), F(2)] and d == F(3)

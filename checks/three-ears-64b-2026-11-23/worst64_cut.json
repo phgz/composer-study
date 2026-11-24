@@ -1,0 +1,54 @@
+{
+ "scale": {
+  "whole": {
+   "gain_db": 0.502,
+   "residual": 0.0
+  },
+  "inner voices": {
+   "gain_db": 0.0,
+   "residual": 0.0
+  }
+ },
+ "segments": [
+  {
+   "bars": [
+    57,
+    60
+   ],
+   "gain_db": {
+    "whole": -5.98,
+    "inner voices": -6.79
+   }
+  },
+  {
+   "bars": [
+    93,
+    96
+   ],
+   "gain_db": {
+    "whole": 1.63,
+    "inner voices": 3.24
+   }
+  },
+  {
+   "bars": [
+    105,
+    108
+   ],
+   "gain_db": {
+    "whole": -4.03,
+    "inner voices": -2.82
+   }
+  },
+  {
+   "bars": [
+    149,
+    152
+   ],
+   "gain_db": {
+    "whole": 1.74,
+    "inner voices": 0.57
+   }
+  }
+ ]
+}

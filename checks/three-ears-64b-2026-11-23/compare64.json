@@ -1,0 +1,347 @@
+{
+ "chosen": {
+  "NotaGen": {
+   "alto": 3.138768098159509,
+   "tenor": 3.5438548286604363,
+   "both": 3.339746213292117,
+   "notes": 647
+  },
+  "NotaGen fine-tuned": {
+   "alto": 2.583041717791411,
+   "tenor": 2.810285669781931,
+   "both": 2.6957856259659967,
+   "notes": 647
+  },
+  "AMT Large": {
+   "alto": 2.8778693251533745,
+   "tenor": 3.5078822429906538,
+   "both": 3.1904414219474497,
+   "notes": 647,
+   "per_note_token": 3.399
+  },
+  "AMT Medium": {
+   "alto": 2.633491411042945,
+   "tenor": 3.403622118380062,
+   "both": 3.0155809891808345,
+   "notes": 647,
+   "per_note_token": 3.2087
+  },
+  "AMT Large, two pianos": {
+   "alto": 2.612573312883436,
+   "tenor": 3.187650778816199,
+   "both": 2.8978899536321485,
+   "notes": 647,
+   "per_note_token": 3.0701
+  },
+  "AMT Medium, two pianos": {
+   "alto": 2.5378806748466256,
+   "tenor": 3.1143043613707166,
+   "both": 2.8238652241112825,
+   "notes": 647,
+   "per_note_token": 3.0376
+  }
+ },
+ "proposals": {
+  "ours": {
+   "segments": 76,
+   "mean_place": 0.5157894736842106,
+   "chosen_least_surprising": 12,
+   "chance_least_surprising": 13.233333333333324,
+   "p": 0.6904654767261637
+  },
+  "NotaGen": {
+   "segments": 76,
+   "mean_place": 0.2982456140350877,
+   "chosen_least_surprising": 30,
+   "chance_least_surprising": 13.233333333333324,
+   "p": 4.999750012499375e-05
+  },
+  "NotaGen fine-tuned": {
+   "segments": 76,
+   "mean_place": 0.2936403508771929,
+   "chosen_least_surprising": 27,
+   "chance_least_surprising": 13.233333333333324,
+   "p": 4.999750012499375e-05
+  },
+  "AMT Large": {
+   "segments": 76,
+   "mean_place": 0.30460526315789477,
+   "chosen_least_surprising": 30,
+   "chance_least_surprising": 13.233333333333324,
+   "p": 4.999750012499375e-05
+  },
+  "AMT Medium": {
+   "segments": 76,
+   "mean_place": 0.3019736842105263,
+   "chosen_least_surprising": 30,
+   "chance_least_surprising": 13.233333333333324,
+   "p": 4.999750012499375e-05
+  },
+  "AMT Large, two pianos": {
+   "segments": 76,
+   "mean_place": 0.3072368421052632,
+   "chosen_least_surprising": 32,
+   "chance_least_surprising": 13.233333333333324,
+   "p": 4.999750012499375e-05
+  },
+  "AMT Medium, two pianos": {
+   "segments": 76,
+   "mean_place": 0.29298245614035084,
+   "chosen_least_surprising": 31,
+   "chance_least_surprising": 13.233333333333324,
+   "p": 4.999750012499375e-05
+  }
+ },
+ "agreement": {
+  "ours / NotaGen": {
+   "median_rho": 0.028571428571428574,
+   "segments": 75
+  },
+  "ours / NotaGen fine-tuned": {
+   "median_rho": -0.08571428571428573,
+   "segments": 75
+  },
+  "ours / AMT Large": {
+   "median_rho": 0.14285714285714288,
+   "segments": 75
+  },
+  "ours / AMT Medium": {
+   "median_rho": 0.08571428571428573,
+   "segments": 75
+  },
+  "ours / AMT Large, two pianos": {
+   "median_rho": 0.028988551782622423,
+   "segments": 75
+  },
+  "ours / AMT Medium, two pianos": {
+   "median_rho": 0.08571428571428573,
+   "segments": 75
+  },
+  "NotaGen / NotaGen fine-tuned": {
+   "median_rho": 0.942857142857143,
+   "segments": 75
+  },
+  "NotaGen / AMT Large": {
+   "median_rho": 0.5428571428571429,
+   "segments": 75
+  },
+  "NotaGen / AMT Medium": {
+   "median_rho": 0.48571428571428577,
+   "segments": 75
+  },
+  "NotaGen / AMT Large, two pianos": {
+   "median_rho": 0.3714285714285715,
+   "segments": 75
+  },
+  "NotaGen / AMT Medium, two pianos": {
+   "median_rho": 0.6,
+   "segments": 75
+  },
+  "NotaGen fine-tuned / AMT Large": {
+   "median_rho": 0.48571428571428577,
+   "segments": 75
+  },
+  "NotaGen fine-tuned / AMT Medium": {
+   "median_rho": 0.48571428571428577,
+   "segments": 75
+  },
+  "NotaGen fine-tuned / AMT Large, two pianos": {
+   "median_rho": 0.5428571428571429,
+   "segments": 75
+  },
+  "NotaGen fine-tuned / AMT Medium, two pianos": {
+   "median_rho": 0.5428571428571429,
+   "segments": 75
+  },
+  "AMT Large / AMT Medium": {
+   "median_rho": 0.7142857142857143,
+   "segments": 75
+  },
+  "AMT Large / AMT Large, two pianos": {
+   "median_rho": 0.8285714285714287,
+   "segments": 75
+  },
+  "AMT Large / AMT Medium, two pianos": {
+   "median_rho": 0.7714285714285715,
+   "segments": 75
+  },
+  "AMT Medium / AMT Large, two pianos": {
+   "median_rho": 0.7714285714285715,
+   "segments": 75
+  },
+  "AMT Medium / AMT Medium, two pianos": {
+   "median_rho": 0.8857142857142858,
+   "segments": 75
+  },
+  "AMT Large, two pianos / AMT Medium, two pianos": {
+   "median_rho": 0.8285714285714287,
+   "segments": 75
+  }
+ },
+ "works": {
+  "AMT Large": {
+   "works": 29,
+   "notes": 5945,
+   "ours": 2.3155965588064324,
+   "notagen": 1.1582347831057802,
+   "amt": 1.1880664341351823,
+   "amt_minus_ours": -1.1275301246712508,
+   "ci": [
+    -1.2829873808531465,
+    -0.910180238176711
+   ],
+   "amt_lower": 0.9655172413793104,
+   "p": 4.999750012499375e-05,
+   "units": {
+    "Antonio Vivaldi": {
+     "ours": 2.5756183497928644,
+     "notagen": 1.7251575902293192,
+     "amt": 1.7110199661613636
+    },
+    "Arcangelo Corelli": {
+     "ours": 1.7759501992886928,
+     "notagen": 0.529387120869804,
+     "amt": 0.4179597769186131
+    },
+    "Franz Joseph Haydn": {
+     "ours": 2.3142437516560066,
+     "notagen": 1.6260970010850542,
+     "amt": 1.1435898874614472
+    },
+    "Johann Sebastian Bach": {
+     "ours": 2.1903048289038822,
+     "notagen": 0.7044668163472713,
+     "amt": 1.3030422376539346
+    },
+    "Wolfgang Amadeus Mozart": {
+     "ours": 2.631924604471095,
+     "notagen": 1.1012574432914557,
+     "amt": 1.236369192944458
+    }
+   }
+  },
+  "AMT Medium": {
+   "works": 29,
+   "notes": 5945,
+   "ours": 2.3155965588064324,
+   "notagen": 1.1582347831057802,
+   "amt": 1.0312563534206092,
+   "amt_minus_ours": -1.284340205385824,
+   "ci": [
+    -1.3729329765357121,
+    -1.197830829247498
+   ],
+   "amt_lower": 1.0,
+   "p": 4.999750012499375e-05,
+   "units": {
+    "Antonio Vivaldi": {
+     "ours": 2.5756183497928644,
+     "notagen": 1.7251575902293192,
+     "amt": 1.0616890860677917
+    },
+    "Arcangelo Corelli": {
+     "ours": 1.7759501992886928,
+     "notagen": 0.529387120869804,
+     "amt": 0.5041995350249094
+    },
+    "Franz Joseph Haydn": {
+     "ours": 2.3142437516560066,
+     "notagen": 1.6260970010850542,
+     "amt": 1.1653153473343891
+    },
+    "Johann Sebastian Bach": {
+     "ours": 2.1903048289038822,
+     "notagen": 0.7044668163472713,
+     "amt": 1.0839031215325228
+    },
+    "Wolfgang Amadeus Mozart": {
+     "ours": 2.631924604471095,
+     "notagen": 1.1012574432914557,
+     "amt": 1.2533318740774833
+    }
+   }
+  },
+  "AMT Large, two pianos": {
+   "works": 29,
+   "notes": 5945,
+   "ours": 2.3155965588064324,
+   "notagen": 1.1582347831057802,
+   "amt": 0.9013137205970501,
+   "amt_minus_ours": -1.4142828382093833,
+   "ci": [
+    -1.5154558724959921,
+    -1.3147335474671944
+   ],
+   "amt_lower": 1.0,
+   "p": 4.999750012499375e-05,
+   "units": {
+    "Antonio Vivaldi": {
+     "ours": 2.5756183497928644,
+     "notagen": 1.7251575902293192,
+     "amt": 0.9923888929212566
+    },
+    "Arcangelo Corelli": {
+     "ours": 1.7759501992886928,
+     "notagen": 0.529387120869804,
+     "amt": 0.41861481001523193
+    },
+    "Franz Joseph Haydn": {
+     "ours": 2.3142437516560066,
+     "notagen": 1.6260970010850542,
+     "amt": 0.9624456945449631
+    },
+    "Johann Sebastian Bach": {
+     "ours": 2.1903048289038822,
+     "notagen": 0.7044668163472713,
+     "amt": 0.9877474647329855
+    },
+    "Wolfgang Amadeus Mozart": {
+     "ours": 2.631924604471095,
+     "notagen": 1.1012574432914557,
+     "amt": 1.06492192234051
+    }
+   }
+  },
+  "AMT Medium, two pianos": {
+   "works": 29,
+   "notes": 5945,
+   "ours": 2.3155965588064324,
+   "notagen": 1.1582347831057802,
+   "amt": 0.9047835519542954,
+   "amt_minus_ours": -1.4108130068521376,
+   "ci": [
+    -1.5008062471372796,
+    -1.3213240033818616
+   ],
+   "amt_lower": 1.0,
+   "p": 4.999750012499375e-05,
+   "units": {
+    "Antonio Vivaldi": {
+     "ours": 2.5756183497928644,
+     "notagen": 1.7251575902293192,
+     "amt": 0.9110860570447502
+    },
+    "Arcangelo Corelli": {
+     "ours": 1.7759501992886928,
+     "notagen": 0.529387120869804,
+     "amt": 0.4502176575988825
+    },
+    "Franz Joseph Haydn": {
+     "ours": 2.3142437516560066,
+     "notagen": 1.6260970010850542,
+     "amt": 0.9729656801404586
+    },
+    "Johann Sebastian Bach": {
+     "ours": 2.1903048289038822,
+     "notagen": 0.7044668163472713,
+     "amt": 1.0074257744506385
+    },
+    "Wolfgang Amadeus Mozart": {
+     "ours": 2.631924604471095,
+     "notagen": 1.1012574432914557,
+     "amt": 1.1064616081441783
+    }
+   }
+  }
+ }
+}

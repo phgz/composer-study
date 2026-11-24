@@ -3,13 +3,16 @@ study/notagen_score.py) and ours (ours.json, from prepare.py). Lower is better. 
 are not independent (checks/vertical-weight-2026-11-23.md, signif.py), so the difference is a work's mean, tested by flipping each
 work's sign (permutation) and by resampling works (bootstrap).
 
-Run: python3 -I compare.py [scores.jsonl]  (beside ours.json and inputs.jsonl; writes compare.json)"""
+Run: python3 -I compare.py [scores.jsonl]  (beside ours.json and inputs.jsonl; writes compare.json, or compare_<name>.json for
+another scores file, as another checkpoint's: scores_finetune.jsonl -> compare_scores_finetune.json)"""
 import json, os, random, sys
 import numpy as np
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ours = json.load(open(os.path.join(HERE, 'ours.json')))['works']
-scores = {x['id']: x for x in map(json.loads, open(sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, 'scores.jsonl')))}
+SCORES = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, 'scores.jsonl')
+OUT = 'compare.json' if os.path.basename(SCORES) == 'scores.jsonl' else 'compare_' + os.path.splitext(os.path.basename(SCORES))[0] + '.json'
+scores = {x['id']: x for x in map(json.loads, open(SCORES))}
 inputs = {x['id']: x for x in map(json.loads, open(os.path.join(HERE, 'inputs.jsonl')))}
 
 
@@ -77,7 +80,7 @@ inner = [r for r in rows if r['role'] == 'inner']
 res['agreement'] = dict(inner_notes_spearman=spearman([r['ours'] for r in inner], [r['ng'] for r in inner]),
                         per_work_median=float(np.median([spearman([r['ours'] for r in inner if r['work'] == w], [r['ng'] for r in inner if r['work'] == w])
                                                          for w in {r['work'] for r in inner}])))
-json.dump(res, open(os.path.join(HERE, 'compare.json'), 'w'), indent=1, ensure_ascii=False)
+json.dump(res, open(os.path.join(HERE, OUT), 'w'), indent=1, ensure_ascii=False)
 
 print(f"{len(rows)} notes in {len({r['work'] for r in rows})} works; NotaGen's bits a character over the windows, "
       f"median {np.median([v for v in res['health'].values() if v is not None]):.3f}")
