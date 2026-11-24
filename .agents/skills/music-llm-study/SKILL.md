@@ -33,6 +33,12 @@ Then read, for the composer:
 
 - **The unit is the composer in one kind of piece at one period**, the kind the
   next piece needs. Research goes by that kind; a new kind is a new part of the page.
+- **A composer drawn again gets a longer page, before the piece is composed**
+  (Philip, 24 November 2026, after piece 69 used Rameau's and Price's pages as they
+  stood). Add at least one new reading: a new kind of piece, more works of the kind
+  already there, or a source not yet read; the page's "Not checked" and "Not read"
+  lines say where to start. Say on the page when, and for which piece. A page that
+  already seems enough for the piece is no reason to skip it.
 - **Start from the profile** where there is one: it sets the unit against its
   contemporaries, which a reading of one work cannot.
 - **Then the scores** in score-reader's catalogue, **then the sources.** Prefer a

@@ -4,7 +4,7 @@ One page a composer, written by hand: what was read in the composer's scores by 
 
 - **Beside `profiles/`, not part of it.** A profile is generated from score-reader's catalogue by `study/profiles.py` and is written again with each catalogue version; nothing in it is edited by hand. A page here is written by hand and never generated. The two share their file names: `profiles/john-cage.md` and `composers/john-cage.md` are the same composer (Cage has no profile, since none of his scores is in the catalogue).
 - **What composer-blend made from a page** (the pieces, which techniques each took, and Philip's words on them) stays in composer-blend, at `reference/composers/<the same name>.md`. Each page links there. "Piece 64" on a page means composer-blend's piece 64.
-- **A page grows** each time its composer is used: a new kind of piece means new reading and a new part of the page.
+- **A page grows** each time its composer is used: a new kind of piece means new reading and a new part of the page. A composer drawn again gets new reading before the piece is composed, even when the page seems enough (Philip, 24 November 2026).
 
 ## What a page holds, in this order
 
