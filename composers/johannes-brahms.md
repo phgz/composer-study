@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 69. It grows eac
 
 **Measured profile:** [`profiles/johannes-brahms.md`](../profiles/johannes-brahms.md), generated from score-reader's catalogue by `study/profiles.py`. It measures his songs and the quartets; it finds no place where they stand clearly apart from their contemporaries.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/johannes-brahms.md` (piece 69).
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/johannes-brahms.md` (piece 69: 3.5, "What I found interesting was the blend itself of Brahms and Price"; what fell short: "Tune too plain", "Sounded generic", "Didn't fuse").
 
 ## Techniques
 
