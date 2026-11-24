@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026, from the sources at the end, read that day. It grows each time he is used.
 
-**Scope so far.** One kind of piece: his music for wind band, *October* (2000) and the band version of *Lux Aurumque* (2005). **Scores:** none in score-reader's catalogue (he is living; all in copyright), so nothing below was checked against his notes. The choral works are covered only where the thesis on *Lux Aurumque* speaks of the choral original.
+**Scope so far.** Two kinds of piece: his music for wind band, *October* (2000) and the band version of *Lux Aurumque* (2005); and how the chords of his unaccompanied choral works are made, with *Water Night* (1995) walked through (added on 24 November 2026, for composer-blend's piece 71). **Scores:** none in score-reader's catalogue (he is living; all in copyright), so nothing below was checked against his notes.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -72,9 +72,54 @@ Begun by Claude on 23 November 2026, from the sources at the end, read that day.
     *How:* not a technique: it says what he aimed at, simple pastoral tunes and harmony in the English manner, written for winds.
     *Where:* his note on *October*, as reported. [Wikipedia, October]
 
+### The choral works: how the chords are made
+
+*Water Night* (1995) is for choir without accompaniment, its sections divided into three, four and five parts; it was commissioned by the Dale Warland Singers [Wikipedia, Water Night].
+
+14. **Simple lines, dense chords.** However rich the harmony, each voice's line is simple, mostly steps and the notes of a triad; the dense chords come from where these simple lines meet and cross, with the sections divided into many parts (five notes or more in a choir of four).
+    *Works on:* harmony, texture, melody.
+    *Why:* it is the crossing of simple parts that makes the dense harmony, and the process can take precedence over traditional harmonic function and voice leading, or replace them. [Larson] *(an analysis)*
+    *How:* give each part a plain line by step or along a chord; place the lines so that, together, they make chords of five or more notes; divide a section to add a part.
+    *Where:* his choral music in general (the excerpt names no work). [Larson]
+15. **Notes gathering and falling away.** Neighbouring chords hold different numbers of notes: in some passages notes accrue from chord to chord, in others they disappear, and he moves freely between thin and dense.
+    *Works on:* harmony, texture.
+    *How:* from one chord to the next, add a note, then another, without taking any away; elsewhere take them away one at a time.
+    *Where:* his choral music in general. [Larson]
+16. **A tune that leaves its notes behind.** A melody climbs or falls through the notes of the chord it means, and each of its notes is kept by at least one voice after it sounds, so that the chord is built from the tune.
+    *Works on:* melody, harmony, texture.
+    *How:* write the tune through the notes of the chord to come; as the tune moves on, let another part take each of its notes and hold it, until the tune has built the whole chord.
+    *Where:* *Water Night*, bars 46 to 49. [Hall]
+17. **Added notes as the rule.** By one estimate at least three chords in four are chords with added notes, not plain major or minor triads.
+    *Works on:* harmony.
+    *Why:* the added notes make movement where there might have been none (*With a Lily in Your Hand*, bars 1 to 3); a writer cited by the same thesis says that added seconds thicken the chord and give it momentum. [Hall] *(an analysis)*
+    *How:* add a second, a fourth or a sixth to most chords; keep the plain triad rare.
+    *Where:* his choral music; *With a Lily in Your Hand*, bars 1 to 3. [Hall]
+18. **The keynote held while the dissonance moves over it.** *Water Night* begins on a plain B flat minor chord, its third hovering in the sopranos, and a slow succession of ninth and eleventh chords moves over that keynote chord (bars 1 to 5); the same goes on an octave lower (bars 6 to 15).
+    *Works on:* harmony, texture.
+    *Why:* the keynote under moving dissonance gives the opening its first impression of darkness and irregularity. [Wikipedia, Water Night] *(a listener)*
+    *How:* hold the minor keynote chord low; above it, move slowly through chords with ninths and elevenths, the keynote never leaving.
+    *Where:* *Water Night*, bars 1 to 15. [Wikipedia, Water Night]
+19. **Call and answer, falling.** A sudden *forte*: the women on the keynote chord, the men two beats later; the call and answer, keynote under dissonance, moves down in key.
+    *Works on:* texture, form, loudness.
+    *How:* let the high voices call a chord loudly and the low ones answer two beats later; repeat, each time in a lower key.
+    *Where:* *Water Night*, from bar 15. [Wikipedia, Water Night]
+20. **One climax chord, every note filled.** The only climax is one chord, on the word "eyes": divided sopranos, altos and tenors sing a cluster of every note of the scale from A flat 5 down to E flat 4, over a G flat major chord in the basses, the sixth degree of the key. It comes inside a long crescendo (bars 28 to 52, as the article gives them). At bars 47 and 48 the gap between the basses (E flat 3) and the sopranos (D flat 4) is filled in gradually, note by note. The texture is made denser towards the climax.
+    *Works on:* harmony, loudness, form.
+    *How:* aim the piece at one chord: fill every scale step between two notes about an octave and a half apart, over the major chord of the sixth degree in the bass; reach it by a long crescendo and by filling the space between the outer voices.
+    *Where:* *Water Night*: the climax on "eyes"; bars 28 to 52 and 47 and 48. [Wikipedia, Water Night; Hall, citing Larson]
+21. **It ends where it began.** After the climax *Water Night* deflates; at the end it falls back to the opening's play of keynote under dissonance, and the last chord to ring is the B flat minor chord. *Sleep* ends with one bar written out six times over; *Cloudburst* and *A Boy and a Girl* end on the chord with which they work or begin.
+    *Works on:* form, harmony.
+    *How:* end with the opening's sound: the keynote chord of the minor, with the dissonance above it thinning out; or repeat one bar several times as written.
+    *Where:* *Water Night*, the end; *Sleep*, its last motive; *Cloudburst*, bars 81, 83 and 84. [Wikipedia, Water Night; Hall]
+22. **Slow, together, steady.** Slow speeds, all the voices moving together, a melody that is hard to tell apart, a steady rhythm.
+    *Works on:* rhythm, texture.
+    *Why:* in *Sleep*, the effect is of a haze of sound without any sense of forward motion. [Hall, citing Lynch] *(a listener)*
+    *How:* slow, in chords, the tune inside the chords rather than above them, without quick notes.
+    *Where:* his choral music; *Sleep*. [Hall, citing Owen and Lynch]
+
 ## Walks through whole works
 
-None yet.
+***Water Night*** (1995), as the article walks it: B flat minor, the keynote chord held under moving ninths and elevenths (bars 1 to 5), then an octave lower (6 to 15); a sudden *forte*, women and men in call and answer, moving down in key (from 15); the opening echoed (25 and 26); a duet of sopranos and altos in minor seconds and fourths, with no melody (26 and 27); a long crescendo (28 to 52) with the one climax chord on "eyes"; a deflation to bar 41; the piece's most notable melodic line (42); the gap between basses and sopranos filled in (47 and 48); the end falls back to the opening, the B flat minor chord ringing last. [Wikipedia, Water Night]
 
 ## Numbers
 
@@ -98,15 +143,18 @@ None: no score of his is in score-reader's catalogue.
 
 ## Not checked
 
-Believed from memory, not found in a source read today:
-- that his clusters are made by the voices moving out by step from one note;
-- anything about *Sleep*, *Cloudburst*, *Water Night* or *Equus*;
+Believed from memory, not found in a source read:
+- that his clusters are made by the voices moving out by step from one note (the sources read describe a tune whose notes are kept, and a gap filled between two voices, not this);
+- anything about *Sleep* and *Cloudburst* beyond their endings, and about *Equus*;
 - how *October*'s climax is scored.
 
-Not read: the second half of Milne's thesis; Larson's and Shrock's writings on his choral harmony, which Milne cites.
+Not read: the second half of Milne's thesis and of Hall's; Larson's article whole (only an excerpt); Shrock's writings, which Milne cites. The Wikipedia article on *Water Night* gives bars without a score to check them against; its crescendo (28 to 52) and its deflation (to 41) overlap as it gives them.
 
 ## Sources
 
 - Wikipedia, "October (Whitacre)" (the article itself is flagged as needing work; its dates disagree with each other): https://en.wikipedia.org/wiki/October_(Whitacre)
 - Christopher John Milne, master's thesis on band versions of choral works, University of Western Australia, 2017 (the first half read): https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/23660260/THESIS_MASTER_BY_RESEARCH_MILNE_Christopher_John_2017.pdf
+- Andrew Larson, "Textural Density in the Choral Music of Eric Whitacre", *Choral Journal*, an excerpt on ChoralNet: https://choralnet.org/archives/405007
+- Angela Paige Minahan Hall, *Added-Tone Sonorities in the Choral Music of Eric Whitacre*, MA thesis, Washington University in St. Louis, 2012 (the first half read): https://core.ac.uk/download/233206664.pdf
+- Wikipedia, "Water Night": https://en.wikipedia.org/wiki/Water_Night
 - BBC Music Magazine, "Eric Whitacre: Nevada's most famous composer, who has broken records with his virtual choirs": https://www.classical-music.com/features/composers/eric-whitacre-2
