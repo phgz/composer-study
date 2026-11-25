@@ -355,6 +355,11 @@ Use AMT's checkout path as for the earlier writing. Commit the sixteen `repair_*
 - He listens as he always does. When a note or a stumble sounds wrong, he says roughly when.
 - Afterwards, his moments are set beside the list. This is not a blind test: he hears the piece as usual and nothing is hidden from him except the list.
 
+- **Philip, asked whether he would give rough times when something sounds off:** "Sure".
+- **The tool:** `study/flag_piece.py`, with three steps: prepare, here; score, on the Mac; report into the piece's folder as `flags/FLAGS.md`. A fourth step, `compare`, sets his times beside the list.
+- **The rule:** composer-blend's PROCEDURE (section F, its PR #96).
+- **For now, AMT only:** NotaGen reads a written score, and no exporter has been written yet.
+
 **Running it on the Mac:** `study/amt_score.py` has changed again; pull the branch first.
 
 ```bash
