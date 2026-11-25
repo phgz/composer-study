@@ -6,7 +6,7 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day;
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/john-cage.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/john-cage.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/john-cage.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/john-cage.md) (piece 73: 3.5, "well made, but it does not lift at any point").
 
 ## Techniques
 

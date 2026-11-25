@@ -6,7 +6,7 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 73, from the sou
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/john-adams.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/john-adams.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/john-adams.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/john-adams.md) (piece 73: 3.5, "well made, but it does not lift at any point").
 
 ## Techniques
 
