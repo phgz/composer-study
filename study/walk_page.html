@@ -8,18 +8,18 @@
 :root {
   --bg: #f6f6f3; --panel: #ffffff; --ink: #1d2126; --muted: #5d646c; --line: #dcddd7;
   --note: #b4442f; --rhythm: #2f6fa6; --mine: #2f7d4f; --changed: #9a6700; --head: #2b3a2f;
-  --sec-a: #e9ebe4; --sec-b: #dfe3da; --now: #fff4d6; --odd-bg: #f8e3dd;
+  --sec-a: #e9ebe4; --sec-b: #dfe3da; --now: #fff4d6; --odd-bg: #f8e3dd; --wanted: #6a4fa3; --wanted-bg: #ece6f5;
   --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #15181b; --panel: #1d2125; --ink: #e7e9ea; --muted: #9aa2aa; --line: #30363c;
   --note: #e27b66; --rhythm: #74aee0; --mine: #6cc792; --changed: #e0b04a; --head: #cfe0d2;
-  --sec-a: #23292d; --sec-b: #2a3136; --now: #3a3322; --odd-bg: #43261f; color-scheme: dark } }
+  --sec-a: #23292d; --sec-b: #2a3136; --now: #3a3322; --odd-bg: #43261f; --wanted: #b9a3e3; --wanted-bg: #2d2638; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #15181b; --panel: #1d2125; --ink: #e7e9ea; --muted: #9aa2aa; --line: #30363c;
   --note: #e27b66; --rhythm: #74aee0; --mine: #6cc792; --changed: #e0b04a; --head: #cfe0d2;
-  --sec-a: #23292d; --sec-b: #2a3136; --now: #3a3322; --odd-bg: #43261f; color-scheme: dark }
+  --sec-a: #23292d; --sec-b: #2a3136; --now: #3a3322; --odd-bg: #43261f; --wanted: #b9a3e3; --wanted-bg: #2d2638; color-scheme: dark }
 body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 15px; line-height: 1.45;
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 20px 48px; }
 main { max-width: 920px; margin: 0 auto; display: grid; gap: 18px; }
@@ -61,10 +61,10 @@ select, input[type="text"] { font: inherit; background: var(--bg); color: var(--
 .group { padding: 8px 14px; font-size: .75rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); background: var(--bg); border-top: 1px solid var(--line); }
 .group:first-child { border-top: 0; }
 .group.title { font-size: .8rem; color: var(--head); font-weight: 600; letter-spacing: .04em; }
-.row { display: grid; grid-template-columns: 1.6em 2.2em 4.6em 3.6em 4.6em minmax(0, 1fr) 3.2em 3.6em; gap: 6px 10px; align-items: center;
+.row { display: grid; grid-template-columns: 1.6em 2.2em 4.6em 3.6em 4.6em minmax(0, 1fr) auto 3.6em; gap: 6px 10px; align-items: center;
   padding: 8px 14px; border-top: 1px solid var(--line); }
 .group + .row { border-top: 0; }
-.row.now { background: var(--now); } .row.odd { background: var(--odd-bg); }
+.row.now { background: var(--now); } .row.odd { background: var(--odd-bg); } .row.wanted { background: var(--wanted-bg); }
 .play { cursor: pointer; }
 .row input[type="checkbox"] { width: 1.1em; height: 1.1em; accent-color: var(--head); margin: 0; }
 .n { font-family: var(--mono); color: var(--muted); font-size: .85rem; }
@@ -77,6 +77,13 @@ select, input[type="text"] { font: inherit; background: var(--bg); color: var(--
 .rank { font-size: .8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
 .oddbtn { padding: 3px 8px; font-size: .8rem; white-space: nowrap; }
 .oddbtn[aria-pressed="true"] { background: var(--note); border-color: var(--note); color: var(--panel); }
+.verdict { display: inline-flex; gap: 4px; }
+.verdict button { padding: 3px 8px; font-size: .8rem; white-space: nowrap; }
+.verdict button.mistake[aria-pressed="true"] { background: var(--note); border-color: var(--note); color: var(--panel); }
+.verdict button.wanted[aria-pressed="true"] { background: var(--wanted); border-color: var(--wanted); color: var(--panel); }
+.models { display: block; color: var(--muted); font-size: .76rem; margin-top: 2px; }
+.models b { color: var(--ink); font-weight: 600; }
+.tally { font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--muted); margin-left: 8px; }
 .ab { display: inline-flex; gap: 4px; }
 .ab button { padding: 3px 8px; font-size: .8rem; white-space: nowrap; }
 .ab button.on { border-color: var(--changed); color: var(--changed); font-weight: 500; }
@@ -90,7 +97,8 @@ select, input[type="text"] { font: inherit; background: var(--bg); color: var(--
   .row .n, .row .bar, .row .rank { display: none; }
   .row .kind { grid-column: 3; grid-row: 1; }
   .row .what { grid-column: 2 / -1; grid-row: 2; }
-  .row .oddbtn { grid-column: 4; grid-row: 1; }
+  .row .oddbtn, .row .verdict { grid-column: 4; grid-row: 1; }
+  .chg-row .verdict { grid-column: 2 / -1; grid-row: 3; justify-self: start; }
   .notefield { grid-column: 1 / -1; }
   .chg-row .ab { grid-column: 3; grid-row: 1; }
   .chg-row .what { grid-row: 2; }
@@ -113,6 +121,7 @@ select, input[type="text"] { font: inherit; background: var(--bg); color: var(--
       <button id="prev" type="button">Previous</button>
       <button id="next" type="button">Next</button>
       <button class="add" id="addpoint" type="button" disabled>Add a point here</button>
+      <label class="lead" for="part" id="part-wrap">Hear <select id="part"><option value="">everything</option></select></label>
       <label class="lead" for="lead">Start <select id="lead"><option value="2">2 s</option><option value="3" selected>3 s</option><option value="5">5 s</option><option value="8">8 s</option></select> before</label>
       <span class="clock" id="clock">0:00.0</span>
     </div>
@@ -154,13 +163,26 @@ const mmss = t => `${Math.floor(t / 60)}:${(t % 60).toFixed(1).padStart(4, '0')}
 const pct = t => `${(100 * Math.min(Math.max(t, 0), DUR) / DUR).toFixed(3)}%`;
 const leadSec = () => Number($('lead').value);
 let db = null;
-const placeState = {}, chgState = {};   // id -> {heard, odd, note}
+const placeState = {}, chgState = {};   // id -> {heard, verdict ('' | 'wanted' | 'mistake'), note}
 const mine = new Map();                 // id -> {t, take, note}
 
-// ---- the takes: one audio element each; switching keeps the time and whether it plays
-const AUD = {};
-TAKES.forEach(k => { const a = el('audio'); a.src = k.src; a.preload = 'auto'; $('audios').appendChild(a); AUD[k.id] = a; });
-let take = TAKES[0].id, audio = AUD[take];
+// ---- the takes, and in each an instrument alone where the take has it: one audio element each, made when first wanted;
+// switching keeps the time and whether it plays
+const PARTS = DATA.parts || [];
+const AUD = {};       // take -> instrument ('' the whole) -> audio
+function audioFor(k, p) {
+  const tk = TAKES.find(x => x.id === k); const src = tk && (p ? (tk.parts || {})[p] : tk.src);
+  if (!src) return null;
+  AUD[k] = AUD[k] || {};
+  if (!AUD[k][p]) { const a = el('audio'); a.src = src; a.preload = p ? 'metadata' : 'auto'; $('audios').appendChild(a); hook(a); AUD[k][p] = a; }
+  return AUD[k][p];
+}
+TAKES.forEach(k => audioFor(k.id, ''));
+let take = TAKES[0].id, part = '', audio = audioFor(take, '');
+const partSel = $('part');
+if (PARTS.length) PARTS.forEach(p => { const o = el('option', null, p); o.value = p; partSel.appendChild(o); });
+else $('part-wrap').remove();
+partSel.addEventListener('change', () => switchTo(take, partSel.value));
 const takeBtns = {};
 if (TAKES.length > 1) TAKES.forEach(k => {
   const b = el('button', null, k.label); b.type = 'button'; b.setAttribute('aria-pressed', String(k.id === take));
@@ -168,18 +190,26 @@ if (TAKES.length > 1) TAKES.forEach(k => {
 }); else $('takes').remove();
 const playBtn = $('play');
 function play() { const p = audio.play(); if (p && p.catch) p.catch(() => {}); }
-function setTake(k) {
-  if (k === take || !AUD[k]) return;
-  const from = audio, to = AUD[k], t = from.currentTime, playing = !from.paused;
+function switchTo(k, p) {
+  if (k === take && p === part) return;
+  const to = audioFor(k, p);
+  if (!to) { statusEl.textContent = `${p} alone is not there for ${(TAKES.find(x => x.id === k) || {}).label}.`; partSel.value = part; return; }
+  const from = audio, t = from.currentTime, playing = !from.paused;
   from.pause();
-  try { to.currentTime = t; } catch (e) {}
-  audio = to; take = k;
+  const go = () => { try { to.currentTime = t; } catch (e) {} if (playing) play(); };
+  audio = to; take = k; part = p; partSel.value = p;
+  if (to.readyState >= 1) go(); else to.addEventListener('loadedmetadata', go, { once: true });
   Object.entries(takeBtns).forEach(([n, b]) => b.setAttribute('aria-pressed', String(n === k)));
   document.querySelectorAll('.ab button').forEach(b => b.classList.toggle('on', b.dataset.take === k));
-  if (playing) play();
-  playBtn.textContent = audio.paused ? 'Play' : 'Pause';
+  playBtn.textContent = playing ? 'Pause' : 'Play';
 }
-function playFrom(t, k) { if (k) setTake(k); audio.currentTime = Math.max(0, t - leadSec()); play(); }
+function setTake(k) { switchTo(k, audioFor(k, part) ? part : ''); }
+function playFrom(t, k) {
+  if (k) setTake(k);
+  const a = audio, at = Math.max(0, t - leadSec());
+  if (a.readyState >= 1) { a.currentTime = at; play(); }
+  else a.addEventListener('loadedmetadata', () => { a.currentTime = at; if (a === audio) play(); }, { once: true });
+}
 
 // ---- timeline: placed in percent of the length, laid out again once the audio says how long it is
 const placed = [];   // [element, time, width-in-seconds or null]
@@ -225,17 +255,43 @@ function noteField(id, placeholder, save) {
 const controls = [];
 function saveState(store, coll, key, patch, extra, paint) {
   if (!db) return;
-  const before = Object.assign({ heard: false, odd: false, note: '' }, store[key]);
+  const before = Object.assign({ heard: false, verdict: '', note: '' }, store[key]);
   const s = Object.assign({}, before, patch);
-  if (s.heard === before.heard && s.odd === before.odd && s.note === before.note) return;
+  if (s.heard === before.heard && s.verdict === before.verdict && s.note === before.note) return;
   store[key] = s; paint();
-  write(`${coll}/${key}`, Object.assign({ heard: !!s.heard, odd: !!s.odd, note: String(s.note || '').slice(0, 2000) }, extra, { at: new Date().toISOString() }));
+  write(`${coll}/${key}`, Object.assign({ heard: !!s.heard, odd: !!s.verdict, verdict: s.verdict || '', note: String(s.note || '').slice(0, 2000) },
+                                        extra, { at: new Date().toISOString() }));
+}
+function readState(v) {   // a verdict, or, from before the verdict was split, odd as a mistake
+  return { heard: !!v.heard, verdict: v.verdict === 'wanted' || v.verdict === 'mistake' ? v.verdict : (v.odd ? 'mistake' : ''),
+           note: typeof v.note === 'string' ? v.note : '' };
 }
 function paintRow(r, s) {
   s = s || {};
-  r.cb.checked = !!s.heard; r.odd.setAttribute('aria-pressed', s.odd ? 'true' : 'false'); r.row.classList.toggle('odd', !!s.odd);
+  r.cb.checked = !!s.heard;
+  r.vw.setAttribute('aria-pressed', String(s.verdict === 'wanted')); r.vm.setAttribute('aria-pressed', String(s.verdict === 'mistake'));
+  r.row.classList.toggle('odd', s.verdict === 'mistake'); r.row.classList.toggle('wanted', s.verdict === 'wanted');
   if (document.activeElement !== r.note) r.note.value = s.note || '';
   r.tick.classList.toggle('done', !!s.heard);
+  tally();
+}
+function verdictBox(what, save, cur) {
+  const box = el('span', 'verdict');
+  const w = el('button', 'wanted', 'wanted'), m = el('button', 'mistake', 'mistake');
+  w.type = m.type = 'button'; w.disabled = m.disabled = true;
+  w.setAttribute('aria-pressed', 'false'); m.setAttribute('aria-pressed', 'false');
+  w.title = 'Odd, but wanted: original'; m.title = 'Odd: a mistake';
+  w.setAttribute('aria-label', `${what}: odd but wanted`); m.setAttribute('aria-label', `${what}: a mistake`);
+  w.addEventListener('click', () => save({ verdict: cur() === 'wanted' ? '' : 'wanted', heard: true }));
+  m.addEventListener('click', () => save({ verdict: cur() === 'mistake' ? '' : 'mistake', heard: true }));
+  box.append(w, m); controls.push(w, m);
+  return { box, w, m };
+}
+function tally() {
+  const t = $('tally'); if (!t) return;
+  const v = Object.keys(placeRows).map(k => placeState[k] || {});
+  const heard = v.filter(s => s.heard).length, bad = v.filter(s => s.verdict === 'mistake').length, good = v.filter(s => s.verdict === 'wanted').length;
+  t.textContent = `heard ${heard} of ${ROWS.length} · ${bad} mistake${bad === 1 ? '' : 's'} · ${good} wanted`;
 }
 
 // ---- what changed between two takes, each spot to be heard in either
@@ -254,18 +310,17 @@ CHANGES.forEach(c => {
   [DATA.changesFrom, DATA.changesTo].forEach(k => { if (!AUD[k.id]) return;
     const b = el('button', k.id === take ? 'on' : '', k.label.toLowerCase()); b.type = 'button'; b.dataset.take = k.id;
     b.setAttribute('aria-label', `Hear ${c.head} in ${k.label}`); b.addEventListener('click', () => { setTake(k.id); go(stop); }); ab.appendChild(b); });
-  const odd = el('button', 'oddbtn', 'still odd'); odd.type = 'button'; odd.setAttribute('aria-pressed', 'false'); odd.disabled = true;
+  const vb = verdictBox(c.head, patch => saveState(chgState, KEYS.changes, c.id, patch, extra, paint), () => (chgState[c.id] || {}).verdict);
   const note = noteField('chg-' + c.id, 'How it sounds now (optional)', v => saveState(chgState, KEYS.changes, c.id, { note: v }, extra, paint));
-  [cb, t, bar, what, ab, odd].forEach(x => row.appendChild(x)); row.appendChild(note);
+  [cb, t, bar, what, ab, vb.box].forEach(x => row.appendChild(x)); row.appendChild(note);
   chgEl.appendChild(row);
   const tk = tick('changed', c.t, `Changed, ${mmss(c.t)}: ${c.head}`, () => go(stop));
-  const r = { row, cb, odd, note, tick: tk }, extra = { t: c.t, what: c.head }, paint = () => paintRow(r, chgState[c.id]);
+  const r = { row, cb, vw: vb.w, vm: vb.m, note, tick: tk }, extra = { t: c.t, what: c.head }, paint = () => paintRow(r, chgState[c.id]);
   chgRows[c.id] = r;
   const stop = { t: c.t, row }; stops.push(stop);
   row.querySelectorAll('.play').forEach(x => x.addEventListener('click', () => go(stop)));
   cb.addEventListener('change', () => saveState(chgState, KEYS.changes, c.id, { heard: cb.checked }, extra, paint));
-  odd.addEventListener('click', () => saveState(chgState, KEYS.changes, c.id, { odd: odd.getAttribute('aria-pressed') !== 'true', heard: true }, extra, paint));
-  controls.push(cb, odd, note);
+  controls.push(cb, note);
 });
 
 // ---- the flagged places
@@ -286,23 +341,30 @@ ROWS.forEach((r, i) => {
   const tag = changedPlace[k] ? `changed in ${DATA.changesTo.label.toLowerCase()}` : nearPlace[k] ? `its bar changed in ${DATA.changesTo.label.toLowerCase()}` : '';
   if (tag) { if (r.passage) sm.append(' · '); sm.appendChild(el('em', null, tag)); }
   what.appendChild(sm);
+  if (r.ears) {                                    // each model's own rank of this note or onset; bold, in its own top few
+    const ms = el('small', 'models'); let first = true;
+    (DATA.ears || Object.keys(r.ears)).forEach(e => { if (!(e in r.ears)) return;
+      if (!first) ms.append(' · '); first = false;
+      const x = r.ears[e], label = `${(DATA.earNames || {})[e] || e} ${x == null ? 'not heard' : '#' + x}`;
+      if (x != null && x <= (DATA.top || 20)) ms.appendChild(el('b', null, label)); else ms.append(label); });
+    what.appendChild(ms);
+  }
   const rank = el('span', 'rank play', '#' + r.rank);
-  const odd = el('button', 'oddbtn', 'odd'); odd.type = 'button'; odd.setAttribute('aria-pressed', 'false'); odd.disabled = true;
-  odd.setAttribute('aria-label', `Place ${k} sounds odd`);
+  const vb = verdictBox(`Place ${k}`, patch => saveState(placeState, KEYS.places, String(k), patch, extra, paint), () => (placeState[k] || {}).verdict);
   const extra = { t: r.t, kind: r.kind, part: r.part, pitch: r.pitch, rank: r.rank };
   const note = noteField('note' + k, 'How it sounds (optional)', v => saveState(placeState, KEYS.places, String(k), { note: v }, extra, paint));
-  [cb, n, t, bar, kind, what, odd, rank].forEach(x => row.appendChild(x)); row.appendChild(note);
+  [cb, n, t, bar, kind, what, vb.box, rank].forEach(x => row.appendChild(x)); row.appendChild(note);
   list.appendChild(row);
   const tk = tick(r.kind, r.t, `${k}. ${mmss(r.t)} ${r.kind} ${r.part} ${r.pitch}`, () => go(stop));
-  const rr = { row, cb, odd, note, tick: tk }, paint = () => paintRow(rr, placeState[k]);
+  const rr = { row, cb, vw: vb.w, vm: vb.m, note, tick: tk }, paint = () => paintRow(rr, placeState[k]);
   placeRows[k] = rr;
   const stop = { t: r.t, row }; stops.push(stop);
   row.querySelectorAll('.play').forEach(x => x.addEventListener('click', () => go(stop)));
   cb.addEventListener('change', () => saveState(placeState, KEYS.places, String(k), { heard: cb.checked }, extra, paint));
-  odd.addEventListener('click', () => saveState(placeState, KEYS.places, String(k), { odd: odd.getAttribute('aria-pressed') !== 'true', heard: true }, extra, paint));
-  controls.push(cb, odd, note);
+  controls.push(cb, note);
 });
 stops.sort((a, b) => a.t - b.t);
+{ const t = el('span', 'tally'); t.id = 'tally'; $('places-title').appendChild(t); tally(); }
 
 // ---- your own points: rows kept by id and updated in place, so a note being typed keeps its focus
 const mineRows = new Map();
@@ -362,16 +424,16 @@ document.addEventListener('keydown', e => {
 
 // ---- transport
 playBtn.addEventListener('click', () => { if (audio.paused) play(); else audio.pause(); });
-Object.values(AUD).forEach(a => {
+function hook(a) {
   a.addEventListener('play', () => { if (a === audio) playBtn.textContent = 'Pause'; });
   a.addEventListener('pause', () => { if (a === audio) playBtn.textContent = 'Play'; });
-  a.addEventListener('loadedmetadata', () => { if (a === AUD[TAKES[0].id] && isFinite(a.duration) && Math.abs(a.duration - DUR) > .05) { DUR = a.duration; layout(); renderMine(); } });
+  a.addEventListener('loadedmetadata', () => { if (AUD[TAKES[0].id] && a === AUD[TAKES[0].id][''] && isFinite(a.duration) && Math.abs(a.duration - DUR) > .05) { DUR = a.duration; layout(); renderMine(); } });
   a.addEventListener('timeupdate', () => {
     if (a !== audio) return;
     head.style.left = pct(a.currentTime);
     $('clock').textContent = `${mmss(a.currentTime)} / ${mmss(DUR)}`;
   });
-});
+}
 $('clock').textContent = `0:00.0 / ${mmss(DUR)}`;
 $('next').addEventListener('click', () => {
   if (current >= 0) { go(stops[Math.min(current + 1, stops.length - 1)]); return; }
@@ -392,7 +454,7 @@ $('prev').addEventListener('click', () => go(stops[Math.max(0, (current >= 0 ? c
   const states = (coll, store, rows) => {
     let first = true;
     db.collection(coll).onSnapshot(snap => {
-      snap.docs.forEach(d => { const v = d.data() || {}; store[d.id] = { heard: !!v.heard, odd: !!v.odd, note: typeof v.note === 'string' ? v.note : '' };
+      snap.docs.forEach(d => { const v = d.data() || {}; store[d.id] = readState(v);
         if (rows[d.id]) paintRow(rows[d.id], store[d.id]); });
       if (!snap.metadata.fromCache && first) { first = false; settle(); }
     }, failed('ticks'));

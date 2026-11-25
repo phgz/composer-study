@@ -2,6 +2,7 @@
 both models averaged, single notes only; and its bits handed to the notes of the flag list they were matched to. Run:
 python3 -m pytest -q tests"""
 import json, os, sys
+import pytest
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from study import flag_piece as FP
 
@@ -54,3 +55,36 @@ def test_section_names_as_the_timeline_shows_them():
     assert FP.short("03 concerto 1: the guitar alone, then the tune on the cor angla") == 'Concerto 1'
     assert FP.short('08 the last hymn: the tune loud by everyone') == 'Last hymn'
     assert FP.short('Beklemmt: F major, then D minor') == 'Beklemmt'
+
+
+def test_each_ear_ranks_on_its_own_after_the_first_two_seconds():
+    notes = [(0.5, .5, 60, 'a'), (3.0, .5, 62, 'a'), (4.0, .5, 64, 'a'), (5.0, .5, 65, 'a')]
+    r = FP.own_ranks(notes, range(4), [9.0, 1.0, float('nan'), 2.0])
+    assert r == {3: 1, 1: 2}                                         # the first note too early, the third not heard
+
+
+def test_parts_writes_each_instrument_alone_at_one_level(tmp_path):
+    import shutil, struct, wave
+    import numpy as np
+    if not shutil.which('ffmpeg'): pytest.skip('ffmpeg')
+    sr = 8000; t = np.arange(sr) / sr
+    def float_wav(path, x):
+        x = np.stack([x, x], axis=1).astype('<f4'); body = x.tobytes()
+        fmt = struct.pack('<HHIIHH', 3, 2, sr, sr * 8, 8, 32)
+        with open(path, 'wb') as f:
+            f.write(b'RIFF' + struct.pack('<I', 4 + 8 + len(fmt) + 8 + len(body)) + b'WAVE' + b'fmt ' + struct.pack('<I', len(fmt)) + fmt
+                    + b'data' + struct.pack('<I', len(body)) + body)
+    stems = tmp_path / 'x.mix-stems'; stems.mkdir()
+    float_wav(stems / 'part-0000.wav', .01 * np.sin(2 * np.pi * 440 * t))
+    float_wav(stems / 'part-0001.wav', .02 * np.sin(2 * np.pi * 220 * t))
+    float_wav(stems / 'part-0002.wav', np.zeros(sr))
+    render = tmp_path / 'x.render.json'
+    json.dump(dict(outputs={f'mix_stem:{p}': dict(path=f'/elsewhere/x.mix-stems/part-000{n}.wav') for n, p in enumerate(('pno', 'pnoA', 'vlax'))}),
+              open(render, 'w'))
+    out = tmp_path / 'parts-1'
+    import argparse
+    FP.parts(argparse.Namespace(render=str(render), module=str(tmp_path / 'none.py'), o=str(out), gains=None))
+    listed = json.load(open(out / 'parts.json'))
+    assert [g for g, _ in listed['parts']] == ['pno', 'pnoA'] and (out / 'pno.mp3').stat().st_size > 0   # the silent one left out
+    FP.parts(argparse.Namespace(render=str(render), module=str(tmp_path / 'none.py'), o=str(tmp_path / 'parts-2'), gains=str(out)))
+    assert json.load(open(tmp_path / 'parts-2' / 'parts.json'))['gains'] == listed['gains']       # the other take's levels kept

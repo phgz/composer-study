@@ -47,7 +47,14 @@ NotaGen joins them where the piece declares its notation (composer-blend's tools
             head, detail}] put in place of the generated description of the spot at that time). Philip, 25 November 2026:
             "One thing we could improve for the walk UI is a checkbox next to each one that I can tick, plus the possibility
             to add points on timestamp to flag something the models haven't found." For comparing versions at matched
-            loudness, or a part alone, renderer-engine's tools/listening_page.py does that, offline"""
+            loudness, renderer-engine's tools/listening_page.py does that, offline.
+            Each place shows each model's own rank of its note (or onset), so one sees which model flagged it (Philip: "In
+            the UI, could we specify when it's which model exactly flagged a place."); and an odd place is marked either
+            wanted or a mistake (Philip: "it's interesting how it split in 2 oddness: one we want, originality, and plain
+            'mistake'."). --parts ID=<folder from `parts`>: that take's instruments, each to be heard alone
+  parts     python3 study/flag_piece.py parts <render.json> <notes module> -o <folder> [--gains <other take's folder>]
+            one take's instruments alone, from the render's own stems (Philip: "maybe we could isolate by instrument"):
+            mono mp3s and parts.json; needs ffmpeg"""
 import argparse, collections, json, os, re, subprocess, sys
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, os.path.dirname(HERE))
 from study import pieces as P, amt as A
@@ -151,7 +158,10 @@ def notagen_choice(folder):
 def mmss(t): return f'{int(t // 60)}:{t % 60:04.1f}'
 
 
-def flags(folder, top):
+def surprise(folder):
+    """each ear's surprise, on one scale within the piece (its bits minus their mean, over their standard deviation): (meta, the
+    notes, {ear: per note, nan where the ear does not hear it}, the indices of the notes that begin an onset, {AMT ear: per
+    onset}, NotaGen's prompts ranked)"""
     import numpy as np
     meta = json.load(open(os.path.join(folder, 'flag_notes.json'))); notes = meta['notes']
     inp = json.loads(open(os.path.join(folder, 'flag_amt_inputs.jsonl')).readline())
@@ -163,12 +173,27 @@ def flags(folder, top):
         if len(bits[e]) != len(notes): raise SystemExit(f'flag_amt_{e}.jsonl has {len(bits[e])} notes, flag_notes.json {len(notes)}')
     z = lambda x: (x - x.mean()) / (x.std() or 1)
     ng_ears, heard, rank = notagen_choice(folder)
-    zs = [z(np.array([b[0] for b in bits[e]])) for e in ears]
+    pz = {e: z(np.array([b[0] for b in bits[e]])) for e in ears}
     for e in ng_ears:                                                   # NotaGen's: on the notes it hears, nothing elsewhere
-        idx = sorted(heard[e]); zz = np.full(len(notes), np.nan); zz[idx] = z(np.array([heard[e][i] for i in idx])); zs.append(zz)
-    pitch = np.nanmean(np.vstack(zs), axis=0)
+        idx = sorted(heard[e]); zz = np.full(len(notes), np.nan); zz[idx] = z(np.array([heard[e][i] for i in idx])); pz[f'notagen_{e}'] = zz
     onset_idx = [i for i in range(len(notes)) if first[i] and all(bits[e][i][3] is not None for e in ears)]
-    onset = np.mean([z(np.array([bits[e][i][3] for i in onset_idx])) for e in ears], axis=0)
+    oz = {e: z(np.array([bits[e][i][3] for i in onset_idx])) for e in ears}
+    return meta, notes, pz, onset_idx, oz, rank
+
+
+def own_ranks(notes, idx, scores):
+    """{note index: its rank by one ear's scores (1 the most surprising)}, among the notes after the first two seconds that the
+    ear hears"""
+    start = min(n[0] for n in notes)
+    keep = [(i, s) for i, s in zip(idx, scores) if notes[i][0] >= start + 2.0 and s == s]
+    return {i: n + 1 for n, (i, s) in enumerate(sorted(keep, key=lambda x: -x[1]))}
+
+
+def flags(folder, top):
+    import numpy as np
+    meta, notes, pz, onset_idx, oz, rank = surprise(folder)
+    pitch = np.nanmean(np.vstack(list(pz.values())), axis=0)
+    onset = np.mean(list(oz.values()), axis=0)
 
     start = min(n[0] for n in notes)
 
@@ -183,7 +208,7 @@ def flags(folder, top):
     p = pick(sorted(range(len(notes)), key=lambda i: -pitch[i]), pitch, lambda i: i)
     k = {i: n for n, i in enumerate(onset_idx)}
     o = pick(sorted(onset_idx, key=lambda i: -onset[k[i]]), onset, lambda i: k[i])
-    return meta, ears + [f'notagen_{e}' for e in ng_ears], notes, p, o, rank
+    return meta, list(pz), notes, p, o, rank
 
 
 def places(source, times):
@@ -228,22 +253,30 @@ def passages(source, notes):
 
 def listing(folder, top, source=None):
     """the flagged places in time order, as FLAGS.md lists them: (meta, ears, NotaGen's prompts ranked, the notes, rows), each row
-    a dict: t, kind ('note' or 'rhythm'), rank within its kind, i (the note's index), score, bar, part (the module's), passage"""
+    a dict: t, kind ('note' or 'rhythm'), rank within its kind, i (the note's index), score, bar, part (the module's), passage,
+    and ears: each ear's own rank of that note (or onset), None where the ear does not hear it"""
     meta, ears, notes, p, o, rank = flags(folder, top)
+    _, _, pz, onset_idx, oz, _ = surprise(folder)
+    own = dict(note={e: own_ranks(notes, range(len(notes)), s) for e, s in pz.items()},
+               rhythm={e: own_ranks(notes, onset_idx, s) for e, s in oz.items()})
     rows = sorted([(notes[i][0], 'note', n + 1, i, sc) for n, (i, sc) in enumerate(p)] +
                   [(notes[i][0], 'rhythm', n + 1, i, sc) for n, (i, sc) in enumerate(o)])
     src = source or meta['source']
     bars = places(src, [r[0] for r in rows]) if src.endswith('.py') else [None] * len(rows)
     what = passages(src, [notes[r[3]] for r in rows]) if src.endswith('.py') else [(notes[r[3]][3], '') for r in rows]
-    out = [dict(t=float(t), kind=kind, rank=rk, i=i, score=float(sc), bar=b, part=pt, passage=w)
+    out = [dict(t=float(t), kind=kind, rank=rk, i=i, score=float(sc), bar=b, part=pt, passage=w,
+                ears={e: r.get(i) for e, r in own[kind].items()})
            for (t, kind, rk, i, sc), b, (pt, w) in zip(rows, bars, what)]
     return meta, ears, rank, notes, out
+
+
+EAR_NAMES = dict(large='AMT Large', medium='AMT Medium', notagen_x='NotaGen-X', notagen_finetune='NotaGen fine-tuned')
 
 
 def report(a):
     meta, ears, rank, notes, listed = listing(a.folder, a.top)
     src = meta['source']
-    names = dict(large='AMT Large', medium='AMT Medium', notagen_x='NotaGen-X', notagen_finetune='NotaGen fine-tuned')
+    names = EAR_NAMES
     nm = lambda m: NAMES[m % 12] + str(m // 12 - 1)
     rows = [(r['t'], r['kind'], r['rank'], r['i'], r['score']) for r in listed]
     bars = [r['bar'] for r in listed]; what = [(r['part'], r['passage']) for r in listed]
@@ -402,7 +435,13 @@ def page(a):
     store = a.store or f'walks/{os.path.basename(os.path.dirname(os.path.abspath(src)))}'
     keys = dict(places=f'{store}-take{flags_on}/places', points=f'{store}/added')
     out_rows = [dict(t=round(r['t'], 3), bar=r['bar'], kind=r['kind'], rank=r['rank'], part=name(r['part']),
-                     pitch=spell(r['t'], notes[r['i']][2]), passage=r['passage']) for r in rows]
+                     pitch=spell(r['t'], notes[r['i']][2]), passage=r['passage'], ears=r['ears']) for r in rows]
+    for k in takes:                                                     # a take's instruments, each alone (`parts`)
+        d = dict(x.split('=', 1) for x in a.parts).get(k['id'])
+        if d:
+            listed = json.load(open(os.path.join(d, 'parts.json')))['parts']
+            k['parts'] = {g: f"{os.path.basename(os.path.normpath(d))}/{f}" for g, f in listed}
+            k['dir'] = d
     data = dict(title=labels.get('title', f'{store.split("/")[-1]} Flag Walk'), heading=labels.get('heading'),
                 intro=labels.get('intro', 'Click a place to hear it from a few seconds before. Tick it when you have heard it, '
                                  'mark it odd if it sounds wrong, and add a note if you like. Add a point here (or M) marks '
@@ -410,7 +449,9 @@ def page(a):
                 foot=labels.get('foot', f"{len(rows)} places from {', '.join(ears)}, ranked within each kind, 1 the most surprising; "
                                 'nothing in the first two seconds.'),
                 placesTitle=labels.get('placesTitle'), changesTitle=labels.get('changesTitle'),
-                takes=[dict(id=k['id'], label=k['label'], src=os.path.basename(k['src'])) for k in takes],
+                takes=[dict(id=k['id'], label=k['label'], src=os.path.basename(k['src']), parts=k.get('parts', {})) for k in takes],
+                parts=list(dict.fromkeys(g for k in takes for g in k.get('parts', {}))),
+                ears=ears, earNames=EAR_NAMES, top=a.top,
                 duration=round(dur, 3), rows=out_rows, sections=secs, keys=keys, changes=[])
     if a.changes:
         frm, to = a.changes.split(':')
@@ -421,7 +462,7 @@ def page(a):
             t0 = s[0][0]; t1 = max(max(n_[0] + n_[1] for n_ in (e[3], e[4]) if n_) for e in s)
             b0, b1 = bars[2 * n], bars[2 * n + 1]
             sounding = [n_ for e in s for n_ in (e[3], e[4]) if n_]     # a flagged place where a changed note sounds
-            here = [k + 1 for k, r in enumerate(rows) if any(n_[0] - .05 <= r['t'] <= n_[0] + n_[1] for n_ in sounding)]
+            here = [k + 1 for k, r in enumerate(rows) if any(n_[0] - .05 <= r['t'] < n_[0] + n_[1] - .02 for n_ in sounding)]
             near = [k + 1 for k, r in enumerate(rows) if k + 1 not in here and r['bar'] is not None and b0 is not None
                     and b0 <= r['bar'] <= b1]
             sec = next((x[2] for x in secs if x[0] <= t0 < x[1]), '')
@@ -440,7 +481,70 @@ def page(a):
     html = tpl.replace('__TITLE__', esc(data['title'])).replace('__DATA__', json.dumps(data, ensure_ascii=False).replace('<', '\\u003c'))
     open(a.o, 'w').write(html)
     print(f"{a.o}: {len(rows)} places, {len(data['changes'])} changed spots, takes {', '.join(k['id'] for k in takes)}; "
-          f"store {store}; publish beside it: {', '.join(os.path.basename(k['src']) for k in takes)}")
+          f"store {store}; publish beside it: {', '.join(os.path.basename(k['src']) for k in takes)}"
+          + ''.join(f"; {os.path.basename(os.path.normpath(k['dir']))}/ ({len(k['parts'])} instruments)" for k in takes if k.get('dir')))
+
+
+def parts(a):
+    """one take's instruments, each alone: the render's own stems (its render.json's mix_stem outputs, before the master), one
+    file per instrument as the score names it (a keyboard's two staves together, a part's extra desks with it), mixed to mono,
+    raised to one level (the loudest tenth of a second at -6 dBFS; --gains reuses another take's, so the same instrument in two
+    takes stays at one level), written as 64 kbps mp3 by ffmpeg; <dir>/parts.json lists them in the score's order with their
+    gains. A silent stem is left out"""
+    import numpy as np, struct
+    d = json.load(open(a.render)); here = os.path.dirname(os.path.abspath(a.render))
+    stems = {k.split(':', 1)[1]: v['path'] for k, v in d['outputs'].items() if k.startswith('mix_stem:')}
+    local = lambda p: p if os.path.exists(p) else os.path.join(here, *p.split('/')[-2:])   # rendered on another machine
+    try:                                                                # the module alone (no music21 needed): its EXPORT
+        import importlib.util
+        spec = importlib.util.spec_from_file_location('piece_for_parts', a.module); mod = importlib.util.module_from_spec(spec)
+        sys.path.insert(0, os.path.dirname(os.path.abspath(a.module))); spec.loader.exec_module(mod); E = getattr(mod, 'EXPORT', {})
+    except Exception: E = {}
+    names = E.get('names', {}); order = E.get('order', [])
+    group = lambda p: names.get(p) or names.get(p.rstrip('xp')) or p
+    seq = sorted(stems, key=lambda p: (order.index(p.rstrip('xp')) if p.rstrip('xp') in order else 99, p))
+    groups = {}
+    for p in seq: groups.setdefault(group(p), []).append(local(stems[p]))
+    old = json.load(open(os.path.join(a.gains, 'parts.json')))['gains'] if a.gains else {}
+    os.makedirs(a.o, exist_ok=True)
+    listed, gains = [], {}
+    for g, paths in groups.items():
+        x = None
+        for path in paths:
+            w, sr = read_wav(path); m = np.asarray(w, dtype=np.float64).mean(axis=1)
+            x = m if x is None else x[:len(m)] + m[:len(x)]
+        peak = float(np.abs(x).max()) if len(x) else 0.0
+        if peak < 1e-5: continue
+        win = int(sr * .1); loud = np.sqrt(np.mean(x[:len(x) // win * win].reshape(-1, win) ** 2, axis=1)).max()
+        gain = old.get(g, 10 ** (-6 / 20) / max(loud, 1e-9))
+        gain = min(gain, .98 / peak)                                    # never clipped
+        gains[g] = gain
+        pcm = (np.clip(x * gain, -1, 1) * 32767).astype('<i2').tobytes()
+        f = re.sub(r'[^A-Za-z0-9]+', '_', g).strip('_') + '.mp3'
+        r = subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 's16le', '-ar', str(sr), '-ac', '1', '-i', 'pipe:0',
+                            '-b:a', '64k', os.path.join(a.o, f)], input=pcm)
+        if r.returncode: raise SystemExit(f'ffmpeg failed on {g}')
+        listed.append([g, f])
+    json.dump(dict(render=os.path.abspath(a.render), parts=listed, gains=gains), open(os.path.join(a.o, 'parts.json'), 'w'), indent=1)
+    print(f"{a.o}: {len(listed)} instruments ({', '.join(g for g, _ in listed)})")
+
+
+def read_wav(path):
+    """a WAV's frames (frames x channels, float or int as written) and its rate, mapped from the file, not read into memory"""
+    import numpy as np, struct
+    with open(path, 'rb') as f:
+        f.read(12)
+        while True:
+            cid = f.read(4); size = struct.unpack('<I', f.read(4))[0]
+            if cid == b'fmt ': fmt = f.read(size)
+            elif cid == b'data': at = f.tell(); break
+            else: f.seek(size + (size & 1), 1)
+    tag, ch, sr = struct.unpack('<HHI', fmt[:8]); bits = struct.unpack('<H', fmt[14:16])[0]
+    if tag == 0xFFFE: tag = struct.unpack('<H', fmt[24:26])[0]
+    dt = {(3, 32): np.float32, (3, 64): np.float64, (1, 16): np.int16, (1, 32): np.int32}[(tag, bits)]
+    x = np.memmap(path, dtype=dt, mode='r', offset=at)
+    x = x[:len(x) // ch * ch].reshape(-1, ch)
+    return (x if tag == 3 else x / float(2 ** (bits - 1))), sr
 
 
 def compare(a):
@@ -464,7 +568,10 @@ def main():
     x.add_argument('--render', action='append', default=[], help="ID=a take's render.json")
     x.add_argument('--changes', help='FROM:TO, two take IDs with --render'); x.add_argument('--flags-on', dest='flags_on')
     x.add_argument('--labels'); x.add_argument('--module'); x.add_argument('--store'); x.add_argument('--top', type=int, default=20)
-    a = ap.parse_args(); dict(prepare=prepare, notagen=notagen, report=report, compare=compare, page=page)[a.cmd](a)
+    x.add_argument('--parts', action='append', default=[], help="ID=a folder `parts` wrote: the take's instruments alone")
+    x = sub.add_parser('parts'); x.add_argument('render'); x.add_argument('module'); x.add_argument('-o', required=True)
+    x.add_argument('--gains', help='a folder `parts` wrote for another take: the same level for each instrument')
+    a = ap.parse_args(); dict(prepare=prepare, notagen=notagen, report=report, compare=compare, page=page, parts=parts)[a.cmd](a)
 
 
 if __name__ == '__main__':
