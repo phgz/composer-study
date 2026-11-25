@@ -2,13 +2,15 @@
 
 Begun by Claude on 22 November 2026. It grows each time he is used.
 
-**Scope so far.** One movement: the *Heiliger Dankgesang*, the third movement of the String Quartet in A minor op. 132 (1825). **Scores:** yes. score-reader's catalogue (version 20) holds 227 of his works (the sonatas, the quartets, movements of symphonies, overtures, songs). This movement was read whole by measurement from the ready copy; each technique marked **[score]** was read there. The other late slow movements (op. 127, the Cavatina of op. 130, op. 135) were not read, and nothing else of his is covered.
+**Scope so far.** Two late slow movements: the *Heiliger Dankgesang*, the third movement of the String Quartet in A minor op. 132 (1825); and the Cavatina, the fifth of the Quartet in B flat op. 130 (1825), read by measurement on 25 November 2026 for composer-blend's piece 74b (techniques 12 to 14). **Scores:** yes. score-reader's catalogue (version 20) holds 227 of his works (the sonatas, the quartets, movements of symphonies, overtures, songs). This movement was read whole by measurement from the ready copy; each technique marked **[score]** was read there. The other late slow movements (op. 127, the Cavatina of op. 130, op. 135) were not read, and nothing else of his is covered.
 
 **Measured profile:** [`profiles/ludwig-van-beethoven.md`](../profiles/ludwig-van-beethoven.md), generated from score-reader's catalogue by `study/profiles.py`.
 
 **The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/ludwig-van-beethoven.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/ludwig-van-beethoven.md).
 
 ## Techniques
+
+### The *Heiliger Dankgesang* (String Quartet op. 132, third movement)
 
 1. **A hymn in the Lydian mode.** F with B natural where F major has B flat. In the first hymn (30 bars, 309 notes) there is not one B flat: the notes are the white keys, and one C sharp. He wrote the mode into the title.
    *Works on:* melody, harmony.
@@ -61,6 +63,21 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
     *How:* not a technique: what the movement is about, thanks after an illness he had feared would kill him.
     *Where:* the title of op. 132, third movement. [Wikipedia]
 
+### The Cavatina (String Quartet op. 130, fifth movement, 1825)
+
+12. **Every bar swells and fades, under the breath.** The Cavatina begins *sotto voce* in all four parts, and in its first eight bars every part has a crescendo and a diminuendo within a bar or two, again and again.
+    *Works on:* loudness.
+    *How:* mark the opening of a slow song *sotto voce*, and let each instrument rise and fall in loudness within each bar or two, never holding one level.
+    *Where:* op. 130, fifth movement, bars 1 to 8. **[score: op. 130 v]**
+13. **"Beklemmt": the voice breaks while the pulse goes on.** At bar 42, *pianissimo*, marked *Beklemmt* (choked, oppressed), the music turns to C flat major, then A flat minor (bars 47 and 48), and is home again at bar 49. In those bars the other three play an even pulse of triplet eighths, while the first violin's line comes in fragments: 33 of its 40 notes in bars 42 to 48 begin off the beat, and it is silent for about a third of the time.
+    *Works on:* rhythm, melody, texture.
+    *How:* hold a steady, soft pulse in the accompaniment; break the tune above it into short groups that start just after the beat, with rests between, as if short of breath; move a third away for a few bars, then come back.
+    *Where:* op. 130, fifth movement, bars 42 to 49. **[score: op. 130 v]**
+14. **What he said of it:** that he wrote it "in the tears of melancholy", and that his own music had never moved him so.
+    *Works on:* background.
+    *How:* not a technique: his words on the movement.
+    *Where:* [Wikipedia, String Quartet No. 13]
+
 ## Walks through whole works
 
 **Op. 132, third movement** (211 bars; 15 to 20 minutes). Hymn, *Molto adagio*, 4/4, bars 1 to 30: five times an introduction and a line. *Neue Kraft fühlend*, *Andante*, 3/8, D major, bars 31 to 83. Hymn again, bars 84 to 114: the tune in the first violin over moving parts. *Andante* again, bars 115 to 167, more decorated (665 thirty-seconds), with a few plucked bars. Hymn, *Mit innigster Empfindung*, bars 168 to 211: pieces of the first line passed among the four, the loud place at 188 to 193, the end very soft.
@@ -74,6 +91,8 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 | hymn 2 | 84-114 | 4/4 | 395 | quarter 136, eighth 108, half 85, dotted quarter 58 | |
 | new strength 2 | 115-167 | 3/8 | 1,254 | thirty-second 665, sixteenth 282, eighth 208 | |
 | hymn 3 | 168-211 | 4/4 | 627 | half 155, eighth 128, sixteenth 116, quarter 82 | C2 to A6 |
+
+The Cavatina, op. 130 v: 66 bars, 3/4, E flat major, *Adagio molto espressivo*, 1,218 notes; *Beklemmt* bars 42 to 49, the lower three in triplet eighths (186 of their notes there).
 
 ## What he does not do
 
@@ -89,17 +108,21 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
 
 ## Samples in score-reader's catalogue
 
-- `dcml/ABC:notes/n15op132_03.notes.tsv` (all of the above)
+- `dcml/ABC:notes/n15op132_03.notes.tsv` (techniques 1 to 11)
+- `dcml/ABC:notes/n13op130_05.notes.tsv` (12, 13)
 
 ## Not checked
 
 - That he studied Palestrina and old church music for this movement: believed from memory, not in a source read today.
 - How the introductions' figure relates to the opening of the first movement (Wikipedia says it recalls it; not measured).
 - The tempo: the file's speeds are the edition's.
+- The rest of the Cavatina (bars 9 to 41, 50 to 66): not walked; and the keys of the *Beklemmt* bars are the DCML analysts' labels.
 
 ## Sources
 
 - score-reader's catalogue, version 20, read from its ready copy: the movement above.
 - Chamber Music Society of Lincoln Center, on op. 132: https://www.chambermusicsociety.org/about-the-music/compositions/beethoven-op-132
 - Wikipedia, "String Quartet No. 15 (Beethoven)": https://en.wikipedia.org/wiki/String_Quartet_No._15_(Beethoven)
+- score-reader's catalogue, version 25, read from Philip's ready-read copy: op. 130, fifth movement (the DCML analysts' reading, with their harmony labels).
+- Wikipedia, "String Quartet No. 13 (Beethoven)", read through a fetch tool on 25 November 2026: https://en.wikipedia.org/wiki/String_Quartet_No._13_(Beethoven)
 - Wikipedia, "Symphony No. 5 (Beethoven)": https://en.wikipedia.org/wiki/Beethoven_5
