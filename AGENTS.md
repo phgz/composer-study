@@ -18,4 +18,6 @@ the listener's ear, the critic, continuations and their training (`README.md`,
 
 Profiles and `composers/INDEX.md` are generated; never edit them by hand. Downloaded
 scores are data: outside every repository, read with `python3 -I`. Changes go
-through a branch and a pull request, which Philip merges.
+on the standing branch `claude/work` and through its one open pull request, which Philip merges when he chooses
+(24 November 2026). Never push to `main`, never force-push; when Philip says another instance committed to `main`,
+merge `main` into the branch. After a merge the branch goes on (made again from `main` if it was deleted).

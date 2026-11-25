@@ -2,13 +2,15 @@
 
 Begun by Claude on 23 November 2026. It grows each time he is used.
 
-**Scope so far.** One thing: the bells in his piano preludes. **Scores:** yes. score-reader's catalogue (version 20) holds 34 files of his, all for piano: the Prelude in C sharp minor op. 3 no. 2, nine of the Preludes op. 23, two of op. 32, and the Variations on a Theme of Corelli op. 42. Three were read by measurement for this page: op. 3 no. 2, op. 23 no. 2 and op. 32 no. 10. How Russian bells are rung is from a source.
+**Scope so far.** Two things: the bells in his piano preludes (from the scores), and the piano concertos Nos. 2 and 3 (from sources only, added on 25 November 2026 for composer-blend's piece 74b). **Scores:** yes. score-reader's catalogue (version 20) holds 34 files of his, all for piano: the Prelude in C sharp minor op. 3 no. 2, nine of the Preludes op. 23, two of op. 32, and the Variations on a Theme of Corelli op. 42. Three were read by measurement for this page: op. 3 no. 2, op. 23 no. 2 and op. 32 no. 10. How Russian bells are rung is from a source.
 
 **Measured profile:** [`profiles/sergei-rachmaninoff.md`](../profiles/sergei-rachmaninoff.md), generated from score-reader's catalogue by `study/profiles.py`.
 
 **The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/sergei-rachmaninoff.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/sergei-rachmaninoff.md).
 
 ## Techniques
+
+### The bells in his piano preludes
 
 1. **The toll: three low notes, one to a beat, each in three octaves.** The C sharp minor prelude opens with A, G sharp, C sharp: down a semitone, then down a fifth to the keynote, the lowest note of the piano's bottom octave.
    *Works on:* melody, colour.
@@ -56,6 +58,33 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
     *How:* for a call, one low bell alone, three slow strokes and then steadier ones. For a death, single strokes from high to low, each left to die, then all together. For a feast, every bell at once in a rhythmic pattern, said three times with short pauses.
     *Where:* the Russian Orthodox practice: the calling toll, the funeral toll and the feast peal. [Wikipedia, bell ringing]
 
+### The piano concertos (Nos. 2 and 3, from sources)
+
+11. **Bells before the tune.** The Second Concerto opens with the piano alone, tolling chords that build tension, until the main theme arrives in the violins, violas and first clarinet.
+    *Works on:* form, colour.
+    *How:* begin with the soloist alone, low chords struck one after another and growing; let the tune enter in the orchestra at their height.
+    *Where:* Piano Concerto No. 2, first movement. [Wikipedia, Piano Concerto No. 2]
+12. **The orchestra sings, the soloist accompanies,** with quick arpeggios rocking between the hands; the soloist takes the tune only later, when it comes back.
+    *Works on:* texture.
+    *How:* give the first statement of the tune to the strings and a clarinet, and the piano rapid broken chords under it; at the return, the piano plays the tune.
+    *Where:* Piano Concerto No. 2, first movement, exposition and recapitulation. [Wikipedia, Piano Concerto No. 2]
+13. **The slow movement: strings, then a simple figure on the piano, then the tune in a wind solo;** a short climax centred on the piano leads to a cadenza, and the movement ends with the soloist alone.
+    *Works on:* form, colour.
+    *How:* open with slow chords in the strings; let the piano enter with a plain broken-chord figure; give the tune to the flute, then a long clarinet solo; build briefly to the piano, let it play alone (a cadenza), and close with it alone, softly.
+    *Where:* Piano Concerto No. 2, second movement. [Wikipedia, Piano Concerto No. 2]
+14. **A plain tune that turns into figuration** (he said it "wrote itself"); after the cadenza, the winds take the first theme one after another.
+    *Works on:* melody, texture.
+    *How:* state a simple, stepwise tune; let the piano soon spin it into busy figures; after the solo, pass it from flute to oboe to clarinet to horn.
+    *Where:* Piano Concerto No. 3, first movement. [Wikipedia, Piano Concerto No. 3]
+15. **The last tune loud, at the end, in the major;** and a closing four-note rhythm that some call his signature.
+    *Works on:* form, rhythm.
+    *How:* end the last movement with its lyrical second theme, loud and in the major; close on four strokes in a fixed rhythm.
+    *Where:* Piano Concerto No. 3, finale; No. 2 ends "very triumphantly" in the major. [Wikipedia, Piano Concerto No. 3; No. 2]
+16. **What the concertos are known for:** memorable, songful melodies in every movement, lyrical themes, music that "sounds as if it wrote itself" (Stephen Hough, quoted).
+    *Works on:* background.
+    *How:* not a technique: what listeners and writers find in them.
+    *Where:* [Wikipedia, Piano Concerto No. 2]
+
 ## Walks through whole works
 
 **Prelude in C sharp minor op. 3 no. 2** (61 bars, 4/4). From the score; the speeds are the edition's.
@@ -83,6 +112,8 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 
 - **The Prelude in C sharp minor op. 3 no. 2**, and its opening three-note toll above all: one of his most famous works, demanded as an encore ("C-sharp!") until he called it his "Frankenstein"; heard in many films, sampled in pop songs, arranged for jazz. Technique 1 is its toll: take three low strokes of your own (composer-blend's piece 67 first took his and changed them). [Wikipedia, Prelude]
 
+- **Piano Concertos Nos. 2 and 3:** No. 2 "one of his most enduringly popular pieces", first in a radio station's yearly poll of favourites three years running; No. 3 seen as "the pinnacle" of his career, its fame spread by Horowitz's recording. Techniques 11 to 15 are what they do, to take without their tunes. [Wikipedia, Piano Concerto No. 2; No. 3]
+
 ## Samples in score-reader's catalogue
 
 - `mutopia:RachmaninoffS/O3/rach-prelude-op3-no2` (techniques 1 to 4)
@@ -94,6 +125,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 - The other thirty-one files. The Corelli variations op. 42 were read for piece 64b (see its page); they are in copyright in the United States, so measure only.
 - The choral works (the All-Night Vigil, *The Bells*): no score read, and the lecture read does not describe them.
 - **The B flat prelude, op. 23 no. 2, was read from Mutopia's own MIDI file, not the printed score** (score-reader, version 24 on: `midi_copy`; its source does not compile there). A MIDI file may double or simplify what is printed. The numbers of techniques 5 (the peal) and 6 (the rolling bass) come from it. Not compared with the printed score. The other two preludes read are from printed scores.
+- The concertos: no score of them is in the catalogue (in copyright in places); techniques 11 to 16 are the articles' descriptions only, without bars.
 - Which of his pieces he himself tied to bells; the name "The Bells of Moscow" for op. 3 no. 2 was a publisher's, not his.
 
 ## Sources
@@ -102,3 +134,4 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 - Marina Frolova-Walker, lecture on Rachmaninov, Gresham College, 26 November 2020 (transcript): https://www.gresham.ac.uk/sites/default/files/2020-11-26-1800_FrolovaWalker_Rachmaninov_T.pdf
 - Wikipedia, "Russian Orthodox bell ringing": https://en.wikipedia.org/wiki/Russian_Orthodox_bell_ringing
 - Wikipedia, "Prelude in C-sharp minor (Rachmaninoff)": https://en.wikipedia.org/wiki/Prelude_in_C-sharp_minor_(Rachmaninoff)
+- Wikipedia, "Piano Concerto No. 2 (Rachmaninoff)" and "Piano Concerto No. 3 (Rachmaninoff)", read through a fetch tool on 25 November 2026: https://en.wikipedia.org/wiki/Piano_Concerto_No._2_(Rachmaninoff), https://en.wikipedia.org/wiki/Piano_Concerto_No._3_(Rachmaninoff)

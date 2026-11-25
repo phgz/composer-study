@@ -1,13 +1,17 @@
 """NotaGen writing: one piece from a prompt (period, composer, instrumentation, as NotaGen's gradio/prompts.txt lists them), with
-NotaGen's own model and sampling (its inference/utils.py from a checkout; top-k 9, top-p 0.9, temperature 1.2, its config's), on a
+NotaGen's own model and sampling (its inference/utils.py from a checkout; top-k 9, top-p 0.9, temperature 1.2, its config's,
+unless --temperature, --top-p or --top-k change them, as piece 74 raised the temperature to move its tunes off the expected), on a
 Mac's GPU (MPS), a CUDA GPU or the CPU. Its generation loop and its rest_unreduce are NotaGen's (gradio/inference.py and
 inference/inference.py, MIT licence, Copyright (c) 2025 ElectricAlexis), here with a seed, a time limit, the stream step's misnamed
 variable put right (context_tunebody_liness), and a voice list for files without %%score.
 
   python3 notagen_write.py WEIGHTS.pth NOTAGEN_CHECKOUT "Classical" "Mozart, Wolfgang Amadeus" "Chamber" -o OUT [--seed 1]
+      [--temperature 1.4] [--top-p 0.9] [--top-k 9] [--sheet] [--mscore PATH]
 
 Writes OUT/<name>.abc (as NotaGen wrote it), OUT/<name>.full.abc (every voice in every bar, X:1 first, the prompt lines left
-out: NotaGen's own output form), OUT/<name>.xml (its abc2xml.py) and OUT/<name>.mid (music21, where installed)."""
+out: NotaGen's own output form), OUT/<name>.xml (its abc2xml.py) and OUT/<name>.mid (music21, where installed); with --sheet,
+OUT/<name>-1.png, -2.png, ... too, the sheet music as MuseScore draws it (study/sheet.py; MuseScore found on the PATH, in its
+Mac app, or at --mscore)."""
 import argparse, os, re, subprocess, sys, time
 
 
@@ -54,10 +58,17 @@ def main():
     ap.add_argument('-o', required=True); ap.add_argument('--seed', type=int, default=1); ap.add_argument('--device', default='auto')
     ap.add_argument('--minutes', type=float, default=30.0); ap.add_argument('--tries', type=int, default=3)
     ap.add_argument('--trust-pickle', action='store_true')
+    ap.add_argument('--temperature', type=float); ap.add_argument('--top-p', type=float); ap.add_argument('--top-k', type=int)
+    ap.add_argument('--sheet', action='store_true'); ap.add_argument('--mscore')
     a = ap.parse_args()
+    if a.sheet:                                                     # find MuseScore before an hour of writing, not after
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); import sheet
+        if not sheet.find(a.mscore): sys.exit('--sheet: MuseScore not found (install it, or name it with --mscore)')
     sys.path.insert(0, os.path.join(a.checkout, 'inference'))
     import numpy as np, torch
     import utils as U, config as K                                  # NotaGen's inference/utils.py and config.py
+    TEMP = a.temperature if a.temperature is not None else K.TEMPERATURE
+    TOPP = a.top_p if a.top_p is not None else K.TOP_P; TOPK = a.top_k if a.top_k is not None else K.TOP_K
     from transformers import GPT2Config
     from abctoolkit.utils import Barline_regexPattern
     from abctoolkit.duration import calculate_bartext_duration
@@ -73,7 +84,7 @@ def main():
     model = model.to(dev).eval(); pz = U.Patchilizer()
     np.random.seed(a.seed); torch.manual_seed(a.seed)
     prompt = ['%' + a.period + '\n', '%' + a.composer + '\n', '%' + a.instrumentation + '\n']
-    print(f'NotaGen-X on {dev}, seed {a.seed}:', ' / '.join(p.strip('%\n') for p in prompt), flush=True)
+    print(f'NotaGen-X on {dev}, seed {a.seed}, temperature {TEMP}, top-p {TOPP}, top-k {TOPK}:', ' / '.join(p.strip('%\n') for p in prompt), flush=True)
     for attempt in range(a.tries):
         t0 = time.time(); bos = [pz.bos_token_id] * (K.PATCH_SIZE - 1) + [pz.eos_token_id]
         pp = [[ord(c) for c in p] + [pz.special_token_id] * (K.PATCH_SIZE - len(p)) for p in pz.patchilize_metadata(prompt)]
@@ -81,11 +92,11 @@ def main():
         text = list(''.join(prompt)); meta_chars, body_chars = [], []; in_body = False; ended = failed = False
         with torch.inference_mode():
             while True:
-                patch = model.generate(inp.unsqueeze(0), top_k=K.TOP_K, top_p=K.TOP_P, temperature=K.TEMPERATURE)
+                patch = model.generate(inp.unsqueeze(0), top_k=TOPK, top_p=TOPP, temperature=TEMP)
                 if not in_body and pz.decode([patch]).startswith('[r:'):         # the body begins with [r:0/
                     in_body = True
                     r0 = torch.tensor([ord(c) for c in '[r:0/']).unsqueeze(0).to(dev)
-                    patch = [ord(c) for c in '[r:0/'] + model.generate(torch.concat([inp, r0], axis=-1).unsqueeze(0), top_k=K.TOP_K, top_p=K.TOP_P, temperature=K.TEMPERATURE)
+                    patch = [ord(c) for c in '[r:0/'] + model.generate(torch.concat([inp, r0], axis=-1).unsqueeze(0), top_k=TOPK, top_p=TOPP, temperature=TEMP)
                 if patch[0] == pz.bos_token_id and patch[1] == pz.eos_token_id: ended = True; break
                 for ch in pz.decode([patch]):
                     text.append(ch); (body_chars if in_body else meta_chars).append(ch)
@@ -106,7 +117,7 @@ def main():
                     print(f'  ... {len(text)} characters, {time.time() - t0:.0f} s', flush=True)
         if failed: print(f'attempt {attempt + 1} failed after {time.time() - t0:.0f} s', flush=True); continue
         os.makedirs(a.o, exist_ok=True)
-        name = time.strftime('%Y%m%d-%H%M%S') + '_' + re.sub(r'[^A-Za-z0-9]+', '-', f'{a.composer}_{a.instrumentation}').strip('-') + f'_seed{a.seed}'
+        name = time.strftime('%Y%m%d-%H%M%S') + '_' + re.sub(r'[^A-Za-z0-9]+', '-', f'{a.composer}_{a.instrumentation}').strip('-') + f'_seed{a.seed}_t{TEMP:g}'
         abc = ''.join(text); open(os.path.join(a.o, name + '.abc'), 'w').write(abc)
         lines = [l + '\n' for l in abc.split('\n') if l]
         full = [l for l in rest_unreduce(lines, Barline_regexPattern, calculate_bartext_duration) if not (l.startswith('%') and not l.startswith('%%'))]
@@ -117,6 +128,9 @@ def main():
             try:
                 import music21; music21.converter.parse(xpath).write('midi', fp=os.path.join(a.o, name + '.mid'))
             except Exception as e: print('no MIDI:', type(e).__name__, str(e)[:200])
+            if a.sheet:
+                try: print('sheet music:', ', '.join(os.path.basename(f) for f in sheet.draw(xpath, mscore=a.mscore)))
+                except Exception as e: print('no sheet music:', type(e).__name__, str(e)[:300])
         else: print('abc2xml wrote nothing')
         print(f'written in {time.time() - t0:.0f} s: {os.path.join(a.o, name)}.*', flush=True)
         return

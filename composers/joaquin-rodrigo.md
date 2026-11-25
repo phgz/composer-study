@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026, from the sources at the end, read that day. It grows each time he is used.
 
-**Scope so far.** Two slow pieces: the Adagio of the *Concierto de Aranjuez* (1939) and the *Adagio para orquesta de instrumentos de viento* (1966); with the outer movements of the concerto for their rhythm. **Scores:** none in score-reader's catalogue (all in copyright), so nothing below was checked against his notes.
+**Scope so far.** Two slow pieces: the Adagio of the *Concierto de Aranjuez* (1939) and the *Adagio para orquesta de instrumentos de viento* (1966); with the outer movements of the concerto for their rhythm. And, added on 25 November 2026 for composer-blend's piece 74b, the *Fantasía para un gentilhombre* (1954), a guitar concerto on old dances. **Scores:** none in score-reader's catalogue (all in copyright), so nothing below was checked against his notes.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -71,6 +71,25 @@ Begun by Claude on 23 November 2026, from the sources at the end, read that day.
     *How:* not a technique: what he meant the concerto to call up, which may guide its colours.
     *Where:* his words on the *Concierto de Aranjuez*, as reported. [Wikipedia, Aranjuez]
 
+### A concerto on old dances (*Fantasía para un gentilhombre*, 1954)
+
+14. **Another composer's old dances as the material.** The four movements are made from six short dances for solo guitar by the seventeenth-century Spanish composer Gaspar Sanz (printed 1674 to 1697), most keeping Sanz's names: *Villano y ricercar*, *Españoleta y fanfarria de la caballería de Nápoles*, *Danza de las hachas*, *Canario*.
+    *Works on:* melody, form, background.
+    *How:* take short dances written for the solo instrument three centuries earlier, keep their names and tunes, and build each movement of the concerto on one or two of them.
+    *Where:* *Fantasía para un gentilhombre*, all four movements. [Wikipedia, Fantasía]
+15. **Passed back and forth.** The music goes back and forth between the solo guitar and the orchestra, again and again; that exchange is the form of every movement.
+    *Works on:* form, texture.
+    *How:* give a phrase to the soloist, the next (or the same) to the orchestra, and keep trading, rather than letting either hold the music for long.
+    *Where:* *Fantasía para un gentilhombre*, first movement and, by the source, the others. [Wikipedia, Fantasía]
+16. **A small band:** piccolo, flute, oboe, bassoon, a trumpet in C and strings, beside the guitar.
+    *Works on:* colour.
+    *How:* one of each high wind, one trumpet, strings; nothing heavy that would cover a guitar.
+    *Where:* *Fantasía para un gentilhombre*. [Wikipedia, Fantasía]
+17. **An interlude movement** links the mournful first half to the lively finale.
+    *Works on:* form.
+    *How:* between the sad movements and the last, quick one, put a short movement whose job is the turn from one to the other.
+    *Where:* *Danza de las hachas*, the third movement. [Wikipedia, Fantasía]
+
 ## Walks through whole works
 
 None yet.
@@ -88,6 +107,8 @@ None yet.
 
 - **The Adagio's melody** from the *Concierto de Aranjuez*: known through many adaptations, among them Miles Davis's *Sketches of Spain*, Chick Corea's "Spain" (which uses its opening), chart singles and films (*Brassed Off*, *School of Rock*). A low reed with a slow tune in the minor over a strummed guitar calls it up at once (composer-blend's piece 66). [Wikipedia, Aranjuez]
 
+- The ***Fantasía para un gentilhombre***: "Rodrigo's most popular work after the famous Concierto de Aranjuez"; and the old dances it is built on are Sanz's. [Wikipedia, Fantasía]
+
 ## Samples in score-reader's catalogue
 
 None: no score of his is in score-reader's catalogue.
@@ -98,11 +119,13 @@ Believed from memory, not found in a source read today:
 - that the Adagio's harmony leans on the descending four chords of flamenco, and on the Phrygian mode;
 - that its loud return is in F sharp minor;
 - that he likes a wrong-sounding second struck beside a chord note;
-- anything about the *Fantasía para un gentilhombre* or the *Concierto serenata* for harp.
+- anything about the *Concierto serenata* for harp;
+- the *Fantasía*'s keys, metres and bars: the source gives none.
 
 ## Sources
 
 - Wikipedia, "Concierto de Aranjuez": https://en.wikipedia.org/wiki/Concierto_de_Aranjuez
+- Wikipedia, "Fantasía para un gentilhombre", read through a fetch tool on 25 November 2026: https://en.wikipedia.org/wiki/Fantas%C3%ADa_para_un_gentilhombre
 - Russell Steinberg, on the concerto: https://russellsteinberg.com/blog/2013/9/26/1wyi2ixeu8mgv8b2f814zn0r0zncb0
 - Old Dominion University, note on the *Adagio* for winds: https://sites.wp.odu.edu/laurajohnson-odu/wp-content/uploads/sites/18520/2020/03/Adagio-for-Winds.pdf
 - The composer's site, "Adagio para instrumentos de viento (1966)": https://www.joaquin-rodrigo.com/index.php/en/instrumental-music/wind-orchestra/adagio-para-instrumentos-de-viento-1966

@@ -2,11 +2,11 @@
 
 Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows each time he is used.
 
-**Scope so far.** Two kinds of piece: the epic programme symphony (the Third, *Ilya Muromets*, 1911) and the late concertos for instruments and a voice without words (harp, 1938; coloratura soprano, 1943), with a line on the ballet. **Scores:** none in score-reader's catalogue (the sheet marks him "partly" readable; the catalogue of version 25 holds nothing of his), and his works are in copyright in some countries, so nothing below was checked against notes. It rests on programme notes, a recording's booklet and encyclopaedias. Added on 24 November 2026, for piece 68b: how the coloratura concerto writes the voice, from a review and an article.
+**Scope so far.** Two kinds of piece: the epic programme symphony (the Third, *Ilya Muromets*, 1911) and the late concertos for instruments and a voice without words (harp, 1938; coloratura soprano, 1943), with a line on the ballet. **Scores:** none in score-reader's catalogue (the sheet marks him "partly" readable; the catalogue of version 25 holds nothing of his), and his works are in copyright in some countries, so nothing below was checked against notes. It rests on programme notes, a recording's booklet and encyclopaedias. Added on 24 November 2026, for piece 68b: how the coloratura concerto writes the voice, from a review and an article. Added on 25 November 2026, for piece 74: the same concerto again, from two articles not read before (techniques 18 to 20).
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/reinhold-gliere.md` (piece 68: 3.5, "I was not a big fan of the piece"; piece 68b: 4.5, "Very interesting piece!").
+**The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/reinhold-gliere.md` (piece 68: 3.5, "I was not a big fan of the piece"; piece 68b: 4.5, "Very interesting piece!"; piece 74: 5, "wow I think this is among the best pieces I've heard so far. Score of 5").
 
 ## Techniques
 
@@ -102,6 +102,23 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
     *How:* for a quick finale, give the voice light runs and turns, bird calls, over a dance in the orchestra.
     *Where:* Concerto for coloratura soprano, second movement, *Allegro*. [Seen and Heard; Interlude]
 
+*Added on 25 November 2026, when he was drawn again for composer-blend's piece 74, before it was composed, from two articles not read before.*
+
+18. **A line conceived for an instrument, with almost nowhere to breathe.** The score says nothing about what kind of sound the singer should make, and marks so few breaths that the writer thinks Glière imagined the voice as an instrument without limits; another writer, cited in a later article, believes the concerto was conceived instrumentally rather than vocally, since there are very few places for the singer to breathe. It is, the later article says, the only concerto among the textless vocal works of its time (it names Villa-Lobos, Copland and Szymanowski for the others).
+    *Works on:* melody, form.
+    *Why:* the voice set in a traditionally instrumental place, its expression left to the singer. [Buja 2018; Buja 2023] *(an analysis)*
+    *How:* write the voice's phrases as long as an instrument's, joined, the gaps between them few and short; let the phrase end where the music ends it, not where a singer would breathe.
+    *Where:* Concerto for coloratura soprano, op. 82. [Buja 2018; Buja 2023]
+19. **Two movements, two qualities of the voice.** Each movement shows a different side: the *Andante* its lyricism, melancholy; the *Allegro* its brilliance, lighter.
+    *Works on:* form.
+    *How:* in a piece of two halves, give the voice its long sad line in the first and its quick bright runs in the second, so that the second answers the first.
+    *Where:* Concerto for coloratura soprano, op. 82. [Buja 2023]
+20. **An orchestra that sounds older than its year.** The writer finds it hard to imagine a work of 1942 that places itself further back in time; it brought him a Stalin Prize, first class, in 1946.
+    *Works on:* colour, background.
+    *Why:* it agrees with technique 9's reason (an old-fashioned, nostalgic idiom in the war, for relief). [Buja 2018] *(a listener)*
+    *How:* keep the orchestra's harmony and doubling of the nineteenth century around the voice: sustained strings, woodwind answers, harp, no modern clash.
+    *Where:* Concerto for coloratura soprano, op. 82. [Buja 2018]
+
 ### The ballet
 
 14. **A touch of the pentatonic for a far country.** In *The Red Poppy*, set in China, five-note touches mark the Chinese characters.
@@ -150,3 +167,5 @@ None: no score of his is in the catalogue (version 25).
 - Georg Predota, "Unsung Concertos: Reinhold Glière", Interlude, 1 February 2017: https://interlude.hk/unsung-concertos-reinhold-gliere-concerto-f-minor-coloratura-soprano-orchestra-op-82/
 - Colin Clarke, review of Prom 35 (10 August 2011), Seen and Heard International: https://seenandheard-international.com/?p=7073
 - sin80, on the Concerto for coloratura soprano: https://www.sin80.com/en/work/gliere-concerto-coloratura
+- Maureen Buja, "The Voice as Pure Instrument", Interlude, 9 March 2018 (Buja 2018): https://interlude.hk/voice-pure-instrument/
+- Maureen Buja, "An Old Genre is Given a New Voice: The Art of the Coloratura Soprano", Interlude, 15 April 2023 (Buja 2023): https://interlude.hk/an-old-genre-is-given-a-new-voice-the-art-of-the-coloratura-soprano/
