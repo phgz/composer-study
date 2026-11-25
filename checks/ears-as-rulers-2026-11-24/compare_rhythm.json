@@ -1,0 +1,110 @@
+{
+ "AMT Large": {
+  "a note off | works": {
+   "n": 150,
+   "median_place": 0.0,
+   "median_rise": 9.59,
+   "first_of_their_onset": 0.86,
+   "found at 1%": 0.78,
+   "found at 2%": 0.793,
+   "found at 5%": 0.84,
+   "found at 2%, 95% interval": [
+    0.723,
+    0.871
+   ]
+  },
+  "a note off | 64b": {
+   "n": 48,
+   "median_place": 0.0,
+   "median_rise": 12.34,
+   "first_of_their_onset": 1.0,
+   "found at 1%": 0.979,
+   "found at 2%": 0.979,
+   "found at 5%": 1.0,
+   "found at 2%, 95% interval": [
+    0.938,
+    1.0
+   ]
+  },
+  "a skip | works": {
+   "n": 150,
+   "median_place": 0.0016,
+   "median_rise": 8.39,
+   "first_of_their_onset": 0.9,
+   "found at 1%": 0.667,
+   "found at 2%": 0.713,
+   "found at 5%": 0.733,
+   "found at 2%, 95% interval": [
+    0.589,
+    0.829
+   ]
+  },
+  "a skip | 64b": {
+   "n": 48,
+   "median_place": 0.0013,
+   "median_rise": 10.44,
+   "first_of_their_onset": 0.979,
+   "found at 1%": 0.875,
+   "found at 2%": 0.917,
+   "found at 5%": 0.979,
+   "found at 2%, 95% interval": [
+    0.833,
+    0.979
+   ]
+  }
+ },
+ "AMT Medium": {
+  "a note off | works": {
+   "n": 150,
+   "median_place": 0.0,
+   "median_rise": 8.98,
+   "first_of_their_onset": 0.86,
+   "found at 1%": 0.78,
+   "found at 2%": 0.82,
+   "found at 5%": 0.84,
+   "found at 2%, 95% interval": [
+    0.746,
+    0.898
+   ]
+  },
+  "a note off | 64b": {
+   "n": 48,
+   "median_place": 0.0,
+   "median_rise": 11.64,
+   "first_of_their_onset": 1.0,
+   "found at 1%": 0.979,
+   "found at 2%": 1.0,
+   "found at 5%": 1.0,
+   "found at 2%, 95% interval": [
+    1.0,
+    1.0
+   ]
+  },
+  "a skip | works": {
+   "n": 150,
+   "median_place": 0.003,
+   "median_rise": 7.83,
+   "first_of_their_onset": 0.9,
+   "found at 1%": 0.633,
+   "found at 2%": 0.707,
+   "found at 5%": 0.74,
+   "found at 2%, 95% interval": [
+    0.586,
+    0.817
+   ]
+  },
+  "a skip | 64b": {
+   "n": 48,
+   "median_place": 0.0026,
+   "median_rise": 9.84,
+   "first_of_their_onset": 0.979,
+   "found at 1%": 0.917,
+   "found at 2%": 0.958,
+   "found at 5%": 0.979,
+   "found at 2%, 95% interval": [
+    0.896,
+    1.0
+   ]
+  }
+ }
+}

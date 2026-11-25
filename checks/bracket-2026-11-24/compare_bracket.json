@@ -1,0 +1,758 @@
+{
+ "AMT Large": {
+  "pieces": 42,
+  "linear": {
+   "mean_S": 0.131,
+   "mean_H": 0.077
+  },
+  "1 inverted U": {
+   "c": 0.0012,
+   "p": 0.4901,
+   "peak_bits": -12.714,
+   "pieces_range": [
+    0.388,
+    2.557
+   ],
+   "peak_among_pieces": false
+  },
+  "2 surprise against uncertainty": {
+   "rho": 0.09,
+   "p": 0.2813,
+   "median_S": 0.211,
+   "median_H": 0.797,
+   "share_range": [
+    0.008,
+    0.082
+   ]
+  },
+  "3 bracket at every second": {
+   "rho": -0.095,
+   "p": 0.7266,
+   "band_bits": [
+    0.712,
+    2.069
+   ],
+   "share_range": [
+    0.136,
+    0.891
+   ]
+  },
+  "passes (p < 0.0167)": [],
+  "by piece": [
+   {
+    "piece": "25",
+    "rating": 4.75,
+    "mean_S": 0.916,
+    "mean_H": 0.761,
+    "share_sure_surprised_or_unsure_unsurprised": 0.043,
+    "share_seconds_in_band": 0.52
+   },
+   {
+    "piece": "27",
+    "rating": 5.0,
+    "mean_S": 1.34,
+    "mean_H": 1.367,
+    "share_sure_surprised_or_unsure_unsurprised": 0.026,
+    "share_seconds_in_band": 0.49
+   },
+   {
+    "piece": "29",
+    "rating": 5.0,
+    "mean_S": 1.897,
+    "mean_H": 1.772,
+    "share_sure_surprised_or_unsure_unsurprised": 0.029,
+    "share_seconds_in_band": 0.425
+   },
+   {
+    "piece": "30",
+    "rating": 3.5,
+    "mean_S": 0.418,
+    "mean_H": 0.411,
+    "share_sure_surprised_or_unsure_unsurprised": 0.027,
+    "share_seconds_in_band": 0.138
+   },
+   {
+    "piece": "31",
+    "rating": 4.5,
+    "mean_S": 0.994,
+    "mean_H": 0.918,
+    "share_sure_surprised_or_unsure_unsurprised": 0.033,
+    "share_seconds_in_band": 0.324
+   },
+   {
+    "piece": "32",
+    "rating": 3.0,
+    "mean_S": 0.942,
+    "mean_H": 0.874,
+    "share_sure_surprised_or_unsure_unsurprised": 0.029,
+    "share_seconds_in_band": 0.498
+   },
+   {
+    "piece": "33",
+    "rating": 3.0,
+    "mean_S": 0.585,
+    "mean_H": 0.721,
+    "share_sure_surprised_or_unsure_unsurprised": 0.033,
+    "share_seconds_in_band": 0.379
+   },
+   {
+    "piece": "34",
+    "rating": 3.5,
+    "mean_S": 1.641,
+    "mean_H": 1.586,
+    "share_sure_surprised_or_unsure_unsurprised": 0.042,
+    "share_seconds_in_band": 0.412
+   },
+   {
+    "piece": "35",
+    "rating": 3.0,
+    "mean_S": 0.891,
+    "mean_H": 0.905,
+    "share_sure_surprised_or_unsure_unsurprised": 0.023,
+    "share_seconds_in_band": 0.287
+   },
+   {
+    "piece": "36",
+    "rating": 3.0,
+    "mean_S": 1.55,
+    "mean_H": 1.605,
+    "share_sure_surprised_or_unsure_unsurprised": 0.026,
+    "share_seconds_in_band": 0.679
+   },
+   {
+    "piece": "37",
+    "rating": 3.25,
+    "mean_S": 1.037,
+    "mean_H": 1.213,
+    "share_sure_surprised_or_unsure_unsurprised": 0.031,
+    "share_seconds_in_band": 0.812
+   },
+   {
+    "piece": "37b",
+    "rating": 3.5,
+    "mean_S": 1.371,
+    "mean_H": 1.543,
+    "share_sure_surprised_or_unsure_unsurprised": 0.033,
+    "share_seconds_in_band": 0.891
+   },
+   {
+    "piece": "38",
+    "rating": 4.0,
+    "mean_S": 1.005,
+    "mean_H": 0.97,
+    "share_sure_surprised_or_unsure_unsurprised": 0.042,
+    "share_seconds_in_band": 0.801
+   },
+   {
+    "piece": "39",
+    "rating": 3.75,
+    "mean_S": 0.823,
+    "mean_H": 0.807,
+    "share_sure_surprised_or_unsure_unsurprised": 0.037,
+    "share_seconds_in_band": 0.575
+   },
+   {
+    "piece": "43",
+    "rating": 4.5,
+    "mean_S": 1.538,
+    "mean_H": 1.253,
+    "share_sure_surprised_or_unsure_unsurprised": 0.082,
+    "share_seconds_in_band": 0.606
+   },
+   {
+    "piece": "44",
+    "rating": 4.5,
+    "mean_S": 1.456,
+    "mean_H": 1.466,
+    "share_sure_surprised_or_unsure_unsurprised": 0.032,
+    "share_seconds_in_band": 0.573
+   },
+   {
+    "piece": "45",
+    "rating": 4.0,
+    "mean_S": 1.642,
+    "mean_H": 1.641,
+    "share_sure_surprised_or_unsure_unsurprised": 0.046,
+    "share_seconds_in_band": 0.656
+   },
+   {
+    "piece": "46",
+    "rating": 4.75,
+    "mean_S": 1.281,
+    "mean_H": 1.158,
+    "share_sure_surprised_or_unsure_unsurprised": 0.041,
+    "share_seconds_in_band": 0.648
+   },
+   {
+    "piece": "48",
+    "rating": 4.0,
+    "mean_S": 1.711,
+    "mean_H": 1.622,
+    "share_sure_surprised_or_unsure_unsurprised": 0.039,
+    "share_seconds_in_band": 0.613
+   },
+   {
+    "piece": "49",
+    "rating": 5.0,
+    "mean_S": 1.714,
+    "mean_H": 1.502,
+    "share_sure_surprised_or_unsure_unsurprised": 0.062,
+    "share_seconds_in_band": 0.6
+   },
+   {
+    "piece": "50",
+    "rating": 3.0,
+    "mean_S": 1.541,
+    "mean_H": 1.462,
+    "share_sure_surprised_or_unsure_unsurprised": 0.042,
+    "share_seconds_in_band": 0.679
+   },
+   {
+    "piece": "51",
+    "rating": 3.0,
+    "mean_S": 1.997,
+    "mean_H": 1.895,
+    "share_sure_surprised_or_unsure_unsurprised": 0.024,
+    "share_seconds_in_band": 0.528
+   },
+   {
+    "piece": "52",
+    "rating": 4.0,
+    "mean_S": 2.031,
+    "mean_H": 1.862,
+    "share_sure_surprised_or_unsure_unsurprised": 0.032,
+    "share_seconds_in_band": 0.502
+   },
+   {
+    "piece": "52b",
+    "rating": 4.5,
+    "mean_S": 0.388,
+    "mean_H": 0.382,
+    "share_sure_surprised_or_unsure_unsurprised": 0.008,
+    "share_seconds_in_band": 0.136
+   },
+   {
+    "piece": "54",
+    "rating": 3.25,
+    "mean_S": 1.391,
+    "mean_H": 1.236,
+    "share_sure_surprised_or_unsure_unsurprised": 0.05,
+    "share_seconds_in_band": 0.689
+   },
+   {
+    "piece": "56",
+    "rating": 4.0,
+    "mean_S": 2.557,
+    "mean_H": 2.265,
+    "share_sure_surprised_or_unsure_unsurprised": 0.042,
+    "share_seconds_in_band": 0.136
+   },
+   {
+    "piece": "57",
+    "rating": 3.75,
+    "mean_S": 0.835,
+    "mean_H": 0.781,
+    "share_sure_surprised_or_unsure_unsurprised": 0.033,
+    "share_seconds_in_band": 0.368
+   },
+   {
+    "piece": "58",
+    "rating": 4.0,
+    "mean_S": 1.29,
+    "mean_H": 1.221,
+    "share_sure_surprised_or_unsure_unsurprised": 0.034,
+    "share_seconds_in_band": 0.611
+   },
+   {
+    "piece": "59",
+    "rating": 4.0,
+    "mean_S": 1.757,
+    "mean_H": 1.705,
+    "share_sure_surprised_or_unsure_unsurprised": 0.04,
+    "share_seconds_in_band": 0.449
+   },
+   {
+    "piece": "60",
+    "rating": 1.0,
+    "mean_S": 1.343,
+    "mean_H": 1.422,
+    "share_sure_surprised_or_unsure_unsurprised": 0.045,
+    "share_seconds_in_band": 0.798
+   },
+   {
+    "piece": "63",
+    "rating": 4.25,
+    "mean_S": 0.785,
+    "mean_H": 0.78,
+    "share_sure_surprised_or_unsure_unsurprised": 0.029,
+    "share_seconds_in_band": 0.545
+   },
+   {
+    "piece": "64",
+    "rating": 5.0,
+    "mean_S": 1.187,
+    "mean_H": 1.209,
+    "share_sure_surprised_or_unsure_unsurprised": 0.043,
+    "share_seconds_in_band": 0.724
+   },
+   {
+    "piece": "64b",
+    "rating": 4.5,
+    "mean_S": 2.047,
+    "mean_H": 1.815,
+    "share_sure_surprised_or_unsure_unsurprised": 0.027,
+    "share_seconds_in_band": 0.439
+   },
+   {
+    "piece": "65",
+    "rating": 4.75,
+    "mean_S": 1.139,
+    "mean_H": 1.154,
+    "share_sure_surprised_or_unsure_unsurprised": 0.026,
+    "share_seconds_in_band": 0.604
+   },
+   {
+    "piece": "66",
+    "rating": 4.0,
+    "mean_S": 0.954,
+    "mean_H": 0.98,
+    "share_sure_surprised_or_unsure_unsurprised": 0.05,
+    "share_seconds_in_band": 0.584
+   },
+   {
+    "piece": "67",
+    "rating": 4.0,
+    "mean_S": 0.874,
+    "mean_H": 0.855,
+    "share_sure_surprised_or_unsure_unsurprised": 0.038,
+    "share_seconds_in_band": 0.426
+   },
+   {
+    "piece": "68",
+    "rating": 3.5,
+    "mean_S": 0.954,
+    "mean_H": 0.96,
+    "share_sure_surprised_or_unsure_unsurprised": 0.016,
+    "share_seconds_in_band": 0.426
+   },
+   {
+    "piece": "68b",
+    "rating": 4.5,
+    "mean_S": 0.859,
+    "mean_H": 0.964,
+    "share_sure_surprised_or_unsure_unsurprised": 0.038,
+    "share_seconds_in_band": 0.44
+   },
+   {
+    "piece": "69",
+    "rating": 3.5,
+    "mean_S": 0.83,
+    "mean_H": 0.825,
+    "share_sure_surprised_or_unsure_unsurprised": 0.039,
+    "share_seconds_in_band": 0.488
+   },
+   {
+    "piece": "70",
+    "rating": 4.25,
+    "mean_S": 0.725,
+    "mean_H": 0.71,
+    "share_sure_surprised_or_unsure_unsurprised": 0.034,
+    "share_seconds_in_band": 0.456
+   },
+   {
+    "piece": "70b",
+    "rating": 3.75,
+    "mean_S": 0.81,
+    "mean_H": 0.815,
+    "share_sure_surprised_or_unsure_unsurprised": 0.044,
+    "share_seconds_in_band": 0.438
+   },
+   {
+    "piece": "71",
+    "rating": 5.0,
+    "mean_S": 1.559,
+    "mean_H": 1.628,
+    "share_sure_surprised_or_unsure_unsurprised": 0.034,
+    "share_seconds_in_band": 0.417
+   }
+  ]
+ },
+ "AMT Medium": {
+  "pieces": 42,
+  "linear": {
+   "mean_S": 0.098,
+   "mean_H": 0.068
+  },
+  "1 inverted U": {
+   "c": 0.0007,
+   "p": 0.4857,
+   "peak_bits": -11.128,
+   "pieces_range": [
+    0.404,
+    2.755
+   ],
+   "peak_among_pieces": false
+  },
+  "2 surprise against uncertainty": {
+   "rho": 0.189,
+   "p": 0.1114,
+   "median_S": 0.208,
+   "median_H": 0.757,
+   "share_range": [
+    0.013,
+    0.071
+   ]
+  },
+  "3 bracket at every second": {
+   "rho": -0.087,
+   "p": 0.7123,
+   "band_bits": [
+    0.751,
+    2.179
+   ],
+   "share_range": [
+    0.104,
+    0.917
+   ]
+  },
+  "passes (p < 0.0167)": [],
+  "by piece": [
+   {
+    "piece": "25",
+    "rating": 4.75,
+    "mean_S": 0.869,
+    "mean_H": 0.791,
+    "share_sure_surprised_or_unsure_unsurprised": 0.047,
+    "share_seconds_in_band": 0.496
+   },
+   {
+    "piece": "27",
+    "rating": 5.0,
+    "mean_S": 1.457,
+    "mean_H": 1.317,
+    "share_sure_surprised_or_unsure_unsurprised": 0.032,
+    "share_seconds_in_band": 0.452
+   },
+   {
+    "piece": "29",
+    "rating": 5.0,
+    "mean_S": 1.942,
+    "mean_H": 1.791,
+    "share_sure_surprised_or_unsure_unsurprised": 0.037,
+    "share_seconds_in_band": 0.449
+   },
+   {
+    "piece": "30",
+    "rating": 3.5,
+    "mean_S": 0.435,
+    "mean_H": 0.443,
+    "share_sure_surprised_or_unsure_unsurprised": 0.024,
+    "share_seconds_in_band": 0.117
+   },
+   {
+    "piece": "31",
+    "rating": 4.5,
+    "mean_S": 0.999,
+    "mean_H": 0.929,
+    "share_sure_surprised_or_unsure_unsurprised": 0.028,
+    "share_seconds_in_band": 0.378
+   },
+   {
+    "piece": "32",
+    "rating": 3.0,
+    "mean_S": 0.92,
+    "mean_H": 0.869,
+    "share_sure_surprised_or_unsure_unsurprised": 0.023,
+    "share_seconds_in_band": 0.518
+   },
+   {
+    "piece": "33",
+    "rating": 3.0,
+    "mean_S": 0.649,
+    "mean_H": 0.76,
+    "share_sure_surprised_or_unsure_unsurprised": 0.035,
+    "share_seconds_in_band": 0.391
+   },
+   {
+    "piece": "34",
+    "rating": 3.5,
+    "mean_S": 1.634,
+    "mean_H": 1.534,
+    "share_sure_surprised_or_unsure_unsurprised": 0.04,
+    "share_seconds_in_band": 0.43
+   },
+   {
+    "piece": "35",
+    "rating": 3.0,
+    "mean_S": 1.04,
+    "mean_H": 1.071,
+    "share_sure_surprised_or_unsure_unsurprised": 0.023,
+    "share_seconds_in_band": 0.346
+   },
+   {
+    "piece": "36",
+    "rating": 3.0,
+    "mean_S": 1.602,
+    "mean_H": 1.603,
+    "share_sure_surprised_or_unsure_unsurprised": 0.03,
+    "share_seconds_in_band": 0.675
+   },
+   {
+    "piece": "37",
+    "rating": 3.25,
+    "mean_S": 0.997,
+    "mean_H": 1.084,
+    "share_sure_surprised_or_unsure_unsurprised": 0.024,
+    "share_seconds_in_band": 0.781
+   },
+   {
+    "piece": "37b",
+    "rating": 3.5,
+    "mean_S": 1.339,
+    "mean_H": 1.343,
+    "share_sure_surprised_or_unsure_unsurprised": 0.037,
+    "share_seconds_in_band": 0.917
+   },
+   {
+    "piece": "38",
+    "rating": 4.0,
+    "mean_S": 1.042,
+    "mean_H": 0.925,
+    "share_sure_surprised_or_unsure_unsurprised": 0.041,
+    "share_seconds_in_band": 0.777
+   },
+   {
+    "piece": "39",
+    "rating": 3.75,
+    "mean_S": 0.902,
+    "mean_H": 0.823,
+    "share_sure_surprised_or_unsure_unsurprised": 0.033,
+    "share_seconds_in_band": 0.658
+   },
+   {
+    "piece": "43",
+    "rating": 4.5,
+    "mean_S": 1.61,
+    "mean_H": 1.204,
+    "share_sure_surprised_or_unsure_unsurprised": 0.071,
+    "share_seconds_in_band": 0.591
+   },
+   {
+    "piece": "44",
+    "rating": 4.5,
+    "mean_S": 1.55,
+    "mean_H": 1.507,
+    "share_sure_surprised_or_unsure_unsurprised": 0.036,
+    "share_seconds_in_band": 0.594
+   },
+   {
+    "piece": "45",
+    "rating": 4.0,
+    "mean_S": 1.711,
+    "mean_H": 1.612,
+    "share_sure_surprised_or_unsure_unsurprised": 0.055,
+    "share_seconds_in_band": 0.678
+   },
+   {
+    "piece": "46",
+    "rating": 4.75,
+    "mean_S": 1.31,
+    "mean_H": 1.081,
+    "share_sure_surprised_or_unsure_unsurprised": 0.046,
+    "share_seconds_in_band": 0.606
+   },
+   {
+    "piece": "48",
+    "rating": 4.0,
+    "mean_S": 1.844,
+    "mean_H": 1.691,
+    "share_sure_surprised_or_unsure_unsurprised": 0.043,
+    "share_seconds_in_band": 0.565
+   },
+   {
+    "piece": "49",
+    "rating": 5.0,
+    "mean_S": 1.692,
+    "mean_H": 1.521,
+    "share_sure_surprised_or_unsure_unsurprised": 0.055,
+    "share_seconds_in_band": 0.689
+   },
+   {
+    "piece": "50",
+    "rating": 3.0,
+    "mean_S": 1.681,
+    "mean_H": 1.388,
+    "share_sure_surprised_or_unsure_unsurprised": 0.043,
+    "share_seconds_in_band": 0.615
+   },
+   {
+    "piece": "51",
+    "rating": 3.0,
+    "mean_S": 2.129,
+    "mean_H": 1.791,
+    "share_sure_surprised_or_unsure_unsurprised": 0.039,
+    "share_seconds_in_band": 0.52
+   },
+   {
+    "piece": "52",
+    "rating": 4.0,
+    "mean_S": 2.29,
+    "mean_H": 1.795,
+    "share_sure_surprised_or_unsure_unsurprised": 0.043,
+    "share_seconds_in_band": 0.38
+   },
+   {
+    "piece": "52b",
+    "rating": 4.5,
+    "mean_S": 0.404,
+    "mean_H": 0.378,
+    "share_sure_surprised_or_unsure_unsurprised": 0.013,
+    "share_seconds_in_band": 0.131
+   },
+   {
+    "piece": "54",
+    "rating": 3.25,
+    "mean_S": 1.424,
+    "mean_H": 1.205,
+    "share_sure_surprised_or_unsure_unsurprised": 0.052,
+    "share_seconds_in_band": 0.725
+   },
+   {
+    "piece": "56",
+    "rating": 4.0,
+    "mean_S": 2.755,
+    "mean_H": 2.158,
+    "share_sure_surprised_or_unsure_unsurprised": 0.049,
+    "share_seconds_in_band": 0.104
+   },
+   {
+    "piece": "57",
+    "rating": 3.75,
+    "mean_S": 0.886,
+    "mean_H": 0.71,
+    "share_sure_surprised_or_unsure_unsurprised": 0.035,
+    "share_seconds_in_band": 0.389
+   },
+   {
+    "piece": "58",
+    "rating": 4.0,
+    "mean_S": 1.266,
+    "mean_H": 1.156,
+    "share_sure_surprised_or_unsure_unsurprised": 0.034,
+    "share_seconds_in_band": 0.642
+   },
+   {
+    "piece": "59",
+    "rating": 4.0,
+    "mean_S": 1.819,
+    "mean_H": 1.69,
+    "share_sure_surprised_or_unsure_unsurprised": 0.054,
+    "share_seconds_in_band": 0.453
+   },
+   {
+    "piece": "60",
+    "rating": 1.0,
+    "mean_S": 1.535,
+    "mean_H": 1.514,
+    "share_sure_surprised_or_unsure_unsurprised": 0.052,
+    "share_seconds_in_band": 0.78
+   },
+   {
+    "piece": "63",
+    "rating": 4.25,
+    "mean_S": 0.794,
+    "mean_H": 0.76,
+    "share_sure_surprised_or_unsure_unsurprised": 0.03,
+    "share_seconds_in_band": 0.461
+   },
+   {
+    "piece": "64",
+    "rating": 5.0,
+    "mean_S": 1.202,
+    "mean_H": 1.146,
+    "share_sure_surprised_or_unsure_unsurprised": 0.045,
+    "share_seconds_in_band": 0.7
+   },
+   {
+    "piece": "64b",
+    "rating": 4.5,
+    "mean_S": 2.13,
+    "mean_H": 1.799,
+    "share_sure_surprised_or_unsure_unsurprised": 0.033,
+    "share_seconds_in_band": 0.432
+   },
+   {
+    "piece": "65",
+    "rating": 4.75,
+    "mean_S": 1.166,
+    "mean_H": 1.169,
+    "share_sure_surprised_or_unsure_unsurprised": 0.029,
+    "share_seconds_in_band": 0.623
+   },
+   {
+    "piece": "66",
+    "rating": 4.0,
+    "mean_S": 1.008,
+    "mean_H": 0.923,
+    "share_sure_surprised_or_unsure_unsurprised": 0.041,
+    "share_seconds_in_band": 0.584
+   },
+   {
+    "piece": "67",
+    "rating": 4.0,
+    "mean_S": 0.88,
+    "mean_H": 0.81,
+    "share_sure_surprised_or_unsure_unsurprised": 0.045,
+    "share_seconds_in_band": 0.395
+   },
+   {
+    "piece": "68",
+    "rating": 3.5,
+    "mean_S": 1.031,
+    "mean_H": 0.982,
+    "share_sure_surprised_or_unsure_unsurprised": 0.029,
+    "share_seconds_in_band": 0.463
+   },
+   {
+    "piece": "68b",
+    "rating": 4.5,
+    "mean_S": 0.89,
+    "mean_H": 0.911,
+    "share_sure_surprised_or_unsure_unsurprised": 0.042,
+    "share_seconds_in_band": 0.431
+   },
+   {
+    "piece": "69",
+    "rating": 3.5,
+    "mean_S": 0.902,
+    "mean_H": 0.797,
+    "share_sure_surprised_or_unsure_unsurprised": 0.042,
+    "share_seconds_in_band": 0.545
+   },
+   {
+    "piece": "70",
+    "rating": 4.25,
+    "mean_S": 0.753,
+    "mean_H": 0.687,
+    "share_sure_surprised_or_unsure_unsurprised": 0.034,
+    "share_seconds_in_band": 0.447
+   },
+   {
+    "piece": "70b",
+    "rating": 3.75,
+    "mean_S": 0.84,
+    "mean_H": 0.776,
+    "share_sure_surprised_or_unsure_unsurprised": 0.042,
+    "share_seconds_in_band": 0.417
+   },
+   {
+    "piece": "71",
+    "rating": 5.0,
+    "mean_S": 1.632,
+    "mean_H": 1.577,
+    "share_sure_surprised_or_unsure_unsurprised": 0.049,
+    "share_seconds_in_band": 0.452
+   }
+  ]
+ }
+}

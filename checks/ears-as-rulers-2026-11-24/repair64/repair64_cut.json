@@ -1,0 +1,50 @@
+[
+ {
+  "bars": [
+   20,
+   22
+  ],
+  "file": "64b_bars_20-22_as_written_then_Claude_then_AMT.mp3",
+  "clip_seconds": 6.3,
+  "starts": [
+   0.0,
+   7.8,
+   15.6
+  ],
+  "gain_db": -4.32,
+  "fits": {
+   "claude": {
+    "gain_db": 0.0,
+    "residual": 0.0
+   },
+   "amt": {
+    "gain_db": 0.0,
+    "residual": 0.0
+   }
+  }
+ },
+ {
+  "bars": [
+   28,
+   33
+  ],
+  "file": "64b_bars_28-33_as_written_then_Claude_then_AMT.mp3",
+  "clip_seconds": 10.81,
+  "starts": [
+   0.0,
+   12.31,
+   24.63
+  ],
+  "gain_db": -4.59,
+  "fits": {
+   "claude": {
+    "gain_db": -0.001,
+    "residual": 0.0032
+   },
+   "amt": {
+    "gain_db": -0.001,
+    "residual": 0.003
+   }
+  }
+ }
+]

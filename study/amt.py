@@ -56,16 +56,17 @@ def sequence(notes, given, checkout, given_program=0):
     return seq, where
 
 
-def window(seq, start, end, checkout):
-    """triplets [start, end) as a window: the flag, then its tokens with times counted from its first"""
+def window(seq, start, end, checkout, alone=False):
+    """triplets [start, end) as a window: the flag, then its tokens with times counted from its first. The flag says controls are
+    given (ANTICIPATE), or, `alone`, that none are (AUTOREGRESS, as AMT's own generate() and its training mark such a sequence)"""
     ops, V, C = anticipation(checkout)
     w = seq[3 * start:3 * end]
     w = ops.translate(w, -ops.min_time(w, seconds=False), seconds=False)
     if ops.max_time(w, seconds=False) >= C.MAX_TIME: raise ValueError('a window longer than 100 seconds')
-    return [V.ANTICIPATE] + w
+    return [V.AUTOREGRESS if alone else V.ANTICIPATE] + w
 
 
-def windows(seq, scored, checkout, size=WINDOW):
+def windows(seq, scored, checkout, size=WINDOW, alone=False):
     """windows covering the scored triplets: [(tokens, [position of each scored note's pitch token in them])] in the order of
     `scored`. Each window after the first begins halfway through the one before, so that each note has at least half a window
     before it, or the piece's start; a window is made shorter where its times would pass 100 seconds"""
@@ -74,7 +75,7 @@ def windows(seq, scored, checkout, size=WINDOW):
     while done < last:
         e = min(n, s + size)
         while True:
-            try: toks = window(seq, s, e, checkout); break
+            try: toks = window(seq, s, e, checkout, alone); break
             except ValueError: e -= 8
         spans.append((s, e, done, toks)); done = e
         s = max(s + 1, (s + e) // 2)

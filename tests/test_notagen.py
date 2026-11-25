@@ -55,3 +55,11 @@ def test_broken_rhythm():
     assert [n[2] for n in ns] == [0, F(3, 4), F(1)] and d == F(3)
     ns, d = v.bar('c<d e>>f g2')
     assert [n[2] for n in ns] == [0, F(1, 4), F(1), F(15, 8), F(2)] and d == F(3)
+
+
+def test_lines_read_as_prepared():
+    body = ['[V:1]C2 E2|[V:2]C,4|\n', '[V:1][K:D]F2 c2|[V:2]D,4|\n', '[V:1][K:C]F2 c2|[V:2]E,4|\n']
+    meta = ['%Romantic\n', '%Chopin, Frederic\n', '%Keyboard\n', 'L:1/8\n', 'M:2/4\n', 'K:C\n', 'V:1 treble\n', 'V:2 bass\n']
+    r = G.prepare_lines(meta, body)
+    assert [n[4] for n in r['notes']['1.0']] == [60, 64, 66, 73, 65, 72]           # the inline keys read where they stand
+    assert [n[3] for n in r['notes']['2.0']] == [0.0, 2.0, 4.0]

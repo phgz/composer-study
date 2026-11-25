@@ -1,0 +1,2128 @@
+{
+ "written": [
+  "bar 21 beat 2: alto struck a second from the tenor",
+  "bar 21 beat 2: tenor struck a second from the alto",
+  "bar 30 beat 2: the alto leaps more than an octave",
+  "bar 21 beat 2: the alto a semitone from the tenor within a beat",
+  "bar 21 beat 3: the alto a semitone from the tenor within a beat",
+  "bar 30 beat 1: the alto a semitone from the tenor within a beat",
+  "bar 21 beat 2: the tenor a semitone from the alto within a beat",
+  "bar 29 beat 3: the tenor a semitone from the alto within a beat",
+  "bar 30 beat 1: the tenor a semitone from the alto within a beat"
+ ],
+ "claude": [],
+ "candidates": [
+  {
+   "file": "repair_large_1.json",
+   "model": "large",
+   "seed": 1,
+   "notes": 27,
+   "echoes": 0,
+   "faults": [
+    "bar 22 beat 1: parallel fifths, tenor and bass",
+    "bar 29 beat 3: alto struck a second from the bass",
+    "bar 21 beat 2: the alto a semitone from the tenor within a beat",
+    "bar 21 beat 2: the tenor a semitone from the alto within a beat",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      60.0,
+      0.9897,
+      62
+     ],
+     [
+      61.0,
+      0.9897,
+      61
+     ],
+     [
+      84.0,
+      0.9897,
+      64
+     ],
+     [
+      85.0,
+      0.9897,
+      62
+     ],
+     [
+      86.0,
+      0.9897,
+      65
+     ],
+     [
+      87.0,
+      0.4941,
+      64
+     ],
+     [
+      87.5,
+      0.4941,
+      61
+     ],
+     [
+      88.0,
+      0.9897,
+      61
+     ],
+     [
+      89.0,
+      0.9897,
+      61
+     ],
+     [
+      90.0,
+      2.0,
+      60
+     ],
+     [
+      92.0,
+      1.956,
+      60
+     ]
+    ],
+    "tenor": [
+     [
+      60.0,
+      0.9897,
+      55
+     ],
+     [
+      61.0,
+      0.9897,
+      50
+     ],
+     [
+      62.0,
+      0.9897,
+      54
+     ],
+     [
+      62.0,
+      0.9897,
+      59
+     ],
+     [
+      84.0,
+      0.9897,
+      55
+     ],
+     [
+      85.0,
+      0.9897,
+      55
+     ],
+     [
+      86.0,
+      0.9897,
+      56
+     ],
+     [
+      87.0,
+      0.9897,
+      57
+     ],
+     [
+      88.0,
+      0.9897,
+      52
+     ],
+     [
+      89.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      52
+     ],
+     [
+      91.0,
+      2.9461,
+      53
+     ],
+     [
+      93.956,
+      2.699,
+      52
+     ],
+     [
+      93.956,
+      2.699,
+      59
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_large_2.json",
+   "model": "large",
+   "seed": 2,
+   "notes": 18,
+   "echoes": 2,
+   "faults": [
+    "bar 31 beat 1: parallel octaves, tune and alto",
+    "bar 31 beat 3: parallel fifths, tune and alto",
+    "bar 32 beat 1: parallel octaves, tune and tenor",
+    "bar 30 beat 1: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      86.0,
+      0.9897,
+      64
+     ],
+     [
+      87.0,
+      2.0,
+      64
+     ],
+     [
+      88.0,
+      2.0,
+      61
+     ],
+     [
+      89.0,
+      0.9897,
+      64
+     ],
+     [
+      90.0,
+      0.9897,
+      64
+     ],
+     [
+      91.0,
+      0.9897,
+      65
+     ],
+     [
+      92.0,
+      1.956,
+      62
+     ],
+     [
+      93.956,
+      1.7203,
+      60
+     ]
+    ],
+    "tenor": [
+     [
+      60.0,
+      2.9897,
+      47
+     ],
+     [
+      60.0,
+      3.0103,
+      59
+     ],
+     [
+      84.0,
+      2.0,
+      56
+     ],
+     [
+      84.0,
+      3.0103,
+      52
+     ],
+     [
+      87.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      59
+     ],
+     [
+      91.0,
+      2.0,
+      57
+     ],
+     [
+      93.0,
+      2.7013,
+      55
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_large_3.json",
+   "model": "large",
+   "seed": 3,
+   "notes": 26,
+   "echoes": 1,
+   "faults": [
+    "bar 29 beat 2: the alto a semitone from the tenor within a beat",
+    "bar 21 beat 2: three inner notes",
+    "bar 21 beat 3: three inner notes",
+    "bar 22 beat 1: three inner notes",
+    "bar 31 beat 1: three inner notes",
+    "bar 31 beat 2: three inner notes",
+    "bar 31 beat 3: three inner notes",
+    "bar 32 beat 1: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      60.0,
+      3.0103,
+      66
+     ],
+     [
+      85.0,
+      0.9897,
+      63
+     ],
+     [
+      86.0,
+      0.9897,
+      64
+     ],
+     [
+      87.0,
+      2.0,
+      64
+     ],
+     [
+      89.0,
+      1.0103,
+      62
+     ],
+     [
+      90.0,
+      1.0103,
+      64
+     ],
+     [
+      91.0,
+      1.0103,
+      65
+     ],
+     [
+      92.0,
+      1.0099,
+      60
+     ],
+     [
+      93.0,
+      1.0603,
+      60
+     ]
+    ],
+    "tenor": [
+     [
+      60.0,
+      1.0103,
+      59
+     ],
+     [
+      61.0,
+      1.0103,
+      57
+     ],
+     [
+      62.0,
+      1.0103,
+      59
+     ],
+     [
+      84.0,
+      0.9897,
+      52
+     ],
+     [
+      84.0,
+      0.9897,
+      59
+     ],
+     [
+      85.0,
+      0.9897,
+      54
+     ],
+     [
+      86.0,
+      0.9897,
+      55
+     ],
+     [
+      87.0,
+      0.9897,
+      57
+     ],
+     [
+      88.0,
+      0.9897,
+      52
+     ],
+     [
+      89.0,
+      1.0103,
+      55
+     ],
+     [
+      90.0,
+      1.0103,
+      55
+     ],
+     [
+      91.0,
+      2.0,
+      57
+     ],
+     [
+      93.0,
+      2.0497,
+      52
+     ],
+     [
+      94.1021,
+      1.9544,
+      59
+     ],
+     [
+      95.1571,
+      1.1168,
+      52
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_large_4.json",
+   "model": "large",
+   "seed": 4,
+   "notes": 15,
+   "echoes": 0,
+   "faults": [
+    "bar 32 beat 1: the tenor a semitone from the alto within a beat",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes",
+    "bar 21 beat 1: no inner note",
+    "bar 21 beat 2: no inner note",
+    "bar 21 beat 3: no inner note"
+   ],
+   "voices": {
+    "alto": [
+     [
+      87.0,
+      0.9897,
+      61
+     ],
+     [
+      88.0,
+      2.9897,
+      61
+     ],
+     [
+      91.0,
+      0.9897,
+      65
+     ],
+     [
+      92.0,
+      0.9897,
+      60
+     ]
+    ],
+    "tenor": [
+     [
+      84.0,
+      0.9897,
+      56
+     ],
+     [
+      84.0,
+      2.9897,
+      59
+     ],
+     [
+      85.0,
+      2.9897,
+      56
+     ],
+     [
+      88.0,
+      0.9897,
+      52
+     ],
+     [
+      89.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      58
+     ],
+     [
+      91.0,
+      2.0,
+      57
+     ],
+     [
+      93.0,
+      3.0029,
+      52
+     ],
+     [
+      93.0,
+      3.0029,
+      59
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_large_5.json",
+   "model": "large",
+   "seed": 5,
+   "notes": 27,
+   "echoes": 1,
+   "faults": [
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes",
+    "bar 21 beat 1: no inner note",
+    "bar 21 beat 2: no inner note",
+    "bar 21 beat 3: no inner note"
+   ],
+   "voices": {
+    "alto": [
+     [
+      85.0,
+      0.4941,
+      64
+     ],
+     [
+      86.0,
+      0.4941,
+      64
+     ],
+     [
+      86.5,
+      0.4941,
+      62
+     ],
+     [
+      87.0,
+      0.4941,
+      61
+     ],
+     [
+      87.5,
+      0.4941,
+      60
+     ],
+     [
+      88.0,
+      0.4941,
+      61
+     ],
+     [
+      88.5,
+      0.4941,
+      61
+     ],
+     [
+      89.0,
+      0.4941,
+      64
+     ],
+     [
+      89.5,
+      0.4941,
+      67
+     ],
+     [
+      90.0,
+      0.4941,
+      64
+     ],
+     [
+      91.0,
+      2.0,
+      62
+     ],
+     [
+      93.0,
+      3.0029,
+      64
+     ]
+    ],
+    "tenor": [
+     [
+      84.0,
+      0.9897,
+      52
+     ],
+     [
+      85.0,
+      0.9897,
+      55
+     ],
+     [
+      85.5,
+      0.4941,
+      59
+     ],
+     [
+      86.0,
+      0.9897,
+      56
+     ],
+     [
+      87.0,
+      0.9897,
+      57
+     ],
+     [
+      88.0,
+      0.9897,
+      52
+     ],
+     [
+      89.0,
+      0.9897,
+      58
+     ],
+     [
+      90.0,
+      0.9897,
+      55
+     ],
+     [
+      90.5,
+      0.4941,
+      59
+     ],
+     [
+      91.0,
+      0.9897,
+      57
+     ],
+     [
+      92.0,
+      0.9897,
+      59
+     ],
+     [
+      93.0,
+      1.0788,
+      55
+     ],
+     [
+      94.1021,
+      3.2348,
+      56
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_large_6.json",
+   "model": "large",
+   "seed": 6,
+   "notes": 19,
+   "echoes": 0,
+   "faults": [
+    "bar 32 beat 3.9999: tenor struck a second from the alto",
+    "bar 32 beat 3.9999: the tenor a semitone from the alto within a beat",
+    "bar 32 beat 1.9369: three inner notes",
+    "bar 32 beat 2.4066: three inner notes",
+    "bar 32 beat 3.2544: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes",
+    "bar 21 beat 1: no inner note",
+    "bar 21 beat 2: no inner note",
+    "bar 21 beat 3: no inner note"
+   ],
+   "voices": {
+    "alto": [
+     [
+      84.0,
+      2.9897,
+      64
+     ],
+     [
+      87.0,
+      0.9897,
+      61
+     ],
+     [
+      87.0,
+      0.9897,
+      64
+     ],
+     [
+      88.0,
+      2.0,
+      61
+     ],
+     [
+      88.0,
+      2.0,
+      64
+     ],
+     [
+      90.0,
+      2.0,
+      60
+     ],
+     [
+      90.0,
+      2.0,
+      64
+     ],
+     [
+      92.0,
+      2.4574,
+      60
+     ],
+     [
+      94.4066,
+      0.8394,
+      60
+     ],
+     [
+      95.2544,
+      1.6081,
+      60
+     ]
+    ],
+    "tenor": [
+     [
+      84.0,
+      2.9897,
+      56
+     ],
+     [
+      92.0,
+      0.9897,
+      57
+     ],
+     [
+      93.0,
+      0.8673,
+      57
+     ],
+     [
+      93.9369,
+      1.3222,
+      52
+     ],
+     [
+      93.9369,
+      1.3222,
+      57
+     ],
+     [
+      95.2544,
+      1.6081,
+      52
+     ],
+     [
+      95.2544,
+      1.6081,
+      57
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_large_7.json",
+   "model": "large",
+   "seed": 7,
+   "notes": 20,
+   "echoes": 0,
+   "faults": [
+    "bar 21 beat 3: parallel fifths, tune and alto",
+    "bar 32 beat 1: parallel octaves, tune and tenor",
+    "bar 21 beat 2: three inner notes",
+    "bar 22 beat 1: three inner notes",
+    "bar 22 beat 1.5: three inner notes",
+    "bar 22 beat 2: three inner notes",
+    "bar 31 beat 2: three inner notes",
+    "bar 31 beat 3: three inner notes",
+    "bar 32 beat 1: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      60.0,
+      1.0103,
+      66
+     ],
+     [
+      61.0,
+      3.0103,
+      67
+     ],
+     [
+      84.0,
+      2.0,
+      64
+     ],
+     [
+      86.0,
+      2.0,
+      64
+     ],
+     [
+      88.0,
+      2.0,
+      64
+     ],
+     [
+      90.0,
+      2.9897,
+      64
+     ],
+     [
+      91.0,
+      0.9897,
+      65
+     ],
+     [
+      92.0,
+      0.9897,
+      65
+     ],
+     [
+      93.0,
+      3.0029,
+      64
+     ]
+    ],
+    "tenor": [
+     [
+      60.0,
+      4.0206,
+      59
+     ],
+     [
+      84.0,
+      0.9897,
+      56
+     ],
+     [
+      85.0,
+      2.0,
+      56
+     ],
+     [
+      87.0,
+      2.0,
+      57
+     ],
+     [
+      89.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      58
+     ],
+     [
+      91.0,
+      2.0,
+      57
+     ],
+     [
+      93.0,
+      0.9223,
+      55
+     ],
+     [
+      93.0,
+      3.0029,
+      52
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_large_8.json",
+   "model": "large",
+   "seed": 8,
+   "notes": 19,
+   "echoes": 0,
+   "faults": [
+    "bar 30 beat 3.5: parallel octaves, tune and alto",
+    "bar 31 beat 1: parallel octaves, tune and alto",
+    "bar 21 beat 2: alto struck a second from the tenor",
+    "bar 21 beat 2: three inner notes",
+    "bar 30 beat 1: three inner notes",
+    "bar 30 beat 3: three inner notes",
+    "bar 32 beat 1: three inner notes",
+    "bar 32 beat 1.5162: three inner notes",
+    "bar 32 beat 2.0483: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      60.0,
+      1.0103,
+      66
+     ],
+     [
+      61.0,
+      1.0103,
+      64
+     ],
+     [
+      61.0,
+      1.0103,
+      67
+     ],
+     [
+      87.0,
+      0.9897,
+      60
+     ],
+     [
+      87.0,
+      2.0206,
+      64
+     ],
+     [
+      88.0,
+      2.0,
+      61
+     ],
+     [
+      89.0,
+      2.0,
+      64
+     ],
+     [
+      91.0,
+      2.0,
+      64
+     ],
+     [
+      93.0,
+      3.0029,
+      64
+     ]
+    ],
+    "tenor": [
+     [
+      60.0,
+      1.0103,
+      54
+     ],
+     [
+      84.0,
+      0.9897,
+      55
+     ],
+     [
+      84.0,
+      2.9897,
+      59
+     ],
+     [
+      85.0,
+      2.0206,
+      56
+     ],
+     [
+      90.0,
+      3.0099,
+      55
+     ],
+     [
+      93.0,
+      0.5624,
+      52
+     ],
+     [
+      93.5162,
+      0.5574,
+      52
+     ],
+     [
+      94.0483,
+      1.9262,
+      52
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_medium_1.json",
+   "model": "medium",
+   "seed": 1,
+   "notes": 21,
+   "echoes": 1,
+   "faults": [
+    "bar 31 beat 1: parallel octaves, tune and tenor",
+    "bar 29 beat 2: tenor struck a second from the bass",
+    "bar 32 beat 1: the tenor a semitone from the alto within a beat",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes",
+    "bar 21 beat 1: no inner note"
+   ],
+   "voices": {
+    "alto": [
+     [
+      61.5,
+      0.9897,
+      63
+     ],
+     [
+      87.0,
+      0.9897,
+      64
+     ],
+     [
+      88.0,
+      2.0,
+      64
+     ],
+     [
+      90.0,
+      0.9897,
+      64
+     ],
+     [
+      91.0,
+      0.9897,
+      65
+     ],
+     [
+      92.0,
+      0.9897,
+      63
+     ],
+     [
+      93.0,
+      3.0029,
+      64
+     ]
+    ],
+    "tenor": [
+     [
+      61.0,
+      0.9897,
+      59
+     ],
+     [
+      62.0,
+      0.9897,
+      59
+     ],
+     [
+      84.0,
+      0.9897,
+      52
+     ],
+     [
+      84.0,
+      2.9897,
+      59
+     ],
+     [
+      85.0,
+      0.9897,
+      51
+     ],
+     [
+      86.0,
+      0.9897,
+      50
+     ],
+     [
+      87.0,
+      0.9897,
+      48
+     ],
+     [
+      88.0,
+      2.0,
+      49
+     ],
+     [
+      90.0,
+      0.9897,
+      52
+     ],
+     [
+      91.0,
+      0.9897,
+      57
+     ],
+     [
+      92.0,
+      0.9897,
+      59
+     ],
+     [
+      93.0,
+      3.0029,
+      52
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_medium_2.json",
+   "model": "medium",
+   "seed": 2,
+   "notes": 25,
+   "echoes": 0,
+   "faults": [
+    "bar 29 beat 1.5: alto struck a second from the tenor",
+    "bar 29 beat 1.5: the alto a semitone from the tenor within a beat",
+    "bar 29 beat 2: the tenor a semitone from the alto within a beat",
+    "bar 22 beat 1.5: three inner notes",
+    "bar 29 beat 1.5: three inner notes",
+    "bar 29 beat 3: three inner notes",
+    "bar 32 beat 2.8401: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      60.0,
+      2.0,
+      62
+     ],
+     [
+      62.0,
+      2.0,
+      67
+     ],
+     [
+      84.5,
+      0.4941,
+      60
+     ],
+     [
+      86.0,
+      0.9897,
+      64
+     ],
+     [
+      87.0,
+      0.9897,
+      61
+     ],
+     [
+      88.0,
+      0.9897,
+      64
+     ],
+     [
+      89.0,
+      0.9897,
+      67
+     ],
+     [
+      90.0,
+      0.9897,
+      64
+     ],
+     [
+      91.0,
+      0.9897,
+      69
+     ]
+    ],
+    "tenor": [
+     [
+      60.0,
+      2.0,
+      55
+     ],
+     [
+      62.0,
+      0.9897,
+      55
+     ],
+     [
+      84.0,
+      0.9897,
+      59
+     ],
+     [
+      84.0,
+      2.0206,
+      56
+     ],
+     [
+      85.0,
+      0.9897,
+      59
+     ],
+     [
+      86.0,
+      0.9897,
+      52
+     ],
+     [
+      87.0,
+      0.9897,
+      52
+     ],
+     [
+      88.0,
+      0.9897,
+      52
+     ],
+     [
+      89.0,
+      0.9897,
+      52
+     ],
+     [
+      90.0,
+      0.9897,
+      55
+     ],
+     [
+      91.0,
+      2.0,
+      57
+     ],
+     [
+      92.0,
+      2.8489,
+      59
+     ],
+     [
+      93.0,
+      3.0029,
+      52
+     ],
+     [
+      94.8401,
+      0.9114,
+      59
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_medium_3.json",
+   "model": "medium",
+   "seed": 3,
+   "notes": 19,
+   "echoes": 1,
+   "faults": [
+    "bar 22 beat 1: three inner notes",
+    "bar 22 beat 1.5: three inner notes",
+    "bar 22 beat 2: three inner notes",
+    "bar 30 beat 1.5: three inner notes",
+    "bar 30 beat 2: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      60.0,
+      3.0103,
+      66
+     ],
+     [
+      61.0,
+      3.0103,
+      63
+     ],
+     [
+      88.0,
+      2.0,
+      61
+     ],
+     [
+      90.0,
+      2.0,
+      60
+     ]
+    ],
+    "tenor": [
+     [
+      84.0,
+      0.9897,
+      52
+     ],
+     [
+      84.0,
+      0.9897,
+      56
+     ],
+     [
+      85.0,
+      0.9897,
+      56
+     ],
+     [
+      86.0,
+      0.9897,
+      55
+     ],
+     [
+      86.0,
+      2.0,
+      59
+     ],
+     [
+      87.0,
+      0.5647,
+      54
+     ],
+     [
+      87.5,
+      0.5647,
+      52
+     ],
+     [
+      88.0,
+      2.0,
+      52
+     ],
+     [
+      90.0,
+      2.0,
+      52
+     ],
+     [
+      92.0,
+      1.956,
+      57
+     ],
+     [
+      92.0,
+      1.956,
+      59
+     ],
+     [
+      93.956,
+      2.2722,
+      52
+     ],
+     [
+      93.956,
+      2.2722,
+      59
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_medium_4.json",
+   "model": "medium",
+   "seed": 4,
+   "notes": 23,
+   "echoes": 1,
+   "faults": [
+    "bar 31 beat 1: parallel octaves, tune and alto",
+    "bar 32 beat 1: tenor struck a second from the alto",
+    "bar 31 beat 3.5: three inner notes",
+    "bar 32 beat 1: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes",
+    "bar 21 beat 1: no inner note"
+   ],
+   "voices": {
+    "alto": [
+     [
+      61.0,
+      2.0,
+      67
+     ],
+     [
+      84.0,
+      2.0,
+      64
+     ],
+     [
+      86.0,
+      0.9897,
+      61
+     ],
+     [
+      87.0,
+      0.9897,
+      61
+     ],
+     [
+      88.0,
+      2.0,
+      61
+     ],
+     [
+      90.0,
+      0.9897,
+      64
+     ],
+     [
+      91.0,
+      0.9897,
+      65
+     ],
+     [
+      92.0,
+      0.5647,
+      69
+     ],
+     [
+      92.5,
+      0.5619,
+      65
+     ],
+     [
+      93.0,
+      3.0029,
+      64
+     ]
+    ],
+    "tenor": [
+     [
+      61.0,
+      2.0,
+      55
+     ],
+     [
+      84.0,
+      0.9897,
+      56
+     ],
+     [
+      85.0,
+      0.9897,
+      54
+     ],
+     [
+      86.0,
+      0.9897,
+      55
+     ],
+     [
+      87.0,
+      0.9897,
+      57
+     ],
+     [
+      88.0,
+      0.9897,
+      52
+     ],
+     [
+      89.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      52
+     ],
+     [
+      91.0,
+      2.0,
+      57
+     ],
+     [
+      93.0,
+      3.0029,
+      52
+     ],
+     [
+      93.0,
+      3.0029,
+      59
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_medium_5.json",
+   "model": "medium",
+   "seed": 5,
+   "notes": 20,
+   "echoes": 2,
+   "faults": [
+    "bar 29 beat 3: tenor under bass",
+    "bar 29 beat 3.5: tenor under bass",
+    "bar 30 beat 3.5: tune under alto",
+    "bar 31 beat 2: tune under alto",
+    "bar 32 beat 1: tune under alto",
+    "bar 32 beat 1: tenor struck a second from the alto",
+    "bar 30 beat 2: the alto leaps more than an octave",
+    "bar 31 beat 2: the alto leaps more than an octave",
+    "bar 33 beat 1: the alto leaps more than an octave",
+    "bar 22 beat 1.5: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      60.0,
+      2.0,
+      62
+     ],
+     [
+      60.0,
+      2.0,
+      66
+     ],
+     [
+      62.0,
+      2.0,
+      66
+     ],
+     [
+      88.0,
+      0.9897,
+      73
+     ],
+     [
+      89.0,
+      0.9897,
+      76
+     ],
+     [
+      90.0,
+      0.9897,
+      72
+     ],
+     [
+      91.0,
+      0.9897,
+      81
+     ],
+     [
+      91.0,
+      2.0,
+      60
+     ],
+     [
+      92.0,
+      3.6595,
+      72
+     ]
+    ],
+    "tenor": [
+     [
+      84.0,
+      0.9897,
+      52
+     ],
+     [
+      84.0,
+      2.0,
+      56
+     ],
+     [
+      85.0,
+      2.0,
+      50
+     ],
+     [
+      86.0,
+      2.0,
+      54
+     ],
+     [
+      87.0,
+      0.9897,
+      49
+     ],
+     [
+      88.0,
+      0.9897,
+      52
+     ],
+     [
+      89.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      55
+     ],
+     [
+      93.0,
+      3.0029,
+      59
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_medium_6.json",
+   "model": "medium",
+   "seed": 6,
+   "notes": 21,
+   "echoes": 1,
+   "faults": [
+    "bar 33 beat 1: tenor under bass",
+    "bar 21 beat 2: three inner notes",
+    "bar 21 beat 3: three inner notes",
+    "bar 22 beat 1: three inner notes",
+    "bar 30 beat 3: three inner notes",
+    "bar 31 beat 3: three inner notes",
+    "bar 32 beat 2.8401: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      60.0,
+      3.0103,
+      63
+     ]
+    ],
+    "tenor": [
+     [
+      60.0,
+      1.0103,
+      51
+     ],
+     [
+      61.0,
+      1.0103,
+      55
+     ],
+     [
+      62.0,
+      1.0103,
+      57
+     ],
+     [
+      84.0,
+      0.9897,
+      56
+     ],
+     [
+      84.0,
+      2.9897,
+      59
+     ],
+     [
+      85.0,
+      0.9897,
+      54
+     ],
+     [
+      86.0,
+      0.9897,
+      55
+     ],
+     [
+      87.0,
+      2.0206,
+      49
+     ],
+     [
+      87.0,
+      2.0206,
+      55
+     ],
+     [
+      89.0,
+      0.9897,
+      49
+     ],
+     [
+      89.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      48
+     ],
+     [
+      90.0,
+      2.0206,
+      53
+     ],
+     [
+      91.0,
+      0.9897,
+      57
+     ],
+     [
+      92.0,
+      0.9897,
+      48
+     ],
+     [
+      92.0,
+      2.8667,
+      53
+     ],
+     [
+      93.0,
+      3.0029,
+      47
+     ],
+     [
+      94.8401,
+      1.4948,
+      52
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_medium_7.json",
+   "model": "medium",
+   "seed": 7,
+   "notes": 19,
+   "echoes": 0,
+   "faults": [
+    "bar 22 beat 1.5: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes"
+   ],
+   "voices": {
+    "alto": [
+     [
+      84.0,
+      2.0,
+      64
+     ],
+     [
+      86.0,
+      0.9897,
+      62
+     ],
+     [
+      87.0,
+      0.9897,
+      61
+     ],
+     [
+      88.0,
+      0.9897,
+      64
+     ],
+     [
+      89.0,
+      0.9897,
+      64
+     ],
+     [
+      90.0,
+      0.9897,
+      64
+     ],
+     [
+      91.0,
+      0.9897,
+      69
+     ],
+     [
+      93.0,
+      3.0029,
+      64
+     ]
+    ],
+    "tenor": [
+     [
+      60.0,
+      2.0,
+      54
+     ],
+     [
+      62.0,
+      2.0,
+      59
+     ],
+     [
+      84.0,
+      0.9897,
+      56
+     ],
+     [
+      85.0,
+      2.9897,
+      59
+     ],
+     [
+      88.0,
+      0.9897,
+      55
+     ],
+     [
+      89.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      55
+     ],
+     [
+      91.0,
+      2.0,
+      57
+     ],
+     [
+      92.0,
+      2.7072,
+      59
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  },
+  {
+   "file": "repair_medium_8.json",
+   "model": "medium",
+   "seed": 8,
+   "notes": 18,
+   "echoes": 0,
+   "faults": [
+    "bar 22 beat 1: three inner notes",
+    "bar 22 beat 1.5: three inner notes",
+    "bar 22 beat 2: three inner notes",
+    "bar 32 beat 3.9999: three inner notes",
+    "bar 33 beat 1: unison",
+    "bar 33 beat 1: three inner notes",
+    "bar 33 beat 1.5: unison",
+    "bar 33 beat 1.5: three inner notes",
+    "bar 33 beat 2: three inner notes",
+    "bar 21 beat 1: no inner note"
+   ],
+   "voices": {
+    "alto": [
+     [
+      61.0,
+      2.0206,
+      64
+     ],
+     [
+      85.0,
+      2.0,
+      62
+     ],
+     [
+      87.0,
+      0.9897,
+      61
+     ],
+     [
+      88.0,
+      2.9897,
+      61
+     ],
+     [
+      91.0,
+      2.0,
+      60
+     ]
+    ],
+    "tenor": [
+     [
+      61.0,
+      3.0103,
+      55
+     ],
+     [
+      84.0,
+      0.9897,
+      55
+     ],
+     [
+      84.0,
+      0.9897,
+      59
+     ],
+     [
+      85.0,
+      0.9897,
+      56
+     ],
+     [
+      86.0,
+      0.9897,
+      56
+     ],
+     [
+      87.0,
+      0.9897,
+      57
+     ],
+     [
+      88.0,
+      0.9897,
+      52
+     ],
+     [
+      89.0,
+      0.9897,
+      55
+     ],
+     [
+      90.0,
+      0.9897,
+      55
+     ],
+     [
+      91.0,
+      2.0,
+      57
+     ],
+     [
+      93.0,
+      3.0029,
+      59
+     ],
+     [
+      95.9999,
+      0.487,
+      56
+     ],
+     [
+      95.9999,
+      1.0011,
+      59
+     ]
+    ]
+   }
+  }
+ ]
+}
