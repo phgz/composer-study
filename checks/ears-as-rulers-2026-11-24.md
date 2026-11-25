@@ -321,4 +321,48 @@ Use AMT's checkout path as for the earlier writing. Commit the sixteen `repair_*
 - **What it suggests:** in this piano texture, the inner voices sit under what he listens to. A place can sound a little off without a cleaner version sounding clearly better. So a check that fixes inner-voice slips changes little of what he hears in this texture. The tune, the bass, the form and other textures are not tested by this.
 - **What would tell more:** whether the four ears find the moments Philip himself named in past pieces. For example, "2:46 sounds out of place" in piece 34, and the two ornamented spots that "sounded strange" in "Said Again".
 
+## The rhythm test (`prepare_rhythm.py`, `compare_rhythm.py`)
+
+**Why:** Philip, asked what the glitches he has heard in the pieces were like: "mostly a wrong-sounding note or a stumble in the rhythm". The glitch test covered wrong notes. This covers stumbles, by a new measure: the bits of each note's onset. `study/amt_score.py` now keeps it as a fourth number for each note, and the bits of its length as a fifth.
+
+**The records hold almost none of his own named moments to check against.**
+- The one named moment there is "2:46 sounds out of place" in piece 34: a stroke on gongs. The bracket test's drum list leaves gongs out, and AMT hears every part on a piano.
+- Piece 38's "glitches" came from the player inside the app, not from the file.
+- "Said Again" (the practice round) and the cross-genre morphs are not in these repositories.
+- So the test is planted again, and then forward: see below.
+
+**The stumbles:** two kinds, each in copies of their own, in the 27 works of the glitch test and in 64b. They are picked as the wrong notes were: notes an eighth or longer, spaced, as many per work, and in 64b three sets of sixteen.
+- **A note off:** one note begun a sixteenth early or late, its end kept.
+- **A skip:** a sixteenth of time taken out at one onset. Every note from there on comes a sixteenth early, and a note sounding across it is a sixteenth shorter.
+- **The sixteenth:** a sixth of a second in the works (a quarter note at 90). In 64b, a quarter of the beat at that moment in its tempo map.
+
+**The measure:**
+- **What counts as the stumble:** the onset bits of the moved note, or of the first onset after the skip (its lowest note).
+- **The comparison:** the lowest note of every other onset in the copy. The other notes of a chord cost next to nothing.
+- **Found at 2%:** as in the glitch test.
+
+**Predictions, written before anything was scored (Claude's):**
+1. **Works, a note off:** AMT Large finds at least 50% at 2%.
+2. **Works, a skip:** at least 60% at 2%. A skip moves the whole pulse, and AMT hears the beat.
+3. **64b:** fewer than the works for both kinds; a note off 20% to 50%, a skip 30% to 60%. 64b's tempo changes make every onset a little less certain.
+4. **AMT Medium:** within 10 points of Large.
+
+**What decides it (written now):** the rhythm check is kept if, in 64b, AMT Large finds at least half of either kind at 2%.
+
+**Then forward, on the next new piece:**
+- Before Philip hears it, the four ears (notes) and AMT (onsets) list its most surprising moments.
+- The list is written into the piece's folder and not shown to him.
+- He listens as he always does. When a note or a stumble sounds wrong, he says roughly when.
+- Afterwards, his moments are set beside the list. This is not a blind test: he hears the piece as usual and nothing is hidden from him except the list.
+
+**Running it on the Mac:** `study/amt_score.py` has changed again; pull the branch first.
+
+```bash
+R=checks/ears-as-rulers-2026-11-24
+python study/amt_score.py ~/models/music-large-800k  $R/rhythm_amt_inputs.jsonl -o $R/rhythm_amt_large.jsonl
+python study/amt_score.py ~/models/music-medium-800k $R/rhythm_amt_inputs.jsonl -o $R/rhythm_amt_medium.jsonl
+python $R/compare_rhythm.py
+```
+
+There are 88 inputs, about 96,000 notes. Commit the two score files and `compare_rhythm.json`.
 
