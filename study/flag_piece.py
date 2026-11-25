@@ -1,6 +1,8 @@
-"""The outside ear's flags on a new piece, before Philip hears it: the notes AMT finds most surprising (a wrong-sounding note) and
-the onsets it finds most surprising (a stumble in the rhythm), with their times, written down and kept from him; afterwards set
-beside the moments he names. checks/ears-as-rulers-2026-11-24.md has the tests behind it and their limits: on planted wrong notes
+"""The outside ear's flags on a new piece: the notes AMT finds most surprising (a wrong-sounding note) and the onsets it finds most
+surprising (a stumble in the rhythm), with their times and bars, in the order they come, for Philip to listen along. Philip, 25
+November 2026: "In fact, instead of hiding the FLAGS, I'd prefer to listen along the specific flagged parts and tell how it sounds
+to me. That's a better way in my opinion to operate." (Until then the list was kept from him and his own rough times set beside
+it afterwards: `compare` still does that.) checks/ears-as-rulers-2026-11-24.md has the tests behind it and their limits: on planted wrong notes
 in 64b, AMT Large and Medium together found 46% among the 2% they flag (the four ears together, NotaGen's two with them, 52%).
 NotaGen joins them where the piece declares its notation (composer-blend's tools/export.py): it reads the written score.
 
@@ -22,10 +24,13 @@ NotaGen joins them where the piece declares its notation (composer-blend's tools
             python study/notagen_score.py FINETUNE <folder>/flag_notagen_inputs.jsonl -o <folder>/flag_notagen_finetune.jsonl
             python study/notagen_score.py WEIGHTS  <folder>/flag_notagen_inputs.jsonl -o <folder>/flag_notagen_x.jsonl --verify ~/NotaGen
   report    python3 study/flag_piece.py report <folder> [--top 20]
-            writes <folder>/FLAGS.md: the top notes by pitch surprise and the top onsets by onset surprise, each ear's bits put on
+            writes <folder>/FLAGS.md: the flagged places in the order they come (time, bar where the piece declares its
+            notation, part, pitch, the passage it belongs to), from the top notes by pitch surprise and the top onsets by
+            onset surprise, each ear's bits put on
             one scale within the piece (minus its mean, over its standard deviation) and averaged over the ears that hear the note
             (NotaGen's two hear single notes only, under the prompt chosen); flags within a second of a higher one are folded into
-            it. With NotaGen's scores, also its prompts ranked: whom NotaGen finds the piece closest to. Times are the notes' own: a score's seconds, or a render's as played (render.json). A render
+            it; nothing in the first two seconds, where the ears have heard nothing yet. With NotaGen's scores, also its
+            prompts ranked: whom NotaGen finds the piece closest to. Times are the notes' own: a score's seconds, or a render's as played (render.json). A render
             may start with a short lead-in, so compare by the music, not to the hundredth
   compare   python3 study/flag_piece.py compare <folder> 1:23 2:45 ...
             Philip's named moments against the flags: which fall within two seconds of one, and of which"""
@@ -151,10 +156,13 @@ def flags(folder, top):
     onset_idx = [i for i in range(len(notes)) if first[i] and all(bits[e][i][3] is not None for e in ears)]
     onset = np.mean([z(np.array([bits[e][i][3] for i in onset_idx])) for e in ears], axis=0)
 
+    start = min(n[0] for n in notes)
+
     def pick(order, score, key):
         out = []
         for i in order:
-            if any(abs(notes[i][0] - notes[j][0]) < 1.0 for j, _ in out): continue
+            if notes[i][0] < start + 2.0: continue                     # the first two seconds: the ears have heard nothing
+            if any(abs(notes[i][0] - notes[j][0]) < 1.0 for j, _ in out): continue   # yet to be surprised against
             out.append((i, score[key(i)]))
             if len(out) == top: break
         return out
@@ -164,28 +172,67 @@ def flags(folder, top):
     return meta, ears + [f'notagen_{e}' for e in ng_ears], notes, p, o, rank
 
 
+def places(source, times):
+    """for each time (the score's seconds): the bar it falls in, where the module declares its notation (composer-blend's
+    tools/export.py), else None"""
+    try:
+        X = exporter(source); mod = X.load(source); E = mod.EXPORT
+        if E.get('notes'): return [None] * len(times)
+        from fractions import Fraction
+        s = X.build(mod); part = s.parts[0]; unit = Fraction(E['unit']).limit_denominator(16)
+        starts = [(float(m.getOffsetBySite(part)), m.number) for m in part.getElementsByClass('Measure')]
+        beat = X.clock(mod, E['end'])
+        out = []
+        for t in times:
+            qq = beat(t) * float(unit)
+            out.append(max((o, n) for o, n in starts if o <= qq + 1e-6)[1] if qq >= 0 else 1)
+        return out
+    except (SystemExit, Exception): return [None] * len(times)
+
+
+def passages(source, notes):
+    """for each flagged note (seconds, length, midi, part): the passage its row of the module's EV names, if it has one"""
+    try:
+        import importlib.util
+        spec = importlib.util.spec_from_file_location('piece_for_flags', source); mod = importlib.util.module_from_spec(spec)
+        sys.path.insert(0, os.path.dirname(source)); spec.loader.exec_module(mod)
+        rows = mod.EV
+    except Exception: return [''] * len(notes)
+    out = []
+    for t, d, m, part in notes:
+        hit = [r for r in rows if r[0].rstrip('xp') in (part, part.rstrip('xp')) and abs(r[1] - t) < .02 and int(r[3]) == int(m)]
+        out.append(str(hit[0][6]) if hit and len(hit[0]) > 6 else '')
+    return out
+
+
 def report(a):
     meta, ears, notes, p, o, rank = flags(a.folder, a.top)
     names = dict(large='AMT Large', medium='AMT Medium', notagen_x='NotaGen-X', notagen_finetune='NotaGen fine-tuned')
     nm = lambda m: NAMES[m % 12] + str(m // 12 - 1)
-    lines = [f'# Flags (sealed: not for Philip before he has heard the piece)', '',
-             f"From `{os.path.basename(meta['source'])}`: {', '.join(names[e] for e in ears)}. AMT hears every note, on the piano; "
+    rows = sorted([(notes[i][0], 'note', n + 1, i, sc) for n, (i, sc) in enumerate(p)] +
+                  [(notes[i][0], 'rhythm', n + 1, i, sc) for n, (i, sc) in enumerate(o)])
+    src = meta['source']
+    bars = places(src, [r[0] for r in rows]) if src.endswith('.py') else [None] * len(rows)
+    what = passages(src, [notes[r[3]] for r in rows]) if src.endswith('.py') else [''] * len(rows)
+    lines = ['# Flags: the places to listen to', '',
+             f"From `{os.path.basename(src)}`: {', '.join(names[e] for e in ears)}. AMT hears every note, on the piano; "
              + ('NotaGen the written score, single notes only, under the prompt it finds the piece least surprising under (below). '
                 if rank else '') +
              'Each ear\'s bits on one scale within the piece, averaged over the ears that hear the note; a flag within a second of '
-             'a higher one is folded into it.', '',
-             '## Notes (a wrong-sounding note)', '', '| | time | part | pitch | score |', '|---|---|---|---|---|']
-    lines += [f'| {n + 1} | {mmss(notes[i][0])} | {notes[i][3]} | {nm(notes[i][2])} | {s:.2f} |' for n, (i, s) in enumerate(p)]
-    lines += ['', '## Onsets (a stumble in the rhythm)', '', '| | time | part | pitch | score |', '|---|---|---|---|---|']
-    lines += [f'| {n + 1} | {mmss(notes[i][0])} | {notes[i][3]} | {nm(notes[i][2])} | {s:.2f} |' for n, (i, s) in enumerate(o)]
+             'a higher one is folded into it. **note**: a note the ears find most surprising (a wrong-sounding note?); '
+             '**rhythm**: an onset AMT finds most surprising (a stumble?). The rank is within its kind (1 the most surprising); '
+             "the times are the score's, which the render keeps.", '',
+             '| time | bar | flag | rank | part | pitch | passage | score |', '|---|---|---|---|---|---|---|---|']
+    lines += [f"| {mmss(t)} | {b if b is not None else ''} | {kind} | {rk} | {notes[i][3]} | {nm(notes[i][2])} | {w} | {sc:.2f} |"
+              for (t, kind, rk, i, sc), b, w in zip(rows, bars, what)]
     if rank:
         lines += ['', "## NotaGen's prompts (whom it finds the piece closest to)", '',
-                  'Bits a single note, NotaGen-X and fine-tuned averaged; the flags above are read under the first.', '',
+                  'Bits a single note, NotaGen-X and fine-tuned averaged; the note flags are read under the first.', '',
                   '| | prompt | bits a note |', '|---|---|---|']
         lines += [f"| {n + 1} | {pid.replace(' | ', ' / ')} | {b:.2f} |" for n, (b, pid) in enumerate(rank[:10])]
         lines += [f"| {len(rank)} (last) | {rank[-1][1].replace(' | ', ' / ')} | {rank[-1][0]:.2f} |"]
     open(os.path.join(a.folder, 'FLAGS.md'), 'w').write('\n'.join(lines) + '\n')
-    print(f'FLAGS.md: {len(p)} notes, {len(o)} onsets')
+    print(f'FLAGS.md: {len(p)} notes, {len(o)} onsets, {len(rows)} places')
 
 
 def compare(a):
