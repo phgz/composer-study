@@ -359,6 +359,15 @@ Use AMT's checkout path as for the earlier writing. Commit the sixteen `repair_*
 - **The tool:** `study/flag_piece.py`, with three steps: prepare, here; score, on the Mac; report into the piece's folder as `flags/FLAGS.md`. A fourth step, `compare`, sets his times beside the list.
 - **The rule:** composer-blend's PROCEDURE (section F, its PR #96).
 - **For now, AMT only:** NotaGen reads a written score, and no exporter has been written yet.
+- **Since 25 November, the list is shown to Philip.** Philip: "In fact, instead of hiding the FLAGS, I'd prefer to listen
+  along the specific flagged parts and tell how it sounds to me. That's a better way in my opinion to operate." `report` now
+  writes the flagged places in the order they come, with their bars and passages, for him to listen along; his words go
+  beside each. What that measures: whether the flagged places sound wrong to him (how often a flag is right), not what the
+  flags miss.
+- **Since 25 November, NotaGen too** (`flag_piece.py notagen`), where the piece declares its notation (composer-blend's
+  `tools/export.py`). None of our composers is among NotaGen's 112 prompts, so the piece is read under all of them and its flags
+  are taken under the prompt it finds the piece least surprising under, NotaGen-X and the fine-tuned model averaged. Philip:
+  "Sure, we can do that". The ranking is kept with the flags: it is also use 3 above, whose voice NotaGen hears.
 
 **Running it on the Mac:** `study/amt_score.py` has changed again; pull the branch first.
 

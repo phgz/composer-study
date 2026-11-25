@@ -1,0 +1,412 @@
+<title>__TITLE__</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one column. A sticky transport (play, the takes, previous/next, add a point, the timeline); then the spots changed
+   between two takes, each playable in either; then the flagged places; then the points the listener added. */
+:root {
+  --bg: #f6f6f3; --panel: #ffffff; --ink: #1d2126; --muted: #5d646c; --line: #dcddd7;
+  --note: #b4442f; --rhythm: #2f6fa6; --mine: #2f7d4f; --changed: #9a6700; --head: #2b3a2f;
+  --sec-a: #e9ebe4; --sec-b: #dfe3da; --now: #fff4d6; --odd-bg: #f8e3dd;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #15181b; --panel: #1d2125; --ink: #e7e9ea; --muted: #9aa2aa; --line: #30363c;
+  --note: #e27b66; --rhythm: #74aee0; --mine: #6cc792; --changed: #e0b04a; --head: #cfe0d2;
+  --sec-a: #23292d; --sec-b: #2a3136; --now: #3a3322; --odd-bg: #43261f; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #15181b; --panel: #1d2125; --ink: #e7e9ea; --muted: #9aa2aa; --line: #30363c;
+  --note: #e27b66; --rhythm: #74aee0; --mine: #6cc792; --changed: #e0b04a; --head: #cfe0d2;
+  --sec-a: #23292d; --sec-b: #2a3136; --now: #3a3322; --odd-bg: #43261f; color-scheme: dark }
+body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 15px; line-height: 1.45;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 20px 48px; }
+main { max-width: 920px; margin: 0 auto; display: grid; gap: 18px; }
+h1 { font-size: 1.45rem; font-weight: 600; margin: 0; text-wrap: balance; color: var(--head); }
+.sub { color: var(--muted); margin: 4px 0 0; max-width: 72ch; }
+.transport { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--panel); border: 1px solid var(--line);
+  border-radius: 10px; padding: 12px 14px; display: grid; gap: 10px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+button { font: inherit; border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 7px; padding: 6px 12px; cursor: pointer; }
+button:hover { border-color: var(--muted); }
+button:disabled { opacity: .5; cursor: default; }
+button:focus-visible, .tick:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--rhythm); outline-offset: 2px; }
+button.primary { background: var(--head); color: var(--bg); border-color: var(--head); font-weight: 500; min-width: 5.5em; }
+button.add { border-color: var(--mine); color: var(--mine); font-weight: 500; }
+.takes { display: inline-flex; border: 1px solid var(--line); border-radius: 7px; overflow: hidden; }
+.takes button { border: 0; border-radius: 0; padding: 6px 11px; }
+.takes button + button { border-left: 1px solid var(--line); }
+.takes button[aria-pressed="true"] { background: var(--changed); color: var(--panel); font-weight: 500; }
+.clock { font-family: var(--mono); font-variant-numeric: tabular-nums; color: var(--muted); margin-left: auto; }
+label.lead { color: var(--muted); font-size: .9rem; display: flex; gap: 6px; align-items: center; }
+select, input[type="text"] { font: inherit; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 3px 8px; }
+.timeline { position: relative; height: 62px; cursor: pointer; user-select: none; }
+.sec { position: absolute; top: 26px; bottom: 0; border-right: 1px solid var(--bg); overflow: hidden; }
+.sec:nth-child(odd) { background: var(--sec-a); } .sec:nth-child(even) { background: var(--sec-b); }
+.sec span { position: absolute; left: 4px; bottom: 3px; font-size: .68rem; color: var(--muted); white-space: nowrap; }
+.tick { position: absolute; width: 3px; margin-left: -1px; border-radius: 2px; padding: 0; border: 0; }
+.tick.note { top: 8px; height: 26px; background: var(--note); } .tick.rhythm { top: 16px; height: 26px; background: var(--rhythm); }
+.tick.changed { top: 0; width: 9px; height: 9px; margin-left: -4px; border-radius: 50%; background: var(--changed); }
+.tick.mine { top: 0; height: 18px; width: 9px; margin-left: -4px; background: var(--mine); border-radius: 2px 2px 5px 5px; }
+.tick.done { opacity: .35; }
+.head { position: absolute; top: 0; bottom: 0; width: 2px; background: var(--ink); pointer-events: none; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: .85rem; color: var(--muted); }
+.chip { display: inline-flex; align-items: center; }
+.chip i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; margin-right: 6px; }
+.chip.note i { background: var(--note); } .chip.rhythm i { background: var(--rhythm); } .chip.mine i { background: var(--mine); }
+.chip.changed i { background: var(--changed); border-radius: 50%; }
+.list { display: grid; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.group { padding: 8px 14px; font-size: .75rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); background: var(--bg); border-top: 1px solid var(--line); }
+.group:first-child { border-top: 0; }
+.group.title { font-size: .8rem; color: var(--head); font-weight: 600; letter-spacing: .04em; }
+.row { display: grid; grid-template-columns: 1.6em 2.2em 4.6em 3.6em 4.6em minmax(0, 1fr) 3.2em 3.6em; gap: 6px 10px; align-items: center;
+  padding: 8px 14px; border-top: 1px solid var(--line); }
+.group + .row { border-top: 0; }
+.row.now { background: var(--now); } .row.odd { background: var(--odd-bg); }
+.play { cursor: pointer; }
+.row input[type="checkbox"] { width: 1.1em; height: 1.1em; accent-color: var(--head); margin: 0; }
+.n { font-family: var(--mono); color: var(--muted); font-size: .85rem; }
+.t { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.bar { color: var(--muted); font-size: .85rem; }
+.kind { font-size: .8rem; font-weight: 600; } .kind.note { color: var(--note); } .kind.rhythm { color: var(--rhythm); }
+.kind.mine { color: var(--mine); } .kind.changed { color: var(--changed); }
+.what { min-width: 0; } .what b { font-weight: 500; } .what small { display: block; color: var(--muted); font-size: .82rem; }
+.what em { font-style: normal; color: var(--changed); font-weight: 500; }
+.rank { font-size: .8rem; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+.oddbtn { padding: 3px 8px; font-size: .8rem; white-space: nowrap; }
+.oddbtn[aria-pressed="true"] { background: var(--note); border-color: var(--note); color: var(--panel); }
+.ab { display: inline-flex; gap: 4px; }
+.ab button { padding: 3px 8px; font-size: .8rem; white-space: nowrap; }
+.ab button.on { border-color: var(--changed); color: var(--changed); font-weight: 500; }
+.notefield { grid-column: 2 / -1; width: 100%; box-sizing: border-box; font-size: .9rem; padding: 4px 8px; }
+.empty { padding: 12px 14px; color: var(--muted); }
+.chg-row { grid-template-columns: 1.6em 4.6em 5.8em minmax(0, 1fr) auto auto; }
+.mine-row { grid-template-columns: 1.6em 2.2em 4.6em 6.4em minmax(0, 1fr) auto; }
+.foot { color: var(--muted); font-size: .85rem; max-width: 72ch; }
+@media (max-width: 600px) {
+  .row { grid-template-columns: 1.6em 4.2em minmax(0, 1fr) auto; }
+  .row .n, .row .bar, .row .rank { display: none; }
+  .row .kind { grid-column: 3; grid-row: 1; }
+  .row .what { grid-column: 2 / -1; grid-row: 2; }
+  .row .oddbtn { grid-column: 4; grid-row: 1; }
+  .notefield { grid-column: 1 / -1; }
+  .chg-row .ab { grid-column: 3; grid-row: 1; }
+  .chg-row .what { grid-row: 2; }
+  .mine-row { grid-template-columns: 1.6em 4.2em minmax(0, 1fr) auto; }
+  .mine-row .fill, .legend .long { display: none; }
+  .clock { margin-left: 0; }
+}
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+<main>
+  <header>
+    <h1 id="h1"></h1>
+    <p class="sub" id="intro"></p>
+  </header>
+  <section class="transport" aria-label="Player">
+    <div id="audios"></div>
+    <div class="controls">
+      <button class="primary" id="play" type="button">Play</button>
+      <span class="takes" role="group" aria-label="Which take" id="takes"></span>
+      <button id="prev" type="button">Previous</button>
+      <button id="next" type="button">Next</button>
+      <button class="add" id="addpoint" type="button" disabled>Add a point here</button>
+      <label class="lead" for="lead">Start <select id="lead"><option value="2">2 s</option><option value="3" selected>3 s</option><option value="5">5 s</option><option value="8">8 s</option></select> before</label>
+      <span class="clock" id="clock">0:00.0</span>
+    </div>
+    <div class="timeline" id="timeline" aria-label="The piece: sections, changes, flags and your points"></div>
+    <div class="legend">
+      <span class="chip changed" id="chip-changed"><i></i>changed<span class="long" id="chip-changed-long"></span></span>
+      <span class="chip note"><i></i>note<span class="long">: a note the models find most surprising</span></span>
+      <span class="chip rhythm"><i></i>rhythm<span class="long">: an onset AMT finds most surprising</span></span>
+      <span class="chip mine"><i></i>yours<span class="long">: your own points</span></span>
+      <span id="status">Connecting your ticks…</span>
+    </div>
+  </section>
+  <section class="list" aria-label="What changed" id="changes-box">
+    <div class="group title" id="changes-title"></div>
+    <div id="changes"></div>
+  </section>
+  <section class="list" id="list" aria-label="The flagged places, in time order">
+    <div class="group title" id="places-title"></div>
+  </section>
+  <section class="list" aria-label="Your own points">
+    <div class="group title">Your own points: what the models missed</div>
+    <div id="mine"></div>
+  </section>
+  <p class="foot" id="foot"></p>
+</main>
+<script>
+// Written by composer-study's study/flag_piece.py page: the data below is the piece's; the rest is the same for every piece.
+const DATA = __DATA__;
+const ROWS = DATA.rows, SECTIONS = DATA.sections, CHANGES = DATA.changes || [], TAKES = DATA.takes;
+const KEYS = DATA.keys;
+const $ = id => document.getElementById(id);
+function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+document.title = DATA.title; $('h1').textContent = DATA.heading || DATA.title;
+$('intro').textContent = DATA.intro || ''; $('foot').textContent = DATA.foot || '';
+$('places-title').textContent = DATA.placesTitle || `The ${ROWS.length} flagged places`;
+const tl = $('timeline'), list = $('list'), chgEl = $('changes'), statusEl = $('status'), mineEl = $('mine'), addBtn = $('addpoint');
+let DUR = DATA.duration;
+const mmss = t => `${Math.floor(t / 60)}:${(t % 60).toFixed(1).padStart(4, '0')}`;
+const pct = t => `${(100 * Math.min(Math.max(t, 0), DUR) / DUR).toFixed(3)}%`;
+const leadSec = () => Number($('lead').value);
+let db = null;
+const placeState = {}, chgState = {};   // id -> {heard, odd, note}
+const mine = new Map();                 // id -> {t, take, note}
+
+// ---- the takes: one audio element each; switching keeps the time and whether it plays
+const AUD = {};
+TAKES.forEach(k => { const a = el('audio'); a.src = k.src; a.preload = 'auto'; $('audios').appendChild(a); AUD[k.id] = a; });
+let take = TAKES[0].id, audio = AUD[take];
+const takeBtns = {};
+if (TAKES.length > 1) TAKES.forEach(k => {
+  const b = el('button', null, k.label); b.type = 'button'; b.setAttribute('aria-pressed', String(k.id === take));
+  b.addEventListener('click', () => setTake(k.id)); $('takes').appendChild(b); takeBtns[k.id] = b;
+}); else $('takes').remove();
+const playBtn = $('play');
+function play() { const p = audio.play(); if (p && p.catch) p.catch(() => {}); }
+function setTake(k) {
+  if (k === take || !AUD[k]) return;
+  const from = audio, to = AUD[k], t = from.currentTime, playing = !from.paused;
+  from.pause();
+  try { to.currentTime = t; } catch (e) {}
+  audio = to; take = k;
+  Object.entries(takeBtns).forEach(([n, b]) => b.setAttribute('aria-pressed', String(n === k)));
+  document.querySelectorAll('.ab button').forEach(b => b.classList.toggle('on', b.dataset.take === k));
+  if (playing) play();
+  playBtn.textContent = audio.paused ? 'Play' : 'Pause';
+}
+function playFrom(t, k) { if (k) setTake(k); audio.currentTime = Math.max(0, t - leadSec()); play(); }
+
+// ---- timeline: placed in percent of the length, laid out again once the audio says how long it is
+const placed = [];   // [element, time, width-in-seconds or null]
+function place(e, t, w) { placed.push([e, t, w]); e.style.left = pct(t); if (w != null) e.style.width = pct(w); return e; }
+function layout() { placed.forEach(([e, t, w]) => { e.style.left = pct(t); if (w != null) e.style.width = pct(w); }); }
+SECTIONS.forEach(([a, b, name]) => {
+  const d = el('div', 'sec'); place(d, a, b - a);
+  if (b - a > 12) d.appendChild(el('span', null, name));
+  tl.appendChild(d);
+});
+const head = el('div', 'head'); tl.appendChild(head);
+tl.addEventListener('click', e => { const box = tl.getBoundingClientRect(); audio.currentTime = DUR * (e.clientX - box.left) / box.width; });
+function tick(cls, t, label, onclick) {
+  const b = el('button', 'tick ' + cls); b.type = 'button'; place(b, t); b.title = label; b.setAttribute('aria-label', label);
+  b.addEventListener('click', e => { e.stopPropagation(); onclick(); }); tl.appendChild(b); return b;
+}
+
+// ---- stops: the changes and the places together, in time order, for Previous and Next
+const stops = [];
+let current = -1;
+function go(stop) {
+  current = stops.indexOf(stop); playFrom(stop.t);
+  stops.forEach(s => s.row.classList.toggle('now', s === stop));
+  stop.row.scrollIntoView({ block: 'nearest' });
+}
+
+// ---- writes: one at a time per document, only on change; note fields debounced
+const chains = {};
+function write(path, body) {
+  if (!db) return Promise.resolve();
+  chains[path] = (chains[path] || Promise.resolve()).then(() => db.doc(path).set(body)).catch(e => {
+    statusEl.textContent = e && e.code === 'quota_exceeded' ? 'The store is full: nothing more can be saved.' : 'A change could not be saved. Try again.';
+  });
+  return chains[path];
+}
+function noteField(id, placeholder, save) {
+  const f = el('input', 'notefield'); f.type = 'text'; f.id = id; f.placeholder = placeholder; f.disabled = true;
+  let timer = null;
+  f.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(() => save(f.value), 700); });
+  f.addEventListener('change', () => { clearTimeout(timer); save(f.value); });
+  return f;
+}
+const controls = [];
+function saveState(store, coll, key, patch, extra, paint) {
+  if (!db) return;
+  const before = Object.assign({ heard: false, odd: false, note: '' }, store[key]);
+  const s = Object.assign({}, before, patch);
+  if (s.heard === before.heard && s.odd === before.odd && s.note === before.note) return;
+  store[key] = s; paint();
+  write(`${coll}/${key}`, Object.assign({ heard: !!s.heard, odd: !!s.odd, note: String(s.note || '').slice(0, 2000) }, extra, { at: new Date().toISOString() }));
+}
+function paintRow(r, s) {
+  s = s || {};
+  r.cb.checked = !!s.heard; r.odd.setAttribute('aria-pressed', s.odd ? 'true' : 'false'); r.row.classList.toggle('odd', !!s.odd);
+  if (document.activeElement !== r.note) r.note.value = s.note || '';
+  r.tick.classList.toggle('done', !!s.heard);
+}
+
+// ---- what changed between two takes, each spot to be heard in either
+const chgRows = {};
+if (!CHANGES.length) { $('changes-box').remove(); $('chip-changed').remove(); }
+else {
+  $('changes-title').textContent = DATA.changesTitle || `Changed in ${DATA.changesTo.label}`;
+  $('chip-changed-long').textContent = `\u00a0in ${DATA.changesTo.label.toLowerCase()}`;
+}
+CHANGES.forEach(c => {
+  const row = el('div', 'row chg-row');
+  const cb = el('input'); cb.type = 'checkbox'; cb.disabled = true; cb.setAttribute('aria-label', `Heard: ${c.head}`);
+  const t = el('span', 't play', mmss(c.t)), bar = el('span', 'bar play', c.bar || '');
+  const what = el('span', 'what play'); what.appendChild(el('b', null, c.head)); what.appendChild(el('small', null, c.detail));
+  const ab = el('span', 'ab');
+  [DATA.changesFrom, DATA.changesTo].forEach(k => { if (!AUD[k.id]) return;
+    const b = el('button', k.id === take ? 'on' : '', k.label.toLowerCase()); b.type = 'button'; b.dataset.take = k.id;
+    b.setAttribute('aria-label', `Hear ${c.head} in ${k.label}`); b.addEventListener('click', () => { setTake(k.id); go(stop); }); ab.appendChild(b); });
+  const odd = el('button', 'oddbtn', 'still odd'); odd.type = 'button'; odd.setAttribute('aria-pressed', 'false'); odd.disabled = true;
+  const note = noteField('chg-' + c.id, 'How it sounds now (optional)', v => saveState(chgState, KEYS.changes, c.id, { note: v }, extra, paint));
+  [cb, t, bar, what, ab, odd].forEach(x => row.appendChild(x)); row.appendChild(note);
+  chgEl.appendChild(row);
+  const tk = tick('changed', c.t, `Changed, ${mmss(c.t)}: ${c.head}`, () => go(stop));
+  const r = { row, cb, odd, note, tick: tk }, extra = { t: c.t, what: c.head }, paint = () => paintRow(r, chgState[c.id]);
+  chgRows[c.id] = r;
+  const stop = { t: c.t, row }; stops.push(stop);
+  row.querySelectorAll('.play').forEach(x => x.addEventListener('click', () => go(stop)));
+  cb.addEventListener('change', () => saveState(chgState, KEYS.changes, c.id, { heard: cb.checked }, extra, paint));
+  odd.addEventListener('click', () => saveState(chgState, KEYS.changes, c.id, { odd: odd.getAttribute('aria-pressed') !== 'true', heard: true }, extra, paint));
+  controls.push(cb, odd, note);
+});
+
+// ---- the flagged places
+const placeRows = {};
+const changedPlace = {}, nearPlace = {};
+CHANGES.forEach(c => { (c.places || []).forEach(k => changedPlace[k] = c); (c.near || []).forEach(k => nearPlace[k] = c); });
+let secIdx = -2;
+ROWS.forEach((r, i) => {
+  const k = i + 1;
+  const s = SECTIONS.findIndex(([a, b]) => r.t >= a && r.t < b);
+  if (s !== secIdx) { secIdx = s; if (s >= 0) list.appendChild(el('div', 'group', `${SECTIONS[s][2]} · ${mmss(SECTIONS[s][0])}`)); }
+  const row = el('div', 'row');
+  const cb = el('input'); cb.type = 'checkbox'; cb.disabled = true; cb.setAttribute('aria-label', `Heard place ${k}`);
+  const n = el('span', 'n play', String(k)), t = el('span', 't play', mmss(r.t)), bar = el('span', 'bar play', r.bar != null ? 'bar ' + r.bar : '');
+  const kind = el('span', 'kind play ' + r.kind, r.kind);
+  const what = el('span', 'what play'); what.appendChild(el('b', null, `${r.part}, ${r.pitch}`));
+  const sm = el('small', null, r.passage);
+  const tag = changedPlace[k] ? `changed in ${DATA.changesTo.label.toLowerCase()}` : nearPlace[k] ? `its bar changed in ${DATA.changesTo.label.toLowerCase()}` : '';
+  if (tag) { if (r.passage) sm.append(' · '); sm.appendChild(el('em', null, tag)); }
+  what.appendChild(sm);
+  const rank = el('span', 'rank play', '#' + r.rank);
+  const odd = el('button', 'oddbtn', 'odd'); odd.type = 'button'; odd.setAttribute('aria-pressed', 'false'); odd.disabled = true;
+  odd.setAttribute('aria-label', `Place ${k} sounds odd`);
+  const extra = { t: r.t, kind: r.kind, part: r.part, pitch: r.pitch, rank: r.rank };
+  const note = noteField('note' + k, 'How it sounds (optional)', v => saveState(placeState, KEYS.places, String(k), { note: v }, extra, paint));
+  [cb, n, t, bar, kind, what, odd, rank].forEach(x => row.appendChild(x)); row.appendChild(note);
+  list.appendChild(row);
+  const tk = tick(r.kind, r.t, `${k}. ${mmss(r.t)} ${r.kind} ${r.part} ${r.pitch}`, () => go(stop));
+  const rr = { row, cb, odd, note, tick: tk }, paint = () => paintRow(rr, placeState[k]);
+  placeRows[k] = rr;
+  const stop = { t: r.t, row }; stops.push(stop);
+  row.querySelectorAll('.play').forEach(x => x.addEventListener('click', () => go(stop)));
+  cb.addEventListener('change', () => saveState(placeState, KEYS.places, String(k), { heard: cb.checked }, extra, paint));
+  odd.addEventListener('click', () => saveState(placeState, KEYS.places, String(k), { odd: odd.getAttribute('aria-pressed') !== 'true', heard: true }, extra, paint));
+  controls.push(cb, odd, note);
+});
+stops.sort((a, b) => a.t - b.t);
+
+// ---- your own points: rows kept by id and updated in place, so a note being typed keeps its focus
+const mineRows = new Map();
+const emptyMine = el('div', 'empty');
+emptyMine.append('None yet. Play the piece and press ', el('b', null, 'Add a point here'), ' (or M) where something sounds off.');
+const takeLabel = id => (TAKES.find(k => k.id === id) || { label: id }).label;
+function makeMineRow(id) {
+  const tk = tick('mine', 0, '', () => { const p = mine.get(id); if (p) playFrom(p.t, p.take); });
+  const row = el('div', 'row mine-row');
+  const n = el('span', 'n play'), t = el('span', 't play'), kind = el('span', 'kind mine play');
+  const del = el('button', 'oddbtn', 'remove'); del.type = 'button';
+  const note = noteField('mine-' + id, 'What sounds off here?', v => { const q = mine.get(id); if (!q || q.note === v) return; q.note = v;
+    write(`${KEYS.points}/${id}`, { t: q.t, take: q.take, note: v.slice(0, 2000), at: new Date().toISOString() }); });
+  note.disabled = false;
+  [el('span'), n, t, kind, el('span', 'fill'), del].forEach(x => row.appendChild(x)); row.appendChild(note);
+  row.querySelectorAll('.play').forEach(x => x.addEventListener('click', () => { const p = mine.get(id); if (p) playFrom(p.t, p.take); }));
+  del.addEventListener('click', () => {
+    if (!db) return; mine.delete(id); renderMine();
+    db.doc(`${KEYS.points}/${id}`).delete().catch(() => { statusEl.textContent = 'That point could not be removed. Try again.'; });
+  });
+  const r = { row, tick: tk, n, t, kind, note, del }; mineRows.set(id, r); return r;
+}
+function renderMine() {
+  for (const [id, r] of mineRows) if (!mine.has(id)) { r.row.remove(); r.tick.remove(); mineRows.delete(id); }
+  const pts = [...mine.entries()].sort((a, b) => a[1].t - b[1].t || (a[0] < b[0] ? -1 : 1));
+  if (!pts.length) { if (emptyMine.parentNode !== mineEl) { mineEl.textContent = ''; mineEl.appendChild(emptyMine); } return; }
+  if (emptyMine.parentNode === mineEl) emptyMine.remove();
+  pts.forEach(([id, p], j) => {
+    const r = mineRows.get(id) || makeMineRow(id);
+    r.n.textContent = 'M' + (j + 1); r.t.textContent = mmss(p.t); r.kind.textContent = TAKES.length > 1 ? 'yours, ' + takeLabel(p.take).toLowerCase() : 'yours';
+    r.tick.style.left = pct(p.t); r.tick.title = `Your point M${j + 1}, ${mmss(p.t)}`; r.tick.setAttribute('aria-label', r.tick.title);
+    r.del.setAttribute('aria-label', `Remove your point at ${mmss(p.t)}`);
+    if (document.activeElement !== r.note && r.note.value !== (p.note || '')) r.note.value = p.note || '';
+  });
+  const order = pts.map(([id]) => mineRows.get(id).row);
+  const same = order.length === mineEl.children.length && order.every((row, j) => mineEl.children[j] === row);
+  if (!same) order.forEach(row => mineEl.appendChild(row));
+}
+renderMine();
+function addPoint() {
+  if (!db) return;
+  const t = Math.round(audio.currentTime * 10) / 10;
+  const ref = db.collection(KEYS.points).doc();
+  mine.set(ref.id, { t, take, note: '' }); renderMine();
+  write(ref.path, { t, take, note: '', at: new Date().toISOString() });
+  const f = $('mine-' + ref.id); if (f) f.focus();
+}
+addBtn.addEventListener('click', addPoint);
+document.addEventListener('keydown', e => {
+  if (e.metaKey || e.ctrlKey || e.altKey) return;
+  if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT')) return;
+  if (e.key === 'm' || e.key === 'M') { e.preventDefault(); addPoint(); }
+  if ((e.key === 't' || e.key === 'T') && TAKES.length > 1) {
+    e.preventDefault(); const i = TAKES.findIndex(k => k.id === take); setTake(TAKES[(i + 1) % TAKES.length].id);
+  }
+});
+
+// ---- transport
+playBtn.addEventListener('click', () => { if (audio.paused) play(); else audio.pause(); });
+Object.values(AUD).forEach(a => {
+  a.addEventListener('play', () => { if (a === audio) playBtn.textContent = 'Pause'; });
+  a.addEventListener('pause', () => { if (a === audio) playBtn.textContent = 'Play'; });
+  a.addEventListener('loadedmetadata', () => { if (a === AUD[TAKES[0].id] && isFinite(a.duration) && Math.abs(a.duration - DUR) > .05) { DUR = a.duration; layout(); renderMine(); } });
+  a.addEventListener('timeupdate', () => {
+    if (a !== audio) return;
+    head.style.left = pct(a.currentTime);
+    $('clock').textContent = `${mmss(a.currentTime)} / ${mmss(DUR)}`;
+  });
+});
+$('clock').textContent = `0:00.0 / ${mmss(DUR)}`;
+$('next').addEventListener('click', () => {
+  if (current >= 0) { go(stops[Math.min(current + 1, stops.length - 1)]); return; }
+  const s = stops.find(s => s.t > audio.currentTime); go(s || stops[0]);
+});
+$('prev').addEventListener('click', () => go(stops[Math.max(0, (current >= 0 ? current : 1) - 1)]));
+
+// ---- the store
+(async () => {
+  db = window.claude && window.claude.use ? await window.claude.use('db') : null;
+  if (!db) { statusEl.textContent = 'Ticks and points are saved only when this page is opened in Claude.'; return; }
+  controls.forEach(c => c.disabled = false); addBtn.disabled = false;
+  const wanted = CHANGES.length ? 3 : 2;
+  let heardBack = 0;
+  const slow = setTimeout(() => { if (heardBack < wanted) statusEl.textContent = 'Your saved ticks can’t be reached yet; new ones are kept.'; }, 10000);
+  const settle = () => { heardBack++; if (heardBack >= wanted) { clearTimeout(slow); statusEl.textContent = 'Saved as you go.'; } };
+  const failed = what => () => { clearTimeout(slow); statusEl.textContent = `Your ${what} could not be loaded.`; };
+  const states = (coll, store, rows) => {
+    let first = true;
+    db.collection(coll).onSnapshot(snap => {
+      snap.docs.forEach(d => { const v = d.data() || {}; store[d.id] = { heard: !!v.heard, odd: !!v.odd, note: typeof v.note === 'string' ? v.note : '' };
+        if (rows[d.id]) paintRow(rows[d.id], store[d.id]); });
+      if (!snap.metadata.fromCache && first) { first = false; settle(); }
+    }, failed('ticks'));
+  };
+  states(KEYS.places, placeState, placeRows);
+  if (CHANGES.length) states(KEYS.changes, chgState, chgRows);
+  let first = true;
+  db.collection(KEYS.points).onSnapshot(snap => {
+    const seen = new Set();
+    snap.docs.forEach(d => { const v = d.data() || {}; seen.add(d.id); const old = mine.get(d.id);
+      mine.set(d.id, { t: Number(v.t) || 0, take: AUD[String(v.take)] ? String(v.take) : TAKES[0].id, note: typeof v.note === 'string' ? v.note : (old ? old.note : '') }); });
+    [...mine.keys()].forEach(k => { if (!seen.has(k) && !snap.metadata.hasPendingWrites) mine.delete(k); });
+    renderMine();
+    if (!snap.metadata.fromCache && first) { first = false; settle(); }
+  }, failed('points'));
+})();
+</script>
