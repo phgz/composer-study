@@ -23,3 +23,10 @@ def test_the_least_surprising_prompt_is_chosen_and_its_bits_go_to_the_matched_no
 
 def test_no_notagen_scores_no_choice(tmp_path):
     assert FP.notagen_choice(str(tmp_path)) == ([], {}, [])
+
+
+def test_scores_from_another_preparation_are_refused(tmp_path):
+    import pytest
+    json.dump(dict(notes=[dict(voice='1.0', chord=False, flag=0)] * 3), open(tmp_path / 'flag_notagen_notes.json', 'w'))
+    write(tmp_path, 'flag_notagen_x.jsonl', [dict(id='A', bits=[[1, 0]] * 4)])
+    with pytest.raises(SystemExit): FP.notagen_choice(str(tmp_path))

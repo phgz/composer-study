@@ -118,6 +118,10 @@ def notagen_choice(folder):
     scores = {e: {json.loads(l)['id']: json.loads(l)['bits'] for l in open(os.path.join(folder, f'flag_notagen_{e}.jsonl'))}
               for e in ears}
     ids = sorted(set.intersection(*(set(scores[e]) for e in ears)))
+    for e in ears:                                                  # scores made from another preparation do not fit it
+        off = {len(b) for b in scores[e].values()} - {len(which)}
+        if off: raise SystemExit(f'flag_notagen_{e}.jsonl has {sorted(off)} notes a record, flag_notagen_notes.json {len(which)}: '
+                                 'the scores were made from another preparation (prepare again, or restore the one scored)')
     mean = lambda e, pid: sum(b[0] + b[1] for w, b in zip(which, scores[e][pid]) if not w['chord']) / max(1, sum(not w['chord'] for w in which))
     rank = sorted((sum(mean(e, pid) for e in ears) / len(ears), pid) for pid in ids)
     chosen = rank[0][1]
@@ -136,6 +140,8 @@ def flags(folder, top):
     ears = [e for e in EARS if os.path.exists(os.path.join(folder, f'flag_amt_{e}.jsonl'))]
     if not ears: raise SystemExit('no scores yet')
     bits = {e: json.loads(open(os.path.join(folder, f'flag_amt_{e}.jsonl')).readline())['bits'] for e in ears}
+    for e in ears:
+        if len(bits[e]) != len(notes): raise SystemExit(f'flag_amt_{e}.jsonl has {len(bits[e])} notes, flag_notes.json {len(notes)}')
     z = lambda x: (x - x.mean()) / (x.std() or 1)
     ng_ears, heard, rank = notagen_choice(folder)
     zs = [z(np.array([b[0] for b in bits[e]])) for e in ears]
