@@ -364,5 +364,5 @@ python study/amt_score.py ~/models/music-medium-800k $R/rhythm_amt_inputs.jsonl 
 python $R/compare_rhythm.py
 ```
 
-There are 88 inputs, about 96,000 notes. Commit the two score files and `compare_rhythm.json`.
+There are 88 inputs, about 98,000 notes. Commit the two score files and `compare_rhythm.json`.
 
