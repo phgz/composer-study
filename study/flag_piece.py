@@ -21,7 +21,8 @@ import argparse, json, os, sys
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, os.path.dirname(HERE))
 from study import pieces as P, amt as A
 
-DRUMS = {'bd', 'sd', 'snr', 'sn', 'cy', 'cym', 'crash', 'tam', 'tri', 'wb6', 'wb6q', 'gng', 'bng', 'hc'}
+DRUMS = {'bd', 'sd', 'snr', 'sn', 'cy', 'cym', 'crash', 'tam', 'tri', 'wb6', 'wb6q', 'gng', 'bng', 'hc',
+         'g1', 'g2', 'g3', 'g4', 'g5', 'brk'}                     # piece 74's granite blocks and brake drum, struck at a nominal 60
 NAMES = 'C C# D Eb E F F# G G# A Bb B'.split()
 EARS = ('large', 'medium')
 
