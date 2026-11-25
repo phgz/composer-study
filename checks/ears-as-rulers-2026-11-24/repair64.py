@@ -7,7 +7,9 @@
   VERSION=amt       AMT's rewrite: the candidate choose_repair.py picked, by its rule, from AMT's sixteen (repair_chosen.json)
 
 Everything else is 64b's own (the tune, the bass, the other inner notes, tempi, dynamics, pedal, performance draws). In both
-rewrites an inner note that would sound on into a place is cut where the place begins, as AMT was given it. Only the notes that
+rewrites an inner note that would sound on into a place is cut where the place begins, as AMT was given it; and a rewritten note
+on a pitch an inner voice of 64b already strikes at that moment is left out (AMT, anticipating bar 33, wrote its first two notes
+again a hair before the barline: one key cannot be struck twice at once). Only the notes that
 begin from 4 seconds before a clip (bars 20 to 22; 28 to 33) to its end are rendered; repair64_cut.py cuts the clips.
 
     VERSION=... BLEND=<composer-blend> python3 <composer-blend>/tools/run.py --output-dir <folder> render repair64.py"""
@@ -48,7 +50,9 @@ def rewritten(iv, new):
             for s0, s1 in SPANS:
                 if b < s0 - 1e-6 < b + d - 1e-6: d = s0 - b
             kept.append((b, d, p))
-        out[v] = sorted(kept + list(new.get(v, [])))
+        out[v] = kept
+    for v in out:                                       # a new note on a pitch the piece already strikes there is left out
+        out[v] = sorted(out[v] + [n for n in new.get(v, []) if not any(abs(n[0] - k[0]) < .01 and n[2] == k[2] for w in out for k in out[w])])
     return out
 
 

@@ -285,5 +285,33 @@ done; done
 
 Use AMT's checkout path as for the earlier writing. Commit the sixteen `repair_*.json`. Claude then runs `choose_repair.py`, renders the three versions and cuts the two clips (`repair64_cut.py`).
 
+**What AMT wrote** (on Philip's Mac, 24 November): 13 to 25 notes in each candidate, all inside the two places.
+
+| Version | Faults by the rule |
+|---|---|
+| 64b as written | 9 |
+| Claude's rewrite | 0 |
+| AMT's sixteen | 7 to 16 |
+
+- **Only one AMT candidate has fewer faults than as written:** Medium seed 7, with 7.
+- **The most common faults:**
+  - Three inner notes at once: AMT does not keep to two voices.
+  - Parallel octaves or fifths with the tune.
+  - Struck seconds.
+  - At the end of bars 29 to 32, AMT writes bar 33's first notes again, a hair before the barline. It is anticipating the notes it was told are coming. These count as unisons.
+- **The hypothesis does not hold here.** "For a slip, the average is the right fix" is not borne out by AMT's writing, at least in this setup. It does not repair the voice-leading; it rewrites the bars about as roughly as the original.
+
+**The chosen rewrite** (`repair_chosen.json`, Medium seed 7):
+- **Bar 21:** the tenor alone (F sharp 3, then B3), the alto silent.
+- **Bars 29 to 32:**
+  - Alto: E4, D4 | C sharp 4, E4, E4 | E4, A4 | E4.
+  - Tenor: G sharp 3, B3 | G3, G3 | G3, A3, B3.
+  - At bar 30's downbeat, the alto's C sharp turns the plan's A minor into A major.
+- **Left out of the render:** its two repeated notes at bar 33, as duplicates of 64b's own.
+
+**Listening** (`repair64/`): two files, each 64b as written, then Claude's rewrite, then AMT's, 1.5 seconds apart, at one level.
+- `64b_bars_20-22_as_written_then_Claude_then_AMT.mp3`: the three start at 0, 7.8 and 15.6 seconds.
+- `64b_bars_28-33_as_written_then_Claude_then_AMT.mp3`: at 0, 12.3 and 24.6 seconds.
+
 **Philip's hearing:** not yet given.
 
