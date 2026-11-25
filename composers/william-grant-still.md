@@ -6,7 +6,7 @@ Begun by Claude on 25 November 2026, for composer-blend's piece 74, from the sou
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
-**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/william-grant-still.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/william-grant-still.md).
+**The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/william-grant-still.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/william-grant-still.md) (piece 74: 5, "wow I think this is among the best pieces I've heard so far. Score of 5").
 
 ## Techniques
 
