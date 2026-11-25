@@ -191,17 +191,20 @@ def places(source, times):
 
 
 def passages(source, notes):
-    """for each flagged note (seconds, length, midi, part): the passage its row of the module's EV names, if it has one"""
+    """for each flagged note (seconds, length, midi, part): (the part that plays it now, the passage its row of the module's EV
+    names), the row found by part, time and pitch, or by time and pitch alone where the module has since moved the note to
+    another part (74b's chords set the right way up after its flags were scored)"""
     try:
         import importlib.util
         spec = importlib.util.spec_from_file_location('piece_for_flags', source); mod = importlib.util.module_from_spec(spec)
         sys.path.insert(0, os.path.dirname(source)); spec.loader.exec_module(mod)
         rows = mod.EV
-    except Exception: return [''] * len(notes)
+    except Exception: return [(n[3], '') for n in notes]
     out = []
     for t, d, m, part in notes:
-        hit = [r for r in rows if r[0].rstrip('xp') in (part, part.rstrip('xp')) and abs(r[1] - t) < .02 and int(r[3]) == int(m)]
-        out.append(str(hit[0][6]) if hit and len(hit[0]) > 6 else '')
+        near = [r for r in rows if abs(r[1] - t) < .02 and int(r[3]) == int(m)]
+        hit = [r for r in near if r[0].rstrip('xp') in (part, part.rstrip('xp'))] or near
+        out.append((hit[0][0] if hit else part, str(hit[0][6]) if hit and len(hit[0]) > 6 else ''))
     return out
 
 
@@ -213,7 +216,7 @@ def report(a):
                   [(notes[i][0], 'rhythm', n + 1, i, sc) for n, (i, sc) in enumerate(o)])
     src = meta['source']
     bars = places(src, [r[0] for r in rows]) if src.endswith('.py') else [None] * len(rows)
-    what = passages(src, [notes[r[3]] for r in rows]) if src.endswith('.py') else [''] * len(rows)
+    what = passages(src, [notes[r[3]] for r in rows]) if src.endswith('.py') else [(notes[r[3]][3], '') for r in rows]
     lines = ['# Flags: the places to listen to', '',
              f"From `{os.path.basename(src)}`: {', '.join(names[e] for e in ears)}. AMT hears every note, on the piano; "
              + ('NotaGen the written score, single notes only, under the prompt it finds the piece least surprising under (below). '
@@ -223,8 +226,8 @@ def report(a):
              '**rhythm**: an onset AMT finds most surprising (a stumble?). The rank is within its kind (1 the most surprising); '
              "the times are the score's, which the render keeps.", '',
              '| time | bar | flag | rank | part | pitch | passage | score |', '|---|---|---|---|---|---|---|---|']
-    lines += [f"| {mmss(t)} | {b if b is not None else ''} | {kind} | {rk} | {notes[i][3]} | {nm(notes[i][2])} | {w} | {sc:.2f} |"
-              for (t, kind, rk, i, sc), b, w in zip(rows, bars, what)]
+    lines += [f"| {mmss(t)} | {b if b is not None else ''} | {kind} | {rk} | {pt} | {nm(notes[i][2])} | {w} | {sc:.2f} |"
+              for (t, kind, rk, i, sc), b, (pt, w) in zip(rows, bars, what)]
     if rank:
         lines += ['', "## NotaGen's prompts (whom it finds the piece closest to)", '',
                   'Bits a single note, NotaGen-X and fine-tuned averaged; the note flags are read under the first.', '',
