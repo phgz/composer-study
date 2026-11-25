@@ -138,7 +138,8 @@ NotaGen (Wang et al., 2025; MIT licence) is a 516-million-parameter model that w
 
 - **`study/notagen.py`**: works in NotaGen's notation, made as its own data scripts make them, and cut into patches as its training cuts them; each note's place in the text; each ABC voice aligned to the reading's line.
 - **`study/notagen_score.py`** (needs torch and the weights): NotaGen's bits for each prepared note, in one pass a window, checked against NotaGen's own `generate()` with `--verify`.
-- **`study/notagen_write.py`** (needs torch, the weights and a NotaGen checkout): a piece from a prompt, with NotaGen's own model and sampling, as ABC, MusicXML and MIDI.
+- **`study/notagen_write.py`** (needs torch, the weights and a NotaGen checkout): a piece from a prompt, with NotaGen's own model and sampling, as ABC, MusicXML and MIDI; with `--sheet`, the sheet music too.
+- **`study/sheet.py`** (needs MuseScore): a MusicXML file drawn as sheet music by MuseScore, a PNG a page (or one PDF).
 - **`checks/notagen-ear-2026-11-23.md`**: NotaGen's surprise against ours on the same 12,653 notes of 29 held-out works (Bach's chorales, Corelli's and Vivaldi's trio sonatas, Haydn's and Mozart's quartets). On inner lines NotaGen is lower than ours, 1.16 bits a note against 2.32, in 28 of 29 works; its fine-tuned checkpoint, before reinforcement learning, 0.78 (`compare_scores_finetune.json`, from `checks/three-ears-64b-2026-11-23.md`). Its training may hold these works, so this compares the two ears on this music, not how well each generalises. The predictions were written before NotaGen scored; one held, two held in part, one missed.
 - **`checks/notagen-writer-2026-11-23/`**: the writer's first piece (Romantic / Chopin, Frederic / Keyboard, seed 1), as ABC, MusicXML and MIDI, and played as written on the Salamander grand (`checks/notagen-writer-2026-11-23.md`).
 

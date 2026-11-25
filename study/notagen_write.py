@@ -6,10 +6,12 @@ inference/inference.py, MIT licence, Copyright (c) 2025 ElectricAlexis), here wi
 variable put right (context_tunebody_liness), and a voice list for files without %%score.
 
   python3 notagen_write.py WEIGHTS.pth NOTAGEN_CHECKOUT "Classical" "Mozart, Wolfgang Amadeus" "Chamber" -o OUT [--seed 1]
-      [--temperature 1.4] [--top-p 0.9] [--top-k 9]
+      [--temperature 1.4] [--top-p 0.9] [--top-k 9] [--sheet] [--mscore PATH]
 
 Writes OUT/<name>.abc (as NotaGen wrote it), OUT/<name>.full.abc (every voice in every bar, X:1 first, the prompt lines left
-out: NotaGen's own output form), OUT/<name>.xml (its abc2xml.py) and OUT/<name>.mid (music21, where installed)."""
+out: NotaGen's own output form), OUT/<name>.xml (its abc2xml.py) and OUT/<name>.mid (music21, where installed); with --sheet,
+OUT/<name>-1.png, -2.png, ... too, the sheet music as MuseScore draws it (study/sheet.py; MuseScore found on the PATH, in its
+Mac app, or at --mscore)."""
 import argparse, os, re, subprocess, sys, time
 
 
@@ -57,7 +59,11 @@ def main():
     ap.add_argument('--minutes', type=float, default=30.0); ap.add_argument('--tries', type=int, default=3)
     ap.add_argument('--trust-pickle', action='store_true')
     ap.add_argument('--temperature', type=float); ap.add_argument('--top-p', type=float); ap.add_argument('--top-k', type=int)
+    ap.add_argument('--sheet', action='store_true'); ap.add_argument('--mscore')
     a = ap.parse_args()
+    if a.sheet:                                                     # find MuseScore before an hour of writing, not after
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); import sheet
+        if not sheet.find(a.mscore): sys.exit('--sheet: MuseScore not found (install it, or name it with --mscore)')
     sys.path.insert(0, os.path.join(a.checkout, 'inference'))
     import numpy as np, torch
     import utils as U, config as K                                  # NotaGen's inference/utils.py and config.py
@@ -122,6 +128,9 @@ def main():
             try:
                 import music21; music21.converter.parse(xpath).write('midi', fp=os.path.join(a.o, name + '.mid'))
             except Exception as e: print('no MIDI:', type(e).__name__, str(e)[:200])
+            if a.sheet:
+                try: print('sheet music:', ', '.join(os.path.basename(f) for f in sheet.draw(xpath, mscore=a.mscore)))
+                except Exception as e: print('no sheet music:', type(e).__name__, str(e)[:300])
         else: print('abc2xml wrote nothing')
         print(f'written in {time.time() - t0:.0f} s: {os.path.join(a.o, name)}.*', flush=True)
         return
