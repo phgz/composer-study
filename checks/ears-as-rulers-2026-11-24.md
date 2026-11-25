@@ -313,5 +313,12 @@ Use AMT's checkout path as for the earlier writing. Commit the sixteen `repair_*
 - `64b_bars_20-22_as_written_then_Claude_then_AMT.mp3`: the three start at 0, 7.8 and 15.6 seconds.
 - `64b_bars_28-33_as_written_then_Claude_then_AMT.mp3`: at 0, 12.3 and 24.6 seconds.
 
-**Philip's hearing:** not yet given.
+**Philip's hearing (24 November), his words:** "They sound... similar".
+
+- **One more of the same:** this is the third time a change to 64b's inner voices has made little difference to his ear.
+  - 64b's against AMT's: "I can't say there is a clear winner honestly".
+  - Now as written, Claude's rewrite and AMT's, where Claude's has none of the faults he heard.
+- **What it suggests:** in this piano texture, the inner voices sit under what he listens to. A place can sound a little off without a cleaner version sounding clearly better. So a check that fixes inner-voice slips changes little of what he hears in this texture. The tune, the bass, the form and other textures are not tested by this.
+- **What would tell more:** whether the four ears find the moments Philip himself named in past pieces. For example, "2:46 sounds out of place" in piece 34, and the two ornamented spots that "sounded strange" in "Said Again".
+
 
