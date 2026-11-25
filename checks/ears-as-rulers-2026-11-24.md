@@ -371,3 +371,30 @@ python $R/compare_rhythm.py
 
 There are 88 inputs, about 98,000 notes. Commit the two score files and `compare_rhythm.json`.
 
+### The rhythm test's results (scored on Philip's Mac, 24 November)
+
+**Health:** AMT Large scored 0.80 to 2.30 bits a note token (median 1.35), and 0.20 onset bits a note on average.
+
+**Found at 2%** (95% intervals; the comparison is every other onset of the copy):
+
+| | Works, a note off | Works, a skip | 64b, a note off | 64b, a skip |
+|---|---|---|---|---|
+| AMT Large | 79% [72, 87] | 71% [59, 83] | 98% [94, 100] | 92% [83, 98] |
+| AMT Medium | 82% | 71% | 100% | 96% |
+
+**The median rise:** 8 to 12 bits.
+- **Where the misses come from:** in the works, 14% of the moved notes landed on another note's onset. AMT's onset bits cannot single those out; they are most of the notes off it missed.
+- **What that means:** a note begun with another voice, a sixteenth from its own place, is a stumble to a listener following that line, not to the onset measure.
+
+**The predictions:**
+1. Works, a note off, at least 50%: **held** (79%).
+2. Works, a skip, at least 60%: **held** (71%), but fewer than a note off, not more as reasoned.
+3. 64b, fewer than the works: **failed**, the other way. 64b's are found almost all (98%, 92%).
+   - 64b's mazurka keeps a steady three-beat bar, and its tempo map moves slowly. So a note a sixteenth off its grid stands out more there than in the works' quicker, denser counterpoint.
+   - The reason given (64b's tempo changes making every onset less certain) was wrong for this piece.
+4. Medium within 10 points of Large: **held**.
+
+**The decision, by the rule written beforehand:** kept. In 64b, AMT Large finds at least half of either kind (98%, 92%).
+
+**The limit:** these stumbles were planted in notes timed exactly. A render's own timing (rubato, a performance's small irregularities) is not, and it will compete with any real stumble. The forward test on the next piece is where that shows.
+
