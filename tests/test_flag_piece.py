@@ -30,3 +30,27 @@ def test_scores_from_another_preparation_are_refused(tmp_path):
     json.dump(dict(notes=[dict(voice='1.0', chord=False, flag=0)] * 3), open(tmp_path / 'flag_notagen_notes.json', 'w'))
     write(tmp_path, 'flag_notagen_x.jsonl', [dict(id='A', bits=[[1, 0]] * 4)])
     with pytest.raises(SystemExit): FP.notagen_choice(str(tmp_path))
+
+
+def test_two_takes_differ_where_their_notes_do():
+    before = {'gtr': [(110.8, .35, 68, 38), (111.13, .35, 68, 35)], 'ca': [(262.02, .37, 69, 76), (262.43, .32, 67, 71)],
+              'vn2': [(196.14, 2.05, 73, 28), (200.0, 1.0, 69, 30)], 'pno': [(5.82, 1.6, 64, 40), (7.96, 1.6, 64, 40)]}
+    after = {'gtr': [(110.8, .35, 66, 38), (111.13, .35, 66, 35)], 'ca': [(262.2, .37, 69, 76), (262.61, .32, 67, 71)],
+             'vn2': [(196.14, 2.05, 71, 28), (200.0, 1.0, 69, 30)], 'pno': [(5.82, 1.6, 66, 40), (7.96, 1.6, 66, 40)]}
+    spots = FP.changed(before, after)
+    assert [round(s[0][0], 2) for s in spots] == [5.82, 110.8, 196.14, 262.02]      # 5.82 and 7.96 one spot; 200.0 unchanged
+    assert {e[2] for e in spots[3]} == {'time'} and {e[2] for e in spots[1]} == {'pitch'}
+    assert FP.describe(spots[1]) == 'gtr: G#4 → F#4 (2 notes)'
+    assert FP.describe(spots[3]) == 'ca: A4, G4 0.18 s later'
+    assert FP.changed(before, before) == []
+
+
+def test_a_note_only_one_take_has_is_added_or_dropped():
+    spots = FP.changed({'fl': [(1.0, .5, 72, 60)]}, {'fl': [(1.0, .5, 72, 60), (40.0, .5, 74, 60)], 'cl': [(41.0, 1, 60, 50)]})
+    assert len(spots) == 1 and FP.describe(spots[0]) == 'fl: adds D5; cl: adds C4'
+
+
+def test_section_names_as_the_timeline_shows_them():
+    assert FP.short("03 concerto 1: the guitar alone, then the tune on the cor angla") == 'Concerto 1'
+    assert FP.short('08 the last hymn: the tune loud by everyone') == 'Last hymn'
+    assert FP.short('Beklemmt: F major, then D minor') == 'Beklemmt'
