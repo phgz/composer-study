@@ -1,6 +1,6 @@
 # Meredith Monk (born 1942)
 
-Begun by Claude on 25 November 2026, for composer-blend's piece 74, from the sources at the end, read on 24 and 25 November 2026. It grows each time she is used.
+Begun by Claude on 25 November 2026, for composer-blend's piece 74, from the sources at the end, read on 24 and 25 November 2026; extended the same day for piece 75, when she was chosen again (her own words on rhythm and on how she builds her music, from an interview: 18 and 19). It grows each time she is used.
 
 **Scope so far.** One kind of piece: her wordless vocal music with an ensemble, chiefly the opera *Atlas* (1991), with the songs and ensemble pieces before it (*Dolmen Music*, 1979; *Facing North*, 1990) as two theses and a critic describe them; one line on *Cellular Songs* (2018). **Scores:** none in score-reader's catalogue (she is living; all in copyright), and she teaches much of her music by ear rather than from scores [Pym], so nothing below was checked against notes. What the theses describe from their own transcriptions is given as they give it.
 
@@ -85,6 +85,18 @@ Begun by Claude on 25 November 2026, for composer-blend's piece 74, from the sou
     *How:* not a technique: why her songs have no words. Each sound is chosen as an instrumentalist chooses a stroke.
     *Where:* her writing and interviews. [Monaghan; Sandow] *(her words)*
 
+18. **Rhythm as the ground; time compressed, stretched, twisted, interrupted.** In her own account, rhythm comes first: she calls it "the ground base of everything I do", from her training as a musician, and says of time that she can "compress it, extend it, twist it, interrupt it". She built her first movement vocabulary from her own body's rhythms and impulses, and then worked with her voice as she had with her body.
+    *Works on:* rhythm, form.
+    *Why:* her words: being trained as a musician made her "very sensitive to rhythm", and that is the ground of all she does. [Jowitt] *(her words)*
+    *How:* take one rhythmic figure and make the piece by what is done to its time: the same figure shortened, drawn out, its accent turned, broken off; the body's rhythm and the voice's treated as one.
+    *Where:* her work in general, as she describes it in the interview. [Jowitt]
+
+19. **An additive texture: one layer at a time, each thickening the last.** For *16 Millimeter Earrings* she describes "an additive sound environment" of live vocal phrases, text and sound, which set off tape loops of fragments of the live performance (four tape recorders were used), the sound growing "thicker and richer" as each layer was added; covering, or layering, was the piece's basic principle. She brings singers taped or written phrases and fixes the music in rehearsal by memory of the muscles rather than reading.
+    *Works on:* texture, form.
+    *Why:* her words: layering was "a basic principle of the piece". [Jowitt] *(her words)*
+    *How:* begin with one layer; add the next over it without taking the first away; let the texture's growth be the form.
+    *Where:* *16 Millimeter Earrings*. [Jowitt]
+
 ## Walks through whole works
 
 ***Atlas*, "Future Quest (The Call)"** (Part I, 11:15 on the recording; from the thesis's reading, partly from its own transcription). The "Spirit Music" (bars 13 to 21), no voice, A flat major fifths over F major octaves (9); the heroine's daydream tune, a two-bar arpeggio in F major sung twice with glides between "la", "ah" and humming, first over her own guitar (D minor, A major, B flat minor seventh, D minor), then from bar 21 over keyboard chords and cello; the Spirit Music once more (bars 29 to 33), a clarinet in D Dorian over it from bar 33; from bar 47 the harmony moving between G minor and A major without cadencing on D minor; a second daydream (from bar 49) filled with fast stepwise runs and more syllables, still without any B; the father's "No" theme (bar 65), in D minor; every character's theme at once (bars 73 to 80, 11) to a circle walk and her jump; the mother's corrected leap (bars 89 to 92, 10); the heroine's theme broken into wide leaps and quintuplets (bars 93 to 97); the mother's variation in runs of twelve (bars 98 and 103), an E flat major chord turning the orchestra to C Dorian; the father's theme inverted (bar 106); the second daydream again over C Mixolydian, the parents holding a unison C, the close on C Mixolydian leaning towards F (bars 114 to 121). [Monaghan; Wikipedia, Atlas]
@@ -114,6 +126,7 @@ None: no score of hers is in the catalogue (version 25).
 
 ## Not checked
 
+- Whether rhythm "compressed, extended, twisted, interrupted" (18) describes *Atlas*'s Guides' Dance itself: the interview speaks of her work in general.
 - The pitches and rhythms of any ostinato: the theses' transcriptions are images that were not seen; only their prose was read.
 - What the earlier chapters of Pym's thesis say beyond "Home Scene", "Loss Song" and "Treachery"; the bars of "Agricultural Community" beyond the one leap described.
 - Whether the songs Sandow describes (*Songs from the Hill*, *Tablet*) still describe her writing in *Atlas*, ten years later.
@@ -121,6 +134,7 @@ None: no score of hers is in the catalogue (version 25).
 
 ## Sources
 
+- Deborah Jowitt, interview with Meredith Monk, first published in the Walker Art Center's catalogue *Art Performs Life* (1998); the web version (2016) read whole on 25 November 2026 through a fetch tool, and the sentences quoted asked for again word for word: https://walkerart.org/reader/meredith-monk-deborah-jowitt-interview
 - Rebekah Pym, *The Voice as Gesture in Meredith Monk's ATLAS*, MA thesis, McGill University, 2002 (a scan with errors of recognition; its prose read through a fetch tool, the transcriptions not seen): https://escholarship.mcgill.ca/downloads/fq977v49m
 - Tracy Monaghan, *Rethinking Meredith Monk*, MM thesis, University of Louisville, 2020 (its prose read through a fetch tool, as far as the conclusion; the examples not seen): https://ir.library.louisville.edu/cgi/viewcontent.cgi?article=4647&context=etd
 - Greg Sandow, on Monk's music, first published in *The Musical Woman: An International Perspective*, ed. Judith Lang Zaimont (Greenwood, 1983): https://gregsandow.com/old/monk2.htm

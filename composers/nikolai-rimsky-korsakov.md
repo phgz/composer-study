@@ -1,6 +1,6 @@
 # Nikolai Rimsky-Korsakov (1844-1908)
 
-Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows each time he is used.
+Begun by Claude on 23 November 2026, for composer-blend's piece 68; extended for piece 68b, and on 25 November 2026 for piece 75, when he was chosen again (the *Capriccio espagnol*: the change of colours as the substance of a piece, in his words, 25). It grows each time he is used.
 
 **Scope so far.** Two kinds of source for one kind of piece, the orchestral work on a story or a feast: his own book, *Principles of Orchestration* (its first five chapters and the start of the sixth read), and what sources say of the *Russian Easter Festival Overture* and *Scheherazade*. **Scores:** score-reader's catalogue (version 25) holds seven works of his, none of them orchestral: four piano pieces of op. 11, a fugue on B-A-C-H, an aria from *Sadko* (five of these read from an editor's copy for MIDI) and *Flight of the Bumblebee*, from a MIDI file. None was read for this page: they are not the kind of piece. So nothing below rests on his notes. Added on 24 November 2026, for piece 68b: two small pieces read from the score (the *Scherzino* op. 11 no. 3 for piano, and the Varangian Guest's song from *Sadko*, both from editors' copies made for MIDI).
 
@@ -154,6 +154,16 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
     *How:* give a low voice a short, stepwise tune in a dotted rhythm; rock the harmony between the minor keynote's chord and the major chord on the fourth, turning it minor later; throw in quick four-note scales in the bass for the waves.
     *Where:* *Sadko*, the song of the Varangian Guest, bars 1 to 8. **[score: Song of the Varangian Guest]**
 
+### The *Capriccio espagnol*, in his words (for piece 75)
+
+*Added on 25 November 2026, when he was chosen again for composer-blend's piece 75. The work is under "Too well known to borrow": what is taken here is its principle, never its tunes or its cadenzas' figures.*
+
+25. **The change of colours is the composition, not its dress.** In his autobiography, as Wikipedia quotes it, he held that the *Capriccio* is "a brilliant composition for the orchestra": the change of timbres, figures chosen to suit each instrument exactly, short virtuoso cadenzas for solo instruments and the percussion's rhythm "constitute here the very essence of the composition and not its garb or orchestration". In its fourth movement, *Scena e canto gitano*, five cadenzas follow one another over rolls of the percussion: the horns and trumpets, then a solo violin, the flute, the clarinet and the harp.
+    *Works on:* colour, form.
+    *Why:* his words: the timbres and the solos are "the very essence of the composition", against the view that the piece is merely well orchestrated. [Wikipedia, Capriccio Espagnol] *(his words)*
+    *How:* make a passage whose matter is the passing of the music from one colour to the next: each instrument in turn with a figure written for it alone, over a held roll of the drums.
+    *Where:* *Capriccio espagnol*, op. 34, fourth movement. [Wikipedia, Capriccio Espagnol]
+
 ## Walks through whole works
 
 **Russian Easter Festival Overture** (about 14 minutes in the guide's recording; times are that recording's). A slow introduction (*Lento mistico*, 5/2): the chant "Let God arise" in the woodwinds; solo flights of violin, cello, flute and clarinet between its statements; a solo trombone with the strings answering (1:45); the chant low and soft in bassoon and tuba (3:20); harp glissandi to close (4:05). The fast section (*Allegro agitato*, 4:28) turns another chant into a dance and climaxes on the bell rhythm in the full orchestra (5:28). A slow middle on "Christ is risen" (6:04): violin harmonics, plucked strings and bells for the pagan feast, the trombone recitative (7:48). The fast music returns (9:01), climaxes again on the bells (10:33), gathers the earlier ideas at once (12:14), and ends on "Christ is risen" in the brass, at its loudest. [DuPage; BSO]
@@ -184,6 +194,7 @@ None for these techniques: the catalogue holds no orchestral work of his. What i
 
 ## Not checked
 
+- His autobiography itself, for the quotation in 25: only Wikipedia's quotation of it was read.
 - That his operas set the human characters in plain diatonic music and the supernatural in the whole-tone and octatonic scales: the source read says only that he used those scales mainly for the fantastic sections.
 - The rest of *Principles of Orchestration* after the start of chapter VI (on voices), and its musical examples, which were not seen.
 - The music of the *Capriccio espagnol* and of the operas (*Sadko*, *The Golden Cockerel*, *Kitezh*): not read.
@@ -193,6 +204,7 @@ None for these techniques: the catalogue holds no orchestral work of his. What i
 
 ## Sources
 
+- Wikipedia, "Capriccio Espagnol" (read 25 November 2026; it quotes his autobiography without title, page or translator, so the quotation is the article's): https://en.wikipedia.org/wiki/Capriccio_Espagnol
 - Nikolay Rimsky-Korsakov, *Principles of Orchestration, with Musical Examples Drawn from His Own Works*, ed. Maximilian Steinberg, trans. Edward Agate (1922), the text on the Internet Archive (the prefaces, chapters I to V and the start of VI read; the examples not seen): https://archive.org/details/principlesoforch00rims
 - Wikipedia, "Nikolai Rimsky-Korsakov" (the first three quarters read): https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov
 - Wikipedia, "Russian Easter Festival Overture": https://en.wikipedia.org/wiki/Russian_Easter_Festival_Overture

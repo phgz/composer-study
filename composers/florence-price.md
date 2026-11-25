@@ -1,6 +1,6 @@
 # Florence Price (1887-1953)
 
-Begun by Claude on 22 November 2026, from the sources at the end, read that day. It grows each time she is used.
+Begun by Claude on 22 November 2026, from the sources at the end, read that day; extended on 24 November for piece 69 and on 25 November 2026 for piece 75, when she was chosen again (the first symphony's juba: how its tune moves between sections, 42; clapping and foot-tapping, as her biographer describes her aim, 43). It grows each time she is used.
 
 **Scope so far.** One kind of piece: the slow movement and the juba of her symphonies (No. 1 in E minor, 1931-32; No. 3 in C minor, 1938-40; No. 4 in D minor, 1945; the second is lost). Her way with a tune and with harmony is taken partly from two studies of her Piano Sonata in E minor, written the same year as the first symphony. **Scores:** none in score-reader's catalogue, so nothing below was checked against her notes. The standard source, Rae Linda Brown's editions and book, was not read: the open sources say much less about the inside of these movements than the Tavener sources did about his. Added on 24 November 2026, when she was drawn again: the Third Symphony as a whole, from a note by John Michael Cooper, and her own words from the last third of Ege's thesis.
 
@@ -213,6 +213,20 @@ Philip chose this kind: "I usually like her symphonies and that's what I know be
     *How:* not a technique: her own account of what the Third Symphony is, and how she wished to be heard.
     *Where:* Symphony no. 3; her letter to Koussevitzky (1943); the *Chicago Defender*, as quoted by Ege. [Hollywood Bowl; Ege]
 
+### The first symphony's juba, again (for piece 75)
+
+*Added on 25 November 2026, when she was chosen again for composer-blend's piece 75, from a listening guide to the Juba Dance and from her biographer as an orchestra's page quotes her.*
+
+42. **The juba's tune moves from section to section at each return.** A modified rondo (A, B, C, D, a transition and a coda): the violins play A; B comes twice, on the trumpets, violins and woodwinds; the flutes and oboes take a passage into a new key; A comes back "without warning" on the violins and oboes; near the end it comes in a full-orchestra treatment, and crash cymbals mark the coda.
+    *Works on:* form, colour, texture.
+    *How:* in a dance in rondo form, give the tune to a new colour, or a new mixture of colours, each time it returns; mark the last turn with the cymbals.
+    *Where:* Symphony no. 1, third movement, *Juba Dance*. [Discovery Orchestra]
+43. **Clapping and foot-tapping brought into the music.** Her biographer Rae Linda Brown, as an orchestra's page quotes her, gives Price's first aim as featuring African American folk materials, and names among them "a percussive, polyrhythmic approach to music" and the inclusion of "hand-clapping and foot-tapping".
+    *Works on:* rhythm, colour.
+    *Why:* to feature African American folk materials, in Brown's account. [Minnesota Orchestra] *(an analysis)*
+    *How:* give struck sounds of hands and feet, or instruments standing in for them, a part of their own in the rhythm, against a steady beat (25).
+    *Where:* her music in general, as Brown describes it; the page names no bars. [Minnesota Orchestra]
+
 ## Walks through whole works
 
 **First symphony, second movement** (*Largo, maestoso*; 13:22 in the recording the New Bedford page follows). The brass hymn with the drums (to 1:30). Blocks by family for five minutes; the violins answering bassoons and violas (2:16 to 3:45). The quicker interlude in C sharp minor. A long development, with the flutter upward in the strings. The hymn again, with the clarinet and the chimes. A soft E major chord in the strings.
@@ -249,6 +263,8 @@ None: no score of hers is in score-reader's catalogue.
 
 ## Not checked
 
+- Which bars of the first symphony's juba each colour of 42 plays: the listening guide gives the order, not the bars, and several of its entries are blanks.
+- Where Price writes clapping or foot-tapping, or their imitation, in a score (43): the page quoting Brown names no work, and itself calls the juba the third movement of her Third Symphony under a title that names the First.
 Believed from memory, not found in a source read today, and not to be used as facts:
 - the rhythm of the jubas' tunes note by note (short-long-short is sourced for the piano sonata's themes, not for the symphonies' jubas);
 - that the first symphony's hymn is in E major throughout (the sources give its last chord and the key of its interlude);
@@ -260,6 +276,8 @@ Not read: Rae Linda Brown's editions of the symphonies and her book *The Heart o
 
 ## Sources
 
+- George Marriner Maull, listening guide to Price's *Juba Dance* (Symphony no. 1, III), the Discovery Orchestra (a worksheet; read whole, several of its blanks left unfilled in the copy read): https://discoveryorchestra.org/wp-content/uploads/2021/07/Price-Juba-Dance-LG.pdf
+- Minnesota Orchestra, "Juba Dance from Price's Symphony No. 1" (unsigned; quotes Rae Linda Brown): https://www.minnesotaorchestra.org/stories/juba-dance-from-prices-symphony-no-1
 - Wikipedia, "Symphony No. 1 (Price)": https://en.wikipedia.org/wiki/Symphony_No._1_(Price)
 - Wikipedia, "Symphony No. 3 (Price)": https://en.wikipedia.org/wiki/Symphony_No._3_(Price)
 - Wikipedia, "Symphony No. 4 (Price)": https://en.wikipedia.org/wiki/Symphony_No._4_(Price)
