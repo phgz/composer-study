@@ -21,6 +21,24 @@ def test_written_notes_without_a_clock_are_not_given_invented_times():
         FP.notation_clock(SimpleNamespace(EXPORT={'notes':'written'}))
 
 
+def test_explicit_notes_keep_bar_locations_and_key_spellings(monkeypatch):
+    from types import SimpleNamespace
+    mod = SimpleNamespace(EXPORT={'notes':'written', 'unit':1, 'end':9,
+                                  'keys':[(0,2,'minor'),(6,5)]}, sec=lambda b:b*.5)
+    measures = [SimpleNamespace(number=i+1, getOffsetBySite=lambda p, q=i*3:q) for i in range(3)]
+    part = SimpleNamespace(getElementsByClass=lambda _:measures)
+    exp = SimpleNamespace(load=lambda _:mod, build=lambda _:SimpleNamespace(parts=[part]),
+                          clock=lambda m,end:lambda t:t*2,
+                          spell=lambda pitch,key,minor:f'{pitch}:{key}:{minor}')
+    monkeypatch.setattr(FP,'exporter',lambda _:exp)
+    assert FP.places('explicit.py',[0,1.49,1.5,2.99,3,4.49]) == [1,1,2,2,3,3]
+    spell = FP.speller('explicit.py')
+    assert spell(2.99,63) == '63:2:True'
+    assert spell(3,63) == '63:5:False'
+    del mod.sec
+    assert FP.places('explicit.py',[1.5]) == [None]
+
+
 def write(folder, name, rows):
     with open(os.path.join(folder, name), 'w') as f:
         for r in rows: f.write(json.dumps(r) + '\n')

@@ -265,7 +265,7 @@ def places(source, times):
     tools/export.py), else None"""
     try:
         X = exporter(source); mod = X.load(source); E = mod.EXPORT
-        if E.get('notes'): return [None] * len(times)
+        notation_clock(mod)                                              # explicit notes may still declare a usable clock
         from fractions import Fraction
         s = X.build(mod); part = s.parts[0]; unit = Fraction(E['unit']).limit_denominator(16)
         starts = [(float(m.getOffsetBySite(part)), m.number) for m in part.getElementsByClass('Measure')]
@@ -371,7 +371,8 @@ def speller(source):
         from fractions import Fraction
         X = exporter(source); mod = X.load(source); E = mod.EXPORT
         keys = sorted(E.get('keys', []), key=lambda k: k[0])
-        if E.get('notes') or not keys: return lambda t, m: plain(m)
+        if not keys: return lambda t, m: plain(m)
+        notation_clock(mod)
         beat = X.clock(mod, E['end']); unit = Fraction(E['unit']).limit_denominator(16)
     except (SystemExit, Exception): return lambda t, m: plain(m)
     def f(t, m):
