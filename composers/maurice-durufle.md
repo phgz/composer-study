@@ -79,6 +79,20 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
     *How:* not a technique: his aim was to enter the chant's style; he felt it also held his harmony back.
     *Where:* his own words on the Requiem, as reported. [LA Phil; Cardiff thesis]
 
+### The theme coming into focus: op.4
+
+Added 26 November 2026 for composer-blend piece 76. William McVicker's complete English programme note for *Prélude, Adagio et Choral varié* was read on Hyperion's page. This is new source reading, not inspection of Duruflé's score.
+
+16. **Fragments and transformations precede the complete tune.** The prelude uses phrases of the chant in changing textures; the complete chorale is presented only later.
+    *Works on:* melody, form.
+    *Why:* the full chorale gives a clear form to material already heard in altered pieces. [McVicker] *(an analysis)*
+    *How:* introduce distinctive fragments, then let a broad complete statement disclose their relationship.
+    *Where:* op.4, the prelude and the eventual chorale. [McVicker]
+17. **Fast activity carries a slow theme in canon.** The final variation combines toccata motion with the theme in right hand and pedals; the coda brings forward the previously only suggested Amen.
+    *Works on:* texture, form.
+    *How:* let a tune previously sung broadly become the structural line inside quicker counterpoint; save a new continuation for the climax instead of only increasing volume.
+    *Where:* op.4, final variation and coda. [McVicker]
+
 ## Walks through whole works
 
 None yet.
@@ -112,6 +126,8 @@ Believed from memory, not found in a source read today:
 Not read: the fourth chapter of the Cardiff thesis (the *Veni Creator* variations bar by bar); James Frazier's book on him.
 
 ## Sources
+
+- William McVicker, English programme note (1990), complete English text read 26 November 2026 on [Hyperion's op.4 page](https://www.hyperion-records.co.uk/dw.asp?dc=W42_317053). Added techniques 16–17 are from this analysis; no score bars were inspected for them.
 
 - John Len Wiles, on the *Messe "Cum jubilo"*, *The Choral Scholar*, Spring 2015: https://ncco-usa.org/publications/the-choral-scholar-american-choral-review/issues/14/articles/25/download
 - A doctoral thesis on the *Prélude, Adagio et Choral varié* op. 4, Cardiff University (the first fifth read; the author's name was not on the pages read, so it is cited here as "Cardiff thesis"): https://orca.cardiff.ac.uk/id/eprint/118456/1/GIJP%20Thesis%20on%20Durufle%20Op.%204.pdf

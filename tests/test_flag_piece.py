@@ -7,6 +7,20 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from study import flag_piece as FP
 
 
+def test_explicit_written_notes_keep_their_tempo_map_and_origin():
+    from types import SimpleNamespace
+    mod = SimpleNamespace(EXPORT={'notes':'written', 'clock':'performed', 'unit':.5, 'origin':2},
+                          performed=lambda b: b*.5 if b<=6 else 3+(b-6)*.75)
+    clock = FP.notation_clock(mod)
+    assert [clock(q) for q in (0,2,3)] == [1,3,4.5]
+
+
+def test_written_notes_without_a_clock_are_not_given_invented_times():
+    from types import SimpleNamespace
+    with pytest.raises(SystemExit,match='clock'):
+        FP.notation_clock(SimpleNamespace(EXPORT={'notes':'written'}))
+
+
 def write(folder, name, rows):
     with open(os.path.join(folder, name), 'w') as f:
         for r in rows: f.write(json.dumps(r) + '\n')

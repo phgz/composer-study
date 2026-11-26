@@ -134,20 +134,34 @@ def exporter(module):
     return X
 
 
+def notation_clock(mod):
+    """Written quarters to performance seconds, also for explicitly written notes.
+
+    An explicit note list supplies pitches and durations, not a missing clock.
+    Require the module's declared mapping rather than assuming a fixed tempo.
+    """
+    from fractions import Fraction
+    E = mod.EXPORT
+    clock = getattr(mod, E.get('clock', 'sec'), None)
+    if not callable(clock):
+        raise SystemExit('the written score has no callable clock to performance seconds')
+    org, unit = Fraction(E.get('origin', 0)), Fraction(E.get('unit', 1))
+    if unit <= 0:
+        raise SystemExit('the written score needs a positive quarter-note unit')
+    return lambda q: float(clock(float(org + Fraction(q).limit_denominator(4096) / unit)))
+
+
 def notagen(a):
     from fractions import Fraction
     from study import notagen as G
     notes = json.load(open(os.path.join(a.folder, 'flag_notes.json')))['notes']
     X = exporter(a.module); mod = X.load(a.module); E = mod.EXPORT
-    if E.get('notes'): raise SystemExit('this piece gives its notes as written, with no clock to its seconds: not matched here')
+    seconds = notation_clock(mod)
     xml = os.path.join(a.folder, 'flag_notagen.musicxml'); X.build(mod).write('musicxml', fp=xml)
     prompts = [tuple(l.strip().split('_')) for l in open(os.path.join(a.notagen, 'gradio', 'prompts.txt')) if l.strip()]
     r = G.prepare_xml(xml, prompts[0], os.path.join(a.notagen, 'data', 'xml2abc.py'))
     if isinstance(r, str): raise SystemExit(f'NotaGen could not read the score: {r}')
     md = r['meta'][3:]                                                    # what follows the three prompt lines
-    org, unit = Fraction(E.get('origin', 0)), Fraction(E.get('unit', 1))
-    clock = getattr(mod, E.get('clock', 'sec'))
-    seconds = lambda q: float(clock(float(org + Fraction(q).limit_denominator(4096) / unit)))
     wanted, which = [], []
     for v in sorted(r['notes']):
         for i, (k, a_, b_, t, midi, chord) in enumerate(r['notes'][v]):
