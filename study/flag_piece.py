@@ -54,8 +54,16 @@ NotaGen joins them where the piece declares its notation (composer-blend's tools
             'mistake'."). --parts ID=<folder from `parts`>: that take's instruments, each to be heard alone
   parts     python3 study/flag_piece.py parts <render.json> <notes module> -o <folder> [--gains <other take's folder>]
             one take's instruments alone, from the render's own stems (Philip: "maybe we could isolate by instrument"):
-            mono mp3s and parts.json; needs ffmpeg"""
-import argparse, collections, json, os, re, subprocess, sys
+            mono mp3s and parts.json; needs ffmpeg
+  alone     python3 study/flag_piece.py alone <score as heard> <anticipation checkout> <folder>      (after prepare)
+            each part by itself, for AMT: <folder>/flag_amt_alone_inputs.jsonl, one input a part, scored on the Mac as the
+            piece is (flag_amt_alone_large.jsonl, flag_amt_alone_medium.jsonl). Philip, 25 November 2026: "if I listen to an
+            instrument alone, then the sequence makes sense, but if I listen to the whole in context with the rest, then it's
+            true it may sound weird. So on its layer its fine, but it's the interaction with the rest that is needs tuning."
+  together  python3 study/flag_piece.py together <folder> [--odd 1,28,34,39]
+            each flagged place with everything and with its own part alone: <folder>/TOGETHER.md; with --odd, where the places
+            heard as wrong stand among the rest"""
+import argparse, collections, json, math, os, re, subprocess, sys
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, os.path.dirname(HERE))
 from study import pieces as P, amt as A
 
@@ -86,6 +94,32 @@ def prepare(a):
     with open(os.path.join(a.o, 'flag_amt_inputs.jsonl'), 'w') as f: f.write(json.dumps(dict(id='piece', windows=ws, notes=pos)) + '\n')
     json.dump(dict(source=os.path.abspath(a.source), notes=notes), open(os.path.join(a.o, 'flag_notes.json'), 'w'))
     print(f'{len(notes)} notes, {len(ws)} windows; now score it on the Mac (see this script)')
+
+
+def key(t, m): return (round(float(t), 2), int(m))
+
+
+def alone(a):
+    """each part by itself, for AMT, so that each note is heard twice: with everything (`prepare`) and with its own part alone
+    (Philip, 25 November 2026: "if I listen to an instrument alone, then the sequence makes sense, but if I listen to the whole in
+    context with the rest, then it's true it may sound weird"). One input a part: its notes as `prepare` makes the piece's (on
+    the piano, no controls given), and `index`, each note's place in the flag list. A note two parts play at once is in both.
+    SOURCE is the score as it was heard; its onsets and pitches must be the flag list's, though a note may since have moved to
+    another part (74b's string chords were set the right way up after its flags were made)"""
+    notes = json.load(open(os.path.join(a.folder, 'flag_notes.json')))['notes']
+    at = {key(n[0], n[2]): i for i, n in enumerate(notes)}
+    parts = {str(name): own for name, ns in P.read(a.source).items() if (own := pitched({name: ns}))}
+    heard = {key(n[0], n[2]) for own in parts.values() for n in own}
+    if heard != set(at):
+        raise SystemExit(f'{a.source}: {len(heard - set(at))} of its notes are not in the flag list, and {len(set(at) - heard)} '
+                         'of the list are not in it: not the score the flags were made from')
+    with open(os.path.join(a.folder, 'flag_amt_alone_inputs.jsonl'), 'w') as f:
+        for name, own in sorted(parts.items()):
+            seq, where = A.sequence([n[:3] for n in own], [], a.checkout)
+            ws, pos = A.windows(seq, where, a.checkout, alone=True)
+            f.write(json.dumps(dict(id=name, windows=ws, notes=pos, index=[at[key(n[0], n[2])] for n in own])) + '\n')
+            print(f'{name}: {len(own)} notes, {len(ws)} window(s)')
+    print(f'{sum(len(o) for o in parts.values())} notes in {len(parts)} parts (the list has {len(notes)}); now score it on the Mac')
 
 
 def exporter(module):
@@ -558,9 +592,109 @@ def compare(a):
         print(s, '->', hit or 'no flag within two seconds')
 
 
+WITH_REST, ALONE_TOO = 1.0, 2.0        # a part's surprise alone, on its scale within the piece: under 1 the line makes sense by
+                                        # itself and the place is surprising only with the rest; 2 or more, the line itself is
+
+
+def first_of_onset(windows, pos):
+    """for each scored note, the index (in the same list) of the first note that shares its onset token"""
+    out = []
+    for k, (wi, p) in enumerate(pos):
+        out.append(k if not out or p - 5 < 1 or windows[wi][p - 2] != windows[wi][p - 5] else out[-1])
+    return out
+
+
+def alone_surprise(folder, notes):
+    """the AMT ears' surprise at each note with its own part alone: {(part, note index): z} for the pitches and for the onsets
+    (each note given its onset's, the onset's first note in that part), each ear's bits on one scale over all the parts, then
+    averaged over the ears. A part's first two seconds are left out (nothing of it heard yet), as the flags leave out the
+    piece's"""
+    import numpy as np
+    inputs = [json.loads(l) for l in open(os.path.join(folder, 'flag_amt_alone_inputs.jsonl'))]
+    path = lambda e: os.path.join(folder, f'flag_amt_alone_{e}.jsonl')
+    ears = [e for e in EARS if os.path.exists(path(e))]
+    if not ears: raise SystemExit('no scores of the parts alone yet')
+    pitch, onset = {}, {}
+    for e in ears:
+        got = {d['id']: d['bits'] for d in map(json.loads, open(path(e)))}
+        p, o, of = {}, {}, {}
+        for inp in inputs:
+            b = got.get(inp['id'])
+            if b is None or len(b) != len(inp['index']): raise SystemExit(f"{path(e)}: {inp['id']} is not the prepared part")
+            first = first_of_onset(inp['windows'], inp['notes']); t0 = min(notes[i][0] for i in inp['index'])
+            for k, i in enumerate(inp['index']):
+                if notes[i][0] < t0 + 2.0: continue
+                p[(inp['id'], i)] = b[k][0]
+                if b[first[k]][3] is not None: of[(inp['id'], i)] = (inp['id'], inp['index'][first[k]])
+                if first[k] == k and b[k][3] is not None: o[(inp['id'], i)] = b[k][3]
+        for got_, into, src in ((p, pitch, None), (o, onset, of)):
+            x = np.array(list(got_.values())); z = dict(zip(got_, (x - x.mean()) / (x.std() or 1)))
+            for k in (src or z):
+                v = z.get(src[k]) if src else z[k]
+                if v is not None: into.setdefault(k, []).append(v)
+    mean = lambda d: {k: float(np.mean(v)) for k, v in d.items() if len(v) == len(ears)}
+    return ears, mean(pitch), mean(onset)
+
+
+def together(a):
+    """each flagged place heard with everything and with its own part alone: the AMT ears' surprise both ways, and where it
+    falls. Writes TOGETHER.md; with --odd (the places a listener heard as wrong, by their numbers in time order), how those
+    places stand among the rest: by their surprise alone (the lowest first) and by how much more surprising they are with
+    everything than alone (the most first), each with the share of every set of as many places that ranks as low or lower"""
+    import numpy as np
+    from itertools import combinations
+    meta, _, _, notes, listed = listing(a.folder, a.top)
+    _, _, pz, onset_idx, oz, _ = surprise(a.folder)
+    ears, lp, lo = alone_surprise(a.folder, notes)
+    k = {i: n for n, i in enumerate(onset_idx)}
+    parts_of = {}
+    for (part, i) in lp: parts_of.setdefault(i, []).append(part)
+    nm = lambda m: NAMES[m % 12] + str(m // 12 - 1)
+    rows = []
+    for n, r in enumerate(listed):
+        i = r['i']
+        whole = float(np.mean([pz[e][i] for e in ears])) if r['kind'] == 'note' else float(np.mean([oz[e][k[i]] for e in ears]))
+        each = {p: (lp if r['kind'] == 'note' else lo).get((p, i)) for p in sorted(parts_of.get(i, []))}
+        each = {p: v for p, v in each.items() if v is not None}
+        lone = max(each.values()) if each else float('nan')
+        where = ('' if lone != lone else 'with the rest' if lone < WITH_REST else 'alone too' if lone >= ALONE_TOO else 'between')
+        rows.append(dict(place=n + 1, t=r['t'], kind=r['kind'], pitch=nm(notes[i][2]), whole=whole, each=each, alone=lone,
+                         gap=whole - lone, where=where))
+    lines = ['# Each flag with everything, and with its own part alone', '',
+             f"From `flag_amt_alone_*.jsonl` ({', '.join(EAR_NAMES[e] for e in ears)}): each part's notes read by themselves, as the "
+             "flags read the whole piece (every note on the piano). The surprise of a place's note (or, for **rhythm**, its onset) "
+             "on one scale within the piece, both ways: **with everything** as the flags have it, **alone** in each part that plays "
+             "it (a part's first two seconds have no number). A place is **with the rest** where every part that plays its note "
+             f"makes sense alone (under {WITH_REST:g}): what is surprising is how the part meets the others. **Alone too** where "
+             f"one part is surprising by itself ({ALONE_TOO:g} or more): the line itself. Places numbered in time order, as on the "
+             'walk page.', '',
+             '| place | time | flag | pitch | with everything | alone, by part | where |', '|---|---|---|---|---|---|---|']
+    for r in rows:
+        each = ', '.join(f'{p} {v:.1f}' for p, v in sorted(r['each'].items(), key=lambda x: -x[1])) or 'none'
+        lines.append(f"| {r['place']} | {mmss(r['t'])} | {r['kind']} | {r['pitch']} | {r['whole']:.1f} | {each} | {r['where']} |")
+    counts = collections.Counter(r['where'] for r in rows)
+    lines += ['', ', '.join(f'{v} {w or "with no number alone"}' for w, v in counts.most_common()) + '.']
+    if a.odd:
+        odd = [int(x) for x in a.odd.split(',')]
+        ok = [r for r in rows if r['alone'] == r['alone']]
+        lines += ['', f"## The places heard as wrong ({', '.join(map(str, odd))})", '']
+        for name, score, low in (('alone', 'alone', True), ('with everything less alone', 'gap', False)):
+            order = sorted(ok, key=lambda r: r[score] if low else -r[score]); rank = {r['place']: n + 1 for n, r in enumerate(order)}
+            mine = [rank[p] for p in odd if p in rank]; total = sum(mine)
+            share = sum(1 for c in combinations(range(1, len(ok) + 1), len(mine)) if sum(c) <= total) / math.comb(len(ok), len(mine))
+            lines.append(f"- By {name} ({'the lowest' if low else 'the most'} first), of {len(ok)} places: ranks "
+                         f"{', '.join(f'{p}: {rank[p]}' for p in odd if p in rank)}; "
+                         f"of every set of {len(mine)} places, {share:.1%} rank as near the first or nearer, added up.")
+    open(os.path.join(a.folder, 'TOGETHER.md'), 'w').write('\n'.join(lines) + '\n')
+    print('\n'.join(lines[4:]))
+
+
 def main():
     ap = argparse.ArgumentParser(); sub = ap.add_subparsers(dest='cmd', required=True)
     x = sub.add_parser('prepare'); x.add_argument('source'); x.add_argument('checkout'); x.add_argument('-o', required=True)
+    x = sub.add_parser('alone'); x.add_argument('source'); x.add_argument('checkout'); x.add_argument('folder')
+    x = sub.add_parser('together'); x.add_argument('folder'); x.add_argument('--top', type=int, default=20)
+    x.add_argument('--odd', help='the places heard as wrong, by their numbers: 1,28,34,39')
     x = sub.add_parser('notagen'); x.add_argument('module'); x.add_argument('notagen'); x.add_argument('folder')
     x = sub.add_parser('report'); x.add_argument('folder'); x.add_argument('--top', type=int, default=20)
     x = sub.add_parser('compare'); x.add_argument('folder'); x.add_argument('moments', nargs='+'); x.add_argument('--top', type=int, default=20)
@@ -572,7 +706,7 @@ def main():
     x.add_argument('--parts', action='append', default=[], help="ID=a folder `parts` wrote: the take's instruments alone")
     x = sub.add_parser('parts'); x.add_argument('render'); x.add_argument('module'); x.add_argument('-o', required=True)
     x.add_argument('--gains', help='a folder `parts` wrote for another take: the same level for each instrument')
-    a = ap.parse_args(); dict(prepare=prepare, notagen=notagen, report=report, compare=compare, page=page, parts=parts)[a.cmd](a)
+    a = ap.parse_args(); dict(prepare=prepare, alone=alone, together=together, notagen=notagen, report=report, compare=compare, page=page, parts=parts)[a.cmd](a)
 
 
 if __name__ == '__main__':

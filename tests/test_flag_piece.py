@@ -88,3 +88,62 @@ def test_parts_writes_each_instrument_alone_at_one_level(tmp_path):
     assert [g for g, _ in listed['parts']] == ['pno', 'pnoA'] and (out / 'pno.mp3').stat().st_size > 0   # the silent one left out
     FP.parts(argparse.Namespace(render=str(render), module=str(tmp_path / 'none.py'), o=str(tmp_path / 'parts-2'), gains=str(out)))
     assert json.load(open(tmp_path / 'parts-2' / 'parts.json'))['gains'] == listed['gains']       # the other take's levels kept
+
+
+CO = os.environ.get('ANTICIPATION', os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
+                                                 'jthickstun', 'anticipation'))
+needs_amt = pytest.mark.skipif(not os.path.isdir(os.path.join(CO, 'anticipation')), reason='no anticipation checkout')
+
+
+def two_parts(folder, change=None, name='notes_t.py'):
+    """a notes module: part a in halves of a second from 0 to 12 s, part b each second on C3, and at 5 s on a's C4 too"""
+    ev = [('a', i / 2, .5, 60 + 2 * (i % 2)) for i in range(25)] + [('b', float(i), 1.0, 48) for i in range(13)] + [('b', 5.0, 1.0, 60)]
+    if change: ev = [change(r) for r in ev]
+    path = os.path.join(folder, name); open(path, 'w').write(f'EV = {ev!r}\n'); return path
+
+
+def scores(inputs, high):
+    """fake bits for every note of each input: about 1 with a little spread, `high` {(input id, note time): bits} where given"""
+    import random
+    rnd = random.Random(1); out = []
+    for inp, times in inputs:
+        out.append(dict(id=inp, bits=[[high.get((inp, t), 1 + rnd.random() / 4), 0, 0, 1 + rnd.random() / 4, 0] for t in times]))
+    return out
+
+
+@needs_amt
+def test_each_part_is_prepared_by_itself_a_doubled_note_in_both(tmp_path):
+    import argparse
+    src = two_parts(str(tmp_path))
+    FP.prepare(argparse.Namespace(source=src, checkout=CO, o=str(tmp_path)))
+    notes = json.load(open(tmp_path / 'flag_notes.json'))['notes']
+    assert len(notes) == 25 + 13                                       # the doubled C4 heard once in the whole
+    FP.alone(argparse.Namespace(source=src, checkout=CO, folder=str(tmp_path)))
+    lines = {d['id']: d for d in map(json.loads, open(tmp_path / 'flag_amt_alone_inputs.jsonl'))}
+    assert sorted(lines) == ['a', 'b'] and len(lines['a']['index']) == 25 and len(lines['b']['index']) == 14
+    both = set(lines['a']['index']) & set(lines['b']['index'])
+    assert [notes[i][:3:2] for i in both] == [[5.0, 60]]
+    moved = two_parts(str(tmp_path), lambda r: (r[0], r[1], r[2], 61) if r[1] == 6.0 and r[0] == 'a' else r, 'notes_u.py')
+    with pytest.raises(SystemExit): FP.alone(argparse.Namespace(source=moved, checkout=CO, folder=str(tmp_path)))
+
+
+@needs_amt
+def test_a_place_surprising_only_with_the_rest_and_one_surprising_alone_too(tmp_path):
+    import argparse
+    src = two_parts(str(tmp_path))
+    FP.prepare(argparse.Namespace(source=src, checkout=CO, o=str(tmp_path)))
+    FP.alone(argparse.Namespace(source=src, checkout=CO, folder=str(tmp_path)))
+    notes = json.load(open(tmp_path / 'flag_notes.json'))['notes']
+    whole = [('piece', [n[0] for n in notes])]
+    write(tmp_path, 'flag_amt_large.jsonl', scores(whole, {('piece', 6.0): 9.0, ('piece', 8.0): 9.0}))
+    parts = [(d['id'], [notes[i][0] for i in d['index']]) for d in map(json.loads, open(tmp_path / 'flag_amt_alone_inputs.jsonl'))]
+    write(tmp_path, 'flag_amt_alone_large.jsonl', scores(parts, {('a', 8.0): 9.0, ('b', 8.0): 9.0}))
+    FP.together(argparse.Namespace(folder=str(tmp_path), top=2, odd=None))
+    rows = [l.split(' | ') for l in open(tmp_path / 'TOGETHER.md') if l.startswith('| ') and 'note' in l]
+    where = {r[1]: r[-1].strip(' |\n') for r in rows}
+    assert where['0:06.0'] == 'with the rest' and where['0:08.0'] == 'alone too'
+
+
+def test_the_first_note_of_each_onset():
+    w = [[0, 10, 20, 11000, 30, 20, 11001, 30, 20, 11002]]          # three notes, the second and third at one onset
+    assert FP.first_of_onset(w, [(0, 3), (0, 6), (0, 9)]) == [0, 1, 1]
