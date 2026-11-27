@@ -26,6 +26,12 @@
 - **The nearest found:** first and second endings, the oldest form of going back and going on differently; backtracking as a hidden generator (above).
 - **Not found** in two searches (a form made of a backtracking search the listener hears; returns and retries).
 - **What could go wrong:** it is the most likely of the three to be a demonstration: a piece about failing, its returns tedious unless each failure is an event worth hearing.
+- **Nearer than first and second endings** (read on 27 November 2026, before G was planned as a piece; Claude had named the first three from what it knew, then looked for sources):
+  - **Beethoven's Ninth, the finale:** after the opening fanfare "the themes of the first three movements appear in the orchestra, only to be emphatically rejected by a dramatic recitative in the cellos and basses" (the Cleveland Orchestra's note); "as if seeking a satisfactory vehicle for its expression; but each is discarded in turn" (Paul Brians's study notes). Another note reads it otherwise: the earlier movements are "not so much 'rejected' as integrated" (the Hollywood Bowl's). A search heard, its candidates refused one after another; but each candidate is a whole earlier theme, the way back to a choice point is never heard, and the theme found is a new one.
+  - **D'Indy's *Istar*** (1896): "a theme and variations in reverse order, saving the bare statement of the basic theme for the end" (WPR); "the variations proceed from complex textures to simple ones" (Nineteenth-Century Music Review, "Striptease as Ideology"). The same article cites Ehrhardt: Schumann's early *Beethoven-Variationen* also put the theme at the end. The tune whole for the first time at the end is not new.
+  - **Sibelius:** "teleological genesis", named by Hepokoski among the formal principles of Sibelius's later symphonic style (Ross, Journal of the Royal Musical Association, 2024). Its definition was not read here.
+  - **Tom Johnson's enumerations:** *The Chord Catalogue* (1985 or 1986; the sources differ), "all the 8178 chords possible in one octave", played in order; Johnson: "I want to find the music, not to compose it" (the title of his essay, Éditions 75). An exhaustive search heard, with no dead end and no return.
+  - **So what is left of G:** the return to the last choice point, the way there heard again, and the depth of a dead end heard as the length of the return. Not found in these readings.
 
 ### H. The deadlock
 
@@ -43,7 +49,11 @@ F, for what 79 taught: its tune stands by itself (the ancestor), and the rule is
 
 Philip, 27 November 2026: "They're really all interesting! We can start with F, then come back to G and H." F is composer-blend's piece 80.
 
+Then, the same day, after piece 80's second take: "let's go back then to G and H"; to G planned as a blend of two colours drawn as for 80, one searching and one judging, its tune written first and heard alone: "That sounds good to me!"
+
 ## Sources
+
+- For G's nearer precedents (27 November 2026), all from the search excerpts only: the Cleveland Orchestra's note on Beethoven's Ninth; Paul Brians's study materials (brians.wsu.edu); the Hollywood Bowl's note; WPR, "Symphonic striptease"; Nineteenth-Century Music Review, "Striptease as Ideology" (Cambridge); Ryan Ross, "Sibelian Formal Principles in the First Movement of Malcolm Arnold's Fifth Symphony", JRMA; Tom Johnson, "I want to find the music, not to compose it" (Éditions 75); the notes to *The Chord Catalogue* (Dram, Soundohm)
 
 - Wikipedia, "Tom Johnson (composer)"; Two-Eighteen Press's description of *Self-Similar Melodies* (sheetmusicplus.com)
 - Wikipedia, "Merge (version control)"
