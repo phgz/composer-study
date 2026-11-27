@@ -18,6 +18,20 @@ If both hold, the vector is taken to have learnt something of Strozzi and not on
 
 **The inputs** (`composer-vector-2026-11-27/inputs.jsonl`, made here with `notagen_steer.py prepare`): each work as NotaGen reads it under the prompt, from score-reader's copy of the CPDL archive. NotaGen's converter could not read 9 of the 48 files as they are; written out again by music21 first, 6 of those were read (marked `via` in each line). Not read at all: two of the vector's (*Il silentio nocivo*, *Che si può fare* in its modernized edition) and one of Caccini's (*S'io men vò*). So the vector is made of 18 works, all 8 held out are tested, and 19 of Caccini's: the rule above is unchanged.
 
-## Result
+## Result (27 November 2026; the vector and the scores made on Philip's Mac and pushed the same day)
 
-Not run yet: the vector and the scores are made on Philip's Mac.
+```
+python3 study/notagen_steer.py test checks/composer-vector-2026-11-27/scores.jsonl checks/composer-vector-2026-11-27/split.json
+```
+
+The vector: 18 works (the two the converter could not read left out), length 26.69.
+
+| | works | bits a character, no steering | saving at α 0.1 | at α 0.3 | at α 0.5 |
+|---|---|---|---|---|---|
+| Strozzi, the vector's own | 18 | 0.620 | +0.0020 (0.33%) | +0.0047 (0.78%) | +0.0059 (1.01%) |
+| Strozzi, held out | 8 | 0.677 | +0.0021 (0.31%) | +0.0047 (0.69%) | +0.0055 (0.81%) |
+| Caccini, the control | 19 | 0.951 | +0.0047 (0.49%) | +0.0126 (1.29%) | +0.0184 (1.88%) |
+
+**It fails the second condition, and it is not used.** Every held-out work of Strozzi's is cheaper with the vector (8 of 8 at every α), but every one of Caccini's is too (19 of 19), and by more: at α 0.3, 0.0126 bits a character against 0.0047, more even as a share (1.29% against 0.69%), and more than her own 18 works that made the vector gain (0.78%). So the direction is not Strozzi's: it helps NotaGen most where it was most surprised (Caccini's editions, 0.95 bits a character against Strozzi's 0.62 to 0.68), whatever it holds of the kind of score the two share. And the savings are small, under 2% at most.
+
+**What is left of the NotaGen fork:** fine-tuning, on a rented GPU. Against it, found here: the favourites NotaGen does not know have few scores it can read (Strozzi 28, of which 26 converted; Buxtehude 17 and Weber 17, Borodin 8; Rameau's 108 are LilyPond, Pachelbel's mostly MIDI), so a fine-tuned model would learn from a few dozen pieces at best.
