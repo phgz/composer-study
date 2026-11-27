@@ -39,6 +39,10 @@
 
 F, for what 79 taught: its tune stands by itself (the ancestor), and the rule is how the two colours of a blend act on each other, which is what the project's pieces already do. G is the most likely to be new and to be a demonstration. H gives a single strong event (the deadlock chord) that a piece could be built toward.
 
+## What next
+
+Philip, 27 November 2026: "They're really all interesting! We can start with F, then come back to G and H." F is composer-blend's piece 80.
+
 ## Sources
 
 - Wikipedia, "Tom Johnson (composer)"; Two-Eighteen Press's description of *Self-Similar Melodies* (sheetmusicplus.com)
