@@ -10,8 +10,8 @@ NotaGen joins them where the piece declares its notation (composer-blend's tools
             every pitched part (a drum's part left out by its name), a pitch struck twice at once heard once, all on the piano,
             no given notes; writes <folder>/flag_amt_inputs.jsonl and flag_notes.json
   score     on the Mac, where the weights are:
-            python study/amt_score.py ~/models/music-large-800k  <folder>/flag_amt_inputs.jsonl -o <folder>/flag_amt_large.jsonl
-            python study/amt_score.py ~/models/music-medium-800k <folder>/flag_amt_inputs.jsonl -o <folder>/flag_amt_medium.jsonl
+            python study/amt_score.py "/Volumes/Music Libraries/models/music-large-800k"  <folder>/flag_amt_inputs.jsonl -o <folder>/flag_amt_large.jsonl
+            python study/amt_score.py "/Volumes/Music Libraries/models/music-medium-800k" <folder>/flag_amt_inputs.jsonl -o <folder>/flag_amt_medium.jsonl
   notagen   python3 study/flag_piece.py notagen <notes module> <NotaGen checkout> <folder>      (after prepare)
             the piece exported as a score (composer-blend's tools/export.py, from the module's EXPORT), read as NotaGen reads a
             score, once under each of NotaGen's 112 prompts (its gradio/prompts.txt: period, composer, instrumentation): none of
