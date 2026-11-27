@@ -1,0 +1,494 @@
+# What has not been made yet: the lists
+
+34 pages, 497 numbered entries. Written by `study/gaps.py`; the reading of them is in `checks/`.
+
+## 1. What the techniques work on
+
+| | melody | harmony | rhythm | texture | form | loudness | colour |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **melody** (127) |  | 25 | 31 | 19 | 36 | 0 | 20 |
+| **harmony** (109) | 25 |  | 9 | 22 | 37 | 3 | 9 |
+| **rhythm** (119) | 31 | 9 |  | 33 | 34 | 2 | 19 |
+| **texture** (133) | 19 | 22 | 33 |  | 40 | 7 | 45 |
+| **form** (189) | 36 | 37 | 34 | 40 |  | 23 | 29 |
+| **loudness** (34) | 0 | 3 | 2 | 7 | 23 |  | 8 |
+| **colour** (132) | 20 | 9 | 19 | 45 | 29 | 8 |  |
+
+A dimension's total, and in each cell the techniques tagged with both. Tagged with one dimension only: melody 24, harmony 25, rhythm 23, texture 10, form 29, loudness 4, colour 34.
+
+## 2. What no piece has taken
+
+- **Alexander Borodin** (3 of 10 not taken; pieces: 67): 6. The middle is quicker and made of a rising scale [melody, rhythm, form]; 8. It ends on one high held note [form, colour]; 10. Grace notes and trills on the singing line [melody, colour]
+- **Alexandre Desplat** (2 of 17 not taken; pieces: 68, 68b): 7. A scale with a raised fourth and a lowered second, on the organ [harmony, colour]; 11. Suspense by pulse and low woodwinds [rhythm, colour]
+- **Antonín Dvořák** (1 of 15 not taken; pieces: 65, 70, 70b): 4. The quick part is longer than the slow part it interrupts [form]
+- **Arcangelo Corelli** (3 of 7 not taken; pieces: 73): 4. A cadence figure [melody]; 6. Clarity and sobriety [harmony, melody]; 7. The violin [colour]
+- **Astor Piazzolla** (4 of 14 not taken; pieces: 71): 10. Fast parts rough, slow parts sung [melody, rhythm]; 11. The close without the dominant [harmony]; 12. Extended harmonies and dissonance [harmony]; 13. The quintet [colour, background]
+- **Barbara Strozzi** (1 of 7 not taken; pieces: 70, 70b): 6. A strongly metred, smooth line with its dissonances placed with care [melody, rhythm, background]
+- **Carl Maria von Weber** (0 of 8 not taken; pieces: 70, 70b): all taken
+- **Dieterich Buxtehude** (3 of 7 not taken; pieces: 73): 3. The voices breathe with the ground's halves [melody, form]; 4. Free and strict in turn [form, texture]; 6. The organ works on a ground [form, harmony]
+- **Emilie Mayer** (1 of 8 not taken; pieces: 72): 7. Through-composed and lyrical [background, form]
+- **Eric Whitacre** (4 of 22 not taken; pieces: 66, 71): 12. October's layout [form]; 17. Added notes as the rule [harmony]; 19. Call and answer, falling [texture, form, loudness]; 22. Slow, together, steady [rhythm, texture]
+- **Felix Mendelssohn** (1 of 14 not taken; pieces: 64, 71): 13. The C minor subject: one low note struck again between the steps of a rising line [melody, rhythm]
+- **Florence Price** (11 of 41 not taken; pieces: 62, 63, 69): 7. A statement in four bars [form, loudness]; 19. A sudden flutter upward in the strings [texture, colour]; 22. Third symphony [texture, form, colour]; 23. Fourth symphony [form]; 31. Fourth symphony [rhythm, form]; 32. The dance as a surprise [rhythm, form]; 34. A short figure handed quickly from bassoon to oboe to flute to clarinet to strings; [texture, colour]; 37. An unsettled slow introduction, a turbulent and dissonant first theme, and a lush second theme first on the solo trombone [harmony, melody, colour]; 38. A serene slow movement, interrupted again and again by whole-tone music [harmony, form]; 39. A blues-influenced theme inside the juba [melody]; 40. A finale of swirling colours that ends in dissonance, roaring percussion and chordal interjections [colour, loudness, form]
+- **George Gershwin** (2 of 9 not taken; pieces: 72): 7. One five-note blues motif for a whole piece [melody, rhythm, form]; 8. A question in the minor, an answer in the major [harmony, form]
+- **Gustav Mahler** (2 of 10 not taken; pieces: 71): 7. The second song turns to the major and back [harmony, form]; 8. The cycle ends in the light [harmony, form]
+- **Hildegard von Bingen** (2 of 7 not taken; pieces: 74b): 2. A wide range [melody]; 7. A sung play in which only the Devil cannot sing [form, colour, background]
+- **Jean-Philippe Rameau** (10 of 20 not taken; pieces: 63, 69): 6. They are short [form]; 10. By step [melody]; 13. The chaconne begins on the second beat and changes from minor to major inside itself [harmony, rhythm, form]; 14. Rigaudon [rhythm, form]; 15. Gavotte [rhythm, form]; 16. He strung dances together in great numbers [form]; 17. Thunder: every part repeats one note as fast as it can, then the top breaks into rushing scales [rhythm, texture, colour]; 18. The infernal air: short rushes that land on long notes [rhythm, melody]; 19. The furies: the top and the bass run in scales, the middle repeats [texture, rhythm]; 20. Pluto enters with the whole band in one rhythm [rhythm, texture]
+- **Joaquín Rodrigo** (4 of 17 not taken; pieces: 66, 74b): 11. Old Spain, flamenco and the eighteenth century at once [harmony, rhythm]; 12. The Adagio for winds is A B A B A [form]; 14. Another composer's old dances as the material [melody, form, background]; 17. An interlude movement [form]
+- **Johannes Brahms** (1 of 11 not taken; pieces: 69): 9. Variations of different lengths [form]
+- **John Adams** (0 of 6 not taken; pieces: 73): all taken
+- **John Cage** (3 of 17 not taken; pieces: 64, 73): 4. Two halves, each repeated [form]; 15. Uneven bars so that the proportions come out [rhythm, form]; 17. The set itself in symmetry [form]
+- **John Rutter** (4 of 17 not taken; pieces: 67): 7. Mostly one plain major key, with catchy chromatic touches [harmony]; 8. The pipe [melody, colour]; 10. A small cell worked [melody]; 16. A sudden far key by renaming one note [harmony]
+- **John Tavener** (0 of 24 not taken; pieces: 61, 63, 68, 68b, sketch 22 November 2026): all taken
+- **Julia Wolfe** (6 of 16 not taken; pieces: 74): 5. A rhythm stamped out by a player [rhythm]; 7. Voices that for a moment sound like plainchant [melody]; 8. A list of names, sung in an order [form, rhythm]; 10. Few textures for a long span [form, texture]; 13. A list of flowers, folk-like, as a rest [melody, form]; 14. A solo manifesto against thick ensemble responses [texture]
+- **Ludwig van Beethoven** (2 of 14 not taken; pieces: 65, 74b): 6. He changes keynote for it, not only mode [harmony, form]; 9. The hymns grow, the other sections do not [form]
+- **Maurice Duruflé** (4 of 15 not taken; pieces: 65): 1. The chant itself, always there [melody, texture]; 8. Two forms of one note side by side [harmony]; 11. Other scales in what he adds himself [harmony]; 13. Calm, like Fauré's [form, loudness]
+- **Meredith Monk** (10 of 17 not taken; pieces: 74): 3. A slower minor ostinato in one hand, four-bar segments, hollow fifths [harmony, form, texture]; 5. Wide leaps, and an instrument playing the line's mirror [melody, texture, form]; 8. Modal melodies over a simple keyboard accompaniment [harmony, melody]; 10. A tune that leaves a note out, and one that reaches short and then corrects itself [melody]; 11. Everyone's theme at once, to the scene's climax [texture, form]; 12. A self-hocket, then a hocket between singers [texture, rhythm]; 13. Rapid syllables traded between groups; the end in unison across octaves [texture, form]; 14. Sounds beyond singing, each with a dramatic role [colour]; 15. A held vowel falling a minor third, the second syllable almost lost [melody, colour]; 16. Accents that shift phase, tapped by feet [rhythm]
+- **Mieczysław Weinberg** (4 of 21 not taken; pieces: 67, 72): 4. Not really childish [melody, rhythm]; 12. Clear home notes [harmony]; 19. Melancholy and flurries [rhythm, form]; 20. A slow fugato, the instruments entering obediently in turn [form, texture]
+- **Nikolai Rimsky-Korsakov** (10 of 24 not taken; pieces: 68, 68b): 1. The strings carry the melody [colour, melody]; 2. A tune set apart [melody, texture]; 3. Woodwinds in their natural order, and the pairs that work [colour]; 4. Brass for fanfares and plain tunes; horns for the soft and poetic [colour, melody]; 5. Strings with brass: which pairs join [colour]; 6. Harmony settled before it is scored, and scored by colour [harmony, colour, texture]; 17. A character as a solo violin over a harp [colour, form]; 18. The other character in the bass, on a whole-tone scale [melody, harmony]; 20. Keys a major third apart, side by side [harmony]; 24. A stern song low in the voice, over a rocking sea [melody, harmony, colour]
+- **Piotr Ilyich Tchaikovsky** (2 of 9 not taken; pieces: 64): 6. One colour to a dance [colour]; 7. Wordless voices [colour]
+- **Reinhold Glière** (7 of 20 not taken; pieces: 68, 68b, 74): 3. The hero's fanfare, angular, coming back far off and then noble [melody, form]; 5. A forest of birdsong, long and voluptuous [colour, texture]; 6. A melody in the baritone register, led by the cellos [melody, colour]; 7. Broad frescos, not nervous fragments [form]; 12. Classical form, Russian romantic colour [form, background]; 19. Two movements, two qualities of the voice [form]; 14. A touch of the pentatonic for a far country [melody, harmony]
+- **Richard Wagner** (1 of 9 not taken; pieces: 70, 70b): 6. Uneven rhythm and unexpected notes [rhythm, melody]
+- **Sergei Rachmaninoff** (4 of 16 not taken; pieces: 67, 74b): 4. When it comes back it is the same music, thicker [texture, form, loudness]; 9. The Dies irae [melody]; 14. A plain tune that turns into figuration [melody, texture]; 15. The last tune loud, at the end, in the major; [form, rhythm]
+- **William Grant Still** (4 of 12 not taken; pieces: 74): 6. A slow movement on one tonal centre [harmony]; 9. The blues tune returning in the finale, quicker, merging, a fiery coda [form]; 10. Choirs alternating for colour [colour]; 12. The strings as drums [rhythm, colour]
+- **Wolfgang Amadeus Mozart** (2 of 16 not taken; pieces: 66, 72): 5. A serenade is many short movements, with a slow one in the middle of dances [form]; 9. Trios thin the band [texture, colour]
+
+## 3. The purposes (*Why*), by dimension
+
+### melody (50 with a *Why*, of 127)
+
+- Alexander Borodin 9, Two tunes heard apart, then together: the Russian tune stands for the Russians, the Eastern one for the Central Asians, the plucked figure for the hooves of horses and camels; sounding together, the two peoples meet "in a common harmony"; at the end the caravan passes into the distance under Russian escort. [Wikipedia, Steppes] *(his words)*
+- Alexandre Desplat 3, A character as one instrument, on a trembling note: the trembling of the mandolins suits Gustave's serenity and elegance; the whistling is Elisa's carefree moments. [NPR; Far Out; RTÉ] *(his words; a listener)*
+- Alexandre Desplat 6, A major tune clouded by its flat sixth: the flat sixth is a bittersweet longing; taking it away makes the theme plainly positive. [Film Music Notes] *(an analysis)*
+- Alexandre Desplat 8, A short staccato motif that loses its danger: the creature ceases to be a threat. [MovieMusicUK] *(a listener)*
+- Antonín Dvořák 5, A long note thrown across the bar line: the long note begins on the bar's last eighth and runs over the bar line, so the weight falls where the metre has none. **[score: op. 51]** *(from the score)*
+- Barbara Strozzi 2, The voice stops in the middle of the walk: the bass never starts again together with a phrase of the voice: her silences fall while it is still walking, and its new start comes under her singing. **[score: Che si può fare]** *(from the score)*
+- Emilie Mayer 3, The child's cry, three times, each higher: the cry keeps its shape and its repeated notes, so that only its height, and at the end its direction, changes. **[score: Der Erlkönig]** *(from the score)*
+- Eric Whitacre 14, Simple lines, dense chords: it is the crossing of simple parts that makes the dense harmony, and the process can take precedence over traditional harmonic function and voice leading, or replace them. [Larson] *(an analysis)*
+- Florence Price 2, Five notes: the five-note scale ties her tunes to African American music, jazz and the blues among it. [UNC] *(an analysis)*
+- Florence Price 3, Swinging thirds, and a sixth that stays: the swing across 6, 1 and 3 is a mark of Black vernacular music, and the sixth stands as a note in its own right, not one waiting to fall to the fifth. [Hutchinson] *(an analysis)*
+- Hildegard von Bingen 2, A wide range: her melodies have been said to soar and to push past the bounds of Gregorian chant. [Wikipedia, Hildegard] *(an analysis)*
+- Hildegard von Bingen 3, The leap of a fifth up from the keynote, at the start: she uses the church modes with her own stress on fifths and octaves. [Morent] *(an analysis)*
+- Joaquín Rodrigo 2, The melody gathers ornaments as it goes: the ornaments come from the Baroque concerto (Vivaldi to Bach), and each return makes the tune more emotional. [Steinberg] *(an analysis)*
+- Johannes Brahms 6, Twice as fast, in another metre, and the first movement comes back: an analysis says the movement unifies the work with a theme related to the first movement's opening theme. [Hollywood Bowl] *(an analysis)*
+- Johannes Brahms 7, The two themes at once, three against two: the same unifying aim as technique 6. [Hollywood Bowl] *(an analysis)*
+- John Cage 5, Few pitches: a few notes, often five, hint at a centre, which gives the music focus and a sense of closing without the usual keys. [Pearson] *(an analysis)*
+- John Rutter 9, Tunes that sing and do not leap: lines that amateur choirs can sing, and a serene mood that dissonance would break. [Kálló] *(an analysis)*
+- John Rutter 10, A small cell worked: widening the fifth to an octave opens the voice's range and gives the tune room to move. [Kálló] *(an analysis)*
+- John Tavener 2, A short tune and its exact mirror, sung together: the strict mirror makes two keys sound at once (in *The Lamb*, G major and E flat major) on one tonal ground; its clashes give brief colour and tension against the smooth, stepwise tune. [Pearson] *(an analysis)*
+- John Tavener 3, Palindromes: a symmetrical, circular shape that ends where it began, static as an icon is. [Imrie] *(an analysis)*
+- John Tavener 9, Even notes without a metre, a long note at the end of each line: the music follows the words, not a metre ("always guided by the words"); the long notes weigh the ends of the lines, and the whole has the manner of chant. [Pearson; Lorenz] *(his words; an analysis)*
+- John Tavener 10, A narrow tune: Byzantine melody is built from a mode's formulas, not from a scale, and that gives the tunes their Byzantine character. [Imrie] *(an analysis)*
+- John Tavener 18, Register as a story: the low line is the woman's low standing; the last phrase rising "releases" her. [Imrie] *(an analysis)*
+- Julia Wolfe 1, Many versions of one ballad, broken and woven into one: to tell "the story of the story", and to embody the many paths it travelled at once. [Cal Performances, Steel Hammer] *(her words)*
+- Julia Wolfe 3, Oscillating minor thirds and cycling syncopations: a radio critic heard her music there as "totally relentless, like a steam-powered drill" boring through a mountain. [Wikipedia, Steel Hammer] *(a listener)*
+- Ludwig van Beethoven 1, A hymn in the Lydian mode: the mode gives the hymn an old, church-like quality, one linked with healing; its B naturals keep turning away from the chords the ear expects. [Chamber Music Society] *(an analysis)*
+- Ludwig van Beethoven 5, It alternates with "feeling new strength.": the dance-like sections hint at his recovery, as the heading says. [Chamber Music Society] *(his words)*
+- Maurice Duruflé 5, The chant moved to other levels: each new level brings new chromatic notes, and the modes compete. [Wiles] *(an analysis)*
+- Meredith Monk 5, Wide leaps, and an instrument playing the line's mirror: the thesis notes that an in-tune tenth is rare in operatic vocal writing. [Monaghan] *(an analysis)*
+- Meredith Monk 10, A tune that leaves a note out, and one that reaches short and then corrects itself: the thesis reads the mother's corrected leap as her resolve to let her daughter go. [Monaghan] *(an analysis)*
+- Mieczysław Weinberg 1, A wordless song at the start, and the same song at the end, sadder: the return, sadder, is a lament for what has been lost (the review's phrase is the land of lost content). [MusicWeb] *(an analysis)*
+- Mieczysław Weinberg 4, Not really childish: in Stalin's Russia the Jewish content of the poems could not be named, so the cycle was called children's songs; there is little that is childish in it. [MusicWeb] *(an analysis)*
+- Mieczysław Weinberg 6, A dance tune over an even, plain accompaniment: a memory of carefree Jewish family life in Poland before the war, seen as a child sees it. [Uniarts] *(an analysis)*
+- Mieczysław Weinberg 7, The folk manner is pushed until it turns: like an unwanted memory that keeps breaking into one's thoughts, until the carefree turns to sorrow and despair. [Uniarts] *(an analysis)*
+- Mieczysław Weinberg 17, Chromatic slips: the slip gives the tune a suggestion of cheekiness. [Darwin, quoting Elphick] *(an analysis)*
+- Nikolai Rimsky-Korsakov 1, The strings carry the melody: the strings join notes warmly and hold them, which makes them "far and away" the best melodic medium; each string has its own colour, the violin's top string brilliant. [Principles, ch. I-II] *(his words)*
+- Nikolai Rimsky-Korsakov 2, A tune set apart: a tune in the middle of the texture is lost without one of these; very high up, alone, it becomes "too isolated" and needs the octave for fullness and firmness. [Principles, ch. II] *(his words)*
+- Nikolai Rimsky-Korsakov 4, Brass for fanfares and plain tunes; horns for the soft and poetic: the brass has power, simplicity and eloquence but no passion; a passionate phrase on it turns "sickly and insipid". [Principles, ch. II] *(his words)*
+- Nikolai Rimsky-Korsakov 8, A phrase passed between instruments: for a phrase wider than one instrument's range, or to divide a phrase between two colours. [Principles, ch. IV] *(his words)*
+- Nikolai Rimsky-Korsakov 14, Chant in a free rhythm: the uneven metre suggests the free rhythm of unaccompanied chant; the opening hymn avoids its third and fifth degrees, which gives it an old, modal sound. [BSO; DuPage] *(an analysis)*
+- Nikolai Rimsky-Korsakov 18, The other character in the bass, on a whole-tone scale: he used the whole-tone and octatonic scales mainly for the fantastic sections of his operas, the magical and supernatural; here the grim motif is the domineering Sultan. [Wikipedia, Rimsky-Korsakov; Wikipedia, Scheherazade] *(an analysis)*
+- Piotr Ilyich Tchaikovsky 4, A tune that is only a scale: an embellished scale in the cellos' comfortable register lets them play out with their full tone. [New York City Ballet] *(a listener)*
+- Reinhold Glière 2, An Orthodox chant for the pilgrims, first low in the winds, last as a full hymn: the two old pilgrims are the chant; its growth at the end is the army of heaven multiplying. [Chandos; ASO] *(an analysis)*
+- Reinhold Glière 6, A melody in the baritone register, led by the cellos: a Russian strand that the note traces back to Glinka. [ASO] *(an analysis)*
+- Reinhold Glière 18, A line conceived for an instrument, with almost nowhere to breathe: the voice set in a traditionally instrumental place, its expression left to the singer. [Buja 2018; Buja 2023] *(an analysis)*
+- Richard Wagner 1, A short phrase climbs by half steps to a dominant seventh, and stops: the opening chord moves on to the dominant seventh rather than to its nearest consonance, and the home chord that seventh points to does not come: a silence stands in its place. [Wikipedia, Tristan chord] **[score: Tristan prelude]** *(an analysis; from the score)*
+- Sergei Rachmaninoff 1, The toll: three low notes, one to a beat, each in three octaves: bells: the slow outer sections bring Russian Orthodox bell-ringing into the piano, the sound of Russia in his early music. [Frolova-Walker] *(an analysis)*
+- Sergei Rachmaninoff 5, The peal: high notes coming down by step, each alternating with one fixed pair of notes: the peal is joined to a fanfare, as in Rimsky-Korsakov's *Kitezh*. [Frolova-Walker] *(an analysis)*
+- Sergei Rachmaninoff 8, His tunes move by step and circle a few notes: his tunes come from Russian Orthodox chant, which he took so deeply into his language that it is everywhere in it; one interval per prelude ties the tune to the figures around it (in the B flat prelude the fourth is both the tune's call and the accompaniment's shape). [Frolova-Walker] *(an analysis)*
+- William Grant Still 1, One blues melody as the theme of the whole symphony: in his notes of 1931, the blues are more purely Black in character than many spirituals; he wanted music recognisable as in the idiom of Black Americans, and in 1964 said he had had no programme in mind. He portrays "the sons of the soil", not the "New Negro". [Bard; Wikipedia, Afro-American Symphony; BSO] *(his words)*
+
+### harmony (52 with a *Why*, of 109)
+
+- Alexander Borodin 4, A held note under it: for the first 23 bars the bass never leaves the keynote, so the thirds and the off-beat chords move over a floor that does not move. **[score: Notturno]** *(from the score)*
+- Alexandre Desplat 6, A major tune clouded by its flat sixth: the flat sixth is a bittersweet longing; taking it away makes the theme plainly positive. [Film Music Notes] *(an analysis)*
+- Alexandre Desplat 7, A scale with a raised fourth and a lowered second, on the organ: scored "fearfully" on organ, for a melodramatic horror effect. [Film Music Notes] *(an analysis)*
+- Antonín Dvořák 2, One keynote, and the mode flips: the keynote stays, so the change of mood is made by the mode alone. **[score: op. 51, second movement]** *(from the score)*
+- Arcangelo Corelli 2, A chain of sevenths falling by fifths: each seventh is a note kept from the chord before, so the chain moves by suspension: one voice holds while the bass falls, and resolves as the next voice holds. **[score: op. 3 no. 7]** *(from the score)*
+- Astor Piazzolla 8, A circling bass: the rise to the climax is held up by the modulations every four bars; the bass's ostinato is what carries the music through them. [Holten-Andersen] *(an analysis)*
+- Dieterich Buxtehude 1, A ground that never changes: nothing in the bass changes, so everything that makes the piece go somewhere happens above it. **[score: Laudate pueri Dominum]** *(from the score)*
+- Emilie Mayer 2, The lure stops the ride: the running bass stops entirely only under the Elf King, the child's answers to him, and the end; everywhere else the ride goes on under the voice. **[score: Der Erlkönig]** *(from the score)*
+- Eric Whitacre 3, Chords built in seconds, fourths and fifths: in the climax, fourths in the bass add to the tension and release that the piece is built on. [Milne] *(an analysis)*
+- Eric Whitacre 4, The keynote is avoided for long stretches, and the dominant is softened: the suspensions (bars 30 to 35 of the band *Lux Aurumque*) give each line room to be heard inside the chord. [Milne] *(an analysis)*
+- Eric Whitacre 14, Simple lines, dense chords: it is the crossing of simple parts that makes the dense harmony, and the process can take precedence over traditional harmonic function and voice leading, or replace them. [Larson] *(an analysis)*
+- Eric Whitacre 17, Added notes as the rule: the added notes make movement where there might have been none (*With a Lily in Your Hand*, bars 1 to 3); a writer cited by the same thesis says that added seconds thicken the chord and give it momentum. [Hall] *(an analysis)*
+- Eric Whitacre 18, The keynote held while the dissonance moves over it: the keynote under moving dissonance gives the opening its first impression of darkness and irregularity. [Wikipedia, Water Night] *(a listener)*
+- Florence Price 3, Swinging thirds, and a sixth that stays: the swing across 6, 1 and 3 is a mark of Black vernacular music, and the sixth stands as a note in its own right, not one waiting to fall to the fifth. [Hutchinson] *(an analysis)*
+- Florence Price 9, A lowered seventh on the home chord, leaning into the fourth; then a chain of borrowed dominants to the cadence: the lowered seventh is a blue note, and it also turns away the cadence the phrase seemed to reach; the chain of dominants then drives to the real one. [Hutchinson] *(an analysis)*
+- Florence Price 11, Keys a third apart: the third that her tunes swing across (6, 1, 3) becomes the distance between the sections, so the form makes the tune's swing on a large scale. [Hutchinson] *(an analysis)*
+- Florence Price 12, The close is plagal: the plagal chords carry one last 6-1-3 swing; only at the very end does the sixth act as a sixth usually does and fall to the fifth. [Hutchinson] *(an analysis)*
+- Florence Price 14, A hymn of her own for the brass choir: a proud, hopeful hymn out of her own life in the church, where a symphony's slow movement would not lead one to expect it; the brass in four parts gives it a sense of transcendence. [WETA; Philadelphia] *(a listener)*
+- Gustav Mahler 3, One keynote, and the major flickers: the major is never established as a key: it comes for a chord over the same keynote and is gone, and the last major chord (bar 77) is followed by the minor close. **[score: song 1]** *(from the score)*
+- Gustav Mahler 7, The second song turns to the major and back: the major passage that closes the song is not allowed to end it: the dominant it prepares resolves to the minor chord. **[score: song 2]** *(from the score)*
+- Gustav Mahler 8, The cycle ends in the light: the last song ends in a major key and a mood of transcendence; the article reads the end as saying that death is powerful and love stronger. [Wikipedia, Kindertotenlieder] *(an analysis)*
+- Hildegard von Bingen 3, The leap of a fifth up from the keynote, at the start: she uses the church modes with her own stress on fifths and octaves. [Morent] *(an analysis)*
+- Jean-Philippe Rameau 1, A whole dance over a bass that does not move: the low G never changes, so all the movement is above it and the dance never leaves its keynote. **[score: rigaudon 1]** *(from the score)*
+- Jean-Philippe Rameau 3, A drum made of the keynote and its fifth: the bass imitates the drum of the Provençal pipe and tabor, in a repetitive figure that is hardly a tune, while the tune above plays the pipe. [Wikipedia, Tambourin] *(an analysis)*
+- Joaquín Rodrigo 7, A quiet close in the major: the major offsets the tragedy of the minor, a consolation. [Steinberg] *(an analysis)*
+- Joaquín Rodrigo 11, Old Spain, flamenco and the eighteenth century at once: flamenco is held inside a classical frame; its dissonance and rhythms make plain material striking. [Steinberg] *(an analysis)*
+- John Adams 3, Gates: a square wave between two modes: he describes it as "in the form of a modulating square wave", one state Lydian and the other Phrygian. [Wikipedia, Phrygian Gates] *(his words)*
+- John Cage 5, Few pitches: a few notes, often five, hint at a centre, which gives the music focus and a sense of closing without the usual keys. [Pearson] *(an analysis)*
+- John Cage 11, No chord progressions: he dismissed harmony in 1946 as a tool of Western commercial music, and a prepared note's pitch no longer behaves as a key expects; endings are made by rhythm and by steps instead. [Pearson] *(his words; an analysis)*
+- John Rutter 16, A sudden far key by renaming one note: a sudden opening, which lets the soprano rise to a high A flat. [Kálló] *(an analysis)*
+- John Tavener 1, The ison: a note that does not move: a sign of timelessness, the divine always there; it also anchors the key and keeps a sound going where there is little accompaniment. [Imrie; Lorenz] *(an analysis)*
+- John Tavener 2, A short tune and its exact mirror, sung together: the strict mirror makes two keys sound at once (in *The Lamb*, G major and E flat major) on one tonal ground; its clashes give brief colour and tension against the smooth, stepwise tune. [Pearson] *(an analysis)*
+- John Tavener 5, Parallel triads in place of harmony: moving in parallel, the voices lose their independence and sound as one voice made rich, as an organ stop colours a single note; the harmony comes from the line. [Lorenz; Imrie] *(an analysis)*
+- John Tavener 6, The same thing in major and in minor, side by side, with no way between: the change of mode colours without changing the key: there is no way to modulate, so the change is abrupt. [Imrie] *(an analysis)*
+- John Tavener 13, One blazing major chord after modal music: the first climax of the work, which stands apart from the modal music around it. [Imrie] *(an analysis)*
+- Ludwig van Beethoven 1, A hymn in the Lydian mode: the mode gives the hymn an old, church-like quality, one linked with healing; its B naturals keep turning away from the chords the ear expects. [Chamber Music Society] *(an analysis)*
+- Ludwig van Beethoven 6, He changes keynote for it, not only mode: the new strength comes in a key with two sharps, outside the hymn's white notes, so the two never share a scale. **[score]** *(from the score)*
+- Maurice Duruflé 4, Modes, not keys: the chords come from lines moving in the mode's notes, which recalls early music; nothing pulls toward a keynote as major and minor do. [Wiles] *(an analysis)*
+- Maurice Duruflé 5, The chant moved to other levels: each new level brings new chromatic notes, and the modes compete. [Wiles] *(an analysis)*
+- Maurice Duruflé 6, A long held bass: a reciting tone under the chant; as the chant moves to other levels over it, it leaves the mode in doubt. [Wiles] *(an analysis)*
+- Maurice Duruflé 8, Two forms of one note side by side: the B flat avoids the tritone, as chant singers did; side by side with B natural it sets two modes against each other, the main source of chromatic tension in the mass. [Wiles] *(an analysis)*
+- Maurice Duruflé 10, The end reaches the major by the flat sixth and flat seventh: the flat sixth and flat seventh reach the keynote without the half step that pulls into it in major and minor, so the close keeps the mode of the opening and hints at the whole-tone scale. It is set with the voices still singing the chant, which stays between modes, while the organ's melody brings the C sharp that makes D major certain. [Wiles] *(an analysis)*
+- Meredith Monk 9, Two keys at once in the keyboard: A flat major fifths over F major octaves: the thesis reads the rising octaves as the resolution of the heroine's conflict, and the two keys at once as a sign that can be heard either way. [Monaghan] *(an analysis)*
+- Nikolai Rimsky-Korsakov 6, Harmony settled before it is scored, and scored by colour: a fault in the movement of the parts spoils the sound whatever the instruments; giving a dissonance another colour, or a held note another colour than a moving one, keeps each heard. [Principles, ch. III] *(his words)*
+- Nikolai Rimsky-Korsakov 18, The other character in the bass, on a whole-tone scale: he used the whole-tone and octatonic scales mainly for the fantastic sections of his operas, the magical and supernatural; here the grim motif is the domineering Sultan. [Wikipedia, Rimsky-Korsakov; Wikipedia, Scheherazade] *(an analysis)*
+- Reinhold Glière 4, The whole-tone scale for terror and the supernatural: the booklet hears it as the sign of terror and the supernatural, a line that runs back to Glinka's *Ruslan and Ludmilla*. [Chandos] *(an analysis)*
+- Richard Wagner 1, A short phrase climbs by half steps to a dominant seventh, and stops: the opening chord moves on to the dominant seventh rather than to its nearest consonance, and the home chord that seventh points to does not come: a silence stands in its place. [Wikipedia, Tristan chord] **[score: Tristan prelude]** *(an analysis; from the score)*
+- Richard Wagner 2, The same phrase again, higher, with the silences shortening: the three statements are heard each on a different pitch level, and the outer notes of the three rising lines spell the first chord. [UT Austin, Tristan and Isolde] *(an analysis)*
+- Richard Wagner 4, Dominants that seldom go home: the prelude reaches its keynote's chord after a dominant three times in 110 bars: everywhere else the expectation a dominant sets up is left open. **[score: Tristan prelude, Meistersinger prelude]** *(from the score)*
+- Richard Wagner 7, A march that keeps arriving home: against the *Tristan* prelude, the same composer's other way: the dominant leads home about a third of the time, and the piece ends in a long stretch of its home key. **[score: Meistersinger prelude, Tristan prelude]** *(from the score)*
+- Sergei Rachmaninoff 2, The three notes go on underneath as the bass: the same three notes stay under everything, so the toll is never gone while the chords move above it. **[score: op. 3 no. 2]** *(from the score)*
+- Sergei Rachmaninoff 3, Each low note is answered off the beat by a thick chord higher up: the low note and the chord never begin together: each stroke is heard alone first, and the chord comes into its ringing. **[score: op. 3 no. 2]** *(from the score)*
+
+### rhythm (41 with a *Why*, of 119)
+
+- Alexandre Desplat 15, Five keyboards at once for the speed of a mind: to bring out the speed, the fast activity of the brain. [LAist] *(his words)*
+- Antonín Dvořák 5, A long note thrown across the bar line: the long note begins on the bar's last eighth and runs over the bar line, so the weight falls where the metre has none. **[score: op. 51]** *(from the score)*
+- Antonín Dvořák 6, The furiant's count: 2+2+2+3+3: the irregular accents are what make its rhythm wild; the dancer's jumps and stamps follow them. [Wikipedia, Furiant] *(an analysis)*
+- Astor Piazzolla 6, The piano as a drum, the bass as weight: the bass's percussive accents hold up the 2/4 metre under the displaced rhythms. [Holten-Andersen] *(an analysis)*
+- Astor Piazzolla 9, The slow section stands still: without displaced layers or a regular unit in the bass, nothing pushes the music on. [Holten-Andersen] *(an analysis; a listener)*
+- Eric Whitacre 10, Slow: perhaps to give the sound more time to die away; the thesis offers this as likely, not as known. [Milne] *(an analysis)*
+- Eric Whitacre 22, Slow, together, steady: in *Sleep*, the effect is of a haze of sound without any sense of forward motion. [Hall, citing Lynch] *(a listener)*
+- Florence Price 4, Short, long, short: the figure comes back across the movements and holds the symphony together; it holds back the arrival the ear expects, which pushes the music forward. In the slow movement it sits earlier in the beat and feels settled. [WETA] *(an analysis)*
+- Florence Price 15, Drums under the hymn: the same hand drums come back in the juba, which ties the slow movement to the dance. [WETA] *(an analysis)*
+- Florence Price 25, What it imitates: the body did the drums' work because drums were banned, and the dance was a way to let out frustration and anger, as the WETA programme tells it. [WETA] *(an analysis)*
+- Florence Price 30, Third symphony: its blues theme brings another side of Black vernacular music into the symphony. [LA Phil] *(an analysis)*
+- Florence Price 35, Triplets high in the violins against twos below: the two rhythms never line up, which makes the surface ripple, like light on water. [WETA] *(a listener)*
+- Jean-Philippe Rameau 1, A whole dance over a bass that does not move: the low G never changes, so all the movement is above it and the dance never leaves its keynote. **[score: rigaudon 1]** *(from the score)*
+- Jean-Philippe Rameau 3, A drum made of the keynote and its fifth: the bass imitates the drum of the Provençal pipe and tabor, in a repetitive figure that is hardly a tune, while the tune above plays the pipe. [Wikipedia, Tambourin] *(an analysis)*
+- Joaquín Rodrigo 5, The solo (cadenza) goes from intimate to dancing: the drop to quiet and the abrupt stop at the top leave the listener in suspense, and that is what the orchestra's entry answers. [Steinberg] *(an analysis)*
+- Joaquín Rodrigo 9, Two and three mixed: mixing bars of two and three keeps the speed taut to the last bar. [Wikipedia, Aranjuez] *(an analysis)*
+- Joaquín Rodrigo 11, Old Spain, flamenco and the eighteenth century at once: flamenco is held inside a classical frame; its dissonance and rhythms make plain material striking. [Steinberg] *(an analysis)*
+- Johannes Brahms 6, Twice as fast, in another metre, and the first movement comes back: an analysis says the movement unifies the work with a theme related to the first movement's opening theme. [Hollywood Bowl] *(an analysis)*
+- Johannes Brahms 7, The two themes at once, three against two: the same unifying aim as technique 6. [Hollywood Bowl] *(an analysis)*
+- John Cage 3, Numbers before notes: one number governs both the phrase and the whole, so the piece is built like itself at every scale, after the natural order he took from Coomaraswamy. [Pearson] *(an analysis)*
+- John Cage 7, Silence built in: the spaces between the gestures count as much as the gestures; they make a fragile world and punctuate each piece. [Pearson] *(an analysis)*
+- John Cage 15, Uneven bars so that the proportions come out: the metre changes serve the proportions, not the other way round. [Wikipedia, Sonatas and Interludes] *(an analysis)*
+- John Rutter 13, Bells for joy: the bright scoring makes the movement lively and exclamatory, like the seraphim of Isaiah 6; the running sixteenths keep it moving to its loud end. It is the work's jubilant centre. [Wikipedia, Requiem; Kálló] *(an analysis)*
+- John Rutter 14, A steady beat on one note: the same pulse ties the opening to the *Agnus Dei*, the two dark movements. [Kálló] *(an analysis)*
+- John Tavener 9, Even notes without a metre, a long note at the end of each line: the music follows the words, not a metre ("always guided by the words"); the long notes weigh the ends of the lines, and the whole has the manner of chant. [Pearson; Lorenz] *(his words; an analysis)*
+- John Tavener 17, A climax made by condensing and slowing: that is what makes Ikon X the climax of the work. [Imrie] *(an analysis)*
+- Julia Wolfe 3, Oscillating minor thirds and cycling syncopations: a radio critic heard her music there as "totally relentless, like a steam-powered drill" boring through a mountain. [Wikipedia, Steel Hammer] *(a listener)*
+- Julia Wolfe 8, A list of names, sung in an order: she meant to sing every victim's name and was alarmed by how many there were; the diversity of the miners' origins is heard in the names. [Cal Performances, Anthracite Fields; Wikipedia, Anthracite Fields] *(her words)*
+- Ludwig van Beethoven 2, Two note values: the long notes are the chorale played as chorales were then played in church, very slowly: his thanks "to the Godhead" for his recovery. [Chamber Music Society] *(an analysis; his words)*
+- Ludwig van Beethoven 5, It alternates with "feeling new strength.": the dance-like sections hint at his recovery, as the heading says. [Chamber Music Society] *(his words)*
+- Maurice Duruflé 2, Chant's rhythm kept: shifting groups of two and three: to keep the rhythmic motion of chant: changing metres blur the bar line, so there are no strong beats, which chant does not have. He wanted to reconcile the Solesmes rhythm with modern metre as far as he could. [Wiles; All Classical] *(an analysis; his words)*
+- Mieczysław Weinberg 4, Not really childish: in Stalin's Russia the Jewish content of the poems could not be named, so the cycle was called children's songs; there is little that is childish in it. [MusicWeb] *(an analysis)*
+- Mieczysław Weinberg 6, A dance tune over an even, plain accompaniment: a memory of carefree Jewish family life in Poland before the war, seen as a child sees it. [Uniarts] *(an analysis)*
+- Mieczysław Weinberg 8, The stuck record: the pianist seems to have gone, and the part sounds like a piano roll or a record that has stuck: the memory that will not leave. [Uniarts] *(an analysis)*
+- Mieczysław Weinberg 14, Music for children and for the circus and cartoons: his lullabies keep rocking, but the poems carry an adult's need for comfort and a comment on society, so they do not stay simple. [MusicWeb] *(an analysis)*
+- Nikolai Rimsky-Korsakov 13, Church bells made by the orchestra: he was proud of this "bell-ness" and claimed to have invented it; the bells are the joyful congregation. [BSO; DuPage] *(his words; an analysis)*
+- Nikolai Rimsky-Korsakov 14, Chant in a free rhythm: the uneven metre suggests the free rhythm of unaccompanied chant; the opening hymn avoids its third and fifth degrees, which gives it an old, modal sound. [BSO; DuPage] *(an analysis)*
+- Sergei Rachmaninoff 3, Each low note is answered off the beat by a thick chord higher up: the low note and the chord never begin together: each stroke is heard alone first, and the chord comes into its ringing. **[score: op. 3 no. 2]** *(from the score)*
+- Sergei Rachmaninoff 5, The peal: high notes coming down by step, each alternating with one fixed pair of notes: the peal is joined to a fanfare, as in Rimsky-Korsakov's *Kitezh*. [Frolova-Walker] *(an analysis)*
+- William Grant Still 7, The scherzo: the banjo, a theme with a horn counter-melody, a fanfare that interrupts: the banjo is there for local colour, in a movement heard as a "leap for joy"; one historian (Catherine Parsons Smith, cited by the BSO's note) hears Still playing the trickster in it, behind the minstrel mask. [Hollywood Bowl; BSO] *(an analysis)*
+- Wolfgang Amadeus Mozart 8, A syncopated pulse under solo lines: it makes the movement almost an operatic ensemble, passionate and sensuous (Goodwin, as quoted). [Wikipedia] *(a listener)*
+
+### texture (54 with a *Why*, of 133)
+
+- Alexander Borodin 1, The cello sings first, high, and alone has the tune: the first violin's silence keeps its sound back for bar 24, where its first notes are the tune again, two octaves higher (technique 5). **[score: Notturno]** *(from the score)*
+- Alexander Borodin 4, A held note under it: for the first 23 bars the bass never leaves the keynote, so the thirds and the off-beat chords move over a floor that does not move. **[score: Notturno]** *(from the score)*
+- Alexander Borodin 9, Two tunes heard apart, then together: the Russian tune stands for the Russians, the Eastern one for the Central Asians, the plucked figure for the hooves of horses and camels; sounding together, the two peoples meet "in a common harmony"; at the end the caravan passes into the distance under Russian escort. [Wikipedia, Steppes] *(his words)*
+- Alexandre Desplat 5, A cimbalom alone, then the tune: the minor suits his seriousness; the theme fades from the film as he loses control. [Film Music Notes] *(an analysis)*
+- Alexandre Desplat 15, Five keyboards at once for the speed of a mind: to bring out the speed, the fast activity of the brain. [LAist] *(his words)*
+- Arcangelo Corelli 2, A chain of sevenths falling by fifths: each seventh is a note kept from the chord before, so the chain moves by suspension: one voice holds while the bass falls, and resolves as the next voice holds. **[score: op. 3 no. 7]** *(from the score)*
+- Astor Piazzolla 1, Counterpoint in the tango, sometimes a strict fugue: the counterpoint lets each performer in the group assert his voice. [Wikipedia, Astor Piazzolla] *(an analysis)*
+- Astor Piazzolla 6, The piano as a drum, the bass as weight: the bass's percussive accents hold up the 2/4 metre under the displaced rhythms. [Holten-Andersen] *(an analysis)*
+- Emilie Mayer 2, The lure stops the ride: the running bass stops entirely only under the Elf King, the child's answers to him, and the end; everywhere else the ride goes on under the voice. **[score: Der Erlkönig]** *(from the score)*
+- Eric Whitacre 8, The climax is made by doubling, octaves and suspensions: the doubling, the octaves and the suspensions are there to make the climax stronger; he wanted the horns to "sing high and triumphant". [Milne] *(an analysis; his words)*
+- Eric Whitacre 14, Simple lines, dense chords: it is the crossing of simple parts that makes the dense harmony, and the process can take precedence over traditional harmonic function and voice leading, or replace them. [Larson] *(an analysis)*
+- Eric Whitacre 18, The keynote held while the dissonance moves over it: the keynote under moving dissonance gives the opening its first impression of darkness and irregularity. [Wikipedia, Water Night] *(a listener)*
+- Eric Whitacre 22, Slow, together, steady: in *Sleep*, the effect is of a haze of sound without any sense of forward motion. [Hall, citing Lynch] *(a listener)*
+- Felix Mendelssohn 6, Once, a single violin comes forward: a smoother, harder passage set against the staccato before it returns, and a place for the dedicatee, Eduard Rietz, the first violinist. [Sussex] *(an analysis)*
+- Florence Price 19, A sudden flutter upward in the strings: it comes from her life as an organist, the organ fantasy or toccata. [WETA] *(an analysis)*
+- Florence Price 22, Third symphony: the whole-tone passages mark it as music of the twentieth century, not the nineteenth. [LA Phil] *(an analysis)*
+- Florence Price 34, A short figure handed quickly from bassoon to oboe to flute to clarinet to strings;: several winds joined on their shared notes make one long instrument, and the passage opens out like a pastoral landscape with birds in it. [WETA] *(a listener)*
+- Florence Price 35, Triplets high in the violins against twos below: the two rhythms never line up, which makes the surface ripple, like light on water. [WETA] *(a listener)*
+- George Gershwin 1, Variations on his own songs, made at the piano for company: printed sheet music is kept simple for buyers with "little hands"; his playing at parties brought "the desire for complication and variety", and printing the variations might prolong the songs' life. [Predota, quoting the preface] *(his words)*
+- Gustav Mahler 1, A large orchestra used as a chamber orchestra: used at that scale, the instruments gave him a wide variety of timbres to explore. [Wikipedia, Kindertotenlieder] *(an analysis)*
+- Jean-Philippe Rameau 1, A whole dance over a bass that does not move: the low G never changes, so all the movement is above it and the dance never leaves its keynote. **[score: rigaudon 1]** *(from the score)*
+- Joaquín Rodrigo 4, The guitar talks with single winds and the horn: he described the movement as a dialogue between the guitar and solo instruments; these exchanges prepare the guitar's solo. [Wikipedia, Aranjuez; Steinberg] *(his words; an analysis)*
+- John Adams 2, Repeating cells that build large shapes: the cells' repetition is the material from which the large shapes are built. [Wikipedia, John Adams] *(his words)*
+- John Cage 6, One line: a thin texture lets the prepared notes' delicate colours be heard. [Pearson] *(an analysis)*
+- John Rutter 11, A solo instrument per movement: each solo sets its movement's mood: the oboe's singable tune the hope of *The Lord is my shepherd*, the harp the calm beyond words of the *Pie Jesu*. [Kálló] *(an analysis)*
+- John Rutter 13, Bells for joy: the bright scoring makes the movement lively and exclamatory, like the seraphim of Isaiah 6; the running sixteenths keep it moving to its loud end. It is the work's jubilant centre. [Wikipedia, Requiem; Kálló] *(an analysis)*
+- John Tavener 1, The ison: a note that does not move: a sign of timelessness, the divine always there; it also anchors the key and keeps a sound going where there is little accompaniment. [Imrie; Lorenz] *(an analysis)*
+- John Tavener 4, Canon as a texture, not as an argument: a dense, overlapping sound in place of a working-out, and a sense of tradition. [Imrie; Lorenz] *(an analysis)*
+- John Tavener 5, Parallel triads in place of harmony: moving in parallel, the voices lose their independence and sound as one voice made rich, as an organ stop colours a single note; the harmony comes from the line. [Lorenz; Imrie] *(an analysis)*
+- John Tavener 8, Growth by adding voices, not by developing: the themes are few, so the variety comes from the scoring; in the *Magnificat* the chord growing from three voices to eight is the magnifying of Mary. [Imrie; Lorenz] *(an analysis)*
+- John Tavener 12, A halo of held notes: a shimmering sound that stands for a halo. [Imrie] *(an analysis)*
+- John Tavener 14, Stillness written in: peace, an eerie stillness, a floating feeling. [Imrie] *(an analysis)*
+- John Tavener 16, One theme on more and more of one instrument: the thesis hears the massed cellos as a distinctly spiritual sound. [Imrie] *(an analysis)*
+- John Tavener 19, Pictures in the instruments, rarely: each paints its scene. [Imrie] *(an analysis)*
+- Maurice Duruflé 3, Organ and voices take turns with the chant, in one unbroken stream: an exchange like two choirs, as in Frescobaldi's organ masses, with the chant carried through without a break; the chant, not a plan of keys, shapes the music. [Wiles] *(an analysis)*
+- Maurice Duruflé 6, A long held bass: a reciting tone under the chant; as the chant moves to other levels over it, it leaves the mode in doubt. [Wiles] *(an analysis)*
+- Maurice Duruflé 12, The organ comes and goes: in his words the organ stands for peace, faith and hope, and it relieves the orchestra's "all too human" sound for a moment; it does not support the choir. [All Classical] *(his words)*
+- Meredith Monk 5, Wide leaps, and an instrument playing the line's mirror: the thesis notes that an in-tune tenth is rare in operatic vocal writing. [Monaghan] *(an analysis)*
+- Mieczysław Weinberg 8, The stuck record: the pianist seems to have gone, and the part sounds like a piano roll or a record that has stuck: the memory that will not leave. [Uniarts] *(an analysis)*
+- Mieczysław Weinberg 10, A solo that plays alone: the two solos carry the deepest sorrow of the sonata (David Fanning's reading, as the source reports it). [Uniarts] *(an analysis)*
+- Mieczysław Weinberg 14, Music for children and for the circus and cartoons: his lullabies keep rocking, but the poems carry an adult's need for comfort and a comment on society, so they do not stay simple. [MusicWeb] *(an analysis)*
+- Mieczysław Weinberg 15, Violent pizzicato chords as accompaniment: the plucked chord brings a hint of violence into music that is otherwise tender. [Darwin, quoting Elphick] *(an analysis)*
+- Nikolai Rimsky-Korsakov 2, A tune set apart: a tune in the middle of the texture is lost without one of these; very high up, alone, it becomes "too isolated" and needs the octave for fullness and firmness. [Principles, ch. II] *(his words)*
+- Nikolai Rimsky-Korsakov 6, Harmony settled before it is scored, and scored by colour: a fault in the movement of the parts spoils the sound whatever the instruments; giving a dissonance another colour, or a held note another colour than a moving one, keeps each heard. [Principles, ch. III] *(his words)*
+- Nikolai Rimsky-Korsakov 8, A phrase passed between instruments: for a phrase wider than one instrument's range, or to divide a phrase between two colours. [Principles, ch. IV] *(his words)*
+- Nikolai Rimsky-Korsakov 11, A voice accompanied lightly: the singer must be able to use every shade of loudness; long held notes cover a voice more than short ones; doubling it all the time replaces its own colour. [Principles, ch. V] *(his words)*
+- Nikolai Rimsky-Korsakov 13, Church bells made by the orchestra: he was proud of this "bell-ness" and claimed to have invented it; the bells are the joyful congregation. [BSO; DuPage] *(his words; an analysis)*
+- Nikolai Rimsky-Korsakov 15, Solos between the chants: the solos are the light from the tomb at the Resurrection; the trombone and the strings are the priest and the people. [DuPage; BSO] *(an analysis)*
+- Nikolai Rimsky-Korsakov 21, Primary colours in the full orchestra: he brought out the "primary hues" of the instruments instead of mixing them. [Wikipedia, Rimsky-Korsakov] *(an analysis)*
+- Reinhold Glière 5, A forest of birdsong, long and voluptuous: the birdsong is the robber's enchantment, and the booklet compares the slow music to Scriabin's and the climax to the love music of *Tristan*. [Chandos; ASO] *(an analysis)*
+- Sergei Rachmaninoff 2, The three notes go on underneath as the bass: the same three notes stay under everything, so the toll is never gone while the chords move above it. **[score: op. 3 no. 2]** *(from the score)*
+- Sergei Rachmaninoff 3, Each low note is answered off the beat by a thick chord higher up: the low note and the chord never begin together: each stroke is heard alone first, and the chord comes into its ringing. **[score: op. 3 no. 2]** *(from the score)*
+- Sergei Rachmaninoff 5, The peal: high notes coming down by step, each alternating with one fixed pair of notes: the peal is joined to a fanfare, as in Rimsky-Korsakov's *Kitezh*. [Frolova-Walker] *(an analysis)*
+- Wolfgang Amadeus Mozart 8, A syncopated pulse under solo lines: it makes the movement almost an operatic ensemble, passionate and sensuous (Goodwin, as quoted). [Wikipedia] *(a listener)*
+
+### form (70 with a *Why*, of 189)
+
+- Alexander Borodin 9, Two tunes heard apart, then together: the Russian tune stands for the Russians, the Eastern one for the Central Asians, the plucked figure for the hooves of horses and camels; sounding together, the two peoples meet "in a common harmony"; at the end the caravan passes into the distance under Russian escort. [Wikipedia, Steppes] *(his words)*
+- Alexandre Desplat 5, A cimbalom alone, then the tune: the minor suits his seriousness; the theme fades from the film as he loses control. [Film Music Notes] *(an analysis)*
+- Alexandre Desplat 8, A short staccato motif that loses its danger: the creature ceases to be a threat. [MovieMusicUK] *(a listener)*
+- Antonín Dvořák 2, One keynote, and the mode flips: the keynote stays, so the change of mood is made by the mode alone. **[score: op. 51, second movement]** *(from the score)*
+- Astor Piazzolla 1, Counterpoint in the tango, sometimes a strict fugue: the counterpoint lets each performer in the group assert his voice. [Wikipedia, Astor Piazzolla] *(an analysis)*
+- Astor Piazzolla 8, A circling bass: the rise to the climax is held up by the modulations every four bars; the bass's ostinato is what carries the music through them. [Holten-Andersen] *(an analysis)*
+- Astor Piazzolla 9, The slow section stands still: without displaced layers or a regular unit in the bass, nothing pushes the music on. [Holten-Andersen] *(an analysis; a listener)*
+- Barbara Strozzi 2, The voice stops in the middle of the walk: the bass never starts again together with a phrase of the voice: her silences fall while it is still walking, and its new start comes under her singing. **[score: Che si può fare]** *(from the score)*
+- Dieterich Buxtehude 1, A ground that never changes: nothing in the bass changes, so everything that makes the piece go somewhere happens above it. **[score: Laudate pueri Dominum]** *(from the score)*
+- Emilie Mayer 3, The child's cry, three times, each higher: the cry keeps its shape and its repeated notes, so that only its height, and at the end its direction, changes. **[score: Der Erlkönig]** *(from the score)*
+- Eric Whitacre 5, One idea, in changing colours: he says that holding to one idea is what gives a piece unity, direction and purpose. [Milne] *(his words)*
+- Eric Whitacre 7, Low instruments held back: at the opening the low instruments would spoil the balance and clarity of each two-note chord; held out, they keep their low sound for the word *gravisque* (heavy), where they come in; the contrabassoon is added for its own colour and range. [Milne] *(an analysis)*
+- Eric Whitacre 11, It ends by fading: in *Lux Aurumque* the clarinet perhaps holds the last note for its colour and because its breath is easy to control (the thesis's guess). [Milne] *(an analysis)*
+- Eric Whitacre 12, October's layout: the order small group, full band, small group is what gives the serene, expressive mood he aimed at; the euphonium's solo tells by its contrast with the clarinets' trills. [Wikipedia, October] *(an analysis)*
+- Felix Mendelssohn 5, It ends by vanishing: the sound disperses instead of closing with force, a weightless end. [Sussex] *(an analysis)*
+- Florence Price 11, Keys a third apart: the third that her tunes swing across (6, 1, 3) becomes the distance between the sections, so the form makes the tune's swing on a large scale. [Hutchinson] *(an analysis)*
+- Florence Price 12, The close is plagal: the plagal chords carry one last 6-1-3 swing; only at the very end does the sixth act as a sixth usually does and fall to the fifth. [Hutchinson] *(an analysis)*
+- Florence Price 22, Third symphony: the whole-tone passages mark it as music of the twentieth century, not the nineteenth. [LA Phil] *(an analysis)*
+- Florence Price 24, A juba where the scherzo would be: a juba keeps what the minuet had (a dance) and what the scherzo had (humour); she held rhythm to be the most important element of African American music. [Classics for Kids; ASO] *(an analysis; her words)*
+- George Gershwin 1, Variations on his own songs, made at the piano for company: printed sheet music is kept simple for buyers with "little hands"; his playing at parties brought "the desire for complication and variety", and printing the variations might prolong the songs' life. [Predota, quoting the preface] *(his words)*
+- Gustav Mahler 7, The second song turns to the major and back: the major passage that closes the song is not allowed to end it: the dominant it prepares resolves to the minor chord. **[score: song 2]** *(from the score)*
+- Gustav Mahler 8, The cycle ends in the light: the last song ends in a major key and a mood of transcendence; the article reads the end as saying that death is powerful and love stronger. [Wikipedia, Kindertotenlieder] *(an analysis)*
+- Joaquín Rodrigo 5, The solo (cadenza) goes from intimate to dancing: the drop to quiet and the abrupt stop at the top leave the listener in suspense, and that is what the orchestra's entry answers. [Steinberg] *(an analysis)*
+- Joaquín Rodrigo 6, Then the tune, loud, by everyone: the orchestra is held back until here, so that its one full statement overwhelms. [Steinberg] *(an analysis)*
+- Joaquín Rodrigo 7, A quiet close in the major: the major offsets the tragedy of the minor, a consolation. [Steinberg] *(an analysis)*
+- Joaquín Rodrigo 9, Two and three mixed: mixing bars of two and three keeps the speed taut to the last bar. [Wikipedia, Aranjuez] *(an analysis)*
+- Johannes Brahms 6, Twice as fast, in another metre, and the first movement comes back: an analysis says the movement unifies the work with a theme related to the first movement's opening theme. [Hollywood Bowl] *(an analysis)*
+- Johannes Brahms 7, The two themes at once, three against two: the same unifying aim as technique 6. [Hollywood Bowl] *(an analysis)*
+- John Adams 2, Repeating cells that build large shapes: the cells' repetition is the material from which the large shapes are built. [Wikipedia, John Adams] *(his words)*
+- John Adams 3, Gates: a square wave between two modes: he describes it as "in the form of a modulating square wave", one state Lydian and the other Phrygian. [Wikipedia, Phrygian Gates] *(his words)*
+- John Cage 3, Numbers before notes: one number governs both the phrase and the whole, so the piece is built like itself at every scale, after the natural order he took from Coomaraswamy. [Pearson] *(an analysis)*
+- John Cage 4, Two halves, each repeated: the plan of the Baroque keyboard sonata, Scarlatti's; the repeats balance the two halves. [Pearson] *(an analysis)*
+- John Cage 7, Silence built in: the spaces between the gestures count as much as the gestures; they make a fragile world and punctuate each piece. [Pearson] *(an analysis)*
+- John Cage 11, No chord progressions: he dismissed harmony in 1946 as a tool of Western commercial music, and a prepared note's pitch no longer behaves as a key expects; endings are made by rhythm and by steps instead. [Pearson] *(his words; an analysis)*
+- John Cage 14, Symmetry for calm, at the end of the set: he explained the symmetry, and the one unit for all four, as an expression of tranquillity, the ninth emotion, toward which the other eight tend. [Wikipedia, Sonatas and Interludes] *(his words; an analysis)*
+- John Cage 15, Uneven bars so that the proportions come out: the metre changes serve the proportions, not the other way round. [Wikipedia, Sonatas and Interludes] *(an analysis)*
+- John Rutter 15, The end is the beginning: the work closes in a circle, from tension to peace. [Kálló] *(an analysis)*
+- John Tavener 3, Palindromes: a symmetrical, circular shape that ends where it began, static as an icon is. [Imrie] *(an analysis)*
+- John Tavener 7, Blocks, not transitions; refrains; ending where it began: clear, static structures; ending on the opening, with no climax at the close, is like an icon, which asks nothing of the mind. [Imrie] *(an analysis)*
+- John Tavener 8, Growth by adding voices, not by developing: the themes are few, so the variety comes from the scoring; in the *Magnificat* the chord growing from three voices to eight is the magnifying of Mary. [Imrie; Lorenz] *(an analysis)*
+- John Tavener 13, One blazing major chord after modal music: the first climax of the work, which stands apart from the modal music around it. [Imrie] *(an analysis)*
+- John Tavener 14, Stillness written in: peace, an eerie stillness, a floating feeling. [Imrie] *(an analysis)*
+- John Tavener 16, One theme on more and more of one instrument: the thesis hears the massed cellos as a distinctly spiritual sound. [Imrie] *(an analysis)*
+- John Tavener 17, A climax made by condensing and slowing: that is what makes Ikon X the climax of the work. [Imrie] *(an analysis)*
+- John Tavener 18, Register as a story: the low line is the woman's low standing; the last phrase rising "releases" her. [Imrie] *(an analysis)*
+- Julia Wolfe 1, Many versions of one ballad, broken and woven into one: to tell "the story of the story", and to embody the many paths it travelled at once. [Cal Performances, Steel Hammer] *(her words)*
+- Julia Wolfe 8, A list of names, sung in an order: she meant to sing every victim's name and was alarmed by how many there were; the diversity of the miners' origins is heard in the names. [Cal Performances, Anthracite Fields; Wikipedia, Anthracite Fields] *(her words)*
+- Ludwig van Beethoven 5, It alternates with "feeling new strength.": the dance-like sections hint at his recovery, as the heading says. [Chamber Music Society] *(his words)*
+- Ludwig van Beethoven 6, He changes keynote for it, not only mode: the new strength comes in a key with two sharps, outside the hymn's white notes, so the two never share a scale. **[score]** *(from the score)*
+- Maurice Duruflé 10, The end reaches the major by the flat sixth and flat seventh: the flat sixth and flat seventh reach the keynote without the half step that pulls into it in major and minor, so the close keeps the mode of the opening and hints at the whole-tone scale. It is set with the voices still singing the chant, which stays between modes, while the organ's melody brings the C sharp that makes D major certain. [Wiles] *(an analysis)*
+- Meredith Monk 5, Wide leaps, and an instrument playing the line's mirror: the thesis notes that an in-tune tenth is rare in operatic vocal writing. [Monaghan] *(an analysis)*
+- Mieczysław Weinberg 1, A wordless song at the start, and the same song at the end, sadder: the return, sadder, is a lament for what has been lost (the review's phrase is the land of lost content). [MusicWeb] *(an analysis)*
+- Mieczysław Weinberg 7, The folk manner is pushed until it turns: like an unwanted memory that keeps breaking into one's thoughts, until the carefree turns to sorrow and despair. [Uniarts] *(an analysis)*
+- Nikolai Rimsky-Korsakov 9, Echo and imitation by colour: an echo must sound like the same thing farther off; strings and winds are too unlike for that. [Principles, ch. IV] *(his words)*
+- Nikolai Rimsky-Korsakov 10, Colour spent with care: the winds, plucked strings and percussion tire the listener sooner than the strings; a colour that has rested is heard anew. [Principles, ch. I and IV] *(his words)*
+- Nikolai Rimsky-Korsakov 15, Solos between the chants: the solos are the light from the tomb at the Resurrection; the trombone and the strings are the priest and the people. [DuPage; BSO] *(an analysis)*
+- Nikolai Rimsky-Korsakov 16, From the solemn to the pagan: he wanted the feast's "legendary and heathen side": from the gloomy evening before Easter to the pagan-religious merrymaking of Easter morning. [Wikipedia, Easter Overture; DuPage] *(his words)*
+- Piotr Ilyich Tchaikovsky 8, A scene that grows to one chord: the great chord comes as the lights come up, so the sound and the sight arrive together. [New York City Ballet] *(an analysis)*
+- Reinhold Glière 2, An Orthodox chant for the pilgrims, first low in the winds, last as a full hymn: the two old pilgrims are the chant; its growth at the end is the army of heaven multiplying. [Chandos; ASO] *(an analysis)*
+- Reinhold Glière 7, Broad frescos, not nervous fragments: the note sets it against Mahler's "nervous discontinuities": these are large "mighty frescos". [ASO] *(an analysis)*
+- Reinhold Glière 8, The end turned to stone, and a return backwards through the work: the petrification of Ilya; the note calls the coda's backward return a "cyclic regression". [Chandos; ASO] *(an analysis)*
+- Reinhold Glière 9, A voice without words as the concerto's soloist: a whole concerto for that "instrument" was new, though a wordless voice was not (Rachmaninoff's *Vocalise*); written in the war, in an old-fashioned, nostalgic idiom meant to give listeners relief. [sin80; BBC Music Magazine] *(an analysis)*
+- Reinhold Glière 18, A line conceived for an instrument, with almost nowhere to breathe: the voice set in a traditionally instrumental place, its expression left to the singer. [Buja 2018; Buja 2023] *(an analysis)*
+- Richard Wagner 1, A short phrase climbs by half steps to a dominant seventh, and stops: the opening chord moves on to the dominant seventh rather than to its nearest consonance, and the home chord that seventh points to does not come: a silence stands in its place. [Wikipedia, Tristan chord] **[score: Tristan prelude]** *(an analysis; from the score)*
+- Richard Wagner 2, The same phrase again, higher, with the silences shortening: the three statements are heard each on a different pitch level, and the outer notes of the three rising lines spell the first chord. [UT Austin, Tristan and Isolde] *(an analysis)*
+- Richard Wagner 4, Dominants that seldom go home: the prelude reaches its keynote's chord after a dominant three times in 110 bars: everywhere else the expectation a dominant sets up is left open. **[score: Tristan prelude, Meistersinger prelude]** *(from the score)*
+- Richard Wagner 7, A march that keeps arriving home: against the *Tristan* prelude, the same composer's other way: the dominant leads home about a third of the time, and the piece ends in a long stretch of its home key. **[score: Meistersinger prelude, Tristan prelude]** *(from the score)*
+- William Grant Still 1, One blues melody as the theme of the whole symphony: in his notes of 1931, the blues are more purely Black in character than many spirituals; he wanted music recognisable as in the idiom of Black Americans, and in 1964 said he had had no programme in mind. He portrays "the sons of the soil", not the "New Negro". [Bard; Wikipedia, Afro-American Symphony; BSO] *(his words)*
+- William Grant Still 7, The scherzo: the banjo, a theme with a horn counter-melody, a fanfare that interrupts: the banjo is there for local colour, in a movement heard as a "leap for joy"; one historian (Catherine Parsons Smith, cited by the BSO's note) hears Still playing the trickster in it, behind the minstrel mask. [Hollywood Bowl; BSO] *(an analysis)*
+- Wolfgang Amadeus Mozart 4, The orchestra's winds come for the repeats and the joins only: the soloist sings over the strings alone, so the winds' colour marks only the repeats and the joins. **[score: K. 622]** *(from the score)*
+
+### loudness (15 with a *Why*, of 34)
+
+- Alexandre Desplat 16, A small orchestra behind: so that the music does not become pompous or overwhelming. [LAist] *(his words)*
+- Eric Whitacre 8, The climax is made by doubling, octaves and suspensions: the doubling, the octaves and the suspensions are there to make the climax stronger; he wanted the horns to "sing high and triumphant". [Milne] *(an analysis; his words)*
+- Eric Whitacre 11, It ends by fading: in *Lux Aurumque* the clarinet perhaps holds the last note for its colour and because its breath is easy to control (the thesis's guess). [Milne] *(an analysis)*
+- Felix Mendelssohn 2, Pianissimo and staccato throughout: to keep the music light, detached and airy, the fairy world of his later *Midsummer Night's Dream* overture. [Sussex] *(an analysis)*
+- Felix Mendelssohn 5, It ends by vanishing: the sound disperses instead of closing with force, a weightless end. [Sussex] *(an analysis)*
+- Florence Price 21, Quiet: its small changes of loudness keep it reverent, optimistic and spacious. [New Bedford; Philadelphia] *(a listener)*
+- Joaquín Rodrigo 6, Then the tune, loud, by everyone: the orchestra is held back until here, so that its one full statement overwhelms. [Steinberg] *(an analysis)*
+- John Tavener 13, One blazing major chord after modal music: the first climax of the work, which stands apart from the modal music around it. [Imrie] *(an analysis)*
+- John Tavener 14, Stillness written in: peace, an eerie stillness, a floating feeling. [Imrie] *(an analysis)*
+- John Tavener 17, A climax made by condensing and slowing: that is what makes Ikon X the climax of the work. [Imrie] *(an analysis)*
+- John Tavener 20, Bells that carry the music, at the edge of hearing: in his words the handbells carry the basic material; the very soft playing he tied to his own near-deafness while writing it. In the Orthodox vigil service, the thesis says, handbells take the place of unaccompanied music. [His note on *The Last Sleep*; Imrie] *(his words; an analysis)*
+- Mieczysław Weinberg 15, Violent pizzicato chords as accompaniment: the plucked chord brings a hint of violence into music that is otherwise tender. [Darwin, quoting Elphick] *(an analysis)*
+- Nikolai Rimsky-Korsakov 7, A swell made by adding groups: "neither musical feeling nor the ear" can bear the full orchestra for long. [Principles, ch. IV] *(his words)*
+- Piotr Ilyich Tchaikovsky 8, A scene that grows to one chord: the great chord comes as the lights come up, so the sound and the sight arrive together. [New York City Ballet] *(an analysis)*
+- Reinhold Glière 8, The end turned to stone, and a return backwards through the work: the petrification of Ilya; the note calls the coda's backward return a "cyclic regression". [Chandos; ASO] *(an analysis)*
+
+### colour (69 with a *Why*, of 132)
+
+- Alexander Borodin 1, The cello sings first, high, and alone has the tune: the first violin's silence keeps its sound back for bar 24, where its first notes are the tune again, two octaves higher (technique 5). **[score: Notturno]** *(from the score)*
+- Alexandre Desplat 1, Each film its own sound: in his words, so that each score feels particular to its story. [Tatler] *(his words)*
+- Alexandre Desplat 2, One family of woodwinds only: to evoke water (the review); for him, "the feeling of water", its lukewarm warmth, which he ties to love. [MovieMusicUK; RTÉ] *(a listener; his words)*
+- Alexandre Desplat 3, A character as one instrument, on a trembling note: the trembling of the mandolins suits Gustave's serenity and elegance; the whistling is Elisa's carefree moments. [NPR; Far Out; RTÉ] *(his words; a listener)*
+- Alexandre Desplat 4, Folk instruments of an imagined country: they draw on the story's setting; and he avoids obvious period music, which he calls "a trap". [Far Out; NPR] *(an analysis; his words)*
+- Alexandre Desplat 5, A cimbalom alone, then the tune: the minor suits his seriousness; the theme fades from the film as he loses control. [Film Music Notes] *(an analysis)*
+- Alexandre Desplat 7, A scale with a raised fourth and a lowered second, on the organ: scored "fearfully" on organ, for a melodramatic horror effect. [Film Music Notes] *(an analysis)*
+- Alexandre Desplat 15, Five keyboards at once for the speed of a mind: to bring out the speed, the fast activity of the brain. [LAist] *(his words)*
+- Alexandre Desplat 16, A small orchestra behind: so that the music does not become pompous or overwhelming. [LAist] *(his words)*
+- Astor Piazzolla 6, The piano as a drum, the bass as weight: the bass's percussive accents hold up the 2/4 metre under the displaced rhythms. [Holten-Andersen] *(an analysis)*
+- Carl Maria von Weber 5, The horn and the clarinet as colours: the horn for picturesque, romantic expression. [Operascribe, quoting R. Aldrich] *(an analysis)*
+- Emilie Mayer 2, The lure stops the ride: the running bass stops entirely only under the Elf King, the child's answers to him, and the end; everywhere else the ride goes on under the voice. **[score: Der Erlkönig]** *(from the score)*
+- Eric Whitacre 5, One idea, in changing colours: he says that holding to one idea is what gives a piece unity, direction and purpose. [Milne] *(his words)*
+- Eric Whitacre 6, The clarinets are the body of the band: the clarinets and saxophones are chosen for how much they can do; horns with trombones are used where the band's mixed sound has to blend. [Milne] *(an analysis)*
+- Eric Whitacre 7, Low instruments held back: at the opening the low instruments would spoil the balance and clarity of each two-note chord; held out, they keep their low sound for the word *gravisque* (heavy), where they come in; the contrabassoon is added for its own colour and range. [Milne] *(an analysis)*
+- Felix Mendelssohn 2, Pianissimo and staccato throughout: to keep the music light, detached and airy, the fairy world of his later *Midsummer Night's Dream* overture. [Sussex] *(an analysis)*
+- Felix Mendelssohn 6, Once, a single violin comes forward: a smoother, harder passage set against the staccato before it returns, and a place for the dedicatee, Eduard Rietz, the first violinist. [Sussex] *(an analysis)*
+- Florence Price 14, A hymn of her own for the brass choir: a proud, hopeful hymn out of her own life in the church, where a symphony's slow movement would not lead one to expect it; the brass in four parts gives it a sense of transcendence. [WETA; Philadelphia] *(a listener)*
+- Florence Price 15, Drums under the hymn: the same hand drums come back in the juba, which ties the slow movement to the dance. [WETA] *(an analysis)*
+- Florence Price 19, A sudden flutter upward in the strings: it comes from her life as an organist, the organ fantasy or toccata. [WETA] *(an analysis)*
+- Florence Price 22, Third symphony: the whole-tone passages mark it as music of the twentieth century, not the nineteenth. [LA Phil] *(an analysis)*
+- Florence Price 30, Third symphony: its blues theme brings another side of Black vernacular music into the symphony. [LA Phil] *(an analysis)*
+- Florence Price 34, A short figure handed quickly from bassoon to oboe to flute to clarinet to strings;: several winds joined on their shared notes make one long instrument, and the passage opens out like a pastoral landscape with birds in it. [WETA] *(a listener)*
+- Florence Price 35, Triplets high in the violins against twos below: the two rhythms never line up, which makes the surface ripple, like light on water. [WETA] *(a listener)*
+- Gustav Mahler 1, A large orchestra used as a chamber orchestra: used at that scale, the instruments gave him a wide variety of timbres to explore. [Wikipedia, Kindertotenlieder] *(an analysis)*
+- Jean-Philippe Rameau 3, A drum made of the keynote and its fifth: the bass imitates the drum of the Provençal pipe and tabor, in a repetitive figure that is hardly a tune, while the tune above plays the pipe. [Wikipedia, Tambourin] *(an analysis)*
+- Joaquín Rodrigo 4, The guitar talks with single winds and the horn: he described the movement as a dialogue between the guitar and solo instruments; these exchanges prepare the guitar's solo. [Wikipedia, Aranjuez; Steinberg] *(his words; an analysis)*
+- Joaquín Rodrigo 6, Then the tune, loud, by everyone: the orchestra is held back until here, so that its one full statement overwhelms. [Steinberg] *(an analysis)*
+- Joaquín Rodrigo 10, Mostly woodwinds: light winds and strings do not cover the guitar, and they recall an eighteenth-century orchestra. [Steinberg] *(an analysis)*
+- John Rutter 11, A solo instrument per movement: each solo sets its movement's mood: the oboe's singable tune the hope of *The Lord is my shepherd*, the harp the calm beyond words of the *Pie Jesu*. [Kálló] *(an analysis)*
+- John Rutter 13, Bells for joy: the bright scoring makes the movement lively and exclamatory, like the seraphim of Isaiah 6; the running sixteenths keep it moving to its loud end. It is the work's jubilant centre. [Wikipedia, Requiem; Kálló] *(an analysis)*
+- John Tavener 12, A halo of held notes: a shimmering sound that stands for a halo. [Imrie] *(an analysis)*
+- John Tavener 15, The edges of the range: the very low canon is "primordial"; the high violin and the massed cellos give a sound the thesis calls distinctly spiritual. [Imrie] *(an analysis)*
+- John Tavener 16, One theme on more and more of one instrument: the thesis hears the massed cellos as a distinctly spiritual sound. [Imrie] *(an analysis)*
+- John Tavener 19, Pictures in the instruments, rarely: each paints its scene. [Imrie] *(an analysis)*
+- John Tavener 20, Bells that carry the music, at the edge of hearing: in his words the handbells carry the basic material; the very soft playing he tied to his own near-deafness while writing it. In the Orthodox vigil service, the thesis says, handbells take the place of unaccompanied music. [His note on *The Last Sleep*; Imrie] *(his words; an analysis)*
+- John Tavener 22, Late: instruments from other traditions: he wanted to be "more universalist"; his Orthodox writing had come to seem too austere to him. [Wikipedia] *(his words)*
+- Maurice Duruflé 3, Organ and voices take turns with the chant, in one unbroken stream: an exchange like two choirs, as in Frescobaldi's organ masses, with the chant carried through without a break; the chant, not a plan of keys, shapes the music. [Wiles] *(an analysis)*
+- Maurice Duruflé 12, The organ comes and goes: in his words the organ stands for peace, faith and hope, and it relieves the orchestra's "all too human" sound for a moment; it does not support the choir. [All Classical] *(his words)*
+- Meredith Monk 14, Sounds beyond singing, each with a dramatic role: in the thesis's reading, the characters who change most have the widest vocabularies of sounds. [Monaghan] *(an analysis)*
+- Mieczysław Weinberg 10, A solo that plays alone: the two solos carry the deepest sorrow of the sonata (David Fanning's reading, as the source reports it). [Uniarts] *(an analysis)*
+- Mieczysław Weinberg 15, Violent pizzicato chords as accompaniment: the plucked chord brings a hint of violence into music that is otherwise tender. [Darwin, quoting Elphick] *(an analysis)*
+- Nikolai Rimsky-Korsakov 1, The strings carry the melody: the strings join notes warmly and hold them, which makes them "far and away" the best melodic medium; each string has its own colour, the violin's top string brilliant. [Principles, ch. I-II] *(his words)*
+- Nikolai Rimsky-Korsakov 3, Woodwinds in their natural order, and the pairs that work: each woodwind has a character (the flute cold, the oboe artless, the clarinet pliable); an unnatural order is "far-fetched"; registers too far apart do not join. [Principles, ch. I-II] *(his words)*
+- Nikolai Rimsky-Korsakov 4, Brass for fanfares and plain tunes; horns for the soft and poetic: the brass has power, simplicity and eloquence but no passion; a passionate phrase on it turns "sickly and insipid". [Principles, ch. II] *(his words)*
+- Nikolai Rimsky-Korsakov 5, Strings with brass: which pairs join: their colours are too unlike to blend; those pairs are the closest. [Principles, ch. I-II] *(his words)*
+- Nikolai Rimsky-Korsakov 6, Harmony settled before it is scored, and scored by colour: a fault in the movement of the parts spoils the sound whatever the instruments; giving a dissonance another colour, or a held note another colour than a moving one, keeps each heard. [Principles, ch. III] *(his words)*
+- Nikolai Rimsky-Korsakov 7, A swell made by adding groups: "neither musical feeling nor the ear" can bear the full orchestra for long. [Principles, ch. IV] *(his words)*
+- Nikolai Rimsky-Korsakov 8, A phrase passed between instruments: for a phrase wider than one instrument's range, or to divide a phrase between two colours. [Principles, ch. IV] *(his words)*
+- Nikolai Rimsky-Korsakov 9, Echo and imitation by colour: an echo must sound like the same thing farther off; strings and winds are too unlike for that. [Principles, ch. IV] *(his words)*
+- Nikolai Rimsky-Korsakov 10, Colour spent with care: the winds, plucked strings and percussion tire the listener sooner than the strings; a colour that has rested is heard anew. [Principles, ch. I and IV] *(his words)*
+- Nikolai Rimsky-Korsakov 11, A voice accompanied lightly: the singer must be able to use every shade of loudness; long held notes cover a voice more than short ones; doubling it all the time replaces its own colour. [Principles, ch. V] *(his words)*
+- Nikolai Rimsky-Korsakov 13, Church bells made by the orchestra: he was proud of this "bell-ness" and claimed to have invented it; the bells are the joyful congregation. [BSO; DuPage] *(his words; an analysis)*
+- Nikolai Rimsky-Korsakov 15, Solos between the chants: the solos are the light from the tomb at the Resurrection; the trombone and the strings are the priest and the people. [DuPage; BSO] *(an analysis)*
+- Nikolai Rimsky-Korsakov 21, Primary colours in the full orchestra: he brought out the "primary hues" of the instruments instead of mixing them. [Wikipedia, Rimsky-Korsakov] *(an analysis)*
+- Piotr Ilyich Tchaikovsky 2, A new keyboard for one fairy: for its sound, which he called divinely unusual. [Tchaikovsky Research] *(his words)*
+- Piotr Ilyich Tchaikovsky 5, Children's instruments: the toys are the children's din: Fritz and his friends break into the lullaby with drums and pipes (he marked it *Le vacarme*). [Tchaikovsky Research] *(his words)*
+- Piotr Ilyich Tchaikovsky 6, One colour to a dance: bassoons and English horn with the strings make an intimate, fragile mood; the cymbals put the room in a trance. [New York City Ballet] *(a listener)*
+- Reinhold Glière 2, An Orthodox chant for the pilgrims, first low in the winds, last as a full hymn: the two old pilgrims are the chant; its growth at the end is the army of heaven multiplying. [Chandos; ASO] *(an analysis)*
+- Reinhold Glière 5, A forest of birdsong, long and voluptuous: the birdsong is the robber's enchantment, and the booklet compares the slow music to Scriabin's and the climax to the love music of *Tristan*. [Chandos; ASO] *(an analysis)*
+- Reinhold Glière 6, A melody in the baritone register, led by the cellos: a Russian strand that the note traces back to Glinka. [ASO] *(an analysis)*
+- Reinhold Glière 8, The end turned to stone, and a return backwards through the work: the petrification of Ilya; the note calls the coda's backward return a "cyclic regression". [Chandos; ASO] *(an analysis)*
+- Reinhold Glière 9, A voice without words as the concerto's soloist: a whole concerto for that "instrument" was new, though a wordless voice was not (Rachmaninoff's *Vocalise*); written in the war, in an old-fashioned, nostalgic idiom meant to give listeners relief. [sin80; BBC Music Magazine] *(an analysis)*
+- Reinhold Glière 15, The voice sings on a vowel it chooses itself, with no breath written in: the whole work treats the voice as an instrument of almost limitless possibilities, and leaves the expression to the singer. [Interlude; Seen and Heard] *(an analysis)*
+- Reinhold Glière 20, An orchestra that sounds older than its year: it agrees with technique 9's reason (an old-fashioned, nostalgic idiom in the war, for relief). [Buja 2018] *(a listener)*
+- Sergei Rachmaninoff 1, The toll: three low notes, one to a beat, each in three octaves: bells: the slow outer sections bring Russian Orthodox bell-ringing into the piano, the sound of Russia in his early music. [Frolova-Walker] *(an analysis)*
+- William Grant Still 7, The scherzo: the banjo, a theme with a horn counter-melody, a fanfare that interrupts: the banjo is there for local colour, in a movement heard as a "leap for joy"; one historian (Catherine Parsons Smith, cited by the BSO's note) hears Still playing the trickster in it, behind the minstrel mask. [Hollywood Bowl; BSO] *(an analysis)*
+- Wolfgang Amadeus Mozart 4, The orchestra's winds come for the repeats and the joins only: the soloist sings over the strings alone, so the winds' colour marks only the repeats and the joins. **[score: K. 622]** *(from the score)*
+- Wolfgang Amadeus Mozart 7, A band of winds in pairs: an unusual combination for its time: a band chosen for its texture. [Wikipedia] *(an analysis)*
+
+## 4. What the composers do not do
+
+- **Alexander Borodin** (In the Notturno.): Give the tune to two instruments at once in unison: it is one voice, or a canon.
+- **Alexander Borodin** (In the Notturno.): Put the accompaniment's chords on the beat under the tune.
+- **Alexander Borodin** (In the Notturno.): End loud, or with a cadence played out: the last thing is a held note.
+- **Alexandre Desplat**: **"Period music":** he calls it a trap. [Far Out]
+- **Alexandre Desplat**: **The same instruments from one film to the next.** [Tatler]
+- **Antonín Dvořák** (In this movement.): Change keynote between the slow and the quick.
+- **Antonín Dvořák** (In this movement.): Let the quick part end the first time: it slows into the return.
+- **Arcangelo Corelli**: Use the diminished seventh (none in the profile's labels).
+- **Arcangelo Corelli**: Write chromatic lines, as a rule.
+- **Astor Piazzolla** (In the works the sources describe.): End with the traditional tango's cadence, the dominant to the tonic (*Otoño porteño*).
+- **Astor Piazzolla** (In the works the sources describe.): Give the double bass a tune.
+- **Barbara Strozzi** (In the 28 works of the catalogue.): Build a whole piece on a repeating bass: even *Che si può fare* leaves its walk after 47 bars. **[score]**
+- **Dieterich Buxtehude** (In the Laudate pueri.): Change the ground or move it to another key: twelve statements the same. (His organ works on a ground do move it, by the source; technique 6.)
+- **Emilie Mayer** (In the Erlkönig.): Let the ride run under the Elf King.
+- **Emilie Mayer** (In the Erlkönig.): Repeat the cry at the same height.
+- **Eric Whitacre**: Let the brass play alone (*Lux Aurumque* for band).
+- **Eric Whitacre**: Close on a plain cadence where he has set one up.
+- **Eric Whitacre**: End loud.
+- **Florence Price**: Quote a spiritual for her main tunes (first symphony; the fourth's slow theme).
+- **Florence Price**: Write a minuet or a scherzo third: a juba stands there.
+- **Florence Price**: Make the slow movement loud.
+- **Florence Price**: Keep a repeating figure under the third symphony's juba, though the first has one.
+- **George Gershwin** (In the Song-Book.): Print a song's verse: only the refrain.
+- **George Gershwin** (In the Song-Book.): Set a song in the minor.
+- **Gustav Mahler** (In the first song.): Change key: the major comes only as a chord over the same keynote.
+- **Gustav Mahler** (In the first song.): Thicken the accompaniment: it stays between two and three notes at once.
+- **Hildegard von Bingen** (In the seven read.): Accompany the line: one voice only.
+- **Hildegard von Bingen** (In the seven read.): Leap down as often as up: two thirds of her leaps rise.
+- **Jean-Philippe Rameau** (In the dances read.): Run long: nothing but the chaconne passes 40 bars without a refrain coming back.
+- **Jean-Philippe Rameau** (In the dances read.): Leap about: except in *Les Sauvages*.
+- **Jean-Philippe Rameau** (In the dances read.): Leave a first dance alone: it has a second, in the minor.
+- **Joaquín Rodrigo**: Use percussion in the concerto.
+- **Joaquín Rodrigo**: Let the guitar have the last word: the orchestra resolves under it.
+- **John Cage** (In this music.): Progress by harmony, or close with a cadence.
+- **John Cage** (In this music.): Bring an earlier idea back later.
+- **John Cage** (In this music.): Build to a loud place, with one exception.
+- **John Rutter** (By these sources.): Harsh dissonance.
+- **John Rutter** (By these sources.): The *Dies irae* in his Requiem: left out, as Fauré and Duruflé left it out.
+- **John Rutter** (By these sources.): Tunes of wide leaps in the gentle movements. (*Out of the deep* is the exception: chromatic, with skips.)
+- **John Tavener**: **No passage that leads from one section to the next:** contrasting sections stand side by side without a bridge, as the flat areas of colour of an icon do. [Imrie]
+- **John Tavener**: **No progression of chords for its own sake:** the music moves in long lines, and the harmonies are, in the thesis's words, "purely incidental". [Imrie]
+- **Julia Wolfe** (In the oratorios.): **Not a narrative:** *Anthracite Fields* looks at its subject from different angles rather than telling a story (her words) [Wikipedia, Anthracite Fields].
+- **Ludwig van Beethoven** (In this movement.): Use B flat in the first hymn, or any ornament in a hymn.
+- **Ludwig van Beethoven** (In this movement.): Keep the keynote when the dance comes.
+- **Ludwig van Beethoven** (In this movement.): Make the hymn loud before its third time.
+- **Maurice Duruflé**: Leave the chant: it is there in some voice throughout.
+- **Maurice Duruflé**: Set the *Dies irae*.
+- **Maurice Duruflé**: Write for the voices in the *Cum jubilo* mass in parts: one line.
+- **Meredith Monk** (In the music these sources describe.): **No words:** the syllables are not a language [Monaghan; Pym].
+- **Meredith Monk** (In the music these sources describe.): **Rarely a written score:** she teaches her works by ear, and the thesis holds that what matters in them cannot really be written down [Pym].
+- **Meredith Monk** (In the music these sources describe.): **Little change of register without a pause** [Sandow].
+- **Mieczysław Weinberg** (By these sources.): Quote folk or synagogue tunes: he writes his own in their manner.
+- **Mieczysław Weinberg** (By these sources.): Fill the accompaniment: it stays bare.
+- **Mieczysław Weinberg** (By these sources.): End in the minor after a sorrowful movement (in the clarinet sonata).
+- **Nikolai Rimsky-Korsakov** (In his book.): **A passionate phrase in the brass.** [Principles, ch. II]
+- **Nikolai Rimsky-Korsakov** (In his book.): **Strings echoing winds, or winds strings.** [Principles, ch. IV]
+- **Nikolai Rimsky-Korsakov** (In his book.): **The full orchestra for long.** [Principles, ch. IV]
+- **Richard Wagner** (In the Tristan prelude.): Follow a dominant with its keynote's chord more than three times. **[score]**
+- **Sergei Rachmaninoff** (In these three.): Leave the bass out: there is a low note or a low chord in nearly every bar.
+- **Sergei Rachmaninoff** (In these three.): Put the answering chords on the beat with the low strokes.
+- **Sergei Rachmaninoff** (In these three.): Decorate the toll: the three notes are bare octaves.
+- **William Grant Still** (In the blues symphony.): **No atonal music:** the key and tonic are always clear [Listen].
+- **William Grant Still** (In the blues symphony.): **No programme:** in 1964 he said he had had none in mind [Bard].

@@ -109,6 +109,14 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
     *How:* for an entrance of power, give every part the same rhythm at once, spread over the whole range, short.
     *Where:* *Hippolyte et Aricie*, Act II, scene II, *Entrée de Pluton* (9 bars). **[score: Entrée de Pluton]**
 
+### A gavotte taken up by voices, read for piece 77 on 25 November 2026
+
+21. **One tune can walk and sing with different accents.** The opening of the first gavotte of Act I and the opening of the priestess's number after it share four principal pitches in order. In the gavotte their attacks fall on four successive quarters. In the following number, part t9 delays the second and fourth by an eighth. At the entrance of t1 in bar 5 the four even attacks return.
+    *Works on:* rhythm, melody, form.
+    *Why:* the same pitch succession connects the adjacent dance and vocal number while a change of duration gives the vocal line a different accent. **[score: Act I, scene III, numbers 13–14]** *(from the score)*
+    *How:* invent one short opening. Move two of its inner-bar attacks when the singers take it up, keeping its pitches and the bar length.
+    *Where:* *Hippolyte et Aricie*, first gavotte, bar 1, t1 and *De l’Amour fuyez les charmes*, bars 1 (t9) and 5 (t1). **[score: mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#13 and #14]**
+
 ## Walks through whole works
 
 **Tambourin** (harpsichord, E minor, 62 bars in two). Refrain, bars 1 to 8: a four-bar tune running by step up from the keynote, said twice with two endings, over the hammered fifth. Couplet 1 (9 to 16). Refrain (17 to 24). Couplet 2 (25 to 36, twelve bars). Refrain (37 to 44). Couplet 3 (45 to 56, twelve bars). The refrain once more, six bars only.
@@ -174,3 +182,4 @@ Not read: Girdlestone's and Masson's books on him, which the sources point to.
 - Wikipedia, "Jean-Philippe Rameau": https://en.wikipedia.org/wiki/Jean-Philippe_Rameau
 - Western Michigan University, "Baroque Dances": https://wmich.edu/mus-gened/mus150/BaroqueDances.htm
 - Britannica, "Les Sauvages": https://www.britannica.com/topic/Les-Sauvages
+- Ready-read Mutopia notes, catalogue 25, *Hippolyte et Aricie*, Act I, scene III, numbers 13 and 14, as printed. For piece 77 the attacks of the four principal pitches were compared directly. Short rearticulations of the same pitch in the gavotte were set aside in that comparison.

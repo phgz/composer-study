@@ -7,6 +7,54 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from study import flag_piece as FP
 
 
+def test_explicit_written_notes_keep_their_tempo_map_and_origin():
+    from types import SimpleNamespace
+    mod = SimpleNamespace(EXPORT={'notes':'written', 'clock':'performed', 'unit':.5, 'origin':2},
+                          performed=lambda b: b*.5 if b<=6 else 3+(b-6)*.75)
+    clock = FP.notation_clock(mod)
+    assert [clock(q) for q in (0,2,3)] == [1,3,4.5]
+
+
+def test_written_notes_without_a_clock_are_not_given_invented_times():
+    from types import SimpleNamespace
+    with pytest.raises(SystemExit,match='clock'):
+        FP.notation_clock(SimpleNamespace(EXPORT={'notes':'written'}))
+
+
+def test_spelling_uses_key_positions_in_the_original_units(monkeypatch):
+    from types import SimpleNamespace
+    mod = SimpleNamespace(
+        EXPORT={'origin': 2, 'unit': .5, 'end': 12, 'keys': [(2, 0), (8, 1)],
+                'notes': 'written', 'clock': 'sec'},
+        sec=lambda u: 1 + (u - 2) * .25,
+    )
+    export = SimpleNamespace(load=lambda _: mod, clock=lambda m, end: lambda t: (t - 1) / .25,
+                             spell=lambda midi, fifths, minor: str(fifths))
+    monkeypatch.setattr(FP, 'exporter', lambda _: export)
+    spell = FP.speller('piece.py')
+    assert spell(mod.sec(7), 65) == '0'
+    assert spell(mod.sec(8), 65) == '1'
+
+
+
+def test_explicit_notes_keep_bar_locations_and_key_spellings(monkeypatch):
+    from types import SimpleNamespace
+    mod = SimpleNamespace(EXPORT={'notes':'written', 'unit':1, 'end':9,
+                                  'keys':[(0,2,'minor'),(6,5)]}, sec=lambda b:b*.5)
+    measures = [SimpleNamespace(number=i+1, getOffsetBySite=lambda p, q=i*3:q) for i in range(3)]
+    part = SimpleNamespace(getElementsByClass=lambda _:measures)
+    exp = SimpleNamespace(load=lambda _:mod, build=lambda _:SimpleNamespace(parts=[part]),
+                          clock=lambda m,end:lambda t:t*2,
+                          spell=lambda pitch,key,minor:f'{pitch}:{key}:{minor}')
+    monkeypatch.setattr(FP,'exporter',lambda _:exp)
+    assert FP.places('explicit.py',[0,1.49,1.5,2.99,3,4.49]) == [1,1,2,2,3,3]
+    spell = FP.speller('explicit.py')
+    assert spell(2.99,63) == '63:2:True'
+    assert spell(3,63) == '63:5:False'
+    del mod.sec
+    assert FP.places('explicit.py',[1.5]) == [None]
+
+
 def write(folder, name, rows):
     with open(os.path.join(folder, name), 'w') as f:
         for r in rows: f.write(json.dumps(r) + '\n')
@@ -88,3 +136,82 @@ def test_parts_writes_each_instrument_alone_at_one_level(tmp_path):
     assert [g for g, _ in listed['parts']] == ['pno', 'pnoA'] and (out / 'pno.mp3').stat().st_size > 0   # the silent one left out
     FP.parts(argparse.Namespace(render=str(render), module=str(tmp_path / 'none.py'), o=str(tmp_path / 'parts-2'), gains=str(out)))
     assert json.load(open(tmp_path / 'parts-2' / 'parts.json'))['gains'] == listed['gains']       # the other take's levels kept
+
+
+CO = os.environ.get('ANTICIPATION', os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
+                                                 'jthickstun', 'anticipation'))
+needs_amt = pytest.mark.skipif(not os.path.isdir(os.path.join(CO, 'anticipation')), reason='no anticipation checkout')
+
+
+def two_parts(folder, change=None, name='notes_t.py'):
+    """a notes module: part a in halves of a second from 0 to 12 s, part b each second on C3, and at 5 s on a's C4 too"""
+    ev = [('a', i / 2, .5, 60 + 2 * (i % 2)) for i in range(25)] + [('b', float(i), 1.0, 48) for i in range(13)] + [('b', 5.0, 1.0, 60)]
+    if change: ev = [change(r) for r in ev]
+    path = os.path.join(folder, name); open(path, 'w').write(f'EV = {ev!r}\n'); return path
+
+
+def scores(inputs, high):
+    """fake bits for every note of each input: about 1 with a little spread, `high` {(input id, note time): bits} where given"""
+    import random
+    rnd = random.Random(1); out = []
+    for inp, times in inputs:
+        out.append(dict(id=inp, bits=[[high.get((inp, t), 1 + rnd.random() / 4), 0, 0, 1 + rnd.random() / 4, 0] for t in times]))
+    return out
+
+
+@needs_amt
+def test_each_part_is_prepared_by_itself_a_doubled_note_in_both(tmp_path):
+    import argparse
+    src = two_parts(str(tmp_path))
+    FP.prepare(argparse.Namespace(source=src, checkout=CO, o=str(tmp_path)))
+    notes = json.load(open(tmp_path / 'flag_notes.json'))['notes']
+    assert len(notes) == 25 + 13                                       # the doubled C4 heard once in the whole
+    FP.alone(argparse.Namespace(source=src, checkout=CO, folder=str(tmp_path)))
+    lines = {d['id']: d for d in map(json.loads, open(tmp_path / 'flag_amt_alone_inputs.jsonl'))}
+    assert sorted(lines) == ['a', 'b'] and len(lines['a']['index']) == 25 and len(lines['b']['index']) == 14
+    both = set(lines['a']['index']) & set(lines['b']['index'])
+    assert [notes[i][:3:2] for i in both] == [[5.0, 60]]
+    moved = two_parts(str(tmp_path), lambda r: (r[0], r[1], r[2], 61) if r[1] == 6.0 and r[0] == 'a' else r, 'notes_u.py')
+    with pytest.raises(SystemExit): FP.alone(argparse.Namespace(source=moved, checkout=CO, folder=str(tmp_path)))
+
+
+@needs_amt
+def test_a_place_surprising_only_with_the_rest_and_one_surprising_alone_too(tmp_path):
+    import argparse
+    src = two_parts(str(tmp_path))
+    FP.prepare(argparse.Namespace(source=src, checkout=CO, o=str(tmp_path)))
+    FP.alone(argparse.Namespace(source=src, checkout=CO, folder=str(tmp_path)))
+    notes = json.load(open(tmp_path / 'flag_notes.json'))['notes']
+    whole = [('piece', [n[0] for n in notes])]
+    write(tmp_path, 'flag_amt_large.jsonl', scores(whole, {('piece', 6.0): 9.0, ('piece', 8.0): 9.0}))
+    parts = [(d['id'], [notes[i][0] for i in d['index']]) for d in map(json.loads, open(tmp_path / 'flag_amt_alone_inputs.jsonl'))]
+    write(tmp_path, 'flag_amt_alone_large.jsonl', scores(parts, {('a', 8.0): 9.0, ('b', 8.0): 9.0}))
+    FP.together(argparse.Namespace(folder=str(tmp_path), top=2, odd=None))
+    rows = [l.split(' | ') for l in open(tmp_path / 'TOGETHER.md') if l.startswith('| ') and 'note' in l]
+    where = {r[1]: r[-1].strip(' |\n') for r in rows}
+    assert where['0:06.0'] == 'with the rest' and where['0:08.0'] == 'alone too'
+
+
+def test_the_first_note_of_each_onset():
+    w = [[0, 10, 20, 11000, 30, 20, 11001, 30, 20, 11002]]          # three notes, the second and third at one onset
+    assert FP.first_of_onset(w, [(0, 3), (0, 6), (0, 9)]) == [0, 1, 1]
+
+
+@needs_amt
+def test_places_above_a_fixed_bar_on_another_scoring_s_scale(tmp_path):
+    import argparse
+    ref, new = tmp_path / 'ref', tmp_path / 'new'
+    for f in (ref, new):
+        f.mkdir(); FP.prepare(argparse.Namespace(source=two_parts(str(tmp_path)), checkout=CO, o=str(f)))
+    notes = json.load(open(ref / 'flag_notes.json'))['notes']
+    whole = [('piece', [n[0] for n in notes])]
+    write(ref, 'flag_amt_large.jsonl', scores(whole, {('piece', 6.0): 9.0}))
+    row = scores(whole, {('piece', 6.0): 2.0})[0]                         # the place made less surprising than the bar
+    row['expect'] = [[[[62, .5], [60, .3]], None] for _ in notes]
+    write(new, 'flag_amt_large.jsonl', [row])
+    FP.over(argparse.Namespace(folder=str(ref), bar=4.0, scale_from=None))
+    assert '| 0:06.0 | note |' in open(ref / 'OVER-4.md').read()
+    FP.over(argparse.Namespace(folder=str(new), bar=4.0, scale_from=str(ref)))
+    assert '0 places' in open(new / 'OVER-4.md').read()
+    FP.over(argparse.Namespace(folder=str(new), bar=-9.0, scale_from=str(ref)))
+    assert 'D4 50%, C4 30%' in open(new / 'OVER--9.md').read()

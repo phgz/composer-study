@@ -86,6 +86,13 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
     *How:* not a technique: it says which manners his are close to (French and English choral music of the early twentieth century, light music, American songwriting), so that a piece can tell what in it is his.
     *Where:* the Wikipedia article on him. [Wikipedia, Rutter]
 
+### Dancing Day, read for piece 77 on 25 November 2026
+
+18. **The harp gets the floor to itself.** In this cycle for upper voices and harp, the harp plays the prelude and, between groups of carols, an interlude.
+    *Works on:* colour, texture, form.
+    *How:* introduce the voices' world with their own accompanying instrument alone and make room for that instrument again between vocal sections.
+    *Where:* *Dancing Day*, the opening prelude and the interlude between *Personent Hodie* and *There is no rose*. [Rutter catalogue]
+
 ## Walks through whole works
 
 None yet.
@@ -135,3 +142,4 @@ None: no score of his is in score-reader's catalogue.
 - Wikipedia, "Shepherd's Pipe Carol": https://en.wikipedia.org/wiki/Shepherd%27s_Pipe_Carol
 - Krisztián Kálló, "John Rutter's Requiem: Between Anglican Tradition and French Musical Aesthetics", *Studia UBB Musica* 64/1 (2019): https://studia.reviste.ubbcluj.ro/index.php/subbmusica/article/download/2062/1990/3907
 - "Land of Lost Content" (blog), on the *Shepherd's Pipe Carol*, 22 December 2014: https://landofllostcontent.blogspot.com/2014/12/john-rutter-shepherds-pipe-carol.html
+- John Rutter, [Dancing Day](https://johnrutter.com/music/printed-music/catalogue/dancing-day). Catalogue and movement list read for piece 77. This describes an arrangement of traditional material. The tunes were not taken.

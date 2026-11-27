@@ -1,6 +1,6 @@
 # Antonín Dvořák (1841-1904)
 
-Begun by Claude on 22 November 2026; extended on 24 November 2026 for composer-blend's piece 70, when he was drawn again, and for piece 70b. It grows each time he is used.
+Begun by Claude on 22 November 2026; extended on 24 November 2026 for composer-blend's piece 70, when he was drawn again, and for piece 70b; and on 25 November 2026 for piece 75, when he was chosen again: the furiant's cross-rhythm measured in the scherzo of the ninth symphony (16). It grows each time he is used.
 
 **Scope so far.** Three kinds of piece: the dumka and the furiant, which he often joins; and the polka, as the second movement of the String Quartet no. 9 in D minor, op. 34 (1877), shows it. **Scores:** yes. score-reader's catalogue (version 20) holds 61 of his works: the seventh and ninth symphonies, six string quartets, the *Silhouettes* and other piano pieces. The Dumka of the String Quartet in E flat op. 51 was read whole by measurement, and the scherzo of the seventh symphony for its metre; the polka of op. 34 was read from Philip's ready-read copy (catalogue version 25), its bass whole and its first twenty bars note by note; each technique marked **[score]** says where. The Slavonic Dances and the *Dumky* Trio are not in the catalogue.
 
@@ -86,6 +86,16 @@ Dvořák chose twelve of the eighteen love songs of his *Cypresses* (1865) and a
     *How:* give a song's line to the viola, then to the first violin, then back, over a bass that repeats one note.
     *Where:* *Echo of Songs*, no. 1. **[score: Echo of Songs, no. 1]**
 
+### The scherzo of the ninth symphony, read from the score (for piece 75)
+
+The third movement of the Symphony no. 9 (1893), *Molto vivace*, in 3/4, read from Mutopia's edition in score-reader's catalogue (version 25): 301 bars, fourteen parts. The reading names its parts only by number, so they are given here by register. Measured: a part is "in twos" across a pair of bars when it strikes three notes of two beats or more at beats 1, 3 and 5 of the six, and nothing else of a beat or more; "in threes" when it holds a note of most of a bar at beats 1 and 4.
+
+16. **The twos in some parts, the threes kept in others, and one part's twos a bar late.** The cross-rhythm is never the whole orchestra. In 14 pairs of bars (a pair counted from any bar) at least one part moves in twos. In bars 50 to 55 five parts are in twos (four upper and middle parts and a low one; t1 to t4 and t11 of the reading) while one high part (t6) keeps a note a bar. In bars 123 to 129 up to seven parts are in twos against two in threes, and one middle part's twos begin a bar after the others', so that its pairs of bars overlap theirs.
+    *Works on:* rhythm, texture.
+    *Why:* measured: both counts sound at once, the twos carried by some parts over threes held by others, and in bars 123 to 129 the twos themselves are staggered by a bar between groups. **[score: Symphony no. 9, third movement]** *(from the score)*
+    *How:* in 3/4, give a group of parts three notes of two beats across two bars while another group holds a note a bar; then start one part's twos a bar later than the rest.
+    *Where:* Symphony no. 9, third movement, bars 42 to 55 and 123 to 129 (and 247 and 248). **[score: Symphony no. 9, third movement]**
+
 ## Walks through whole works
 
 **Op. 51, second movement, "Dumka"** (302 bars). *Andante con moto*, 2/4, G minor, bars 1 to 87, the first violin's bars mostly three or four eighths, or an eighth and a long note. *Vivace*, 3/8, G major, bars 88 to 210, with its long notes across the bar, slowing from bar 187. *Andante con moto* again, G minor, bars 211 to 230; the same in G major, 231 to 252. *Presto*, 3/8, G minor, bars 253 to 302.
@@ -118,9 +128,12 @@ From the walk above, read from the score.
 - `openscore-quartets:Dvořák,_Antonín/Echo_of_Songs,_B.152/sq24409123.mxl` (15)
 - `openscore-quartets:Dvořák,_Antonín/String_Quartet_No.10,_Op.51/sq9137469.mxl#2` (techniques 2, 3, 4, 5, 7, 8, 9)
 - `mutopia:DvorakA/O70/DvorakSYMPH7#3` (10)
+- `mutopia:DvorakA/O95/Sym9#3` (16)
 
 ## Not checked
 
+- Which instruments the scherzo's parts are (16): the reading numbers them; the registers suggest the highest are woodwinds and violins, but that was not checked against the score.
+- Whether the twos in 16 are marked with accents in the score: the reading carries no articulation.
 - The polka's key and its form beyond the bass: in the reading, its bars are not all of equal length, so its bar numbers are approximate.
 - Whether the quick part of the Dumka takes its tune from the slow part: not measured.
 - Anything about the *Dumky* Trio's six movements beyond their name.
@@ -128,6 +141,7 @@ From the walk above, read from the score.
 
 ## Sources
 
+- score-reader's catalogue, version 25: the third movement of the Symphony no. 9 (Mutopia), read and measured on 25 November 2026.
 - score-reader's catalogue, version 25, read from Philip's ready copy: the polka of op. 34.
 - Wikipedia, "Polka": https://en.wikipedia.org/wiki/Polka
 - Wikipedia, "Cypresses (Dvořák; quartet version)": https://en.wikipedia.org/wiki/Cypresses_(Dvo%C5%99%C3%A1k;_quartet_version)

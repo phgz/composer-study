@@ -75,6 +75,16 @@ The Three Preludes and Fugues op. 37 are dedicated to Thomas Attwood, Mozart's p
     *How:* not a technique: where the fugues stand.
     *Where:* [BYU organ wiki, partly quoting Grove and Seaton]
 
+### A prelude's moving upper line over a slower bass
+
+Read anew on 26 November 2026 for composer-blend piece 76: the opening of op.37 no.1, the **prelude**, not the previously studied fugue. Source is again the editor's MIDI-only copy; the octave-doubled pedal tracks are not counted as two independent contrapuntal voices.
+
+15. **A bass anchor releases into a descent while the upper line remains active.** The pedal repeats C through the opening; later the bass descends while the upper material continues, and an inner entry begins before the top part stops.
+    *Works on:* harmony, texture, form.
+    *Why:* the movement of the bass changes the harmonic situation beneath a continuing upper gesture, without requiring a new texture to begin. **[score: op.37 no.1, prelude]** *(from the score)*
+    *How:* establish an anchor beneath an active line, then let the bass travel under that same activity; introduce the answering part before the first line has finished.
+    *Where:* op.37 no.1 prelude, bars 1–8 and 13–16; the inner entry starts in bar 8. Measured positions are in `checks/piece76-reading-2026-11-26.json`. **[score: op.37 no.1, prelude]**
+
 ## Walks through whole works
 
 **Op. 37 no. 3, the fugue in D minor** (95 bars of four quarters), by its entries. The exposition: D, G, D, G, at bars 1, 5, 9 and 13, the pedals last. Entries in other keys: A (bar 19), A and D (25), C (33). From bar 36 the entries come two or three beats apart (36 to 39, 46 and 47). The pedals take the subject at bar 39, then at 57, 60 and 70. A last pair two beats apart at bar 80; the fugue ends at bar 95.
@@ -119,6 +129,8 @@ None yet.
 - The Songs Without Words, the symphonies, the oratorios, the organ sonatas op. 65: not covered.
 
 ## Sources
+
+- Added 26 November 2026: score-reader ready-read catalogue version 25, `mutopia:Mendelssohn-BartholdyF/O37/nr1#1`, prelude, opening through bar 16; MIDI-only editor's copy. The rest of the prelude was not closely read.
 
 - score-reader's catalogue, version 20, read from its ready copy: the four works above.
 - score-reader's catalogue, version 25, read from Philip's ready-read copy: the three fugues of op. 37.
