@@ -71,6 +71,14 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 71, from the sou
     *How:* not a technique: the sources of his counterpoint and his rhythm.
     *Where:* [Wikipedia, Astor Piazzolla; Baton Music]
 
+### Flute and guitar in Histoire du tango, read for piece 77 on 25 November 2026
+
+15. **The guitar speaks before the flute.** In *Café 1930* the unaccompanied introduction establishes a voice that can answer the flute after its entrance. The flute's song gains urgency through shorter values and changing dynamics.
+    *Works on:* texture, melody, rhythm.
+    *Why:* the authors hear the guitar introduction as setting up the dialogue, with changes of intensity carrying the contrasts within the slow song. [Filatova and Ivannikov, pp. 96–97] *(an analysis)*
+    *How:* let a freely spaced guitar phrase lead into a flute melody. Keep a moving guitar reply under long notes and let one descending phrase of the flute gather speed.
+    *Where:* *Café 1930*, opening and the discussion of bars 14–21. [Filatova and Ivannikov]
+
 ## Walks through whole works
 
 ***Fuga y misterio*** (from *María de Buenos Aires*), as the programme note describes the twelve-cello arrangement: the subject alone in E minor; answered in A minor; entries in D minor and G minor (all twelve playing by the fourth); a fifth entry in E minor; the *Misterio*, a slow solo over harmonics; a fiery transition; the sixth entry, in E minor; a short coda. [Baton Music]
@@ -110,3 +118,4 @@ What the sources leave open: the programme note describes an arrangement, not th
 - Wikipedia, "Astor Piazzolla": https://en.wikipedia.org/wiki/Astor_Piazzolla
 - Maximiliano Holten-Andersen, *Reinventing the Tango: A Comparative Analysis of Matos Rodríguez's La Cumparsita and Piazzolla's Otoño Porteño*, major research paper, MA in music theory, University of Ottawa, 2012 (read whole, in two parts): https://ruor.uottawa.ca/bitstreams/a509ec69-6404-4c67-908b-06611587d8e9/download
 - Baton Music, programme note on *Fuga y misterio* for twelve cellos, on nbsymphony.org: https://equity.nbsymphony.org/musical-pieces/fuga-y-misterio
+- Tetiana Filatova and Tymur Ivannikov, [Astor Piazzolla’s “History of Tango”](https://studia.reviste.ubbcluj.ro/index.php/subbmusica/article/download/9918/9565/31327). The discussion of *Bordel 1900* and *Café 1930* on pp. 95–97 was read for piece 77. No notes from the examples were taken.

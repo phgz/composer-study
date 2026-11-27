@@ -21,6 +21,22 @@ def test_written_notes_without_a_clock_are_not_given_invented_times():
         FP.notation_clock(SimpleNamespace(EXPORT={'notes':'written'}))
 
 
+def test_spelling_uses_key_positions_in_the_original_units(monkeypatch):
+    from types import SimpleNamespace
+    mod = SimpleNamespace(
+        EXPORT={'origin': 2, 'unit': .5, 'end': 12, 'keys': [(2, 0), (8, 1)],
+                'notes': 'written', 'clock': 'sec'},
+        sec=lambda u: 1 + (u - 2) * .25,
+    )
+    export = SimpleNamespace(load=lambda _: mod, clock=lambda m, end: lambda t: (t - 1) / .25,
+                             spell=lambda midi, fifths, minor: str(fifths))
+    monkeypatch.setattr(FP, 'exporter', lambda _: export)
+    spell = FP.speller('piece.py')
+    assert spell(mod.sec(7), 65) == '0'
+    assert spell(mod.sec(8), 65) == '1'
+
+
+
 def test_explicit_notes_keep_bar_locations_and_key_spellings(monkeypatch):
     from types import SimpleNamespace
     mod = SimpleNamespace(EXPORT={'notes':'written', 'unit':1, 'end':9,

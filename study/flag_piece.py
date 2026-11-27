@@ -444,15 +444,14 @@ def speller(source):
     """(seconds, midi) -> the pitch as the score spells it there (the key the module's EXPORT gives at that time), else by NAMES"""
     plain = lambda m: NAMES[m % 12][0] + NAMES[m % 12][1:].replace('b', '♭').replace('#', '♯') + str(m // 12 - 1)
     try:
-        from fractions import Fraction
         X = exporter(source); mod = X.load(source); E = mod.EXPORT
         keys = sorted(E.get('keys', []), key=lambda k: k[0])
         if not keys: return lambda t, m: plain(m)
         notation_clock(mod)
-        beat = X.clock(mod, E['end']); unit = Fraction(E['unit']).limit_denominator(16)
+        beat = X.clock(mod, E['end'])
     except (SystemExit, Exception): return lambda t, m: plain(m)
     def f(t, m):
-        u = beat(t) * float(unit); k = [x for x in keys if x[0] <= u + 1e-6] or keys[:1]; k = k[-1]
+        u = E.get('origin', 0) + beat(t); k = [x for x in keys if x[0] <= u + 1e-6] or keys[:1]; k = k[-1]
         return X.spell(int(m), k[1], len(k) > 2 and k[2] == 'minor').replace('#', '♯').replace('-', '♭')
     return f
 
