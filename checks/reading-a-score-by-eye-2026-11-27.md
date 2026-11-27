@@ -79,3 +79,7 @@ A first, naive try, `bitmap.py` (about a hundred lines): the scan made black and
 - 165 heads found that are not in the catalogue (letters of the title and tempo, chords of two notes a third apart split at the wrong heights), 96 missed; one line of the five still has a barline wrong (6 bars found for 7).
 
 So it is cheaper by several orders, and the heights it measures are a measurement, with no expectation in them. What it lacks is everything that is not a height: which blob is a note at all, which notes are one chord, sharps, lengths. Not tested: whether a pure black-and-white picture helps or hurts the eye of the model (its calque kept the greys on purpose, since the grey edge of a notehead is part of what tells a line from a space at small sizes).
+
+## Where it was left
+
+Philip, the same evening: "if it's too costly, let's drop it and focus on composition instead." Nothing was built on these tests and nothing depends on them. What stays usable: when a piece needs a work the catalogue lacks, one page of a clean library scan can be read by eye after the calque by code, at about the cost of the Notturno page above, and the reading says where the picture did not decide alone.
