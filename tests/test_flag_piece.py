@@ -136,6 +136,11 @@ def test_parts_writes_each_instrument_alone_at_one_level(tmp_path):
     assert [g for g, _ in listed['parts']] == ['pno', 'pnoA'] and (out / 'pno.mp3').stat().st_size > 0   # the silent one left out
     FP.parts(argparse.Namespace(render=str(render), module=str(tmp_path / 'none.py'), o=str(tmp_path / 'parts-2'), gains=str(out)))
     assert json.load(open(tmp_path / 'parts-2' / 'parts.json'))['gains'] == listed['gains']       # the other take's levels kept
+    # parts written on one staff, and a keyboard's two staves, are one instrument to hear (the module's EXPORT: join, names)
+    mod = tmp_path / 'notes_j.py'
+    mod.write_text("EXPORT = dict(order=['pnoR', 'pnoL', 'perc'], names=dict(pnoR='Piano', pnoL='Piano', perc='Drums'), join=dict(pno='pnoR', pnoA='pnoL', vlax='perc'))\n")
+    FP.parts(argparse.Namespace(render=str(render), module=str(mod), o=str(tmp_path / 'parts-3'), gains=None))
+    assert [g for g, _ in json.load(open(tmp_path / 'parts-3' / 'parts.json'))['parts']] == ['Piano']   # both hands; the silent drum left out
 
 
 CO = os.environ.get('ANTICIPATION', os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),

@@ -106,6 +106,7 @@ select, input[type="text"] { font: inherit; background: var(--bg); color: var(--
 .sheet.marking { cursor: crosshair; }
 .sheet img { display: block; width: 100%; height: auto; user-select: none; -webkit-user-drag: none; }
 .sheet .barbox { position: absolute; background: rgba(255, 205, 60, .2); pointer-events: none; }
+.sheet .hearing { position: absolute; background: rgba(47, 111, 166, .13); pointer-events: none; }
 .sheet .cursor { position: absolute; width: 2px; margin-left: -1px; background: rgba(200, 52, 28, .9); pointer-events: none; }
 .sheet .staffname { position: absolute; left: 2px; display: flex; align-items: center; font-size: 9px; line-height: 1; color: #33383d;
   white-space: nowrap; overflow: hidden; pointer-events: none; }
@@ -232,6 +233,7 @@ function switchTo(k, p) {
   Object.entries(takeBtns).forEach(([n, b]) => b.setAttribute('aria-pressed', String(n === k)));
   document.querySelectorAll('.ab button').forEach(b => b.classList.toggle('on', b.dataset.take === k));
   playBtn.textContent = playing ? 'Pause' : 'Play';
+  scoreMarks();
 }
 function setTake(k) { switchTo(k, audioFor(k, part) ? part : ''); }
 function playFrom(t, k) {
@@ -477,6 +479,12 @@ if (SCORE) (() => {
   });
   scoreMarks = () => {           // on the page shown: a ring at each flagged place and each point, on its staff where that is known
     marks.textContent = ''; if (page < 0) return;
+    if (part) S.forEach(sy => {     // the instrument being heard alone: its staves tinted
+      if (sy.p !== page || !sy.names) return;
+      sy.names.forEach((n, j) => { if (n !== part && n.split(',')[0] !== part) return;
+        const b = el('div', 'hearing'); b.style.left = pc(sy.x0); b.style.width = pc(sy.x1 - sy.x0);
+        b.style.top = pc(sy.staves[j][0] - .006); b.style.height = pc(sy.staves[j][1] - sy.staves[j][0] + .012); marks.appendChild(b); });
+    });
     const put = (t, cls, staff, title, onclick) => {
       const pos = posAt(t - OFF), sy = S[pos.s]; if (sy.p !== page) return;
       const j = staff && sy.names ? sy.names.indexOf(staff) : -1;

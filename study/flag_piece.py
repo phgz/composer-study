@@ -823,7 +823,8 @@ def page(a):
 
 def parts(a):
     """one take's instruments, each alone: the render's own stems (its render.json's mix_stem outputs, before the master), one
-    file per instrument as the score names it (a keyboard's two staves together, a part's extra desks with it), mixed to mono,
+    file per instrument as the score names it (a keyboard's staves together, the parts written on one staff together, a part's
+    extra desks with it), mixed to mono,
     raised to one level (the loudest tenth of a second at -6 dBFS; --gains reuses another take's, so the same instrument in two
     takes stays at one level), written as 64 kbps mp3 by ffmpeg; <dir>/parts.json lists them in the score's order with their
     gains. A silent stem is left out"""
@@ -836,9 +837,12 @@ def parts(a):
         spec = importlib.util.spec_from_file_location('piece_for_parts', a.module); mod = importlib.util.module_from_spec(spec)
         sys.path.insert(0, os.path.dirname(os.path.abspath(a.module))); spec.loader.exec_module(mod); E = getattr(mod, 'EXPORT', {})
     except Exception: E = {}
-    names = E.get('names', {}); order = E.get('order', [])
-    group = lambda p: names.get(p) or names.get(p.rstrip('xp')) or p
-    seq = sorted(stems, key=lambda p: (order.index(p.rstrip('xp')) if p.rstrip('xp') in order else 99, p))
+    names = E.get('names', {}); order = E.get('order', []); join = E.get('join', {})
+    def staff(p):                                                       # the staff a part is written on (EXPORT's join), else itself
+        q = p if p in names or p in join or p in order else p.rstrip('xp')
+        return join.get(q, q)
+    group = lambda p: names.get(p) or names.get(staff(p)) or p          # parts written on one staff, and a keyboard's staves, together
+    seq = sorted(stems, key=lambda p: (order.index(staff(p)) if staff(p) in order else 99, p))
     groups = {}
     for p in seq: groups.setdefault(group(p), []).append(local(stems[p]))
     old = json.load(open(os.path.join(a.gains, 'parts.json')))['gains'] if a.gains else {}
