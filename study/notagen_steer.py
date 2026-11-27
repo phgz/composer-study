@@ -97,10 +97,12 @@ def vector(a):
             if w['id'] not in ids: continue
             enc, _ = encode(model, w['windows'][-1], dev)                    # the last window: its last patch ends the piece
             states.append(enc[-1].float().cpu()); used.append(w['id'])
-    missing = sorted(ids - set(used))
-    if missing: sys.exit(f'not in {a.inputs}: {missing}')
+    missing = sorted(ids - set(used))                                       # works NotaGen's converter could not read
+    if not used: sys.exit(f'none of the works is in {a.inputs}')
+    if missing: print(f'not in {a.inputs}, so not in the vector: {missing}')
     v = torch.stack(states).mean(0)
-    json.dump(dict(works=used, prompt=w['prompt'], norm=float(v.norm()), vector=[round(float(x), 6) for x in v]), open(a.o, 'w'))
+    json.dump(dict(works=used, missing=missing, prompt=w['prompt'], norm=float(v.norm()), vector=[round(float(x), 6) for x in v]),
+              open(a.o, 'w'))
     print(f'{len(used)} works; the vector\'s length {float(v.norm()):.2f}, a state\'s {float(torch.stack(states).norm(dim=-1).mean()):.2f} on average')
 
 
