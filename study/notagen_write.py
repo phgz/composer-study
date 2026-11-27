@@ -6,7 +6,10 @@ inference/inference.py, MIT licence, Copyright (c) 2025 ElectricAlexis), here wi
 variable put right (context_tunebody_liness), and a voice list for files without %%score.
 
   python3 notagen_write.py WEIGHTS.pth NOTAGEN_CHECKOUT "Classical" "Mozart, Wolfgang Amadeus" "Chamber" -o OUT [--seed 1]
-      [--temperature 1.4] [--top-p 0.9] [--top-k 9] [--sheet] [--mscore PATH]
+      [--temperature 1.4] [--top-p 0.9] [--top-k 9] [--sheet] [--mscore PATH] [--vector VECTOR.json --alpha 0.3]
+
+--vector steers it toward a composer as Composer Vector does (study/notagen_steer.py): while it writes, the state of the newest
+patch, from which the next is written, moved by alpha times the vector and scaled back to its own length.
 
 Writes OUT/<name>.abc (as NotaGen wrote it), OUT/<name>.full.abc (every voice in every bar, X:1 first, the prompt lines left
 out: NotaGen's own output form), OUT/<name>.xml (its abc2xml.py) and OUT/<name>.mid (music21, where installed); with --sheet,
@@ -60,6 +63,8 @@ def main():
     ap.add_argument('--trust-pickle', action='store_true')
     ap.add_argument('--temperature', type=float); ap.add_argument('--top-p', type=float); ap.add_argument('--top-k', type=int)
     ap.add_argument('--sheet', action='store_true'); ap.add_argument('--mscore')
+    ap.add_argument('--vector', help='a composer vector (study/notagen_steer.py vector): each new patch written from its state steered toward it')
+    ap.add_argument('--alpha', type=float, default=0.3, help='how far, with --vector (Composer Vector: 0.1 to 0.8)')
     a = ap.parse_args()
     if a.sheet:                                                     # find MuseScore before an hour of writing, not after
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); import sheet
@@ -82,6 +87,17 @@ def main():
     from notagen_score import checkpoint
     sd = checkpoint(a.weights, a.trust_pickle); model.load_state_dict(sd, strict=False); del sd
     model = model.to(dev).eval(); pz = U.Patchilizer()
+    tag = ''
+    if a.vector:                                                    # Composer Vector: the newest patch's state, steered
+        import json
+        from notagen_steer import steer
+        v = torch.tensor(json.load(open(a.vector))['vector'], dtype=torch.float32, device=dev)
+        def hook(module, args, out):
+            h = out['last_hidden_state']; h = h.clone(); h[:, -1, :] = steer(h[:, -1, :], v.to(h.dtype), a.alpha)
+            out['last_hidden_state'] = h; return out
+        model.patch_level_decoder.register_forward_hook(hook)
+        tag = f'_steered-{os.path.splitext(os.path.basename(a.vector))[0]}-a{a.alpha:g}'
+        print(f'steered toward {a.vector}, alpha {a.alpha:g}', flush=True)
     np.random.seed(a.seed); torch.manual_seed(a.seed)
     prompt = ['%' + a.period + '\n', '%' + a.composer + '\n', '%' + a.instrumentation + '\n']
     print(f'NotaGen-X on {dev}, seed {a.seed}, temperature {TEMP}, top-p {TOPP}, top-k {TOPK}:', ' / '.join(p.strip('%\n') for p in prompt), flush=True)
@@ -117,7 +133,7 @@ def main():
                     print(f'  ... {len(text)} characters, {time.time() - t0:.0f} s', flush=True)
         if failed: print(f'attempt {attempt + 1} failed after {time.time() - t0:.0f} s', flush=True); continue
         os.makedirs(a.o, exist_ok=True)
-        name = time.strftime('%Y%m%d-%H%M%S') + '_' + re.sub(r'[^A-Za-z0-9]+', '-', f'{a.composer}_{a.instrumentation}').strip('-') + f'_seed{a.seed}_t{TEMP:g}'
+        name = time.strftime('%Y%m%d-%H%M%S') + '_' + re.sub(r'[^A-Za-z0-9]+', '-', f'{a.composer}_{a.instrumentation}').strip('-') + f'_seed{a.seed}_t{TEMP:g}' + tag
         abc = ''.join(text); open(os.path.join(a.o, name + '.abc'), 'w').write(abc)
         lines = [l + '\n' for l in abc.split('\n') if l]
         full = [l for l in rest_unreduce(lines, Barline_regexPattern, calculate_bartext_duration) if not (l.startswith('%') and not l.startswith('%%'))]
