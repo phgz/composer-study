@@ -179,3 +179,23 @@ def test_a_place_surprising_only_with_the_rest_and_one_surprising_alone_too(tmp_
 def test_the_first_note_of_each_onset():
     w = [[0, 10, 20, 11000, 30, 20, 11001, 30, 20, 11002]]          # three notes, the second and third at one onset
     assert FP.first_of_onset(w, [(0, 3), (0, 6), (0, 9)]) == [0, 1, 1]
+
+
+@needs_amt
+def test_places_above_a_fixed_bar_on_another_scoring_s_scale(tmp_path):
+    import argparse
+    ref, new = tmp_path / 'ref', tmp_path / 'new'
+    for f in (ref, new):
+        f.mkdir(); FP.prepare(argparse.Namespace(source=two_parts(str(tmp_path)), checkout=CO, o=str(f)))
+    notes = json.load(open(ref / 'flag_notes.json'))['notes']
+    whole = [('piece', [n[0] for n in notes])]
+    write(ref, 'flag_amt_large.jsonl', scores(whole, {('piece', 6.0): 9.0}))
+    row = scores(whole, {('piece', 6.0): 2.0})[0]                         # the place made less surprising than the bar
+    row['expect'] = [[[[62, .5], [60, .3]], None] for _ in notes]
+    write(new, 'flag_amt_large.jsonl', [row])
+    FP.over(argparse.Namespace(folder=str(ref), bar=4.0, scale_from=None))
+    assert '| 0:06.0 | note |' in open(ref / 'OVER-4.md').read()
+    FP.over(argparse.Namespace(folder=str(new), bar=4.0, scale_from=str(ref)))
+    assert '0 places' in open(new / 'OVER-4.md').read()
+    FP.over(argparse.Namespace(folder=str(new), bar=-9.0, scale_from=str(ref)))
+    assert 'D4 50%, C4 30%' in open(new / 'OVER--9.md').read()

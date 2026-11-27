@@ -60,6 +60,9 @@ NotaGen joins them where the piece declares its notation (composer-blend's tools
             piece is (flag_amt_alone_large.jsonl, flag_amt_alone_medium.jsonl). Philip, 25 November 2026: "if I listen to an
             instrument alone, then the sequence makes sense, but if I listen to the whole in context with the rest, then it's
             true it may sound weird. So on its layer its fine, but it's the interaction with the rest that is needs tuning."
+  over      python3 study/flag_piece.py over <folder> [--bar 4] [--scale-from <reference folder>]
+            the places above a fixed bar, on a reference scoring's scale held fixed: <folder>/OVER-<bar>.md (74c: 74b
+            recomposed until nothing is above the bar)
   together  python3 study/flag_piece.py together <folder> [--odd 1,28,34,39]
             each flagged place with everything and with its own part alone: <folder>/TOGETHER.md; with --odd, where the places
             heard as wrong stand among the rest"""
@@ -228,6 +231,79 @@ def surprise(folder):
     onset_idx = [i for i in range(len(notes)) if first[i] and all(bits[e][i][3] is not None for e in ears)]
     oz = {e: z(np.array([bits[e][i][3] for i in onset_idx])) for e in ears}
     return meta, notes, pz, onset_idx, oz, rank
+
+
+def raw_bits(folder):
+    """each AMT ear's bits as scored, not rescaled: (notes, {ear: pitch bits per note}, the indices of the notes that begin an
+    onset, {ear: onset bits per such note})"""
+    import numpy as np
+    notes = json.load(open(os.path.join(folder, 'flag_notes.json')))['notes']
+    inp = json.loads(open(os.path.join(folder, 'flag_amt_inputs.jsonl')).readline())
+    first = [pos - 5 < 1 or inp['windows'][wi][pos - 2] != inp['windows'][wi][pos - 5] for wi, pos in inp['notes']]
+    ears = [e for e in EARS if os.path.exists(os.path.join(folder, f'flag_amt_{e}.jsonl'))]
+    if not ears: raise SystemExit(f'{folder}: no scores yet')
+    bits = {e: json.loads(open(os.path.join(folder, f'flag_amt_{e}.jsonl')).readline())['bits'] for e in ears}
+    for e in ears:
+        if len(bits[e]) != len(notes): raise SystemExit(f'{folder}: flag_amt_{e}.jsonl has {len(bits[e])} notes, flag_notes.json {len(notes)}')
+    onset_idx = [i for i in range(len(notes)) if first[i] and all(bits[e][i][3] is not None for e in ears)]
+    return (notes, {e: np.array([b[0] for b in bits[e]]) for e in ears}, onset_idx,
+            {e: np.array([bits[e][i][3] for i in onset_idx]) for e in ears})
+
+
+def over(a):
+    """the places above a fixed bar: each AMT ear's bits put on the scale of a reference scoring held fixed (its mean and
+    standard deviation; by default the folder's own), averaged over the ears both have, and every note (and every onset) above
+    the bar after the first two seconds, one a second as the flags take them. For a piece recomposed until nothing is left above
+    the bar (74c: 74b's scale, the bar 4, then 3; Philip, 25 November 2026). Writes <folder>/OVER-<bar>.md"""
+    import numpy as np
+    notes, pb, onset_idx, ob = raw_bits(a.folder)
+    _, rpb, _, rob = raw_bits(a.scale_from or a.folder)
+    ears = [e for e in pb if e in rpb]
+    z = lambda x, ref: (x - ref.mean()) / (ref.std() or 1)
+    pitch = np.mean([z(pb[e], rpb[e]) for e in ears], axis=0)
+    onset = dict(zip(onset_idx, np.mean([z(ob[e], rob[e]) for e in ears], axis=0)))
+    start = min(n[0] for n in notes)
+
+    def above(idx, score):
+        out = []
+        for i in sorted(idx, key=lambda i: -score(i)):
+            if score(i) < a.bar: break
+            if notes[i][0] < start + 2.0 or any(abs(notes[i][0] - notes[j][0]) < 1.0 for j in out): continue
+            out.append(i)
+        return out
+    rows = [(i, 'note', float(pitch[i])) for i in above(range(len(notes)), lambda i: pitch[i])]
+    rows += [(i, 'rhythm', float(onset[i])) for i in above(onset_idx, lambda i: onset[i])]
+    rows.sort(key=lambda r: notes[r[0]][0])
+    meta = json.load(open(os.path.join(a.folder, 'flag_notes.json')))
+    where = passages(meta.get('source', ''), [notes[r[0]] for r in rows])
+    nm = lambda m: NAMES[m % 12] + str(m // 12 - 1)
+    exp = {}
+    for e in ears:
+        got = json.loads(open(os.path.join(a.folder, f'flag_amt_{e}.jsonl')).readline()).get('expect')
+        if got: exp[e] = got
+
+    def expected(i, kind):
+        """what the ears expected there, their probabilities averaged: the three likeliest"""
+        if not exp: return ''
+        pool = collections.defaultdict(float)
+        for e, got in exp.items():
+            for v, p in (got[i][0] if kind == 'note' else got[i][1] or []): pool[v] += p / len(exp)
+        top = sorted(pool.items(), key=lambda x: -x[1])[:3]
+        if kind == 'note': return ', '.join(f'{nm(int(v))} {p:.0%}' for v, p in top)
+        return ', '.join(f'{v:+.2f} s {p:.0%}' for v, p in top)
+    ref = os.path.relpath(a.scale_from, a.folder) if a.scale_from else 'this folder'
+    lines = [f'# Above {a.bar:g}, on the scale of {ref}', '',
+             f"{', '.join(EAR_NAMES[e] for e in ears)}; each note's surprise (or its onset's, **rhythm**) on the reference's scale, "
+             f'averaged over the ears; one place a second, as the flags take them, after the first two seconds. **AMT expected**: '
+             'where it was scored with --expect, its likeliest pitches there (a note) or onsets (a rhythm, in seconds from the note\'s '
+             'own: negative, earlier), the ears\' probabilities averaged.', '',
+             '| time | flag | pitch | part | passage | surprise | AMT expected |', '|---|---|---|---|---|---|---|']
+    for (i, kind, s), (part, passage) in zip(rows, where):
+        lines.append(f'| {mmss(notes[i][0])} | {kind} | {nm(notes[i][2])} | {part} | {passage} | {s:.1f} | {expected(i, kind)} |')
+    n_note = sum(r[1] == 'note' for r in rows)
+    lines += ['', f'{len(rows)} places: {n_note} notes, {len(rows) - n_note} onsets.']
+    open(os.path.join(a.folder, f'OVER-{a.bar:g}.md'), 'w').write('\n'.join(lines) + '\n')
+    print('\n'.join(lines[4:]))
 
 
 def own_ranks(notes, idx, scores):
@@ -707,6 +783,8 @@ def together(a):
 def main():
     ap = argparse.ArgumentParser(); sub = ap.add_subparsers(dest='cmd', required=True)
     x = sub.add_parser('prepare'); x.add_argument('source'); x.add_argument('checkout'); x.add_argument('-o', required=True)
+    x = sub.add_parser('over'); x.add_argument('folder'); x.add_argument('--bar', type=float, default=4.0)
+    x.add_argument('--scale-from', help='a scored flags folder whose scale is held fixed (by default the folder itself)')
     x = sub.add_parser('alone'); x.add_argument('source'); x.add_argument('checkout'); x.add_argument('folder')
     x = sub.add_parser('together'); x.add_argument('folder'); x.add_argument('--top', type=int, default=20)
     x.add_argument('--odd', help='the places heard as wrong, by their numbers: 1,28,34,39')
@@ -721,7 +799,7 @@ def main():
     x.add_argument('--parts', action='append', default=[], help="ID=a folder `parts` wrote: the take's instruments alone")
     x = sub.add_parser('parts'); x.add_argument('render'); x.add_argument('module'); x.add_argument('-o', required=True)
     x.add_argument('--gains', help='a folder `parts` wrote for another take: the same level for each instrument')
-    a = ap.parse_args(); dict(prepare=prepare, alone=alone, together=together, notagen=notagen, report=report, compare=compare, page=page, parts=parts)[a.cmd](a)
+    a = ap.parse_args(); dict(prepare=prepare, over=over, alone=alone, together=together, notagen=notagen, report=report, compare=compare, page=page, parts=parts)[a.cmd](a)
 
 
 if __name__ == '__main__':
