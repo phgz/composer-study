@@ -49,3 +49,21 @@ How it was read matters more than the count. The violin's tune was recognised fr
 - The music sense is what carries a small or crowded picture, and also what produces a wrong note nobody notices, because the wrong note is the plausible one. A composer's page is interested in exactly the notes that are not the plausible ones.
 
 **What it does not show.** The photo is simulated, not a real one; the photo tests have quarter notes on one staff, no chords, no accidentals, no beams; piece 80's harmony is plain and its tune was already known; every count is one try on 24 to 114 notes.
+
+## The same evening: a real library scan
+
+Philip: "Well why not use the PDFs from the online libraries?" He downloaded Borodin's String Quartet No. 2 from IMSLP (file 644692; 37 pages, each a grey picture of 1465 by 2094 at 300 dots an inch; M. P. Belaieff, Leipzig, plate 1055 at the foot of the page) and attached it. The PDF was kept outside every repository and read as data; it is not copied here.
+
+**What was read.** The first page of the third movement, the Notturno (PDF page 19, printed page 20): five systems of seven bars. `calque_scan.py` straightened it (tilt found: 0.00 degrees), flattened the paper, found 20 staves of 20 from their lines (10.0 px between two staff lines) and cut one system a picture; `zoom.py` enlarged bands of a system 2.2 to 3.3 times. Thirteen pictures were looked at: the page, three systems, nine closer looks. Three of the five systems were read by eye, bars 1 to 7, 15 to 21 and 22 to 28: the opening, the chromatic stretch, and the place where the first violin takes the tune. The reading is `read_notturno.py`, written before the comparison and not changed after (it lists the six places where the picture did not decide alone).
+
+**The result** (`compare_notturno.py`, against score-reader's copy of the movement, OpenScore's edition, ready-read sample 0007): **283 of 283 notes right** in beat, pitch and length, none read that is not there; the seven groups of grace notes the same. The comparison was checked by planting two wrong notes in a copy: it reported both.
+
+**What the count is worth.**
+- The 283 notes are about 129 separate decisions (a part, a bar, a pitch): 210 of them are the second violin's and the viola's accompaniment, which repeats one chord four times a bar. The tune and the bass are 73 notes.
+- It was not blind. The Notturno is among the best-known quartet movements, and this session had read this very copy of it that morning for piece 81's reading. The notes were no longer before it after the conversation was compacted, but the tune's shape was in its summary, and any reader of music half knows it.
+- Six places were settled by something other than the picture (the chord, the cello under it, a neighbouring bar): all six came out right. The music is tonal and regular, which is where music sense agrees with the score. A chromatic or irregular page would test the other case.
+- The closer looks were chosen by the reader, bar by bar. A pipeline would have to choose them by itself.
+- Two of the page's five systems (bars 8 to 14, 29 to 35; the page holds 480 notes) were not read.
+- The scan is a good one: straight, 300 dots an inch, clean plates. A worse scan is untested.
+
+**Cost.** Heavier than was said beforehand ("about the size of what I already did today"): the page holds four times the notes of the afternoon's system, and three fifths of it took thirteen pictures and the longest stretch of reading of the day.
