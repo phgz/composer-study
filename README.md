@@ -133,6 +133,14 @@ A narrow unit is a composer in one kind of piece and one period: Chopin's mazurk
 - **What is proposed:** of many samples, the ones whose surprise (measured with the piece's own memory, as the unit's music is) falls between the 25th and 75th percentiles of the unit's own held-out passages, most different from one another. Neither the most likely, which the critic would call flat, nor noise.
 - **Quotation:** each proposal can be checked against the unit's works with score-reader's rule (no more than three intervals in a row with their rhythm). Counted that way, the composers' own held-out passages quote their other works 84% to 100% of the time, and the proposals 59% to 91%. At eight intervals, the real passages 6% to 44%, the proposals 0% to 29%. So, as Philip decided: against the unit, a quote is eight intervals in a row with their rhythm (`quotes_against`); against the works a piece draws on, four, as for any line.
 
+## A piece's page (for composer-blend)
+
+`study/flag_piece.py` also builds the page a composer-blend piece is presented on after a render: the take, its drawn score following the playing, each instrument alone, the places the outside ears flag, and what Philip ticks, writes and marks on it.
+
+- `score` draws the piece's score with where every bar and moment is on the page, `parts` turns one take's stems into each instrument alone, and `page` fills `study/walk_page.html` with them. The heading of `flag_piece.py` has every command and option.
+- The order to run them in, where the large stems are made small, and how the page is published so that his marks are kept: composer-blend's `PROCEDURE.md`, Part 1, F ("The page is how a piece is presented after a render").
+- Philip, 27 November 2026: "I especially like the UI, if it can be specified to instances to use that one for post-rendering presentation".
+
 ## NotaGen beside the ear
 
 NotaGen (Wang et al., 2025; MIT licence) is a 516-million-parameter model that writes classical scores in ABC notation from a prompt (period, composer, instrumentation). Its weights are not kept here; the scripts that need them run where they are.
