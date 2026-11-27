@@ -230,3 +230,40 @@ def test_flat_stretches_are_the_gaps_between_events_above_the_bar(tmp_path):
     assert [(round(a, 1), round(b, 1)) for a, b in r['stretches']] == [(5.0, 12.0)]   # 2 s to 4 s is under the gap
     assert abs(r['share'] - 7 / 10) < 1e-9 and r['longest'] == 7.0
     assert FP.pairs_ordered({'x': .6, 'y': .2, 'z': .6}, ['x'], ['y', 'z']) == 1.5
+
+
+MPOS = '''<score><elements>
+<element id="0" x="1000" y="2000" sx="3000" sy="4000" page="0"/>
+<element id="1" x="4000" y="2000" sx="5000" sy="4000" page="0"/>
+<element id="2" x="1000" y="2000" sx="8000" sy="4000" page="1"/>
+</elements><events><event elid="0" position="0"/><event elid="1" position="2000"/><event elid="2" position="4000"/></events></score>'''
+SPOS = '''<score><elements>
+<element id="0" x="1900" y="2000" sx="200" sy="4000" page="0"/>
+<element id="1" x="2900" y="2000" sx="200" sy="4000" page="0"/>
+<element id="2" x="4900" y="2000" sx="200" sy="4000" page="0"/>
+<element id="3" x="1900" y="2000" sx="200" sy="4000" page="1"/>
+</elements><events><event elid="0" position="0"/><event elid="1" position="1000"/><event elid="2" position="2000"/><event elid="3" position="4000"/></events></score>'''
+SVG = ''.join(f'<polyline class="StaffLines" points="100,{y} 900,{y}"/>' for y in (200, 210, 220, 230, 240, 560, 570, 580, 590, 600))
+
+
+def test_a_drawn_score_gives_each_moment_the_second_its_bar_has_by_the_piece_s_clock():
+    bars, bar_ms = FP.positions(MPOS); moments, moment_ms = FP.positions(SPOS)
+    assert bars[1] == (4000.0, 2000.0, 5000.0, 4000.0, 0) and bar_ms[1] == (1, 2000.0)
+    staves = {0: FP.staff_lines(SVG), 1: []}
+    assert staves[0] == [(2000.0, 2400.0), (5600.0, 6000.0)]
+    # the piece's clock is not MuseScore's: its bars last 3, 6 and 3 seconds, the first beginning at 1
+    m = FP.score_map(bars, bar_ms, moments, moment_ms, [(1.0, 4.0, 1, 4), (4.0, 10.0, 2, 4), (10.0, 13.0, 3, 4)],
+                    {0: (10000.0, 10000.0), 1: (10000.0, 10000.0)}, staves, ['Flute', 'Cello'])
+    assert [x[0] for x in m['moments']] == [1.0, 2.5, 4.0, 10.0]             # halfway through bar 1 is 2.5 s, not 1 s
+    assert [x[1] for x in m['moments']] == [0, 0, 0, 1] and m['moments'][0][2] == 0.2
+    assert [(b['n'], b['s'], b['t'], b['e']) for b in m['bars']] == [(1, 0, 1.0, 4.0), (2, 0, 4.0, 10.0), (3, 1, 10.0, 13.0)]
+    first, second = m['systems']
+    assert (first['p'], first['x0'], first['x1'], first['names']) == (0, 0.1, 0.9, ['Flute', 'Cello'])
+    assert first['staves'] == [[0.2, 0.24], [0.56, 0.6]] and second['names'] is None   # no staff found there: no names
+
+
+def test_a_drawn_score_with_other_bars_than_the_piece_is_refused():
+    bars, bar_ms = FP.positions(MPOS); moments, moment_ms = FP.positions(SPOS)
+    with pytest.raises(SystemExit): FP.score_map(bars, bar_ms, moments, moment_ms, [(0.0, 2.0, 1, 4)], {0: (1e4, 1e4), 1: (1e4, 1e4)})
+    with pytest.raises(SystemExit):                                           # a bar played before an earlier one: a repeat
+        FP.score_map(bars, [(0, 0.0), (2, 1000.0), (1, 2000.0)], moments, moment_ms, [(0, 1, 1, 4), (1, 2, 2, 4), (2, 3, 3, 4)], {0: (1e4, 1e4), 1: (1e4, 1e4)})
