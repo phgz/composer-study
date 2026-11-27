@@ -2,13 +2,17 @@
 
 Begun by Claude on 24 November 2026, for composer-blend's piece 71. It grows each time he is used.
 
-**Scope so far.** One kind of piece: the songs with orchestra of his middle years, as the *Kindertotenlieder* (five poems of Rückert, composed 1901 to 1904) show them. **Scores:** yes. score-reader's catalogue (version 25) holds the five *Kindertotenlieder* in the DCML analysts' edition, with their chord labels, and songs of the *Wunderhorn* years (*Rheinlegendchen*, the four *Lieder eines fahrenden Gesellen*). The *Kindertotenlieder* were read by measurement from Philip's ready-read copy: the first song whole and its opening note by note, the chord labels of all five. **The reading is the voice and piano score**, so the orchestra's instruments are not in it; what is said of them below comes from the source. Each technique marked **[score]** names the bars.
+**Scope so far.** Two kinds of piece: the songs with orchestra of his middle years, as the *Kindertotenlieder* (five poems of Rückert, composed 1901 to 1904) show them. **Scores:** yes. score-reader's catalogue (version 25) holds the five *Kindertotenlieder* in the DCML analysts' edition, with their chord labels, and songs of the *Wunderhorn* years (*Rheinlegendchen*, the four *Lieder eines fahrenden Gesellen*). The *Kindertotenlieder* were read by measurement from Philip's ready-read copy: the first song whole and its opening note by note, the chord labels of all five. **The reading is the voice and piano score**, so the orchestra's instruments are not in it; what is said of them below comes from the source. Each technique marked **[score]** names the bars.
+
+**The second kind** (added on 27 November 2026, for composer-blend's piece 80): the strophic song of the Wayfarer years, as *Gieng heut morgen übers Feld* (1884-85) shows it, read by measurement from OpenScore's edition.
 
 **Measured profile:** [`profiles/gustav-mahler.md`](../profiles/gustav-mahler.md), generated from score-reader's catalogue by `study/profiles.py`; its unit "song (voice and keyboard), middle" is these five songs.
 
 **The pieces that used this page,** with Philip's words on each: composer-blend, [`reference/composers/gustav-mahler.md`](https://github.com/phgz/composer-blend/blob/main/reference/composers/gustav-mahler.md) (piece 71: 5, "I like it very much, 5!").
 
 ## Techniques
+
+### The songs with orchestra of the middle years (*Kindertotenlieder*)
 
 1. **A large orchestra used as a chamber orchestra.** The cycle is scored for a solo voice and an orchestra with piccolo, flutes, oboes, cor anglais, clarinets and bass clarinet, bassoons and contrabassoon, four horns, timpani, glockenspiel, tam-tam, celesta, harp and strings; it is used at chamber scale. In the voice and piano score the accompaniment has about half the notes of his contemporaries' songs (2.98 a quarter, against 5.73).
    *Works on:* texture, colour.
@@ -55,6 +59,27 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 71. It grows eac
     *How:* not a technique: a link between two works.
     *Where:* *In diesem Wetter*, the postlude. [Wikipedia, Kindertotenlieder]
 
+### The strophic song of the Wayfarer years (*Lieder eines fahrenden Gesellen*, 1884-85)
+
+Added on 27 November 2026, for composer-blend's piece 80: *Gieng heut morgen übers Feld*, the second song, read by measurement (OpenScore's voice and piano edition), with what sources say of it.
+
+11. **The second verse sung as the first, the refrain's word changed.** The voice's tune at bar 30 ("Auch die Glockenblum' am Feld") is note for note and beat for beat the tune of bar 2 ("Gieng heut morgen übers Feld"); what changes is the bird's word in the refrain, "Zink! Zink!" (bars 19 and 20) becoming "Kling! Kling!" (46 and 47).
+    *Works on:* form, melody.
+    *How:* sing a second verse to the first verse's tune unchanged, and let the change be in a word of the refrain and what the piano does with it.
+    *Where:* *Gieng heut morgen übers Feld*, bars 2 to 29 and 30 to 53. **[score: Gieng heut morgen]**
+12. **The third verse: the tune's head in a far key, slower, its top held.** At bar 62 the key signature goes from two sharps to five (D major to B major); the voice's third verse ("Und da fing im Sonnenschein", bar 65) begins with the same intervals as the first (a fourth down, a fourth up, three steps up) and holds the top note, F sharp 5, for ten beats; the tempo words are "Allmählig in ein sehr gemächliches Tempo einlenken" (bar 58) and "Noch etwas langsamer" (bar 64).
+    *Works on:* melody, harmony, form.
+    *How:* for the last verse move the tune's opening to a key far from the first, slow down, and stretch its highest note far beyond its first length.
+    *Where:* *Gieng heut morgen übers Feld*, bars 58 to 75. **[score: Gieng heut morgen]**
+13. **The happy song ends turned.** From bar 103, "Sehr leise und langsam", the voice takes the tune's head once more a fifth lower (F sharp 4, C sharp 4, F sharp 4, then up by step) on "Nun fängt auch mein Glück wohl an?!", and the song closes on "mir nimmer, nimmer blühen kann" (bars 117 to 127). It "begins in D major and ends in F♯ major" [Wikipedia, Lieder eines fahrenden Gesellen]; it is "the only song of the four in a major key" [Nashville Symphony].
+    *Works on:* form, melody, background.
+    *How:* after the verses, bring the tune's first notes back very soft and slow, in another key, under words that turn the song's joy into its opposite.
+    *Where:* *Gieng heut morgen übers Feld*, bars 103 to 127. **[score: Gieng heut morgen; Wikipedia]**
+14. **The song's tune becomes the symphony's.** "The melody of this movement, as well as much of the orchestration, was later reused by Mahler and developed into the 'A' theme of the first movement of his Symphony No. 1" [Wikipedia, Lieder eines fahrenden Gesellen]; there it is "a bright exposition in contrast with the slower and darker introduction" [Mahler Foundation, Symphony No. 1].
+    *Works on:* background, form.
+    *How:* not a technique on its own: the same tune, taken from a song, is the material of a symphony's first movement.
+    *Where:* the First Symphony, first movement. Not read here. [Wikipedia; Mahler Foundation]
+
 ## Walks through whole works
 
 ***Nun will die Sonn' so hell aufgeh'n*** (84 bars, D minor throughout). Two bare lines for eight bars; the voice enters, the accompaniment never much more than three notes at once. The major tonic chord comes and goes eleven times (from bar 11 to bar 77); the song ends in the minor (bar 82). The voice sings about half the time (48%), between D4 and E flat 5.
@@ -88,6 +113,8 @@ None yet: the sources read for this page call nothing in the cycle famous.
 
 ## Samples in score-reader's catalogue
 
+- `openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/2_Gieng_heut_morgen_übers_Feld/lc5026309.mxl` (techniques 11, 12, 13)
+
 - `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_01_nun_will_die_sonn.notes.tsv` (techniques 2, 3, 5)
 - `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_02_nun_seh_ich_wohl.notes.tsv` (7)
 - `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_03_wenn_dein_mutterlein.notes.tsv` (5)
@@ -101,6 +128,11 @@ None yet: the sources read for this page call nothing in the cycle famous.
 - Composer-blend's piece 58 took *In diesem Wetter* for its storm and its sleep; this page was written later, from new reading.
 
 ## Sources
+
+- score-reader's catalogue, version 25: *Gieng heut morgen übers Feld* (OpenScore), read with `detail` on 27 November 2026, its keys and tempo words with music21.
+- Wikipedia, "Lieder eines fahrenden Gesellen": the search excerpt only (its sentence on the second song and the First Symphony, and its keys).
+- Mahler Foundation, "Introduction Symphony No. 1" (mahlerfoundation.org): the search excerpt only.
+- Nashville Symphony, programme note on *Lieder eines fahrenden Gesellen*: the search excerpt only.
 
 - score-reader's catalogue, version 25, read from Philip's ready-read copy: the five *Kindertotenlieder*, with the DCML analysts' chord labels.
 - composer-study's profile of Mahler (catalogue version 25).

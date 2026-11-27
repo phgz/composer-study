@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026. It grows each time he is used.
 
-**Scope so far.** Two kinds of piece: slow music in which a wind sings, and his serenades for winds; and his variations for piano on a tune of the day (added on 24 November 2026, for composer-blend's piece 72: five sets read by measurement from Philip's ready-read copy, catalogue version 25, in the TAVERN edition with its chord labels). **Scores:** yes. score-reader's catalogue (version 20) holds 268 files of his: the piano sonatas, the quartets, the clarinet, bassoon and horn concertos, the clarinet and horn quintets, *Eine kleine Nachtmusik*, a divertimento for three winds. Two were read by measurement: the Adagio of the Clarinet Concerto K. 622 and the five movements of the wind divertimento K. 439b; each technique marked **[score]** says where. The *Gran Partita* K. 361 is not in the catalogue and is known here from a source.
+**Scope so far.** Two kinds of piece: slow music in which a wind sings, and his serenades for winds; and his variations for piano on a tune of the day (added on 24 November 2026, for composer-blend's piece 72, and extended on 27 November 2026 for piece 80 with the variation finale of the Clarinet Quintet K. 581: five sets read by measurement from Philip's ready-read copy, catalogue version 25, in the TAVERN edition with its chord labels). **Scores:** yes. score-reader's catalogue (version 20) holds 268 files of his: the piano sonatas, the quartets, the clarinet, bassoon and horn concertos, the clarinet and horn quintets, *Eine kleine Nachtmusik*, a divertimento for three winds. Two were read by measurement: the Adagio of the Clarinet Concerto K. 622 and the five movements of the wind divertimento K. 439b; each technique marked **[score]** says where. The *Gran Partita* K. 361 is not in the catalogue and is known here from a source.
 
 **Measured profile:** [`profiles/wolfgang-amadeus-mozart.md`](../profiles/wolfgang-amadeus-mozart.md), generated from score-reader's catalogue by `study/profiles.py`.
 
@@ -83,6 +83,19 @@ His sets in the catalogue take their tunes from others: an arietta from Gluck's 
     *How:* make the last variation quick and in a new metre; break it once with a free passage; end in the theme's own metre, with the theme or its close.
     *Where:* K. 455, bars 212 to 344; K. 573, bars 217 to 278; K. 613, bars 364 to 495. **[score: K. 455, K. 573, K. 613]**
 
+17. **The tune stays; a figure goes over it, each variation another instrument's.** In the finale of the Clarinet Quintet K. 581 (141 bars as read; A major), the theme is the first violin's (bars 1 to 16, the clarinet sparse: 8 notes in four bars against the violin's 18). The theme's opening intervals come back in the first violin at bars 17, 29, 65 and 77 and in the viola at 21: the tune goes on under the variation. Over it the figure moves: the clarinet runs in the first variation (bars 17 to 32, up to 28 notes in four bars); the second violin and viola in triplets in the second (33 to 48, 37 to 48 notes each in four bars), the clarinet playing only in every other four bars; the clarinet and first violin trading sixteenths in the fourth (65 to 80, about 60 notes each in their four bars).
+    *Works on:* texture, form, colour.
+    *How:* keep the tune in one instrument through a variation and lay one quick figure over it; give the figure to a different instrument, or pair, in each variation; let two instruments trade it every four bars.
+    *Where:* K. 581, fourth movement, bars 1 to 80. **[score: K. 581/4]**
+18. **The minor variation is the viola's, and the tune is gone from it.** Bars 49 to 64 are in A minor (32 C naturals, one C sharp); none of the parts has the theme's opening intervals there; the viola has the line, a figure circling E and F, a half step, under a grace note.
+    *Works on:* harmony, melody, colour.
+    *How:* in the minor variation, take the tune away and give the inner voice a line of its own, on a sighing half step.
+    *Where:* K. 581, fourth movement, bars 49 to 64. **[score: K. 581/4]**
+19. **The tune last in the clarinet, near the end.** After a variation in longer beats (bars 81 to 96: the first violin in leaps up to D6, the clarinet in arpeggios from its lowest note, C sharp 3 as sounding), the last section brings the theme's opening back in the clarinet at bar 110, with the second violin.
+    *Works on:* form, colour.
+    *How:* hold the tune back from the instrument the set is named for, and give it to that instrument near the end.
+    *Where:* K. 581, fourth movement, bars 81 to 96 and 110. **[score: K. 581/4]**
+
 ## Walks through whole works
 
 **K. 455, ten variations on Gluck's *Unser dummer Pöbel meint*** (344 printed bars, G major, 2/2), by what the score shows: the theme (bars 1 to 12); sixteenths in the right hand (13 to 24); in the left (25 to 36); triplets (37 to 48); the minor (73 to 84); a free bar (163) and the slow ornamented variation (164 to 211); the last variation in 3/8 (212 to 323), with free bars at 263 to 268; 2/2 again to the end (324 to 344).
@@ -114,12 +127,16 @@ None yet.
 
 ## Samples in score-reader's catalogue
 
+- `mutopia:MozartWA/KV581/k581#4` (17, 18, 19)
+
 - `mutopia:MozartWA/KV622/MozartK622#2` (techniques 1 to 4)
 - `mutopia:MozartWA/KV229/divertimento#1` to `#5` (5, 6)
 - `tavern-xml:Mozart/K455/Krn/K455.xml` (12, 13, 14, 15, 16)
 - `tavern-xml:Mozart/K398/Krn/K398.xml`, `tavern-xml:Mozart/K353/Krn/K353.xml`, `tavern-xml:Mozart/K573/Krn/K573.xml`, `tavern-xml:Mozart/K613/Krn/K613.xml` (14, 15, 16)
 
 ## Not checked
+
+- K. 581's finale: the tempo words (which variation is *Adagio*) and the boundaries beyond those named; read from the figures and the key, sixteen bars at a time. Which part of the reading is the clarinet: taken as the first, by its range and the movement's texture.
 
 - The tempo markings of the variations (the slow one's *Adagio*, the last one's speed): not in the reading; what is slow and quick above is from the note values and the metres.
 - Which variation of K. 455 begins where, beyond those named: the boundaries were read from the figures, every twelve bars, not from labels.
@@ -130,6 +147,8 @@ None yet.
 - That he wrote a serenade sung to a mandolin in *Don Giovanni*: believed from memory.
 
 ## Sources
+
+- score-reader's catalogue, version 25: the Clarinet Quintet K. 581, fourth movement (Mutopia), read with `detail` on 27 November 2026.
 
 - score-reader's catalogue, version 20, read from its ready copy: the six movements above.
 - score-reader's catalogue, version 25, read from Philip's ready-read copy: the five sets of variations above (the TAVERN edition).

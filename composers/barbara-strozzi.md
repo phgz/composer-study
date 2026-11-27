@@ -4,6 +4,8 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended
 
 **Scope so far.** One kind of piece: the aria for solo voice and continuo built on a bass that repeats, as *Che si può fare* (from the *Arie* op. 8, her last collection, 1664) shows it, with the chromatic walk of *Tu me ne puoi*. **Scores:** yes. score-reader's catalogue (version 25) holds 28 of her works, all from CPDL: arias, cantatas and madrigals. The two named above were read by measurement from Philip's ready-read copy; the 28 were searched for a repeating bass. *Che si può fare* is CPDL's "modernized" edition, so its note values may not be the print's. Each technique marked **[score]** names the bars of the reading.
 
+**Extended** on 27 November 2026, for composer-blend's piece 80: the 28 works read again for where their opening words come back (technique 8).
+
 **Measured profile:** [`profiles/barbara-strozzi.md`](../profiles/barbara-strozzi.md), generated from score-reader's catalogue by `study/profiles.py`: her airs and her madrigals against other composers'.
 
 **The pieces that used this page,** with Philip's words on each: composer-blend, `reference/composers/barbara-strozzi.md` (piece 70: 4.25, "Yes, 4.25 for 70"; piece 70b: 3.75, "It sounds ok, but not as moving as the other").
@@ -50,6 +52,15 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended
    *How:* in six-eight, give the voice the dotted eighth, sixteenth and eighth again and again, over a bass in quarter and eighth.
    *Where:* *E pazzo il mio core*, bars 6 to 12. **[score: E pazzo il mio core]**
 
+### The words that come back (her airs and madrigals, all 28)
+
+Added on 27 November 2026, for composer-blend's piece 80: the 28 works of the catalogue read for where the opening words return.
+
+8. **The opening words come back, mostly to new music.** In 19 of the 28 works the voice that sings first sings its first four syllables again four bars or more later. Of those 68 returns, 56 come with new notes; 9 bring back the first music note for note (*Che si può fare* bar 19, *Bel desio* 11, *Non c'è più fede* 20, *Ferma il piede* 28, *Non ti doler* 9, *Lilla mia* 11, *Canto di bella bocca* 43, *Compatite* 14 and 69); one brings it a fifth lower (*Compatite*, bar 53); two the same notes in a new rhythm.
+   *Works on:* form, melody.
+   *How:* let the words of the first line come back through the piece, set to new music each time; now and then, at a section's end, bring back the first setting unchanged, as a refrain.
+   *Where:* the works and bars named. **[score: her 28 works]** In the madrigals the voice read is the first with words; the others were not compared.
+
 ## Walks through whole works
 
 ***Che si può fare*** (op. 8, 1664 [USC]; 138 bars and 1,241 beats as read). Bars 1 to 47: the walking bass, 28 times, the voice over it (techniques 1 to 3). Bars 47 to 99: a freer section, the bass in quick notes (mostly sixteenths and half notes), no repeat. Bars 99 to 133: a third section, its bass in quarters and eighths; the walk is heard once at its start, in quick notes. Bars 133 to 138: the walk once more, quickly, and a close. The voice ranges from E flat 4 to A5. **[score: Che si può fare]**
@@ -84,6 +95,8 @@ None yet: no source read calls any of her works famous.
 - What the texts say where the techniques fall: the words were not read.
 
 ## Sources
+
+- score-reader's catalogue, version 25: the 28 works read again with `detail` on 27 November 2026 (words and notes), for technique 8.
 
 - score-reader's catalogue, version 25, read from Philip's ready copy: the 28 works searched, the two named read.
 - Measured profile: `profiles/barbara-strozzi.md`.
