@@ -41,7 +41,7 @@
 
 ## What next
 
-Philip chooses one, neither, or another reading of his remark. Then the third way: a rule from outside music.
+Philip, 27 November 2026, asked whether this reading of "the oddness we want" matched what he meant: "Yes." He then chose to try the third way, a rule from outside music; D and E are left open, not chosen or turned down.
 
 ## Sources
 
