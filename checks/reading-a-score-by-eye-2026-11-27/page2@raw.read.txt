@@ -1,0 +1,7 @@
+# the photo's last line cut at full size, not straightened, light not flattened: bars 7 to 12
+D5 D5 B4 F4
+F5 C5 C6 E4
+C5 C5 G4 G5
+B3 D5 B3 G5
+B4 C6 C5 C6
+G5 F5 G4 C5

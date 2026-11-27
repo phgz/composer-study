@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
 <title>__TITLE__</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -92,6 +94,25 @@ select, input[type="text"] { font: inherit; background: var(--bg); color: var(--
 .chg-row { grid-template-columns: 1.6em 4.6em 5.8em minmax(0, 1fr) auto auto; }
 .mine-row { grid-template-columns: 1.6em 2.2em 4.6em 6.4em minmax(0, 1fr) auto; }
 .foot { color: var(--muted); font-size: .85rem; max-width: 72ch; }
+[hidden] { display: none !important; }
+/* The score: one page at a time on white paper whatever the theme, in a box that scrolls; over it the bar being played, a
+   cursor at the playhead, the staves' names in the margin, and a ring at each flagged place and each of the listener's points. */
+.score-bar { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; font-size: .85rem; color: var(--muted); }
+.score-bar .takes button { padding: 4px 10px; font-size: .85rem; }
+.where { font-family: var(--mono); font-variant-numeric: tabular-nums; margin-left: auto; }
+.scorebox { overflow: auto; background: #fff; border: 1px solid var(--line); border-radius: 8px; max-height: 44vh; overscroll-behavior: contain; }
+.scorebox.tall { max-height: calc(100vh - 260px); }
+.sheet { position: relative; width: 100%; cursor: pointer; }
+.sheet.marking { cursor: crosshair; }
+.sheet img { display: block; width: 100%; height: auto; user-select: none; -webkit-user-drag: none; }
+.sheet .barbox { position: absolute; background: rgba(255, 205, 60, .2); pointer-events: none; }
+.sheet .hearing { position: absolute; background: rgba(47, 111, 166, .13); pointer-events: none; }
+.sheet .cursor { position: absolute; width: 2px; margin-left: -1px; background: rgba(200, 52, 28, .9); pointer-events: none; }
+.sheet .staffname { position: absolute; left: 2px; display: flex; align-items: center; font-size: 9px; line-height: 1; color: #33383d;
+  white-space: nowrap; overflow: hidden; pointer-events: none; }
+.sheet .mark { position: absolute; width: 16px; height: 16px; margin: -8px 0 0 -8px; padding: 0; border-radius: 50%; background: transparent;
+  border: 2px solid #b4442f; }
+.sheet .mark.rhythm { border-color: #2f6fa6; } .sheet .mark.mine { border-color: #2f7d4f; background: rgba(47, 125, 79, .18); }
 @media (max-width: 600px) {
   .row { grid-template-columns: 1.6em 4.2em minmax(0, 1fr) auto; }
   .row .n, .row .bar, .row .rank { display: none; }
@@ -104,6 +125,7 @@ select, input[type="text"] { font: inherit; background: var(--bg); color: var(--
   .chg-row .what { grid-row: 2; }
   .mine-row { grid-template-columns: 1.6em 4.2em minmax(0, 1fr) auto; }
   .mine-row .fill, .legend .long { display: none; }
+  .scorebox { max-height: 38vh; } .where { margin-left: 0; }
   .clock { margin-left: 0; }
 }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
@@ -133,6 +155,14 @@ select, input[type="text"] { font: inherit; background: var(--bg); color: var(--
       <span class="chip mine"><i></i>yours<span class="long">: your own points</span></span>
       <span id="status">Connecting your ticks…</span>
     </div>
+    <div id="score-wrap" hidden>
+      <div class="score-bar">
+        <span class="takes" role="group" aria-label="How much of the score shows" id="score-size"><button type="button" data-size="off" aria-pressed="false">No score</button><button type="button" data-size="half" aria-pressed="true">Half</button><button type="button" data-size="tall" aria-pressed="false">Tall</button></span>
+        <span class="takes" role="group" aria-label="What a click on the score does" id="score-mode"><button type="button" data-mode="play" aria-pressed="true">Click plays</button><button type="button" data-mode="mark" aria-pressed="false">Click marks</button></span>
+        <span class="where" id="where"></span>
+      </div>
+      <div class="scorebox" id="scorebox" tabindex="0" aria-label="The score"><div class="sheet" id="sheet"><img id="sheet-img" alt="The score, the page being played"><div id="sheet-over"></div></div></div>
+    </div>
   </section>
   <section class="list" aria-label="What changed" id="changes-box">
     <div class="group title" id="changes-title"></div>
@@ -157,6 +187,7 @@ function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.
 document.title = DATA.title; $('h1').textContent = DATA.heading || DATA.title;
 $('intro').textContent = DATA.intro || ''; $('foot').textContent = DATA.foot || '';
 $('places-title').textContent = DATA.placesTitle || `The ${ROWS.length} flagged places`;
+if (!ROWS.length) { $('list').hidden = true; document.querySelectorAll('.chip.note, .chip.rhythm').forEach(c => c.remove()); }
 const tl = $('timeline'), list = $('list'), chgEl = $('changes'), statusEl = $('status'), mineEl = $('mine'), addBtn = $('addpoint');
 let DUR = DATA.duration;
 const mmss = t => `${Math.floor(t / 60)}:${(t % 60).toFixed(1).padStart(4, '0')}`;
@@ -202,6 +233,7 @@ function switchTo(k, p) {
   Object.entries(takeBtns).forEach(([n, b]) => b.setAttribute('aria-pressed', String(n === k)));
   document.querySelectorAll('.ab button').forEach(b => b.classList.toggle('on', b.dataset.take === k));
   playBtn.textContent = playing ? 'Pause' : 'Play';
+  scoreMarks();
 }
 function setTake(k) { switchTo(k, audioFor(k, part) ? part : ''); }
 function playFrom(t, k) {
@@ -324,7 +356,7 @@ CHANGES.forEach(c => {
 });
 
 // ---- the flagged places
-const placeRows = {};
+const placeRows = {}, rowStop = {};
 const changedPlace = {}, nearPlace = {};
 CHANGES.forEach(c => { (c.places || []).forEach(k => changedPlace[k] = c); (c.near || []).forEach(k => nearPlace[k] = c); });
 let secIdx = -2;
@@ -358,13 +390,118 @@ ROWS.forEach((r, i) => {
   const tk = tick(r.kind, r.t, `${k}. ${mmss(r.t)} ${r.kind} ${r.part} ${r.pitch}`, () => go(stop));
   const rr = { row, cb, vw: vb.w, vm: vb.m, note, tick: tk }, paint = () => paintRow(rr, placeState[k]);
   placeRows[k] = rr;
-  const stop = { t: r.t, row }; stops.push(stop);
+  const stop = { t: r.t, row }; stops.push(stop); rowStop[k] = stop;
   row.querySelectorAll('.play').forEach(x => x.addEventListener('click', () => go(stop)));
   cb.addEventListener('change', () => saveState(placeState, KEYS.places, String(k), { heard: cb.checked }, extra, paint));
   controls.push(cb, note);
 });
 stops.sort((a, b) => a.t - b.t);
 { const t = el('span', 'tally'); t.id = 'tally'; $('places-title').appendChild(t); tally(); }
+
+// ---- the score, where the piece has one drawn (flag_piece.py score): the page being played, the bar and a cursor on it,
+// the staves named, a ring at each flagged place and each point; a click plays from that note or marks it
+const SCORE = DATA.score || null;
+let scoreTick = () => {}, scoreMarks = () => {}, whereAt = () => '';
+if (SCORE) (() => {
+  const M = SCORE.moments, B = SCORE.bars, S = SCORE.systems, OFF = SCORE.offset || 0;   // moments: [second, system, x]
+  const box = $('scorebox'), sheet = $('sheet'), img = $('sheet-img'), over = $('sheet-over');
+  $('score-wrap').hidden = false;
+  const barbox = el('div', 'barbox'), names = el('div'), marks = el('div'), cursor = el('div', 'cursor');
+  over.append(barbox, names, marks, cursor);
+  const pc = v => (100 * v).toFixed(3) + '%';
+  function last(arr, t, key) {   // the last entry at or before t, -1 if none
+    let lo = 0, hi = arr.length - 1, k = -1;
+    while (lo <= hi) { const mid = (lo + hi) >> 1; if (key(arr[mid]) <= t + 1e-6) { k = mid; lo = mid + 1; } else hi = mid - 1; }
+    return k;
+  }
+  const barAt = t => B[Math.max(0, last(B, t, b => b.t))];
+  whereAt = (tAudio, staff) => {
+    const t = tAudio - OFF, b = barAt(t);
+    const beat = Math.min(b.beats, 1 + Math.floor(Math.max(0, t - b.t) / Math.max(b.e - b.t, 1e-6) * b.beats + 1e-6));
+    return `bar ${b.n}, beat ${beat}` + (staff ? ` · ${staff}` : '');
+  };
+  function posAt(t) {            // where the playhead is: its system, and x between this moment and the next
+    const i = Math.max(0, last(M, t, m => m[0])), a = M[i], b = M[i + 1], sy = S[a[1]];
+    const x1 = b && b[1] === a[1] ? b[2] : sy.x1, t1 = b ? b[0] : B[B.length - 1].e;
+    const f = t1 > a[0] ? Math.min(Math.max((t - a[0]) / (t1 - a[0]), 0), 1) : 0;
+    return { s: a[1], x: a[2] + (x1 - a[2]) * f };
+  }
+  let page = -1, sys = -1, hovering = false, mode = 'play';
+  function showPage(p) {
+    if (p === page) return;
+    page = p; const pg = SCORE.pages[p];
+    img.src = pg.src; sheet.style.aspectRatio = `${pg.w} / ${pg.h}`;
+    const next = SCORE.pages[p + 1]; if (next) { const pre = new Image(); pre.src = next.src; }
+    names.textContent = '';
+    S.forEach(sy => {            // the staves' names in the margin, where MuseScore has not printed them itself
+      if (sy.p !== p || !sy.names || sy.x0 > .1) return;
+      sy.staves.forEach(([a, b], j) => { const n = el('span', 'staffname', sy.names[j]);
+        n.style.top = pc(a); n.style.height = pc(b - a); n.style.width = `calc(${pc(sy.x0)} - 4px)`; names.appendChild(n); });
+    });
+    scoreMarks();
+  }
+  function follow() {
+    const t = audio.currentTime - OFF, pos = posAt(t), sy = S[pos.s];
+    showPage(sy.p);
+    cursor.style.left = pc(pos.x); cursor.style.top = pc(sy.y - .004); cursor.style.height = pc(sy.h + .008);
+    const b = barAt(t);
+    if (b.s === pos.s) { barbox.hidden = false; barbox.style.left = pc(b.x); barbox.style.width = pc(b.w); barbox.style.top = pc(sy.y); barbox.style.height = pc(sy.h); }
+    else barbox.hidden = true;
+    if (pos.s !== sys) {         // a new system: bring it up, keeping the staves that were in view where the system is taller than the box
+      const H = sheet.clientHeight, top = sy.y * H, before = sys >= 0 ? box.scrollTop - S[sys].y * H : -14;
+      const rel = Math.max(-14, Math.min(before, Math.max(-14, sy.h * H - box.clientHeight + 14)));
+      box.scrollTop = Math.max(0, top + rel); sys = pos.s;
+    }
+    if (!hovering) $('where').textContent = whereAt(audio.currentTime);
+  }
+  let raf = 0;
+  const loop = () => { raf = 0; follow(); if (!audio.paused) raf = requestAnimationFrame(loop); };
+  scoreTick = () => { follow(); if (!audio.paused && !raf) raf = requestAnimationFrame(loop); };
+  function hit(e) {              // the note under the pointer: the nearest system, in it the nearest moment, and the nearest staff
+    const r = sheet.getBoundingClientRect(), fx = (e.clientX - r.left) / r.width, fy = (e.clientY - r.top) / r.height;
+    let best = -1, bd = 1e9;
+    S.forEach((sy, k) => { if (sy.p !== page) return; const d = fy < sy.y ? sy.y - fy : fy > sy.y + sy.h ? fy - sy.y - sy.h : 0; if (d < bd) { bd = d; best = k; } });
+    if (best < 0) return null;
+    let m = null, md = 1e9;
+    for (const x of M) if (x[1] === best) { const d = Math.abs(x[2] - fx); if (d < md) { md = d; m = x; } }
+    if (!m) return null;
+    const sy = S[best]; let staff = '', sd = 1e9;
+    if (sy.names) sy.staves.forEach(([a, b], j) => { const d = Math.abs((a + b) / 2 - fy); if (d < sd) { sd = d; staff = sy.names[j]; } });
+    return { t: m[0] + OFF, staff };
+  }
+  sheet.addEventListener('mousemove', e => { const h = hit(e); hovering = !!h; if (h) $('where').textContent = `${mmss(h.t)} · ${whereAt(h.t, h.staff)}`; });
+  sheet.addEventListener('mouseleave', () => { hovering = false; $('where').textContent = whereAt(audio.currentTime); });
+  sheet.addEventListener('click', e => {
+    const h = hit(e); if (!h) return;
+    if (mode === 'mark' || e.shiftKey) { addPoint(h.t, h.staff); return; }
+    const a = audio, t = Math.max(0, h.t);
+    if (a.readyState >= 1) { a.currentTime = t; play(); } else a.addEventListener('loadedmetadata', () => { a.currentTime = t; if (a === audio) play(); }, { once: true });
+  });
+  scoreMarks = () => {           // on the page shown: a ring at each flagged place and each point, on its staff where that is known
+    marks.textContent = ''; if (page < 0) return;
+    if (part) S.forEach(sy => {     // the instrument being heard alone: its staves tinted
+      if (sy.p !== page || !sy.names) return;
+      sy.names.forEach((n, j) => { if (n !== part && n.split(',')[0] !== part) return;
+        const b = el('div', 'hearing'); b.style.left = pc(sy.x0); b.style.width = pc(sy.x1 - sy.x0);
+        b.style.top = pc(sy.staves[j][0] - .006); b.style.height = pc(sy.staves[j][1] - sy.staves[j][0] + .012); marks.appendChild(b); });
+    });
+    const put = (t, cls, staff, title, onclick) => {
+      const pos = posAt(t - OFF), sy = S[pos.s]; if (sy.p !== page) return;
+      const j = staff && sy.names ? sy.names.indexOf(staff) : -1;
+      const b = el('button', 'mark ' + cls); b.type = 'button'; b.title = title; b.setAttribute('aria-label', title);
+      b.style.left = pc(pos.x); b.style.top = pc(j >= 0 ? (sy.staves[j][0] + sy.staves[j][1]) / 2 : sy.y - .014);
+      b.addEventListener('click', e => { e.stopPropagation(); onclick(); }); marks.appendChild(b);
+    };
+    ROWS.forEach((r, i) => put(r.t, r.kind, r.part, `Place ${i + 1}, ${r.kind}: ${r.part}, ${r.pitch}`, () => go(rowStop[i + 1])));
+    for (const [, p] of mine) put(p.t, 'mine', p.staff, `Your point, ${mmss(p.t)}${p.staff ? ', ' + p.staff : ''}`, () => playFrom(p.t, p.take));
+  };
+  const press = (group, attr, value) => group.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset[attr] === value)));
+  $('score-size').addEventListener('click', e => { const v = e.target.dataset && e.target.dataset.size; if (!v) return;
+    press($('score-size'), 'size', v); box.hidden = v === 'off'; box.classList.toggle('tall', v === 'tall'); sys = -1; if (v !== 'off') follow(); });
+  $('score-mode').addEventListener('click', e => { const v = e.target.dataset && e.target.dataset.mode; if (!v) return;
+    mode = v; press($('score-mode'), 'mode', v); sheet.classList.toggle('marking', v === 'mark'); });
+  follow();
+})();
 
 // ---- your own points: rows kept by id and updated in place, so a note being typed keeps its focus
 const mineRows = new Map();
@@ -377,19 +514,21 @@ function makeMineRow(id) {
   const n = el('span', 'n play'), t = el('span', 't play'), kind = el('span', 'kind mine play');
   const del = el('button', 'oddbtn', 'remove'); del.type = 'button';
   const note = noteField('mine-' + id, 'What sounds off here?', v => { const q = mine.get(id); if (!q || q.note === v) return; q.note = v;
-    write(`${KEYS.points}/${id}`, { t: q.t, take: q.take, note: v.slice(0, 2000), at: new Date().toISOString() }); });
+    write(`${KEYS.points}/${id}`, { t: q.t, take: q.take, note: v.slice(0, 2000), staff: q.staff || '', where: q.where || '', at: new Date().toISOString() }); });
   note.disabled = false;
-  [el('span'), n, t, kind, el('span', 'fill'), del].forEach(x => row.appendChild(x)); row.appendChild(note);
+  const fill = el('span', 'fill bar');
+  [el('span'), n, t, kind, fill, del].forEach(x => row.appendChild(x)); row.appendChild(note);
   row.querySelectorAll('.play').forEach(x => x.addEventListener('click', () => { const p = mine.get(id); if (p) playFrom(p.t, p.take); }));
   del.addEventListener('click', () => {
     if (!db) return; mine.delete(id); renderMine();
     db.doc(`${KEYS.points}/${id}`).delete().catch(() => { statusEl.textContent = 'That point could not be removed. Try again.'; });
   });
-  const r = { row, tick: tk, n, t, kind, note, del }; mineRows.set(id, r); return r;
+  const r = { row, tick: tk, n, t, kind, note, del, fill }; mineRows.set(id, r); return r;
 }
 function renderMine() {
   for (const [id, r] of mineRows) if (!mine.has(id)) { r.row.remove(); r.tick.remove(); mineRows.delete(id); }
   const pts = [...mine.entries()].sort((a, b) => a[1].t - b[1].t || (a[0] < b[0] ? -1 : 1));
+  scoreMarks();
   if (!pts.length) { if (emptyMine.parentNode !== mineEl) { mineEl.textContent = ''; mineEl.appendChild(emptyMine); } return; }
   if (emptyMine.parentNode === mineEl) emptyMine.remove();
   pts.forEach(([id, p], j) => {
@@ -397,6 +536,7 @@ function renderMine() {
     r.n.textContent = 'M' + (j + 1); r.t.textContent = mmss(p.t); r.kind.textContent = TAKES.length > 1 ? 'yours, ' + takeLabel(p.take).toLowerCase() : 'yours';
     r.tick.style.left = pct(p.t); r.tick.title = `Your point M${j + 1}, ${mmss(p.t)}`; r.tick.setAttribute('aria-label', r.tick.title);
     r.del.setAttribute('aria-label', `Remove your point at ${mmss(p.t)}`);
+    r.fill.textContent = p.where || whereAt(p.t, p.staff);
     if (document.activeElement !== r.note && r.note.value !== (p.note || '')) r.note.value = p.note || '';
   });
   const order = pts.map(([id]) => mineRows.get(id).row);
@@ -404,19 +544,23 @@ function renderMine() {
   if (!same) order.forEach(row => mineEl.appendChild(row));
 }
 renderMine();
-function addPoint() {
-  if (!db) return;
-  const t = Math.round(audio.currentTime * 10) / 10;
+function addPoint(at, staff) {   // at the playhead, or at a note clicked in the score (then with its staff)
+  if (!db) { statusEl.textContent = 'Points are saved only when this page is opened in Claude.'; return; }
+  const clicked = typeof at === 'number';
+  const t = clicked ? Math.round(at * 100) / 100 : Math.round(audio.currentTime * 10) / 10;
+  staff = clicked && staff ? String(staff) : '';
+  const where = whereAt(t, staff);
   const ref = db.collection(KEYS.points).doc();
-  mine.set(ref.id, { t, take, note: '' }); renderMine();
-  write(ref.path, { t, take, note: '', at: new Date().toISOString() });
+  mine.set(ref.id, { t, take, note: '', staff, where }); renderMine();
+  write(ref.path, { t, take, note: '', staff, where, at: new Date().toISOString() });
   const f = $('mine-' + ref.id); if (f) f.focus();
 }
-addBtn.addEventListener('click', addPoint);
+addBtn.addEventListener('click', () => addPoint());
 document.addEventListener('keydown', e => {
   if (e.metaKey || e.ctrlKey || e.altKey) return;
   if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT')) return;
   if (e.key === 'm' || e.key === 'M') { e.preventDefault(); addPoint(); }
+  if (e.key === ' ' && !(e.target && e.target.tagName === 'BUTTON')) { e.preventDefault(); if (audio.paused) play(); else audio.pause(); }
   if ((e.key === 't' || e.key === 'T') && TAKES.length > 1) {
     e.preventDefault(); const i = TAKES.findIndex(k => k.id === take); setTake(TAKES[(i + 1) % TAKES.length].id);
   }
@@ -425,16 +569,19 @@ document.addEventListener('keydown', e => {
 // ---- transport
 playBtn.addEventListener('click', () => { if (audio.paused) play(); else audio.pause(); });
 function hook(a) {
-  a.addEventListener('play', () => { if (a === audio) playBtn.textContent = 'Pause'; });
+  a.addEventListener('play', () => { if (a === audio) { playBtn.textContent = 'Pause'; scoreTick(); } });
   a.addEventListener('pause', () => { if (a === audio) playBtn.textContent = 'Play'; });
   a.addEventListener('loadedmetadata', () => { if (AUD[TAKES[0].id] && a === AUD[TAKES[0].id][''] && isFinite(a.duration) && Math.abs(a.duration - DUR) > .05) { DUR = a.duration; layout(); renderMine(); } });
   a.addEventListener('timeupdate', () => {
     if (a !== audio) return;
     head.style.left = pct(a.currentTime);
     $('clock').textContent = `${mmss(a.currentTime)} / ${mmss(DUR)}`;
+    scoreTick();
   });
+  a.addEventListener('seeked', () => { if (a === audio) scoreTick(); });
 }
 $('clock').textContent = `0:00.0 / ${mmss(DUR)}`;
+if (!stops.length) { $('prev').hidden = true; $('next').hidden = true; }
 $('next').addEventListener('click', () => {
   if (current >= 0) { go(stops[Math.min(current + 1, stops.length - 1)]); return; }
   const s = stops.find(s => s.t > audio.currentTime); go(s || stops[0]);
@@ -465,7 +612,8 @@ $('prev').addEventListener('click', () => go(stops[Math.max(0, (current >= 0 ? c
   db.collection(KEYS.points).onSnapshot(snap => {
     const seen = new Set();
     snap.docs.forEach(d => { const v = d.data() || {}; seen.add(d.id); const old = mine.get(d.id);
-      mine.set(d.id, { t: Number(v.t) || 0, take: AUD[String(v.take)] ? String(v.take) : TAKES[0].id, note: typeof v.note === 'string' ? v.note : (old ? old.note : '') }); });
+      mine.set(d.id, { t: Number(v.t) || 0, take: AUD[String(v.take)] ? String(v.take) : TAKES[0].id, note: typeof v.note === 'string' ? v.note : (old ? old.note : ''),
+                       staff: typeof v.staff === 'string' ? v.staff : '', where: typeof v.where === 'string' ? v.where : '' }); });
     [...mine.keys()].forEach(k => { if (!seen.has(k) && !snap.metadata.hasPendingWrites) mine.delete(k); });
     renderMine();
     if (!snap.metadata.fromCache && first) { first = false; settle(); }

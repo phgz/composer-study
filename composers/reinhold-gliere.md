@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows each time he is used.
 
-**Scope so far.** Two kinds of piece: the epic programme symphony (the Third, *Ilya Muromets*, 1911) and the late concertos for instruments and a voice without words (harp, 1938; coloratura soprano, 1943), with a line on the ballet. **Scores:** none in score-reader's catalogue (the sheet marks him "partly" readable; the catalogue of version 25 holds nothing of his), and his works are in copyright in some countries, so nothing below was checked against notes. It rests on programme notes, a recording's booklet and encyclopaedias. Added on 24 November 2026, for piece 68b: how the coloratura concerto writes the voice, from a review and an article. Added on 25 November 2026, for piece 74: the same concerto again, from two articles not read before (techniques 18 to 20).
+**Scope so far.** Two kinds of piece: the epic programme symphony (the Third, *Ilya Muromets*, 1911) and the late concertos for instruments and a voice without words (harp, 1938; coloratura soprano, 1943), with a line on the ballet. **Scores:** none in score-reader's catalogue (the sheet marks him "partly" readable; the catalogue of version 25 holds nothing of his), and his works are in copyright in some countries, so nothing below was checked against notes. It rests on programme notes, a recording's booklet and encyclopaedias. Added on 24 November 2026, for piece 68b: how the coloratura concerto writes the voice, from a review and an article. Added on 25 November 2026, for piece 74: the same concerto again, from two articles not read before (techniques 18 to 20). Added on 27 November 2026, for piece 78: the cello concerto and the horn concerto, from reviews (techniques 21 to 26).
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -119,6 +119,40 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
     *How:* keep the orchestra's harmony and doubling of the nineteenth century around the voice: sustained strings, woodwind answers, harp, no modern clash.
     *Where:* Concerto for coloratura soprano, op. 82. [Buja 2018]
 
+### The cello concerto (op. 87, 1946) and the horn concerto (op. 91)
+
+*Added on 27 November 2026, when he was drawn again for composer-blend's piece 78, before it was composed, from three reviews of recordings and a catalogue entry. No analysis of either concerto was found; these are listeners' accounts.*
+
+The Cello Concerto in D minor was written for Mstislav Rostropovich and is dedicated to him [Fifield; Klassika]. It has three movements: *Allegro*, *Andante*, *Allegro vivace* [Mota-Bull].
+
+21. **The soloist states the main tune, after a restless start in the strings.** The first movement opens with the strings, in what one reviewer hears as an almost messy beginning; then the solo cello brings the principal theme, a melody that develops lyrically. An oboe adds a second theme; both grow, until a new melody in the orchestra arrives unprepared.
+    *Works on:* form, melody, texture.
+    *How:* open with a few unsettled bars in the strings; let the soloist, not the orchestra, give the main tune first and spin it out; bring the second tune on an oboe.
+    *Where:* Cello Concerto, first movement. [Mota-Bull]
+22. **Long passages for the cello alone, trilling freely.**
+    *Works on:* texture, melody, colour.
+    *Why:* to one reviewer these solo passages, with their trills, recall the *Song of the Birds* as Casals played it. [Barnett] *(a listener)*
+    *How:* stop the orchestra and let the soloist go on alone for a long stretch, in free time, with trills.
+    *Where:* Cello Concerto, first movement. [Barnett]
+23. **A slow movement like a night song from the Russian East.** The *Andante* is melancholy, almost a nocturne; under it runs a melody that alludes to the Polovtsian Dances of Borodin's *Prince Igor*. Another reviewer calls it a caprice-song in Borodin's manner; a third hears his Russian forebears in it, Rimsky-Korsakov's *Sheherazade* above all.
+    *Works on:* melody, colour, form.
+    *Why:* the allusion is what gives the concerto its Russian character. [Mota-Bull] *(a listener)*
+    *How:* for the slow movement, a long sad song for the soloist over a quiet orchestra, its turns of melody in the manner of Borodin's and Rimsky-Korsakov's eastern music.
+    *Where:* Cello Concerto, second movement. [Mota-Bull; Barnett; Fifield]
+24. **A finale like a dancer's solo, half as long.** The last movement is the liveliest, with a strong forward pulse; one reviewer hears a virtuoso dancer in it and ties it to his knowledge of ballet, a last touch of elegance, where some critics have heard scorn. The first two movements each last over sixteen minutes, the finale about half that.
+    *Works on:* form, rhythm.
+    *How:* after two long movements, end with a short quick one, light on its feet, the soloist as the dancer.
+    *Where:* Cello Concerto, third movement. [Mota-Bull; Barnett]
+25. **Lyrical first, a little dissonance in places.** The writing for the cello is essentially lyrical, with an element of dissonance here and there; its language is as easy to follow as that of the horn and coloratura concertos, and makes no attempt to move with its time.
+    *Works on:* melody, harmony.
+    *How:* keep the solo line singing and the harmony of the nineteenth century; let a dissonance through now and then, without changing the manner.
+    *Where:* Cello Concerto, as a whole. [Fifield]
+26. **The horn as a singer.** In the Horn Concerto the orchestra plays first and the horn enters with a bright, singing theme; the slow movement is a nostalgic solo like an aria, in long joined phrases; the finale is lively, with echoes of Russian folk music. It was written for Valery Polekh, solo horn of the Bolshoi.
+    *Works on:* melody, colour.
+    *Why:* in the slow movement the horn's sound grows like a human voice. [Mota-Bull] *(a listener)*
+    *How:* give a horn the long joined phrases of a singer's aria, the orchestra under it.
+    *Where:* Horn Concerto, op. 91, second movement. [Mota-Bull]
+
 ### The ballet
 
 14. **A touch of the pentatonic for a far country.** In *The Red Poppy*, set in China, five-note touches mark the Chinese characters.
@@ -135,6 +169,8 @@ Begun by Claude on 23 November 2026, for composer-blend's piece 68. It grows eac
 - **Symphony no. 3:** 70 to 80 minutes uncut, often recorded with cuts in the last movement; quadruple woodwind, eight horns, four or five trumpets, four trombones, tuba, two harps, celesta and a large percussion section. [Wikipedia, Symphony 3; Chandos]
 - **Concerto for coloratura soprano:** two movements, about 10 to 14 minutes. [sin80]
 - **Harp concerto:** three movements, about 25 minutes. [Wikipedia, Harp Concerto]
+- **Cello concerto:** three movements; 40:34 and 46:26 on the two recordings reviewed, the first two movements each over sixteen minutes. [Mota-Bull; Fifield; Barnett]
+- **Horn concerto:** three movements (*Allegro*, *Andante*, *Moderato*); 24:28 on the recording reviewed. [Mota-Bull]
 
 ## What he does not do
 
@@ -154,6 +190,8 @@ None: no score of his is in the catalogue (version 25).
 - The voice's range and how high it goes in the coloratura concerto, and where its runs and trills fall: the sources read describe the writing (arabesques, nightingale-like flourishes) but give no notes.
 - The music of the harp concerto beyond its outline; a doctoral essay analysing it (Kamnirdratana, University of Miami, 2012) could not be fetched.
 - The rest of the Chandos booklet after its English notes.
+- The cello concerto's date and number: the catalogue entry gives 1945/46, one review's heading 1946-47, and the other's heading calls it op. 81 (1946), which looks like a slip (op. 82 is the coloratura concerto).
+- Anything of either concerto's notes: keys of the themes, the cello's range, where its solo passages fall. The three reviews are listeners' accounts of recordings, and they do not agree on the finale's character.
 
 ## Sources
 
@@ -168,4 +206,7 @@ None: no score of his is in the catalogue (version 25).
 - Colin Clarke, review of Prom 35 (10 August 2011), Seen and Heard International: https://seenandheard-international.com/?p=7073
 - sin80, on the Concerto for coloratura soprano: https://www.sin80.com/en/work/gliere-concerto-coloratura
 - Maureen Buja, "The Voice as Pure Instrument", Interlude, 9 March 2018 (Buja 2018): https://interlude.hk/voice-pure-instrument/
+- Margarida Mota-Bull, with a second opinion by Rob Barnett, review of the Cello Concerto and the Horn Concerto (recorded June 2006), MusicWeb International, filed under December 2007 (Mota-Bull; Barnett): https://musicweb-international.com/classrev/2007/Dec07/Gliere_DOM292996.htm
+- Christopher Fifield, review of Symphony no. 3 and the Cello Concerto (Alto ALC 2019), MusicWeb International, filed under October 2012 (Fifield): https://www.musicweb-international.com/classrev/2012/Oct12/Gliere_Muromets_ALC2019.htm
+- Klassika, catalogue entry for the Cello Concerto op. 87 (key, years, dedication; in German): https://www.klassika.info/Komponisten/Gliere/Cellokonzert/087/index.html
 - Maureen Buja, "An Old Genre is Given a New Voice: The Art of the Coloratura Soprano", Interlude, 15 April 2023 (Buja 2023): https://interlude.hk/an-old-genre-is-given-a-new-voice-the-art-of-the-coloratura-soprano/

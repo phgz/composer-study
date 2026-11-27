@@ -1,8 +1,8 @@
 # Alexander Borodin (1833-1887)
 
-Begun by Claude on 23 November 2026. It grows each time he is used.
+Begun by Claude on 23 November 2026. It grows each time he is used. Read again on 27 November 2026 for composer-blend's piece 81 (chosen, not drawn): *In the Steppes of Central Asia*, from a second source.
 
-**Scope so far.** One kind of piece: the slow song for a string instrument, as in the Notturno of the String Quartet no. 2. **Scores:** yes. score-reader's catalogue (version 20) holds his two string quartets, eight movements. One was read by measurement for this page: the Notturno (third movement of no. 2). *In the Steppes of Central Asia* is known from a source only.
+**Scope so far.** One kind of piece: the slow song for a string instrument, as in the Notturno of the String Quartet no. 2. **Scores:** yes. score-reader's catalogue (version 20) holds his two string quartets, eight movements. One was read by measurement for this page: the Notturno (third movement of no. 2). *In the Steppes of Central Asia* is known from two sources only, with no bar numbers.
 
 **Measured profile:** [`profiles/alexander-borodin.md`](../profiles/alexander-borodin.md), generated from score-reader's catalogue by `study/profiles.py`.
 
@@ -54,6 +54,28 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
     *How:* give the singing line a grace note before some of its long notes and a trill on one now and then; let the accompaniment change from the off-beat rhythm to tremolo for a whole passage.
     *Where:* Notturno, the first violin's and the cello's parts throughout; the tremolo is on 177 of the viola's notes and 91 of the second violin's, in passages that were not located bar by bar. **[score: Notturno]**
 
+### *In the Steppes of Central Asia*, a second reading (27 November 2026)
+
+11. **Each tune keeps its own colour.** The Russian melody is given to the clarinet, then the horn; the Eastern one to the cor anglais.
+    *Works on:* colour, melody.
+    *How:* give each of two tunes an instrument of its own and keep it there (the first may pass once to a second instrument), so that when the two sound together the ear tells them apart by colour.
+    *Where:* *In the Steppes of Central Asia*. [Buja; Interlude, "Watching the Caravan"]
+12. **The walking figure: the double bass on the beat, viola and cello off it,** plucked, kept up under the tunes.
+    *Works on:* rhythm, texture.
+    *Why:* it conveys the onward motion of the caravan; in his own note, the tramp of horses and camels is heard with the Eastern song. [Buja, who quotes his note] *(a listener; his words)*
+    *How:* pluck the bass note on each beat in the double bass and answer it off the beat in viola and cello, without a break, under whichever tune is sounding.
+    *Where:* *In the Steppes of Central Asia*, the lower strings. [Buja]
+13. **It begins on the violins' high harmonics, before any tune.**
+    *Works on:* colour, form.
+    *Why:* they set the scene, an empty desert, "but not silent". [Buja] *(a listener)*
+    *How:* open with one very high, thin, held sound in the violins and nothing under it; let the first tune enter beneath it.
+    *Where:* *In the Steppes of Central Asia*, the opening. [Buja]
+14. **When the two songs meet, they are in one harmony; then they die away.** His note says the songs of the two peoples gradually blend "in the same harmony", that their refrains are heard for some time, and that they die away in the distance.
+    *Works on:* harmony, form.
+    *Why:* in his note, the caravan goes on its way under the soldiers' protection, and the two songs blend. [Buja, quoting his note] *(his words)*
+    *How:* when the tunes sound together, put both over one set of chords, not each over its own; let them go on together for a while, repeated, and fade without a cadence played out.
+    *Where:* *In the Steppes of Central Asia*, near the end. The source does not say which instrument has which tune there. [Buja]
+
 ## Walks through whole works
 
 **String Quartet no. 2, third movement, Notturno** (180 bars, 3/4, A major, *Andante*). From the score, by bar numbers and by which part has the tune; what the middle does in detail was not followed.
@@ -90,12 +112,14 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 ## Not checked
 
 - The other seven movements of the quartets were not read again for this page.
-- The keys and instruments of *In the Steppes* beyond what the source says; the held high note at its start is remembered, not sourced.
+- The keys of *In the Steppes*, and which instrument has which tune when the two sound together: neither source says. (The high sound at its start, once only remembered, is now sourced: technique 13.)
 - The turns of the "Eastern" melody: no score read.
 
 ## Sources
 
 - score-reader's catalogue, version 20, read from its ready copy: the Notturno.
 - Wikipedia, "In the Steppes of Central Asia": https://en.wikipedia.org/wiki/In_the_Steppes_of_Central_Asia
+- Maureen Buja, "Watching the World Come Together: Borodin's In the Steppes of Central Asia", Interlude, 15 January 2024, a listener's article that quotes his note to the score in translation; read on 27 November 2026 through a fetch tool, which returned its sentences (the page itself was not opened): https://interlude.hk/?p=125764
+- Interlude, "Watching the Caravan: Borodin's In the Steppes of Central Asia": only the search result's excerpt was read (clarinet and horn for the opening theme, the English horn for the other, the pizzicato behind): https://interlude.hk/watching-the-caravan-borodines-in-the-steppes-of-central-asia/
 - Wikipedia, "Alexander Borodin": https://en.wikipedia.org/wiki/Borodin
 - Wikipedia, "String Quartet No. 2 (Borodin)": https://en.wikipedia.org/wiki/String_Quartet_No._2_(Borodin)

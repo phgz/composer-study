@@ -1,6 +1,6 @@
 # Sergei Rachmaninoff (1873-1943)
 
-Begun by Claude on 23 November 2026. It grows each time he is used.
+Begun by Claude on 23 November 2026. It grows each time he is used. Read again on 27 November 2026 for composer-blend's piece 81 (chosen, not drawn): the tune of the Prelude op. 23 no. 4, from the score (techniques 17 and 18).
 
 **Scope so far.** Two things: the bells in his piano preludes (from the scores), and the piano concertos Nos. 2 and 3 (from sources only, added on 25 November 2026 for composer-blend's piece 74b). **Scores:** yes. score-reader's catalogue (version 20) holds 34 files of his, all for piano: the Prelude in C sharp minor op. 3 no. 2, nine of the Preludes op. 23, two of op. 32, and the Variations on a Theme of Corelli op. 42. Three were read by measurement for this page: op. 3 no. 2, op. 23 no. 2 and op. 32 no. 10. How Russian bells are rung is from a source.
 
@@ -85,6 +85,19 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
     *How:* not a technique: what listeners and writers find in them.
     *Where:* [Wikipedia, Piano Concerto No. 2]
 
+### The tune of a slow prelude (op. 23 no. 4, from the score, 27 November 2026)
+
+Counted by `checks/piece81-reading-2026-11-27.py`. The tune is taken as the right hand's highest note in the file's bars 3 to 11, where the right hand has one note at a time but for one moment; two bars of accompaniment come before it. From bar 12 the right hand has more notes and the count is not clean (the fuller count, bars 3 to 17, is in the script).
+
+17. **A long note and a short one, bar after bar, and a turn that climbs into the next.** In 3/4, nine bars each begin with a note of two beats; in seven the third beat is one note, in two (bars 5 and 9) it is a turn: the step above, the note again, the step above, and the next bar begins a step higher still.
+    *Works on:* melody, rhythm.
+    *How:* in 3/4, a half note and a quarter to the bar; now and then, in place of the quarter, an eighth and two sixteenths that rock between the long note and the step above it and carry the line up into the next bar.
+    *Where:* Prelude in D major op. 23 no. 4, the tune's first nine bars. **[score: op. 23 no. 4]**
+18. **By step, inside a seventh, with two falls.** Of the tune's 21 moves in those bars, 19 are steps; the other two are falls, of a fifth and of a fourth, each onto the bar's short note. The whole lies between B3 and A4. Three of its nine long notes are G, two F sharp, two E. (Technique 8, which is a lecturer's account, measured in one prelude.)
+    *Works on:* melody.
+    *How:* keep a tune within a seventh, moving by step; let the only leaps be a fall of a fourth or fifth to a short note, from which the line steps back up.
+    *Where:* as above; and the opening of the Prelude in G major op. 32 no. 5, counted the same way: of 17 moves, 12 steps, 3 repeats of one note, one third and one wider. **[score: op. 23 no. 4; op. 32 no. 5]**
+
 ## Walks through whole works
 
 **Prelude in C sharp minor op. 3 no. 2** (61 bars, 4/4). From the score; the speeds are the edition's.
@@ -119,10 +132,12 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 - `mutopia:RachmaninoffS/O3/rach-prelude-op3-no2` (techniques 1 to 4)
 - `mutopia:RachmaninoffS/O23/rach-prelude23-02` (5, 6)
 - `asap:Rachmaninoff/Preludes_op_32/10/xml_score.musicxml` (7)
+- `asap:Rachmaninoff/Preludes_op_23/4/xml_score.musicxml` (17, 18)
+- `asap:Rachmaninoff/Preludes_op_32/5/xml_score.musicxml` (18)
 
 ## Not checked
 
-- The other thirty-one files. The Corelli variations op. 42 were read for piece 64b (see its page); they are in copyright in the United States, so measure only.
+- The other twenty-nine files (op. 23 no. 4 and op. 32 no. 5 were read for their tunes on 27 November 2026: techniques 17 and 18; the tune of op. 23 no. 4 after its eleventh bar was not followed, nor its return). The Corelli variations op. 42 were read for piece 64b (see its page); they are in copyright in the United States, so measure only.
 - The choral works (the All-Night Vigil, *The Bells*): no score read, and the lecture read does not describe them.
 - **The B flat prelude, op. 23 no. 2, was read from Mutopia's own MIDI file, not the printed score** (score-reader, version 24 on: `midi_copy`; its source does not compile there). A MIDI file may double or simplify what is printed. The numbers of techniques 5 (the peal) and 6 (the rolling bass) come from it. Not compared with the printed score. The other two preludes read are from printed scores.
 - The concertos: no score of them is in the catalogue (in copyright in places); techniques 11 to 16 are the articles' descriptions only, without bars.
@@ -131,6 +146,7 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
 ## Sources
 
 - score-reader's catalogue, version 20, read from its ready copy: the three preludes above.
+- The same ready copy, the preludes op. 23 no. 4 and op. 32 no. 5 (ASAP's scores), measured on 27 November 2026 (`checks/piece81-reading-2026-11-27.py`).
 - Marina Frolova-Walker, lecture on Rachmaninov, Gresham College, 26 November 2020 (transcript): https://www.gresham.ac.uk/sites/default/files/2020-11-26-1800_FrolovaWalker_Rachmaninov_T.pdf
 - Wikipedia, "Russian Orthodox bell ringing": https://en.wikipedia.org/wiki/Russian_Orthodox_bell_ringing
 - Wikipedia, "Prelude in C-sharp minor (Rachmaninoff)": https://en.wikipedia.org/wiki/Prelude_in_C-sharp_minor_(Rachmaninoff)
