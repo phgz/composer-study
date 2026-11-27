@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026, from the sources at the end, read that day. It grows each time he is used.
 
-**Scope so far.** Two kinds of piece: his music for wind band, *October* (2000) and the band version of *Lux Aurumque* (2005); and how the chords of his unaccompanied choral works are made, with *Water Night* (1995) walked through (added on 24 November 2026, for composer-blend's piece 71). **Scores:** none in score-reader's catalogue (he is living; all in copyright), so nothing below was checked against his notes.
+**Scope so far.** Two kinds of piece: his music for wind band, *October* (2000) and the band version of *Lux Aurumque* (2005); and how the chords of his unaccompanied choral works are made, with *Water Night* (1995) walked through (added on 24 November 2026, for composer-blend's piece 71); and a rainstorm for choir, *Cloudburst* (added on 27 November 2026, for piece 78). **Scores:** none in score-reader's catalogue (he is living; all in copyright), so nothing below was checked against his notes.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -117,14 +117,47 @@ Begun by Claude on 23 November 2026, from the sources at the end, read that day.
     *How:* slow, in chords, the tune inside the chords rather than above them, without quick notes.
     *Where:* his choral music; *Sleep*. [Hall, citing Owen and Lynch]
 
+### A rainstorm for choir: *Cloudburst* (1991 to 1995)
+
+*Added on 27 November 2026, when he was drawn again for composer-blend's piece 78, before it was composed, from the article on the piece, his own note and the part of Hall's thesis that reads its opening.*
+
+*Cloudburst* is for a choir in eight parts with piano and percussion (handbells, suspended cymbal, wind chimes, bass drum, thunder sheets); its words are adapted from Octavio Paz's *El cántaro roto* [Wikipedia, Cloudburst; Whitacre, Cloudburst].
+
+23. **A cluster made by each part splitting: one voice holds, the other steps.** *Cloudburst* opens on what looks like a D major chord with its fifth in the bass. In bar 2 each upper part divides: its upper voice holds a note of that chord while its lower voice steps down, and the chord that results is heard as A minor with added notes, so that the opening chord turns out to have been a neighbour of the real one. In bar 5 the bass divides and steps up, and the chord then holds every note of A melodic minor.
+    *Works on:* harmony, texture.
+    *Why:* the chord that holds the whole scale is what fixes A as the keynote. [Hall] *(an analysis)*
+    *How:* begin on a plain chord; divide each part in two, one voice keeping its note and the other moving a step away, until the chord holds the notes of the scale around another chord, which is then heard as home.
+    *Where:* *Cloudburst*, bars 1 to 10. [Hall]
+24. **One chord that comes back at every joint, and ends the piece.** The first chord of the piece that is not a plain triad (bar 2) returns at the start of the second section (bar 28), directly after the instrumental interlude (bar 70) and in three of the last four bars (81, 83 and 84); the thesis finds it in no other work it studied.
+    *Works on:* harmony, form.
+    *Why:* it becomes the piece's signature sound. [Hall] *(an analysis)*
+    *How:* choose one chord with added notes early; bring it back unchanged where each new section begins, and end on it.
+    *Where:* *Cloudburst*, bars 2, 28, 70, 81, 83 and 84. [Hall]
+25. **Held notes with speech at random under them.** In the first section, unaccompanied, he writes long sustained notes while each singer speaks the words at their own time; later a solo speaks, without rhythm, like an incantation, over a background.
+    *Works on:* texture, rhythm.
+    *How:* hold a chord; under it let many performers each say or play a short thing at their own time, not together.
+    *Where:* *Cloudburst*, the first section. [Wikipedia, Cloudburst]
+26. **The storm: bells let loose, a crescendo, one clap of thunder, then rain made of many small sounds.** In the section called "The Cloudburst" the handbells, hidden from the audience, play two written bars and then ring at random while the choir grows louder; a loud clap of thunder starts a free section in which the singers clap, snap their fingers and slap their thighs for the rain, with the thunder sheet, bass drum, cymbal, wind chimes and piano; the storm builds, then fades.
+    *Works on:* texture, loudness, form, colour.
+    *Why:* he had just seen a desert cloudburst; the rain is an old campfire game, everyone snapping their fingers, that he adapted. [Whitacre, Cloudburst] *(his words)*
+    *How:* let the bells leave their written notes and ring freely under a crescendo; mark the storm's start with one loud stroke; make the rain from many small sounds, each performer at their own time; build, then thin out.
+    *Where:* *Cloudburst*, "The Cloudburst". [Wikipedia, Cloudburst; Whitacre, Cloudburst]
+27. **The end mirrors the opening.** After the storm the close goes back to the opening's music: the choir takes the chords one note after another while the piano plays them whole.
+    *Works on:* form, texture.
+    *How:* after the loud place, bring back the opening's chords, spread note by note in one group and struck whole in another.
+    *Where:* *Cloudburst*, the end. [Wikipedia, Cloudburst]
+
 ## Walks through whole works
 
 ***Water Night*** (1995), as the article walks it: B flat minor, the keynote chord held under moving ninths and elevenths (bars 1 to 5), then an octave lower (6 to 15); a sudden *forte*, women and men in call and answer, moving down in key (from 15); the opening echoed (25 and 26); a duet of sopranos and altos in minor seconds and fourths, with no melody (26 and 27); a long crescendo (28 to 52) with the one climax chord on "eyes"; a deflation to bar 41; the piece's most notable melodic line (42); the gap between basses and sopranos filled in (47 and 48); the end falls back to the opening, the B flat minor chord ringing last. [Wikipedia, Water Night]
+
+***Cloudburst***, as the article gives its order: unaccompanied clusters, with held notes and words spoken at random; a baritone solo; a new unaccompanied theme; a spoken solo over a background; "The Cloudburst" (the bells' two written bars, then at random; the crescendo; the clap of thunder; the rain of claps and snaps with percussion and piano, building and fading); the close, which mirrors the opening. [Wikipedia, Cloudburst]
 
 ## Numbers
 
 - ***October*** (2000): 113 bars; an introduction, four themes and a coda; bars of 2/4, 4/4 and 6/4; five places where the full band is loud and one real climax, just before the end (techniques 9 and 12). [Wikipedia, October]
 - **The band *Lux Aurumque*** (2005): *Adagio, molto legato*, a quarter at 56 (technique 10). [Milne]
+- ***Cloudburst*:** 84 bars; eight and a half minutes, cut from about ten; begun in 1991 for a high school choir, published in 1995; a band version in 2001. [Hall; Whitacre, Cloudburst; Wikipedia, Cloudburst]
 
 ## What he does not do
 
@@ -144,17 +177,20 @@ None: no score of his is in score-reader's catalogue.
 ## Not checked
 
 Believed from memory, not found in a source read:
-- that his clusters are made by the voices moving out by step from one note (the sources read describe a tune whose notes are kept, and a gap filled between two voices, not this);
-- anything about *Sleep* and *Cloudburst* beyond their endings, and about *Equus*;
+- that his clusters are made by the voices moving out by step from one note: found on 27 November 2026 for *Cloudburst*'s opening only, where it is from a chord, each part splitting (technique 23);
+- anything about *Sleep* beyond its ending, and about *Equus*;
+- that the snapped-finger rain of *Cloudburst* is his best-known effect (believed; no source read says the piece is famous, so it is not on the list above). Piece 78 does not take it;
 - how *October*'s climax is scored.
 
-Not read: the second half of Milne's thesis and of Hall's; Larson's article whole (only an excerpt); Shrock's writings, which Milne cites. The Wikipedia article on *Water Night* gives bars without a score to check them against; its crescendo (28 to 52) and its deflation (to 41) overlap as it gives them.
+Not read: the second half of Milne's thesis; the last seventh of Hall's (and its second half was read for *Cloudburst* only); how *Cloudburst*'s storm is written beyond the article's outline; Larson's article whole (only an excerpt); Shrock's writings, which Milne cites. The Wikipedia article on *Water Night* gives bars without a score to check them against; its crescendo (28 to 52) and its deflation (to 41) overlap as it gives them.
 
 ## Sources
 
 - Wikipedia, "October (Whitacre)" (the article itself is flagged as needing work; its dates disagree with each other): https://en.wikipedia.org/wiki/October_(Whitacre)
 - Christopher John Milne, master's thesis on band versions of choral works, University of Western Australia, 2017 (the first half read): https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/23660260/THESIS_MASTER_BY_RESEARCH_MILNE_Christopher_John_2017.pdf
 - Andrew Larson, "Textural Density in the Choral Music of Eric Whitacre", *Choral Journal*, an excerpt on ChoralNet: https://choralnet.org/archives/405007
-- Angela Paige Minahan Hall, *Added-Tone Sonorities in the Choral Music of Eric Whitacre*, MA thesis, Washington University in St. Louis, 2012 (the first half read): https://core.ac.uk/download/233206664.pdf
+- Angela Paige Minahan Hall, *Added-Tone Sonorities in the Choral Music of Eric Whitacre*, MA thesis, Washington University in St. Louis, 2012 (the first half read; on 27 November 2026 the text up to about six sevenths, for *Cloudburst* only): https://core.ac.uk/download/233206664.pdf
 - Wikipedia, "Water Night": https://en.wikipedia.org/wiki/Water_Night
+- Wikipedia, "Cloudburst (Whitacre)": https://en.wikipedia.org/wiki/Cloudburst_(Whitacre)
+- Eric Whitacre, his note on *Cloudburst* (Whitacre, Cloudburst): https://ericwhitacre.com/music-catalog/cloudburst
 - BBC Music Magazine, "Eric Whitacre: Nevada's most famous composer, who has broken records with his virtual choirs": https://www.classical-music.com/features/composers/eric-whitacre-2

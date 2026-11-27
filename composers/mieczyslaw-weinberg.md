@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026. It grows each time he is used.
 
-**Scope so far.** Three things: the child's song that darkens (the Children's Songs op. 13), the solo line over a bare accompaniment (the Clarinet Sonata op. 28), and the devices of his string quartets, from the Sixth (1946) on (added on 24 November 2026, for composer-blend's piece 72). **Scores:** none read. His music is under copyright; this page is from eight sources, and what they say is said here in other words.
+**Scope so far.** Three things: the child's song that darkens (the Children's Songs op. 13), the solo line over a bare accompaniment (the Clarinet Sonata op. 28), and the devices of his string quartets, from the Sixth (1946) on (added on 24 November 2026, for composer-blend's piece 72). Added on 27 November 2026, for piece 78: the Cello Concerto op. 43 (techniques 22 to 26). **Scores:** none read. His music is under copyright; this page is from ten sources, and what they say is said here in other words.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -109,13 +109,42 @@ He wrote seventeen string quartets. The Sixth (1946), over half an hour long, is
     *How:* not a technique: what his music is about, as the source puts it.
     *Where:* his works in general. [Darwin, quoting Nikitina in Grove]
 
+### The Cello Concerto (op. 43, 1948)
+
+*Added on 27 November 2026, when he was drawn again for composer-blend's piece 78, before it was composed, from a recording's booklet and a cellist's remarks.*
+
+The Cello Concerto in C minor is dedicated to Mstislav Rostropovich (the booklet's listing), who first played it on 9 January 1957, nine years after it was written [Fanning].
+
+22. **A concerto that begins slowly, turning a thought over.** The first movement is an *Adagio*: tense, ruminating, lyrical. A cellist who recorded it calls the opening pensive, in a work he finds optimistic on the whole, with light and humour in it.
+    *Works on:* form, melody.
+    *How:* begin a concerto with the slow movement: the soloist sings a long, inward line, with no display.
+    *Where:* Cello Concerto, first movement. [Fanning; Moreau]
+23. **The soloist alone near the end of the slow movement.** Near its end the first movement has bars for the cello without the orchestra.
+    *Works on:* texture.
+    *How:* before the slow movement closes, drop the orchestra and leave the soloist a few bars alone.
+    *Where:* Cello Concerto, first movement, near the end. [Fanning]
+24. **The ghost of a habanera, broken into by klezmer.** The second movement is wistful and calls up the ghost of a habanera; it alternates with more vehement passages of klezmer music. To the cellist, the way the instruments are used there sounds almost like a klezmer band.
+    *Works on:* rhythm, melody, form.
+    *Why:* the klezmer passages are a folk element that carries a deeper emotion; the cellist hears in their passion something of the composer's identity. [Fanning; Moreau] *(an analysis; a listener)*
+    *How:* a quiet dance with the swaying rhythm of a habanera, only hinted at; break into it, more than once, with louder passages in the klezmer manner (technique 6), and go back to the ghost.
+    *Where:* Cello Concerto, second movement (*Moderato*, then *Lento*). [Fanning; Moreau]
+25. **The cadenza at full speed, between the quick movement and the finale.** The third movement is a rushing *Allegro*; a substantial cadenza for the cello alone follows it at the same tempo, marked very passionately, and leads on to the finale.
+    *Works on:* form, texture.
+    *How:* put the solo cadenza after the quick movement and keep that movement's tempo in it; let it run into the finale without a stop.
+    *Where:* Cello Concerto, third movement and its cadenza. [Fanning]
+26. **The first theme comes back at the very end, and the close is quiet.** The finale is a vigorous rondo; in its last phase the concerto's opening theme returns, and the work ends slowly, haunting and thoughtful.
+    *Works on:* form, melody.
+    *How:* after a quick, strong finale, slow down, bring back the theme the whole work began with, and end softly on it (as technique 1 does within a song cycle).
+    *Where:* Cello Concerto, fourth movement (*Allegro*, then *Adagio*, then slower). [Fanning]
+
 ## Walks through whole works
 
-None yet.
+**Cello Concerto op. 43** (from the booklet, which gives the order and the tempo marks, not bars). I, *Adagio*: tense and ruminating, the cello alone near the end. II, *Moderato*, then *Lento*: the ghost of a habanera, with vehement klezmer passages between. III, *Allegro*: rushing; then the cadenza at the same tempo, very passionately, with slower and quicker stretches after it. IV, *Allegro*: a vigorous rondo; then *Adagio* and slower still, the opening theme of the whole work returning, and a quiet end. [Fanning]
 
 ## Numbers
 
 - **Clarinet Sonata op. 28**: about twenty minutes, three movements: *Allegro*, *Allegretto*, *Adagio*; each ends on a major chord. [Uniarts]
+- **Cello Concerto op. 43** (1948): four movements; 31:04 and 33:07 on the two recordings (7:19, 5:39, 8:43 and 9:18 on the first). [Fanning; Moreau]
 - **Children's Songs op. 13** (1943, poems by Peretz): a wordless introduction, four light songs, a song of grief, and a coda on the introduction's material, sadder. [MusicWeb; Oxford Song]
 
 ## What he does not do
@@ -139,6 +168,8 @@ None: no score of his is in score-reader's catalogue.
 - Everything: no score. The notes of the mode as he uses it are not given by the sources read (Claude believes it is a major scale with a lowered seventh; not sourced).
 - Two of the sources were read as abstracts only (the Gnesin and mus.academy articles).
 - That the reading of the sonata's second movement as a childhood memory is its author's own.
+- Which instruments carry the cello concerto's habanera and its klezmer passages: the booklet does not say (Claude believes a trumpet leads the klezmer; not sourced).
+- How the cello concerto came to be: the booklet says it was written in 1948 and waited nine years to be played; the note with the 2023 recording says it was reshaped in 1957 from a shorter work, each movement enlarged. The two were not reconciled.
 
 ## Sources
 
@@ -148,5 +179,7 @@ None: no score of his is in score-reader's catalogue.
 - Wikipedia, "Mieczysław Weinberg" (the first part read): https://en.wikipedia.org/wiki/Mieczys%C5%82aw_Weinberg
 - MusicWeb International, review of the complete songs, volume 1 (Toccata), October 2008: https://musicweb-international.com/classRev/2008/Oct08/Weinberg_TOCC0078.htm
 - Oxford Song, "Schluss" (Children's Songs op. 13): https://oxfordsong.org/song/schluss
+- David Fanning, booklet note for the Cello Concerto and Symphony no. 20 (Chandos, 2012; the English note read) (Fanning): https://eclassical.textalk.se/shop/17115/art10/4856010-db425b-095115510728.pdf
+- Apple Music Classical, note on the recording by Edgar Moreau (2023), with the cellist's remarks (Moreau): https://classical.music.apple.com/us/album/1703833670
 - Gnesin Academy, on the Jewish Songs and the themes of war and childhood (abstract): https://uz.gnesin-academy.ru/m-weinbergs-jewish-songs-as-a-reflection-of-military-and-childrens-themes-in-the-composers-work/
 - mus.academy, "'Yiddish Songs' of Mieczysław Weinberg: Finding a Jewish Idiom" (abstract): https://mus.academy/en/articles/evreyskie-pesni-mechislava-vaynberga-poisk-natsionalnoy-idiomy
