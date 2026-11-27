@@ -34,15 +34,28 @@ Begun by Claude on 27 November 2026, for composer-blend's piece 80. It grows eac
    *How:* let the bass state the air's motion alone for a few bars before the singer enters.
    *Where:* *Judith*, bars 34 to 43. **[score: Judith]**
 
+6. **The bass walks by step.** Of the continuo's moves from one note to another, 54% are steps in *Judith*, 60% in *Jacob et Rachel* and 64% in *Susanne* (a step: a half or a whole tone). Composer-blend's piece 58 measured the same 54% for *Judith* on 21 November 2026.
+   *Works on:* melody, harmony.
+   *How:* write the continuo mostly in steps, a little over half its moves, with leaps at the cadences.
+   *Where:* the three cantatas. **[score: Judith, Jacob et Rachel, Susanne]**
+7. **The violin answers the voice and seldom plays with it.** In *Judith* the violin sounds with the voice for 17% of the time it plays.
+   *Works on:* texture.
+   *How:* give the violin the voice's rests: let it answer a sung phrase, and leave it silent, or nearly, while she sings.
+   *Where:* *Judith*, the whole cantata. **[score: Judith]**
+8. **The sleeping scene: violin and bass alone, in even notes, a third or a sixth apart.** In the *Lentement* of *Judith* (bars 179 to 215) the voice is silent; the violin moves mostly in quarters (83 of its 104 notes), and where it and the bass strike together they are a third or a sixth apart (or those an octave wider) 72% of the time.
+   *Works on:* texture, harmony, rhythm.
+   *How:* for a scene of sleep, leave out the voice; let the violin and the bass move together in even notes, mostly in thirds and sixths.
+   *Where:* *Judith*, bars 179 to 215. **[score: Judith]**
+
 ### The double (the harpsichord suites, from a source)
 
-6. **A dance, then its double: each section repeated, varied.** In her first harpsichord suites, *La Flamande et son double* in D minor "is actually an allemande with a varied repeat of each section" [Historical Anthology of Music by Women]. Her 1707 pieces for harpsichord that "may be played on the violin" are dances in the French manner, published beside sonatas in the Italian [Britannica].
+9. **A dance, then its double: each section repeated, varied.** In her first harpsichord suites, *La Flamande et son double* in D minor "is actually an allemande with a varied repeat of each section" [Historical Anthology of Music by Women]. Her 1707 pieces for harpsichord that "may be played on the violin" are dances in the French manner, published beside sonatas in the Italian [Britannica].
    *Works on:* form, melody.
    *How:* play a dance's section, then the same section again with its notes varied, section by section.
    *Where:* *La Flamande et son double* (the *Pièces de clavecin*). Not read here: no score of it in the catalogue. [Historical Anthology of Music by Women]
-7. **Known for improvising; the Italian style brought to France.** She was "celebrated for her improvisations" at the harpsichord, and "instrumental in introducing the new Italian style to France" [Historical Anthology of Music by Women].
+10. **Known for improvising; the Italian style brought to France.** She was "celebrated for her improvisations" at the harpsichord, and "instrumental in introducing the new Italian style to France" [Historical Anthology of Music by Women].
    *Works on:* background.
-   *How:* not a technique: it says that the varied repeat (6) was the art of a player who varied at the keyboard, and that her French dances stand beside Italian forms.
+   *How:* not a technique: it says that the varied repeat (9) was the art of a player who varied at the keyboard, and that her French dances stand beside Italian forms.
    *Where:* her life and work. [Historical Anthology of Music by Women]
 
 ## Walks through whole works
@@ -66,9 +79,9 @@ None yet: no source read calls any of her works famous.
 
 ## Samples in score-reader's catalogue
 
-- `cpdl:Elisabeth_Jacquet_de_La_Guerre/224_JdlG-Susanne-V1.mxl` (techniques 1, 2, 3)
-- `cpdl:Elisabeth_Jacquet_de_La_Guerre/223_JdlG-Judith-V1.mxl` (1, 4, 5)
-- `cpdl:Elisabeth_Jacquet_de_La_Guerre/222_JdlG-Jacob-Rachel-V1.mxl` (1, 3)
+- `cpdl:Elisabeth_Jacquet_de_La_Guerre/224_JdlG-Susanne-V1.mxl` (techniques 1, 2, 3, 6)
+- `cpdl:Elisabeth_Jacquet_de_La_Guerre/223_JdlG-Judith-V1.mxl` (1, 4, 5, 6, 7, 8)
+- `cpdl:Elisabeth_Jacquet_de_La_Guerre/222_JdlG-Jacob-Rachel-V1.mxl` (1, 3, 6)
 
 ## Not checked
 
@@ -85,3 +98,4 @@ None yet: no source read calls any of her works famous.
 - Britannica, "Élisabeth Jacquet de La Guerre" (britannica.com): the search excerpt only.
 - Encyclopædia Universalis, "Jacquet de La Guerre Élisabeth (1667-1729)" (universalis.fr): the search excerpt only.
 - Wikipedia, "Élisabeth Jacquet de La Guerre": the list of the cantata books.
+- composer-blend, `pieces/58_three_against_the_weather/README.md`: its reading of the three cantatas (21 November 2026), measured again here.
