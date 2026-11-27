@@ -22,6 +22,28 @@
 - The corpus is classical music before 1950. A tune in another manner (72's blue notes, Gershwin's) is less expected there for that reason alone, which counts it less generic: that may be right for his ear or not.
 - The flat-stretch test of the same day (`checks/flat-stretches-2026-11-27.md`) and piece 44's measure M0 (the README, `study/rated.py`) found that a model's surprise did not follow his verdicts. This is the same kind of measure, on another question.
 
-## Result
+## Result (27 November 2026)
 
-Not run yet.
+```
+python3 checks/generic-tunes-2026-11-27/tunes.py ../composer-blend ear-v24.npz
+```
+
+| piece | group | notes | bits a note | of which pitch | rhythm | moves of 2 semitones or less |
+|---|---|---|---|---|---|---|
+| 36 | G | 27 | 5.59 | 4.06 | 1.54 | 50% |
+| 68 | G | 27 | 5.06 | 2.95 | 2.12 | 73% |
+| 69 | G | 46 | 4.41 | 2.72 | 1.69 | 53% |
+| 64b | L | 30 | 5.31 | 3.92 | 1.39 | 55% |
+| 67 | L | 29 | 5.00 | 2.42 | 2.57 | 82% |
+| 68b | L | 38 | 3.70 | 2.16 | 1.54 | 89% |
+| 72 | L | 55 | 5.01 | 3.34 | 1.66 | 57% |
+| 74b | L | 47 | 4.32 | 2.94 | 1.38 | 67% |
+| 66 | shown | 22 | 4.28 | 2.49 | 1.79 | 71% |
+
+of the 15 pairs (one plain, forgettable or generic, one liked): the bits a note order 4 as predicted; the baseline, more moves of two semitones or less, 3
+
+**The measure fails: 4 of the 15 pairs**, fewer than chance gives on average (7.5). The baseline fails too (3). Neither is used.
+
+**What it shows, not adopted.** The order is nearly the reverse of the prediction: the tunes he liked are, if anything, the more expected ones to the catalogue's ear. 68b's tune, the most expected of the eight (3.70 bits) and the most by step (89% of its moves), belongs to the piece he liked after 68, whose tunes were "Forgettable" (5.06). 36's, the least expected (5.59), is in the piece he called "flat/generic". So what he calls generic or forgettable is not a tune made of the corpus's commonest moves. What it is, this test does not say: the harmony under it, the scoring, how it returns, whether it has one turn to remember it by. A guess drawn from a failed test would be a guess fitted to it, so none is written as a rule.
+
+**With the flat-stretch test of the same day and piece 44's M0:** three tests of a model's surprise against his verdicts, each written before it was run, none passed. What the models' surprise has been good for is local: the flags heard along a piece (74b's four odd places were all among them; 74c, recomposed where AMT was most surprised, was preferred). Measuring a whole piece or a whole tune by it has not followed his ear.
