@@ -23,6 +23,25 @@ If the measure gets both, it goes on to the real test. If not, it is not used. T
 
 **What it cannot see.** A line can be heard and still be wrong (74b's voice was also late and slid); a line can be covered on purpose; a masking model this simple is a rough ear (no level dependence, no temporal masking, the room taken as the stems give it).
 
-## Result
+## Result (27 November 2026, run on the stems of 74b's takes 2 to 5 on Philip's SSD, `rendered_pieces/74b/`)
 
-Not run yet.
+```
+python3 study/covered.py take-N/tune_and_hymn.render.json --map "/Volumes/Music Libraries/rendered_pieces=<the SSD here>" \
+    --window "the fall:247.0:252.0:voice"            (and for take 5: --window "the three A5s:240.6:247.4:voice")
+```
+
+| | the fall, 247 to 252 s: audible share (median) | broadband, voice over the rest (median) | covered stretches | baseline (6 dB under) |
+|---|---|---|---|---|
+| take 2 | 93% | −6.6 dB | none | 4:08.0–4:08.7; 4:10.3–4:12.0 |
+| take 3 | 94% | −6.6 dB | none | 4:08.0–4:08.7; 4:10.3–4:12.0 |
+| take 4 | 93% | −7.4 dB | none | 4:07.1–4:08.6; 4:10.0–4:12.0 |
+| take 5 | 99% | −4.0 dB | none | none |
+| take 5, the three A5s, 240.6 to 247.4 s | 98% | −8.2 dB | none | 4:00.6–4:05.2 |
+
+**The measure fails the first test:** it finds no covered stretch where he heard the problem (takes 2, 3 and 4). It gets the second right (take 5's A5s are not covered). It is not used, and the real test (3) is not run.
+
+**The baseline gets the first and fails the second:** 6 dB under the band at the fall in takes 2 to 4 and not in take 5, but also under for four and a half seconds at take 5's A5s, which he did not complain of. Neither passes both.
+
+**What the measure says instead, not adopted.** By its reckoning the voice stayed heard through its fall in takes 2 to 4 (93 to 94% of its energy over the threshold), though 6 to 7 dB under the band overall: high enough in pitch, away from where the band's energy was. His own words on take 4 put the problem in "how it drops from high to low", and the README's stems show it late and sliding. So the one place his words name may not have been a covered line at all. That reading came after the result, so the rule stands.
+
+**It is not blind.** On take 5's last hymn (220 to 245 s) it finds the guitar, the cellos and the piano's accompaniment covered in places (eight, four and nine stretches), fewer than the baseline does. There is simply no covered line in his words to test it against.
