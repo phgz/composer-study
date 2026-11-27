@@ -1,6 +1,6 @@
 # Piotr Ilyich Tchaikovsky (1840-1893)
 
-Begun by Claude on 22 November 2026, from the sources at the end, read that day. It grows each time he is used.
+Begun by Claude on 22 November 2026, from the sources at the end, read that day. It grows each time he is used. Read again on 27 November 2026 for composer-blend's piece 81 (chosen, not drawn): the adagio of the pas de deux, from three more sources (technique 10).
 
 **Scope so far.** One kind of piece: the short dances of *The Nutcracker* (1891-92). **Scores:** score-reader's catalogue holds 24 of his works (*The Seasons*, three pieces of the *Children's Album*, the first quartet, the violin concerto, *Dumka*) and no ballet, so nothing below was checked against his notes. The symphonies, the piano music and the other ballets are not covered.
 
@@ -52,6 +52,11 @@ Begun by Claude on 22 November 2026, from the sources at the end, read that day.
    *Why:* the theatre's director did not want dances in the first act, so they were carried over into the second. [Tchaikovsky Research] *(an analysis)*
    *How:* not a technique for one piece: a number can be moved, renamed and set half a tone lower where the plan needs it.
    *Where:* *The Nutcracker*: Chocolate and Tea, and the variation that was a tarantella. [Tchaikovsky Research]
+10. **The scale falls, and the same tune grows to something colossal.** Petipa wanted music "colossal in effect" for the opening *Andante maestoso* of the pas de deux. It is made of falling scales for the cellos, one octave from G to G: a long-breathed melody that builds to an overwhelming climax.
+    *Works on:* melody, loudness, form.
+    *Why:* the ballet-master asked for it: Petipa's words, as the article reports them, were "colossal in effect". [Simple Wikipedia, pas de deux] *(an analysis)*
+    *How:* state the falling scale of one octave softly, in the cellos; say it again, each time with more of the orchestra and louder, until the same notes are the largest thing in the piece.
+    *Where:* *The Nutcracker*, the pas de deux, *Andante maestoso*. [Simple Wikipedia, pas de deux; Mangum; Noble]
 
 ## Walks through whole works
 
@@ -77,7 +82,6 @@ None yet.
 
 Believed from memory, not found in a source read today:
 - that the celesta in the Sugar Plum Fairy's variation is accompanied by plucked strings and answered by a bass clarinet;
-- that the pas de deux's scale goes downward;
 - Petipa's own wording and bar counts for each number (the sources say he gave them; none quotes them).
 
 ## Sources
@@ -87,3 +91,7 @@ Believed from memory, not found in a source read today:
 - Simple English Wikipedia, "Dance of the Sugar Plum Fairy": https://simple.wikipedia.org/wiki/Dance_of_the_Sugar_Plum_Fairy
 - New York City Ballet, "The Magical Musical Moments of The Nutcracker": https://www.nycballet.com/discover/stories/the-magical-musical-moments-of-the-nutcracker
 - gw2ru, "5 FAMOUS melodies by Pyotr Tchaikovsky you should know": https://www.gw2ru.com/arts/1079-tchaikovsky-famous-melodies
+- For technique 10, read on 27 November 2026. Of the first and the third only the search result's excerpt was read, the pages themselves could not be opened that day; what is further in them is not known.
+  - Simple English Wikipedia, "The Nutcracker pas de deux" (Petipa's "colossal in effect"; "descending (falling) scales for cellos"): https://simple.wikipedia.org/wiki/The_Nutcracker_pas_de_deux
+  - John Mangum, programme note, Hollywood Bowl, "Pas de deux from Act II of The Nutcracker" (the cellos' long-breathed melody "building to an overwhelming climax"), read through a fetch tool that returned its sentences: https://www.hollywoodbowl.com/musicdb/pieces/2665/pas-de-deux-from-act-ii-of-the-nutcracker
+  - Guy Noble, "Scaling the heights", Limelight (a scale "over one octave from G to G", the cellos singing): https://limelight-arts.com.au/features/guy-nobles-soapbox-scaling-the-heights

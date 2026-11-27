@@ -1,6 +1,6 @@
 # Gustav Mahler (1860-1911)
 
-Begun by Claude on 24 November 2026, for composer-blend's piece 71. It grows each time he is used.
+Begun by Claude on 24 November 2026, for composer-blend's piece 71. It grows each time he is used. Read again on 27 November 2026 for composer-blend's piece 81 (chosen, not drawn): all ten songs in the catalogue, by measurement (techniques 15 to 17).
 
 **Scope so far.** Two kinds of piece: the songs with orchestra of his middle years, as the *Kindertotenlieder* (five poems of Rückert, composed 1901 to 1904) show them. **Scores:** yes. score-reader's catalogue (version 25) holds the five *Kindertotenlieder* in the DCML analysts' edition, with their chord labels, and songs of the *Wunderhorn* years (*Rheinlegendchen*, the four *Lieder eines fahrenden Gesellen*). The *Kindertotenlieder* were read by measurement from Philip's ready-read copy: the first song whole and its opening note by note, the chord labels of all five. **The reading is the voice and piano score**, so the orchestra's instruments are not in it; what is said of them below comes from the source. Each technique marked **[score]** names the bars.
 
@@ -80,6 +80,23 @@ Added on 27 November 2026, for composer-blend's piece 80: *Gieng heut morgen üb
     *How:* not a technique on its own: the same tune, taken from a song, is the material of a symphony's first movement.
     *Where:* the First Symphony, first movement. Not read here. [Wikipedia; Mahler Foundation]
 
+### The ten songs measured again (27 November 2026)
+
+Counted by `checks/piece81-reading-2026-11-27.py` from the ready-read copy. The measure of leaning here is not technique 4's: a sung note leans when it is not among the notes the piano has sounding as it begins (technique 4 uses the analysts' chord labels, which only the *Kindertotenlieder* have).
+
+15. **The leaning is the late songs' habit.** In the five *Kindertotenlieder*, 29% to 40% of the voice's notes are not among the piano's (32%, 38%, 29%, 40%, 39%); in *Rheinlegendchen*, 18%; in the four *Lieder eines fahrenden Gesellen*, 14%, 9%, 17% and 3%. Most are struck together with the piano (in *Nun will die Sonn'*, 40 of 47), and most then move by a step (35 of 47).
+    *Works on:* melody, harmony.
+    *How:* for the manner of the late songs, let about one sung note in three stand outside what the accompaniment sounds, struck with it, and resolve it by step; in the manner of the early songs, fewer than one in six.
+    *Where:* the ten songs. **[score: the ten songs in the catalogue]**
+16. **The sinking figure belongs to two songs, and its leap is always the same.** Technique 5's figure comes five times in the ten songs: in *Nun will die Sonn'* at bars 13, 34 and 75, each time from A flat; in *Wenn dein Mütterlein* at bars 30 and 61, each time from C sharp. After each, the voice leaps up a minor sixth. It is in none of the other eight songs.
+    *Works on:* melody, form.
+    *How:* keep the figure for a few places in a piece, at one pitch, and follow it each time by the same leap.
+    *Where:* as above. **[score: the ten songs in the catalogue]**
+17. **How the two bare lines sit.** In the sixteen beats before the voice enters in *Nun will die Sonn'* (the upbeat to bar 4, beat 3), two notes sound at 17 of 18 moments. Between them: a third or a sixth 8 times, a fourth, a fifth or an octave 9 times, never a second, a seventh or a tritone. From one moment to the next they move in opposite directions 8 times, one holds while the other moves 5 times, both go the same way 3 times. They are up to two octaves apart, between D3 and D5.
+    *Works on:* texture, harmony.
+    *How:* two single lines far apart, moving mostly against each other and meeting only on thirds, sixths, fourths, fifths and octaves; no chord under them.
+    *Where:* *Nun will die Sonn'*, the opening (technique 2). **[score: Nun will die Sonn']**
+
 ## Walks through whole works
 
 ***Nun will die Sonn' so hell aufgeh'n*** (84 bars, D minor throughout). Two bare lines for eight bars; the voice enters, the accompaniment never much more than three notes at once. The major tonic chord comes and goes eleven times (from bar 11 to bar 77); the song ends in the minor (bar 82). The voice sings about half the time (48%), between D4 and E flat 5.
@@ -115,9 +132,9 @@ None yet: the sources read for this page call nothing in the cycle famous.
 
 - `openscore-lieder:Mahler,_Gustav/Lieder_eines_fahrenden_Gesellen/2_Gieng_heut_morgen_übers_Feld/lc5026309.mxl` (techniques 11, 12, 13)
 
-- `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_01_nun_will_die_sonn.notes.tsv` (techniques 2, 3, 5)
+- `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_01_nun_will_die_sonn.notes.tsv` (techniques 2, 3, 5, 16, 17)
 - `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_02_nun_seh_ich_wohl.notes.tsv` (7)
-- `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_03_wenn_dein_mutterlein.notes.tsv` (5)
+- `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_03_wenn_dein_mutterlein.notes.tsv` (5, 16)
 - `dcml/mahler_kindertotenlieder:notes/kindertotenlieder_05_in_diesem_wetter.notes.tsv` (8)
 
 ## Not checked
@@ -126,6 +143,7 @@ None yet: the sources read for this page call nothing in the cycle famous.
 - The tempo markings of the songs: not in the reading.
 - What the texts say, line by line, and how the flickers of major fall against the words.
 - Composer-blend's piece 58 took *In diesem Wetter* for its storm and its sleep; this page was written later, from new reading.
+- Techniques 15 to 17 are from the voice and piano scores: what the orchestra's instruments do with the leaning notes and the two bare lines was not read. The *Wunderhorn* song and the four *Gesellen* songs are OpenScore's editions, without chord labels; they were counted only for techniques 15 and 16.
 
 ## Sources
 
@@ -136,4 +154,5 @@ None yet: the sources read for this page call nothing in the cycle famous.
 
 - score-reader's catalogue, version 25, read from Philip's ready-read copy: the five *Kindertotenlieder*, with the DCML analysts' chord labels.
 - composer-study's profile of Mahler (catalogue version 25).
+- The same ready-read copy, all ten songs, measured on 27 November 2026 (`checks/piece81-reading-2026-11-27.py`).
 - Wikipedia, "Kindertotenlieder": https://en.wikipedia.org/wiki/Kindertotenlieder
