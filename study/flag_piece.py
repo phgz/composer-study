@@ -63,6 +63,13 @@ NotaGen joins them where the piece declares its notation (composer-blend's tools
   over      python3 study/flag_piece.py over <folder> [--bar 4] [--scale-from <reference folder>]
             the places above a fixed bar, on a reference scoring's scale held fixed: <folder>/OVER-<bar>.md (74c: 74b
             recomposed until nothing is above the bar)
+  flat      python3 study/flag_piece.py flat 36=<folder> 75=<folder> ... --scale-from <reference folder> [--bar 3] [--gap 20]
+                [--called-flat 36,43b,75 --liked 49,64,65,72,74,74b]
+            flat stretches: where nothing unexpected happens for too long (agreed 25 November 2026). An event is a note or an onset
+            at or above the bar on the reference's scale (as `over`), after the first two seconds; a flat stretch, a gap of GAP
+            seconds or more without one. A line a piece: notes a second, events, the longest gap, the share of the piece in flat
+            stretches and where they are; with the two groups, how many of their pairs the share orders as predicted, against
+            fewer notes a second (checks/flat-stretches-2026-11-27.md: the test, written before the scores)
   together  python3 study/flag_piece.py together <folder> [--odd 1,28,34,39]
             each flagged place with everything and with its own part alone: <folder>/TOGETHER.md; with --odd, where the places
             heard as wrong stand among the rest"""
@@ -304,6 +311,56 @@ def over(a):
     lines += ['', f'{len(rows)} places: {n_note} notes, {len(rows) - n_note} onsets.']
     open(os.path.join(a.folder, f'OVER-{a.bar:g}.md'), 'w').write('\n'.join(lines) + '\n')
     print('\n'.join(lines[4:]))
+
+
+def flat_measures(folder, ref, bar, gap):
+    """one piece's flat stretches: every note (pitch) and onset (rhythm) on the reference scoring's scale, the ears averaged,
+    as `over` puts them; an event is one at or above the bar, after the first two seconds; a flat stretch is a gap of at least
+    GAP seconds between two events, or between the start (two seconds in) and the first, or between the last and the last onset.
+    Returns notes a second, the events, the longest gap, the share of the piece (two seconds in to the last onset) in flat
+    stretches, and the stretches themselves"""
+    import numpy as np
+    notes, pb, onset_idx, ob = raw_bits(folder)
+    _, rpb, _, rob = raw_bits(ref)
+    ears = [e for e in pb if e in rpb]
+    z = lambda x, r: (x - r.mean()) / (r.std() or 1)
+    pitch = np.mean([z(pb[e], rpb[e]) for e in ears], axis=0)
+    onset = np.mean([z(ob[e], rob[e]) for e in ears], axis=0)
+    start, last = min(n[0] for n in notes), max(n[0] for n in notes)
+    t0 = start + 2.0
+    times = sorted({notes[i][0] for i in range(len(notes)) if pitch[i] >= bar and notes[i][0] >= t0} |
+                   {notes[i][0] for i, s in zip(onset_idx, onset) if s >= bar and notes[i][0] >= t0})
+    edges = [t0] + times + [last]
+    gaps = [(a, b) for a, b in zip(edges, edges[1:]) if b - a >= gap]
+    span = last - t0
+    return dict(density=len(notes) / (last - start), events=len(times), longest=max(b - a for a, b in zip(edges, edges[1:])),
+                share=sum(b - a for a, b in gaps) / span, stretches=gaps, span=span)
+
+
+def pairs_ordered(m, high, low):
+    """of the pairs (one of HIGH, one of LOW), how many have the HIGH one's measure higher (a tie counts half)"""
+    return sum(1.0 if m[h] > m[l] else .5 if m[h] == m[l] else 0. for h in high for l in low)
+
+
+def flat(a):
+    """flat stretches across pieces, and the test of 27 November 2026 (composer-study checks/flat-stretches-2026-11-27.md):
+    each LABEL=FOLDER a line, then, with --called-flat and --liked, how many of the pairs (one he called flat, one he liked) the
+    measure orders as predicted (the flat one flatter), against the baseline of fewer notes a second"""
+    pieces = dict(x.split('=', 1) for x in a.pieces)
+    m = {k: flat_measures(f, a.scale_from, a.bar, a.gap) for k, f in pieces.items()}
+    print(f'bar {a.bar:g} on the scale of {a.scale_from}; a flat stretch is {a.gap:g} s or more without an event\n')
+    print('| piece | notes a second | events | longest gap | share in flat stretches | the stretches |')
+    print('|---|---|---|---|---|---|')
+    for k, r in m.items():
+        st = '; '.join(f'{mmss(x)}–{mmss(y)}' for x, y in r['stretches']) or '—'
+        print(f"| {k} | {r['density']:.1f} | {r['events']} | {r['longest']:.0f} s | {r['share']:.0%} | {st} |")
+    if a.called_flat and a.liked:
+        F, L = a.called_flat.split(','), a.liked.split(',')
+        n = len(F) * len(L)
+        share = pairs_ordered({k: r['share'] for k, r in m.items()}, F, L)
+        sparse = pairs_ordered({k: -r['density'] for k, r in m.items()}, F, L)
+        print(f'\nof the {n} pairs (one called flat, one liked): the share in flat stretches orders {share:g} as predicted; '
+              f'the baseline, fewer notes a second, {sparse:g}')
 
 
 def own_ranks(notes, idx, scores):
@@ -796,9 +853,13 @@ def main():
     x.add_argument('--changes', help='FROM:TO, two take IDs with --render'); x.add_argument('--flags-on', dest='flags_on')
     x.add_argument('--labels'); x.add_argument('--module'); x.add_argument('--store'); x.add_argument('--top', type=int, default=20)
     x.add_argument('--parts', action='append', default=[], help="ID=a folder `parts` wrote: the take's instruments alone")
+    x = sub.add_parser('flat'); x.add_argument('pieces', nargs='+', help='LABEL=a scored flags folder')
+    x.add_argument('--scale-from', required=True, help='a scored flags folder whose scale is held fixed for every piece')
+    x.add_argument('--bar', type=float, default=3.0); x.add_argument('--gap', type=float, default=20.0)
+    x.add_argument('--called-flat', dest='called_flat'); x.add_argument('--liked')
     x = sub.add_parser('parts'); x.add_argument('render'); x.add_argument('module'); x.add_argument('-o', required=True)
     x.add_argument('--gains', help='a folder `parts` wrote for another take: the same level for each instrument')
-    a = ap.parse_args(); dict(prepare=prepare, over=over, alone=alone, together=together, notagen=notagen, report=report, compare=compare, page=page, parts=parts)[a.cmd](a)
+    a = ap.parse_args(); dict(prepare=prepare, over=over, alone=alone, together=together, notagen=notagen, report=report, compare=compare, page=page, parts=parts, flat=flat)[a.cmd](a)
 
 
 if __name__ == '__main__':

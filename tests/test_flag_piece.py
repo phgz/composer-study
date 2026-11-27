@@ -215,3 +215,18 @@ def test_places_above_a_fixed_bar_on_another_scoring_s_scale(tmp_path):
     assert '0 places' in open(new / 'OVER-4.md').read()
     FP.over(argparse.Namespace(folder=str(new), bar=-9.0, scale_from=str(ref)))
     assert 'D4 50%, C4 30%' in open(new / 'OVER--9.md').read()
+
+
+@needs_amt
+def test_flat_stretches_are_the_gaps_between_events_above_the_bar(tmp_path):
+    import argparse
+    ref, f = tmp_path / 'ref', tmp_path / 'f'
+    for x in (ref, f): x.mkdir(); FP.prepare(argparse.Namespace(source=two_parts(str(tmp_path)), checkout=CO, o=str(x)))
+    whole = [('piece', [n[0] for n in json.load(open(f / 'flag_notes.json'))['notes']])]
+    write(ref, 'flag_amt_large.jsonl', scores(whole, {}))                # the scale: nothing stands out
+    write(f, 'flag_amt_large.jsonl', scores(whole, {('piece', 4.0): 9.0, ('piece', 5.0): 9.0}))
+    r = FP.flat_measures(str(f), str(ref), bar=3.0, gap=3.0)
+    assert r['events'] == 2                                          # 4 s and 5 s; the notes run from 0 to 12 s
+    assert [(round(a, 1), round(b, 1)) for a, b in r['stretches']] == [(5.0, 12.0)]   # 2 s to 4 s is under the gap
+    assert abs(r['share'] - 7 / 10) < 1e-9 and r['longest'] == 7.0
+    assert FP.pairs_ordered({'x': .6, 'y': .2, 'z': .6}, ['x'], ['y', 'z']) == 1.5
