@@ -67,3 +67,15 @@ Philip: "Well why not use the PDFs from the online libraries?" He downloaded Bor
 - The scan is a good one: straight, 300 dots an inch, clean plates. A worse scan is untested.
 
 **Cost.** Heavier than was said beforehand ("about the size of what I already did today"): the page holds four times the notes of the afternoon's system, and three fifths of it took thirteen pictures and the longest stretch of reading of the day.
+
+## And the page as a pure black-and-white bitmap, parsed by code
+
+Philip: "Is first putting the image in pure black and white only and then parse the bitmap more efficiently?"
+
+A first, naive try, `bitmap.py` (about a hundred lines): the scan made black and white, staves and barlines found from long runs of ink, only blobs as fat as a filled notehead kept, each given a staff, a bar and a height on the staff. No open noteheads (half notes), no grace notes, no sharps or naturals, no rhythm. Run on the whole Notturno page against the catalogue's copy, after one fix to the barlines:
+
+- 0.13 s for the page;
+- 333 of the 429 filled noteheads found at the right staff, bar and height (78%): cello 59 of 65, violin I 32 of 36, viola 179 of 200, violin II 63 of 128;
+- 165 heads found that are not in the catalogue (letters of the title and tempo, chords of two notes a third apart split at the wrong heights), 96 missed; one line of the five still has a barline wrong (6 bars found for 7).
+
+So it is cheaper by several orders, and the heights it measures are a measurement, with no expectation in them. What it lacks is everything that is not a height: which blob is a note at all, which notes are one chord, sharps, lengths. Not tested: whether a pure black-and-white picture helps or hurts the eye of the model (its calque kept the greys on purpose, since the grey edge of a notehead is part of what tells a line from a space at small sizes).
