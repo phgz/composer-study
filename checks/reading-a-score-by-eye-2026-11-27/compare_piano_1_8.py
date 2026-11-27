@@ -1,9 +1,11 @@
 """A reading of a drawn score by eye (Claude's, from the picture alone) against the notes the picture was drawn from.
 The reading: {staff: [bar: [(beat, quarters, [pitches])]]}; a note counts when its staff, bar, beat, pitch and length all agree."""
-import sys
-sys.argv = ['x']; sys.path.insert(0, '/home/claude/composer-study')
+import os, sys
+STUDY = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+BLEND = os.environ.get('COMPOSER_BLEND_ROOT') or os.path.join(os.path.dirname(STUDY), 'composer-blend')
+sys.argv = ['x']; sys.path.insert(0, STUDY)
 from study import flag_piece as F
-src = '/home/claude/composer-blend/pieces/80/notes80.py'
+src = os.path.join(BLEND, 'pieces/80/notes80.py')      # as it stood on 27 November 2026 (composer-blend 3e202da)
 X = F.exporter(src); mod = X.load(src); s = X.build(mod)
 READ = {
  0: [  # piano, right hand, bars 1 to 8

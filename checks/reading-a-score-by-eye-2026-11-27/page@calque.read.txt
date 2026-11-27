@@ -1,0 +1,13 @@
+# the calque by code (straightened, light flattened, one line a picture, full size): lines 3 and 4 of the music, bars 13 to 24
+D4 B5 F5 G4
+D5 E4 G5 C5
+E5 A5 C6 F5
+D5 B5 F5 B4
+A3 C4 F4 B5
+A3 B5 C4 C6
+A4 D5 D4 F4
+F4 E5 D5 E5
+C5 A4 D4 F4
+C4 F4 G5 E5
+F4 B3 C6 A4
+G5 F4 A3 E5
