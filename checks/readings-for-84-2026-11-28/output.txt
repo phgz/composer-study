@@ -1,0 +1,56 @@
+Bach, solo dances: notes, in two-strand runs (of which one strand a pedal), even rhythm, the longest run (bar, notes)
+  BWV1002_03_Corrente           474 notes     0 in runs (0%; pedal 0)  even 99%  longest None
+  BWV1004_02_Courante           425 notes     0 in runs (0%; pedal 0)  even 77%  longest None
+  BWV1006_05_Bourée             268 notes     0 in runs (0%; pedal 0)  even 90%  longest None
+  BWV1006_06_Gigue              333 notes     0 in runs (0%; pedal 0)  even 86%  longest None
+  BWV1007_03_Courante           406 notes     0 in runs (0%; pedal 0)  even 88%  longest None
+  BWV1007_07_Gique              210 notes     0 in runs (0%; pedal 0)  even 82%  longest None
+  BWV1008_03_Courante           364 notes    38 in runs (10%; pedal 24)  even 97%  longest ('25', 10, 'pedal')
+  BWV1008_07_Gique              366 notes     0 in runs (0%; pedal 0)  even 83%  longest None
+  BWV1009_03_Courante           492 notes     0 in runs (0%; pedal 0)  even 97%  longest None
+  BWV1009_05_BourréeI           186 notes     0 in runs (0%; pedal 0)  even 77%  longest None
+  BWV1009_06_BourréeII          157 notes     0 in runs (0%; pedal 0)  even 79%  longest None
+  BWV1009_07_Gique              478 notes    92 in runs (19%; pedal 92)  even 84%  longest ('25', 42, 'pedal')
+  BWV1010_03_Courante           451 notes    30 in runs (7%; pedal 30)  even 84%  longest ('31', 6, 'pedal')
+  BWV1010_05_BourreeI           405 notes     0 in runs (0%; pedal 0)  even 64%  longest None
+  BWV1010_06_BourreeII           52 notes     0 in runs (0%; pedal 0)  even 63%  longest None
+  BWV1010_07_Gique              483 notes     0 in runs (0%; pedal 0)  even 98%  longest None
+  BWV1011_03_Courante           211 notes     0 in runs (0%; pedal 0)  even 57%  longest None
+  BWV1011_07_Gique              219 notes     0 in runs (0%; pedal 0)  even 19%  longest None
+  BWV1012_03_Courante           639 notes     0 in runs (0%; pedal 0)  even 82%  longest None
+  BWV1012_07_Gique              580 notes    49 in runs (8%; pedal 49)  even 78%  longest ('64', 7, 'pedal')
+  BWV1013_02_Corrente           669 notes    29 in runs (4%; pedal 29)  even 92%  longest ('50', 8, 'pedal')
+  BWV1013_04_BourreeAnglaise    412 notes     0 in runs (0%; pedal 0)  even 68%  longest None
+  courante: 15 movements, 5611 notes, 1.7% in two-strand runs (1.5% with a pedal strand), even 84%
+  gigue: 7 movements, 2669 notes, 5.3% in two-strand runs (5.3% with a pedal strand), even 80%
+  all: 8280 notes, 2.9% in two-strand runs, 2.7% with a pedal strand
+Corelli, op. 4: the violins at each onset (v1 alone, v2 alone, both), and the beats each violin rests within the movement
+  op04n01b: onsets {'both': 95, 'v1': 55, 'v2': 6}; staff1 rests 11 of 140 beats; staff2 rests 11 of 140 beats; v1 leaps of a 4th or 5th 17%, two-strand runs of 4+ notes in v1: 1 (4 notes)
+  op04n02d: onsets {'v1': 57, 'both': 59, 'v2': 40}; staff1 rests 3 of 171 beats; staff2 rests 16 of 168 beats; v1 leaps of a 4th or 5th 16%, two-strand runs of 4+ notes in v1: 2 (8 notes)
+  op04n03b: onsets {'both': 102, 'v1': 161, 'v2': 3}; staff1 rests 0 of 143 beats; staff2 rests 4 of 143 beats; v1 leaps of a 4th or 5th 27%, two-strand runs of 4+ notes in v1: 1 (25 notes)
+  op04n04b: onsets {'both': 73, 'v1': 30, 'v2': 16}; staff1 rests 0 of 122 beats; staff2 rests 0 of 122 beats; v1 leaps of a 4th or 5th 28%, two-strand runs of 4+ notes in v1: 2 (12 notes)
+  op04n04d: onsets {'both': 116, 'v1': 186, 'v2': 43}; staff1 rests 12 of 186 beats; staff2 rests 26 of 186 beats; v1 leaps of a 4th or 5th 31%, two-strand runs of 4+ notes in v1: 5 (21 notes)
+  op04n05c: onsets {'both': 75, 'v1': 14, 'v2': 9}; staff1 rests 0 of 117 beats; staff2 rests 0 of 117 beats; v1 leaps of a 4th or 5th 6%, two-strand runs of 4+ notes in v1: 0 (0 notes)
+  op04n06g: onsets {'both': 88, 'v1': 127, 'v2': 43}; staff1 rests 4 of 180 beats; staff2 rests 12 of 180 beats; v1 leaps of a 4th or 5th 9%, two-strand runs of 4+ notes in v1: 0 (0 notes)
+  op04n07b: onsets {'v1': 39, 'both': 59, 'v2': 31}; staff1 rests 7 of 137 beats; staff2 rests 12 of 131 beats; v1 leaps of a 4th or 5th 19%, two-strand runs of 4+ notes in v1: 1 (4 notes)
+  op04n07e: onsets {'both': 78, 'v1': 231}; staff1 rests 0 of 162 beats; staff2 rests 65 of 160 beats; v1 leaps of a 4th or 5th 27%, two-strand runs of 4+ notes in v1: 10 (41 notes)
+  op04n09b: onsets {'v1': 71, 'both': 102, 'v2': 39}; staff1 rests 0 of 131 beats; staff2 rests 4 of 125 beats; v1 leaps of a 4th or 5th 25%, two-strand runs of 4+ notes in v1: 1 (4 notes)
+  op04n11b: onsets {'both': 108, 'v1': 120, 'v2': 62}; staff1 rests 26 of 218 beats; staff2 rests 28 of 218 beats; v1 leaps of a 4th or 5th 30%, two-strand runs of 4+ notes in v1: 8 (44 notes)
+  op04n12c: onsets {'both': 58, 'v1': 149, 'v2': 1}; staff1 rests 0 of 114 beats; staff2 rests 45 of 112 beats; v1 leaps of a 4th or 5th 23%, two-strand runs of 4+ notes in v1: 2 (8 notes)
+  op4n5_gavotta: onsets {'both': 33, 'v1': 7, 'v2': 1}; staff1 rests 5 of 48 beats; staff2 rests 5 of 48 beats; v1 leaps of a 4th or 5th 23%, two-strand runs of 4+ notes in v1: 0 (0 notes)
+  all: onsets v1 alone 48%, v2 alone 11%, both 40%; rests: v1 4% of its beats, v2 12%
+BWV 645: chorale in t2 (75 notes, median 1 quarters), the others' median 0.5 quarters; 10 phrases of 8, 13, 12, 8, 6, 6, 4, 4, 5, 9 notes; the chorale sounds 35% of the 220.5 quarters; first entry at quarter 50.5 (bar 13)
+BWV 646: chorale in t3 (43 notes, median 1 quarters), the others' median 0.25 quarters; 6 phrases of 6, 7, 7, 8, 7, 8 notes; the chorale sounds 35% of the 131 quarters; first entry at quarter 23 (bar 6)
+BWV 647: chorale in t3 (50 notes, median 1 quarters), the others' median 0.5 quarters; 6 phrases of 9, 8, 9, 8, 8, 8 notes; the chorale sounds 32% of the 197 quarters; first entry at quarter 19 (bar 5)
+BWV 648: chorale in t1 (20 notes, median 1.5 quarters), the others' median 0.5 quarters; 2 phrases of 9, 11 notes; the chorale sounds 35% of the 103.5 quarters; first entry at quarter 24 (bar 9)
+BWV 649: chorale in t1 (36 notes, median 2 quarters), the others' median 0.25 quarters; 4 phrases of 8, 10, 8, 10 notes; the chorale sounds 31% of the 233 quarters; first entry at quarter 58 (bar 15)
+BWV 650: chorale in t5 (65 notes, median 1 quarters), the others' median 0.25 quarters; 4 phrases of 21, 19, 15, 10 notes; the chorale sounds 30% of the 294 quarters; first entry at quarter 54 (bar 13)
+While the chorale rests, the running parts:
+  BWV 645: the chorale's rests (the opening included) 127.5 quarters; the others sound in 99% of them; over the whole piece the others sound 100% of the time
+  BWV 646: the chorale's rests (the opening included) 69 quarters; the others sound in 100% of them; over the whole piece the others sound 100% of the time
+  BWV 647: the chorale's rests (the opening included) 118 quarters; the others sound in 100% of them; over the whole piece the others sound 100% of the time
+  BWV 648: the chorale's rests (the opening included) 48 quarters; the others sound in 96% of them; over the whole piece the others sound 98% of the time
+  BWV 649: the chorale's rests (the opening included) 96 quarters; the others sound in 100% of them; over the whole piece the others sound 100% of the time
+  BWV 650: the chorale's rests (the opening included) 153 quarters; the others sound in 100% of them; over the whole piece the others sound 100% of the time
+bars 1 to 12; eighths of silence a bar (violin 1 / violin 2 / bass):
+1:2/2/4 2:2/2/0 3:2/2/0 4:0/0/0 5:2/2/4 6:2/2/0 7:0/0/0 8:0/0/0 9:0/0/0 10:0/0/0 11:0/0/0 12:0/0/0
