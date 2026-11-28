@@ -2,7 +2,7 @@
 
 Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended the same day for piece 70b (the same four, paired the other way). It grows each time he is used.
 
-**Scope so far.** Two kinds of piece: the prelude to *Tristan und Isolde*, read for how it keeps its harmony from arriving; and the prelude to *Die Meistersinger von Nürnberg*, read for its march that arrives (piece 70b). **Scores:** yes. score-reader's catalogue (version 25) holds the two preludes, with the DCML analysts' chord labels, and the five Wesendonck songs. The *Tristan* prelude was read by measurement from Philip's ready-read copy: its labels whole, its first seventeen bars note by note. The reading is a two-staff score, so the orchestra's inner parts are only partly there, and its colours not at all. Each technique marked **[score]** names the bars.
+**Scope so far.** Two kinds of piece, and two moments read from sources for piece 83 (the *Rheingold* prelude's one chord; the *Meistersinger* quintet): the prelude to *Tristan und Isolde*, read for how it keeps its harmony from arriving; and the prelude to *Die Meistersinger von Nürnberg*, read for its march that arrives (piece 70b). **Scores:** yes. score-reader's catalogue (version 25) holds the two preludes, with the DCML analysts' chord labels, and the five Wesendonck songs. The *Tristan* prelude was read by measurement from Philip's ready-read copy: its labels whole, its first seventeen bars note by note. The reading is a two-staff score, so the orchestra's inner parts are only partly there, and its colours not at all. Each technique marked **[score]** names the bars.
 
 **Measured profile:** [`profiles/richard-wagner.md`](../profiles/richard-wagner.md), generated from score-reader's catalogue by `study/profiles.py`: the Wesendonck songs against other Romantic songs.
 
@@ -65,6 +65,21 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended
    *How:* vary the lengths from note to note, dot them often, and let the line go where the listener does not expect.
    *Where:* the five songs; for one of his commonest figures, *Träume*, bar 18. **[score: the profile]**
 
+### Two places where everything stands still (*Das Rheingold*, the prelude; *Die Meistersinger*, the quintet)
+
+*Read for composer-blend's piece 83 on 27 November 2026, from sources: no score of either is in score-reader's catalogue.*
+
+10. **One chord that does not change, built a part at a time.** The prelude to *Das Rheingold* begins with E flats in octaves in the double basses, barely audible; five bars in, the bassoons add B flats; then eight horns come in one after another in rising figures, and other instruments join in pulses that quicken. The key of E flat does not move for 136 bars, four to five minutes, until the harmony leans toward A flat. Wagner's own account of how it came to him: the chord of E flat major in broken chords, in figures of growing motion, the triad itself never changing. A programme note: the prelude pictures the creation of the world, and it begins in the double basses.
+    *Works on:* harmony, texture, form.
+    *How:* hold one chord for minutes. Begin with its root alone, very soft; add its fifth; let the other parts enter one at a time, each with a figure on the chord's own notes, the figures quickening as they gather; change the harmony once, when the gathering is complete.
+    *Where:* *Das Rheingold*, the prelude, bars 1 to 136. [Ross, *Wagnerism*; PBS, quoting Wagner's *Mein Leben*; Berliner Philharmoniker]
+
+11. **Five who stop and sing together.** In Act 3, scene 4, Sachs, Eva, Walther, David and Magdalene sing one quintet, "Selig, wie die Sonne"; all five reflect on their happiness, Sachs's touched with regret, before they leave for the contest. A listener's note says it is an ensemble of a kind Wagner had not written since *Lohengrin* and avoided in his later operas, which most writers call a throwback; its characters standing still are how the opera shows the sun seeming to stand still.
+    *Works on:* texture, form.
+    *Why:* the characters standing still in the ensemble express the sun appearing to stand still [blog, "Looking for meaning in trivial"] *(a listener)*
+    *How:* once, in music that otherwise keeps moving, stop the action: five voices, each with its own line, held together in one moment; then go on.
+    *Where:* *Die Meistersinger von Nürnberg*, Act 3, scene 4. [San Francisco Opera, synopsis; blog]
+
 ## Walks through whole works
 
 **Prelude to *Tristan und Isolde*** (110 bars; the analysts mark four keys in it, A minor, A major, A minor, and one more). Bars 1 to 11: the stopped phrase three times, rising, with shorter silences. Bars 13 to 17: the half step said over and over, and the first arrival a deceptive one. Through the rest: dominants that do not go home (technique 4). **[score: Tristan prelude]**
@@ -96,6 +111,8 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended
 - Where in the opera the harmony finally resolves: one source says the motif returns at the end of the last act; not read.
 - The prelude's date and the opera's.
 - His leitmotifs, short motifs tied to ideas and transformed (Philip's sheet says so): no source read for this page.
+- The *Rheingold* prelude's notes and its horn figures: no score read; its description is Alex Ross's and Wagner's own. Its horn figure is not to be taken (it is the opening of the *Ring*), only the way the chord is built.
+- The quintet's music (its key, its melody, whether it takes the prize song's tune): no score read, and the sources read say only who sings it and what it means.
 
 ## Sources
 
@@ -104,3 +121,8 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 70, and extended
 - M. Heisterman and J. Weinstock, *Tristan and Isolde* (University of Texas): https://laits.utexas.edu/tristan/prelude.php
 - Wikipedia, "Tristan chord": https://en.wikipedia.org/wiki/Tristan_chord
 - Wikipedia, "Die Meistersinger von Nürnberg": https://en.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg
+- Alex Ross, *Wagnerism* (2020), its first chapter as excerpted by the publisher: https://us.macmillan.com/books/9781250770110/wagnerism
+- PBS, *Great Performances at the Met*, programme note on *Das Rheingold* (quoting Wagner's *Mein Leben*): https://www.pbs.org/wnet/gperf/gp-at-the-met-wagners-ring-cycle-das-rheingold-program-note/1404
+- Berliner Philharmoniker, "Das Rheingold in seven stories" (Saskia Dittrich, 2026): https://www.berliner-philharmoniker.de/en/blog/salzburg-easter-festival-2026/das-rheingold-in-seven-stories/
+- San Francisco Opera, education materials, *Die Meistersinger* synopsis: https://www.sfopera.com/link/80bdf4fb911a415bb979340a34979cd1.aspx
+- "Looking for meaning in trivial" (blog, 21 June 2010), on the quintet: https://dailstrug.blogspot.com/2010/06/june-21-looking-for-meaning-in-trivial.html
