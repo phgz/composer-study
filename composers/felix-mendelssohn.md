@@ -2,7 +2,7 @@
 
 Begun by Claude on 22 November 2026. It grows each time he is used.
 
-**Scope so far.** Two kinds of piece: the scherzos; and the fugues of the Three Preludes and Fugues for organ, op. 37 (read for composer-blend's piece 71). **Scores:** yes. score-reader's catalogue (version 20) holds 76 of his works, among them four scherzos: the Octet's third movement, the Scherzo in E minor for piano op. 16 no. 2, and the second movements of the quartets op. 44 no. 2 and no. 3. They were read by measurement from the ready copy; each technique marked **[score]** says where. The overture and scherzo of *A Midsummer Night's Dream* are not in the catalogue. The three organ fugues of op. 37 were read by measurement from Philip's ready-read copy (catalogue version 25): where each entry of the subject begins, and the subjects' first notes. That copy is the editor's copy for playing (see "Not checked").
+**Scope so far.** Three kinds of piece: the scherzos; the fugues of the Three Preludes and Fugues for organ, op. 37 (read for composer-blend's piece 71); and the quartet built on a song's question, the String Quartet no. 2 in A minor, op. 13 (1827), read on 27 November 2026 for composer-blend's piece 82b, when he was drawn again. **Scores:** yes. score-reader's catalogue (version 20) holds 76 of his works, among them four scherzos: the Octet's third movement, the Scherzo in E minor for piano op. 16 no. 2, and the second movements of the quartets op. 44 no. 2 and no. 3. They were read by measurement from the ready copy; each technique marked **[score]** says where. The overture and scherzo of *A Midsummer Night's Dream* are not in the catalogue. The three organ fugues of op. 37 were read by measurement from Philip's ready-read copy (catalogue version 25): where each entry of the subject begins, and the subjects' first notes. That copy is the editor's copy for playing (see "Not checked").
 
 **Measured profile:** [`profiles/felix-mendelssohn.md`](../profiles/felix-mendelssohn.md), generated from score-reader's catalogue by `study/profiles.py`.
 
@@ -85,6 +85,33 @@ Read anew on 26 November 2026 for composer-blend piece 76: the opening of op.37 
     *How:* establish an anchor beneath an active line, then let the bass travel under that same activity; introduce the answering part before the first line has finished.
     *Where:* op.37 no.1 prelude, bars 1–8 and 13–16; the inner entry starts in bar 8. Measured positions are in `checks/piece76-reading-2026-11-26.json`. **[score: op.37 no.1, prelude]**
 
+### The quartet built on a question: op. 13 (read for piece 82b)
+
+Read on 27 November 2026: the first and last movements by measurement from score-reader's catalogue (version 25, the DCML corpus of his quartets: notes and the annotators' chord labels; bars counted as DCML counts them, the upbeat as bar 0), and the sources below.
+
+16. **A song's question as the motto of a whole quartet.** A few months before the quartet he wrote the words and music of a song, "Frage" (Question), op. 9 no. 1, whose recurring question is "Ist es wahr?" (Is it true?). The three-note motif of that question, long-short-long, presented in the opening Adagio in A major, makes the quartet cyclic: derivatives of it are in all four movements. He had the complete song printed with the published quartet, and wrote the song's title into the score.
+   *Works on:* form, melody.
+   *Why:* "the song underlies the entire quartet, as Mendelssohn emphasized when he had the published quartet include the complete song" [Hollywood Bowl] *(an analysis)*; he uses the motto "to create an overt cyclical structure" [West Cork] *(an analysis)*. The title in the score recalls the question Beethoven wrote over the finale of his op. 135, "Muss es sein?" [Wikipedia; Gresham] *(an analysis)*
+   *How:* take a short sung question, three notes in one rhythm, state it plainly in a slow introduction, then let every movement grow material from it, changed, fragmented or turned upside down; the plain question comes back only at the frame.
+   *Where:* op. 13, the Adagio introduction (the song's phrase at its end), and all four movements. [Hollywood Bowl; Wikipedia, String Quartet No. 2 (Mendelssohn); West Cork Chamber Music Festival]
+17. **The quartet ends with its own opening.** The finale's last section goes back to the introductory Adagio and fills it out into the song's music. Measured: from bar 372 of the finale, the first violin plays the introduction's first 22 notes again, from its upbeat, with the same intervals (bars 372 to 380 of the finale against bars 0 to 8 of the first movement); one more run of six intervals follows (finale bar 382, introduction bar 13). The quartet, in A minor, begins and ends in A major: the annotators' labels give the introduction in A major and the finale's last bars (380 to 396) on A major's chords, ending on its tonic.
+   *Works on:* form, harmony.
+   *Why:* the finale "subsides into a return of the song from the introduction, its question eloquently answered" [Apple Music Classical] *(a listener)*; "after so much tumult and excitement and discord, the work ends in peace" [a recital note on Rutube, unsigned] *(a listener)*. The return is exact for 22 notes. **[score: op. 13, first and fourth movements]** *(from the score)*
+   *How:* end the last movement by playing the slow introduction's first phrase again, note for note, in the major, and let it run on a little further than it did at first.
+   *Where:* op. 13, finale bars 372 to 396 against the first movement's bars 0 to 13. **[score: op. 13, first and fourth movements]** [Sussex; Apple Music Classical]
+18. **Major for the question, minor for the struggle.** The introduction is an Adagio in A major; then "a tumultuous Allegro Vivace in Sonata form in A minor"; the finale opens Presto in A minor and ends Adagio in A major.
+   *Works on:* harmony, form.
+   *How:* frame a minor-key work with a slow introduction and a slow ending in the tonic major, so that the major is where the question is asked and where it is answered.
+   *Where:* op. 13, first movement (bars 0 to about 19 in A major, the annotators' labels turning towards A minor from bar 19) and the finale's end. **[score: op. 13, first and fourth movements]** [Wikipedia, String Quartet No. 2 (Mendelssohn)]
+19. **The finale begins as a recitative.** The opening of the finale imitates the passionate first-violin recitative over shuddering tremolos of Beethoven's op. 132.
+   *Works on:* texture, form.
+   *How:* open a fast finale with the first violin alone in free, speech-like phrases over trembling chords in the others, before the movement's own tempo starts.
+   *Where:* op. 13, the finale's opening. [Brentano Quartet's note; the recital note on Rutube]
+20. **Where it comes from: Beethoven, the year he died.** Written months after Beethoven's death in March 1827, the year his last quartets appeared in print; "virtually a homage" to his quartets, particularly op. 95 and op. 132: the key and the short Adagio introduction like op. 132's, the finale's recitative (19), and a slow movement that refers to op. 130's Cavatina and op. 95's fugue.
+   *Works on:* background.
+   *How:* (a background entry, no recipe).
+   *Where:* op. 13. [Brentano Quartet's note; West Cork Chamber Music Festival; Hollywood Bowl; the recital note on Rutube]
+
 ## Walks through whole works
 
 **Op. 37 no. 3, the fugue in D minor** (95 bars of four quarters), by its entries. The exposition: D, G, D, G, at bars 1, 5, 9 and 13, the pedals last. Entries in other keys: A (bar 19), A and D (25), C (33). From bar 36 the entries come two or three beats apart (36 to 39, 46 and 47). The pedals take the subject at bar 39, then at 57, 60 and 70. A last pair two beats apart at bar 80; the fugue ends at bar 95.
@@ -118,6 +145,7 @@ None yet.
 - `mutopia:Mendelssohn-BartholdyF/O37/nr1#2` (10, 13)
 - `mutopia:Mendelssohn-BartholdyF/O37/nr2#2` (11)
 - `mutopia:Mendelssohn-BartholdyF/O37/nr3#2` (9, 10, 11, 12)
+- `dcml/mendelssohn_quartets:notes/02op13a.notes.tsv` and `dcml/mendelssohn_quartets:notes/02op13d.notes.tsv` (16, 17, 18)
 
 ## Not checked
 
@@ -127,8 +155,11 @@ None yet.
 - Whether the answers at the fourth are his habit or this fugue's: only op. 37 was read.
 - Anything about the *Midsummer Night's Dream* music itself.
 - The Songs Without Words, the symphonies, the oratorios, the organ sonatas op. 65: not covered.
+- **Op. 13:** the song "Frage" itself was not read (score-reader's catalogue has 17 of his songs; op. 9 no. 1 was not looked for), so where the three-note question sits in the quartet's movements was not measured; only the frame (17) was. The second and third movements were not read. Benedict Taylor's "Cyclic Form, Time and Memory in Mendelssohn's A minor Quartet, Op. 13" (*The Musical Quarterly*, 2010), cited by Wikipedia, was not read.
 
 ## Sources
+
+- Added 27 November 2026, for piece 82b: score-reader's catalogue, version 25, `dcml/mendelssohn_quartets:notes/02op13a.notes.tsv` and `02op13d.notes.tsv` (notes and chord labels), read by measurement (the first violin's line, its runs of intervals; the labels of bars 0 to 22 and 380 to 396; `checks/piece82b-reading-2026-11-27.md`). Wikipedia, "String Quartet No. 2 (Mendelssohn)": https://en.wikipedia.org/wiki/String_Quartet_No._2_(Mendelssohn); the Hollywood Bowl's notes on op. 13 (hollywoodbowl.com/musicdb/pieces/3707 and 3658); West Cork Chamber Music Festival's note (westcorkmusic.ie); C. J. Darwin's programme note, University of Sussex: https://users.sussex.ac.uk/~cjd/WebProgNotes/pdfs/MendelssohnOp13.pdf; Brentano Quartet, "Mendelssohn Quartet opus 13" (brentanoquartet.com); Roger Parker's Gresham lecture, 26 June 2008 (gresham.ac.uk); Apple Music Classical's note on op. 13; a recital note on Rutube (unsigned). All from the search excerpts, not read whole.
 
 - Added 26 November 2026: score-reader ready-read catalogue version 25, `mutopia:Mendelssohn-BartholdyF/O37/nr1#1`, prelude, opening through bar 16; MIDI-only editor's copy. The rest of the prelude was not closely read.
 

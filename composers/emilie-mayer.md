@@ -2,7 +2,7 @@
 
 Begun by Claude on 24 November 2026, for composer-blend's piece 72. It grows each time she is used.
 
-**Scope so far.** One kind of piece: the ballad for voice and piano, as her *Erlkönig* (Goethe, 1842) shows it. **Scores:** yes. score-reader's catalogue (version 25) holds thirty of her works: six songs and six string quartets. The *Erlkönig* was read by measurement from Philip's ready-read copy: its 122 bars, its markings, its words and both hands; each technique marked **[score]** names the bars. Her quartets, which composer-blend's piece 60 used, are not on this page yet.
+**Scope so far.** Two kinds of piece: the ballad for voice and piano, as her *Erlkönig* (Goethe, 1842) shows it; and, for piece 83, a love song (*Du bist wie eine Blume*). **Scores:** yes. score-reader's catalogue (version 25) holds thirty of her works: six songs and six string quartets. The *Erlkönig* was read by measurement from Philip's ready-read copy: its 122 bars, its markings, its words and both hands; each technique marked **[score]** names the bars. Her quartets, which composer-blend's piece 60 used, are not on this page yet.
 
 **Measured profile:** [`profiles/emilie-mayer.md`](../profiles/emilie-mayer.md), generated from score-reader's catalogue by `study/profiles.py`; its unit "song (voice and keyboard), all" is her six songs.
 
@@ -47,6 +47,25 @@ Begun by Claude on 24 November 2026, for composer-blend's piece 72. It grows eac
    *How:* set up each new key with its dominant seventh; move by surprise to another; use the diminished seventh as a pivot that can go anywhere; let several rhythmic layers sound together.
    *Where:* her music in general (the source names no work). [Wikipedia, Emilie Mayer]
 
+### A love song (*Du bist wie eine Blume*, op. 7 no. 1, Heine), read for piece 83 on 27 November 2026
+
+*From the notes: score-reader's reading of the OpenScore edition, 31 bars of 4/4, A flat major.*
+
+9. **Short phrases, the last one the longest and the highest.** Split where the voice rests a beat or more, it sings ten phrases; eight last six or seven quarters. The last (bars 27 to 30) lasts twelve quarters and holds 26 notes: the song's highest note, B flat 5, and its only quick run, thirteen notes in sixths of a beat (bar 28), both on words sung again ("so rein und hold so rein so schön und hold"). The range is E flat 4 to B flat 5.
+    *Works on:* melody, form.
+    *How:* keep the phrases short and alike; save the top note and the one flourish for the last phrase, on words already sung.
+    *Where:* bars 27 to 30. **[score: Du bist wie eine Blume]**
+
+10. **A line sung twice, the second a half step higher.** "betend, dass Gott dich erhalte": bars 21 and 22 begin on D flat 5, bars 23 and 24 on D 5, in the same rhythm, the second's steps a little changed.
+    *Works on:* melody, harmony.
+    *How:* repeat a short phrase at once, in its rhythm, a half step higher, as a step up in feeling.
+    *Where:* bars 21 to 24. **[score: Du bist wie eine Blume]**
+
+11. **The piano flows in triplets under it.** 306 of the piano's 550 notes are triplet eighths, in both hands.
+    *Works on:* texture, rhythm.
+    *How:* under a voice in plain quarters and eighths, keep both hands moving in triplets.
+    *Where:* the whole song. **[score: Du bist wie eine Blume]**
+
 ## Walks through whole works
 
 ***Der Erlkönig*** (122 bars, D minor, *Geschwind*): the ride in the bass (bars 1 to 36), the father and the son; the Elf King, *rather whispering and luring*, the ride stopped (37 to 48); the first cry (46); the father calming him, the ride again (53 to 60); the Elf King (61 to 72); the second cry (70); the father (77 to 84); the Elf King (85 to 92) and his threat, both hands running (93 to 96); the third cry (94); *rallentando* (99), *a tempo* (101); the ride stops (109); the last line *Andante* (116), the voice falling an octave (118 to 119); the piano's close (119 to 122).
@@ -74,12 +93,14 @@ None yet: the sources read call nothing of hers famous.
 ## Samples in score-reader's catalogue
 
 - `openscore-lieder:Mayer,_Emilie/_/Der_Erlkönig/lc6573780.mxl` (techniques 1, 2, 3, 4, 5, 6)
+- `openscore-lieder:Mayer,_Emilie/3_Lieder,_Op.7/1_Du_bist_wie_eine_Blume/lc5840527.mxl` (techniques 9, 10, 11)
 
 ## Not checked
 
 - How her setting compares with Schubert's and Loewe's: not read.
 - The keys of the Elf King's passages beyond their first bars: read from the chords at the start of each, not labelled.
 - Her quartets and symphonies: not on this page yet.
+- The harmony of *Du bist wie eine Blume* where the line is repeated a half step higher: not read from the chords.
 
 ## Sources
 
@@ -87,3 +108,4 @@ None yet: the sources read call nothing of hers famous.
 - composer-study's profile of Emilie Mayer (catalogue version 25).
 - Natasha Loges, "Emilie Mayer", Oxford Song, 2022: https://oxfordsong.org/composer/emilie-mayer
 - Wikipedia, "Emilie Mayer": https://en.wikipedia.org/wiki/Emilie_Mayer
+- score-reader's catalogue, version 25, read here: *Du bist wie eine Blume*, op. 7 no. 1 (read for piece 83).

@@ -1,8 +1,8 @@
 # William Grant Still (1895-1978)
 
-Begun by Claude on 25 November 2026, for composer-blend's piece 74, from the sources at the end, read on 24 and 25 November 2026. It grows each time he is used.
+Begun by Claude on 25 November 2026, for composer-blend's piece 74, from the sources at the end, read on 24 and 25 November 2026; extended on 27 November 2026 for piece 82b, when he was drawn again: the *Lyric Quartette* (1960) and more of the *Danzas de Panamá* (13 to 17). It grows each time he is used.
 
-**Scope so far.** One kind of piece: the blues symphony, his Symphony no. 1, *Afro-American* (1930); with one line on the string quartet *Danzas de Panamá* (1948). **Scores:** none in score-reader's catalogue (his works are in copyright), so nothing below was checked against notes. It rests on programme notes (with his own words), an encyclopaedia and a textbook; the bar numbers are the encyclopaedia's.
+**Scope so far.** Two kinds of piece: the blues symphony, his Symphony no. 1, *Afro-American* (1930); and the string quartet, the *Danzas de Panamá* (1948) and the *Lyric Quartette* (1960), from programme notes only. **Scores:** none in score-reader's catalogue (his works are in copyright), so nothing below was checked against notes. It rests on programme notes (with his own words), an encyclopaedia and a textbook; the bar numbers are the encyclopaedia's.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -66,6 +66,30 @@ Begun by Claude on 25 November 2026, for composer-blend's piece 74, from the sou
     *How:* before the tune, the string players knock a dance rhythm on the bodies of their instruments; then they bow.
     *Where:* *Danzas de Panamá*, "Tamborito" and "Cumbia y Congo". [Edition Silvertrust, via the LA Phil]
 
+13. **The dances' other colours.** "Mejorana y Socavón" is "a sweet and upbeat Panamanian waltz"; in "Punto" there is "the clear influence of Mexican music in the rhythms and arpeggio figures"; "Cumbia y Congo" begins with percussive hand-pounding, "at first, it sounds purely African but very quickly a heavy dose of Latin melody is added". The first and last dances are African in origin, the middle two of Spanish and Indian descent. With strings only, he approximated the sounds of the native instruments, among them the three-stringed violin, the *rabel*, and a dance of the shoes, the *zapateo*.
+    *Works on:* rhythm, colour, melody.
+    *How:* let each dance be one colour of the region: a waltz; arpeggio figures in a Mexican rhythm; a drummed start to which a Latin tune is added; imitate a folk fiddle or the stamp of shoes with the quartet's own means.
+    *Where:* *Danzas de Panamá*, all four. [a programme note by "NCS" on audienceaccess.co; Hollywood Bowl; Edition Silvertrust; Max Derrickson's note, musicprogramnotes.com]
+
+### The *Lyric Quartette* (1960)
+
+14. **Three portraits of friends.** First titled "Musical Portraits of Three Friends": "The Sentimental One", "The Quiet One", "The Jovial One"; then retitled "On a Plantation", "In the Mountains of Peru" ("Based on an Inca melody", written in both sets of titles), "In a Pioneer Settlement". Dedicated to the Hollywood String Quartet's violinist Joachim Chassman. About six, five and a half and three minutes.
+    *Works on:* form, background.
+    *How:* a quartet in three short movements, each a character: a warm one, a gentle one on a borrowed tune, an energetic one last and shortest.
+    *Where:* the *Lyric Quartette*. [All Classical Portland's research page; Edition Silvertrust via earsense.org; earsense.org's recordings list]
+15. **Each movement opens in unison.** "The four instruments begin in rhythmic unison, then expand into a busier texture," anchored by occasional pizzicato ("The Quiet One"); the first movement too opens in "unison fluctuations", the ensemble playing "as a unit of sound".
+    *Works on:* texture.
+    *How:* begin a movement with all four in one rhythm, as one instrument, then let them part into a busier texture, with a pizzicato now and then to hold it down.
+    *Where:* *Lyric Quartette*, first and second movements. [Princeton University Concerts' note; Alex Burns, classicalexburns.com]
+16. **French colour, then jazz.** The first movement "mostly calm and genial with touches of melancholy", with "a vague aura of French Impressionism"; the second "gentle with echoes of Debussy"; the third "full of energy, is loud and boisterous, with elements of jazz".
+    *Works on:* colour, harmony.
+    *How:* write the calm movements in Debussy's harmonic colours and keep the jazz for the last, the loud one.
+    *Where:* *Lyric Quartette*. [Edition Silvertrust via earsense.org]
+17. **His words of 1950.** "There is resentment against a Negro composer who doggedly insists that he can and will write abstract music of a non-racial nature"; and if he writes racial music, his opponents will say white composers did it better (quoted in Princeton University Concerts' note, which sets them against Dvořák's call of 1893 for an American music from "the Negro melodies or Indian chants": see Dvořák's page, 20).
+    *Works on:* background.
+    *How:* (a background entry, no recipe).
+    *Where:* (his words, not a work). [Princeton University Concerts]
+
 ## Walks through whole works
 
 **Symphony no. 1, *Afro-American*** (about 24 minutes; four movements, each with a line of Paul Laurence Dunbar and a title from his notebook). I, "Longing" (*Moderato assai*), in a loose sonata form: the cor anglais's invocation; the blues on the muted trumpet, answered by horns and woodwinds (2); again on the clarinet at bar 19, the flutes cutting in (3); a third strophe in the strings; the oboe's second theme at bar 45 (4); the march (5); the second theme in the minor; the blues to close. II, "Sorrow" (*Adagio*): one tonal centre, the first movement's themes as a spiritual (6). III, "Humor" (*Animato*), in A flat: the banjo, "Hallelujah" with the horn's counter-melody, the fanfare (7). IV, "Aspiration" (*Lento, con risoluzione*): a hymn without dominant cadences (8), the blues back in a quicker episode, merged, a fiery coda (9). [Wikipedia, Afro-American Symphony; BSO; Hollywood Bowl; Listen]
@@ -93,7 +117,8 @@ None: no score of his is in the catalogue (version 25).
 
 - The blues theme's notes, and whether it keeps the twelve-bar pattern throughout: the sources give the pattern, not the tune.
 - Where the banjo plays and how (chords, rhythm).
-- The *Danzas de Panamá*: only two programme notes read; nothing on how the strikes are notated.
+- The *Danzas de Panamá*: programme notes only; nothing on how the strikes are notated.
+- The *Lyric Quartette*: no score read (in copyright, not in the catalogue); the movements' keys, metres and the Inca melody itself unknown. Edition Silvertrust's date (1939 to 1945) differs from the 1960 of the other sources; 1960 is given here, as the research page gives it from the Still bibliography.
 
 ## Sources
 
@@ -102,4 +127,5 @@ None: no score of his is in the catalogue (version 25).
 - Douglas Shadle, programme note on Symphony no. 1, Hollywood Bowl: https://www.hollywoodbowl.com/musicdb/pieces/4814/symphony-no-1-afro-american
 - The Orchestra Now (Bard College), concert note on the symphony, 3 November 2018, with Still's words of 1931 and 1964: https://ton.bard.edu/william-grant-stills-afro-american-symphony/
 - *Listen* (Macmillan Learning), its page on Still's first symphony (no title or authors shown on the page read): https://digfir-published.macmillanusa.com/listen8e/listen8e_ch22_26.html
+- Added 27 November 2026, for piece 82b, all from the search excerpts or a fetch that quoted the page's sentences: All Classical Portland, research pages on the *Lyric Quartette* and the *Danzas de Panamá* (research.allclassical.org); earsense.org's pages on both (Edition Silvertrust's notes); Alex Burns, "William Grant Still: Lyric Quartet" (classicalexburns.com); Princeton University Concerts, the Brentano Quartet's programme (concerts.princeton.edu); the Hollywood Bowl's note on the *Danzas*; a programme note by "NCS" (audienceaccess.co/bio/NCS-6417); Max Derrickson's note (musicprogramnotes.com, an excerpt).
 - Edition Silvertrust, note on *Danzas de Panamá*, as given by the LA Phil: https://www.laphil.com/musicdb/pieces/5445/danzas-de-panama ; and its own page: https://www.editionsilvertrust.com/still-danzas-de-panama.htm

@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026. It grows each time he is used.
 
-**Scope so far.** Two things: the carol, and the solo instrument that sings in his Requiem. **Scores:** none read. His music is under copyright; this page is from six sources, and what they say is said here in other words.
+**Scope so far.** Two things: the carol, and the solo instrument that sings in his Requiem; and, for piece 83, what is said of his melody. **Scores:** none read. His music is under copyright; this page is from six sources, and what they say is said here in other words.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -93,6 +93,21 @@ Begun by Claude on 23 November 2026. It grows each time he is used.
     *How:* introduce the voices' world with their own accompanying instrument alone and make room for that instrument again between vocal sections.
     *Where:* *Dancing Day*, the opening prelude and the interlude between *Personent Hodie* and *There is no rose*. [Rutter catalogue]
 
+### His melody and its dress, read for piece 83 on 27 November 2026
+
+*From what he says and what is written about him; no score read.*
+
+19. **A plain scale or arpeggio, dressed by what is set against it.** A magazine's portrait of his style: he calls himself half composer and half songwriter, a magpie rather than an explorer, and what makes his music his own is the way a simple scale or arpeggio is given a counter-line or a harmony.
+    *Works on:* melody, harmony, texture.
+    *How:* begin from a plain scale or a broken chord; make it new by what goes with it, a second line against it or a chord under it, not by changing the line.
+    *Where:* his style in general. [BBC Music Magazine, "Rutter's style"]
+
+20. **A tune that sounds as if it could not have gone otherwise.** In his words, a melody is best when it seems inevitable, as if it could not have been written any other way; and he calls himself more songwriter than composer, the gift of melody being what the concert world does not want.
+    *Works on:* melody.
+    *Why:* a melody should give a sense of being inevitable [J.W. Pepper, interview] *(his words)*
+    *How:* try each note of a tune against the others it could have been; keep the one that seems the only one.
+    *Where:* his tunes in general. [J.W. Pepper; Varsity]
+
 ## Walks through whole works
 
 None yet.
@@ -133,6 +148,7 @@ None: no score of his is in score-reader's catalogue.
 
 - Everything: no score. In particular the pipe figures of the *Shepherd's Pipe Carol* (the sources name the picture, not the notes), his key lifts and descants in last verses (believed from memory, not sourced), and the blue notes of the cello solo in *Out of the deep* (the same).
 - One source is a listener's blog and one a radio interview.
+- What his harmony is, chord by chord (added notes, pedals): Marguerite Walsh's thesis on the Requiem's harmony (Stephen F. Austin State University, 2025) was found and could not be fetched; Kálló's article does not describe it.
 
 ## Sources
 
@@ -143,3 +159,6 @@ None: no score of his is in score-reader's catalogue.
 - Krisztián Kálló, "John Rutter's Requiem: Between Anglican Tradition and French Musical Aesthetics", *Studia UBB Musica* 64/1 (2019): https://studia.reviste.ubbcluj.ro/index.php/subbmusica/article/download/2062/1990/3907
 - "Land of Lost Content" (blog), on the *Shepherd's Pipe Carol*, 22 December 2014: https://landofllostcontent.blogspot.com/2014/12/john-rutter-shepherds-pipe-carol.html
 - John Rutter, [Dancing Day](https://johnrutter.com/music/printed-music/catalogue/dancing-day). Catalogue and movement list read for piece 77. This describes an arrangement of traditional material. The tunes were not taken.
+- BBC Music Magazine, 29 November 2022, the box "Rutter's style": https://www.pressreader.com/uk/bbc-music-magazine/20221129/282415583275735
+- J.W. Pepper blog, "John Rutter: A Lifetime of Surprises and Choral Magic": https://blogs.jwpepper.com/john-rutter-a-lifetime-of-surprises-and-choral-magic-new-interview/
+- Varsity, "Interview: John Rutter" (Jared Bennett): https://varsity.co.uk/news/8199

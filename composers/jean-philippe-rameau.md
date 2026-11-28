@@ -2,7 +2,7 @@
 
 Begun by Claude on 22 November 2026. It grows each time he is used.
 
-**Scope so far.** One kind of piece: the dances, in *Hippolyte et Aricie* (1733) and the harpsichord books (1724, 1726-27). **Scores:** yes. score-reader's catalogue (version 20) holds 108 of his works, all from Mutopia: the movements of *Hippolyte et Aricie*, and *Tambourin*, *Les Sauvages* and *Les Tendres Plaintes* for harpsichord. This is the first page here written mostly from the notes: thirteen dances were read by measurement from the ready copy, and each technique marked **[score]** names the work it was read in. The open web gave little on how his dances are made; what it gave is marked by its source. Dances the catalogue does not hold (his musettes, his loures, his passepieds, the tambourins of the operas) are not covered. A second kind was added on 24 November 2026, after he was drawn again for composer-blend's piece 69: the music for the storm and the underworld in *Hippolyte et Aricie*, four movements read by measurement from Philip's ready copy (catalogue version 25), as printed (their repeats not played).
+**Scope so far.** One kind of piece, the dances, and, for piece 83, an air (*Rossignols amoureux*): in *Hippolyte et Aricie* (1733) and the harpsichord books (1724, 1726-27). **Scores:** yes. score-reader's catalogue (version 20) holds 108 of his works, all from Mutopia: the movements of *Hippolyte et Aricie*, and *Tambourin*, *Les Sauvages* and *Les Tendres Plaintes* for harpsichord. This is the first page here written mostly from the notes: thirteen dances were read by measurement from the ready copy, and each technique marked **[score]** names the work it was read in. The open web gave little on how his dances are made; what it gave is marked by its source. Dances the catalogue does not hold (his musettes, his loures, his passepieds, the tambourins of the operas) are not covered. A second kind was added on 24 November 2026, after he was drawn again for composer-blend's piece 69: the music for the storm and the underworld in *Hippolyte et Aricie*, four movements read by measurement from Philip's ready copy (catalogue version 25), as printed (their repeats not played).
 
 **Measured profile:** [`profiles/jean-philippe-rameau.md`](../profiles/jean-philippe-rameau.md), generated from score-reader's catalogue by `study/profiles.py`.
 
@@ -117,6 +117,21 @@ Begun by Claude on 22 November 2026. It grows each time he is used.
     *How:* invent one short opening. Move two of its inner-bar attacks when the singers take it up, keeping its pitches and the bar length.
     *Where:* *Hippolyte et Aricie*, first gavotte, bar 1, t1 and *De l’Amour fuyez les charmes*, bars 1 (t9) and 5 (t1). **[score: mutopia:RameauJP/HippolyteEtAricie/HippolyteEtAricie-lys#13 and #14]**
 
+### An air with nightingales (*Rossignols amoureux*, Act V, scene VI), read for piece 83 on 27 November 2026
+
+*From the notes (`#104`), and from the Mutopia source text for what the reading leaves out (its ornaments and its parts' names). Aricie or a shepherdess, two flutes alone, three parts of violins and the bass; A major, 3/4, with an upbeat; 22 bars, then 24 to the* Fine, *26 more, and back to the sign.*
+
+22. **The birds sing where the voice holds or rests.** In bars 1 to 55, the flutes play alone in the voice's rests (bars 8 and 9, 19 to 22, 48 to 55) and in quick notes under its long ones (11 to 20 flute notes under each held note of bars 24 to 35). 209 of their 336 notes are thirty-seconds and sixteenths, and 177 of their 335 moves are leaps of more than a major third; the voice moves by step two times in three (151 of 233), from E 4 to A 5.
+    *Works on:* texture, colour, rhythm.
+    *Why:* the words ask the nightingales to answer the singers' voices ("Rossignols amoureux, répondez à nos voix") **[score: Rossignols amoureux]** *(from the score)*
+    *How:* give the voice a slow line with long notes and rests; give the answering instrument quick, leaping figures, and let it speak only in those holds and rests.
+    *Where:* *Hippolyte et Aricie*, Act V, scene VI, bars 1 to 55. **[score: Rossignols amoureux]**
+
+23. **Every ornament a lean by step onto a long note.** The voice carries nine appoggiaturas (in the source text; the reading drops them), each a step onto its note: five a half step from below (G sharp onto A three times, D sharp onto E, C sharp onto D), three a step from above, one a whole step from below; six of the nine fall on a half note or longer. It has three trills.
+    *Works on:* melody, harmony.
+    *How:* lean into a long note from the half step below it (or the step above), and keep the leaning for the long notes.
+    *Where:* the voice throughout. **[score: Rossignols amoureux]**
+
 ## Walks through whole works
 
 **Tambourin** (harpsichord, E minor, 62 bars in two). Refrain, bars 1 to 8: a four-bar tune running by step up from the keynote, said twice with two endings, over the hammered fifth. Couplet 1 (9 to 16). Refrain (17 to 24). Couplet 2 (25 to 36, twelve bars). Refrain (37 to 44). Couplet 3 (45 to 56, twelve bars). The refrain once more, six bars only.
@@ -163,6 +178,7 @@ The speeds in the files are the editions' own, not his, and are not given here.
 - `#105`, the chaconne (13)
 - `mutopia:RameauJP/sauvages` (10)
 - `#21`, *Bruit de tonnerre* (17); `#36`, *Premier air infernal* (18); `#37`, *Deuxième air de furies* (19); `#30`, *Entrée de Pluton* (20)
+- `#104`, *Rossignols amoureux* (22, 23)
 
 ## Not checked
 
@@ -173,6 +189,7 @@ The speeds in the files are the editions' own, not his, and are not given here.
 - Whether the thunder's repeated notes are written out or written as a tremolo: the reading gives the notes, not the sign. The parts of these four movements carry no instrument names either.
 
 Not read: Girdlestone's and Masson's books on him, which the sources point to.
+- Bars 56 to 74 of *Rossignols amoureux*: the reading joins a tied note to the melisma after it, giving notes of up to 19 quarters; their lengths are not read, and technique 22 counts bars 1 to 55 only.
 
 ## Sources
 
@@ -183,3 +200,4 @@ Not read: Girdlestone's and Masson's books on him, which the sources point to.
 - Western Michigan University, "Baroque Dances": https://wmich.edu/mus-gened/mus150/BaroqueDances.htm
 - Britannica, "Les Sauvages": https://www.britannica.com/topic/Les-Sauvages
 - Ready-read Mutopia notes, catalogue 25, *Hippolyte et Aricie*, Act I, scene III, numbers 13 and 14, as printed. For piece 77 the attacks of the four principal pitches were compared directly. Short rearticulations of the same pitch in the gavotte were set aside in that comparison.
+- score-reader's catalogue, version 25, read here: *Rossignols amoureux* (`#104`), and its Mutopia source text (`EFIariette`: the staves' names, the voice's appoggiaturas and trills), read for piece 83.

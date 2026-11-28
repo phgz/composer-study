@@ -135,10 +135,10 @@ A narrow unit is a composer in one kind of piece and one period: Chopin's mazurk
 
 ## A piece's page (for composer-blend)
 
-`study/flag_piece.py` also builds the page a composer-blend piece is presented on after a render: the take, its drawn score following the playing, each instrument alone, the places the outside ears flag, and what Philip ticks, writes and marks on it.
+The page a composer-blend piece is presented on after a render (the take, its drawn score following the playing, each instrument alone, the places the outside ears flag, and what Philip ticks, writes and marks on it) is its own project since 28 November 2026: [phgz/listening-page](https://github.com/phgz/listening-page). Philip: "I feel like the listening-UI should be a project on its own."
 
-- `score` draws the piece's score with where every bar and moment is on the page, `parts` turns one take's stems into each instrument alone, and `page` fills `study/walk_page.html` with them. The heading of `flag_piece.py` has every command and option.
-- The order to run them in, where the large stems are made small, and how the page is published so that his marks are kept: composer-blend's `PROCEDURE.md`, Part 1, F ("The page is how a piece is presented after a render").
+- What stays here is the flags: `study/flag_piece.py layer FLAGS --module NOTES.py -o PAGE/flags.json` writes the flagged places as the page shows them (time, bar, kind, rank, part and pitch as the score names and spells them, passage, each model's own rank).
+- The page is built from a listening folder (listening-page's README); composer-blend's `tools/listening.py` writes the rest of it, and its `PROCEDURE.md`, Part 1, F, gives the order.
 - Philip, 27 November 2026: "I especially like the UI, if it can be specified to instances to use that one for post-rendering presentation".
 
 ## NotaGen beside the ear

@@ -58,6 +58,14 @@ Then read, for the composer:
   for MIDI or a MIDI file (`midi_copy`) and whether a reading plays its repeats.
   When a technique rests on such a reading, say so under "Not checked".
 - A technique read from a score carries **[score: the work]** and its sample id.
+- **A work the catalogue lacks** can be read by eye from one page of a clean library
+  scan, after the page has been straightened and cut into lines by code
+  (`checks/reading-a-score-by-eye-2026-11-27.md`, and `calque_scan.py` in the folder of
+  that name). It is slow: read only the page the piece needs, say on the composer's
+  page that it was read so and where the picture did not decide alone, and put what
+  rests on it under "Not checked". A reader for scans was not built (Philip,
+  27 November 2026: "if it's too costly, let's drop it and focus on composition
+  instead.").
 
 ## Read sources
 

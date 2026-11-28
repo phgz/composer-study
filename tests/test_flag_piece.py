@@ -81,66 +81,10 @@ def test_scores_from_another_preparation_are_refused(tmp_path):
     with pytest.raises(SystemExit): FP.notagen_choice(str(tmp_path))
 
 
-def test_two_takes_differ_where_their_notes_do():
-    before = {'gtr': [(110.8, .35, 68, 38), (111.13, .35, 68, 35)], 'ca': [(262.02, .37, 69, 76), (262.43, .32, 67, 71)],
-              'vn2': [(196.14, 2.05, 73, 28), (200.0, 1.0, 69, 30)], 'pno': [(5.82, 1.6, 64, 40), (7.96, 1.6, 64, 40)]}
-    after = {'gtr': [(110.8, .35, 66, 38), (111.13, .35, 66, 35)], 'ca': [(262.2, .37, 69, 76), (262.61, .32, 67, 71)],
-             'vn2': [(196.14, 2.05, 71, 28), (200.0, 1.0, 69, 30)], 'pno': [(5.82, 1.6, 66, 40), (7.96, 1.6, 66, 40)]}
-    spots = FP.changed(before, after)
-    assert [round(s[0][0], 2) for s in spots] == [5.82, 110.8, 196.14, 262.02]      # 5.82 and 7.96 one spot; 200.0 unchanged
-    assert {e[2] for e in spots[3]} == {'time'} and {e[2] for e in spots[1]} == {'pitch'}
-    assert FP.describe(spots[1]) == 'gtr: G#4 → F#4 (2 notes)'
-    assert FP.describe(spots[3]) == 'ca: A4, G4 0.18 s later'
-    assert FP.changed(before, before) == []
-
-
-def test_a_note_only_one_take_has_is_added_or_dropped():
-    spots = FP.changed({'fl': [(1.0, .5, 72, 60)]}, {'fl': [(1.0, .5, 72, 60), (40.0, .5, 74, 60)], 'cl': [(41.0, 1, 60, 50)]})
-    assert len(spots) == 1 and FP.describe(spots[0]) == 'fl: adds D5; cl: adds C4'
-
-
-def test_section_names_as_the_timeline_shows_them():
-    assert FP.short("03 concerto 1: the guitar alone, then the tune on the cor angla") == 'Concerto 1'
-    assert FP.short('08 the last hymn: the tune loud by everyone') == 'Last hymn'
-    assert FP.short('Beklemmt: F major, then D minor') == 'Beklemmt'
-
-
 def test_each_ear_ranks_on_its_own_after_the_first_two_seconds():
     notes = [(0.5, .5, 60, 'a'), (3.0, .5, 62, 'a'), (4.0, .5, 64, 'a'), (5.0, .5, 65, 'a')]
     r = FP.own_ranks(notes, range(4), [9.0, 1.0, float('nan'), 2.0])
     assert r == {3: 1, 1: 2}                                         # the first note too early, the third not heard
-
-
-def test_parts_writes_each_instrument_alone_at_one_level(tmp_path):
-    import shutil, struct, wave
-    import numpy as np
-    if not shutil.which('ffmpeg'): pytest.skip('ffmpeg')
-    sr = 8000; t = np.arange(sr) / sr
-    def float_wav(path, x):
-        x = np.stack([x, x], axis=1).astype('<f4'); body = x.tobytes()
-        fmt = struct.pack('<HHIIHH', 3, 2, sr, sr * 8, 8, 32)
-        with open(path, 'wb') as f:
-            f.write(b'RIFF' + struct.pack('<I', 4 + 8 + len(fmt) + 8 + len(body)) + b'WAVE' + b'fmt ' + struct.pack('<I', len(fmt)) + fmt
-                    + b'data' + struct.pack('<I', len(body)) + body)
-    stems = tmp_path / 'x.mix-stems'; stems.mkdir()
-    float_wav(stems / 'part-0000.wav', .01 * np.sin(2 * np.pi * 440 * t))
-    float_wav(stems / 'part-0001.wav', .02 * np.sin(2 * np.pi * 220 * t))
-    float_wav(stems / 'part-0002.wav', np.zeros(sr))
-    render = tmp_path / 'x.render.json'
-    json.dump(dict(outputs={f'mix_stem:{p}': dict(path=f'/elsewhere/x.mix-stems/part-000{n}.wav') for n, p in enumerate(('pno', 'pnoA', 'vlax'))}),
-              open(render, 'w'))
-    out = tmp_path / 'parts-1'
-    import argparse
-    FP.parts(argparse.Namespace(render=str(render), module=str(tmp_path / 'none.py'), o=str(out), gains=None))
-    listed = json.load(open(out / 'parts.json'))
-    assert [g for g, _ in listed['parts']] == ['pno', 'pnoA'] and (out / 'pno.mp3').stat().st_size > 0   # the silent one left out
-    FP.parts(argparse.Namespace(render=str(render), module=str(tmp_path / 'none.py'), o=str(tmp_path / 'parts-2'), gains=str(out)))
-    assert json.load(open(tmp_path / 'parts-2' / 'parts.json'))['gains'] == listed['gains']       # the other take's levels kept
-    # parts written on one staff, and a keyboard's two staves, are one instrument to hear (the module's EXPORT: join, names)
-    mod = tmp_path / 'notes_j.py'
-    mod.write_text("EXPORT = dict(order=['pnoR', 'pnoL', 'perc'], names=dict(pnoR='Piano', pnoL='Piano', perc='Drums'), join=dict(pno='pnoR', pnoA='pnoL', vlax='perc'))\n")
-    FP.parts(argparse.Namespace(render=str(render), module=str(mod), o=str(tmp_path / 'parts-3'), gains=None))
-    assert [g for g, _ in json.load(open(tmp_path / 'parts-3' / 'parts.json'))['parts']] == ['Piano']   # both hands; the silent drum left out
 
 
 CO = os.environ.get('ANTICIPATION', os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
@@ -237,38 +181,19 @@ def test_flat_stretches_are_the_gaps_between_events_above_the_bar(tmp_path):
     assert FP.pairs_ordered({'x': .6, 'y': .2, 'z': .6}, ['x'], ['y', 'z']) == 1.5
 
 
-MPOS = '''<score><elements>
-<element id="0" x="1000" y="2000" sx="3000" sy="4000" page="0"/>
-<element id="1" x="4000" y="2000" sx="5000" sy="4000" page="0"/>
-<element id="2" x="1000" y="2000" sx="8000" sy="4000" page="1"/>
-</elements><events><event elid="0" position="0"/><event elid="1" position="2000"/><event elid="2" position="4000"/></events></score>'''
-SPOS = '''<score><elements>
-<element id="0" x="1900" y="2000" sx="200" sy="4000" page="0"/>
-<element id="1" x="2900" y="2000" sx="200" sy="4000" page="0"/>
-<element id="2" x="4900" y="2000" sx="200" sy="4000" page="0"/>
-<element id="3" x="1900" y="2000" sx="200" sy="4000" page="1"/>
-</elements><events><event elid="0" position="0"/><event elid="1" position="1000"/><event elid="2" position="2000"/><event elid="3" position="4000"/></events></score>'''
-SVG = ''.join(f'<polyline class="StaffLines" points="100,{y} 900,{y}"/>' for y in (200, 210, 220, 230, 240, 560, 570, 580, 590, 600))
-
-
-def test_a_drawn_score_gives_each_moment_the_second_its_bar_has_by_the_piece_s_clock():
-    bars, bar_ms = FP.positions(MPOS); moments, moment_ms = FP.positions(SPOS)
-    assert bars[1] == (4000.0, 2000.0, 5000.0, 4000.0, 0) and bar_ms[1] == (1, 2000.0)
-    staves = {0: FP.staff_lines(SVG), 1: []}
-    assert staves[0] == [(2000.0, 2400.0), (5600.0, 6000.0)]
-    # the piece's clock is not MuseScore's: its bars last 3, 6 and 3 seconds, the first beginning at 1
-    m = FP.score_map(bars, bar_ms, moments, moment_ms, [(1.0, 4.0, 1, 4), (4.0, 10.0, 2, 4), (10.0, 13.0, 3, 4)],
-                    {0: (10000.0, 10000.0), 1: (10000.0, 10000.0)}, staves, ['Flute', 'Cello'])
-    assert [x[0] for x in m['moments']] == [1.0, 2.5, 4.0, 10.0]             # halfway through bar 1 is 2.5 s, not 1 s
-    assert [x[1] for x in m['moments']] == [0, 0, 0, 1] and m['moments'][0][2] == 0.2
-    assert [(b['n'], b['s'], b['t'], b['e']) for b in m['bars']] == [(1, 0, 1.0, 4.0), (2, 0, 4.0, 10.0), (3, 1, 10.0, 13.0)]
-    first, second = m['systems']
-    assert (first['p'], first['x0'], first['x1'], first['names']) == (0, 0.1, 0.9, ['Flute', 'Cello'])
-    assert first['staves'] == [[0.2, 0.24], [0.56, 0.6]] and second['names'] is None   # no staff found there: no names
-
-
-def test_a_drawn_score_with_other_bars_than_the_piece_is_refused():
-    bars, bar_ms = FP.positions(MPOS); moments, moment_ms = FP.positions(SPOS)
-    with pytest.raises(SystemExit): FP.score_map(bars, bar_ms, moments, moment_ms, [(0.0, 2.0, 1, 4)], {0: (1e4, 1e4), 1: (1e4, 1e4)})
-    with pytest.raises(SystemExit):                                           # a bar played before an earlier one: a repeat
-        FP.score_map(bars, [(0, 0.0), (2, 1000.0), (1, 2000.0)], moments, moment_ms, [(0, 1, 1, 4), (1, 2, 2, 4), (2, 3, 3, 4)], {0: (1e4, 1e4), 1: (1e4, 1e4)})
+@needs_amt
+def test_the_flags_are_written_for_the_walk_page_as_it_shows_them(tmp_path):
+    """the page moved to phgz/listening-page (28 November 2026): flag_piece writes its flags.json"""
+    import argparse
+    src = two_parts(str(tmp_path))
+    FP.prepare(argparse.Namespace(source=src, checkout=CO, o=str(tmp_path)))
+    notes = json.load(open(tmp_path / 'flag_notes.json'))['notes']
+    write(tmp_path, 'flag_amt_large.jsonl', scores([('piece', [n[0] for n in notes])], {('piece', 6.0): 9.0, ('piece', 8.0): 9.0}))
+    out = tmp_path / 'flags.json'
+    FP.layer(argparse.Namespace(folder=str(tmp_path), module=src, o=str(out), top=2))
+    d = json.load(open(out))
+    assert d['schema'] == 1 and d['ears'] == ['large'] and d['earNames']['large'] == 'AMT Large' and d['top'] == 2
+    notes_ = [r for r in d['rows'] if r['kind'] == 'note']
+    assert [r['t'] for r in notes_] == [6.0, 8.0] and sorted(r['rank'] for r in notes_) == [1, 2]
+    assert set(d['rows'][0]) == {'t', 'bar', 'kind', 'rank', 'part', 'pitch', 'passage', 'ears'}
+    assert [r['t'] for r in d['rows']] == sorted(r['t'] for r in d['rows']) and d['foot'].startswith(f"{len(d['rows'])} places")
