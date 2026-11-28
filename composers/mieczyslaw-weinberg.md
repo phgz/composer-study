@@ -2,7 +2,7 @@
 
 Begun by Claude on 23 November 2026. It grows each time he is used.
 
-**Scope so far.** Three things: the child's song that darkens (the Children's Songs op. 13), the solo line over a bare accompaniment (the Clarinet Sonata op. 28), and the devices of his string quartets, from the Sixth (1946) on (added on 24 November 2026, for composer-blend's piece 72). Added on 27 November 2026, for piece 78: the Cello Concerto op. 43 (techniques 22 to 26). **Scores:** none read. His music is under copyright; this page is from ten sources, and what they say is said here in other words.
+**Scope so far.** Three things: the child's song that darkens (the Children's Songs op. 13), the solo line over a bare accompaniment (the Clarinet Sonata op. 28), and the devices of his string quartets, from the Sixth (1946) on (added on 24 November 2026, for composer-blend's piece 72). Added on 27 November 2026, for piece 78: the Cello Concerto op. 43 (techniques 22 to 26). Added on 28 November 2026, for piece 84: the Violin Sonata no. 5 op. 53 (techniques 27 to 30). **Scores:** none read. His music is under copyright; this page is from ten sources, and what they say is said here in other words.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -137,6 +137,27 @@ The Cello Concerto in C minor is dedicated to Mstislav Rostropovich (the booklet
     *How:* after a quick, strong finale, slow down, bring back the theme the whole work began with, and end softly on it (as technique 1 does within a song cycle).
     *Where:* Cello Concerto, fourth movement (*Allegro*, then *Adagio*, then slower). [Fanning]
 
+### The Violin Sonata no. 5, op. 53
+
+Added 28 November 2026 for composer-blend's piece 84 (the tune made of the holes), from James Halverson Waldo's study of the sonata (its analysis read, to about its page 57). No score was read.
+
+27. **A theme in a free strophic form.** The first movement's theme comes four times, in what Fanning calls "a kind of free strophic" form.
+    *Works on:* form, melody.
+    *How:* bring one theme back four times, each a little altered (its accompaniment, its register, its end), instead of working it out.
+    *Where:* op. 53, first movement. [Waldo, quoting Fanning]
+28. **One note turns the tune modal.** The theme takes on a modal colour when E natural enters (bar 5, its fourth beat). Waldo hears it through two kinds of Jewish tune that Idelsohn names: in minor with a minor seventh, and in minor with the sixth now major, now minor; folk idioms used, he says, in a Bartókian way.
+    *Works on:* melody, harmony.
+    *How:* write the tune in minor; lower its seventh, and let its sixth change between major and minor from one phrase to the next.
+    *Where:* op. 53, first movement, from bar 5. [Waldo, quoting Idelsohn]
+29. **A chant's melisma recalled, with a Phrygian half step, and a folk chop under it.** In the second movement (bars 232 to 242) a line evokes the melismatic second phrase of the *Kol Nidre* chant; its minor second gives it a Phrygian colour; the string part echoes it in parallel fifths off the beat, "a folksy chop".
+    *Works on:* melody, colour, rhythm.
+    *How:* let a melody turn in long ornamented groups around one note, with a half step above its tonic; under or after it, open fifths struck off the beat.
+    *Where:* op. 53, second movement, bars 232 to 242. [Waldo]
+30. **Open strings for a ringing, folk-like sound.** He sometimes writes for open strings to make a ringing folk sound (the third movement, a scherzo, from its opening).
+    *Works on:* colour.
+    *How:* give the strings' open notes in a quick figure, so that they ring.
+    *Where:* op. 53, third movement, bars 1 to 4. [Waldo]
+
 ## Walks through whole works
 
 **Cello Concerto op. 43** (from the booklet, which gives the order and the tempo marks, not bars). I, *Adagio*: tense and ruminating, the cello alone near the end. II, *Moderato*, then *Lento*: the ghost of a habanera, with vehement klezmer passages between. III, *Allegro*: rushing; then the cadenza at the same tempo, very passionately, with slower and quicker stretches after it. IV, *Allegro*: a vigorous rondo; then *Adagio* and slower still, the opening theme of the whole work returning, and a quiet end. [Fanning]
@@ -167,6 +188,8 @@ None: no score of his is in score-reader's catalogue.
 
 - Everything: no score. The notes of the mode as he uses it are not given by the sources read (Claude believes it is a major scale with a lowered seventh; not sourced).
 - Two of the sources were read as abstracts only (the Gnesin and mus.academy articles).
+- The key of the Violin Sonata no. 5's first movement, which would say what its E natural is (technique 28): not given in the parts of Waldo's study read.
+- Which part carries the *Kol Nidre* line in the sonata's second movement and which echoes it (technique 29): the study's sentence names "the string part" for the echo, written for its own adaptation for cello.
 - That the reading of the sonata's second movement as a childhood memory is its author's own.
 - Which instruments carry the cello concerto's habanera and its klezmer passages: the booklet does not say (Claude believes a trumpet leads the klezmer; not sourced).
 - How the cello concerto came to be: the booklet says it was written in 1948 and waited nine years to be played; the note with the 2023 recording says it was reshaped in 1957 from a shorter work, each movement enlarged. The two were not reconciled.
@@ -181,5 +204,6 @@ None: no score of his is in score-reader's catalogue.
 - Oxford Song, "Schluss" (Children's Songs op. 13): https://oxfordsong.org/song/schluss
 - David Fanning, booklet note for the Cello Concerto and Symphony no. 20 (Chandos, 2012; the English note read) (Fanning): https://eclassical.textalk.se/shop/17115/art10/4856010-db425b-095115510728.pdf
 - Apple Music Classical, note on the recording by Edgar Moreau (2023), with the cellist's remarks (Moreau): https://classical.music.apple.com/us/album/1703833670
+- James Halverson Waldo, *Mieczysław Samuilovich Weinberg's Sonata for Violin and Piano No. 5, Op. 53: An Analysis and Adaptation for Cello and Piano* (University of Wisconsin), read to about its page 57 (Waldo): https://asset.library.wisc.edu/1711.dl/2EMEUNRQIVNLQ8S/R/file-8e73c.pdf
 - Gnesin Academy, on the Jewish Songs and the themes of war and childhood (abstract): https://uz.gnesin-academy.ru/m-weinbergs-jewish-songs-as-a-reflection-of-military-and-childrens-themes-in-the-composers-work/
 - mus.academy, "'Yiddish Songs' of Mieczysław Weinberg: Finding a Jewish Idiom" (abstract): https://mus.academy/en/articles/evreyskie-pesni-mechislava-vaynberga-poisk-natsionalnoy-idiomy

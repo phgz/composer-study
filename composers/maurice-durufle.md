@@ -2,7 +2,7 @@
 
 Begun by Claude on 22 November 2026, from the sources at the end, read that day. It grows each time he is used.
 
-**Scope so far.** One kind of piece: the works built on Gregorian chant (the Requiem op. 9, the *Quatre Motets* op. 10, the *Messe "Cum jubilo"* op. 11, the *Veni Creator* variations op. 4). **Scores:** none in score-reader's catalogue (all in copyright), so nothing below was checked against his notes. The open sources say what he does with chant in general and little about the inside of the Requiem's movements; the closest reading found is of the *Cum jubilo* mass.
+**Scope so far.** One kind of piece: the works built on Gregorian chant (the Requiem op. 9, the *Quatre Motets* op. 10, the *Messe "Cum jubilo"* op. 11, the *Veni Creator* variations op. 4); his own account of the Requiem's three distances from the chant added on 28 November 2026 for piece 84 (technique 18). **Scores:** none in score-reader's catalogue (all in copyright), so nothing below was checked against his notes. The open sources say what he does with chant in general and little about the inside of the Requiem's movements; the closest reading found is of the *Cum jubilo* mass.
 
 **Measured profile:** none: no work of his is in score-reader's catalogue.
 
@@ -93,6 +93,15 @@ Added 26 November 2026 for composer-blend piece 76. William McVicker's complete 
     *How:* let a tune previously sung broadly become the structural line inside quicker counterpoint; save a new continuation for the climax instead of only increasing volume.
     *Where:* op.4, final variation and coda. [McVicker]
 
+### Three distances from the chant: his own account of the Requiem
+
+Added 28 November 2026 for composer-blend's piece 84 (the tune made of the holes), from his programme note of 1980 as Peter Parfitt's note gives it, and the same words as All Classical quotes them from the *Choral Journal* (1987). No score was read.
+
+18. **The chant kept whole, or only felt, or left.** In his words, the Requiem is composed entirely on the Gregorian themes of the Mass for the Dead; sometimes the chant is kept whole, the orchestra coming in only to hold it up or to comment on it; sometimes he was only inspired by it; sometimes he moved away from it altogether.
+    *Works on:* melody, texture, form.
+    *How:* for one tune, choose a distance a section: keep it whole in one part with the others only sustaining it or answering between its phrases; or take only its turns and modes; or leave it.
+    *Where:* the Requiem op. 9, by his own account; he does not say which movement is which. [Parfitt; All Classical]
+
 ## Walks through whole works
 
 None yet.
@@ -123,10 +132,13 @@ Believed from memory, not found in a source read today:
 - that *In paradisum* ends on a chord that does not resolve;
 - that *Ubi caritas* keeps its chant in the altos and changes bar almost every bar.
 
+- which of the Requiem's movements keep the chant whole, which are only inspired by it, which leave it (technique 18): his note does not say.
+
 Not read: the fourth chapter of the Cardiff thesis (the *Veni Creator* variations bar by bar); James Frazier's book on him.
 
 ## Sources
 
+- Peter Parfitt, programme notes for the Aberdeen Bach Choir (2013), with Duruflé's programme note of 1980 (excerpted there), read 28 November 2026 (Parfitt): https://aberdeenbachchoir.com/April2013/ProgrammeNotes13.shtml
 - William McVicker, English programme note (1990), complete English text read 26 November 2026 on [Hyperion's op.4 page](https://www.hyperion-records.co.uk/dw.asp?dc=W42_317053). Added techniques 16–17 are from this analysis; no score bars were inspected for them.
 
 - John Len Wiles, on the *Messe "Cum jubilo"*, *The Choral Scholar*, Spring 2015: https://ncco-usa.org/publications/the-choral-scholar-american-choral-review/issues/14/articles/25/download
