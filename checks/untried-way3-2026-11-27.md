@@ -40,6 +40,7 @@
 - **The nearest found:** the hocket (on the pages: Monk 12), one line divided among voices; nothing musical in a search for the dining philosophers in music.
 - **Not found** in one search (the dining philosophers or deadlock as a rule for a piece).
 - **What could go wrong:** the rule's states may be heard only as rests and held notes; the jam has to build so that the held chord is an event, not a stall.
+- **Nearer than the hocket** (read on 27 November 2026, before H was planned; one more search, the page read): James Saunders's *reaching an acceptable and stable solution* (2018) "creates a situation in which players must balance the use of a shared resource in order to make a specified sequence of different sounds while helping others do the same"; with more players or fewer objects, "in some situations it might not be possible to complete" (the composer's page; its title from Hardin's "The Tragedy of the Commons"). Players sharing a resource, and a piece that can jam, are not new. What is left of H: the ring, each shared thing a pitch between two neighbours; waiting heard as a held note; the jam as a chord the composer chooses and the piece builds toward; and a rule from programming (one player taking its forks in the other order) that makes the ring move again.
 
 ## Claude's lean
 
@@ -51,8 +52,11 @@ Philip, 27 November 2026: "They're really all interesting! We can start with F, 
 
 Then, the same day, after piece 80's second take: "let's go back then to G and H"; to G planned as a blend of two colours drawn as for 80, one searching and one judging, its tune written first and heard alone: "That sounds good to me!"
 
+G became composer-blend's piece 82b, *The Way There, Heard Again*. Philip, after its first take: "Well, that was interesting. reaction: neutral, but I need to listen again." Then: "We can go to H, the deadlock."
+
 ## Sources
 
+- For H's nearer precedent (27 November 2026): James Saunders, *reaching an acceptable and stable solution* (2018), the composer's page (james-saunders.com), read.
 - For G's nearer precedents (27 November 2026), all from the search excerpts only: the Cleveland Orchestra's note on Beethoven's Ninth; Paul Brians's study materials (brians.wsu.edu); the Hollywood Bowl's note; WPR, "Symphonic striptease"; Nineteenth-Century Music Review, "Striptease as Ideology" (Cambridge); Ryan Ross, "Sibelian Formal Principles in the First Movement of Malcolm Arnold's Fifth Symphony", JRMA; Tom Johnson, "I want to find the music, not to compose it" (Éditions 75); the notes to *The Chord Catalogue* (Dram, Soundohm)
 
 - Wikipedia, "Tom Johnson (composer)"; Two-Eighteen Press's description of *Self-Similar Melodies* (sheetmusicplus.com)
