@@ -34,39 +34,14 @@ NotaGen joins them where the piece declares its notation (composer-blend's tools
             may start with a short lead-in, so compare by the music, not to the hundredth
   compare   python3 study/flag_piece.py compare <folder> 1:23 2:45 ...
             Philip's named moments against the flags: which fall within two seconds of one, and of which
-  page      python3 study/flag_piece.py page <folder> -o walk.html --take 3=take3.mp3 [--take 2=take2.mp3] [--flags-on 2]
-                [--render 2=take-2/x.render.json --render 3=take-3/x.render.json --changes 2:3] [--labels walk.json]
-                [--module notes.py] [--store walks/<piece>]
-            the walk page (study/walk_page.html filled in): the takes, the flagged places in time order (as FLAGS.md has
-            them), each heard from a few seconds before, with a tick, an "odd" toggle and a note; the listener's own points
-            at the playhead; with two takes' render records, the spots where their notes differ, each to be heard in either.
-            Published as a claude.ai artifact with its database (capability db), what the listener ticks and writes is kept
-            (under --store: <store>-take<id>/places, <store>-take<to>/changes, <store>/added) and Claude reads it back;
-            opened as a file, it plays and keeps nothing. The audio files are named as given, to be published beside it.
-            --labels: a JSON file of the piece's own words for the page (title, heading, intro, foot, and changes: [{t,
-            head, detail}] put in place of the generated description of the spot at that time). Philip, 25 November 2026:
-            "One thing we could improve for the walk UI is a checkbox next to each one that I can tick, plus the possibility
-            to add points on timestamp to flag something the models haven't found." For comparing versions at matched
-            loudness, renderer-engine's tools/listening_page.py does that, offline.
-            --score FOLDER: the piece's drawn score on the page (what `score` wrote; publish the folder beside the page): the
-            page being played, the bar tinted and a cursor at the playhead, the staves named in the margin, a ring at each
-            flagged place and each of the listener's points. A click on the score plays from that note; with "Click marks"
-            (or shift) it adds a point there, kept with its bar, beat and staff. --score-offset: seconds of the take before
-            the score's first bar. A folder with no scores and --module gives the page without flags. Philip, 27 November
-            2026: "since we can render the sheet scores for the music, it could help to add it on the UI page when a piece is
-            playing, that could help me pinpoint exactly what note or segment is odd, rather than relying on time frame."
-  score     python3 study/flag_piece.py score <notes.py> -o <folder> [--dpi 150] [--mscore PATH]
-            the piece's score drawn by MuseScore (as study/sheet.py does) from its declared notation, with where on each page
-            every bar, every moment (a place where a note or a rest begins) and every staff is, and the second each sounds at
-            by the piece's own clock: <folder>/page-NN.png and score.json, for `page --score`. MuseScore's own count of time
-            is used only inside a bar; a score with a repeat is refused.
-            Each place shows each model's own rank of its note (or onset), so one sees which model flagged it (Philip: "In
-            the UI, could we specify when it's which model exactly flagged a place."); and an odd place is marked either
-            wanted or a mistake (Philip: "it's interesting how it split in 2 oddness: one we want, originality, and plain
-            'mistake'."). --parts ID=<folder from `parts`>: that take's instruments, each to be heard alone
-  parts     python3 study/flag_piece.py parts <render.json> <notes module> -o <folder> [--gains <other take's folder>]
-            one take's instruments alone, from the render's own stems (Philip: "maybe we could isolate by instrument"):
-            mono mp3s and parts.json; needs ffmpeg
+  layer     python3 study/flag_piece.py layer <folder> --module <notes module> -o <listening folder>/flags.json [--top 20]
+            the flagged places as the walk page shows them (phgz/listening-page; the page moved there on 28 November 2026,
+            Philip: "I feel like the listening-UI should be a project on its own"): in time order, each with its time,
+            bar, kind, rank within its kind, part and pitch as the score names and spells them, passage, and each model's
+            own rank of its note or onset (Philip: "In the UI, could we specify when it's which model exactly flagged a
+            place."). Then name it in the listening folder (composer-blend's tools/listening.py --flags flags.json) and
+            build the page there. The page, the score drawn, each instrument alone and the spots changed between two
+            takes are listening-page's (its README)
   alone     python3 study/flag_piece.py alone <score as heard> <anticipation checkout> <folder>      (after prepare)
             each part by itself, for AMT: <folder>/flag_amt_alone_inputs.jsonl, one input a part, scored on the Mac as the
             piece is (flag_amt_alone_large.jsonl, flag_amt_alone_medium.jsonl). Philip, 25 November 2026: "if I listen to an
@@ -525,366 +500,19 @@ def speller(source):
     return f
 
 
-def short(name):
-    """a section's name as the timeline shows it: '03 concerto 1: the guitar alone, ...' -> 'Concerto 1'"""
-    s = re.sub(r'^\d+\s+', '', str(name)).split(':')[0].strip()
-    s = re.sub(r'^the\s+', '', s)
-    return s[:1].upper() + s[1:]
-
-
-def sections(render=None, source=None, dur=None):
-    """[[start, end, name]]: the render's sections (its render.json), else the module's SECS, the last held to the end"""
-    out = []
-    if render:
-        out = [[float(s['start']), float(s['end']), short(s['name'])] for s in json.load(open(render)).get('sections', [])]
-    elif source:
-        try:
-            X = exporter(source); mod = X.load(source)
-            out = [[float(x.start), float(x.end), short(x.name)] for x in getattr(mod, 'SECS', [])]
-        except (SystemExit, Exception): out = []
-    if out and dur: out[-1][1] = max(out[-1][1], dur)
-    return out
-
-
-def score_notes(render):
-    """a render's notes as its record keeps them: part -> [(onset, length, midi, velocity)]"""
-    d = json.load(open(render))
-    return {p['name']: [tuple(float(x) for x in n[:4]) for n in p['notes']] for p in d['score']['data']['parts']}
-
-
-def changed(before, after, gap=2.5):
-    """where two takes' notes differ (part -> [(onset, length, midi, velocity)] each): the notes only one has, paired where they
-    can be (a pitch changed at the same onset; the same pitch moved by less than a second; the same note held differently or at
-    another level), gathered into spots, a change less than `gap` seconds after the one before it being in the same spot.
-    Each spot: [(time, part, kind, the note before or None, the note after or None)], kind pitch, time, length, added, removed"""
-    events = []
-    for part in sorted(set(before) | set(after)):
-        a, b = collections.Counter(before.get(part, [])), collections.Counter(after.get(part, []))
-        was, now = sorted((a - b).elements()), sorted((b - a).elements())
-        def pair(fits, kind):
-            for x in list(was):
-                cand = [y for y in now if fits(x, y)]
-                if cand:
-                    y = min(cand, key=lambda y: (abs(y[0] - x[0]), abs(y[2] - x[2])))
-                    was.remove(x); now.remove(y); events.append((min(x[0], y[0]), part, kind, x, y))
-        pair(lambda x, y: abs(x[0] - y[0]) < 1e-3 and x[2] != y[2], 'pitch')
-        pair(lambda x, y: x[2] == y[2] and 1e-3 <= abs(x[0] - y[0]) < 1.0, 'time')
-        pair(lambda x, y: x[2] == y[2] and abs(x[0] - y[0]) < 1e-3, 'length')
-        events += [(x[0], part, 'removed', x, None) for x in was] + [(y[0], part, 'added', None, y) for y in now]
-    events.sort(key=lambda e: (e[0], e[1]))
-    spots = []
-    for e in events:
-        if spots and e[0] - spots[-1][-1][0] < gap: spots[-1].append(e)
-        else: spots.append([e])
-    return spots
-
-
-def describe(spot, name=lambda p: p, spell=None):
-    """what a spot changed, part by part: 'Guitar: G♯4 → F♯4 (3 notes); Piano, left hand: G♯4 → F♯4'"""
-    spell = spell or (lambda t, m: NAMES[int(m) % 12] + str(int(m) // 12 - 1))
-    parts = {}
-    for t, part, kind, x, y in spot: parts.setdefault(part, []).append((kind, x, y))
-    out = []
-    for part, evs in parts.items():
-        bits = []
-        moved = collections.Counter((spell(x[0], x[2]), spell(y[0], y[2])) for k, x, y in evs if k == 'pitch')
-        bits += [f'{a} → {b}' + (f' ({n} notes)' if n > 1 else '') for (a, b), n in moved.items()]
-        shifts = sorted((y[0] - x[0], x[0], spell(x[0], x[2])) for k, x, y in evs if k == 'time')
-        if shifts:
-            lo, hi = shifts[0][0], shifts[-1][0]
-            names = ', '.join(dict.fromkeys(p for _, _, p in sorted(shifts, key=lambda s: s[1])))
-            amount = f'{abs(lo):.2f} s' if abs(hi - lo) < .01 else f'{min(abs(lo), abs(hi)):.2f}–{max(abs(lo), abs(hi)):.2f} s'
-            bits.append(f"{names} {amount} {'later' if lo > 0 else 'earlier' if hi < 0 else 'moved'}")
-        held = [x for k, x, y in evs if k == 'length']
-        if held: bits.append(f"{', '.join(dict.fromkeys(spell(x[0], x[2]) for x in held))} held or played otherwise")
-        gone = [x for k, x, y in evs if k == 'removed']; new = [y for k, x, y in evs if k == 'added']
-        if gone: bits.append('drops ' + ', '.join(dict.fromkeys(spell(x[0], x[2]) for x in gone)))
-        if new: bits.append('adds ' + ', '.join(dict.fromkeys(spell(y[0], y[2]) for y in new)))
-        out.append(f"{name(part)}: {', '.join(bits)}")
-    return '; '.join(out)
-
-
-def duration(path):
-    try:
-        r = subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', path],
-                           capture_output=True, text=True, timeout=30)
-        return float(r.stdout.strip())
-    except Exception: return None
-
-
-def positions(text):
-    """MuseScore's positions of a score's bars (.mpos) or of its moments (.spos; a moment is every place where a note or a rest
-    begins): ({element: (x, y, width, height, page)}, [(element, milliseconds at the score's own tempo)]). The lengths are in
-    3600ths of an inch on the page."""
-    el = {int(i): (float(x), float(y), float(w), float(h), int(pg)) for i, x, y, w, h, pg in
-          re.findall(r'<element id="(\d+)" x="([-\d.e+]+)" y="([-\d.e+]+)" sx="([-\d.e+]+)" sy="([-\d.e+]+)" page="(\d+)"', text)}
-    ev = [(int(i), float(ms)) for i, ms in re.findall(r'<event elid="(\d+)" position="([-\d.e+]+)"', text)]
-    return el, ev
-
-
-def staff_lines(svg):
-    """the staves of one page MuseScore drew as SVG: [(top, bottom)] from the top of the page down, in the positions' units (the
-    SVG's are a tenth of them). Lines closer than a staff's own spacing and a half are one staff."""
-    ys = sorted({round(10 * float(pts.split()[0].split(',')[1]), 1) for pts in re.findall(r'<polyline class="StaffLines"[^>]*points="([^"]+)"', svg)})
-    if not ys: return []
-    gaps = [b - a for a, b in zip(ys, ys[1:]) if b - a > 1]
-    space = min(gaps) if gaps else 0
-    out = [[ys[0], ys[0]]]
-    for y in ys[1:]:
-        if space and y - out[-1][1] <= 1.6 * space: out[-1][1] = y
-        else: out.append([y, y])
-    return [tuple(x) for x in out]
-
-
-def score_map(bars, bar_ms, moments, moment_ms, bar_times, sizes, staves=None, names=None):
-    """What the page needs to follow a drawn score: its systems (a line of music across the page), its bars and its moments, each
-    with the second it sounds at. Positions are fractions of the page's width and height.
-
-    bars, moments: positions() of the .mpos and the .spos; bar_ms, moment_ms: their events. bar_times: [(seconds at the bar's
-    start, seconds at its end, the bar's number, its beats)] in the bars' order, from the piece's own clock, so a moment's second
-    is its bar's, plus the share of the bar that MuseScore's own count puts before it. sizes: {page: (width, height)} in the
-    positions' units. staves: {page: staff_lines()}; names: the staves' names from the top, used where a system has as many."""
-    if len(bars) != len(bar_times): raise SystemExit(f'the drawn score has {len(bars)} bars, the piece {len(bar_times)}')
-    first = {}
-    for i, ms in bar_ms: first.setdefault(i, ms)
-    order = sorted(first, key=lambda i: first[i])
-    if order != sorted(order): raise SystemExit('the drawn score plays its bars out of order (a repeat): not followed')
-    systems, sys_of, out_bars = [], {}, []
-    for k, i in enumerate(order):
-        x, y, w, h, pg = bars[i]; W, H = sizes[pg]; key = (pg, round(y), round(h))
-        if key not in sys_of:
-            sys_of[key] = len(systems)
-            here = [st for st in (staves or {}).get(pg, []) if y - 2 <= st[0] and st[1] <= y + h + 2]
-            systems.append(dict(p=pg, y=y / H, h=h / H, x0=x / W, x1=(x + w) / W,
-                                staves=[[round(a / H, 5), round(b / H, 5)] for a, b in here],
-                                names=list(names) if names and len(names) == len(here) else None))
-        sy = systems[sys_of[key]]; sy['x0'] = min(sy['x0'], x / W); sy['x1'] = max(sy['x1'], (x + w) / W)
-        t0, t1, n, beats = bar_times[k]
-        out_bars.append(dict(n=n, s=sys_of[key], x=round(x / W, 5), w=round(w / W, 5), t=round(t0, 3), e=round(t1, 3), beats=beats))
-    starts = [first[i] for i in order]
-    length = [b - a for a, b in zip(starts, starts[1:])]
-    per_second = [(l / (bt[1] - bt[0])) for l, bt in zip(length, bar_times) if bt[1] > bt[0] and l > 0]
-    length.append((bar_times[-1][1] - bar_times[-1][0]) * (per_second[-1] if per_second else 1000.0))
-    seen, out = set(), []
-    for i, ms in sorted(moment_ms, key=lambda e: e[1]):
-        if i in seen or i not in moments: continue
-        seen.add(i)
-        k = max((j for j, s0 in enumerate(starts) if s0 <= ms + 1e-6), default=0)
-        t0, t1 = bar_times[k][:2]; share = min(max((ms - starts[k]) / length[k], 0.0), 1.0) if length[k] > 0 else 0.0
-        x, y, w, h, pg = moments[i]; W, H = sizes[pg]
-        out.append([round(t0 + share * (t1 - t0), 3), out_bars[k]['s'], round((x + w / 2) / W, 5)])
-    for sy in systems:
-        for f in ('y', 'h', 'x0', 'x1'): sy[f] = round(sy[f], 5)
-    return dict(systems=systems, bars=out_bars, moments=out)
-
-
-def bar_clock(X, mod):
-    """the piece's bars as it declares its notation: [(seconds at the start, at the end, the bar's number, its beats)], and the
-    staves' names from the top"""
-    s = X.build(mod); part = s.parts[0]; seconds = notation_clock(mod)
-    ms = list(part.getElementsByClass('Measure')); out, ts = [], None
-    for k, m in enumerate(ms):
-        ts = m.timeSignature or ts
-        a = float(m.getOffsetBySite(part))
-        b = float(ms[k + 1].getOffsetBySite(part)) if k + 1 < len(ms) else a + float(m.barDuration.quarterLength)
-        out.append((seconds(a), seconds(b), m.number, int(ts.beatCount) if ts is not None else max(1, round(b - a))))
-    return s, out
-
-
-def score(a):
-    """draw the piece's score and say where on it every bar and every moment is, for the page: FOLDER/score.json and the pages"""
-    from study import sheet as S
-    X = exporter(a.module); mod = X.load(a.module)
-    os.makedirs(a.o, exist_ok=True)
-    s, bars = bar_clock(X, mod)
-    name = display(a.module); names = [name(p.id) for p in s.parts]
-    work = os.path.join(a.o, 'work'); os.makedirs(work, exist_ok=True)
-    xml = os.path.join(work, 'score.musicxml'); s.write('musicxml', fp=xml)
-    exe = S.find(a.mscore)
-    if not exe: raise SystemExit('MuseScore not found: install it, or name it with --mscore')
-    env = dict(os.environ)
-    if sys.platform.startswith('linux') and not env.get('DISPLAY') and not env.get('WAYLAND_DISPLAY'): env.setdefault('QT_QPA_PLATFORM', 'offscreen')
-    for old in os.listdir(a.o):
-        if re.fullmatch(r'page-\d+\.png', old): os.remove(os.path.join(a.o, old))
-    made = {}
-    for ext in ('mpos', 'spos', 'svg', 'png'):
-        target = os.path.join(a.o if ext == 'png' else work, f'page.{ext}')
-        r = subprocess.run([exe] + (['-r', str(a.dpi)] if ext == 'png' else []) + ['-o', target, xml], env=env, capture_output=True, text=True, timeout=600)
-        made[ext] = target
-        if r.returncode: raise SystemExit(f'MuseScore could not write the {ext} (status {r.returncode}): {(r.stderr or r.stdout).strip()[-300:]}')
-    pngs = S.pages(os.path.join(a.o, 'page'))
-    if not pngs and os.path.exists(made['png']): pngs = [made['png']]
-    import struct
-    def size(path):
-        with open(path, 'rb') as f: head = f.read(24)
-        return struct.unpack('>II', head[16:24])
-    sizes, pages = {}, []
-    for k, f in enumerate(pngs):
-        w, h = size(f); sizes[k] = (w * 3600 / a.dpi, h * 3600 / a.dpi); pages.append(dict(src=os.path.basename(f), w=w, h=h))
-    svgs = sorted((f for f in os.listdir(work) if re.fullmatch(r'page(-\d+)?\.svg', f)), key=lambda f: int(re.search(r'(\d+)', f).group(1)) if re.search(r'\d', f) else 0)
-    staves = {k: staff_lines(open(os.path.join(work, f), encoding='utf-8').read()) for k, f in enumerate(svgs)}
-    el, ev = positions(open(made['mpos'], encoding='utf-8').read()); mo, mv = positions(open(made['spos'], encoding='utf-8').read())
-    data = score_map(el, ev, mo, mv, bars, sizes, staves, names)
-    data.update(pages=pages, dpi=a.dpi, folder=os.path.basename(os.path.normpath(a.o)))
-    json.dump(data, open(os.path.join(a.o, 'score.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
-    for f in os.listdir(work): os.remove(os.path.join(work, f))
-    os.rmdir(work)
-    named = sum(1 for x in data['systems'] if x['names'])
-    print(f"{a.o}: {len(pages)} pages, {len(data['systems'])} systems ({named} with their staves named), {len(data['bars'])} bars, "
-          f"{len(data['moments'])} moments; from {data['bars'][0]['t']:.1f} s to {data['bars'][-1]['e']:.1f} s")
-
-
-def page(a):
-    takes = [dict(zip(('id', 'src'), x.split('=', 1))) for x in a.take]
-    for k in takes: k['label'] = f"Take {k['id']}"
-    renders = dict(x.split('=', 1) for x in a.render)
-    labels = json.load(open(a.labels)) if a.labels else {}
-    scored = os.path.exists(os.path.join(a.folder, 'flag_notes.json')) and any(
-        os.path.exists(os.path.join(a.folder, f'flag_amt_{e}.jsonl')) for e in EARS)
-    if scored or not a.module: meta, ears, rank, notes, rows = listing(a.folder, a.top, a.module)
-    else: meta, ears, rank, notes, rows = dict(source=a.module), [], [], [], []   # no model has scored the piece: no flags
-    src = a.module or meta['source']
-    name, spell = display(src), speller(src)
-    first = takes[0]['id']
-    dur = duration(takes[0]['src'])
-    if dur is None and renders.get(first): dur = json.load(open(renders[first]))['score']['data']['end_seconds'] + 3
-    if dur is None: dur = max((r['t'] for r in rows), default=0) + 10
-    secs = sections(renders.get(first), src, dur)
-    flags_on = a.flags_on or first
-    store = a.store or f'walks/{os.path.basename(os.path.dirname(os.path.abspath(src)))}'
-    keys = dict(places=f'{store}-take{flags_on}/places', points=f'{store}/added')
-    out_rows = [dict(t=round(r['t'], 3), bar=r['bar'], kind=r['kind'], rank=r['rank'], part=name(r['part']),
-                     pitch=spell(r['t'], notes[r['i']][2]), passage=r['passage'], ears=r['ears']) for r in rows]
-    for k in takes:                                                     # a take's instruments, each alone (`parts`)
-        d = dict(x.split('=', 1) for x in a.parts).get(k['id'])
-        if d:
-            listed = json.load(open(os.path.join(d, 'parts.json')))['parts']
-            k['parts'] = {g: f"{os.path.basename(os.path.normpath(d))}/{f}" for g, f in listed}
-            k['dir'] = d
-    data = dict(title=labels.get('title', f'{store.split("/")[-1]} Flag Walk'), heading=labels.get('heading'),
-                intro=labels.get('intro', 'Click a place to hear it from a few seconds before. Tick it when you have heard it, '
-                                 'mark it odd if it sounds wrong, and add a note if you like. Add a point here (or M) marks '
-                                 'something the models did not flag, at the playhead. What you tick and write is kept.'),
-                foot=labels.get('foot', f"{len(rows)} places from {', '.join(ears)}, ranked within each kind, 1 the most surprising; "
-                                'nothing in the first two seconds.'),
-                placesTitle=labels.get('placesTitle'), changesTitle=labels.get('changesTitle'),
-                takes=[dict(id=k['id'], label=k['label'], src=os.path.basename(k['src']), parts=k.get('parts', {})) for k in takes],
-                parts=list(dict.fromkeys(g for k in takes for g in k.get('parts', {}))),
-                ears=ears, earNames=EAR_NAMES, top=a.top,
-                duration=round(dur, 3), rows=out_rows, sections=secs, keys=keys, changes=[])
-    if a.score:                                                         # the drawn score (`score`), followed as the take plays
-        sc = json.load(open(os.path.join(a.score, 'score.json')))
-        for pg in sc['pages']: pg['src'] = f"{sc['folder']}/{pg['src']}"
-        sc['offset'] = a.score_offset
-        data['score'] = sc
-        if not labels.get('intro'):
-            data['intro'] += (' The score follows the playing: click it to play from that note, or switch to Click marks and '
-                              'click a note to add a point there, with its bar, beat and staff. Space plays and pauses.')
-    if not rows:                                                        # no model has scored the piece
-        if not labels.get('title'): data['title'] = f'{store.split("/")[-1]} Listening Page'
-        if not labels.get('intro'):
-            data['intro'] = ('Add a point here (or M) marks the playhead where something sounds off; a note says what. '
-                             'What you write is kept.' + (' The score follows the playing: click it to play from that note, or '
-                             'switch to Click marks and click a note to add a point there, with its bar, beat and staff. '
-                             'Space plays and pauses.' if a.score else ''))
-        if not labels.get('foot'): data['foot'] = 'No model has scored this piece: the page has no flagged places.'
-    if a.changes:
-        frm, to = a.changes.split(':')
-        if frm not in renders or to not in renders: raise SystemExit('--changes needs --render for both takes')
-        spots = changed(score_notes(renders[frm]), score_notes(renders[to]))
-        bars = places(src, [x for s in spots for x in (s[0][0], max((e[4] or e[3])[0] for e in s))])
-        for n, s in enumerate(spots):
-            t0 = s[0][0]; t1 = max(max(n_[0] + n_[1] for n_ in (e[3], e[4]) if n_) for e in s)
-            b0, b1 = bars[2 * n], bars[2 * n + 1]
-            sounding = [n_ for e in s for n_ in (e[3], e[4]) if n_]     # a flagged place where a changed note sounds
-            here = [k + 1 for k, r in enumerate(rows) if any(n_[0] - .05 <= r['t'] < n_[0] + n_[1] - .02 for n_ in sounding)]
-            near = [k + 1 for k, r in enumerate(rows) if k + 1 not in here and r['bar'] is not None and b0 is not None
-                    and b0 <= r['bar'] <= b1]
-            sec = next((x[2] for x in secs if x[0] <= t0 < x[1]), '')
-            c = dict(id=f'c{n + 1}', t=round(t0, 3), bar=(f'bar {b0}' if b0 == b1 else f'bars {b0}–{b1}') if b0 is not None else '',
-                     places=here, near=near, head=' · '.join([f"Place {', '.join(map(str, here))}"] * bool(here) + [sec] * bool(sec)),
-                     detail=describe(s, name, spell))
-            for lab in labels.get('changes', []):
-                if abs(lab['t'] - t0) < 1.0: c.update({k: lab[k] for k in ('head', 'detail') if k in lab})
-            data['changes'].append(c)
-        tk = {k['id']: k for k in takes}
-        data['changesFrom'] = dict(id=frm, label=tk[frm]['label'] if frm in tk else f'Take {frm}')
-        data['changesTo'] = dict(id=to, label=tk[to]['label'] if to in tk else f'Take {to}')
-        keys['changes'] = f'{store}-take{to}/changes'
-    tpl = open(os.path.join(HERE, 'walk_page.html')).read()
-    esc = lambda s: s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-    html = tpl.replace('__TITLE__', esc(data['title'])).replace('__DATA__', json.dumps(data, ensure_ascii=False).replace('<', '\\u003c'))
-    open(a.o, 'w').write(html)
-    print(f"{a.o}: {len(rows)} places, {len(data['changes'])} changed spots, takes {', '.join(k['id'] for k in takes)}; "
-          f"store {store}; publish beside it: {', '.join(os.path.basename(k['src']) for k in takes)}"
-          + ''.join(f"; {os.path.basename(os.path.normpath(k['dir']))}/ ({len(k['parts'])} instruments)" for k in takes if k.get('dir'))
-          + (f"; {data['score']['folder']}/ ({len(data['score']['pages'])} pages of score)" if a.score else ''))
-
-
-def parts(a):
-    """one take's instruments, each alone: the render's own stems (its render.json's mix_stem outputs, before the master), one
-    file per instrument as the score names it (a keyboard's staves together, the parts written on one staff together, a part's
-    extra desks with it), mixed to mono,
-    raised to one level (the loudest tenth of a second at -6 dBFS; --gains reuses another take's, so the same instrument in two
-    takes stays at one level), written as 64 kbps mp3 by ffmpeg; <dir>/parts.json lists them in the score's order with their
-    gains. A silent stem is left out"""
-    import numpy as np, struct
-    d = json.load(open(a.render)); here = os.path.dirname(os.path.abspath(a.render))
-    stems = {k.split(':', 1)[1]: v['path'] for k, v in d['outputs'].items() if k.startswith('mix_stem:')}
-    local = lambda p: p if os.path.exists(p) else os.path.join(here, *p.split('/')[-2:])   # rendered on another machine
-    try:                                                                # the module alone (no music21 needed): its EXPORT
-        import importlib.util
-        spec = importlib.util.spec_from_file_location('piece_for_parts', a.module); mod = importlib.util.module_from_spec(spec)
-        sys.path.insert(0, os.path.dirname(os.path.abspath(a.module))); spec.loader.exec_module(mod); E = getattr(mod, 'EXPORT', {})
-    except Exception: E = {}
-    names = E.get('names', {}); order = E.get('order', []); join = E.get('join', {})
-    def staff(p):                                                       # the staff a part is written on (EXPORT's join), else itself
-        q = p if p in names or p in join or p in order else p.rstrip('xp')
-        return join.get(q, q)
-    group = lambda p: names.get(p) or names.get(staff(p)) or p          # parts written on one staff, and a keyboard's staves, together
-    seq = sorted(stems, key=lambda p: (order.index(staff(p)) if staff(p) in order else 99, p))
-    groups = {}
-    for p in seq: groups.setdefault(group(p), []).append(local(stems[p]))
-    old = json.load(open(os.path.join(a.gains, 'parts.json')))['gains'] if a.gains else {}
-    os.makedirs(a.o, exist_ok=True)
-    listed, gains = [], {}
-    for g, paths in groups.items():
-        x = None
-        for path in paths:
-            w, sr = read_wav(path); m = np.asarray(w, dtype=np.float64).mean(axis=1)
-            x = m if x is None else x[:len(m)] + m[:len(x)]
-        peak = float(np.abs(x).max()) if len(x) else 0.0
-        if peak < 1e-5: continue
-        win = int(sr * .1); loud = np.sqrt(np.mean(x[:len(x) // win * win].reshape(-1, win) ** 2, axis=1)).max()
-        gain = old.get(g, 10 ** (-6 / 20) / max(loud, 1e-9))
-        gain = min(gain, .98 / peak)                                    # never clipped
-        gains[g] = gain
-        pcm = (np.clip(x * gain, -1, 1) * 32767).astype('<i2').tobytes()
-        f = re.sub(r'[^A-Za-z0-9]+', '_', g).strip('_') + '.mp3'
-        r = subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 's16le', '-ar', str(sr), '-ac', '1', '-i', 'pipe:0',
-                            '-b:a', '64k', os.path.join(a.o, f)], input=pcm)
-        if r.returncode: raise SystemExit(f'ffmpeg failed on {g}')
-        listed.append([g, f])
-    json.dump(dict(render=os.path.abspath(a.render), parts=listed, gains=gains), open(os.path.join(a.o, 'parts.json'), 'w'), indent=1)
-    print(f"{a.o}: {len(listed)} instruments ({', '.join(g for g, _ in listed)})")
-
-
-def read_wav(path):
-    """a WAV's frames (frames x channels, float or int as written) and its rate, mapped from the file, not read into memory"""
-    import numpy as np, struct
-    with open(path, 'rb') as f:
-        f.read(12)
-        while True:
-            cid = f.read(4); size = struct.unpack('<I', f.read(4))[0]
-            if cid == b'fmt ': fmt = f.read(size)
-            elif cid == b'data': at = f.tell(); break
-            else: f.seek(size + (size & 1), 1)
-    tag, ch, sr = struct.unpack('<HHI', fmt[:8]); bits = struct.unpack('<H', fmt[14:16])[0]
-    if tag == 0xFFFE: tag = struct.unpack('<H', fmt[24:26])[0]
-    dt = {(3, 32): np.float32, (3, 64): np.float64, (1, 16): np.int16, (1, 32): np.int32}[(tag, bits)]
-    x = np.memmap(path, dtype=dt, mode='r', offset=at)
-    x = x[:len(x) // ch * ch].reshape(-1, ch)
-    return (x if tag == 3 else x / float(2 ** (bits - 1))), sr
+def layer(a):
+    """the flagged places as listening-page's walk page shows them: flags.json (its README, "A listening folder")"""
+    meta, ears, rank, notes, rows = listing(a.folder, a.top, a.module)
+    name, spell = display(a.module), speller(a.module)
+    out = [dict(t=round(r['t'], 3), bar=r['bar'], kind=r['kind'], rank=r['rank'], part=name(r['part']),
+                pitch=spell(r['t'], notes[r['i']][2]), passage=r['passage'], ears=r['ears']) for r in rows]
+    foot = (f"{len(rows)} places from {', '.join(ears)}, ranked within each kind, 1 the most surprising; "
+            'nothing in the first two seconds.')
+    with open(a.o, 'w', encoding='utf-8') as f:
+        json.dump(dict(schema=1, source=os.path.abspath(a.module), ears=ears, earNames=EAR_NAMES, top=a.top, foot=foot,
+                       rows=out), f, ensure_ascii=False, indent=1)
+    print(f"{a.o}: {len(out)} places ({sum(r['kind'] == 'note' for r in out)} notes, {sum(r['kind'] == 'rhythm' for r in out)} "
+          f"onsets) from {', '.join(EAR_NAMES.get(e, e) for e in ears)}")
 
 
 def compare(a):
@@ -1005,23 +633,13 @@ def main():
     x = sub.add_parser('notagen'); x.add_argument('module'); x.add_argument('notagen'); x.add_argument('folder')
     x = sub.add_parser('report'); x.add_argument('folder'); x.add_argument('--top', type=int, default=20)
     x = sub.add_parser('compare'); x.add_argument('folder'); x.add_argument('moments', nargs='+'); x.add_argument('--top', type=int, default=20)
-    x = sub.add_parser('page'); x.add_argument('folder'); x.add_argument('-o', required=True)
-    x.add_argument('--take', action='append', required=True, help='ID=audio file; the first is the one the page opens on')
-    x.add_argument('--render', action='append', default=[], help="ID=a take's render.json")
-    x.add_argument('--changes', help='FROM:TO, two take IDs with --render'); x.add_argument('--flags-on', dest='flags_on')
-    x.add_argument('--labels'); x.add_argument('--module'); x.add_argument('--store'); x.add_argument('--top', type=int, default=20)
-    x.add_argument('--parts', action='append', default=[], help="ID=a folder `parts` wrote: the take's instruments alone")
-    x.add_argument('--score', help='a folder `score` wrote: the drawn score, followed as the take plays')
-    x.add_argument('--score-offset', type=float, default=0.0, help="seconds of the take before the score's first bar")
-    x = sub.add_parser('score'); x.add_argument('module'); x.add_argument('-o', required=True)
-    x.add_argument('--dpi', type=int, default=150); x.add_argument('--mscore')
     x = sub.add_parser('flat'); x.add_argument('pieces', nargs='+', help='LABEL=a scored flags folder')
     x.add_argument('--scale-from', required=True, help='a scored flags folder whose scale is held fixed for every piece')
     x.add_argument('--bar', type=float, default=3.0); x.add_argument('--gap', type=float, default=20.0)
     x.add_argument('--called-flat', dest='called_flat'); x.add_argument('--liked')
-    x = sub.add_parser('parts'); x.add_argument('render'); x.add_argument('module'); x.add_argument('-o', required=True)
-    x.add_argument('--gains', help='a folder `parts` wrote for another take: the same level for each instrument')
-    a = ap.parse_args(); dict(prepare=prepare, over=over, alone=alone, together=together, notagen=notagen, report=report, compare=compare, page=page, parts=parts, flat=flat, score=score)[a.cmd](a)
+    x = sub.add_parser('layer'); x.add_argument('folder'); x.add_argument('--module', required=True); x.add_argument('-o', required=True)
+    x.add_argument('--top', type=int, default=20)
+    a = ap.parse_args(); dict(prepare=prepare, over=over, alone=alone, together=together, notagen=notagen, report=report, compare=compare, layer=layer, flat=flat)[a.cmd](a)
 
 
 if __name__ == '__main__':
